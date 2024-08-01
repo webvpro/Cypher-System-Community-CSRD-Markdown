@@ -1,10 +1,10 @@
 # Cypher System Community CSRD in Markdown
 
-The Cypher System Reference Document in Markdown and [Obsidian](https://obsidian.md/) Ready.
+The Cypher System Community CSRD in Markdown and [Obsidian](https://obsidian.md/) Ready.
 
-This repository is also home to homebrew content created for the Cypher system.
+## Acknowledgement 
 
-## Recommended Plugins
+If it wasn't for the [[LICENSE|CSOL]] and the work of this other CSRD project [[https://github.com/Obsidian-TTRPG-Community/Cypher-SRD-Markdown|Cypher SRD in Markdown]], this project would not be here. 
 
-- [Dice Roller](https://github.com/javalent/dice-roller)
-	- Allows the inline rolling of dice within the markdown notes. 
+![[LICENSE]]
+
