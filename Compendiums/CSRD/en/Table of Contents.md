@@ -1,3 +1,3 @@
-##License
-[[LICENSE]]
+## License
+[[CSOL]]
  
