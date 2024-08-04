@@ -3,7 +3,7 @@ aliases:
   - Artifact Tinkerer
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

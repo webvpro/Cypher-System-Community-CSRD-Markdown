@@ -2,7 +2,7 @@
 aliases:
   - Defend the Innocent
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Speed

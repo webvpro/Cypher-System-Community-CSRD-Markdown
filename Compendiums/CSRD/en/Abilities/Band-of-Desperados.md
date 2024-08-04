@@ -2,8 +2,8 @@
 aliases:
   - Band of Desperados
 tags:
-  - Cypher/Abilities/B
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

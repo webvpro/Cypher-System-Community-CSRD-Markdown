@@ -3,7 +3,7 @@ aliases:
   - Damn the Guilty
 points: 3 Intellect
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 ---

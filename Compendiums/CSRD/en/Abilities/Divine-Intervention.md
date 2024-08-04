@@ -2,7 +2,7 @@
 aliases:
   - Divine Intervention
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Intellect (or 2 Intellect + 4 XP)

@@ -2,7 +2,7 @@
 aliases:
   - Find an Opening
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

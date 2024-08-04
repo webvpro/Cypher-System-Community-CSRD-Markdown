@@ -2,7 +2,7 @@
 aliases:
   - Drain Charge
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 ---

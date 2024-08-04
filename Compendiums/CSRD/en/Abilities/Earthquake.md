@@ -2,7 +2,7 @@
 aliases:
   - Earthquake
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

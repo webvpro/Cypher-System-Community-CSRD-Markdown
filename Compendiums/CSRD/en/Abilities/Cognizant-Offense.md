@@ -2,8 +2,6 @@
 aliases:
   - Cognizant Offense
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Cognizant Offense

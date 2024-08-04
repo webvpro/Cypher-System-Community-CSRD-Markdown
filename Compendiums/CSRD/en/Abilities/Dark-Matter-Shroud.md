@@ -2,7 +2,7 @@
 aliases:
   - Dark Matter Shroud
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 4 Intellect

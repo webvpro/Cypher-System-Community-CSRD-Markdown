@@ -2,7 +2,7 @@
 aliases:
   - Bolts of Power
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

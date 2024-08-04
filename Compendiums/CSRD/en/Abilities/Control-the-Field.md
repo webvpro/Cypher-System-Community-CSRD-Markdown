@@ -2,7 +2,7 @@
 aliases:
   - Control the Field
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

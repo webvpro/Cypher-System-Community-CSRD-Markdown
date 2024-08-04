@@ -2,8 +2,8 @@
 aliases:
   - Electrical Flight
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 points: 5 Intellect

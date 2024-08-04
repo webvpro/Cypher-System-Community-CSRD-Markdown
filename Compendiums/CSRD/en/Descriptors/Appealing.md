@@ -1,6 +1,9 @@
 ---
-aliases: [Appealing, Appealing (Descriptor)]
-tags: [Cypher/Descriptors]
+aliases:
+  - Appealing
+  - Appealing (Descriptor)
+tags:
+  - descriptors
 ---
 
 # Appealing

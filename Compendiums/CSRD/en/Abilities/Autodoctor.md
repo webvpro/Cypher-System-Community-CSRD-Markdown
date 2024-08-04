@@ -3,7 +3,7 @@ aliases:
   - Autodoctor
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

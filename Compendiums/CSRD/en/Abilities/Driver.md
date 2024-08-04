@@ -2,8 +2,8 @@
 aliases:
   - Driver
 tags:
-  - Cypher/Abilities/D
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type: Enabler
 ---
 

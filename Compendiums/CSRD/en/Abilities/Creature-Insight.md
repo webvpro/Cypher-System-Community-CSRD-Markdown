@@ -2,7 +2,7 @@
 aliases:
   - Creature Insight
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

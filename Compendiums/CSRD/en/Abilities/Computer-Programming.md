@@ -2,8 +2,8 @@
 aliases:
   - Computer Programming
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 ---
 
 # Computer Programming

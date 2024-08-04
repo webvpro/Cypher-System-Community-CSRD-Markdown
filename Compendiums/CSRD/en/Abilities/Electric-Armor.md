@@ -2,8 +2,8 @@
 aliases:
   - Electric Armor
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 cost: 4 Intellect

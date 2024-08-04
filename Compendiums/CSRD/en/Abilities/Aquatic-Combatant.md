@@ -3,7 +3,7 @@ aliases:
   - Aquatic Combatant
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type:
   - Enabler
 ---

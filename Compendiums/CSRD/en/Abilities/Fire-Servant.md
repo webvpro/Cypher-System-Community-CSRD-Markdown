@@ -2,7 +2,7 @@
 aliases:
   - Fire Servant
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action to create

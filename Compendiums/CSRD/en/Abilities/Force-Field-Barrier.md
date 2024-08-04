@@ -2,7 +2,7 @@
 aliases:
   - Force Field Barrier
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

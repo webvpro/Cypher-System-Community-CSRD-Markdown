@@ -2,8 +2,8 @@
 aliases:
   - Fellow Explorer
 tags:
-  - Cypher/Abilities/F
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Blend In
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

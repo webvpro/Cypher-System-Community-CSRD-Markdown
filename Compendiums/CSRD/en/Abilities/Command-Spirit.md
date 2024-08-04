@@ -2,8 +2,6 @@
 aliases:
   - Command Spirit
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction-Initiate
 type:
   - Action
 points:

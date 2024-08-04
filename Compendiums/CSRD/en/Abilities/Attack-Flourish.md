@@ -3,7 +3,7 @@ aliases:
   - Attack Flourish
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

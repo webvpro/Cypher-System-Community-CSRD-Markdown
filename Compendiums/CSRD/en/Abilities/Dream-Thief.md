@@ -2,7 +2,7 @@
 aliases:
   - Dream Thief
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Intellect

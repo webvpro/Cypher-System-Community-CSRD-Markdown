@@ -3,7 +3,7 @@ aliases:
   - Augment Cypher
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 points: 2 intellect
 ---

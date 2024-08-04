@@ -2,7 +2,7 @@
 aliases:
   - Better Living Through Chemistry
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

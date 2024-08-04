@@ -2,7 +2,7 @@
 aliases:
   - Disarming Strike
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3 Speed

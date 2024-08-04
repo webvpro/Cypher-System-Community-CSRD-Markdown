@@ -2,8 +2,8 @@
 aliases:
   - Everything Is a Weapon
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

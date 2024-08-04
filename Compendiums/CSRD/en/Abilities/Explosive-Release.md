@@ -2,7 +2,7 @@
 aliases:
   - Explosive Release
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

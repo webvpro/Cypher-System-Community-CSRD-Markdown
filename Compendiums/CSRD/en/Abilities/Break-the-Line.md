@@ -2,7 +2,7 @@
 aliases:
   - Break the Line
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

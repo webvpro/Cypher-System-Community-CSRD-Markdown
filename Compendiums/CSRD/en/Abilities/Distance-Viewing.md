@@ -2,7 +2,7 @@
 aliases:
   - Distance Viewing
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 5 Intellect

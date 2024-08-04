@@ -2,7 +2,7 @@
 aliases:
   - Drain Power
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 5 Speed

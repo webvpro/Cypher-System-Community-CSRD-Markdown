@@ -2,8 +2,8 @@
 aliases:
   - Enhanced Speed Edge
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

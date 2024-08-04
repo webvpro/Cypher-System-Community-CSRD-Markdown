@@ -2,8 +2,8 @@
 aliases:
   - Babel
 tags:
-  - Cypher/Abilities/B
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

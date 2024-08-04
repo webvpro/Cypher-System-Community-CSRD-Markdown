@@ -2,8 +2,8 @@
 aliases:
   - Community Activist
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 ---
 
 # Community Activist

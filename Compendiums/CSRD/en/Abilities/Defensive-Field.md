@@ -2,8 +2,8 @@
 aliases:
   - Defensive Field
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type: Enabler
 ---
 

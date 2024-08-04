@@ -2,7 +2,7 @@
 aliases:
   - Defensive Phasing
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Intellect

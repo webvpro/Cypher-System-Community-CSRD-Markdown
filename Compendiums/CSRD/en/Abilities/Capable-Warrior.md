@@ -2,8 +2,7 @@
 aliases:
   - Capable Warrior
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities/Enabler
 ---
 
 # Capable Warrior

@@ -2,7 +2,7 @@
 aliases:
   - Devoted Defender
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Might or Intellect

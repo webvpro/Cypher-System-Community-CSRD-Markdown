@@ -2,7 +2,7 @@
 aliases:
   - Far Step
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

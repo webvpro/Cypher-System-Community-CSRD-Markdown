@@ -2,8 +2,6 @@
 aliases:
   - Captivate or Inspire
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
 type:
   - Action
 ---

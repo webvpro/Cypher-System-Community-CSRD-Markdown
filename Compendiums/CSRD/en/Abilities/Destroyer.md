@@ -2,7 +2,7 @@
 aliases:
   - Destroyer
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type: Action
 points: 6 Might

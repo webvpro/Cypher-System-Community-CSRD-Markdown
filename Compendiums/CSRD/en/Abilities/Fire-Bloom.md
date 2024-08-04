@@ -2,7 +2,7 @@
 aliases:
   - Fire Bloom
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -2,7 +2,7 @@
 aliases:
   - Designation
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type: Action
 ---

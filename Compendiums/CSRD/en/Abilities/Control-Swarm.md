@@ -2,7 +2,7 @@
 aliases:
   - Control Swarm
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

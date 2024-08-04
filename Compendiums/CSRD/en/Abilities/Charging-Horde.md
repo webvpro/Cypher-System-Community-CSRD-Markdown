@@ -2,8 +2,6 @@
 aliases:
   - Charging Horde
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
 type:
   - Action
 points:

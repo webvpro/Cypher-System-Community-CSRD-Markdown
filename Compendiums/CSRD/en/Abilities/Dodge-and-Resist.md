@@ -2,8 +2,8 @@
 aliases:
   - Dodge and Resist
 tags:
-  - Cypher/Abilities/D
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type: Enabler
 points: 3 Speed
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Concussive Blast
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

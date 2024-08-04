@@ -2,10 +2,10 @@
 aliases:
   - A Smile and a Word
 tags:
-  - Abilities
-  - Compendium/CSRD/en/Rules/Abilities/Action
+  - Abilities/Actions
+  - Abilities/Categories/Meta  
 type: Action
-pool:
+pool: 
 cost:
 ---
 

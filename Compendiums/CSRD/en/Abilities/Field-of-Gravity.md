@@ -2,8 +2,8 @@
 aliases:
   - Field of Gravity
 tags:
-  - Cypher/Abilities/F
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

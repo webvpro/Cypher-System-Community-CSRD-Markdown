@@ -2,7 +2,7 @@
 aliases:
   - Destroy Metal
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3 Intellect

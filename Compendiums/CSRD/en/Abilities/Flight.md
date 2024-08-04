@@ -2,7 +2,7 @@
 aliases:
   - Flight
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

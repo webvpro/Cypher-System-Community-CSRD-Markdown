@@ -2,8 +2,7 @@
 aliases:
   - Call Otherworldly Spirit
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
+ 
 type:
   - Action
 points:

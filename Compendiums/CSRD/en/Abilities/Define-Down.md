@@ -2,7 +2,7 @@
 aliases:
   - Define Down
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type: Action
 points: 4 Intellect

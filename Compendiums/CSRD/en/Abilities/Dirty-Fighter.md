@@ -2,7 +2,7 @@
 aliases:
   - Dirty Fighter
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Speed

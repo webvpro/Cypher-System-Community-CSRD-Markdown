@@ -2,8 +2,6 @@
 aliases:
   - Calm
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
 type:
   - Action
 points:

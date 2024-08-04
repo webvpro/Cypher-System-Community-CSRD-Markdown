@@ -2,7 +2,6 @@
 aliases:
   - Call Dead Spirit
 tags:
-  - Cypher/Abilities/C
   - Abilitiesction
 type:
   - Action

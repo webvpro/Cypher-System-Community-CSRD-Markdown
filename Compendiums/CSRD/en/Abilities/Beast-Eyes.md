@@ -2,7 +2,7 @@
 aliases:
   - Beast Eyes
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

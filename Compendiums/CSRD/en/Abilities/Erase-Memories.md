@@ -2,7 +2,7 @@
 aliases:
   - Erase Memories
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

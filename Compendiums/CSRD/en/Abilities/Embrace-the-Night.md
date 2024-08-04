@@ -2,7 +2,7 @@
 aliases:
   - Embrace the Night
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

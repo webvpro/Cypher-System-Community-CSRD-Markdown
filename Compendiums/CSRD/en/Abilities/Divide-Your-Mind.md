@@ -2,7 +2,7 @@
 aliases:
   - Divide Your Mind
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 7 Intellect

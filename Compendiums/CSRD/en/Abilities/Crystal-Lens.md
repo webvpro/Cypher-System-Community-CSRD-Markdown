@@ -2,7 +2,7 @@
 aliases:
   - Crystal Lens
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action
@@ -12,4 +12,4 @@ type:
 
 **Type**: Action
 
-You can focus the inherent energy surging through you from your [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]] ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range.
+You can focus the inherent energy surging through you from your [[Compendium/Abilities/Crystalline-Body|Crystalline Body]] ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range.

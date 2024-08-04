@@ -2,7 +2,7 @@
 aliases:
   - Dream Becomes Reality
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 4 Intellect

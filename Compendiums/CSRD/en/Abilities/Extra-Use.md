@@ -2,7 +2,7 @@
 aliases:
   - Extra Use
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

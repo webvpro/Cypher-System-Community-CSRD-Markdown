@@ -2,7 +2,7 @@
 aliases:
   - Energize Creature
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

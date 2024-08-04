@@ -2,7 +2,7 @@
 aliases:
   - Duplicate
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 ---

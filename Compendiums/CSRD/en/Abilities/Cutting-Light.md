@@ -2,7 +2,7 @@
 aliases:
   - Cutting Light
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction
 type:
   - Action

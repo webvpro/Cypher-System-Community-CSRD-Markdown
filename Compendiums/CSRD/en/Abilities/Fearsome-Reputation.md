@@ -2,7 +2,7 @@
 aliases:
   - Fearsome Reputation
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

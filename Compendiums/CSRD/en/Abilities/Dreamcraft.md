@@ -2,7 +2,7 @@
 aliases:
   - Dreamcraft
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 1 Intellect

@@ -2,7 +2,7 @@
 aliases:
   - Create Deadly Poison
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

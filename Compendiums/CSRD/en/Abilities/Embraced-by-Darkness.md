@@ -2,7 +2,7 @@
 aliases:
   - Embraced by Darkness
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

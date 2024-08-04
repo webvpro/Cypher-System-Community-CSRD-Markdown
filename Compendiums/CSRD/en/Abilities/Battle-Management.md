@@ -2,7 +2,7 @@
 aliases:
   - Battle Management
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action
