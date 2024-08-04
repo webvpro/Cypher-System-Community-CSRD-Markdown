@@ -2,7 +2,7 @@
 aliases:
   - Break the Ranks
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

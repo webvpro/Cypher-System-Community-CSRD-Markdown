@@ -2,8 +2,8 @@
 aliases:
   - Blurring Speed
 tags:
-  - Cypher/Abilities/B
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 points:

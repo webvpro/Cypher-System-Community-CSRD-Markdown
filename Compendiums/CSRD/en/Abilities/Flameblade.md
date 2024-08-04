@@ -2,8 +2,8 @@
 aliases:
   - Flameblade
 tags:
-  - Cypher/Abilities/F
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 cost: 4 Intellect

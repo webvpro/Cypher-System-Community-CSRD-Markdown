@@ -2,7 +2,7 @@
 aliases:
   - Blind Machine
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

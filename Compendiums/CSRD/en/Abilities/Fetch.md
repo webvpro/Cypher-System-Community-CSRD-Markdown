@@ -2,7 +2,7 @@
 aliases:
   - Fetch
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

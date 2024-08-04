@@ -2,8 +2,8 @@
 aliases:
   - Extreme Mastery
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Force Blast
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

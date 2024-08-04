@@ -2,8 +2,6 @@
 aliases:
   - Center of Attention
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
 type:
   - Action
 points:

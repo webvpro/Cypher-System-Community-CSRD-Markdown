@@ -2,7 +2,7 @@
 aliases:
   - Force Field
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -2,7 +2,7 @@
 aliases:
   - Foil Danger
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

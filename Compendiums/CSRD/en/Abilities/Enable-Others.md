@@ -2,8 +2,8 @@
 aliases:
   - Enable Others
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

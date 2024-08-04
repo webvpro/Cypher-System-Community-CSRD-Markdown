@@ -2,7 +2,7 @@
 aliases:
   - Flash Across the Miles
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -2,7 +2,7 @@
 aliases:
   - Experienced Finder
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

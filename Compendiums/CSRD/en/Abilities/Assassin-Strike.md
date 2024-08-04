@@ -3,7 +3,7 @@ aliases:
   - Assassin Strike
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 ---
 
 # Assassin Strike

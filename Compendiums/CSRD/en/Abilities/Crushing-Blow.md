@@ -2,7 +2,7 @@
 aliases:
   - Crushing Blow
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

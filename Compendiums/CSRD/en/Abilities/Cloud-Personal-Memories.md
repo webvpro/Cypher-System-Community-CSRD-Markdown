@@ -2,8 +2,6 @@
 aliases:
   - Cloud Personal Memories
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction-Initiate
 type:
   - Action
 points:

@@ -2,8 +2,8 @@
 aliases:
   - Confidence Artist
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 ---
 
 # Confidence Artist

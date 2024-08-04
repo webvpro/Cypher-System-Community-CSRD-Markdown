@@ -2,8 +2,7 @@
 aliases:
   - Call Swarm
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
+ - Abilitiesction
 type:
   - Action
 points:

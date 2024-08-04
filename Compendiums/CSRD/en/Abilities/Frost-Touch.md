@@ -2,9 +2,9 @@
 aliases:
   - Frost Touch
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type:
   - Action for touch
   - Enabler for weapon

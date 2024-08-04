@@ -2,7 +2,7 @@
 aliases:
   - Draw Conclusion
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3 Intellect

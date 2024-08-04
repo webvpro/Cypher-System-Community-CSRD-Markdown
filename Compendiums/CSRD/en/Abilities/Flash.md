@@ -2,7 +2,7 @@
 aliases:
   - Flash
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

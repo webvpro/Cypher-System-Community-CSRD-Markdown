@@ -2,7 +2,7 @@
 aliases:
   - Eye for Detail
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

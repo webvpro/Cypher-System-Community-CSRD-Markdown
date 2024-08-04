@@ -2,8 +2,8 @@
 aliases:
   - Discipline of Watchfulness
 tags:
-  - Cypher/Abilities/D
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type: Enabler
 points: 7 Intellect
 ---

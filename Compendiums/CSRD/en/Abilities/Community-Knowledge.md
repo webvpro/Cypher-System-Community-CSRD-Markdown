@@ -2,7 +2,7 @@
 aliases:
   - Community Knowledge
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

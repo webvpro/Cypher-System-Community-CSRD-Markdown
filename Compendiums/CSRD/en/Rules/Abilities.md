@@ -50,8 +50,8 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Blood-Fever|Blood Fever]]
-- [[Compendium/Cypher/Abilities/C/Cognizant-Offense|Cognizant Offense]]
+- [[Compendium/Abilities/Blood-Fever|Blood Fever]]
+- [[Compendium/Abilities/Cognizant-Offense|Cognizant Offense]]
 - Greater Skill With Defense
 - Practiced With All Weapons
 - Robot Fighter
@@ -64,7 +64,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 **High Tier**:
 
 - [[Compendium/Abilities/As-Foretold-In-Prophecy|As Foretold in Prophecy]]
-- [[Compendium/Cypher/Abilities/D/Dual-to-the-Death|Duel to the Death]]
+- [[Compendium/Abilities/Dual-to-the-Death|Duel to the Death]]
 - Greater Skill With Attacks
 - Hunter’s Drive
 - Master of Unarmed Fighting Style
@@ -77,13 +77,13 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Basic-Follower|Basic Follower]]
-- [[Compendium/Cypher/Abilities/B/Beast-Companion|Beast Companion]]
-- [[Compendium/Cypher/Abilities/B/Bound-Magic-Creature|Bound Magic Creature]]
-- [[Compendium/Cypher/Abilities/C/Control-Swarm|Control Swarm]]
-- [[Compendium/Cypher/Abilities/C/Critter-Companion|Critter Companion]]
-- [[Compendium/Cypher/Abilities/D/Duplicate|Duplicate]]
-- [[Compendium/Cypher/Abilities/E/Entourage|Entourage]]
+- [[Compendium/Abilities/Basic-Follower|Basic Follower]]
+- [[Compendium/Abilities/Beast-Companion|Beast Companion]]
+- [[Compendium/Abilities/Bound-Magic-Creature|Bound Magic Creature]]
+- [[Compendium/Abilities/Control-Swarm|Control Swarm]]
+- [[Compendium/Abilities/Critter-Companion|Critter Companion]]
+- [[Compendium/Abilities/Duplicate|Duplicate]]
+- [[Compendium/Abilities/Entourage|Entourage]]
 - Influence Swarm
 - Necromancy
 - Resilient Duplicate
@@ -93,11 +93,11 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Beast-Eyes|Beast Eyes]]
-- [[Compendium/Cypher/Abilities/C/Call-Swarm|Call Swarm]]
-- [[Compendium/Cypher/Abilities/E/Expert-Follower|Expert Follower]]
-- [[Compendium/Cypher/Abilities/F/Fellow-Explorer|Fellow Explorer]]
-- [[Compendium/Cypher/Abilities/F/Fiery-Hand-of-Doom|Fiery Hand of Doom]]
+- [[Compendium/Abilities/Beast-Eyes|Beast Eyes]]
+- [[Compendium/Abilities/Call-Swarm|Call Swarm]]
+- [[Compendium/Abilities/Expert-Follower|Expert Follower]]
+- [[Compendium/Abilities/Fellow-Explorer|Fellow Explorer]]
+- [[Compendium/Abilities/Fiery-Hand-of-Doom|Fiery Hand of Doom]]
 - Gain Unusual Companion
 - Greater Necromancy
 - Improved Object Bond
@@ -115,17 +115,17 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 **High Tier**:
 
 - [[Compendium/Abilities/As-If-One-Creature|As If One Creature]]
-- [[Compendium/Cypher/Abilities/B/Band-of-Desperados|Band of Desperados]]
-- [[Compendium/Cypher/Abilities/B/Band-of-Followers|Band of Followers]]
-- [[Compendium/Cypher/Abilities/B/Beast-Call|Beast Call]]
-- [[Compendium/Cypher/Abilities/C/Call-Dead-Spirit|Call Dead Spirit]]
-- [[Compendium/Cypher/Abilities/C/Call-in-Favor|Call in Favor]]
-- [[Compendium/Cypher/Abilities/C/Call-Otherworldly-Spirit|Call Otherworldly Spirit]]
-- [[Compendium/Cypher/Abilities/C/Call-Through-Time|Call Through Time]]
-- [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
-- [[Compendium/Cypher/Abilities/D/Deadly-Swam|Deadly Swarm]]
-- [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
-- [[Compendium/Cypher/Abilities/F/Fire-Servant|Fire Servant]]
+- [[Compendium/Abilities/Band-of-Desperados|Band of Desperados]]
+- [[Compendium/Abilities/Band-of-Followers|Band of Followers]]
+- [[Compendium/Abilities/Beast-Call|Beast Call]]
+- [[Compendium/Abilities/Call-Dead-Spirit|Call Dead Spirit]]
+- [[Compendium/Abilities/Call-in-Favor|Call in Favor]]
+- [[Compendium/Abilities/Call-Otherworldly-Spirit|Call Otherworldly Spirit]]
+- [[Compendium/Abilities/Call-Through-Time|Call Through Time]]
+- [[Compendium/Abilities/Conjuration|Conjuration]]
+- [[Compendium/Abilities/Deadly-Swam|Deadly Swarm]]
+- [[Compendium/Abilities/Dragons Maw|Dragon’s Maw]]
+- [[Compendium/Abilities/Fire-Servant|Fire Servant]]
 - Improved Apportation
 - Improved Companion
 - Improved Machine Companion
@@ -146,11 +146,11 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Calm-Stranger|Calm Stranger]]
-- [[Compendium/Cypher/Abilities/C/Charm-Machine|Charm Machine]]
-- [[Compendium/Cypher/Abilities/C/Cloud-Personal-Memories|Cloud Personal Memories]]
-- [[Compendium/Cypher/Abilities/C/Community-Activist|Community Activist]]
-- [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]]
+- [[Compendium/Abilities/Calm-Stranger|Calm Stranger]]
+- [[Compendium/Abilities/Charm-Machine|Charm Machine]]
+- [[Compendium/Abilities/Cloud-Personal-Memories|Cloud Personal Memories]]
+- [[Compendium/Abilities/Community-Activist|Community Activist]]
+- [[Compendium/Abilities/Fast-Talk|Fast Talk]]
 - Goad
 - Hack the Impossible
 - Robot Control
@@ -159,14 +159,14 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Calm|Calm]]
-- [[Compendium/Cypher/Abilities/C/Captivate-or-Inspire|Captivate or Inspire]]
-- [[Compendium/Cypher/Abilities/C/Captivate-with-Starshine|Captivate With Starshine]]
-- [[Compendium/Cypher/Abilities/C/Command|Command]]
-- [[Compendium/Cypher/Abilities/C/Command-Machine|Command Machine]]
-- [[Compendium/Cypher/Abilities/C/Command-Spirit|Command Spirit]]
-- [[Compendium/Cypher/Abilities/C/Crowd-Control|Crowd Control]]
-- [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
+- [[Compendium/Abilities/Calm|Calm]]
+- [[Compendium/Abilities/Captivate-or-Inspire|Captivate or Inspire]]
+- [[Compendium/Abilities/Captivate-with-Starshine|Captivate With Starshine]]
+- [[Compendium/Abilities/Command|Command]]
+- [[Compendium/Abilities/Command-Machine|Command Machine]]
+- [[Compendium/Abilities/Command-Spirit|Command Spirit]]
+- [[Compendium/Abilities/Crowd-Control|Crowd Control]]
+- [[Compendium/Abilities/Daydream|Daydream]]
 - Grand Deception
 - Interruption
 - Mind Control
@@ -176,12 +176,12 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 - [[Compendium/Abilities/Advanced-Command|Advanced Command]]
 - [[Compendium/Abilities/Assume-Control|Assume Control]]
-- [[Compendium/Cypher/Abilities/B/Brainwashing|Brainwashing]]
-- [[Compendium/Cypher/Abilities/C/Change-the-Paradigm|Change the Paradigm]]
-- [[Compendium/Cypher/Abilities/C/Control-Machine|Control Machine]]
-- [[Compendium/Cypher/Abilities/C/Control-the-Savage|Control the Savage]]
-- [[Compendium/Cypher/Abilities/D/Defuse-Situation|Defuse Situation]]
-- [[Compendium/Cypher/Abilities/F/Flee|Flee]]
+- [[Compendium/Abilities/Brainwashing|Brainwashing]]
+- [[Compendium/Abilities/Change-the-Paradigm|Change the Paradigm]]
+- [[Compendium/Abilities/Control-Machine|Control Machine]]
+- [[Compendium/Abilities/Control-the-Savage|Control the Savage]]
+- [[Compendium/Abilities/Defuse-Situation|Defuse Situation]]
+- [[Compendium/Abilities/Flee|Flee]]
 - Psychic Passenger
 - Show Them the Way
 - Suggestion
@@ -193,8 +193,8 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Create-Deadly-Poison|Create Deadly Poison]]
-- [[Compendium/Cypher/Abilities/F/Fortification-Builder|Fortification Builder]]
+- [[Compendium/Abilities/Create-Deadly-Poison|Create Deadly Poison]]
+- [[Compendium/Abilities/Fortification-Builder|Fortification Builder]]
 - Junkmonger
 - Machine Efficiency
 - Modify Device
@@ -206,8 +206,8 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/D/Dream-Becomes-Reality|Dream Becomes Reality]]
-- [[Compendium/Cypher/Abilities/E/Expert-Crafter|Expert Crafter]]
+- [[Compendium/Abilities/Dream-Becomes-Reality|Dream Becomes Reality]]
+- [[Compendium/Abilities/Expert-Crafter|Expert Crafter]]
 - Ice Creation
 - Poison Crafter
 - Robot Upgrade
@@ -215,8 +215,8 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 **High Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Create|Create]]
-- [[Compendium/Cypher/Abilities/D/Dark-Matter-Structure|Dark Matter Structure]]
+- [[Compendium/Abilities/Create|Create]]
+- [[Compendium/Abilities/Dark-Matter-Structure|Dark Matter Structure]]
 - Improved Sculpt Light
 - Innovator
 - Jury-Rig
@@ -229,15 +229,15 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 ****Low Tier**:**
 
 - [[Compendium/Abilities/Alleviate|Alleviate]]
-- [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
-- [[Compendium/Cypher/Abilities/D/Destined-for-Greatness|Destined for Greatness]]
-- [[Compendium/Cypher/Abilities/D/Diver|Diver]]
-- [[Compendium/Cypher/Abilities/D/Drain-Creature|Drain Creature]]
-- [[Compendium/Cypher/Abilities/D/Drain-Machine|Drain Machine]]
-- [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
-- [[Compendium/Cypher/Abilities/E/Escape|Escape]]
-- [[Compendium/Cypher/Abilities/E/Extra-Recovery|Extra Recovery]]
-- [[Compendium/Cypher/Abilities/F/Foil-Danger|Foil Danger]]
+- [[Compendium/Abilities/Crystalline-Body|Crystalline Body]]
+- [[Compendium/Abilities/Destined-for-Greatness|Destined for Greatness]]
+- [[Compendium/Abilities/Diver|Diver]]
+- [[Compendium/Abilities/Drain-Creature|Drain Creature]]
+- [[Compendium/Abilities/Drain-Machine|Drain Machine]]
+- [[Compendium/Abilities/Endurance|Endurance]]
+- [[Compendium/Abilities/Escape|Escape]]
+- [[Compendium/Abilities/Extra-Recovery|Extra Recovery]]
+- [[Compendium/Abilities/Foil-Danger|Foil Danger]]
 - Healing Touch
 - Ignore the Pain
 - Improved Recovery
@@ -255,11 +255,11 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 **Mid Tier**:
 
 - [[Compendium/Abilities/Aquatic-Combatant|Aquatic Combatant]]
-- [[Compendium/Cypher/Abilities/B/Biomorphic-Healing|Biomorphic Healing]]
-- [[Compendium/Cypher/Abilities/D/Damage-Transference|Damage Transference]]
-- [[Compendium/Cypher/Abilities/D/Drain-Charge|Drain Charge]]
-- [[Compendium/Cypher/Abilities/F/Fight-On|Fight On]]
-- [[Compendium/Cypher/Abilities/F/Font-of-Healing|Font of Healing]]
+- [[Compendium/Abilities/Biomorphic-Healing|Biomorphic Healing]]
+- [[Compendium/Abilities/Damage-Transference|Damage Transference]]
+- [[Compendium/Abilities/Drain-Charge|Drain Charge]]
+- [[Compendium/Abilities/Fight-On|Fight On]]
+- [[Compendium/Abilities/Font-of-Healing|Font of Healing]]
 - Healing Pulse
 - Ignore Affliction
 - Immovable
@@ -281,8 +281,8 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 **High Tier**:
 
 - Deep Reserves
-- [[Compendium/Cypher/Abilities/F/Final-Defiance|Final Defiance]]
-- [[Compendium/Cypher/Abilities/F/Free-to-Move|Free to Move]]
+- [[Compendium/Abilities/Final-Defiance|Final Defiance]]
+- [[Compendium/Abilities/Free-to-Move|Free to Move]]
 - Gamer’s Fortitude
 - Gaming God
 - Greater Healing Touch
@@ -308,9 +308,9 @@ Manipulates the environment or things in the environment, such as with telekines
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Create-Water|Create Water]]
-- [[Compendium/Cypher/Abilities/D/Dreamcraft|Dreamcraft]]
-- [[Compendium/Cypher/Abilities/F/Fetch|Fetch]]
+- [[Compendium/Abilities/Create-Water|Create Water]]
+- [[Compendium/Abilities/Dreamcraft|Dreamcraft]]
+- [[Compendium/Abilities/Fetch|Fetch]]
 - Grasping Foliage
 - Hedge Magic
 - Hidden Closet
@@ -327,11 +327,11 @@ Manipulates the environment or things in the environment, such as with telekines
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/D/Daydream|Daydream]]
-- [[Compendium/Cypher/Abilities/D/Define-Down|Define Down]]
-- [[Compendium/Cypher/Abilities/F/Field-of-Gravity|Field of Gravity]]
-- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
-- [[Compendium/Cypher/Abilities/F/Force-to-Reckon-With|Force to Reckon With]]
+- [[Compendium/Abilities/Daydream|Daydream]]
+- [[Compendium/Abilities/Define-Down|Define Down]]
+- [[Compendium/Abilities/Field-of-Gravity|Field of Gravity]]
+- [[Compendium/Abilities/Force-Field-Barrier|Force Field Barrier]]
+- [[Compendium/Abilities/Force-to-Reckon-With|Force to Reckon With]]
 - Illusory Selves
 - Living Wall
 - Major Illusion
@@ -343,9 +343,9 @@ Manipulates the environment or things in the environment, such as with telekines
 **High Tier**:
 
 - [[Compendium/Abilities/Adaptation|Adaptation]]
-- [[Compendium/Cypher/Abilities/C/Control-Weather|Control Weather]]
-- [[Compendium/Cypher/Abilities/D/Diamagnetism|Diamagnetism]]
-- [[Compendium/Cypher/Abilities/F/Force-Wall|Force Wall]]
+- [[Compendium/Abilities/Control-Weather|Control Weather]]
+- [[Compendium/Abilities/Diamagnetism|Diamagnetism]]
+- [[Compendium/Abilities/Force-Wall|Force Wall]]
 - Generate Force Field
 - Grandiose Illusion
 - Granite Wall
@@ -363,12 +363,12 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Babel|Babel]]
-- [[Compendium/Cypher/Abilities/C/Communication|Communication]]
-- [[Compendium/Cypher/Abilities/C/Community-Knowledge|Community Knowledge]]
-- [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
-- [[Compendium/Cypher/Abilities/D/Dream-Thief|Dream Thief]]
-- [[Compendium/Cypher/Abilities/E/Eye-for-Detail|Eye for Detail]]
+- [[Compendium/Abilities/Babel|Babel]]
+- [[Compendium/Abilities/Communication|Communication]]
+- [[Compendium/Abilities/Community-Knowledge|Community Knowledge]]
+- [[Compendium/Abilities/Decipher|Decipher]]
+- [[Compendium/Abilities/Dream-Thief|Dream Thief]]
+- [[Compendium/Abilities/Eye-for-Detail|Eye for Detail]]
 - Gather Intelligence
 - Lab Analysis
 - Mind Reading
@@ -386,10 +386,10 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Creature-Insight|Creature Insight]]
-- [[Compendium/Cypher/Abilities/D/Device-Insight|Device Insight]]
-- [[Compendium/Cypher/Abilities/D/Draw-Conclusion|Draw Conclusion]]
-- [[Compendium/Cypher/Abilities/F/Find-the-Hidden|Find the Hidden]]
+- [[Compendium/Abilities/Creature-Insight|Creature Insight]]
+- [[Compendium/Abilities/Device-Insight|Device Insight]]
+- [[Compendium/Abilities/Draw-Conclusion|Draw Conclusion]]
+- [[Compendium/Abilities/Find-the-Hidden|Find the Hidden]]
 - Got a Feeling
 - Know Their Faults
 - Machine Telepathy
@@ -403,8 +403,8 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 **High Tier**:
 
-- [[Compendium/Cypher/Abilities/D/Deep-Consideration|Deep Consideration]]
-- [[Compendium/Cypher/Abilities/D/Drawing-on-Lifes-Experiences|Drawing on Life’s Experiences]]
+- [[Compendium/Abilities/Deep-Consideration|Deep Consideration]]
+- [[Compendium/Abilities/Drawing-on-Lifes-Experiences|Drawing on Life’s Experiences]]
 - Information Gathering
 - Knowing the Unknown
 - Mind of a Leader
@@ -421,25 +421,25 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Abilities/Arcane-Flare|Arcane Flare]]
 - [[Compendium/Abilities/Artifact-Tinkerer|Artifact Tinkerer]]
 - [[Compendium/Abilities/Augment-Cypher|Augment Cypher]]
-- [[Compendium/Cypher/Abilities/C/Careful-Shot|Careful Shot]]
-- [[Compendium/Cypher/Abilities/C/Charge|Charge]]
-- [[Compendium/Cypher/Abilities/C/Coaxing-Power|Coaxing Power]]
-- [[Compendium/Cypher/Abilities/C/Combat-Prowess|Combat Prowess]]
-- [[Compendium/Cypher/Abilities/C/Crushing-Blow|Crushing Blow]]
-- [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
-- [[Compendium/Cypher/Abilities/C/Curious|Curious]]
-- [[Compendium/Cypher/Abilities/D/Distant-Interface|Distant Interface]]
-- [[Compendium/Cypher/Abilities/D/Double-Strike|Double Strike]]
-- [[Compendium/Cypher/Abilities/D/Drain-Creature|Drain Creature]]
-- [[Compendium/Cypher/Abilities/D/Driving-on-the-Edge|Driving on the Edge]]
-- [[Compendium/Cypher/Abilities/E/Elusive|Elusive]]
-- [[Compendium/Cypher/Abilities/E/Energize-Object|Energize Object]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
-- [[Compendium/Cypher/Abilities/E/Extra-Use|Extra Use]]
-- [[Compendium/Cypher/Abilities/F/Find-the-Way|Find the Way]]
-- [[Compendium/Cypher/Abilities/F/Fists-of-Fury|Fists of Fury]]
-- [[Compendium/Cypher/Abilities/F/Fleet-of-Foot|Fleet of Foot]]
-- [[Compendium/Cypher/Abilities/F/Frenzy|Frenzy]]
+- [[Compendium/Abilities/Careful-Shot|Careful Shot]]
+- [[Compendium/Abilities/Charge|Charge]]
+- [[Compendium/Abilities/Coaxing-Power|Coaxing Power]]
+- [[Compendium/Abilities/Combat-Prowess|Combat Prowess]]
+- [[Compendium/Abilities/Crushing-Blow|Crushing Blow]]
+- [[Compendium/Abilities/Crystalline-Body|Crystalline Body]]
+- [[Compendium/Abilities/Curious|Curious]]
+- [[Compendium/Abilities/Distant-Interface|Distant Interface]]
+- [[Compendium/Abilities/Double-Strike|Double Strike]]
+- [[Compendium/Abilities/Drain-Creature|Drain Creature]]
+- [[Compendium/Abilities/Driving-on-the-Edge|Driving on the Edge]]
+- [[Compendium/Abilities/Elusive|Elusive]]
+- [[Compendium/Abilities/Energize-Object|Energize Object]]
+- [[Compendium/Abilities/Enhanced-Body|Enhanced Body]]
+- [[Compendium/Abilities/Extra-Use|Extra Use]]
+- [[Compendium/Abilities/Find-the-Way|Find the Way]]
+- [[Compendium/Abilities/Fists-of-Fury|Fists of Fury]]
+- [[Compendium/Abilities/Fleet-of-Foot|Fleet of Foot]]
+- [[Compendium/Abilities/Frenzy|Frenzy]]
 - Golem Body
 - Gunner
 - Hacker
@@ -468,33 +468,33 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 **Mid Tier**:
 
 - [[Compendium/Abilities/Amazing-Effort|Amazing Effort]]
-- [[Compendium/Cypher/Abilities/B/Betrayal|Betrayal]]
-- [[Compendium/Cypher/Abilities/B/Better-Living-Through-Chemistry|Better Living Through Chemistry]]
-- [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- [[Compendium/Cypher/Abilities/C/Cast-Illusion|Cast Illusion]]
-- [[Compendium/Cypher/Abilities/C/Cybersmith|Cyphersmith]]
-- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
-- [[Compendium/Cypher/Abilities/D/Deep-Resources|Deep Resources]]
-- [[Compendium/Cypher/Abilities/D/Disarming-Strike|Disarming Strike]]
-- [[Compendium/Cypher/Abilities/D/Dodge-and-Resist|Dodge and Resist]]
-- [[Compendium/Cypher/Abilities/D/Drain-at-a-Distance|Drain at a Distance]]
-- [[Compendium/Cypher/Abilities/E/Energize-Shield|Energized Shield]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Intellect|Enhanced Intellect]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Intellect-Edge|Enhanced Intellect Edge]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Might|Enhanced Might]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Might-Edge|Enhanced Might Edge]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Physique|Enhanced Physique]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Potential|Enhanced Potential]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Speed|Enhanced Speed]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Speed-Edge|Enhanced Speed Edge]]
-- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
-- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
-- [[Compendium/Cypher/Abilities/E/Expert-Skill|Expert Skill]]
-- [[Compendium/Cypher/Abilities/F/Fast-Kill|Fast Kill]]
-- [[Compendium/Cypher/Abilities/F/Flameblade|Flameblade]]
-- [[Compendium/Cypher/Abilities/F/From-the-Shadows|From the Shadows]]
-- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
-- [[Compendium/Cypher/Abilities/F/Fusion|Fusion]]
+- [[Compendium/Abilities/Betrayal|Betrayal]]
+- [[Compendium/Abilities/Better-Living-Through-Chemistry|Better Living Through Chemistry]]
+- [[Compendium/Abilities/Capable-Warrior|Capable Warrior]]
+- [[Compendium/Abilities/Cast-Illusion|Cast Illusion]]
+- [[Compendium/Abilities/Cybersmith|Cyphersmith]]
+- [[Compendium/Abilities/Deadly-Aim|Deadly Aim]]
+- [[Compendium/Abilities/Deep-Resources|Deep Resources]]
+- [[Compendium/Abilities/Disarming-Strike|Disarming Strike]]
+- [[Compendium/Abilities/Dodge-and-Resist|Dodge and Resist]]
+- [[Compendium/Abilities/Drain-at-a-Distance|Drain at a Distance]]
+- [[Compendium/Abilities/Energize-Shield|Energized Shield]]
+- [[Compendium/Abilities/Enhanced-Intellect|Enhanced Intellect]]
+- [[Compendium/Abilities/Enhanced-Intellect-Edge|Enhanced Intellect Edge]]
+- [[Compendium/Abilities/Enhanced-Might|Enhanced Might]]
+- [[Compendium/Abilities/Enhanced-Might-Edge|Enhanced Might Edge]]
+- [[Compendium/Abilities/Enhanced-Physique|Enhanced Physique]]
+- [[Compendium/Abilities/Enhanced-Potential|Enhanced Potential]]
+- [[Compendium/Abilities/Enhanced-Speed|Enhanced Speed]]
+- [[Compendium/Abilities/Enhanced-Speed-Edge|Enhanced Speed Edge]]
+- [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Abilities/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Abilities/Expert-Skill|Expert Skill]]
+- [[Compendium/Abilities/Fast-Kill|Fast Kill]]
+- [[Compendium/Abilities/Flameblade|Flameblade]]
+- [[Compendium/Abilities/From-the-Shadows|From the Shadows]]
+- [[Compendium/Abilities/Fury|Fury]]
+- [[Compendium/Abilities/Fusion|Fusion]]
 - Greater Beast Form
 - Greater Designation
 - Greater Enhanced Intellect
@@ -559,24 +559,24 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - [[Compendium/Abilities/Agile-Wit|Agile Wit]]
 - [[Compendium/Abilities/All-Out-Con|All-Out Con]]
 - [[Compendium/Abilities/Artifact-Scavenger|Artifact Scavenger]]
-- [[Compendium/Cypher/Abilities/B/Blurring-Speed|Blurring Speed]]
-- [[Compendium/Cypher/Abilities/B/Burst-of-Escape|Burst of Escape]]
-- [[Compendium/Cypher/Abilities/C/Charging-Horde|Charging Horde]]
-- [[Compendium/Cypher/Abilities/C/Coordinated-Effort|Coordinated Effort]]
-- [[Compendium/Cypher/Abilities/D/Damage-Dealer|Damage Dealer]]
-- [[Compendium/Cypher/Abilities/D/Damn-the-Guilty|Damn the Guilty]]
+- [[Compendium/Abilities/Blurring-Speed|Blurring Speed]]
+- [[Compendium/Abilities/Burst-of-Escape|Burst of Escape]]
+- [[Compendium/Abilities/Charging-Horde|Charging Horde]]
+- [[Compendium/Abilities/Coordinated-Effort|Coordinated Effort]]
+- [[Compendium/Abilities/Damage-Dealer|Damage Dealer]]
+- [[Compendium/Abilities/Damn-the-Guilty|Damn the Guilty]]
 - Deep Reserves
-- [[Compendium/Cypher/Abilities/D/Disarming-Attack|Disarming Attack]]
-- [[Compendium/Cypher/Abilities/D/Discipline-of-Watchfulness|Discipline of Watchfulness]]
-- [[Compendium/Cypher/Abilities/D/Divide-Your-Mind|Divide Your Mind]]
-- [[Compendium/Cypher/Abilities/D/Dual-Distraction|Dual Distraction]]
-- [[Compendium/Cypher/Abilities/D/Dual-to-the-Death|Duel to the Death]]
-- [[Compendium/Cypher/Abilities/E/Effective-Skill|Effective Skill]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Beast-Form|Enhanced Beast Form]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Phase-Attack|Enhanced Phased Attack]]
-- [[Compendium/Cypher/Abilities/E/Escape-Plan|Escape Plan]]
-- [[Compendium/Cypher/Abilities/E/Extreme-Mastery|Extreme Mastery]]
-- [[Compendium/Cypher/Abilities/F/Force-and-Accuracy|Force and Accuracy]]
+- [[Compendium/Abilities/Disarming-Attack|Disarming Attack]]
+- [[Compendium/Abilities/Discipline-of-Watchfulness|Discipline of Watchfulness]]
+- [[Compendium/Abilities/Divide-Your-Mind|Divide Your Mind]]
+- [[Compendium/Abilities/Dual-Distraction|Dual Distraction]]
+- [[Compendium/Abilities/Dual-to-the-Death|Duel to the Death]]
+- [[Compendium/Abilities/Effective-Skill|Effective Skill]]
+- [[Compendium/Abilities/Enhanced-Beast-Form|Enhanced Beast Form]]
+- [[Compendium/Abilities/Enhanced-Phase-Attack|Enhanced Phased Attack]]
+- [[Compendium/Abilities/Escape-Plan|Escape Plan]]
+- [[Compendium/Abilities/Extreme-Mastery|Extreme Mastery]]
+- [[Compendium/Abilities/Force-and-Accuracy|Force and Accuracy]]
 - Gambler
 - Go to Ground
 - Hard to Kill
@@ -627,10 +627,10 @@ Increases your movement (such as increasing your basic movement speed from short
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Bolt-Rider|Bolt Rider]]
-- [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
-- [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
-- [[Compendium/Cypher/Abilities/F/Far-Step|Far Step]]
+- [[Compendium/Abilities/Bolt-Rider|Bolt Rider]]
+- [[Compendium/Abilities/Contortionist|Contortionist]]
+- [[Compendium/Abilities/Danger-Instinct|Danger Instinct]]
+- [[Compendium/Abilities/Far-Step|Far Step]]
 - Get Away
 - Hover
 - Phase Sprint
@@ -640,9 +640,9 @@ Increases your movement (such as increasing your basic movement speed from short
 **Mid Tier**:
 
 - [[Compendium/Abilities/Apportation|Apportation]]
-- [[Compendium/Cypher/Abilities/B/Blink-of-an-Eye|Blink of an Eye]]
-- [[Compendium/Cypher/Abilities/B/Bypass-Barrier|Bypass Barrier]]
-- [[Compendium/Cypher/Abilities/C/Controlled-Fall|Controlled Fall]]
+- [[Compendium/Abilities/Blink-of-an-Eye|Blink of an Eye]]
+- [[Compendium/Abilities/Bypass-Barrier|Bypass Barrier]]
+- [[Compendium/Abilities/Controlled-Fall|Controlled Fall]]
 - Ghost
 - Mobile Fighter
 - Obstacle Running
@@ -658,13 +658,13 @@ Increases your movement (such as increasing your basic movement speed from short
 **High Tier**:
 
 - [[Compendium/Abilities/Alley-Rat|Alley Rat]]
-- [[Compendium/Cypher/Abilities/B/Blurring-Speed|Blurring Speed]]
-- [[Compendium/Cypher/Abilities/C/Chamber-of-Dreams|Chamber of Dreams]]
-- [[Compendium/Cypher/Abilities/E/Electrical-Flight|Electrical Flight]]
-- [[Compendium/Cypher/Abilities/E/Embraced-by-Darkness|Embraced by Darkness]]
-- [[Compendium/Cypher/Abilities/F/Fast-Travel|Fast Travel]]
-- [[Compendium/Cypher/Abilities/F/Flash-Across-the-Miles|Flash Across the Miles]]
-- [[Compendium/Cypher/Abilities/F/Flight|Flight]]
+- [[Compendium/Abilities/Blurring-Speed|Blurring Speed]]
+- [[Compendium/Abilities/Chamber-of-Dreams|Chamber of Dreams]]
+- [[Compendium/Abilities/Electrical-Flight|Electrical Flight]]
+- [[Compendium/Abilities/Embraced-by-Darkness|Embraced by Darkness]]
+- [[Compendium/Abilities/Fast-Travel|Fast Travel]]
+- [[Compendium/Abilities/Flash-Across-the-Miles|Flash Across the Miles]]
+- [[Compendium/Abilities/Flight|Flight]]
 - Impossible Walk
 - Incredible Running Speed
 - Jaunt
@@ -687,22 +687,22 @@ Gives training or specialization in one or more types of combat defenses (Might,
 **Low Tier**:
 
 - [[Compendium/Abilities/Absorb-Kinetic-Energy|Absorb Kinetic Energy]]
-- [[Compendium/Cypher/Abilities/B/Block|Block]]
-- [[Compendium/Cypher/Abilities/C/Closed-Mind|Closed Mind]]
-- [[Compendium/Cypher/Abilities/C/Courageous|Courageous]]
-- [[Compendium/Cypher/Abilities/C/Crystalline-Body|Crystalline Body]]
-- [[Compendium/Cypher/Abilities/D/Defense-Against-Robots|Defense Against Robots]]
-- [[Compendium/Cypher/Abilities/D/Defensive-Phasing|Defensive Phasing]]
-- [[Compendium/Cypher/Abilities/D/Deflect-Attacks|Deflect Attacks]]
-- [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
-- [[Compendium/Cypher/Abilities/E/Enhanced-Body|Enhanced Body]]
-- [[Compendium/Cypher/Abilities/E/Enveloping-Shield|Enveloping Shield]]
-- [[Compendium/Cypher/Abilities/F/Fearsome-Reputation|Fearsome Reputation]]
-- [[Compendium/Cypher/Abilities/F/Field-of-Destruction|Field of Destruction]]
-- [[Compendium/Cypher/Abilities/F/Flesh-of-Stone|Flesh of Stone]]
-- [[Compendium/Cypher/Abilities/F/Flight-Not-Fight|Flight Not Fight]]
-- [[Compendium/Cypher/Abilities/F/Force-Field-Shield|Force Field Shield]]
-- [[Compendium/Cypher/Abilities/F/Fortified-Position|Fortified Position]]
+- [[Compendium/Abilities/Block|Block]]
+- [[Compendium/Abilities/Closed-Mind|Closed Mind]]
+- [[Compendium/Abilities/Courageous|Courageous]]
+- [[Compendium/Abilities/Crystalline-Body|Crystalline Body]]
+- [[Compendium/Abilities/Defense-Against-Robots|Defense Against Robots]]
+- [[Compendium/Abilities/Defensive-Phasing|Defensive Phasing]]
+- [[Compendium/Abilities/Deflect-Attacks|Deflect Attacks]]
+- [[Compendium/Abilities/Distortion|Distortion]]
+- [[Compendium/Abilities/Enhanced-Body|Enhanced Body]]
+- [[Compendium/Abilities/Enveloping-Shield|Enveloping Shield]]
+- [[Compendium/Abilities/Fearsome-Reputation|Fearsome Reputation]]
+- [[Compendium/Abilities/Field-of-Destruction|Field of Destruction]]
+- [[Compendium/Abilities/Flesh-of-Stone|Flesh of Stone]]
+- [[Compendium/Abilities/Flight-Not-Fight|Flight Not Fight]]
+- [[Compendium/Abilities/Force-Field-Shield|Force Field Shield]]
+- [[Compendium/Abilities/Fortified-Position|Fortified Position]]
 - Go Defensive
 - Golem Body
 - Hard to Distract
@@ -742,26 +742,26 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 - [[Compendium/Abilities/Absorb-Pure-Energy|Absorb Pure Energy]]
 - [[Compendium/Abilities/Anticipate-Attack|Anticipate Attack]]
-- [[Compendium/Cypher/Abilities/B/Blood-Fever|Blood Fever]]
-- [[Compendium/Cypher/Abilities/C/Cloak-of-Oppurtinity|Cloak of Opportunity]]
-- [[Compendium/Cypher/Abilities/C/Confounding-Banter|Confounding Banter]]
-- [[Compendium/Cypher/Abilities/C/Confuse-Enemy|Confuse Enemy]]
-- [[Compendium/Cypher/Abilities/C/Counter-Danger|Counter Danger]]
-- [[Compendium/Cypher/Abilities/C/Countermeasures|Countermeasures]]
-- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
-- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shroud|Dark Matter Shroud]]
+- [[Compendium/Abilities/Blood-Fever|Blood Fever]]
+- [[Compendium/Abilities/Cloak-of-Oppurtinity|Cloak of Opportunity]]
+- [[Compendium/Abilities/Confounding-Banter|Confounding Banter]]
+- [[Compendium/Abilities/Confuse-Enemy|Confuse Enemy]]
+- [[Compendium/Abilities/Counter-Danger|Counter Danger]]
+- [[Compendium/Abilities/Countermeasures|Countermeasures]]
+- [[Compendium/Abilities/Dark-Matter-Shell|Dark Matter Shell]]
+- [[Compendium/Abilities/Dark-Matter-Shroud|Dark Matter Shroud]]
 - Discerning Mind
-- [[Compendium/Cypher/Abilities/D/Divert-Attacks|Divert Attacks]]
-- [[Compendium/Cypher/Abilities/D/Dodge-and-Respond|Dodge and Respond]]
-- [[Compendium/Cypher/Abilities/D/Dual-Defense|Dual Defense]]
-- [[Compendium/Cypher/Abilities/E/Electric-Armor|Electric Armor]]
-- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
-- [[Compendium/Cypher/Abilities/E/Energy-Protection|Energy Protection]]
-- [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
-- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
-- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
-- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
-- [[Compendium/Cypher/Abilities/F/Fusion-Armor|Fusion Armor]]
+- [[Compendium/Abilities/Divert-Attacks|Divert Attacks]]
+- [[Compendium/Abilities/Dodge-and-Respond|Dodge and Respond]]
+- [[Compendium/Abilities/Dual-Defense|Dual Defense]]
+- [[Compendium/Abilities/Electric-Armor|Electric Armor]]
+- [[Compendium/Abilities/Elemental-Protection|Elemental Protection]]
+- [[Compendium/Abilities/Energy-Protection|Energy Protection]]
+- [[Compendium/Abilities/Energy-Resistance|Energy Resistance]]
+- [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Abilities/Experienced-Defender|Experienced Defender]]
+- [[Compendium/Abilities/Force-Field-Barrier|Force Field Barrier]]
+- [[Compendium/Abilities/Fusion-Armor|Fusion Armor]]
 - Hard-Won Resilience
 - Horde Fighting
 - Huge
@@ -790,13 +790,13 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 **High Tier**:
 
-- [[Compendium/Cypher/Abilities/D/Defense-Master|Defense Master]]
-- [[Compendium/Cypher/Abilities/D/Defensive-Augmentation|Defensive Augmentation]]
-- [[Compendium/Cypher/Abilities/D/Defensive-Field|Defensive Field]]
-- [[Compendium/Cypher/Abilities/E/Energize-Creature|Energize Creature]]
-- [[Compendium/Cypher/Abilities/E/Energize-Crowd|Energize Crowd]]
-- [[Compendium/Cypher/Abilities/E/Evasion|Evasion]]
-- [[Compendium/Cypher/Abilities/F/Field-Reinforced-Armor|Field-Reinforced Armor]]
+- [[Compendium/Abilities/Defense-Master|Defense Master]]
+- [[Compendium/Abilities/Defensive-Augmentation|Defensive Augmentation]]
+- [[Compendium/Abilities/Defensive-Field|Defensive Field]]
+- [[Compendium/Abilities/Energize-Creature|Energize Creature]]
+- [[Compendium/Abilities/Energize-Crowd|Energize Crowd]]
+- [[Compendium/Abilities/Evasion|Evasion]]
+- [[Compendium/Abilities/Field-Reinforced-Armor|Field-Reinforced Armor]]
 - Hard Target
 - Hard to Kill
 - Lost in the Chaos
@@ -822,9 +822,9 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/E/Eyes-Adjusted|Eyes Adjusted]]
-- [[Compendium/Cypher/Abilities/F/Familiarize|Familiarize]]
-- [[Compendium/Cypher/Abilities/F/Find-an-Opening|Find an Opening]]
+- [[Compendium/Abilities/Eyes-Adjusted|Eyes Adjusted]]
+- [[Compendium/Abilities/Familiarize|Familiarize]]
+- [[Compendium/Abilities/Find-an-Opening|Find an Opening]]
 - Heads-Up Display
 - Link Senses
 - Mental Link
@@ -839,12 +839,12 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 - Animal Senses and Sensibilities
 - [[Compendium/Abilities/Awareness|Awareness]]
-- [[Compendium/Cypher/Abilities/B/Beast-Eyes|Beast Eyes]]
-- [[Compendium/Cypher/Abilities/B/Break-the-Line|Break the Line]]
-- [[Compendium/Cypher/Abilities/D/Detect-Life|Detect Life]]
-- [[Compendium/Cypher/Abilities/D/Distance-Viewing|Distance Viewing]]
-- [[Compendium/Cypher/Abilities/E/Echolocation|Echolocation]]
-- [[Compendium/Cypher/Abilities/E/Experienced-Finder|Experienced Finder]]
+- [[Compendium/Abilities/Beast-Eyes|Beast Eyes]]
+- [[Compendium/Abilities/Break-the-Line|Break the Line]]
+- [[Compendium/Abilities/Detect-Life|Detect Life]]
+- [[Compendium/Abilities/Distance-Viewing|Distance Viewing]]
+- [[Compendium/Abilities/Echolocation|Echolocation]]
+- [[Compendium/Abilities/Experienced-Finder|Experienced Finder]]
 - Inhabit Crystal
 - Remote Viewing
 - Sensing Package
@@ -856,8 +856,8 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 **High Tier**:
 
 - [[Compendium/Abilities/Amplify-Sounds|Amplify Sounds]]
-- [[Compendium/Cypher/Abilities/B/Battlefield-Tactician|Battlefield Tactician]]
-- [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
+- [[Compendium/Abilities/Battlefield-Tactician|Battlefield Tactician]]
+- [[Compendium/Abilities/Dark-Explorer|Dark Explorer]]
 - Infer Thoughts
 - Master Machine
 - See Through Time
@@ -869,9 +869,9 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Connected|Connected]]
-- [[Compendium/Cypher/Abilities/D/Debate|Debate]]
-- [[Compendium/Cypher/Abilities/D/Demeanor-of-Command|Demeanor of Command]]
+- [[Compendium/Abilities/Connected|Connected]]
+- [[Compendium/Abilities/Debate|Debate]]
+- [[Compendium/Abilities/Demeanor-of-Command|Demeanor of Command]]
 - Impart Ideal
 - Misdirect Blame
 - Negotiate
@@ -883,8 +883,8 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Betrayal|Betrayal]]
-- [[Compendium/Cypher/Abilities/F/Flamboyant-Boast|Flamboyant Boast]]
+- [[Compendium/Abilities/Betrayal|Betrayal]]
+- [[Compendium/Abilities/Flamboyant-Boast|Flamboyant Boast]]
 - Informer
 - Oratory
 - Perfect Stranger
@@ -902,24 +902,24 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Abilities/Advantage-to-Disadvantage|Advantage to Disadvantage]]
 - [[Compendium/Abilities/Aggression|Aggression]]
 - [[Compendium/Abilities/Arcane-Flare|Arcane Flare]]
-- [[Compendium/Cypher/Abilities/B/Bash|Bash]]
-- [[Compendium/Cypher/Abilities/B/Bloodlust|Bloodlust]]
-- [[Compendium/Cypher/Abilities/C/Concussive-Blast|Concussive Blast]]
-- [[Compendium/Cypher/Abilities/C/Control-the-Field|Control the Field]]
-- [[Compendium/Cypher/Abilities/C/Cutting-Light|Cutting Light]]
-- [[Compendium/Cypher/Abilities/D/Dazzling-Sunburst|Dazzling Sunburst]]
-- [[Compendium/Cypher/Abilities/D/Disincentivize|Disincentivize]]
-- [[Compendium/Cypher/Abilities/D/Disrupting-Touch|Disrupting Touch]]
-- [[Compendium/Cypher/Abilities/D/Drain-Machine|Drain Machine]]
-- [[Compendium/Cypher/Abilities/D/Dream-Thief|Dream Thief]]
-- [[Compendium/Cypher/Abilities/D/Dual-Light-Wield|Dual Light Wield]]
-- [[Compendium/Cypher/Abilities/E/Entangling-Force|Entangling Force]]
-- [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
-- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
-- [[Compendium/Cypher/Abilities/E/Eye-Gouge|Eye Gouge]]
-- [[Compendium/Cypher/Abilities/F/Flash|Flash]]
-- [[Compendium/Cypher/Abilities/F/Force-Bash|Force Bash]]
-- [[Compendium/Cypher/Abilities/F/Frost-Touch|Frost Touch]]
+- [[Compendium/Abilities/Bash|Bash]]
+- [[Compendium/Abilities/Bloodlust|Bloodlust]]
+- [[Compendium/Abilities/Concussive-Blast|Concussive Blast]]
+- [[Compendium/Abilities/Control-the-Field|Control the Field]]
+- [[Compendium/Abilities/Cutting-Light|Cutting Light]]
+- [[Compendium/Abilities/Dazzling-Sunburst|Dazzling Sunburst]]
+- [[Compendium/Abilities/Disincentivize|Disincentivize]]
+- [[Compendium/Abilities/Disrupting-Touch|Disrupting Touch]]
+- [[Compendium/Abilities/Drain-Machine|Drain Machine]]
+- [[Compendium/Abilities/Dream-Thief|Dream Thief]]
+- [[Compendium/Abilities/Dual-Light-Wield|Dual Light Wield]]
+- [[Compendium/Abilities/Entangling-Force|Entangling Force]]
+- [[Compendium/Abilities/Enthrall|Enthrall]]
+- [[Compendium/Abilities/Erase-Memories|Erase Memories]]
+- [[Compendium/Abilities/Eye-Gouge|Eye Gouge]]
+- [[Compendium/Abilities/Flash|Flash]]
+- [[Compendium/Abilities/Force-Bash|Force Bash]]
+- [[Compendium/Abilities/Frost-Touch|Frost Touch]]
 - Golem Grip
 - Grasping Foliage
 - Hemorrhage
@@ -953,32 +953,32 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Abilities/Acrobatic-Attack|Acrobatic Attack]]
 - Ambusher
 - [[Compendium/Abilities/Answering-Attack|Answering Attack]]
-- [[Compendium/Cypher/Abilities/B/Better-Surprise-Attack|Better Surprise Attack]]
-- [[Compendium/Cypher/Abilities/B/Bolts-of-Power|Bolts of Power]]
-- [[Compendium/Cypher/Abilities/B/Built-In-Weaponry|Built-in Weaponry]]
-- [[Compendium/Cypher/Abilities/B/Burning-Light|Burning Light]]
-- [[Compendium/Cypher/Abilities/C/Castigate|Castigate]]
-- [[Compendium/Cypher/Abilities/C/Center-of-Attention|Center of Attention]]
-- [[Compendium/Cypher/Abilities/C/Crystal-Lens|Crystal Lens]]
-- [[Compendium/Cypher/Abilities/D/Dark-Matter-Strike|Dark Matter Strike]]
-- [[Compendium/Cypher/Abilities/D/Dazing-Attack|Dazing Attack]]
-- [[Compendium/Cypher/Abilities/D/Debilitating-Strike|Debilitating Strike]]
-- [[Compendium/Cypher/Abilities/D/Destroy-Metal|Destroy Metal]]
-- [[Compendium/Cypher/Abilities/D/Disable-Mechanisms|Disable Mechanisms]]
-- [[Compendium/Cypher/Abilities/D/Disarming-Strike|Disarming Strike]]
+- [[Compendium/Abilities/Better-Surprise-Attack|Better Surprise Attack]]
+- [[Compendium/Abilities/Bolts-of-Power|Bolts of Power]]
+- [[Compendium/Abilities/Built-In-Weaponry|Built-in Weaponry]]
+- [[Compendium/Abilities/Burning-Light|Burning Light]]
+- [[Compendium/Abilities/Castigate|Castigate]]
+- [[Compendium/Abilities/Center-of-Attention|Center of Attention]]
+- [[Compendium/Abilities/Crystal-Lens|Crystal Lens]]
+- [[Compendium/Abilities/Dark-Matter-Strike|Dark Matter Strike]]
+- [[Compendium/Abilities/Dazing-Attack|Dazing Attack]]
+- [[Compendium/Abilities/Debilitating-Strike|Debilitating Strike]]
+- [[Compendium/Abilities/Destroy-Metal|Destroy Metal]]
+- [[Compendium/Abilities/Disable-Mechanisms|Disable Mechanisms]]
+- [[Compendium/Abilities/Disarming-Strike|Disarming Strike]]
 - Divine Radiance
-- [[Compendium/Cypher/Abilities/D/Dodge-and-Respond|Dodge and Respond]]
-- [[Compendium/Cypher/Abilities/D/Drain-Charge|Drain Charge]]
-- [[Compendium/Cypher/Abilities/D/Dual-Medium-Wield|Dual Medium Wield]]
-- [[Compendium/Cypher/Abilities/E/Everything-Is-a-Weapon|Everything Is a Weapon]]
-- [[Compendium/Cypher/Abilities/E/Exile|Exile]]
-- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
-- [[Compendium/Cypher/Abilities/F/Fire-and-Ice|Fire and Ice]]
-- [[Compendium/Cypher/Abilities/F/Fire-Bloom|Fire Bloom]]
-- [[Compendium/Cypher/Abilities/F/Fling|Fling]]
-- [[Compendium/Cypher/Abilities/F/Force-at-Distance|Force at Distance]]
-- [[Compendium/Cypher/Abilities/F/Force-Blast|Force Blast]]
-- [[Compendium/Cypher/Abilities/F/Freezing-Touch|Freezing Touch]]
+- [[Compendium/Abilities/Dodge-and-Respond|Dodge and Respond]]
+- [[Compendium/Abilities/Drain-Charge|Drain Charge]]
+- [[Compendium/Abilities/Dual-Medium-Wield|Dual Medium Wield]]
+- [[Compendium/Abilities/Everything-Is-a-Weapon|Everything Is a Weapon]]
+- [[Compendium/Abilities/Exile|Exile]]
+- [[Compendium/Abilities/Feint|Feint]]
+- [[Compendium/Abilities/Fire-and-Ice|Fire and Ice]]
+- [[Compendium/Abilities/Fire-Bloom|Fire Bloom]]
+- [[Compendium/Abilities/Fling|Fling]]
+- [[Compendium/Abilities/Force-at-Distance|Force at Distance]]
+- [[Compendium/Abilities/Force-Blast|Force Blast]]
+- [[Compendium/Abilities/Freezing-Touch|Freezing Touch]]
 - Golem Stomp
 - Grab
 - Gravity Cleave
@@ -1021,33 +1021,33 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - [[Compendium/Abilities/Assassin-Strike|Assassin Strike]]
 - [[Compendium/Abilities/Asserting-Your-Privilege|Asserting Your Privilege]]
 - [[Compendium/Abilities/Attack-and-Attack-Again|Attack and Attack Again]]
-- [[Compendium/Cypher/Abilities/B/Biomorphic-Detonation|Biomorphic Detonation]]
-- [[Compendium/Cypher/Abilities/B/Blind-Machine|Blind Machine]]
-- [[Compendium/Cypher/Abilities/B/Blinding-Attack|Blinding Attack]]
-- [[Compendium/Cypher/Abilities/B/Bouncing-Shield|Bouncing Shield]]
-- [[Compendium/Cypher/Abilities/B/Break-the-Ranks|Break the Ranks]]
-- [[Compendium/Cypher/Abilities/B/Break-Their-Mind|Break Their Mind]]
-- [[Compendium/Cypher/Abilities/C/Call-the-Storm|Call the Storm]]
-- [[Compendium/Cypher/Abilities/C/Cold-Burst|Cold Burst]]
-- [[Compendium/Cypher/Abilities/C/Concussion|Concussion]]
-- [[Compendium/Cypher/Abilities/D/Deactivate-Mechanism|Deactivate Mechanisms]]
-- [[Compendium/Cypher/Abilities/D/Deadly-Strike|Deadly Strike]]
-- [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
-- [[Compendium/Cypher/Abilities/D/Defense-Master|Defense Master]]
-- [[Compendium/Cypher/Abilities/D/Destroyer|Destroyer]]
-- [[Compendium/Cypher/Abilities/D/Dirty-Fighter|Dirty Fighter]]
-- [[Compendium/Cypher/Abilities/D/Disarming-Attack|Disarming Attack]]
-- [[Compendium/Cypher/Abilities/D/Divine-Intervention|Divine Intervention]]
-- [[Compendium/Cypher/Abilities/D/Divine-Symbol|Divine Symbol]]
-- [[Compendium/Cypher/Abilities/D/Do-You-Know-Who-I-Am|Do You Know Who I Am?]]
-- [[Compendium/Cypher/Abilities/D/Drain-Power|Drain Power]]
-- [[Compendium/Cypher/Abilities/D/Dust-to-Dust|Dust to Dust]]
-- [[Compendium/Cypher/Abilities/E/Earthquake|Earthquake]]
-- [[Compendium/Cypher/Abilities/E/Embrace-the-Night|Embrace the Night]]
-- [[Compendium/Cypher/Abilities/E/Explosive-Release|Explosive Release]]
-- [[Compendium/Cypher/Abilities/F/Finishing-Blow|Finishing Blow]]
-- [[Compendium/Cypher/Abilities/F/Fire-Tendrils|Fire Tendrils]]
-- [[Compendium/Cypher/Abilities/F/Foul-Aura|Foul Aura]]
+- [[Compendium/Abilities/Biomorphic-Detonation|Biomorphic Detonation]]
+- [[Compendium/Abilities/Blind-Machine|Blind Machine]]
+- [[Compendium/Abilities/Blinding-Attack|Blinding Attack]]
+- [[Compendium/Abilities/Bouncing-Shield|Bouncing Shield]]
+- [[Compendium/Abilities/Break-the-Ranks|Break the Ranks]]
+- [[Compendium/Abilities/Break-Their-Mind|Break Their Mind]]
+- [[Compendium/Abilities/Call-the-Storm|Call the Storm]]
+- [[Compendium/Abilities/Cold-Burst|Cold Burst]]
+- [[Compendium/Abilities/Concussion|Concussion]]
+- [[Compendium/Abilities/Deactivate-Mechanism|Deactivate Mechanisms]]
+- [[Compendium/Abilities/Deadly-Strike|Deadly Strike]]
+- [[Compendium/Abilities/Death-Touch|Death Touch]]
+- [[Compendium/Abilities/Defense-Master|Defense Master]]
+- [[Compendium/Abilities/Destroyer|Destroyer]]
+- [[Compendium/Abilities/Dirty-Fighter|Dirty Fighter]]
+- [[Compendium/Abilities/Disarming-Attack|Disarming Attack]]
+- [[Compendium/Abilities/Divine-Intervention|Divine Intervention]]
+- [[Compendium/Abilities/Divine-Symbol|Divine Symbol]]
+- [[Compendium/Abilities/Do-You-Know-Who-I-Am|Do You Know Who I Am?]]
+- [[Compendium/Abilities/Drain-Power|Drain Power]]
+- [[Compendium/Abilities/Dust-to-Dust|Dust to Dust]]
+- [[Compendium/Abilities/Earthquake|Earthquake]]
+- [[Compendium/Abilities/Embrace-the-Night|Embrace the Night]]
+- [[Compendium/Abilities/Explosive-Release|Explosive Release]]
+- [[Compendium/Abilities/Finishing-Blow|Finishing Blow]]
+- [[Compendium/Abilities/Fire-Tendrils|Fire Tendrils]]
+- [[Compendium/Abilities/Foul-Aura|Foul Aura]]
 - Ice Storm
 - Iron Punch
 - Jump Attack
@@ -1088,12 +1088,12 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - [[Compendium/Abilities/Advice-from-a-Friend|Advice From a Friend]]
 - [[Compendium/Abilities/Anecdote|Anecdote]]
 - [[Compendium/Abilities/Attack-Flourish|Attack Flourish]]
-- [[Compendium/Cypher/Abilities/D/Defend-the-Innocent|Defend the Innocent]]
-- [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
-- [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
-- [[Compendium/Cypher/Abilities/E/Encouraging-Presence|Encouraging Presence]]
-- [[Compendium/Cypher/Abilities/F/Force-Field|Force Field]]
-- [[Compendium/Cypher/Abilities/F/Friendly-Help|Friendly Help]]
+- [[Compendium/Abilities/Defend-the-Innocent|Defend the Innocent]]
+- [[Compendium/Abilities/Enable-Others|Enable Others]]
+- [[Compendium/Abilities/Encouragement|Encouragement]]
+- [[Compendium/Abilities/Encouraging-Presence|Encouraging Presence]]
+- [[Compendium/Abilities/Force-Field|Force Field]]
+- [[Compendium/Abilities/Friendly-Help|Friendly Help]]
 - Good Advice
 - Inspire Action
 - Inspire Aggression
@@ -1108,11 +1108,11 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 
 - [[Compendium/Abilities/Accelerate|Accelerate]]
 - [[Compendium/Abilities/Applying-Your-Knowledge|Applying Your Knowledge]]
-- [[Compendium/Cypher/Abilities/B/Buddy-System|Buddy System]]
-- [[Compendium/Cypher/Abilities/C/Combat-Challenge|Combat Challenge]]
-- [[Compendium/Cypher/Abilities/D/Defend-All-the-Innocent|Defend All the Innocent]]
-- [[Compendium/Cypher/Abilities/D/Dual-Wards|Dual Wards]]
-- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
+- [[Compendium/Abilities/Buddy-System|Buddy System]]
+- [[Compendium/Abilities/Combat-Challenge|Combat Challenge]]
+- [[Compendium/Abilities/Defend-All-the-Innocent|Defend All the Innocent]]
+- [[Compendium/Abilities/Dual-Wards|Dual Wards]]
+- [[Compendium/Abilities/Elemental-Protection|Elemental Protection]]
 - In Harm’s Way
 - Lead by Inquiry
 - Pay It Forward
@@ -1124,10 +1124,10 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 **High Tier**:
 
 - [[Compendium/Abilities/Able-Assistance|Able Assistance]]
-- [[Compendium/Cypher/Abilities/B/Battle-Management|Battle Management]]
-- [[Compendium/Cypher/Abilities/B/Block-for-Another|Block for Another]]
-- [[Compendium/Cypher/Abilities/E/Energize-Creature|Energize Creature]]
-- [[Compendium/Cypher/Abilities/E/Energize-Crowd|Energize Crowd]]
+- [[Compendium/Abilities/Battle-Management|Battle Management]]
+- [[Compendium/Abilities/Block-for-Another|Block for Another]]
+- [[Compendium/Abilities/Energize-Creature|Energize Creature]]
+- [[Compendium/Abilities/Energize-Crowd|Energize Crowd]]
 - Impart Understanding
 - Inspiration
 - Inspire Coordinated Actions
@@ -1153,32 +1153,32 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Abilities/Assassin-Skills|Assassin Skills]]
 - [[Compendium/Abilities/Athlete|Athlete]]
 - [[Compendium/Abilities/Autodoctor|Autodoctor]]
-- [[Compendium/Cypher/Abilities/B/Balance|Balance]]
-- [[Compendium/Cypher/Abilities/B/Bestiary-Knowledge|Bestiary Knowledge]]
-- [[Compendium/Cypher/Abilities/B/Blameless|Blameless]]
-- [[Compendium/Cypher/Abilities/B/Breaker|Breaker]]
-- [[Compendium/Cypher/Abilities/C/Car-Surfer|Car Surfer]]
-- [[Compendium/Cypher/Abilities/C/Careful-Aim|Careful Aim]]
-- [[Compendium/Cypher/Abilities/C/Celebrity-Talent|Celebrity Talent]]
-- [[Compendium/Cypher/Abilities/C/Computer-Programming|Computer Programming]]
-- [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
-- [[Compendium/Cypher/Abilities/C/Courageous|Courageous]]
-- [[Compendium/Cypher/Abilities/C/Crafter|Crafter]]
-- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
-- [[Compendium/Cypher/Abilities/D/Datajack|Datajack]]
-- [[Compendium/Cypher/Abilities/D/Debate|Debate]]
-- [[Compendium/Cypher/Abilities/D/Deep-Water-Guide|Deep Water Guide]]
-- [[Compendium/Cypher/Abilities/D/Designation]]
-- [[Compendium/Cypher/Abilities/D/Devoted-Defender|Devoted Defender]]
-- [[Compendium/Cypher/Abilities/D/Disguise|Disguise]]
+- [[Compendium/Abilities/Balance|Balance]]
+- [[Compendium/Abilities/Bestiary-Knowledge|Bestiary Knowledge]]
+- [[Compendium/Abilities/Blameless|Blameless]]
+- [[Compendium/Abilities/Breaker|Breaker]]
+- [[Compendium/Abilities/Car-Surfer|Car Surfer]]
+- [[Compendium/Abilities/Careful-Aim|Careful Aim]]
+- [[Compendium/Abilities/Celebrity-Talent|Celebrity Talent]]
+- [[Compendium/Abilities/Computer-Programming|Computer Programming]]
+- [[Compendium/Abilities/Contortionist|Contortionist]]
+- [[Compendium/Abilities/Courageous|Courageous]]
+- [[Compendium/Abilities/Crafter|Crafter]]
+- [[Compendium/Abilities/Danger-Sense|Danger Sense]]
+- [[Compendium/Abilities/Datajack|Datajack]]
+- [[Compendium/Abilities/Debate|Debate]]
+- [[Compendium/Abilities/Deep-Water-Guide|Deep Water Guide]]
+- [[Compendium/Abilities/Designation]]
+- [[Compendium/Abilities/Devoted-Defender|Devoted Defender]]
+- [[Compendium/Abilities/Disguise|Disguise]]
 - Divine Knowledge
-- [[Compendium/Cypher/Abilities/D/Driver|Driver]]
-- [[Compendium/Cypher/Abilities/E/Enlightened|Enlightened]]
-- [[Compendium/Cypher/Abilities/E/Exploratory-Experience|Exploratory Experience]]
-- [[Compendium/Cypher/Abilities/E/Extra-Skill|Extra Skill]]
-- [[Compendium/Cypher/Abilities/F/Feat-of-Strength|Feat of Strength]]
-- [[Compendium/Cypher/Abilities/F/Flex-Lore|Flex Lore]]
-- [[Compendium/Cypher/Abilities/F/Freakishly-Large|Freakishly Large]]
+- [[Compendium/Abilities/Driver|Driver]]
+- [[Compendium/Abilities/Enlightened|Enlightened]]
+- [[Compendium/Abilities/Exploratory-Experience|Exploratory Experience]]
+- [[Compendium/Abilities/Extra-Skill|Extra Skill]]
+- [[Compendium/Abilities/Feat-of-Strength|Feat of Strength]]
+- [[Compendium/Abilities/Flex-Lore|Flex Lore]]
+- [[Compendium/Abilities/Freakishly-Large|Freakishly Large]]
 - Game Lessons
 - Gamer
 - Good Advice
@@ -1269,13 +1269,13 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - [[Compendium/Abilities/Action-Processor|Action Processor]]
 - [[Compendium/Abilities/Agent-Provocateur|Agent Provocateur]]
 - Animal Senses and Sensibilities
-- [[Compendium/Cypher/Abilities/C/Confidence-Artist|Confidence Artist]]
-- [[Compendium/Cypher/Abilities/D/Dark-Matter-Shell|Dark Matter Shell]]
-- [[Compendium/Cypher/Abilities/E/Enhance-Strength|Enhance Strength]]
-- [[Compendium/Cypher/Abilities/E/Expert-Driver|Expert Driver]]
-- [[Compendium/Cypher/Abilities/E/Expert-Pilot|Expert Pilot]]
-- [[Compendium/Cypher/Abilities/F/Find-the-Guilty|Find the Guilty]]
-- [[Compendium/Cypher/Abilities/F/Flex-Skill|Flex Skill]]
+- [[Compendium/Abilities/Confidence-Artist|Confidence Artist]]
+- [[Compendium/Abilities/Dark-Matter-Shell|Dark Matter Shell]]
+- [[Compendium/Abilities/Enhance-Strength|Enhance Strength]]
+- [[Compendium/Abilities/Expert-Driver|Expert Driver]]
+- [[Compendium/Abilities/Expert-Pilot|Expert Pilot]]
+- [[Compendium/Abilities/Find-the-Guilty|Find the Guilty]]
+- [[Compendium/Abilities/Flex-Skill|Flex Skill]]
 - Ghost
 - Hard to See
 - Heightened Skills
@@ -1318,11 +1318,11 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 
 - [[Compendium/Abilities/Amplify-Sounds|Amplify Sounds]]
 - [[Compendium/Abilities/As-Foretold-In-Prophecy|As Foretold in Prophecy]]
-- [[Compendium/Cypher/Abilities/C/Coordinated-Effort|Coordinated Effort]]
-- [[Compendium/Cypher/Abilities/D/Dark-Explorer|Dark Explorer]]
-- [[Compendium/Cypher/Abilities/E/Explains-the-Ineffable|Explains the Ineffable]]
-- [[Compendium/Cypher/Abilities/E/Exploity-Advantage|Exploit Advantage]]
-- [[Compendium/Cypher/Abilities/F/Further-Mathematics|Further Mathematics]]
+- [[Compendium/Abilities/Coordinated-Effort|Coordinated Effort]]
+- [[Compendium/Abilities/Dark-Explorer|Dark Explorer]]
+- [[Compendium/Abilities/Explains-the-Ineffable|Explains the Ineffable]]
+- [[Compendium/Abilities/Exploity-Advantage|Exploit Advantage]]
+- [[Compendium/Abilities/Further-Mathematics|Further Mathematics]]
 - Learned a Few Things
 - Like the Back of Your Hand
 - Magnificent Moment
@@ -1342,11 +1342,11 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **Low Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Beast-Form|Beast Form]]
-- [[Compendium/Cypher/Abilities/B/Bigger|Bigger]]
-- [[Compendium/Cypher/Abilities/C/Controlled-Change|Controlled Change]]
-- [[Compendium/Cypher/Abilities/E/Enlarge|Enlarge]]
-- [[Compendium/Cypher/Abilities/F/Face-Morph|Face Morph]]
+- [[Compendium/Abilities/Beast-Form|Beast Form]]
+- [[Compendium/Abilities/Bigger|Bigger]]
+- [[Compendium/Abilities/Controlled-Change|Controlled Change]]
+- [[Compendium/Abilities/Enlarge|Enlarge]]
+- [[Compendium/Abilities/Face-Morph|Face Morph]]
 - Golem Healing
 - Illusory Disguise
 - Phased Pocket
@@ -1355,9 +1355,9 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **Mid Tier**:
 
-- [[Compendium/Cypher/Abilities/B/Bigger-Beast-Form|Bigger Beast Form]]
-- [[Compendium/Cypher/Abilities/B/Blend-In|Blend In]]
-- [[Compendium/Cypher/Abilities/E/Evanesce|Evanesce]]
+- [[Compendium/Abilities/Bigger-Beast-Form|Bigger Beast Form]]
+- [[Compendium/Abilities/Blend-In|Blend In]]
+- [[Compendium/Abilities/Evanesce|Evanesce]]
 - Greater Controlled Change
 - Hard to See
 - Huge
@@ -1366,9 +1366,9 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **High Tier**:
 
-- [[Compendium/Cypher/Abilities/C/Colossal|Colossal]]
-- [[Compendium/Cypher/Abilities/C/Command-Metal|Command Metal]]
-- [[Compendium/Cypher/Abilities/D/Disappear|Disappear]]
+- [[Compendium/Abilities/Colossal|Colossal]]
+- [[Compendium/Abilities/Command-Metal|Command Metal]]
+- [[Compendium/Abilities/Disappear|Disappear]]
 - Gargantuan
 - Invisibility
 - Mask

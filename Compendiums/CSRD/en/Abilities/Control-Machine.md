@@ -2,7 +2,7 @@
 aliases:
   - Control Machine
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

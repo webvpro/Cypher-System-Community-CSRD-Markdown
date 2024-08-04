@@ -2,7 +2,7 @@
 aliases:
   - Drain Machine
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3+ Intellect

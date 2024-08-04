@@ -2,7 +2,7 @@
 aliases:
   - Enlarge
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

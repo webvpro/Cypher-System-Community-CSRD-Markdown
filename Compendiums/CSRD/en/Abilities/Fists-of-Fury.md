@@ -2,8 +2,8 @@
 aliases:
   - Fists of Fury
 tags:
-  - Cypher/Abilities/F
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

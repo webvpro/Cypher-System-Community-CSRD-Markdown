@@ -2,7 +2,7 @@
 aliases:
   - Beast Form
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

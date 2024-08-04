@@ -2,8 +2,8 @@
 aliases:
   - Experienced in Armor
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

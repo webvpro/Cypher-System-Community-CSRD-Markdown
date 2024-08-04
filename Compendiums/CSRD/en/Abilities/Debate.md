@@ -2,7 +2,7 @@
 aliases:
   - Debate
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3 Intellect

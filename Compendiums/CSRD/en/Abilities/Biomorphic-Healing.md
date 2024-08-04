@@ -2,7 +2,7 @@
 aliases:
   - Biomorphic Healing
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

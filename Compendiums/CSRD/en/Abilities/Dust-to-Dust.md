@@ -2,7 +2,7 @@
 aliases:
   - Dust to Dust
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 ---

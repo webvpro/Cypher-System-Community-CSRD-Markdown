@@ -2,7 +2,7 @@
 aliases:
   - Buddy System
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

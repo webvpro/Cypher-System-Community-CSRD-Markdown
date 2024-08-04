@@ -2,7 +2,7 @@
 aliases:
   - Fast Travel
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

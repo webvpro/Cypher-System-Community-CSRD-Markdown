@@ -2,8 +2,6 @@
 aliases:
   - Chamber of Dreams
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
 type:
   - Action
 points:

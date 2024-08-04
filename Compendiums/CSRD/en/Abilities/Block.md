@@ -2,7 +2,7 @@
 aliases:
   - Block
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

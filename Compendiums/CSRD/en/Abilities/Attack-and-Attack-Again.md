@@ -3,7 +3,7 @@ aliases:
   - Attack and Attack Again
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

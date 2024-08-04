@@ -2,8 +2,6 @@
 aliases:
   - Colossal
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Colossal

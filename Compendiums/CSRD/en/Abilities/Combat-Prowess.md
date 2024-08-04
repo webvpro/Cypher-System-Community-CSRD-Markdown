@@ -2,8 +2,6 @@
 aliases:
   - Combat Prowess
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Combat Prowess

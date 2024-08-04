@@ -2,7 +2,7 @@
 aliases:
   - Beast Call
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

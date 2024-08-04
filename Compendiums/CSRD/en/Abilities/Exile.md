@@ -2,7 +2,7 @@
 aliases:
   - Exile
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

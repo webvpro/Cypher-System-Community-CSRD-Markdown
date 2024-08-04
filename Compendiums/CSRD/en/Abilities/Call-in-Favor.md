@@ -2,8 +2,8 @@
 aliases:
   - Call in Favor
 tags:
-  - Cypher/Abilities/C
-  - Abilitiesction
+  - Action
+  - Abilities/Group/Category/
 type:
   - Action
 points:

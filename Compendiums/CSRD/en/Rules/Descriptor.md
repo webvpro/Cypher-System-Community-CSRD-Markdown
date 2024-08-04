@@ -21,7 +21,7 @@ The descriptors available are:
 
 | Descriptor                                                   |                                              |                           |                                   |
 | ------------------------------------------------------------ | -------------------------------------------- | ------------------------- | --------------------------------- |
-| [Appealing](Compendium/Cypher/Descriptors/Appealing.md)     | [Beneficent](Compendium/Cypher/Descriptors/Beneficent.md) | [Brash](Compendium/Cypher/Descriptors/Brash.md)     | [Calm](Compendium/Cypher/Descriptors/Calm.md)         |
+| [[Appealing]]   | [Beneficent](Compendium/Cypher/Descriptors/Beneficent.md) | [Brash](Compendium/Cypher/Descriptors/Brash.md)     | [Calm](Compendium/Cypher/Descriptors/Calm.md)         |
 | [Chaotic](Compendium/Cypher/Descriptors/Chaotic.md)         | [Charming](Compendium/Cypher/Descriptors/Charming.md)    | [Clever](Compendium/Cypher/Descriptors/Clever.md)   | [Clumsy](Compendium/Cypher/Descriptors/Clumsy.md)     |
 | [Craven](Compendium/Cypher/Descriptors/Craven.md)           | [Creative](Compendium/Cypher/Descriptors/Creative.md)  | [Cruel](Compendium/Cypher/Descriptors/Cruel.md)     | [Dishonorable](Compendium/Cypher/Descriptors/Dishonorable.md) |
 | [Doomed](Compendium/Cypher/Descriptors/Doomed.md)           | [Empathic](Compendium/Cypher/Descriptors/Empathic.md)  | [Exiled](Compendium/Cypher/Descriptors/Exiled.md)     | [Fast](Compendium/Cypher/Descriptors/Fast.md)         |

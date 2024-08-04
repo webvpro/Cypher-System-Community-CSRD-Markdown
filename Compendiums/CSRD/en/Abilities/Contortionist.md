@@ -2,8 +2,8 @@
 aliases:
   - Contortionist
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 points:

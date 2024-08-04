@@ -23,7 +23,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### First-Tier Stealth Abilities
 
-- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
+- [[Compendium/Abilities/Danger-Sense|Danger Sense]]
 - Goad
 - Legerdemain
 - Opportunist
@@ -31,16 +31,16 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### Second-Tier Stealth Abilities
 
-- [[Compendium/Cypher/Abilities/C/Contortionist|Contortionist]]
-- [[Compendium/Cypher/Abilities/F/Find-an-Opening|Find an Opening]]
+- [[Compendium/Abilities/Contortionist|Contortionist]]
+- [[Compendium/Abilities/Find-an-Opening|Find an Opening]]
 - Get Away
 - Sense Ambush
 - Surprise Attack
 
 ### Third-Tier Stealth Abilities
 
-- [[Compendium/Cypher/Abilities/E/Evanesce|Evanesce]]
-- [[Compendium/Cypher/Abilities/F/From-the-Shadows|From the Shadows]]
+- [[Compendium/Abilities/Evanesce|Evanesce]]
+- [[Compendium/Abilities/From-the-Shadows|From the Shadows]]
 - Gambler
 - Inner Defense
 - Misdirect
@@ -50,7 +50,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 ### Fourth-Tier Stealth Abilities
 
 - Ambusher
-- [[Compendium/Cypher/Abilities/D/Debilitating-Strike|Debilitating Strike]]
+- [[Compendium/Abilities/Debilitating-Strike|Debilitating Strike]]
 - Outwit
 - Preternatural Senses
 - Tumbling Moves
@@ -64,7 +64,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### Sixth-Tier Stealth Abilities
 
-- [[Compendium/Cypher/Abilities/E/Exploity-Advantage|Exploit Advantage]]
+- [[Compendium/Abilities/Exploity-Advantage|Exploit Advantage]]
 - Spring Away
 - Thief’s Luck
 - Twist of Fate
@@ -77,7 +77,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### First-Tier Technology Abilities
 
-- [[Compendium/Cypher/Abilities/D/Datajack|Datajack]]
+- [[Compendium/Abilities/Datajack|Datajack]]
 - Hacker
 - Machine Interface
 - Scramble Machine
@@ -86,7 +86,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### Second-Tier Technology Abilities
 
-- [[Compendium/Cypher/Abilities/D/Distant-Interface|Distant Interface]]
+- [[Compendium/Abilities/Distant-Interface|Distant Interface]]
 - Machine Efficiency
 - Overload Machine
 - Serv-0
@@ -112,7 +112,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 ### Fifth-Tier Technology Abilities
 
-- [[Compendium/Cypher/Abilities/C/Control-Machine|Control Machine]]
+- [[Compendium/Abilities/Control-Machine|Control Machine]]
 - Jury-Rig
 - Machine Companion
 
@@ -129,9 +129,9 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### First-Tier Magic Abilities
 
-- [[Compendium/Cypher/Abilities/B/Blessing-of-the-Gods|Blessing of the Gods]]
-- [[Compendium/Cypher/Abilities/C/Closed-Mind|Closed Mind]]
-- [[Compendium/Cypher/Abilities/E/Entangling-Force|Entangling Force]]
+- [[Compendium/Abilities/Blessing-of-the-Gods|Blessing of the Gods]]
+- [[Compendium/Abilities/Closed-Mind|Closed Mind]]
+- [[Compendium/Abilities/Entangling-Force|Entangling Force]]
 - Hedge Magic
 - Magic Training
 - Mental Link
@@ -139,32 +139,32 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### Second-Tier Magic Abilities
 
-- [[Compendium/Cypher/Abilities/C/Concussive-Blast|Concussive Blast]]
-- [[Compendium/Cypher/Abilities/F/Fetch|Fetch]]
+- [[Compendium/Abilities/Concussive-Blast|Concussive Blast]]
+- [[Compendium/Abilities/Fetch|Fetch]]
 - Force Field
 - Lock
 - Repair Flesh
 
 ### Third-Tier Magic Abilities
 
-- [[Compendium/Cypher/Abilities/D/Distance-Viewing|Distance Viewing]]
-- [[Compendium/Cypher/Abilities/F/Fire-Bloom|Fire Bloom]]
-- [[Compendium/Cypher/Abilities/F/Fling|Fling]]
-- [[Compendium/Cypher/Abilities/F/Force-at-Distance|Force at Distance]]
+- [[Compendium/Abilities/Distance-Viewing|Distance Viewing]]
+- [[Compendium/Abilities/Fire-Bloom|Fire Bloom]]
+- [[Compendium/Abilities/Fling|Fling]]
+- [[Compendium/Abilities/Force-at-Distance|Force at Distance]]
 - Summon Giant Spider
 
 ### Fourth-Tier Magic Abilities
 
-- [[Compendium/Cypher/Abilities/E/Elemental-Protection|Elemental Protection]]
+- [[Compendium/Abilities/Elemental-Protection|Elemental Protection]]
 - Ignition
 - Pry Open
 
 ### Fifth-Tier Magic Abilities
 
 - Create
-- [[Compendium/Cypher/Abilities/D/Divine-Intervention|Divine Intervention]]
-- [[Compendium/Cypher/Abilities/D/Dragons Maw|Dragon’s Maw]]
-- [[Compendium/Cypher/Abilities/F/Fast-Travel|Fast Travel]]
+- [[Compendium/Abilities/Divine-Intervention|Divine Intervention]]
+- [[Compendium/Abilities/Dragons Maw|Dragon’s Maw]]
+- [[Compendium/Abilities/Fast-Travel|Fast Travel]]
 - True Senses
 
 ### Sixth-Tier Magic Abilities
@@ -180,14 +180,14 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### First-Tier Combat Abilities
 
-- [[Compendium/Cypher/Abilities/D/Danger-Sense|Danger Sense]]
+- [[Compendium/Abilities/Danger-Sense|Danger Sense]]
 - Practiced in Armor
 - Practiced With Medium Weapons
 
 ### Second-Tier Combat Abilities
 
-- [[Compendium/Cypher/Abilities/B/Bloodlust|Bloodlust]]
-- [[Compendium/Cypher/Abilities/C/Combat-Prowess|Combat Prowess]]
+- [[Compendium/Abilities/Bloodlust|Bloodlust]]
+- [[Compendium/Abilities/Combat-Prowess|Combat Prowess]]
 - Trained Without Armor
 
 ### Third-Tier Combat Abilities
@@ -199,15 +199,15 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### Fourth-Tier Combat Abilities
 
-- [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
-- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
+- [[Compendium/Abilities/Capable-Warrior|Capable Warrior]]
+- [[Compendium/Abilities/Deadly-Aim|Deadly Aim]]
+- [[Compendium/Abilities/Fury|Fury]]
 - Misdirect
 - Spray
 
 ### Fifth-Tier Combat Abilities
 
-- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
+- [[Compendium/Abilities/Experienced-Defender|Experienced Defender]]
 - Hard Target
 - Parry
 
@@ -233,13 +233,13 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 ### Second-Tier Skills and Knowledge Abilities
 
-- [[Compendium/Cypher/Abilities/E/Extra-Skill|Extra Skill]]
+- [[Compendium/Abilities/Extra-Skill|Extra Skill]]
 - Tool Mastery
 - Understanding
 
 ### Third-Tier Skills and Knowledge Abilities
 
-- [[Compendium/Cypher/Abilities/F/Flex-Skill|Flex Skill]]
+- [[Compendium/Abilities/Flex-Skill|Flex Skill]]
 - Improvise
 
 ### Fourth-Tier Skills and Knowledge Abilities

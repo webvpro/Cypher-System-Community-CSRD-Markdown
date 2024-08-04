@@ -2,7 +2,7 @@
 aliases:
   - Burning Light
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

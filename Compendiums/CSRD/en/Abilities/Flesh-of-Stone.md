@@ -2,8 +2,8 @@
 aliases:
   - Flesh of Stone
 tags:
-  - Cypher/Abilities/F
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 cost: None

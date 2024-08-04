@@ -2,8 +2,8 @@
 aliases:
   - Blessing of the Gods
 tags:
-  - Cypher/Abilities/B
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
   - Abilitiesction
 type:
   - Enabler

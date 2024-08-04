@@ -2,7 +2,7 @@
 aliases:
   - Duel to the Death
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 ---

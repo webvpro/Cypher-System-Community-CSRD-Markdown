@@ -2,7 +2,7 @@
 aliases:
   - Entangling Force
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

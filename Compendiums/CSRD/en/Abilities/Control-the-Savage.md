@@ -2,7 +2,7 @@
 aliases:
   - Control the Savage
 tags:
-  - Cypher/Abilities/C
+  - Abilities
   - Abilitiesction-Initiate
 type:
   - Action

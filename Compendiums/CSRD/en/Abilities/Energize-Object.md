@@ -2,7 +2,7 @@
 aliases:
   - Energize Object
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

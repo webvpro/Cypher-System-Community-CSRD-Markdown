@@ -2,7 +2,7 @@
 aliases:
   - Detect Life
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3+ Might

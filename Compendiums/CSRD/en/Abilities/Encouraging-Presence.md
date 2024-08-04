@@ -2,7 +2,7 @@
 aliases:
   - Encouraging Presence
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

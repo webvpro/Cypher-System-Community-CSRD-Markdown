@@ -2,7 +2,7 @@
 aliases:
   - Enhance Strength
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

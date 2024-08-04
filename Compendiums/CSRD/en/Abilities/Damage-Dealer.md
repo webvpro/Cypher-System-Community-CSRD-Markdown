@@ -3,8 +3,8 @@ aliases:
   - Damage Dealer
 points: 0
 tags:
-  - Cypher/Abilities/D
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type: Enabler
 ---
 

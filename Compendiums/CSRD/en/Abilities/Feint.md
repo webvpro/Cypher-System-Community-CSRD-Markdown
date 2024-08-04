@@ -2,7 +2,7 @@
 aliases:
   - Feint
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -3,7 +3,7 @@ aliases:
   - Arcane Flare
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
   - Abilitiesction
 points:
   - 1 Intellect

@@ -2,7 +2,7 @@
 aliases:
   - Dazzling Sunburst
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 2 Intellect

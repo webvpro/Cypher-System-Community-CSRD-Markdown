@@ -3,7 +3,7 @@ aliases:
   - Assassin Skills
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

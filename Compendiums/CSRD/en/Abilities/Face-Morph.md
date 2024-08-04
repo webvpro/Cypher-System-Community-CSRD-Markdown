@@ -2,7 +2,7 @@
 aliases:
   - Face Morph
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

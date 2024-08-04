@@ -2,7 +2,7 @@
 aliases:
   - Fury
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -2,7 +2,7 @@
 aliases:
   - Deep Consideration
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 6 Intellect

@@ -2,7 +2,7 @@
 aliases:
   - Do You Know Who I Am?
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 3 Intellect

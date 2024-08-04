@@ -2,7 +2,7 @@
 aliases:
   - Energy Protection
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

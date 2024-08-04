@@ -2,7 +2,7 @@
 aliases:
   - Biomorphic Detonation
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

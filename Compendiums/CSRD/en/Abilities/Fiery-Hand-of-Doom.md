@@ -2,7 +2,7 @@
 aliases:
   - Fiery Hand of Doom
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action to create

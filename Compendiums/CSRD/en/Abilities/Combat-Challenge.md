@@ -2,8 +2,6 @@
 aliases:
   - Combat Challenge
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Combat Challenge

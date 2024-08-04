@@ -2,7 +2,7 @@
 aliases:
   - Fast Talk
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

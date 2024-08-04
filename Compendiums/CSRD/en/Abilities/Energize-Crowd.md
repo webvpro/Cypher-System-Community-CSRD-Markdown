@@ -2,7 +2,7 @@
 aliases:
   - Energize Crowd
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

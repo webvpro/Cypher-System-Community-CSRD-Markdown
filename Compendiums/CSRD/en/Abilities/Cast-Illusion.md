@@ -2,8 +2,6 @@
 aliases:
   - Cast Illusion
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Cast Illusion

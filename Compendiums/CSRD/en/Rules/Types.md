@@ -137,9 +137,9 @@ Appropriate clothing and two weapons of your choice, plus one expensive item, tw
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
-- [[Compendium/Cypher/Abilities/B/Bash|Bash]]
-- [[Compendium/Cypher/Abilities/C/Combat-Prowess|Combat Prowess]]
-- [[Compendium/Cypher/Abilities/C/Control-the-Field|Control the Field]]
+- [[Compendium/Abilities/Bash|Bash]]
+- [[Compendium/Abilities/Combat-Prowess|Combat Prowess]]
+- [[Compendium/Abilities/Control-the-Field|Control the Field]]
 - Improved Edge
 - No Need for Weapons
 - Overwatch
@@ -153,7 +153,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/C/Crushing-Blow|Crushing Blow]]
+- [[Compendium/Abilities/Crushing-Blow|Crushing Blow]]
 - Hemorrhage
 - Reload
 - Skill With Attacks
@@ -164,11 +164,11 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/D/Deadly-Aim|Deadly Aim]]
-- [[Compendium/Cypher/Abilities/E/Energy-Resistance|Energy Resistance]]
-- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
-- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
-- [[Compendium/Cypher/Abilities/F/Fury|Fury]]
+- [[Compendium/Abilities/Deadly-Aim|Deadly Aim]]
+- [[Compendium/Abilities/Energy-Resistance|Energy Resistance]]
+- [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Abilities/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Abilities/Fury|Fury]]
 - Lunge
 - Reaction
 - Seize the Moment
@@ -182,9 +182,9 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Amazing-Effort|Amazing Effort]]
-- [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- [[Compendium/Cypher/Abilities/E/Experienced-Defender|Experienced Defender]]
-- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
+- [[Compendium/Abilities/Capable-Warrior|Capable Warrior]]
+- [[Compendium/Abilities/Experienced-Defender|Experienced Defender]]
+- [[Compendium/Abilities/Feint|Feint]]
 - Increased Effects
 - Momentum
 - Pry Open
@@ -211,7 +211,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Again-and-Again|Again and Again]]
-- [[Compendium/Cypher/Abilities/F/Finishing-Blow|Finishing Blow]]
+- [[Compendium/Abilities/Finishing-Blow|Finishing Blow]]
 - Magnificent Moment
 - Murderer
 - Spin Attack
@@ -221,7 +221,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
-He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses [[Compendium/Cypher/Abilities/C/Combat-Prowess|Combat Prowess]] so he can inflict extra damage with his big knife.
+He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses [[Compendium/Abilities/Combat-Prowess|Combat Prowess]] so he can inflict extra damage with his big knife.
 
 Ray wants to be fast as well as tough, so he selects Improved Edge. This gives him a Speed Edge of 1. He rounds out his character with Physical Skills and chooses swimming and running.
 
@@ -336,7 +336,7 @@ Your Effort is 1.
 
 You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
 
-**[[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]**:
+**[[Compendium/Abilities/Expert-Cypher-Use|Expert Cypher Use]]**:
 
 You can bear three cyphers at a time.
 
@@ -352,9 +352,9 @@ You can use light weapons without penalty. You have an inability with medium wea
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)
 
-- [[Compendium/Cypher/Abilities/D/Distortion|Distortion]]
-- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
-- [[Compendium/Cypher/Abilities/F/Far-Step|Far Step]]
+- [[Compendium/Abilities/Distortion|Distortion]]
+- [[Compendium/Abilities/Erase-Memories|Erase Memories]]
+- [[Compendium/Abilities/Far-Step|Far Step]]
 - Hedge Magic
 - Magic Training
 - Onslaught
@@ -369,7 +369,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Adaptation|Adaptation]]
-- [[Compendium/Cypher/Abilities/C/Cutting-Light|Cutting Light]]
+- [[Compendium/Abilities/Cutting-Light|Cutting Light]]
 - Hover
 - Mind Reading
 - Retrieve Memories
@@ -386,10 +386,10 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Adroit-Cypher-Use|Adroit Cypher Use]]
-- [[Compendium/Cypher/Abilities/C/Countermeasures|Countermeasures]]
-- [[Compendium/Cypher/Abilities/E/Energy-Protection|Energy Protection]]
-- [[Compendium/Cypher/Abilities/F/Fire-and-Ice|Fire and Ice]]
-- [[Compendium/Cypher/Abilities/F/Force-Field-Barrier|Force Field Barrier]]
+- [[Compendium/Abilities/Countermeasures|Countermeasures]]
+- [[Compendium/Abilities/Energy-Protection|Energy Protection]]
+- [[Compendium/Abilities/Fire-and-Ice|Fire and Ice]]
+- [[Compendium/Abilities/Force-Field-Barrier|Force Field Barrier]]
 - Sensor
 - Targeting Eye
 
@@ -397,8 +397,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/D/Death-Touch|Death Touch]]
-- [[Compendium/Cypher/Abilities/E/Exile|Exile]]
+- [[Compendium/Abilities/Death-Touch|Death Touch]]
+- [[Compendium/Abilities/Exile|Exile]]
 - Invisibility
 - Matter Cloud
 - Mind Control
@@ -413,10 +413,10 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Absorb-Energy|Absorb Energy]]
-- [[Compendium/Cypher/Abilities/C/Concussion|Concussion]]
-- [[Compendium/Cypher/Abilities/C/Conjuration|Conjuration]]
-- [[Compendium/Cypher/Abilities/C/Create|Create]]
-- [[Compendium/Cypher/Abilities/D/Dust-to-Dust|Dust to Dust]]
+- [[Compendium/Abilities/Concussion|Concussion]]
+- [[Compendium/Abilities/Conjuration|Conjuration]]
+- [[Compendium/Abilities/Create|Create]]
+- [[Compendium/Abilities/Dust-to-Dust|Dust to Dust]]
 - Knowing the Unknown
 - Master Cypher Use
 - Teleportation
@@ -426,8 +426,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/C/Control-Weather|Control Weather]]
-- [[Compendium/Cypher/Abilities/E/Earthquake|Earthquake]]
+- [[Compendium/Abilities/Control-Weather|Control Weather]]
+- [[Compendium/Abilities/Earthquake|Earthquake]]
 - Move Mountains
 - Traverse the Worlds
 - Usurp Cypher
@@ -564,12 +564,12 @@ You can use light and medium weapons without penalty. You have an inability with
 
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
-- [[Compendium/Cypher/Abilities/B/Block|Block]]
+- [[Compendium/Abilities/Block|Block]]
 - Danger Sense
-- [[Compendium/Cypher/Abilities/D/Decipher|Decipher]]
-- [[Compendium/Cypher/Abilities/E/Endurance|Endurance]]
-- [[Compendium/Cypher/Abilities/F/Find-the-Way|Find the Way]]
-- [[Compendium/Cypher/Abilities/F/Fleet-of-Foot|Fleet of Foot]]
+- [[Compendium/Abilities/Decipher|Decipher]]
+- [[Compendium/Abilities/Endurance|Endurance]]
+- [[Compendium/Abilities/Find-the-Way|Find the Way]]
+- [[Compendium/Abilities/Fleet-of-Foot|Fleet of Foot]]
 - Improved Edge
 - Knowledge Skills
 - Muscles of Iron
@@ -584,12 +584,12 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/C/Curious|Curious]]
-- [[Compendium/Cypher/Abilities/D/Danger-Instinct|Danger Instinct]]
-- [[Compendium/Cypher/Abilities/E/Enable-Others|Enable Others]]
-- [[Compendium/Cypher/Abilities/E/Escape|Escape]]
-- [[Compendium/Cypher/Abilities/E/Eye-for-Detail|Eye for Detail]]
-- [[Compendium/Cypher/Abilities/F/Foil-Danger|Foil Danger]]
+- [[Compendium/Abilities/Curious|Curious]]
+- [[Compendium/Abilities/Danger-Instinct|Danger Instinct]]
+- [[Compendium/Abilities/Enable-Others|Enable Others]]
+- [[Compendium/Abilities/Escape|Escape]]
+- [[Compendium/Abilities/Eye-for-Detail|Eye for Detail]]
+- [[Compendium/Abilities/Foil-Danger|Foil Danger]]
 - Hand to Eye
 - Investigative Skills
 - Quick Recovery
@@ -603,9 +603,9 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/C/Controlled-Fall|Controlled Fall]]
-- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
-- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Abilities/Controlled-Fall|Controlled Fall]]
+- [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Abilities/Expert-Cypher-Use|Expert Cypher Use]]
 - Ignore the Pain
 - Obstacle Running
 - Resilience
@@ -621,8 +621,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/C/Capable-Warrior|Capable Warrior]]
-- [[Compendium/Cypher/Abilities/E/Expert-Skill|Expert Skill]]
+- [[Compendium/Abilities/Capable-Warrior|Capable Warrior]]
+- [[Compendium/Abilities/Expert-Skill|Expert Skill]]
 - Increased Effects
 - Read the Signs
 - Runner
@@ -634,7 +634,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Adroit-Cypher-Use|Adroit Cypher Use]]
-- [[Compendium/Cypher/Abilities/F/Free-to-Move|Free to Move]]
+- [[Compendium/Abilities/Free-to-Move|Free to Move]]
 - Group Friendship
 - Hard to Kill
 - Jump Attack
@@ -789,12 +789,12 @@ Appropriate clothing and a light weapon of your choice, plus two expensive items
 Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
 
 - [[Compendium/Abilities/Anecdote|Anecdote]]
-- [[Compendium/Cypher/Abilities/B/Babel|Babel]]
-- [[Compendium/Cypher/Abilities/D/Demeanor-of-Command|Demeanor of Command]]
-- [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]]
-- [[Compendium/Cypher/Abilities/E/Enthrall|Enthrall]]
-- [[Compendium/Cypher/Abilities/E/Erase-Memories|Erase Memories]]
-- [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]]
+- [[Compendium/Abilities/Babel|Babel]]
+- [[Compendium/Abilities/Demeanor-of-Command|Demeanor of Command]]
+- [[Compendium/Abilities/Encouragement|Encouragement]]
+- [[Compendium/Abilities/Enthrall|Enthrall]]
+- [[Compendium/Abilities/Erase-Memories|Erase Memories]]
+- [[Compendium/Abilities/Fast-Talk|Fast Talk]]
 - Inspire Aggression
 - Interaction Skills
 - Practiced With Medium Weapons
@@ -806,9 +806,9 @@ Choose four of the abilities listed below. You can’t choose the same ability m
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [[Compendium/Cypher/Abilities/B/Basic-Follower|Basic Follower]]
-- [[Compendium/Cypher/Abilities/C/Calm-Stranger|Calm Stranger]]
-- [[Compendium/Cypher/Abilities/D/Disincentivize|Disincentivize]]
+- [[Compendium/Abilities/Basic-Follower|Basic Follower]]
+- [[Compendium/Abilities/Calm-Stranger|Calm Stranger]]
+- [[Compendium/Abilities/Disincentivize|Disincentivize]]
 - Gather Intelligence
 - Impart Ideal
 - Inspiring Ease
@@ -823,10 +823,10 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Accelerate|Accelerate]]
-- [[Compendium/Cypher/Abilities/B/Blend-In|Blend In]]
+- [[Compendium/Abilities/Blend-In|Blend In]]
 - Discerning Mind
-- [[Compendium/Cypher/Abilities/E/Expert-Cypher-Use|Expert Cypher Use]]
-- [[Compendium/Cypher/Abilities/E/Expert-Follower|Expert Follower]]
+- [[Compendium/Abilities/Expert-Cypher-Use|Expert Cypher Use]]
+- [[Compendium/Abilities/Expert-Follower|Expert Follower]]
 - Grand Deception
 - Lead by Inquiry
 - Mind Reading
@@ -840,8 +840,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Anticipate-Attack|Anticipate Attack]]
-- [[Compendium/Cypher/Abilities/C/Confounding-Banter|Confounding Banter]]
-- [[Compendium/Cypher/Abilities/F/Feint|Feint]]
+- [[Compendium/Abilities/Confounding-Banter|Confounding Banter]]
+- [[Compendium/Abilities/Feint|Feint]]
 - Heightened Skills
 - Psychosis
 - Read the Signs
@@ -854,10 +854,10 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Adroit-Cypher-Use|Adroit Cypher Use]]
-- [[Compendium/Cypher/Abilities/D/Discipline-of-Watchfulness|Discipline of Watchfulness]]
-- [[Compendium/Cypher/Abilities/E/Experienced-in-Armor|Experienced in Armor]]
+- [[Compendium/Abilities/Discipline-of-Watchfulness|Discipline of Watchfulness]]
+- [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]
 - Flee
-- [[Compendium/Cypher/Abilities/F/Foul-Aura|Foul Aura]]
+- [[Compendium/Abilities/Foul-Aura|Foul Aura]]
 - Knowing the Unknown
 - Regeneration
 - Skill With Attacks
@@ -868,8 +868,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Compendium/Abilities/Assume-Control|Assume Control]]
-- [[Compendium/Cypher/Abilities/B/Battle-Management|Battle Management]]
-- [[Compendium/Cypher/Abilities/C/Crowd-Control|Crowd Control]]
+- [[Compendium/Abilities/Battle-Management|Battle Management]]
+- [[Compendium/Abilities/Crowd-Control|Crowd Control]]
 - Inspiring Success
 - Recruit Deputy
 - Shatter Mind
@@ -880,7 +880,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
-Mary chooses [[Compendium/Cypher/Abilities/F/Fast-Talk|Fast Talk]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Cypher/Abilities/E/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary chooses [[Compendium/Abilities/Fast-Talk|Fast Talk]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Abilities/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
 
 A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 
@@ -888,7 +888,7 @@ Mary’s character carries a small knife hidden in her bag in case of trouble. A
 
 Mary chooses [[Compendium/Cypher/Descriptors/Resilient|Resilient]] for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
 
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in [[Compendium/Cypher/Abilities/B/Balance|balance]]. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
+For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in [[Compendium/Abilities/Balance|balance]]. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 
 For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.
 

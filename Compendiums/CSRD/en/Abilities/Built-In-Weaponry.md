@@ -2,7 +2,7 @@
 aliases:
   - Built-in Weaponry
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

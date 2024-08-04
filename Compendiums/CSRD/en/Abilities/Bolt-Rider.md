@@ -2,7 +2,7 @@
 aliases:
   - Bolt Rider
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

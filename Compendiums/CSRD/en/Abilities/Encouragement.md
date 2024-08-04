@@ -2,7 +2,7 @@
 aliases:
   - Encouragement
 tags:
-  - Cypher/Abilities/E
+  - Abilities
   - Abilitiesction
 type:
   - Action

@@ -2,8 +2,6 @@
 aliases:
   - Closed Mind
 tags:
-  - Cypher/Abilities/C
-  - Cypher/Abilities/Enabler
 ---
 
 # Closed Mind

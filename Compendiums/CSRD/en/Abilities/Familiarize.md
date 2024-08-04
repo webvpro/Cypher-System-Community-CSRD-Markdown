@@ -2,7 +2,7 @@
 aliases:
   - Familiarize
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action

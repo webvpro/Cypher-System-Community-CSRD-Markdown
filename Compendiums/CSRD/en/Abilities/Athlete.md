@@ -3,7 +3,7 @@ aliases:
   - Athlete
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type: Enabler
 ---
 

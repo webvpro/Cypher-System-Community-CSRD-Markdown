@@ -2,7 +2,7 @@
 aliases:
   - Find the Hidden
 tags:
-  - Cypher/Abilities/F
+  - Abilities
   - Abilitiesction
 type:
   - Action to initiate

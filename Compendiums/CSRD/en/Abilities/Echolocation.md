@@ -2,8 +2,8 @@
 aliases:
   - Echolocation
 tags:
-  - Cypher/Abilities/E
-  - Cypher/Abilities/Enabler
+  - Abilities
+  - Abilitiesnabler
 type:
   - Enabler
 ---

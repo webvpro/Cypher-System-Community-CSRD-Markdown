@@ -2,7 +2,7 @@
 aliases:
   - Blinding Attack
 tags:
-  - Cypher/Abilities/B
+  - Abilities
   - Abilitiesction
 type:
   - Action

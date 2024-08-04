@@ -2,7 +2,7 @@
 aliases:
   - Divert Attacks
 tags:
-  - Cypher/Abilities/D
+  - Abilities
   - Abilitiesction
 type: Action
 points: 4 Speed

@@ -3,7 +3,7 @@ aliases:
   - Answering Attack
 tags:
   - Abilities
-  - Cypher/Abilities/Enabler
+  - Abilitiesnabler
 type:
   - Enabler
 points:
