@@ -2,9 +2,10 @@
 aliases:
   - Ward
 tags:
-  - 
+  - Abilities
+  - low-tier
 type:
-  - 
+  - Enabler
 ---
 ### Ward
 
