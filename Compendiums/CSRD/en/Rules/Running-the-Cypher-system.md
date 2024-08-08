@@ -171,5 +171,5 @@ If cyphers are the expendable magic that is ever-present in fantasy, artifacts a
 ### EXAMPLE FANTASY ARTIFACTS
 The rest of this chapter is examples of artifacts suitable for a fantasy game. The artifacts are divided into two tables—one for minor items (artifacts that don’t have particularly flashy or world-affecting abilities) and one for major items (artifacts that do). A GM running a campaign where magic is subtle, weak, or otherwise limited can use the minor items table, and a GM of a campaign where some magic can do powerful or even impossible things can roll on either table.
 
-![[Minor Fantasy Artifacts]]  
+![[Minor-Fantasy-Artifacts]]  
 

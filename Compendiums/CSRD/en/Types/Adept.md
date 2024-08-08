@@ -25,7 +25,7 @@ When playing an Adept, you can spend 1 XP to use one of the following player int
 You get 6 additional points to divide among your stat Pools however you wish.
 Adept Background Connection
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.  
-![[Adept Background Connection]]  
+![[Adept-Background-Connection]]  
 #### FIRST-TIER ADEPT  
 **First-tier Adepts have the following abilities**  
 **Effort:** Your Effort is 1.  

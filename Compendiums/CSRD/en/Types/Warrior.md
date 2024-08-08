@@ -25,7 +25,7 @@ You’re a good ally to have in a fight. You know how to use weapons and defend 
 **Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 #### Warrior Background Connection  
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
-![[Warrior Background Connection]]  
+![[Warrior-Background-Connection]]  
 #### WARRIOR PLAYER INTRUSIONS  
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.  
 **Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.  
