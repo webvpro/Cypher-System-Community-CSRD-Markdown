@@ -1,0 +1,38 @@
+Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.  
+The Cypher System has no definitive list of skills. However, the following list offers ideas:  
+- Astronomy
+- Balancing
+- Biology
+- Botany
+- Carrying
+- Climbing
+- Computers
+- Deceiving
+- Disguise
+- Escaping
+- Geography
+- Geology
+- Healing
+- History
+- Identifying
+- Initiative
+- Intimidation
+- Jumping
+- Leatherworking
+- Lockpicking
+- Machinery
+- Metalworking
+- Perception
+- Persuasion
+- Philosophy
+- Physics
+- Pickpocketing
+- Piloting
+- Repairing
+- Riding
+- Smashing
+- Sneaking
+- Stealth
+- Swimming
+- Vehicle driving
+- Woodworking 
