@@ -2,12 +2,16 @@
 aliases:
   - All-Out Con
 tags:
-  - Abilities
-  - Compendium/CSRD/en/Rules/Abilities/Action
+  - CSRD/en/Abilities
+  - Pool/Intellect
+  - Action
 type:
   - Action
-points:
-  - 7 Intellect
+pool:
+  - Intellect
+  - 
+point-cost:
+  - 7
 ---
 
 # All-Out Con

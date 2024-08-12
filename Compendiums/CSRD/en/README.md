@@ -4,6 +4,6 @@ The Cypher System Community CSRD in Markdown and [Obsidian](https://obsidian.md/
 
 ## Acknowledgement 
 
-If it wasn't for the [[LICENSE|CSOL]] and the work of this other CSRD project [[https://github.com/Obsidian-TTRPG-Community/Cypher-SRD-Markdown|Cypher SRD in Markdown]], this project would not be here. 
+If it wasn't for the [CSOL]( http://csol.montecookgames.com) and the work of this other CSRD project [Cypher SRD in Markdown](https://github.com/Obsidian-TTRPG-Community/Cypher-SRD-Markdown), this project would not be here. 
 
-![[LICENSE]]
+![[Compendiums/CSRD/en/CSOL|CSOL]]

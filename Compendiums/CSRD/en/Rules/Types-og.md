@@ -10,9 +10,10 @@ tags:
 
 Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 
-(In some roleplaying games, your character type might be called your character class.)
+>In some roleplaying games, your character type might be called your character class.  
 
-You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
+You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish.  
+>Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.
 
 A few Player Intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation.
 
