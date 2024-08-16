@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Charging Horde
+- Charging Horde
 tags:
-type:
-  - Action
-points:
-  - 7 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Meta
 ---
 
-# Charging Horde
-
-**Points**: 7 Might Points
-**Type**: Action
-
-You and two or more of your followers next to you can act like a single creature to make a charge attack. When you do, all of you move up to a short distance, during which time you can attack anything that comes within immediate range along your path with an asset to the attack. Targets that take damage take an additional 3 points and are knocked prone.
+  
+## Charging Horde  
+>7  Might  
+  
+You and two or more of your followers next to you can act like a single creature to make a charge attack. When you do, all of you move up to a short distance, during which time you can attack anything that comes within immediate range along your path with an asset to the attack. Targets that take damage take an additional 3 points and are knocked prone. Action.

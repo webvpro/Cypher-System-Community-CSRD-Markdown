@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Decipher
+- Decipher
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 1 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
 
-# Decipher
-
-**Points**: 1 Intellect Point
-**Type**: Action
-
-If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message.
+  
+## Decipher  
+>1  Intellect  
+  
+If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate.

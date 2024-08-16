@@ -1,16 +1,19 @@
 ---
 aliases:
-  - Dodge and Respond
+- Dodge and Respond
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
-points: 3 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Protection
+- Ability/Categories/Special-Attack
 ---
 
-# Dodge and Respond
-
-**Points**: 3 Might Points
-**Type**: Enabler
-
-If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn.
+  
+## Dodge and Respond  
+>3+  Might  
+  
+If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. Enabler.

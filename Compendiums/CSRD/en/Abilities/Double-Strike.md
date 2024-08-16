@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Double Strike
+- Double Strike
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 3 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Might
+- Ability/Categories/Meta
 ---
 
-# Double Strike
-
-**Points**: 3 Might Points
-**Type**: Action
-
-When you wield two weapons, you can choose to make one attack roll against a foe. If you hit, you inflict damage with both weapons plus 2 additional points of damage, and because you made a single attack, the target’s Armor is subtracted only once.
+  
+## Double Strike  
+>3  Might  
+  
+When you wield two weapons, you can choose to make one attack roll against a foe. If you hit, you inflict damage with both weapons plus 2 additional points of damage, and because you made a single attack, the target's Armor is subtracted only once. Action.

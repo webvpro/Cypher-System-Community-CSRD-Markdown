@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Nimble Swimmer
+- Nimble Swimmer
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
-### Nimble Swimmer
 
+  
+## Nimble Swimmer  
 You are trained in all defense actions while underwater. Enabler.

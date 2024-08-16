@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Fast Kill
+- Fast Kill
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-cost: 2 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
 
-# Fast Kill
-
-**Cost**: 2 Speed points
-**Type**: Action
-
-You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can’t make this attack in two consecutive rounds. Action.
+  
+## Fast Kill  
+>2  Speed  
+  
+You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can't make this attack in two consecutive rounds. Action.

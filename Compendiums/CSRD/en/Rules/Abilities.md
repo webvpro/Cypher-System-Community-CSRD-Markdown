@@ -467,11 +467,11 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 
 **Mid Tier**:
 
-- [[Compendium/Abilities/Amazing-Effort|Amazing Effort]]
-- [[Compendium/Abilities/Betrayal|Betrayal]]
-- [[Compendium/Abilities/Better-Living-Through-Chemistry|Better Living Through Chemistry]]
-- [[Compendium/Abilities/Capable-Warrior|Capable Warrior]]
-- [[Compendium/Abilities/Cast-Illusion|Cast Illusion]]
+- [[Amazing-Effort|Amazing Effort]]
+- [[Betrayal|Betrayal]]
+- [[Better-Living-Through-Chemistry|Better Living Through Chemistry]]
+- [[Capable-Warrior|Capable Warrior]]
+- [[Cast-Illusion|Cast Illusion]]
 - [[Compendium/Abilities/Cybersmith|Cyphersmith]]
 - [[Compendium/Abilities/Deadly-Aim|Deadly Aim]]
 - [[Compendium/Abilities/Deep-Resources|Deep Resources]]

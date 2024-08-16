@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Master Cypher Use
+- Master Cypher Use
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Meta
 ---
-### Master Cypher Use
 
+  
+## Master Cypher Use  
 You can bear five cyphers at a time. Enabler.

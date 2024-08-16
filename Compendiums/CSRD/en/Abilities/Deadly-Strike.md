@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Deadly Strike
+- Deadly Strike
 tags:
-  - Cypher/Abilities/M
-  - Abilitiesction
-type: Action
-points: 5 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
 
-# Deadly Strike
-
-**Points**: 5 Might Points
-**Type**: Action
-
-If you strike a foe of level 3 or lower with a weapon you’re practiced with, you kill the target instantly.
+  
+## Deadly Strike  
+>5  Might  
+  
+If you strike a foe of level 3 or lower with a weapon you're practiced with, you kill the target instantly. Action.

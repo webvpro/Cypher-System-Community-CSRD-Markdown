@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Charm Machine
+- Charm Machine
 tags:
-type:
-  - Action
-points:
-  - 2 intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
 
-# Charm Machine
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You convince an unintelligent machine to “like” you. A machine that likes you is 50 percent less likely to function if said function would cause you harm. Thus, if a foe attempts to detonate a bomb near you controlled by a detonator that likes you, there is a 50 percent chance that it won’t explode.
+  
+## Charm Machine  
+>2  Intellect  
+  
+You convince an unintelligent machine to "like" you. A machine that likes you is 50 percent less likely to function if said function would cause you harm. Thus, if a foe attempts to detonate a bomb near you controlled by a detonator that likes you, there is a 50 percent chance that it won't explode. Action to initiate.

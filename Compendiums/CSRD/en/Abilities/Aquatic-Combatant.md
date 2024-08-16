@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Aquatic Combatant
+- Aquatic Combatant
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Cure
 ---
 
-# Aquatic Combatant
-
-**Type**: Enabler
-
-You ignore penalties for any action (including fighting) in underwater environments.
+  
+## Aquatic Combatant  
+You ignore penalties for any action (including fighting) in underwater environments. Enabler.

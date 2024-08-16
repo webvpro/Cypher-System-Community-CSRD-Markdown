@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Band of Followers
+- Band of Followers
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Companion
 ---
 
-# Band of Followers
-
-**Type**: Enabler
-
-You gain four level 3 followers. They are not restricted on their modifications.
+  
+## Band of Followers  
+You gain four level 3 followers. They are not restricted on their modifications. Enabler.

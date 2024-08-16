@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Battle Management
+- Battle Management
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-points:
-  - 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
 
-# Battle Management
-
-**Points**: 4 Intellect points
-**Type**: Action
-
-As long as you use your action each round giving orders or advice, attack and defense actions taken by your allies within short range are eased.
+  
+## Battle Management  
+>4  Intellect  
+  
+As long as you use your action each round giving orders or advice, attack and defense actions taken by your allies within short range are eased. Action.

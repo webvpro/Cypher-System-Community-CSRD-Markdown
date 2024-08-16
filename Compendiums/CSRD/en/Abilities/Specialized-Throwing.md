@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Specialized Throwing
+- Specialized Throwing
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Attack-Skill
 ---
-### Specialized Throwing
 
+  
+## Specialized Throwing  
 You are specialized in attacks with all weapons that you throw. Enabler.

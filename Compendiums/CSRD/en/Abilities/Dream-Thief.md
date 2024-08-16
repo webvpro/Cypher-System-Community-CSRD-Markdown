@@ -1,16 +1,19 @@
 ---
 aliases:
-  - Dream Thief
+- Dream Thief
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 2 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
+- Ability/Categories/Special-Attack
 ---
 
-# Dream Thief
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You steal a previous dream from a living creature within short range. The creature loses 2 points of Intellect (ignores Armor), and you learn something the GM chooses to reveal about the creature—its nature, a portion of its plans, a memory, and so on.
+  
+## Dream Thief  
+>2  Intellect  
+  
+You steal a previous dream from a living creature within short range. The creature loses 2 points of Intellect (ignores Armor), and you learn something the GM chooses to reveal about the creature-its nature, a portion of its plans, a memory, and so on. Action.

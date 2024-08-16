@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Telling
+- Telling
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
-### Telling
 
-(2 Intellect points)
-
+  
+## Telling  
+>2  Intellect  
+  
 This ability provides an asset to any tasks for attempting to deceive, persuade, or intimidate. Each use lasts up to a minute; a new use (to switch tasks) replaces the previous use. Action to initiate.

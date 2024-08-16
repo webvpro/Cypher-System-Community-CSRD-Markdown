@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Microgravity Avoidance
+- Microgravity Avoidance
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Protection
 ---
-### Microgravity Avoidance
 
-By taking advantage of microgravity conditions, you gain an asset to Speed defense tasks while in zero-gravity or low-gravity conditions. Enabler.
+  
+## Microgravity Avoidance  
+By taking advantage of microgravity conditions, you gain an asset to Speed defense tasks while in zero-gravity orlow-gravity conditions. Enabler.

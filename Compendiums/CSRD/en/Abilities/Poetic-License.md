@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Poetic License
+- Poetic License
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
-### Poetic License
 
+  
+## Poetic License  
 You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. Enabler.

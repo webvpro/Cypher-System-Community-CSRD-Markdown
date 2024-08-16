@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Anecdote
+- Anecdote
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action to initiate, one minute to complete
-points:
-  - 2 intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
 
-# Anecdote
-
-**Points**: 2 Intellect Points
-**Type**: Action to initiate, one minute to complete.
-
-You can lift the spirits of a group of creatures and help them bond together by entertaining them with an uplifting or pointed anecdote. For the next hour, those who pay attention to your story are trained in a task you choose that’s related to the anecdote, as long as it’s not an attack or defense task.
+  
+## Anecdote  
+>2  Intellect  
+  
+You can lift the spirits of a group of creatures and help them bond together by entertaining them with an uplifting or pointed anecdote. For the next hour, those who pay attention to your story are trained in a task you choose that's related to the anecdote, as long as it's not an attack or defense task. Action to initiate, one minute to complete.

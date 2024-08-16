@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Flee
+- Flee
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-cost: 6 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
 
-# Flee
-
-**Cost**: 6 Intellect points
-**Type**: Action
-
+  
+## Flee  
+>6  Intellect  
+  
 All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. Action.

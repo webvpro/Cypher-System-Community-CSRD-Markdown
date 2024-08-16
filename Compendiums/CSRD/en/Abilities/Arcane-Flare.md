@@ -1,22 +1,19 @@
 ---
 aliases:
-  - Arcane Flare
+- Arcane Flare
 tags:
-  - Abilities
-  - Abilitiesnabler
-  - Abilitiesction
-points:
-  - 1 Intellect
-type:
-  - Enabler for enhancement
-  - Action for long-range attack
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
+- Ability/Categories/Special-Attack
 ---
 
-# Arcane Flare
-
-**Points**: 1 Intellect point
-**Type**: Enabler for enhancement; Action for long-range attack
-
-You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. 
-
-Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage.
+  
+## Arcane Flare  
+>1  Intellect  
+  
+You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage. Enabler for enhancement; action for long-range attack.

@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Dazing Attack
+- Dazing Attack
 tags:
-  - Cypher/Abilities/M
-  - Abilitiesction
-type: Action
-points: 3 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
 
-# Dazing Attack
-
-**Points**: 3 Might Points
-**Type**: Action
-
-You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage.
+  
+## Dazing Attack  
+>3  Might  
+  
+You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action.

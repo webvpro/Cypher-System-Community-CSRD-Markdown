@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enveloping Shield
+- Enveloping Shield
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
 
-# Enveloping Shield
-
-**Type**: Enabler
-
-Your [[Compendium/Abilities/Force-Field-Shield|Force Field Shield]] ability produces an envelope of force that enfolds you while you are holding the shield, granting you +1 to Armor. Enabler.
+  
+## Enveloping Shield  
+Your Force Field Shield ability produces an envelope of force that enfolds you while you are holding the shield, granting you +1 to Armor. Enabler.

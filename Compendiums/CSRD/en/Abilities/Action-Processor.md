@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Action Processor
+- Action Processor
 tags:
-  - Abilities
-  - Compendium/CSRD/en/Rules/Abilities/Action-Initiate
-type: Action to initiate
-points: 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
 
-# Action Processor
-
-**Points**: 4 Intellect points
-**Type**: Action to initiate
-
-Drawing upon stored information and the ability to process incoming data at amazing speeds, you are trained in one physical task of your choice for ten minutes.
-
-For example, you can choose running, climbing, swimming, Speed defense, or attacks with a specific weapon.
+  
+## Action Processor  
+>4  Intellect  
+  
+Drawing upon stored information and the ability to process incoming data at amazing speeds, you are trained in one physical task of your choice for ten minutes. For example, you can choose running, climbing, swimming, Speed defense, or attacks with a specific weapon. Action to initiate.

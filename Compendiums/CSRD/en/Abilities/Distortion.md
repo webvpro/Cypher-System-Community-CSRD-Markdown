@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Distortion
+- Distortion
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 2 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
 
-# Distortion
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You modify how a willing creature within short range reflects light for one minute. The target rapidly shifts between its normal appearance and a blot of darkness. The target has an asset on Speed defense rolls until the effect wears off.
+  
+## Distortion  
+>2  Intellect  
+  
+You modify how a willing creature within short range reflects light for one minute. The target rapidly shifts between its normal appearance and a blot of darkness. The target has an asset on Speed defense rolls until the effect wears off. Action to initiate.

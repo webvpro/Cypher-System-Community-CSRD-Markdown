@@ -1,13 +1,15 @@
 ---
 aliases:
-  - Fists of Fury
+- Fists of Fury
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
 
-# Fists of Fury
-
+  
+## Fists of Fury  
 You inflict 2 additional points of damage with unarmed attacks. Enabler.

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Find an Opening
+- Find an Opening
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-cost: 1 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
 
-# Find an Opening
-
-**Cost**: 1 Intellect point
-**Type**: Action
-
-You use trickery to find an opening in your foe’s defenses. If you succeed on a Speed roll against one creature within immediate range, your next attack against that creature before the end of the next round is eased. Action.
+  
+## Find an Opening  
+>1  Intellect  
+  
+You use trickery to find an opening in your foe's defenses. If you succeed on a Speed roll against one creature within immediate range, your next attack against that creature before the end of the next round is eased. Action.

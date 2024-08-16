@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Frost Touch
+- Frost Touch
 tags:
-  - Abilities
-  - Abilitiesction
-  - Abilitiesnabler
-type:
-  - Action for touch
-  - Enabler for weapon
-cost: 1 Intellect (Action); Enabler (Weapon)
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
 
-# Frost Touch
-
-**Cost**: 1 Intellect point (Action); Enabler (Weapon)
-**Type**: Action (for touch); Enabler (for weapon)
-
-Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold.
+  
+## Frost Touch  
+>1  Intellect  
+  
+Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold. Action for touch; enabler for weapon.

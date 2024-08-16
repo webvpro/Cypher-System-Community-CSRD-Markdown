@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Tracker
+- Tracker
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
-### Tracker
 
+  
+## Tracker  
 You are trained in following and identifying tracks. Enabler.

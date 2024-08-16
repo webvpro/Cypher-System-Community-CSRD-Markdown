@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Blameless
+- Blameless
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Blameless
-
-**Type**: Enabler
-
-You are trained in one of the following: deception, stealth, or disguise.
+  
+## Blameless  
+You are trained in one of the following: deception, stealth, or disguise. Enabler.

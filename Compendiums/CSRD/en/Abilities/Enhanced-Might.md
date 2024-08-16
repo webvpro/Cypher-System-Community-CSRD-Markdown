@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enhanced Might
+- Enhanced Might
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Enhanced Might
-
-**Type**: Enabler
-
+  
+## Enhanced Might  
 You gain 3 points to your Might Pool. Enabler.

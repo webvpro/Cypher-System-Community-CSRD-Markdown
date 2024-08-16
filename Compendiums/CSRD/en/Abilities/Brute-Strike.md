@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Brute Strike
+- Brute Strike
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-points:
-  - 4 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/4
+- Ability/Tier/NA
+- Ability/Pool/Might
 ---
 
-# Brute Strike
-
-**Points**: 4 Might Points
-**Type**: Enabler
-
-You deal 4 additional points of damage with all melee attacks until the end of the next round.
+  
+## Brute Strike  
+>4+  Might  
+  
+You deal 4 additional points of damage with all melee attacks until the end of the next round. Enabler.

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Confounding Banter
+- Confounding Banter
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
 
-# Confounding Banter
-
-**Points**: 4 Intellect Points
-**Type**: Action
-
-You spew a stream of nonsense to distract a foe within immediate range. On a successful Intellect roll, your defense roll against the creature’s next attack before the end of the next round is eased.
+  
+## Confounding Banter  
+>4  Intellect  
+  
+You spew a stream of nonsense to distract a foe within immediate range. On a successful Intellect roll, your defense roll against the creature's next attack before the end of the next round is eased. Action.

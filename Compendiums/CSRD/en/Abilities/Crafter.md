@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Crafter
+- Crafter
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Crafter
-
-**Type**: Enabler
-
-You are trained in the crafting of two kinds of items.
+  
+## Crafter  
+You are trained in the crafting of two kinds of items. Enabler.

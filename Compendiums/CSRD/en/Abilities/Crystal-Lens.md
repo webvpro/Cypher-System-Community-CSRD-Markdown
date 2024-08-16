@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Crystal Lens
+- Crystal Lens
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
 
-# Crystal Lens
-
-**Type**: Action
-
-You can focus the inherent energy surging through you from your [[Compendium/Abilities/Crystalline-Body|Crystalline Body]] ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range.
+  
+## Crystal Lens  
+You can focus the inherent energy surging through you from your Crystalline Body ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range. Action.

@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Hard to Distract
+- Hard to Distract
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
-### Hard to Distract
 
+  
+## Hard to Distract  
 You are trained in Intellect defense tasks. Enabler.

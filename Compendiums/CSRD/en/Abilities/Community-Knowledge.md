@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Community Knowledge
+- Community Knowledge
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 2 intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
 
-# Community Knowledge
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-If you’ve invested yourself in a community and have spent at least a few months living there, you can learn things about it through a variety of methods. Sometimes contacts slip the information to you. Other times, you’re able to draw conclusions simply by what you can see and hear. When you use this ability, you can ask the GM one question about the community and get a very short answer.
+  
+## Community Knowledge  
+>2  Intellect  
+  
+If you've invested yourself in a community and have spent at least a few months living there, you can learn things about it through a variety of methods. Sometimes contacts slip the information to you. Other times, you're able to draw conclusions simply by what you can see and hear. When you use this ability, you can ask the GM one question about the community and get a very short answer. Action.

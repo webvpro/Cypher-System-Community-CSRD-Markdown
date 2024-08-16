@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Control the Field
+- Control the Field
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 1 Might
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
 
-# Control the Field
-
-**Points**: 1 Might Point
-**Type**: Action
-
-This melee attack inflicts 1 less point of damage than normal, and regardless of whether you hit the target, you maneuver it into a position you desire within immediate range.
+  
+## Control the Field  
+>1  Might  
+  
+This melee attack inflicts 1 less point of damage than normal, and regardless of whether you hit the target, you maneuver it into a position you desire within immediate range. Action.

@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Damage Dealer
-points: 0
+- Damage Dealer
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Meta
 ---
 
-# Damage Dealer
-
-**Type**: Enabler
-
-You inflict an additional 3 points of damage with your chosen weapon.
+  
+## Damage Dealer  
+You inflict an additional 3 points of damage with your chosen weapon. Enabler.

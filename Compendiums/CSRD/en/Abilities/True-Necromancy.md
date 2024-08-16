@@ -1,13 +1,18 @@
 ---
 aliases:
-  - True Necromancy
+- True Necromancy
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/8
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
-### True Necromancy
 
-(8+ Intellect points)
-
+  
+## True Necromancy  
+>8  Intellect  
+  
 This ability works like the Necromancy ability except that it creates a level 5 creature. Action to animate.

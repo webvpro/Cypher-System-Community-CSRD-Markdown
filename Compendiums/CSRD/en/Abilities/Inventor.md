@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Inventor
+- Inventor
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Meta
 ---
-### Inventor
 
+  
+## Inventor  
 You can create new artifacts in half the time, as if they were two levels lower, by spending half the normal XP. Enabler.

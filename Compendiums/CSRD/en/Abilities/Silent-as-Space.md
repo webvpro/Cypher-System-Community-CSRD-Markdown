@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Silent as Space
+- Silent As Space
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
-### Silent as Space
 
+  
+## Silent As Space  
 By taking advantage of microgravity conditions, you gain an asset to stealth and initiative tasks while in zero-gravity or low-gravity conditions. Enabler.

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Control Machine
+- Control Machine
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 6 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
 
-# Control Machine
-
-**Points**: 6 Intellect Points
-**Type**: Action
-
-You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes.
+  
+## Control Machine  
+>6  Intellect  
+  
+You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action.

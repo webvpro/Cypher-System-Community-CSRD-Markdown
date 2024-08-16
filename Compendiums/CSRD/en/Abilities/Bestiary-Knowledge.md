@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Bestiary Knowledge
+- Bestiary Knowledge
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Bestiary Knowledge
-
-**Type**: Enabler
-
-You are trained in the lore of flesh-eating, nonhumanoid creatures—recognizing them, knowing their weaknesses, and understanding their habits and behaviors.
+  
+## Bestiary Knowledge  
+You are trained in the lore of flesh-eating, nonhumanoid creatures-recognizing them, knowing their weaknesses, and knowing their habits and behaviors. Enabler.

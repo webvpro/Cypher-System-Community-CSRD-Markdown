@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enlightened
+- Enlightened
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Enlightened
-
-**Type**: Enabler
-
+  
+## Enlightened  
 You are trained in any perception task that involves sight. Enabler.

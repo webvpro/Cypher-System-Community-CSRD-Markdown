@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Acrobatic Attack
+- Acrobatic Attack
 tags:
-  - Abilities
-  - Cypher/Rules/Abilities/Enabler
-type: Enabler
-points: 1 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/1
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
 
-# Acrobatic Attack
-
-**Points**: 1+ Speed points
-**Type**: Enabler
-
-You leap into the attack, twisting or flipping through the air. If you roll a natural 17 or 18, you can choose to have a minor effect rather than deal extra damage. If you apply Effort to the attack, you get a free level of Effort on the task. You can’t use this ability if your Speed Effort costs are reduced from wearing armor.
+  
+## Acrobatic Attack  
+>1+  Speed  
+  
+You leap into the attack, twisting or flipping through the air. If you roll a natural 17 or 18, you can choose to have a minor effect rather than deal extra damage. If you apply Effort to the attack, you get a free level of Effort on the task. You can't use this ability if your Speed Effort costs are reduced from wearing armor. Enabler.

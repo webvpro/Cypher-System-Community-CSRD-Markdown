@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Deflect Attacks
+- Deflect Attacks
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 1 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
 
-# Deflect Attacks
-
-**Points**: 1 Intellect Point
-**Type**: Action
-
-Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks.
+  
+## Deflect Attacks  
+>1  Intellect  
+  
+Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks. Action to initiate.

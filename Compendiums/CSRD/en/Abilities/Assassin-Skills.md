@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Assassin Skills
+- Assassin Skills
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Assassin Skills
-
-**Type**: Enabler
-
-You are trained in stealth and disguise tasks.
+  
+## Assassin Skills  
+You are trained in stealth and disguise tasks. Enabler.

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Answering Attack
+- Answering Attack
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-points:
-  - 3 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
 
-# Answering Attack
-
-**Points**: 3 Speed Points
-**Type**: Enabler
-
-If you are struck in melee, you can make an immediate melee attack against that attacker once per round. The attack is hindered, and you can still take your normal action during the round.
+  
+## Answering Attack  
+>3+  Speed  
+  
+If you are struck in melee, you can make an immediate melee attack against that attacker once per round. The attack is hindered, and you can still take your normal action during the round. Enabler.

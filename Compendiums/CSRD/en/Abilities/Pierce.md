@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Pierce
+- Pierce
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
-### Pierce
 
-(1 Speed point)
-
+  
+## Pierce  
+>1  Speed  
+  
 This is a well-aimed, penetrating ranged attack. You make an attack and inflict 1 additional point of damage if your weapon has a sharp point. Action.

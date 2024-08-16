@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Encouraging Presence
+- Encouraging Presence
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-points:
-  - 2 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
 
-# Encouraging Presence
-
-**Points**: 2 Intellect points
-**Type**: Action
-
+  
+## Encouraging Presence  
+>2  Intellect  
+  
 For one minute, allies within short range gain an asset on defense rolls. Action.

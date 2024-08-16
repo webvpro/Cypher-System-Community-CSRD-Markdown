@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Improved Command Spirit
+- Improved Command Spirit
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Meta
 ---
-### Improved Command Spirit
 
-When you use your Command Spirit ability, you can command a spirit or animate undead creature of up to level 7. Enabler.
+  
+## Improved Command Spirit  
+When you use your Command Spirit ability, you can command a spirit or animate undead creature of up to level 7.Enabler.

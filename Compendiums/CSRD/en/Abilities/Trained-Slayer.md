@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Trained Slayer
+- Trained Slayer
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
-### Trained Slayer
 
+  
+## Trained Slayer  
 You are trained in using swords. Enabler.

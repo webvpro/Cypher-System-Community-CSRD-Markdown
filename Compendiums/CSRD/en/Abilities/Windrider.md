@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Windrider
+- Windrider
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
-### Windrider
 
-(4+ Intellect points)
-
+  
+## Windrider  
+>4  Intellect  
+  
 You summon winds that pick you up and allow you to fly for one minute at a rate of up to a long distance each round. For each level of Effort you apply, you can carry one ally of about your size with you through the air or increase the duration of the effect by one minute. Action to initiate.

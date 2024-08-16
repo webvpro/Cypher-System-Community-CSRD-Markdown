@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Arc Spray
+- Arc Spray
 tags:
-  - Abilities
-  - Abilitiesction
-points:
-  - 3 Speed
-type:
-  - Action
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/3
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
 
-# Arc Spray
-
-**Points**: 3 Speed points
-**Type**: Action
-
-If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered.
+  
+## Arc Spray  
+>3  Speed  
+  
+If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. Action.

@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Surging Confidence
+- Surging Confidence
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Might
+- Ability/Categories/Cure
 ---
-### Surging Confidence
 
-(1 Might point)
-
+  
+## Surging Confidence  
+>1+  Might  
+  
 When you use an action to make your first recovery roll of the day, you immediately gain another action. Enabler.

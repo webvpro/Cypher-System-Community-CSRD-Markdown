@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Define Down
+- Define Down
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
 
-# Define Down
-
-**Points**: 4 Intellect Points
-**Type**: Action
-
-The natural gravity within an area a short distance across that you are within immediate range of changes directions so that it flows in the direction you determine (up, up and to the south, west, and so on) for a few seconds, then snaps back. Affected targets could be tossed up to 20 feet (6 m) and take a few points of damage.
+  
+## Define Down  
+>4  Intellect  
+  
+The natural gravity within an area a short distance across that you are within immediate range of changes directions so that it flows in the direction you determine (up, up and to the south, west, and so on) for a few seconds, then snaps back. Affected targets could be tossed up to 20 feet (6 m) and take a few points of damage. Action.

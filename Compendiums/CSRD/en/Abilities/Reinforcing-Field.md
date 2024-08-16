@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Reinforcing Field
+- Reinforcing Field
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
-### Reinforcing Field
 
-(6+ Intellect points)
-
+  
+## Reinforcing Field  
+>6  Intellect  
+  
 You can reinforce any object or structure by infusing it with a force field for one hour. The force field increases the level of the object or structure by 2 for tasks related to durability and withstanding damage and destruction. Action to initiate.

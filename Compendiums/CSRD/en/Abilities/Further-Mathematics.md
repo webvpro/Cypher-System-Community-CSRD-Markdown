@@ -1,17 +1,15 @@
 ---
 aliases:
-  - Further Mathematics
+- Further Mathematics
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-cost: None
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Task
 ---
 
-# Further Mathematics
-
-**Cost**: None
-**Type**: Enabler
-
+  
+## Further Mathematics  
 You are specialized in higher mathematics. If you are already specialized, choose some other sphere of knowledge to become trained in. Enabler.

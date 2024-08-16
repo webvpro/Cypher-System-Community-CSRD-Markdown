@@ -1,17 +1,15 @@
 ---
 aliases:
-  - Flight Not Fight
+- Flight Not Fight
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-cost: None
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
 
-# Flight Not Fight
-
-**Cost**: None
-**Type**: Enabler
-
+  
+## Flight Not Fight  
 If you use your action only to move, all Speed defense tasks are eased. Enabler.

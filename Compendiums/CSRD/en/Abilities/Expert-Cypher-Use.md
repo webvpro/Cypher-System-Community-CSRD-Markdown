@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Expert Cypher Use
+- Expert Cypher Use
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Expert Cypher Use
-
-**Type**: Enabler
-
-You can bear three cyphers at a time. 
+  
+## Expert Cypher Use  
+You can bear three cyphers at a time. Enabler.

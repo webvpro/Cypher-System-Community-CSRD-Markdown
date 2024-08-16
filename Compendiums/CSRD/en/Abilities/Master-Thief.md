@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Master Thief
+- Master Thief
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
-### Master Thief
 
+  
+## Master Thief  
 You are trained in climbing, escaping from bonds, slipping through narrow places, and other contortionist moves. Enabler.

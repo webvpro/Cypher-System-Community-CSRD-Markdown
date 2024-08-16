@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enhanced Intellect Edge
+- Enhanced Intellect Edge
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Enhanced Intellect Edge
-
-**Type**: Enabler
-
+  
+## Enhanced Intellect Edge  
 You gain +1 to your Intellect Edge. Enabler.

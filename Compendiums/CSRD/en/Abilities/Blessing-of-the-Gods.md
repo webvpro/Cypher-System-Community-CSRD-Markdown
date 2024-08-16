@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Blessing of the Gods
+- Blessing of the Gods
 tags:
-  - Abilities
-  - Abilitiesnabler
-  - Abilitiesction
-type:
-  - Enabler
-  - Action
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/0
+- Ability/Tier/NA
 ---
 
-# Blessing of the Gods
-
+  
+## Blessing of the Gods  
 **Type**: Enabler
 
 As a servant of the gods, you can call up blessings in their name. This blessing depends on the god’s general demeanor and area of influence. Choose two of the abilities described below.
@@ -102,5 +101,4 @@ A target you choose within short range (potentially yourself) deals 2 additional
 **Points**: 2 Intellect Points
 **Type**: Action
 
-A target you touch can breathe water for ten minutes.
-
+A target you touch can breathe water for ten minutes. 

@@ -1,13 +1,19 @@
 ---
 aliases:
-  - Temporal Acceleration
+- Temporal Acceleration
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
+- Ability/Categories/Task
 ---
-### Temporal Acceleration
 
-(5 Intellect points)
-
+  
+## Temporal Acceleration  
+>5  Intellect  
+  
 You or one willing creature you touch moves more quickly through time. The effect lasts for one minute. Everything moves more slowly for the affected character, while to all others, the character seems to move at preternatural speed. The character has an asset on all tasks until the effect ends. After the effect ends, the target is exhausted and disoriented by the experience, hindering all tasks for one hour. Action.

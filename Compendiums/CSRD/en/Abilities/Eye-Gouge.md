@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Eye Gouge
+- Eye Gouge
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-cost: 2 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
 
-# Eye Gouge
-
-**Cost**: 2 Speed points
-**Type**: Action
-
-You make an attack against a creature with an eye. The attack is hindered, but if you hit, the creature has trouble seeing for the next hour. During this time, the creature’s tasks that rely on sight (which is most tasks) are hindered. Action.
+  
+## Eye Gouge  
+>2  Speed  
+  
+You make an attack against a creature with an eye. The attack is hindered, but if you hit, the creature has trouble seeing for the next hour. During this time, the creature's tasks that rely on sight (which is most tasks) are hindered. Action.

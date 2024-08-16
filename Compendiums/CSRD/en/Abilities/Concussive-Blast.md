@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Concussive Blast
+- Concussive Blast
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 2 intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
 
-# Concussive Blast
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You release a beam of pure force that smashes into a creature within short range, inflicting 5 points of damage and moving it back an immediate distance.
+  
+## Concussive Blast  
+>2  Intellect  
+  
+You release a beam of pure force that smashes into a creature within short range, inflicting 5 points of damage and moving it back an immediate distance. Action.

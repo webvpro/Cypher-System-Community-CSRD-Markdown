@@ -1,9 +1,15 @@
 ---
 aliases:
-  - Celebrity Talent
+- Celebrity Talent
 tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Celebrity Talent
-
-You are trained in two of the following areas: writing, journalism, a particular style of art, a particular sport, chess, science communication, acting, news presentation, or some related noncombat skill that led to your celebrity.
+  
+## Celebrity Talent  
+You are trained in two of the following areas: writing, journalism, a particular style of art, a particular sport, chess, science communication, acting, news presentation, or some related noncombat skill that led to your celebrity. Enabler.

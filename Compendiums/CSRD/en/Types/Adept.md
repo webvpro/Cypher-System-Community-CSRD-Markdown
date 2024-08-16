@@ -1,3 +1,15 @@
+---
+tags:
+  - Compendium/CSRD/en/Types
+  - Type/Adept
+  - Type/Adept/Might/7
+  - Type/Adept/Speed/9
+  - Type/Adept/Intellect/12
+  - Type/Adept/Edge/Intellect/1
+  - Type/Adept/Weapon/Practiced/Light
+edge: might-1|speed-1
+---
+
 ### Adept
 >[!Other names]
 >**Fantasy/Fairy tale:** wizard, mage, sorcerer, cleric, druid, seer, diabolist, fey-touched  

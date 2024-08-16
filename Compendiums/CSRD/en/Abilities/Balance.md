@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Balance
+- Balance
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Balance
-
-**Type**: Enabler
-
-You are trained in balancing.
+  
+## Balance  
+You are trained in balancing. Enabler.

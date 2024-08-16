@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enhanced Speed
+- Enhanced Speed
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Enhanced Speed
-
-**Type**: Enabler
-
+  
+## Enhanced Speed  
 You gain 3 points to your Speed Pool. Enabler.

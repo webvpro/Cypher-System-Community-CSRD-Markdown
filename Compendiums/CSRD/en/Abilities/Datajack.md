@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Datajack
+- Datajack
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 1 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
 
-# Datajack
-
-**Points**: 1 Intellect Point
-**Type**: Action
-
-With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object.
+  
+## Datajack  
+>1  Intellect  
+  
+With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. Action.

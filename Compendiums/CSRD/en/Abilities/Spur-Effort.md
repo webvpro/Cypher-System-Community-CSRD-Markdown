@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Spur Effort
+- Spur Effort
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
-### Spur Effort
 
-(5 Intellect points)
-
+  
+## Spur Effort  
+>5+  Intellect  
+  
 You select an ally within immediate range. If that character applies Effort to a task on their next turn, they can apply a free level of Effort on that task. Enabler.

@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Athlete
+- Athlete
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
 
-# Athlete
-
-**Type**: Enabler
-
-You are trained in carrying, climbing, jumping, and smashing.
+  
+## Athlete  
+You are trained in carrying, climbing, jumping, and smashing. Enabler.

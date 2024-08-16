@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Countermeasures
+- Countermeasures
 tags:
-  - Abilities
-  - Abilitiesction-Initiate
-type:
-  - Action
-points:
-  - 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
 
-# Countermeasures
-
-**Points**: 4 Intellect Points
-**Type**: Action
-
-You immediately end one ongoing effect (such as an effect created by a character ability) within immediate range. Alternatively, you can use this as a defense action to cancel any incoming ability targeted at you, or you can cancel any device or the effect of any device for 1d6 rounds. You must touch the effect or device to cancel it.
+  
+## Countermeasures  
+>4  Intellect  
+  
+You immediately end one ongoing effect (such as an effect created by a character ability) within immediate range. Alternatively, you can use this as a defense action to cancel any incoming ability targeted at you, or you can cancel any device or the effect of any device for 1d6 rounds. You must touch the effect or device to cancel it. Action.

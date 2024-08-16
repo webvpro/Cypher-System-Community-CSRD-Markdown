@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Rapid Attack
+- Rapid Attack
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
-### Rapid Attack
 
-(3 Speed points)
-
+  
+## Rapid Attack  
+>3+  Speed  
+  
 Once per round, you can make an additional attack with your chosen weapon. Enabler.

@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Dark Matter Shroud
+- Dark Matter Shroud
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
 
-# Dark Matter Shroud
-
-**Points**: 4 Intellect Points
-**Type**: Action
-
-Ribbons of dark matter condense and swirl about you for up to one minute. This shroud eases your Speed defense tasks, inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack, and gives you +1 Armor.
+  
+## Dark Matter Shroud  
+>4  Intellect  
+  
+Ribbons of dark matter condense and swirl about you for up to one minute. This shroud eases your Speed defense tasks, inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack, and gives you +1 Armor. Action to initiate.

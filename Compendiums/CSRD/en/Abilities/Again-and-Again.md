@@ -1,20 +1,18 @@
 ---
 aliases:
-  - Again and Again
+- Again and Again
 tags:
-  - Abilities
-  - Cypher/Rules/Abilities/Enabler
-  - Cypher/Type/Sixth/Explorer
-  - Cypher/Type/Sixth/Warrior
-type:
-  - Enabler
-points:
-  - 8 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/8
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
 
-# Again and Again
-
-**Points**: 8 Speed points
-**Type**: Enabler
-
-You can take an additional action in a round in which you have already acted.
+  
+## Again and Again  
+>8+  Speed  
+  
+You can take an additional action in a round in which you have already acted. Enabler.

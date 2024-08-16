@@ -1,12 +1,15 @@
 ---
 aliases:
-  - Drain at a Distance
+- Drain at a Distance
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Drain at a Distance
-
-You drain energy from a machine or a creature within short range.
+  
+## Drain at a Distance  
+Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler.

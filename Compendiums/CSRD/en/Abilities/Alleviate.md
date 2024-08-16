@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Alleviate
+- Alleviate
 tags:
-  - Abilities
-  - Compendium/CSRD/en/Rules/Abilities/Action
-type:
-  - Action
-points:
-  - 3 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
 
-# Alleviate
-
-**Points**: 3 Intellect points
-**Type**: Action
-
-You attempt to cancel or cure one malady (such as disease or poison) in one creature.
+  
+## Alleviate  
+>3  Intellect  
+  
+You attempt to cancel or cure one malady (such as disease or poison) in one creature. Action.

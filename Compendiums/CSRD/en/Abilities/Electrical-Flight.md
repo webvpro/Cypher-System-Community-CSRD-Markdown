@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Electrical Flight
+- Electrical Flight
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-points: 5 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
 
-# Electrical Flight
-
-**Points**: 5 Intellect points
-**Type**: Enabler
-
-You exude an aura of crackling electricity that lets you fly a long distance each round for ten minutes. You can’t carry other creatures with you.
+  
+## Electrical Flight  
+>5  Intellect  
+  
+You exude an aura of crackling electricity that lets you fly a long distance each round for ten minutes. You can't carry other creatures with you. Action to activate.

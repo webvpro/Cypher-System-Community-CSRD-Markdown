@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Fellow Explorer
+- Fellow Explorer
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Companion
 ---
 
-# Fellow Explorer
-
-**Type**: Enabler
-
+  
+## Fellow Explorer  
 You gain a level 2 follower. One of their modifications must be for tasks related to perception. Enabler.

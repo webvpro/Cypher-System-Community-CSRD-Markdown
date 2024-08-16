@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Deadly Aim
+- Deadly Aim
 tags:
-  - Cypher/Abilities/S
-  - Abilitiesction
-type: Action
-points: 3 Speed
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
 
-# Deadly Aim
-
-**Points**: 3 Speed Points
-**Type**: Action
-
-For the next minute, all ranged attacks you make inflict 2 additional points of damage.
+  
+## Deadly Aim  
+>3  Speed  
+  
+For the next minute, all ranged attacks you make inflict 2 additional points of damage. Action to initiate.

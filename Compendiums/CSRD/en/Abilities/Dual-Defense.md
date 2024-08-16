@@ -1,12 +1,15 @@
 ---
 aliases:
-  - Dual Defense
+- Dual Defense
 tags:
-  - Abilities
-  - Abilitiesnabler
-type: Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
 
-# Dual Defense
-
-When you wield two weapons, you are trained in Speed defense tasks.
+  
+## Dual Defense  
+When you wield two weapons, you are trained in Speed defense tasks. Enabler.

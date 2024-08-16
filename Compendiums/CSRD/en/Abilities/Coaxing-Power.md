@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Coaxing Power
+- Coaxing Power
 tags:
-type:
-  - Action
-points:
-  - 2 intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
 
-# Coaxing Power
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You boost the power or function of a machine so that it operates at one level higher than normal for one hour.
+  
+## Coaxing Power  
+>2  Intellect  
+  
+You boost the power or function of a machine so that it operates at one level higher than normal for one hour. Action to initiate.

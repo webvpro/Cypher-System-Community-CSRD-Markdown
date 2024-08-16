@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Dazzling Sunburst
+- Dazzling Sunburst
 tags:
-  - Abilities
-  - Abilitiesction
-type: Action
-points: 2 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
 
-# Dazzling Sunburst
-
-**Points**: 2 Intellect Points
-**Type**: Action
-
-You send a barrage of dazzling colors at a creature within short range and, if successful, inflict 2 points of damage on the target. In addition, the creature’s attacks are hindered on its next turn, unless the target relies primarily on senses other than sight.
+  
+## Dazzling Sunburst  
+>2  Intellect  
+  
+You send a barrage of dazzling colors at a creature within short range and, if successful, inflict 2 points of damage on the target. In addition, the creature's attacks are hindered on its next turn, unless the target relies primarily on senses other than sight. Action.

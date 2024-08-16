@@ -1,17 +1,15 @@
 ---
 aliases:
-  - Force to Reckon With
+- Force to Reckon With
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-cost: None
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Environment
 ---
 
-# Force to Reckon With
-
-**Cost**: None
-**Type**: Enabler
-
+  
+## Force to Reckon With  
 You can break through force fields and energy barriers as if they were physical walls. Enabler.

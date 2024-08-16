@@ -1,18 +1,15 @@
 ---
 aliases:
-  - Agent Provocateur
+- Agent Provocateur
 tags:
-  - Abilities
-  - Cypher/Rules/Abilities/Enabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
 
-# Agent Provocateur
-
-**Type**: Enabler
-
-Choose one of the following to be trained in:
-- attacking with a weapon of your choice
-- demolitions
-- sneaking and lockpicking (if you choose this last option, you are trained in both)
+  
+## Agent Provocateur  
+Choose one of the following to be trained in: attacking with a weapon of your choice, demolitions, or sneaking and lockpicking (if you choose this last option, you are trained in both). Enabler.

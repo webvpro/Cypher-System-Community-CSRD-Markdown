@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Applying Your Knowledge
+- Applying Your Knowledge
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Support
 ---
 
-# Applying Your Knowledge
-
-**Type**: Action
-
-When you help another character undertake any action that you’re untrained in, you are treated as if you are trained in it.
+  
+## Applying Your Knowledge  
+When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action.

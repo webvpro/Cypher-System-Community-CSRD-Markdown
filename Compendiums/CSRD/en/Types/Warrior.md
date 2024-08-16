@@ -1,16 +1,17 @@
 ---
+aliases: Warrior, Fighter
 tags:
-  - Type
-might: 10
-speed: 10
-intellect: 8
-edge: might-1|speed-1
-weapons:
-  - light
-  - medium
-  - heavy
+- Compendium/CSRD/en/Types
+- Type/Warrior
+- Type/Warrior/Might/10
+- Type/Warrior/Speed/10
+- Type/Warrior/Intellect/8
+- Type/Warrior/Edge/Choice/Might/1
+- Type/Warrior/Edge/Choice/Might/1
+- Type/Warrior/Weapon/Practiced/Light
+- Type/Warrior/Weapon/Practiced/Medium
+- Type/Warrior/Weapon/Practiced/Hear
 ---
-
 ## Warrior
 
 | Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction  | Superhero/Post-Apocalyptic |     |

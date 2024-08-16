@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Bolt Rider
+- Bolt Rider
 tags:
-  - Abilities
-  - Abilitiesction
-type:
-  - Action
-points:
-  - 4 Intellect
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
 
-# Bolt Rider
-
-**Points**: 4 Intellect Points
-**Type**: Action
-
-You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers.
+  
+## Bolt Rider  
+>4  Intellect  
+  
+You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action.

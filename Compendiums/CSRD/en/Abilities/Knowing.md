@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Knowing
+- Knowing
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
-### Knowing
 
+  
+## Knowing  
 You are trained in one area of knowledge of your choice. Enabler.

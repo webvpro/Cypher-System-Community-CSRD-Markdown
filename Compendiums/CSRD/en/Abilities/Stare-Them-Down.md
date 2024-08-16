@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Stare Them Down
+- Stare Them Down
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
-### Stare Them Down
 
-One doesn’t play games of chicken with other maniac drivers without gaining mental strength. You’re trained in Intellect defense tasks. Enabler.
+  
+## Stare Them Down  
+One doesn't play games of chicken with other maniac drivers without gaining mental strength. You're trained in Intellect defense tasks. Enabler.

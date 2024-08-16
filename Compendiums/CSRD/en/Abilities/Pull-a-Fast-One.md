@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Pull a Fast One
+- Pull a Fast One
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
-### Pull a Fast One
 
-(3 Intellect points)
-
-When you’re running a con, picking a pocket, fooling or tricking a dupe, sneaking something by a guard, and so on, you gain an asset on the task. Enabler.
+  
+## Pull a Fast One  
+>3+  Intellect  
+  
+When you're running a con, picking a pocket, fooling or tricking a dupe, sneaking something by a guard, and so on, you gain an asset on the task. Enabler.

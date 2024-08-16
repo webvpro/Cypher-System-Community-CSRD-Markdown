@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Knowledge Is Power
+- Knowledge Is Power
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
-### Knowledge Is Power
 
+  
+## Knowledge Is Power  
 Choose two noncombat skills in which you are not trained. You are trained in those skills. Enabler.

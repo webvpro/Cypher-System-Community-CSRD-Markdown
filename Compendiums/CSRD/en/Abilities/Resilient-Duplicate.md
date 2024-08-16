@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Resilient Duplicate
+- Resilient Duplicate
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Companion
 ---
-### Resilient Duplicate
 
-Increase the health of any duplicate you create (such as with Duplicate) by 5. Enabler.
+  
+## Resilient Duplicate  
+Increase the health ofany duplicate you create (such as with Duplicate) by 5. Enabler.

@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Practiced With Medium Weapons
+- Practiced With Medium Weapons
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Attack-Skill
 ---
-### Practiced With Medium Weapons
 
+  
+## Practiced With Medium Weapons  
 You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. Enabler.

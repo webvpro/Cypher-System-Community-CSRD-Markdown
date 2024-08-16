@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Enhanced Speed Edge
+- Enhanced Speed Edge
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
 
-# Enhanced Speed Edge
-
-**Type**: Enabler
-
+  
+## Enhanced Speed Edge  
 You gain +1 to your Speed Edge. Enabler.

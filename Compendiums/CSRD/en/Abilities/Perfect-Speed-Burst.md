@@ -1,13 +1,18 @@
 ---
 aliases:
-  - Perfect Speed Burst
+- Perfect Speed Burst
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
-### Perfect Speed Burst
 
-(6 Speed points)
-
+  
+## Perfect Speed Burst  
+>6+  Speed  
+  
 You can take two separate actions this round. Enabler.

@@ -1,11 +1,15 @@
 ---
 aliases:
-  - Wilderness Explorer
+- Wilderness Explorer
 tags:
-  - 
-type:
-  - 
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/Environment
 ---
-### Wilderness Explorer
 
+  
+## Wilderness Explorer  
 While taking any action (including fighting) in the wild, you ignore any penalties due to natural causes such as tall grass, thick brush, rugged terrain, weather, and so on. Enabler.

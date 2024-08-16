@@ -1,17 +1,15 @@
 ---
 aliases:
-  - Force and Accuracy
+- Force and Accuracy
 tags:
-  - Abilities
-  - Abilitiesnabler
-type:
-  - Enabler
-cost: None
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/Meta
 ---
 
-# Force and Accuracy
-
-**Cost**: None
-**Type**: Enabler
-
+  
+## Force and Accuracy  
 You inflict 3 additional points of damage with attacks using weapons that you throw. Enabler.
