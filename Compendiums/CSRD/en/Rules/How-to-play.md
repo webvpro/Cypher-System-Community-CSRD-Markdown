@@ -84,5 +84,5 @@ In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll nee
 ![[Character-Stats]]  
 ### Pool, Edge and Effort  
 Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept: Effort. When your character really needs to accomplish a task, you apply Effort.  
->Your stat Pools, as well as your Effort and Edge, are determined by the [[Types-og|character type]], [[Descriptor: descriptor]], and [[Focus|focus]] that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.  
+>Your stat Pools, as well as your Effort and Edge, are determined by the [[Types-og|character type]], [[Descriptor|descriptor]], and [[Focus|focus]] that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.  
 
