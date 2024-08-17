@@ -8,19 +8,25 @@ tags:
   
 ## Focuses Mind over Matter  
 You can telekinetically move objects with your mind without physically touching them.  
- ### Intrusion  
-One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.   
-#### Tier 1    
-* [[Divert-Attacks|Divert Attacks]]  
-#### Tier 2    
-* [[Telekinesis|Telekinesis]]  
-#### Tier 3    
-  - [[Cloak-of-Opportunity|Cloak of Opportunity]]  
-  - [[Enhance-Strength|Enhance Strength]]  
-#### Tier 4    
-* [[Apportation|Apportation]]  
-#### Tier 5    
-* [[Psychokinetic-Attack|Psychokinetic Attack]]  
-#### Tier 6    
-  - [[Improved-Apportation|Improved Apportation]]  
-  - [[Reshape|Reshape]]
+ >[!info] Intrusion  
+>One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Divert-Attacks|Divert Attacks]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Telekinesis|Telekinesis]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[Cloak-of-Opportunity|Cloak of Opportunity]]  
+>- [[Enhance-Strength|Enhance Strength]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Apportation|Apportation]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Psychokinetic-Attack|Psychokinetic Attack]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Improved-Apportation|Improved Apportation]]  
+>- [[Reshape|Reshape]]

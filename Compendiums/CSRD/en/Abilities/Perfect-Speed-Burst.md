@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Perfect Speed Burst  
->6+  Speed  
+>ENABLER 6+  Speed  
   
 You can take two separate actions this round. Enabler.

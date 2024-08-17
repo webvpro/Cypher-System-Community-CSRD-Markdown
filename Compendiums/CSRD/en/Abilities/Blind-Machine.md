@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Blind Machine  
->6  Speed  
+>ACTION 6  Speed  
   
 You deactivate the sensory apparatus of a machine, making it effectively blind until it can be repaired. You must either touch the target or strike it with a ranged attack (inflicting no damage). Action.

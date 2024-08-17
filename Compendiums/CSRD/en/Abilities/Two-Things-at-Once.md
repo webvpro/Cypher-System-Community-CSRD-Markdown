@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Two Things at Once  
->6+  Intellect  
+>ENABLER 6+  Intellect  
   
 The ultimate test: you divide your attention and take two separate actions this round. Enabler.

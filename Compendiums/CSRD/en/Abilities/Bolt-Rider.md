@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Bolt Rider  
->4  Intellect  
+>ACTION 4  Intellect  
   
 You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action.

@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Incredible Recovery  
->6  Might  
+>ACTION 6  Might  
   
 You move up one step on the damage track or shake off any unwanted ongoing condition. Action.

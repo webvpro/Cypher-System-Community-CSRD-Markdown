@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Electrical Flight  
->5  Intellect  
+>ACTION 5  Intellect  
   
 You exude an aura of crackling electricity that lets you fly a long distance each round for ten minutes. You can't carry other creatures with you. Action to activate.

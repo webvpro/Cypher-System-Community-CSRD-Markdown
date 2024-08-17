@@ -8,20 +8,26 @@ tags:
   
 ## Thunders  
 You emit destructive sound and manipulate soundscapes.  
- ### Intrusion  
-Loud noises attract attention.   
-#### Tier 1    
-* [[Thunder-Beam|Thunder Beam]]  
-#### Tier 2    
-* [[Sound-Conversion-Barrier|Sound Conversion Barrier]]  
-#### Tier 3    
-  - [[Nullify-Sound|Nullify Sound]]  
-  - [[Echolocation|Echolocation]]  
-#### Tier 4    
-* [[Shattering-Shout|Shattering Shout]]  
-#### Tier 5    
-* [[Subsonic-Rumble|Subsonic Rumble]]  
-* [[Amplify-Sounds|Amplify Sounds]]  
-#### Tier 6    
-  - [[Earthquake|Earthquake]]  
-  - [[Lethal-Vibration|Lethal Vibration]]
+ >[!info] Intrusion  
+>Loud noises attract attention.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Thunder-Beam|Thunder Beam]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Sound-Conversion-Barrier|Sound Conversion Barrier]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[Nullify-Sound|Nullify Sound]]  
+>- [[Echolocation|Echolocation]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Shattering-Shout|Shattering Shout]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Subsonic-Rumble|Subsonic Rumble]]  
+>[[Amplify-Sounds|Amplify Sounds]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Earthquake|Earthquake]]  
+>- [[Lethal-Vibration|Lethal Vibration]]

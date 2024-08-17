@@ -8,20 +8,26 @@ tags:
   
 ## Soars on Amazing Wings  
 Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.  
- ### Intrusion  
-A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.   
-#### Tier 1    
-* [[Hover|Hover]]  
-* [[Flight-Exertion|Flight Exertion]]  
-#### Tier 2    
-* [[Wing-Weapons|Wing Weapons]]  
-#### Tier 3    
-  - [[Acrobatic-Attack|Acrobatic Attack]]  
-  - [[Flying-Companion|Flying Companion]]  
-#### Tier 4    
-* [[Hard-to-Hit|Hard to Hit]]  
-#### Tier 5    
-* [[Up-to-Speed|Up to Speed]]  
-#### Tier 6    
-  - [[Hard-Target|Hard Target]]  
-  - [[Defense-Master|Defense Master]]
+ >[!info] Intrusion  
+>A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Hover|Hover]]  
+>[[Flight-Exertion|Flight Exertion]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Wing-Weapons|Wing Weapons]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[Acrobatic-Attack|Acrobatic Attack]]  
+>- [[Flying-Companion|Flying Companion]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Hard-to-Hit|Hard to Hit]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Up-to-Speed|Up to Speed]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Hard-Target|Hard Target]]  
+>- [[Defense-Master|Defense Master]]

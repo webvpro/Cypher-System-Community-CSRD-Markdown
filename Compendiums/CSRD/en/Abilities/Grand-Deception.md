@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Grand Deception  
->3  Intellect  
+>ACTION 3  Intellect  
   
 You convince an intelligent creature that can understand you and isn't hostile of something that is wildly and obviously untrue. Action.

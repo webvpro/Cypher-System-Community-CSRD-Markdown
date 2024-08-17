@@ -8,17 +8,21 @@ tags:
   
 ## Uses Wild Magic  
 spellcaster who learns a variety of spells instead of focusing on just one kind of magic.  
- ### Intrusion  
-A spell performs erratically or rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature or potential rival. The cypher spell being cast is replaced with that of a random cypher.   
-#### Tier 1    
-* [[Magical-Repertoire|Magical Repertoire]]  
-* [[Cypher-Casting|Cypher Casting]]  
-#### Tier 4    
-* [[Expanded-Repertoire|Expanded Repertoire]]  
-  - [[Cypher-Surge|Cypher Surge]]  
-  - [[Faster-Wild-Magic|Faster Wild Magic]]  
-#### Tier 5    
-* [[Magical-Training|Magical Training]]  
-#### Tier 6    
-  - [[Maximize-Cypher|Maximize Cypher]]  
-  - [[Wild-Insight|Wild Insight]]
+ >[!info] Intrusion  
+>A spell performs erratically or rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature or potential rival. The cypher spell being cast is replaced with that of a random cypher.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Magical-Repertoire|Magical Repertoire]]  
+>[[Cypher-Casting|Cypher Casting]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Expanded-Repertoire|Expanded Repertoire]]  
+>- [[Cypher-Surge|Cypher Surge]]  
+>- [[Faster-Wild-Magic|Faster Wild Magic]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Magical-Training|Magical Training]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Maximize-Cypher|Maximize Cypher]]  
+>- [[Wild-Insight|Wild Insight]]

@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Fury  
->3  Might  
+>ACTION 3  Might  
   
 For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.

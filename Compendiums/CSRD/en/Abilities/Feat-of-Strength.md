@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Feat of Strength  
->1+  Might  
+>ENABLER 1+  Might  
   
 Any task that depends on brute force is eased. Examples include smashing down a barred door, tearing open a locked container, lifting or moving a heavy object, or striking someone with a melee weapon. Enabler.

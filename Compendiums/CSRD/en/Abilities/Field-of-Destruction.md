@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/4
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Field of Destruction  
->4+  Might  
+>ENABLER 4+  Might  
   
 When you cause an object to descend one or more steps on the object damage track, you gain 1 additional point of Armor for one minute. Enabler.

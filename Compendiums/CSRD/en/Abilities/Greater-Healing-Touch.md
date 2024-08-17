@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Greater Healing Touch  
->4  Intellect  
+>ACTION 4  Intellect  
   
 You touch a creature and restore its Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if it were fully rested. A single creature can benefit from this ability only once each day. Action.

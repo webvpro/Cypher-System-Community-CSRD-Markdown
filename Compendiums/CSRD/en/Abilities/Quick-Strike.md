@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Quick Strike  
->4  Speed  
+>ACTION 4  Speed  
   
 You make a melee attack with such speed that it is hard for your foe to defend against, and it knocks them off balance. Your attack is eased by two steps, and the foe, if struck, takes normal damage but is dazed so that their tasks are hindered for the next round. Action.

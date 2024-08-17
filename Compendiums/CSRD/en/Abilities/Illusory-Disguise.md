@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Illusory Disguise  
->2  Intellect  
+>ACTION 2  Intellect  
   
 You appear to be someone or something else, roughly of your size and shape, for up to one hour. Once created, the disguise requires no concentration. For each additional Intellect point you spend, you can disguise one other creature. All disguised creatures must stay within sight of you or lose their disguise. Action to create.

@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Control Machine  
->6  Intellect  
+>ACTION 6  Intellect  
   
 You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action.

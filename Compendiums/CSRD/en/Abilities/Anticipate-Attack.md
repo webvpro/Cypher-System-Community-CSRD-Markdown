@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Anticipate Attack  
->4  Intellect  
+>ACTION 4  Intellect  
   
 You can sense when and how creatures attacking you will make their attacks. Speed defense rolls are eased for one minute. Action.

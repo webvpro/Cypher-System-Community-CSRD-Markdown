@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Rapid Attack  
->3+  Speed  
+>ENABLER 3+  Speed  
   
 Once per round, you can make an additional attack with your chosen weapon. Enabler.

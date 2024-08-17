@@ -8,19 +8,25 @@ tags:
   
 ## Emerged From the Obelisk  
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.  
- ### Intrusion  
-Cyphers and artifacts react unexpectedly in the character's hands.   
-#### Tier 1    
-* [[Crystalline-Body|Crystalline Body]]  
-#### Tier 2    
-* [[Hover|Hover]]  
-#### Tier 3    
-  - [[Inhabit-Crystal|Inhabit Crystal]]  
-  - [[Immovable|Immovable]]  
-#### Tier 4    
-* [[Crystal-Lens|Crystal Lens]]  
-#### Tier 5    
-* [[Resonant-Frequency|Resonant Frequency]]  
-#### Tier 6    
-  - [[Resonant-Quake|Resonant Quake]]  
-  - [[Return-to-the-Obelisk|Return to the Obelisk]]
+ >[!info] Intrusion  
+>Cyphers and artifacts react unexpectedly in the character's hands.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Crystalline-Body|Crystalline Body]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Hover|Hover]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[Inhabit-Crystal|Inhabit Crystal]]  
+>- [[Immovable|Immovable]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Crystal-Lens|Crystal Lens]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Resonant-Frequency|Resonant Frequency]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Resonant-Quake|Resonant Quake]]  
+>- [[Return-to-the-Obelisk|Return to the Obelisk]]

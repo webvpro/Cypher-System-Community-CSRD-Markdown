@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/5
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Tumbling Moves  
->5+  Speed  
+>ENABLER 5+  Speed  
   
 When you use an action to move, Speed defense rolls are eased until the end of your next turn. Enabler.

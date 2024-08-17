@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Pull a Fast One  
->3+  Intellect  
+>ENABLER 3+  Intellect  
   
 When you're running a con, picking a pocket, fooling or tricking a dupe, sneaking something by a guard, and so on, you gain an asset on the task. Enabler.

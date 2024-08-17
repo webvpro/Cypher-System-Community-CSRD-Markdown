@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Block  
->3  Speed  
+>ACTION 3  Speed  
   
 You automatically block the next melee attack made against you within the next minute. Action to initiate.

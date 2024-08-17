@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Assassin Strike  
->5+  Intellect  
+>ENABLER 5+  Intellect  
   
 If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler.

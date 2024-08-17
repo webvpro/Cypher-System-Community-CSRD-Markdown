@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Group Friendship  
->4  Intellect  
+>ACTION 4  Intellect  
   
 You convince a sentient creature to regard you (and up to ten creatures that you designate within immediate distance of you) positively, as they would a potential friend. Action.

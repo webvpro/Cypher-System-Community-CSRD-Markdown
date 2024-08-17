@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Muscles of Iron  
->2+  Might  
+>ENABLER 2+  Might  
   
 For the next ten minutes, all Might-based actions other than attack rolls that you attempt are eased. If you already have this ability from another source, the effect of this ability lasts for one hour instead of ten minutes. Enabler.

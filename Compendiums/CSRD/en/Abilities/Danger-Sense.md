@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Danger Sense  
->1+  Speed  
+>ENABLER 1+  Speed  
   
 Your initiative task is eased. You pay the cost each time the ability is used. Enabler.

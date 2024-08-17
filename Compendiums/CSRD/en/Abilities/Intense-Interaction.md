@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Intense Interaction  
->3  Intellect  
+>ACTION 3  Intellect  
   
 You gain an asset on intimidating, persuading, and influencing people for ten minutes. Action.

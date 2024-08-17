@@ -8,20 +8,26 @@ tags:
   
 ## Solves Mysteries  
 You're a master of deduction, using evidence to find the answer.  
- ### Intrusion  
-Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.   
-#### Tier 1    
-* [[Investigator|Investigator]]  
-* [[Sleuth|Sleuth]]  
-#### Tier 2    
-* [[Out-of-Harm's-Way|Out of Harm's Way]]  
-#### Tier 3    
-  - [[You-Studied|You Studied]]  
-  - [[Skill-With-Attacks|Skill With Attacks]]  
-#### Tier 4    
-* [[Draw-Conclusion|Draw Conclusion]]  
-#### Tier 5    
-* [[Defuse-Situation|Defuse Situation]]  
-#### Tier 6    
-  - [[Seize-the-Initiative|Seize the Initiative]]  
-  - [[Greater-Skill-With-Defense|Greater Skill With Defense]]
+ >[!info] Intrusion  
+>Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Investigator|Investigator]]  
+>[[Sleuth|Sleuth]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Out-of-Harm's-Way|Out of Harm's Way]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[You-Studied|You Studied]]  
+>- [[Skill-With-Attacks|Skill With Attacks]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Draw-Conclusion|Draw Conclusion]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Defuse-Situation|Defuse Situation]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Seize-the-Initiative|Seize the Initiative]]  
+>- [[Greater-Skill-With-Defense|Greater Skill With Defense]]

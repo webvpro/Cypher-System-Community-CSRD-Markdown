@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,6 @@ tags:
 
   
 ## Sprint and Grab  
->2  Speed  
+>ACTION 2  Speed  
   
 You can run a short distance and make a melee attack to grab a foe of your size or smaller. A successful attack means you grab the foe and bring it to a halt if it was moving (this can be treated as a tackle, if appropriate). Action.

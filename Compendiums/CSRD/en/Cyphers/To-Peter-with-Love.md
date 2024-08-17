@@ -1,0 +1,17 @@
+---
+aliases:
+- To Peter with Love
+tags:
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
+---
+
+  
+## To Peter with Love  
+>Level: 1d6+3  
+  
+>[!info] Form  
+>Wrapped Box with a Bomb Inside and a Gift Tag on the Outside
+  
+Write a person's name on the tag, and the box will deliver itself to that person at a time and place you specify. When opened, the box does damage to the recipient equal to the cypher level. Traveling to the recipient takes at least a round and sometimes longer, depending on the distance and difficulty.

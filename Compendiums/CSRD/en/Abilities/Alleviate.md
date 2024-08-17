@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Alleviate  
->3  Intellect  
+>ACTION 3  Intellect  
   
 You attempt to cancel or cure one malady (such as disease or poison) in one creature. Action.

@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Void Wings  
->3+  Intellect  
+>ENABLER 3+  Intellect  
   
 Swirling ribbons of weird matter grasp you and lift you up, allowing you to fly for one round as quickly as you can move. Enabler.

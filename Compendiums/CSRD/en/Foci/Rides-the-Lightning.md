@@ -8,20 +8,26 @@ tags:
   
 ## Rides the Lightning  
 You create and discharge electrical power.  
- ### Intrusion  
-Targets other than those intended are shocked. Objects explode.   
-#### Tier 1    
-* [[Shock|Shock]]  
-* [[Charge|Charge]]  
-#### Tier 2    
-* [[Bolt-Rider|Bolt Rider]]  
-#### Tier 3    
-  - [[Electric-Armor|Electric Armor]]  
-  - [[Drain-Charge|Drain Charge]]  
-#### Tier 4    
-* [[Bolts-of-Power|Bolts of Power]]  
-#### Tier 5    
-* [[Electrical-Flight|Electrical Flight]]  
-#### Tier 6    
-  - [[Flash-Across-the-Miles|Flash Across the Miles]]  
-  - [[Wall-of-Lightning|Wall of Lightning]]
+ >[!info] Intrusion  
+>Targets other than those intended are shocked. Objects explode.   
+
+>[!tip]- Tier 1 Abilities  
+>[[Shock|Shock]]  
+>[[Charge|Charge]]  
+
+>[!tip]- Tier 2 Abilities  
+>[[Bolt-Rider|Bolt Rider]]  
+
+>[!tip]- Tier 3 Abilities  
+>- [[Electric-Armor|Electric Armor]]  
+>- [[Drain-Charge|Drain Charge]]  
+
+>[!tip]- Tier 4 Abilities  
+>[[Bolts-of-Power|Bolts of Power]]  
+
+>[!tip]- Tier 5 Abilities  
+>[[Electrical-Flight|Electrical Flight]]  
+
+>[!tip]- Tier 6 Abilities  
+>- [[Flash-Across-the-Miles|Flash Across the Miles]]  
+>- [[Wall-of-Lightning|Wall of Lightning]]

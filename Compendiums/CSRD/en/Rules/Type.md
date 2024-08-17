@@ -26,6 +26,8 @@ Finally, more fundamental options for further customization are provided at the 
  
 [[Warrior]]  
 [[Adept]]
+[[Explorer]]
+[[Speaker|Speaker]]
 
 # Further Customization
 

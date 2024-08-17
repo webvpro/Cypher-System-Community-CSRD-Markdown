@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/9
 - Ability/Tier/High
 - Ability/Pool/Might
@@ -14,6 +14,6 @@ tags:
 
   
 ## Energize Crowd  
->9  Might  
+>ACTION 9  Might  
   
 You extend your Absorb Kinetic Energy ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast. Action to initiate.

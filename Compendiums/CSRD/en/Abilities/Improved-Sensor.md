@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/2
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Improved Sensor  
->2+  Intellect  
+>ENABLER 2+  Intellect  
   
 When you use Sensor, you can place the sensor anywhere you choose within long range. Enabler.

@@ -1,0 +1,17 @@
+---
+aliases:
+- Silver Slippers
+tags:
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
+---
+
+  
+## Silver Slippers  
+>Level: 1d6+2  
+  
+>[!info] Form  
+>Silver Shoes, Ruby Slippers, or Red Boots
+  
+When the wearer speaks aloud the name of the place they wish to go, the silver slippers take them there in three steps. Note that in most cases the slippers only transport the wearer (although companion animals and the like may sometimes travel with them). Once the silver slippers are used to transport their wearer, they disappear. However, it is rumored that they magically return to the world in some form for someone else who needs them.

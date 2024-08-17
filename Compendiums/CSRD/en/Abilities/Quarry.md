@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -14,6 +14,6 @@ tags:
 
   
 ## Quarry  
->2  Intellect  
+>ACTION 2  Intellect  
   
 Choose a quarry (a single individual creature that you can see). You are trained in all tasks involving following, understanding, interacting with, or fighting that creature. You can have only one quarry at a time. Action to initiate.

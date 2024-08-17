@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,6 @@ tags:
 
   
 ## Surging Confidence  
->1+  Might  
+>ENABLER 1+  Might  
   
 When you use an action to make your first recovery roll of the day, you immediately gain another action. Enabler.

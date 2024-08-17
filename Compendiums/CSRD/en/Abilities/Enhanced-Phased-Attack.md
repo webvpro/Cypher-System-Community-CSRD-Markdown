@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,6 @@ tags:
 
   
 ## Enhanced Phased Attack  
->5+  Intellect  
+>ENABLER 5+  Intellect  
   
 This ability works like the Phased Attack ability except that your attack also disrupts the foe's vitals, dealing an additional 5 points of damage. Enabler.

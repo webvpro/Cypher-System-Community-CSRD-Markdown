@@ -1,3 +1,19 @@
+---
+aliases:
+  - Speaker
+  - Bard
+tags:
+  - Compendium/CSRD/en/Types
+  - Type/Speaker
+  - Type/Speaker/Might/8
+  - Type/Speaker/Speed/9
+  - Type/Speaker/Intellect/11
+  - Type/Speaker/Edge/Intellect/Might/1
+  - Type/Speaker/Weapon/Practiced/Light
+  - Type/Speaker/Weapon/Inability/Medium
+  - Type/Speaker/Weapon/Inability/Heavy
+---
+
 ## Speaker
 
 |Fantasy/Fairy Tale|Modern/Horror/Romance|Science Fiction|Superhero/Post-Apocalyptic|
@@ -13,53 +29,38 @@
 
 You’re good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.
 
-**Individual Role**:
+>**Individual Role**: Speakers are smart and charismatic. They like people and, more important, they understand them. This helps speakers get others to do what needs to be done.
 
-Speakers are smart and charismatic. They like people and, more important, they understand them. This helps speakers get others to do what needs to be done.
+>**Group Role**: The Speaker is often the face of the group, serving as the person who speaks for all and negotiates with others. Combat and action are not a Speaker’s strong suits, so other characters sometimes have to defend the Speaker in times of danger.
 
-**Group Role**:
+>**Societal Role**: Speakers are frequently political or religious leaders. Just as often, however, they are con artists or criminals.
 
-The Speaker is often the face of the group, serving as the person who speaks for all and negotiates with others. Combat and action are not a Speaker’s strong suits, so other characters sometimes have to defend the Speaker in times of danger.
-
-**Societal Role**:
-
-Speakers are frequently political or religious leaders. Just as often, however, they are con artists or criminals.
-
-**Advanced Speakers**:
-
-Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
+>**Advanced Speakers**: Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
 ## Speaker Player Intrusions
 
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
-**Friendly NPC**:
+>**Friendly NPC**: An NPC you don’t know, someone you don’t know that well, or someone you know but who hasn’t been particularly friendly in the past chooses to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a favor in return afterward, depending on how much trouble they go to.
 
-An NPC you don’t know, someone you don’t know that well, or someone you know but who hasn’t been particularly friendly in the past chooses to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a favor in return afterward, depending on how much trouble they go to.
+>**Perfect Suggestion**: A follower or other already-friendly NPC suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.
 
-**Perfect Suggestion**:
+>**Unexpected Gift**: An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
 
-A follower or other already-friendly NPC suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.
-
-**Unexpected Gift**:
-
-An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
-
-Speaker Stat Pools
-
-|Stat|Pool Starting Value|
+>[!tip]+ Speaker Stat Pools  
+>|Stat|Pool Starting Value|
 |---|---|
-|Might|8|
-|Speed|9|
-|Intellect|11|
+|[[Might]]|8|
+|[[Speed]]|9|
+|[[Intellect]]|11|
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-## Speaker Background Connection
+#### Speaker Background Connection
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
-
-|`dice: 1d20`|Background|
+>[!info]- Speaker Background Connection
+> |1d20|Background|
 |---|---|
 |1|One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.|
 |2|When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over.|
@@ -106,110 +107,112 @@ You can use light weapons without penalty. You have an inability with medium and
 
 Appropriate clothing and a light weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.
 
-**Special Abilities**:
+**Special Abilities**:  
+Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. 
 
-Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
+ >[!Info]
+ >Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.
 
-- [Anecdote](app://obsidian.md/Compendium/Abilities/Anecdote)
-- [Babel](app://obsidian.md/Compendium/Abilities/Babel)
-- [Demeanor of Command](app://obsidian.md/Compendium/Abilities/Demeanor-of-Command)
-- [Encouragement](app://obsidian.md/Compendium/Abilities/Encouragement)
-- [Enthrall](app://obsidian.md/Compendium/Abilities/Enthrall)
-- [Erase Memories](app://obsidian.md/Compendium/Abilities/Erase-Memories)
-- [Fast Talk](app://obsidian.md/Compendium/Abilities/Fast-Talk)
-- Inspire Aggression
-- Interaction Skills
-- Practiced With Medium Weapons
-- Spin Identity
-- Terrifying Presence
-- Understanding
+ >[[Anecdote]]
+ >[[Babel]]
+ >[[Demeanor-of-Command|Demeanor of Command]]]
+ >[[Encouragement]]
+ >[[Enthrall]]
+ >[[Erase-Memories|Erase Memories]]
+   [[Fast-Talk|Fast Talk]]
+   [[Inspire-Aggression|Inspire Aggression]]
+   [[Interaction-Skills|Interaction Skills]]
+   [[Practiced-With-Medium-Weapons|Practiced With Medium Weapons]]
+   [[Spin-Identity|Spin Identity]]
+   [[Terrifying-Presence|Terrifying Presence]]
+   [[Understanding|Understanding]]
 
 ## Second-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [Basic Follower](app://obsidian.md/Compendium/Abilities/Basic-Follower)
-- [Calm Stranger](app://obsidian.md/Compendium/Abilities/Calm-Stranger)
-- [Disincentivize](app://obsidian.md/Compendium/Abilities/Disincentivize)
-- Gather Intelligence
-- Impart Ideal
-- Inspiring Ease
-- Interaction Skills
-- Practiced in Armor
-- Skill With Defense
-- Speedy Recovery
-- Unexpected Betrayal
+> [[Basic-Follower|Basic Follower]]
+   [[Calm-Stranger|Calm Stranger]]
+   [[Disincentivize|Disincentivize]]
+   [[Gather-Intelligence|Gather Intelligence]]
+   [[Impart-Ideal|Impart Ideal]]
+   [[Inspiring-Ease|Inspiring Ease]]
+   [[Interaction-Skills|Interaction Skills]]
+   [[Practiced-in-Armor|Practiced in Armor]] 
+   [[Skill-With-Defense|Skill With Defense]]
+   [[Speedy-Recovery|Speedy Recovery]]
+   [[Unexpected-Betrayal|Unexpected Betrayal]]
 
 ## Third-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [Accelerate](app://obsidian.md/Compendium/Abilities/Accelerate)
-- [Blend In](app://obsidian.md/Compendium/Abilities/Blend-In)
-- Discerning Mind
-- [Expert Cypher Use](app://obsidian.md/Compendium/Abilities/Expert-Cypher-Use)
-- [Expert Follower](app://obsidian.md/Compendium/Abilities/Expert-Follower)
-- Grand Deception
-- Lead by Inquiry
-- Mind Reading
-- Oratory
-- Perfect Stranger
-- Quick Wits
-- Telling
+[[Accelerate|Accelerate]]
+[[Blend-In|Blend In]]]
+[[Discerning-Mind|Discerning Mind]]
+[[Expert-Cypher-Use|Expert Cypher Use]]
+[[Expert-Follower|Expert Follower]]
+[[Grand-Deception|Grand Deception]]
+[[Lead-by-Inquiry|Lead by Inquiry]]
+[[Mind-Reading|Mind Reading]]
+[[Oratory|Oratory]]
+[[Perfect-Stranger|Perfect Stranger]]
+[[Quick-Wits|Quick Wits]]
+[[Telling|Telling]]
 
 ### Fourth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [Anticipate Attack](app://obsidian.md/Compendium/Abilities/Anticipate-Attack)
-- [Confounding Banter](app://obsidian.md/Compendium/Abilities/Confounding-Banter)
-- [Feint](app://obsidian.md/Compendium/Abilities/Feint)
-- Heightened Skills
-- Psychosis
-- Read the Signs
-- Spur Effort
-- Strategize
-- Suggestion
+[[Anticipate-Attack|Anticipate Attack]]
+[[Confounding-Banter|Confounding Banter]]
+[[Feint|Feint]]
+[[Heightened-Skills|Heightened Skills]]
+[[Psychosis|Psychosis]]
+[[Read-the-Signs|Read the Signs]]
+[[Spur-Effort|Spur Effort]]
+[[Strategize|Strategize]]
+[[Suggestion|Suggestion]]
 
 ### Fifth-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [Adroit Cypher Use](app://obsidian.md/Compendium/Abilities/Adroit-Cypher-Use)
-- [Discipline of Watchfulness](app://obsidian.md/Compendium/Abilities/Discipline-of-Watchfulness)
-- [Experienced in Armor](app://obsidian.md/Compendium/Abilities/Experienced-in-Armor)
-- Flee
-- [Foul Aura](app://obsidian.md/Compendium/Abilities/Foul-Aura)
-- Knowing the Unknown
-- Regeneration
-- Skill With Attacks
-- Stimulate
+[[Adroit-Cypher-Use|Adroit Cypher Use]]
+[[Discipline-of-Watchfulness|Discipline of Watchfulness]]
+[[Experienced-in-Armor|Experienced in Armor]]
+[[Flee|Flee]]
+[[Foul-Aura|Foul Aura]]
+[[Knowing-the-Unknown|Knowing the Unknown]]
+[[Regeneration|Regeneration]]
+[[Skill-With-Attacks|Skill With Attacks]]
+[[Stimulate|Stimulate]]
 
 ## Sixth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-- [Assume Control](app://obsidian.md/Compendium/Abilities/Assume-Control)
-- [Battle Management](app://obsidian.md/Compendium/Abilities/Battle-Management)
-- [Crowd Control](app://obsidian.md/Compendium/Abilities/Crowd-Control)
-- Inspiring Success
-- Recruit Deputy
-- Shatter Mind
-- True Senses
-- Word of Command
+[[Assume-Control|Assume Control]]
+[[Battle-Management|Battle Management]]
+[[Crowd-Control|Crowd Control]]
+[[Inspiring-Success|Inspiring Success]]
+[[Recruit-Deputy|Recruit Deputy]]
+[[Shatter-Mind|Shatter Mind]]
+[[True-Senses|True Senses]]
+[[Word-of-Command|Word of Command]]
 
 ## Speaker Example
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
-Mary chooses [Fast Talk](app://obsidian.md/Compendium/Abilities/Fast-Talk) and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [Encouragement](app://obsidian.md/Compendium/Abilities/Encouragement) as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary chooses [[Fast|Fast]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
 
 A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 
 Mary’s character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
 
-Mary chooses [Resilient](app://obsidian.md/Compendium/Cypher/Descriptors/Resilient) for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
+Mary chooses [[Resilient|Resilient]] for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
 
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in [balance](app://obsidian.md/Compendium/Abilities/Balance). In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
+For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in [[Balance|Balance]]. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 
 For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.

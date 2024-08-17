@@ -125,7 +125,7 @@ The Cypher System has no definitive list of skills. However, the following list 
 - Climbing
 - Computers
 - Deceiving
-- [[Compendium/Abilities/Disguise|Disguise]]
+- Disguise
 - Escaping
 - Geography
 - Geology
