@@ -9,7 +9,9 @@ tags:
 
   
 ## Medicine  
->Level: 1d6+1  
+>[!info] Stats  
+> **Level:** 1d6+1  
+> **Kind:** Scavenger Subtle
   
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain. The right medicine vanquishes (or treats the symptoms of) an eligible disease or illness. Other medicines are preventative.Special: A character who suffers from one of these medical conditions, without treatment, descends one step on the damage track every month or so.  
 

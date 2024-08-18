@@ -9,10 +9,10 @@ tags:
 
   
 ## Flowers for Grandmother  
->Level: 1d6+2  
-  
->[!info] Form  
->Fresh-Picked Bouquet of Flowers Tied with a Red Ribbon
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Form:** Fresh-Picked Bouquet of Flowers Tied with a Red Ribbon  
+> **Kind:** Fairy Tale
   
 Giving the flowers to someone else provides both the recipient and the giver an asset in defense against damage of a specified kind for one hour. Roll a d6 to determine the effect.  
 

@@ -9,7 +9,9 @@ tags:
 
   
 ## Skill Boost  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Subtle
   
 Dramatically but temporarily alters the user's mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher's level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.  
 

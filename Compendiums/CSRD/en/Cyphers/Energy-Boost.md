@@ -9,6 +9,8 @@ tags:
 
   
 ## Energy Boost  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Power Boost
   
 This cypher boosts an ability that has a stat Pool cost. The cost is reduced to 0.

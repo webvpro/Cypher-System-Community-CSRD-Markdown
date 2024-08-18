@@ -9,6 +9,8 @@ tags:
 
   
 ## Best Tool  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Subtle
   
 Provides an additional asset for any one task using a tool, even if that means exceeding the normal limit of two assets.

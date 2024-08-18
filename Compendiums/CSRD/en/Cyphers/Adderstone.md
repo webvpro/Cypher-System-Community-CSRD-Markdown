@@ -9,10 +9,10 @@ tags:
 
   
 ## Adderstone  
->Level: 1d6+3  
-  
->[!info] Form  
->Stone with a Hole in the Middle
+>[!info] Stats  
+> **Level:** 1d6+3  
+> **Form:** Stone with a Hole in the Middle  
+> **Kind:** Fairy Tale
   
 For the next day, provides the character with one of the following benefits. Roll a d20 or choose from the table.Adderstones are sometimes also called hagstones, seer stones, and holey stones. Beware false adderstones, which are made by enterprising swindlers who drill or carve a hole out of a regular stone and attempt to pass it off as something more. If a character has no hair in which to tie an adderstone, perhaps they can "borrow" some from a friend, a domesticated animal, or a foe.  
 

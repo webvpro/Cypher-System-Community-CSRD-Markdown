@@ -9,6 +9,8 @@ tags:
 
   
 ## Fire Resistance  
->Level: 1d6+3  
+>[!info] Stats  
+> **Level:** 1d6+3  
+> **Kind:** Fantasy
   
 The user gains Armor against fire damage equal to the cypher's level for one hour.

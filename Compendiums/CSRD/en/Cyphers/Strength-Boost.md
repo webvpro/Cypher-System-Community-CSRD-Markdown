@@ -9,6 +9,8 @@ tags:
 
   
 ## Strength Boost  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Subtle
   
 Adds 1 to Might Edge for one hour (or 2 if the cypher is level 5 or higher).

@@ -9,7 +9,9 @@ tags:
 
   
 ## Image Projector  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Fantastic
   
 Projects one of the following immobile images in the area described for one hour. The image appears up to a close distance from the user (long distance if the cypher level is 4 or higher, very long distance if the cypher level is 6 or higher). Scenes include movement, sound, and smell. Roll a d100 to determine the image.  
 

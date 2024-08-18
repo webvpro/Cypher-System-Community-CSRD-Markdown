@@ -9,6 +9,8 @@ tags:
 
   
 ## Vocal Translator  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Fantastic
   
 For twenty-four hours per cypher level, translates everything said by the user into a language that anyone can understand.

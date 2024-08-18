@@ -9,7 +9,9 @@ tags:
 
   
 ## Rejuvenator  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Subtle
   
 Restores a number of points equal to the cypher's level to one random stat Pool.  
 

@@ -9,6 +9,8 @@ tags:
 
   
 ## Perfection  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Subtle
   
 The user treats their next action as if they had rolled a natural 20.

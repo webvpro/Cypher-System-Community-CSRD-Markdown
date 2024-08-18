@@ -9,10 +9,10 @@ tags:
 
   
 ## Dragon's Blood  
->Level: 1d6  
-  
->[!info] Form  
->Powdered Dragon's Blood
+>[!info] Stats  
+> **Level:** 1d6  
+> **Form:** Powdered Dragon's Blood  
+> **Kind:** Fairy Tale
   
 When mixed with liquid and painted on a living being, grants one of the following effects for a day.  
 

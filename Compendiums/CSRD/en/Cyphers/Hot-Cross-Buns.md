@@ -9,9 +9,9 @@ tags:
 
   
 ## Hot Cross Buns  
->Level: 1d6  
-  
->[!info] Form  
->Small Spiced Cake
+>[!info] Stats  
+> **Level:** 1d6  
+> **Form:** Small Spiced Cake  
+> **Kind:** Fairy Tale
   
 When eaten, restores a number of points equal to the cypher's level to the user's Might Pool.

@@ -9,6 +9,8 @@ tags:
 
   
 ## Ray Emitter (Friend Slaying)  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Fantastic
   
 Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that causes the target to attack its nearest ally for one round.

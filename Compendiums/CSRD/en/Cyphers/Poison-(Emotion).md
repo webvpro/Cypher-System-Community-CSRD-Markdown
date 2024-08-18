@@ -9,7 +9,9 @@ tags:
 
   
 ## Poison (Emotion)  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Manifest
   
 The victim feels a specific emotion for one hour. Roll a d100 to determine the emotion. (Most poisons are not considered cyphers, except for a very few that are unique.)  
 

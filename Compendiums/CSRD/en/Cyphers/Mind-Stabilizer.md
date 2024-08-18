@@ -9,6 +9,8 @@ tags:
 
   
 ## Mind Stabilizer  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Subtle
   
 The user gains +5 to Armor against Intellect damage.

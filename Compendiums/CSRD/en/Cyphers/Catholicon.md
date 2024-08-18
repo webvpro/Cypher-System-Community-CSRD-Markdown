@@ -9,6 +9,8 @@ tags:
 
   
 ## Catholicon  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Manifest
   
 Cures any disease of the cypher level or lower.

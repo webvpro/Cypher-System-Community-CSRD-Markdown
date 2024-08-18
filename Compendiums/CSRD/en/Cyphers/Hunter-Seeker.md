@@ -9,7 +9,9 @@ tags:
 
   
 ## Hunter/Seeker  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Manifest
   
 With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4 hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.  
 

@@ -9,7 +9,9 @@ tags:
 
   
 ## Weapon Enhancement  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Fantastic
   
 Modifies a weapon's attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.  
 

@@ -9,10 +9,10 @@ tags:
 
   
 ## Poison for Your Daughter  
->Level: 1d6+2  
-  
->[!info] Form  
->Clear Liquid that Can Be Spread on Any Object, Such as an Apple, Hair Comb, or Weapon
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Form:** Clear Liquid that Can Be Spread on Any Object, Such as an Apple, Hair Comb, or Weapon  
+> **Kind:** Fairy Tale
   
 The poison creates a specific reaction for one hour in a creature who uses the object. Roll d100 to determine the reaction.  
 

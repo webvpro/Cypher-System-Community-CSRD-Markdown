@@ -9,7 +9,9 @@ tags:
 
   
 ## Null Field  
->Level: 1d6+3  
+>[!info] Stats  
+> **Level:** 1d6+3  
+> **Kind:** Fantastic
   
 The user and all creatures within immediate range gain +3 to Armor (+5 if the cypher is level 8 or higher) against damage of a specified kind for one hour. Roll a d100 to determine the effect.  
 

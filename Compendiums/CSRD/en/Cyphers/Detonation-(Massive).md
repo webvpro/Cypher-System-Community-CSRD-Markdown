@@ -9,7 +9,9 @@ tags:
 
   
 ## Detonation (Massive)  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** Manifest
   
 Projects a small physical explosive up to a long distance away that explodes in a short-range radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.  
 

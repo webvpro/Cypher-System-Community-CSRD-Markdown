@@ -9,6 +9,8 @@ tags:
 
   
 ## Visual Displacement Device  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Fantastic
   
 Projects holographic images of the user to confuse attackers. The images appear around the user, giving them an asset to Speed defense actions for ten minutes per cypher level.

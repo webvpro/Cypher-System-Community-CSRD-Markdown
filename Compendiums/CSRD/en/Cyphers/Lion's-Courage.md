@@ -9,9 +9,9 @@ tags:
 
   
 ## Lion's Courage  
->Level: 1d6+1  
-  
->[!info] Form  
->Small Medallion with the Word "Courage" Inscribed upon It.
+>[!info] Stats  
+> **Level:** 1d6+1  
+> **Form:** Small Medallion with the Word "Courage" Inscribed upon It.  
+> **Kind:** Fairy Tale
   
 When activated, grants the user additional courage in the face of fear. For ten minutes per cypher level, any time the user is attacked and they attempt to make an attack on their next action, that attack is eased and they inflict +1 point of damage.

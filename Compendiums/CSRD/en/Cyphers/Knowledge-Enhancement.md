@@ -9,7 +9,9 @@ tags:
 
   
 ## Knowledge Enhancement  
->Level: 1d6  
+>[!info] Stats  
+> **Level:** 1d6  
+> **Kind:** Subtle
   
 For the next day, the character has training in a predetermined skill (or two skills if the cypher is level 5 or higher). The skill could be anything (including something specific to the operation of a particular device), or roll a d100 to choose a common skill. (It is easy to get addicted to the quick hit of training that comes from knowledge enhancement cyphers. Characters who rely on them too often may find themselves at a disadvantage when they run out, presenting a great opportunity for GM intrusion.)  
 

@@ -9,7 +9,9 @@ tags:
 
   
 ## Condition Remover  
->Level: 1d6+3  
+>[!info] Stats  
+> **Level:** 1d6+3  
+> **Kind:** Fantastic
   
 Cures one occurrence of one specific health condition of the cypher level or lower. It does not prevent the possibility of future occurrences of the same condition. Roll a d20 to determine what it cures.  
 

@@ -9,9 +9,9 @@ tags:
 
   
 ## Baba Yaga's Spiced Cookie  
->Level: 1d6  
-  
->[!info] Form  
->Rye Cookie Flavored with Spices and Honey
+>[!info] Stats  
+> **Level:** 1d6  
+> **Form:** Rye Cookie Flavored with Spices and Honey  
+> **Kind:** Fairy Tale
   
 Eating the cookie increases the user's Intellect Edge by 1 for one hour.
