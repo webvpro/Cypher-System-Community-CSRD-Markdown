@@ -22,11 +22,11 @@ Character skills, favorable circumstances, or excellent equipment can decrease t
 
 Anything else that reduces difficulty (help from an ally, a particular piece of equipment, or some other advantage) is referred to as an *asset*. Assets can never decrease a task’s difficulty by more than two steps.  
 
-You can also decrease the difficulty of a given task by applying Effort. (Effort is described in more detail in the [[Rules of the game|Rules of the Game chapter]].)  
+You can also decrease the difficulty of a given task by applying Effort. (Effort is described in more detail in the [[Rules-of-the-Game|Rules of the Game]].)  
 To sum up, three things can decrease a task’s difficulty: skills, assets, and Effort.  
 If you can ease a task so its difficulty is reduced to 0, you automatically succeed and don’t need to make a roll. 
 
-# When Do You Roll?   
+## When Do You Roll?   
 Any time your character attempts a task, the GM assigns a difficulty to that task, and you roll a d20 against the associated target number.  
 When you jump from a burning vehicle, swing an axe at a mutant beast, swim across a raging river, identify a strange device, convince a merchant to give you a lower price, craft an object, use a power to control a foe’s mind, or use a blaster rifle to carve a hole in a wall, you make a d20 roll.  
 
@@ -34,8 +34,6 @@ However, if you attempt something that has a difficulty of 0, no roll is needed�
 Using skill, assets, and Effort, you can ease the difficulty of potentially any task to 0 and thus negate the need for a roll. Walking across a narrow wooden beam is tricky for most people, but for an experienced gymnast, it’s routine. You can even ease the difficulty of an attack on a foe to 0 and succeed without rolling.  
 
 If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls). 
-
-# Task Difficulty  
  ![[Task-Difficulty]]
  
 # Combat  
@@ -50,14 +48,19 @@ When you see the word “Armor” capitalized in the game rules (other than in t
 
 >[!tip] Light Weapons  
 >Light weapons inflict only 2 points of damage, but they ease attack rolls because they are fast and easy to use. Light weapons are punches, kicks, clubs, knives, handaxes, rapiers, small pistols, and so on. Weapons that are particularly small are light weapons.  
->[!tip] Medium Weapons  
+
+>[!tip]  Medium Weapons  
 >Medium weapons inflict 4 points of damage. Medium weapons include swords, battleaxes, maces, crossbows, spears, pistols, blasters, and so on. Most weapons are medium. Anything that could be used in one hand (even if it’s often used in two hands, such as a quarterstaff or spear) is a medium weapon.  
+
 >[!tip] Heavy Weapons  
 >Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, blaster rifles, and so on. Anything that must be used in two hands is a heavy weapon.  
+
 # Special Rolls  
 When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you also have a minor effect. In combat, a minor effect inflicts 3 additional points of damage with your attack, or, if you’d prefer a special result, you could decide instead that you knock the foe back, distract them, or something similar. When not in combat, a minor effect could mean that you perform the action with particular grace. For example, when jumping down from a ledge, you land smoothly on your feet, or when trying to persuade someone, you convince them that you’re smarter than you really are. In other words, you not only succeed but also go a bit further.  
 When you roll a natural 20 (the d20 shows “20”) and the roll is a success, you also have a major effect. This is similar to a minor effect, but the results are more remarkable. In combat, a major effect inflicts 4 additional points of damage with your attack, but again, you can choose instead to introduce a dramatic event such as knocking down your foe, stunning them, or taking an extra action. Outside of combat, a major effect means that something beneficial happens based on the circumstance. For example, when climbing up a cliff wall, you make the ascent twice as fast. When a roll grants you a major effect, you can choose to use a minor effect instead if you prefer.  
 In combat (and only in combat), if you roll a natural 17 or 18 on your attack roll, you add 1 or 2 additional points of damage, respectively. Neither roll has any special effect options—just the extra damage.  
+
+>[!note]  
 >For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.   
 
 Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.  

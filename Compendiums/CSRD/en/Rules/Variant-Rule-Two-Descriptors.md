@@ -1,8 +1,10 @@
 ---
 aliases:
 - "Variant Rule: Two Descriptors"
+- "Optional Rule: Two Descriptors"
 tags:
 - Compendium/CSRD/en/Rules/Optional
+- Variant/Dsecriptors
 - Character/Dsecriptors/Two
 ---
 
