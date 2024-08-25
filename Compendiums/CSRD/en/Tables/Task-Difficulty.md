@@ -1,3 +1,5 @@
+## Task Difficulty
+
 | **Task Difficulty** | **Description** | **Target No.** | **Guidance**                                                                                  |
 | ------------------- | --------------- | -------------- | --------------------------------------------------------------------------------------------- |
 | 0                   | Routine         | 0              | Anyone can do this basically every time.                                                      |
@@ -11,5 +13,3 @@
 | 8                   | Heroic          | 24             | A task worthy of tales told for years afterward.                                              |
 | 9                   | Immortal        | 27             | A task worthy of legends that last lifetimes.                                                 |
 | 10                  | Impossible      | 30             | A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics). |
-
-^Cypher-Task-Difficulty

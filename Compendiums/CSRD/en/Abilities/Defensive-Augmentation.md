@@ -1,15 +1,17 @@
 ---
 aliases:
-- Defensive Augmentation
+- "Defensive Augmentation"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/High
 - Ability/Categories/Protection
 ---
 
   
 ## Defensive Augmentation  
+>**Enabler**
+  
 By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler.

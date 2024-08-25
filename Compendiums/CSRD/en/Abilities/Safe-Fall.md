@@ -1,15 +1,17 @@
 ---
 aliases:
-- Safe Fall
+- "Safe Fall"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Protection
 ---
 
   
 ## Safe Fall  
+>**Enabler**
+  
 You reduce the damage from a fall by 5 points. Enabler.

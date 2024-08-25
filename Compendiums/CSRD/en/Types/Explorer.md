@@ -1,3 +1,19 @@
+---
+aliases:
+  - Explorer
+  - Delver
+tags:
+  - Compendium/CSRD/en/Types
+  - Type/Explorer
+  - Type/Explorer/Might/10
+  - Type/Explorer/Speed/9
+  - Type/Explorer/Intellect/9
+  - Type/Explorer/Edge/Choice/Might/1
+  - Type/Explorer/Weapon/Practiced/Light
+  - Type/Explorer/Weapon/Practiced/Medium
+  - Type/Explorer/Weapon/Inability/Heavy
+---
+
 ## Explorer
 
 | Fantasy/Fairy Tale   | Modern/Horror/Romance                               | Science Fiction        | Superhero/Post-Apocalyptic |
@@ -10,41 +26,25 @@
 |                      | Spelunker                                          |                        |                           |
 |                      | Trailblazer                                        |                        |                           |
 |                      | Investigative Reporter                             |                        |                           |
-^Cypher-System-Archetypes-Explorer
 
 You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.
 
-**Individual Role**:
+>**Individual Role**: Although Explorers can be academics or well studied, they are first and foremost interested in action. They face grave dangers and terrible obstacles as a routine part of life.
 
-Although Explorers can be academics or well studied, they are first and foremost interested in action. They face grave dangers and terrible obstacles as a routine part of life.
+>**Group Role**: Explorers sometimes work alone, but far more often they operate in teams with other characters. The Explorer frequently leads the way, blazing the trail. However, they’re also likely to stop and investigate anything intriguing they stumble upon.
 
-**Group Role**:
+>**Societal Role**: Not all Explorers are out traipsing through the wilderness or poking about an old ruin. Sometimes, an Explorer is a teacher, a scientist, a detective, or an investigative reporter. In any event, an Explorer bravely faces new challenges and gathers knowledge to share with others.
 
-Explorers sometimes work alone, but far more often they operate in teams with other characters. The Explorer frequently leads the way, blazing the trail. However, they’re also likely to stop and investigate anything intriguing they stumble upon.
+>**Advanced Explorers**: Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
 
-**Societal Role**:
-
-Not all Explorers are out traipsing through the wilderness or poking about an old ruin. Sometimes, an Explorer is a teacher, a scientist, a detective, or an investigative reporter. In any event, an Explorer bravely faces new challenges and gathers knowledge to share with others.
-
-**Advanced Explorers**:
-
-Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
-
-### Explorer Player Intrusions
-
+### Explorer Player Intrusions  
 When playing an Explorer, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
-**Fortuitous Malfunction**:
+>**Fortuitous Malfunction**: A trap or a dangerous device malfunctions before it can affect you.
 
-A trap or a dangerous device malfunctions before it can affect you.
+>**Serendipitous Landmark**: Just when it seems like the path is lost (or you are), a trail marker, a landmark, or simply the way the terrain or corridor bends, rises, or falls away suggests to you the best path forward, at least from this point.
 
-**Serendipitous Landmark**:
-
-Just when it seems like the path is lost (or you are), a trail marker, a landmark, or simply the way the terrain or corridor bends, rises, or falls away suggests to you the best path forward, at least from this point.
-
-**Weak Strain**:
-
-The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.
+>**Weak Strain**: The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.
 
 ### Explorer Stat Pools
 
@@ -62,7 +62,8 @@ You get 6 additional points to divide among your stat Pools however you wish.
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-| `dice: 1d20`  | Background                                                                                                               |
+>[!info]- Explorer Background Connections
+>| 1d20  | Background                                                                                                               |
 |------|--------------------------------------------------------------------------------------------------------------------------|
 | 1    | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                 |
 | 2    | Your brother is the lead singer in a really popular band.                                                               |

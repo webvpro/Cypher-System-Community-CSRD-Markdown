@@ -1,15 +1,17 @@
 ---
 aliases:
-- Iron Fist
+- "Iron Fist"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 ---
 
   
 ## Iron Fist  
+>**Enabler**
+  
 Your unarmed attacks deal 4 points of damage. Enabler.

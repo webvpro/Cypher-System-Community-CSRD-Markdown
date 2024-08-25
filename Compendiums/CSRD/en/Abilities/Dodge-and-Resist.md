@@ -1,10 +1,10 @@
 ---
 aliases:
-- Dodge and Resist
+- "Dodge and Resist"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Dodge and Resist  
->3+  Speed  
+>**Enabler**  
+>3 Speed points
   
 You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. Enabler.

@@ -1,10 +1,10 @@
 ---
 aliases:
-- Greater Necromancy
+- "Greater Necromancy"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/5
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Greater Necromancy  
->5  Intellect  
+>**Action**  
+>5+ Intellect points
   
 This ability works like the Necromancy ability except that it creates a level 3 creature. Action to animate.

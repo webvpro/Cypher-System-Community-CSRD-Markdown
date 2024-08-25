@@ -1,10 +1,10 @@
 ---
 aliases:
-- Nullify Sound
+- "Nullify Sound"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Might
@@ -13,6 +13,7 @@ tags:
 
   
 ## Nullify Sound  
->3  Might  
+>**Action**  
+>3 Might points
   
 You pulse perfectly misaligned sounds within short range to create a zone of absolute quiet up to an immediate distance across for one minute. All sound is canceled in the zone. Action to initiate.

@@ -1,10 +1,10 @@
 ---
 aliases:
-- Push on Through
+- "Push on Through"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,7 @@ tags:
 
   
 ## Push on Through  
->2+  Might  
+>**Enabler**  
+>2 Might points
   
 You ignore the effects of terrain while moving for one hour. Enabler.

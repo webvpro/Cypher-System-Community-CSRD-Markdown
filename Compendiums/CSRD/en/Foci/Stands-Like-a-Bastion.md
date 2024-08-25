@@ -8,22 +8,42 @@ tags:
   
 ## Stands Like a Bastion  
 Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.  
- ### Intrusion  
-Armor is damaged. Small foes conspire in ingenious ways.   
-#### Tier 1    
-* [[Practiced-in-Armor|Practiced in Armor]]  
-* [[Experienced-Defender|Experienced Defender]]  
-#### Tier 2    
-* [[Resist-the-Elements|Resist the Elements]]  
-#### Tier 3    
-* [[Unmovable|Unmovable]]  
-  - [[Greater-Enhanced-Might|Greater Enhanced Might]]  
-  - [[Practiced-With-All-Weapons|Practiced With All Weapons]]  
-#### Tier 4    
-* [[Living-Wall|Living Wall]]  
-#### Tier 5    
-* [[Hardiness|Hardiness]]  
-* [[Mastery-in-Armor|Mastery in Armor]]  
-#### Tier 6    
-  - [[Lethal-Damage|Lethal Damage]]  
-  - [[Shield-Training|Shield Training]]
+
+>[!note] Note  
+>Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor. 
+  
+
+>[!info] Intrusions  
+>- Armor is damaged.  
+>- Small foes conspire in ingenious ways.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[Practiced-in-Armor|Practiced in Armor]]  
+> [[Experienced-Defender|Experienced Defender]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[Resist-the-Elements|Resist the Elements]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> [[Unmovable|Unmovable]]  
+> **Choose One**  
+>- [[Greater-Enhanced-Might|Greater Enhanced Might]]  
+>- [[Practiced-with-All-Weapons|Practiced with All Weapons]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Living-Wall|Living Wall]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[Hardiness|Hardiness]]  
+> [[Mastery-in-Armor|Mastery in Armor]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Lethal-Damage|Lethal Damage]]  
+>- [[Shield-Training|Shield Training]]

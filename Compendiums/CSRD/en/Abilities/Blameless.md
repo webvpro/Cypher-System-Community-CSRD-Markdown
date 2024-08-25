@@ -1,15 +1,17 @@
 ---
 aliases:
-- Blameless
+- "Blameless"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Task
 ---
 
   
 ## Blameless  
+>**Enabler**
+  
 You are trained in one of the following: deception, stealth, or disguise. Enabler.

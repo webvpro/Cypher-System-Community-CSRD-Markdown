@@ -8,20 +8,36 @@ tags:
   
 ## Shepherds the Community  
 You keep the place where you live safe from all danger.  
- ### Intrusion  
-People in the community misunderstand the character's motives. Rivals try to oust the character.   
-#### Tier 1    
-* [[Community-Knowledge|Community Knowledge]]  
-* [[Community-Activist|Community Activist]]  
-#### Tier 2    
-* [[Skill-With-Attacks|Skill With Attacks]]  
-#### Tier 3    
-  - [[Shepherd's-Fury|Shepherd's Fury]]  
-  - [[Skill-With-Defense|Skill With Defense]]  
-#### Tier 4    
-* [[Greater-Enhanced-Potential|Greater Enhanced Potential]]  
-#### Tier 5    
-* [[Evasion|Evasion]]  
-#### Tier 6    
-  - [[Greater-Skill-With-Attacks|Greater Skill With Attacks]]  
-  - [[Protective-Wall|Protective Wall]]
+
+>[!info] Intrusions  
+>- People in the community misunderstand the character's motives.  
+>- Rivals try to oust the character.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[Community-Knowledge|Community Knowledge]]  
+> [[Community-Activist|Community Activist]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[Skill-with-Attacks|Skill with Attacks]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> **Choose One**  
+>- [[Shepherd's-Fury|Shepherd's Fury]]  
+>- [[Skill-with-Defense|Skill with Defense]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Greater-Enhanced-Potential|Greater Enhanced Potential]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[Evasion|Evasion]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Greater-Skill-with-Attacks|Greater Skill with Attacks]]  
+>- [[Protective-Wall|Protective Wall]]

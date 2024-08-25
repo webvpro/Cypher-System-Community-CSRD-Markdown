@@ -1,15 +1,17 @@
 ---
 aliases:
-- Totally Chill
+- "Totally Chill"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Cure
 ---
 
   
 ## Totally Chill  
+>**Enabler**
+  
 Your ten-minute recovery roll takes you only one round. Enabler.

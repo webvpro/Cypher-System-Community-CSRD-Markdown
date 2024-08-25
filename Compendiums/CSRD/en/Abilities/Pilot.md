@@ -1,15 +1,17 @@
 ---
 aliases:
-- Pilot
+- "Pilot"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Task
 ---
 
   
 ## Pilot  
+>**Enabler**
+  
 You are trained in all tasks related to piloting a starcraft. Generally speaking, piloting tasks are Speed-based tasks, though using sensors and communication instruments are Intellect-based tasks. Enabler.

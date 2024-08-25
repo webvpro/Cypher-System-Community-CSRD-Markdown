@@ -1,10 +1,10 @@
 ---
 aliases:
-- Again and Again
+- "Again and Again"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/8
 - Ability/Tier/High
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Again and Again  
->8+  Speed  
+>**Enabler**  
+>8 Speed points
   
 You can take an additional action in a round in which you have already acted. Enabler.

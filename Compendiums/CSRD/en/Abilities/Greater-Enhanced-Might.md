@@ -1,15 +1,17 @@
 ---
 aliases:
-- Greater Enhanced Might
+- "Greater Enhanced Might"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 ---
 
   
 ## Greater Enhanced Might  
+>**Enabler**
+  
 You gain 6 points to your Might Pool. Enabler.

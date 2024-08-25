@@ -1,10 +1,10 @@
 ---
 aliases:
-- Inspire Coordinated Actions
+- "Inspire Coordinated Actions"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/9
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Inspire Coordinated Actions  
->9  Intellect  
+>**Action**  
+>9 Intellect points
   
 If your allies can see and easily understand you, you can instruct each of them to take one specific action (the same action for all of them). If any of them choose to take that exact action, they can do so as an additional action immediately. This doesn't interfere with them taking their normal actions on their turns. Action.

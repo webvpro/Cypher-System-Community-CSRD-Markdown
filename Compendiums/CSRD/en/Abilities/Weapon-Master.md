@@ -1,15 +1,17 @@
 ---
 aliases:
-- Weapon Master
+- "Weapon Master"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Meta
 ---
 
   
 ## Weapon Master  
+>**Enabler**
+  
 You inflict an additional 1 point of damage with your chosen weapon. Enabler.

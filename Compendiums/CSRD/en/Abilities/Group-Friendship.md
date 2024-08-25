@@ -1,10 +1,10 @@
 ---
 aliases:
-- Group Friendship
+- "Group Friendship"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Group Friendship  
->4  Intellect  
+>**Action**  
+>4 Intellect points
   
 You convince a sentient creature to regard you (and up to ten creatures that you designate within immediate distance of you) positively, as they would a potential friend. Action.

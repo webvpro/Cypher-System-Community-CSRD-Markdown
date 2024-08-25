@@ -1,15 +1,17 @@
 ---
 aliases:
-- Movement Skills
+- "Movement Skills"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Task
 ---
 
   
 ## Movement Skills  
+>**Enabler**
+  
 You are trained in climbing and jumping. Enabler.

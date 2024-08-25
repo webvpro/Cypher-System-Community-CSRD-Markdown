@@ -1,10 +1,10 @@
 ---
 aliases:
-- Parry
+- "Parry"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Parry  
->5+  Speed  
+>**Enabler**  
+>5 Speed points
   
 You can deflect incoming attacks quickly. When you activate this ability, for the next ten rounds you ease all Speed defense rolls. Enabler.

@@ -1,10 +1,10 @@
 ---
 aliases:
-- Call the Storm
+- "Call the Storm"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/7
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Call the Storm  
->7  Intellect  
+>**Action**  
+>7+ Intellect points
   
 If you are outside or in a location that has a ceiling at least 300 feet (90 m) above the floor, you summon a boiling layer of lightning-lit, rumbling clouds up to 1,500 feet (460 m) in diameter for ten minutes. During daylight hours, natural illumination beneath the storm is reduced to dim light. While the storm rages, you can use an action to send a lightning bolt from the cloud to attack a target you can see directly, inflicting 4 points of damage (you can spend Effort normally on each individual lightning bolt attack). Three actions to initiate; action to call down a lightning strike.

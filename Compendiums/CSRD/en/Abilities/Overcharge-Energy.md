@@ -1,15 +1,17 @@
 ---
 aliases:
-- Overcharge Energy
+- "Overcharge Energy"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 ---
 
   
 ## Overcharge Energy  
+>**Enabler**
+  
 When you use Release Energy, it inflicts an additional 2 points of damage. Enabler.

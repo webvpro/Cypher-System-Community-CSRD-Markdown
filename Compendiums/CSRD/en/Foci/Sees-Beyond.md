@@ -8,19 +8,34 @@ tags:
   
 ## Sees Beyond  
 You have a psychic sense that allows you to see what others cannot.  
- ### Intrusion  
-Some secrets are too terrible to know.   
-#### Tier 1    
-* [[See-the-Unseen|See the Unseen]]  
-#### Tier 2    
-* [[See-Through-Matter|See Through Matter]]  
-#### Tier 3    
-  - [[Find-the-Hidden|Find the Hidden]]  
-  - [[Sensor|Sensor]]  
-#### Tier 4    
-* [[Remote-Viewing|Remote Viewing]]  
-#### Tier 5    
-* [[See-Through-Time|See Through Time]]  
-#### Tier 6    
-  - [[Mental-Projection|Mental Projection]]  
-  - [[Total-Awareness|Total Awareness]]
+
+>[!info] Intrusions  
+>- Some secrets are too terrible to know.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[See-the-Unseen|See the Unseen]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[See-Through-Matter|See Through Matter]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> **Choose One**  
+>- [[Find-the-Hidden|Find the Hidden]]  
+>- [[Sensor|Sensor]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Remote-Viewing|Remote Viewing]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[See-Through-Time|See Through Time]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Mental-Projection|Mental Projection]]  
+>- [[Total-Awareness|Total Awareness]]

@@ -1,15 +1,17 @@
 ---
 aliases:
-- Very Long Sprinting
+- "Very Long Sprinting"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/High
 - Ability/Categories/Movement
 ---
 
   
 ## Very Long Sprinting  
+>**Enabler**
+  
 When you use Phase Sprint, you can travel up to a very long distance as your action instead of a long distance. Enabler.

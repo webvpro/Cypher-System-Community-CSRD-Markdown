@@ -1,15 +1,17 @@
 ---
 aliases:
-- Extra Recovery
+- "Extra Recovery"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Cure
 ---
 
   
 ## Extra Recovery  
-You gain an additionalone-action recovery each day. Enabler.
+>**Enabler**
+  
+You gain an additional one-action recovery each day. Enabler.

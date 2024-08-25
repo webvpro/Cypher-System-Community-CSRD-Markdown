@@ -8,20 +8,35 @@ tags:
   
 ## Rages  
 When you go berserk, everyone fears you.  
- ### Intrusion  
-It's easy for a berserker to lose control and attack friend as well as foe.   
-#### Tier 1    
-* [[Frenzy|Frenzy]]  
-#### Tier 2    
-* [[Greater-Enhanced-Might|Greater Enhanced Might]]  
-* [[Movement-Skills|Movement Skills]]  
-#### Tier 3    
-  - [[Power-Strike|Power Strike]]  
-  - [[Unarmored-Fighter|Unarmored Fighter]]  
-#### Tier 4    
-* [[Greater-Frenzy|Greater Frenzy]]  
-#### Tier 5    
-* [[Attack-and-Attack-Again|Attack and Attack Again]]  
-#### Tier 6    
-  - [[Greater-Enhanced-Potential|Greater Enhanced Potential]]  
-  - [[Lethal-Damage|Lethal Damage]]
+
+>[!info] Intrusions  
+>- It's easy for a berserker to lose control and attack friend as well as foe.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[Frenzy|Frenzy]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[Greater-Enhanced-Might|Greater Enhanced Might]]  
+> [[Movement-Skills|Movement Skills]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> **Choose One**  
+>- [[Power-Strike|Power Strike]]  
+>- [[Unarmored-Fighter|Unarmored Fighter]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Greater-Frenzy|Greater Frenzy]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[Attack-and-Attack-Again|Attack and Attack Again]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Greater-Enhanced-Potential|Greater Enhanced Potential]]  
+>- [[Lethal-Damage|Lethal Damage]]

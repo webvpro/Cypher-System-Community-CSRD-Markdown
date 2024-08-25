@@ -1,10 +1,10 @@
 ---
 aliases:
-- Erase Memories
+- "Erase Memories"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Erase Memories  
->3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You reach into the mind of a creature within immediate range and make an Intellect roll. On a success, you erase up to the last five minutes of its memory. Action.

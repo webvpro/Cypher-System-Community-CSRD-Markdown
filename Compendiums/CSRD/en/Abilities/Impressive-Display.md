@@ -1,10 +1,10 @@
 ---
 aliases:
-- Impressive Display
+- "Impressive Display"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,7 @@ tags:
 
   
 ## Impressive Display  
->2  Might  
+>**Action**  
+>2 Might points
   
 You perform a feat of strength, speed, or combat, impressing those nearby. For the next minute you gain an asset on all interaction tasks with people who saw you use this ability. Action.

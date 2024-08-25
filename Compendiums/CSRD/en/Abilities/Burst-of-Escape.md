@@ -1,10 +1,10 @@
 ---
 aliases:
-- Burst of Escape
+- "Burst of Escape"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Burst of Escape  
->5+  Speed  
+>**Enabler**  
+>5 Speed points
   
 You can take two separate actions this round, as long as one of them is to hide or to move in a direction that is not toward a foe. Enabler.

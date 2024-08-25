@@ -1,10 +1,10 @@
 ---
 aliases:
-- Vanish
+- "Vanish"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Vanish  
->2  Intellect  
+>**Action**  
+>2 Intellect points
   
 You become invisible for a short amount of time. While invisible, you have an asset on stealth and Speed defense tasks. The invisibility ends at the end of your next turn, or if you do something to reveal your presence or position-attacking, using an ability, moving a large object, and so on. Action.

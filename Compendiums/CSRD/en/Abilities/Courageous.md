@@ -1,11 +1,11 @@
 ---
 aliases:
-- Courageous
+- "Courageous"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Protection
 - Ability/Categories/Task
@@ -13,4 +13,6 @@ tags:
 
   
 ## Courageous  
+>**Enabler**
+  
 You are trained in Intellect defense tasks and initiative tasks. Enabler.

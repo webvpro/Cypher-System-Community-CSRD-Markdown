@@ -1,15 +1,17 @@
 ---
 aliases:
-- Capable Warrior
+- "Capable Warrior"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 ---
 
   
 ## Capable Warrior  
+>**Enabler**
+  
 Your attacks deal 1 additional point of damage. Enabler.

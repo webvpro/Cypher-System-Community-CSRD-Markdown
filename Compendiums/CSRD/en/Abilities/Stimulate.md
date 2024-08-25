@@ -1,10 +1,10 @@
 ---
 aliases:
-- Stimulate
+- "Stimulate"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Stimulate  
->6  Intellect  
+>**Action**  
+>6 Intellect points
   
 Your words encourage a target you touch who can understand you. The next action it takes is eased by three steps. Action.

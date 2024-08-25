@@ -144,7 +144,7 @@ Each artifact has a level and a rate of power depletion. When an artifact is use
 
 Depowered artifacts can sometimes be recharged using the repair rules, depending on the item’s nature. Other special abilities can also repower an expended item, but probably for only one use.
 
-For GM information on artifacts, see the [[Rules/Cypher/Running-the-Cypher-system|Running the Cypher System]] chapter.
+For GM information on artifacts, see the [[Compendiums/CSRD/en/Rules/Running-the-Cypher-system|Running the Cypher System]] chapter.
 
 ### Finding, Identifying, and Using Artifacts
 

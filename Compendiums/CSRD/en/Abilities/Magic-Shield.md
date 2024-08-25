@@ -1,10 +1,10 @@
 ---
 aliases:
-- Magic Shield
+- "Magic Shield"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Magic Shield  
->1  Intellect  
+>**Action**  
+>1 Intellect point
   
 You gain +1 to Armor for an hour. Action to initiate.

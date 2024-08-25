@@ -8,19 +8,35 @@ tags:
   
 ## Employs Magnetism  
 You command metal and the power of magnetism.  
- ### Intrusion  
-The metal twists, bends, or produces shrapnel. A lapse in concentration might cause something to slip or drop at just the wrong time.   
-#### Tier 1    
-* [[Move-Metal|Move Metal]]  
-#### Tier 2    
-* [[Repel-Metal|Repel Metal]]  
-#### Tier 3    
-  - [[Destroy-Metal|Destroy Metal]]  
-  - [[Guide-Bolt|Guide Bolt]]  
-#### Tier 4    
-* [[Magnetic-Field|Magnetic Field]]  
-#### Tier 5    
-* [[Command-Metal|Command Metal]]  
-#### Tier 6    
-  - [[Diamagnetism|Diamagnetism]]  
-  - [[Iron-Punch|Iron Punch]]
+
+>[!info] Intrusions  
+>- The metal twists, bends, or produces shrapnel.  
+>- A lapse in concentration might cause something to slip or drop at just the wrong time.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[Move-Metal|Move Metal]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[Repel-Metal|Repel Metal]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> **Choose One**  
+>- [[Destroy-Metal|Destroy Metal]]  
+>- [[Guide-Bolt|Guide Bolt]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Magnetic-Field|Magnetic Field]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[Command-Metal|Command Metal]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Diamagnetism|Diamagnetism]]  
+>- [[Iron-Punch|Iron Punch]]

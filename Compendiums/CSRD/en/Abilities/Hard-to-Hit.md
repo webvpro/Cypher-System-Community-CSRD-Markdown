@@ -1,15 +1,17 @@
 ---
 aliases:
-- Hard to Hit
+- "Hard to Hit"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Protection
 ---
 
   
 ## Hard to Hit  
+>**Enabler**
+  
 You are trained in Speed defense tasks. Enabler.

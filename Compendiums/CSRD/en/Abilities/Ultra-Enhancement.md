@@ -1,11 +1,11 @@
 ---
 aliases:
-- Ultra Enhancement
+- "Ultra Enhancement"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/High
 - Ability/Categories/Meta
 - Ability/Categories/Protection
@@ -13,4 +13,6 @@ tags:
 
   
 ## Ultra Enhancement  
+>**Enabler**
+  
 You gain +1 to Armor and +5 to each of your three stat Pools. Enabler.

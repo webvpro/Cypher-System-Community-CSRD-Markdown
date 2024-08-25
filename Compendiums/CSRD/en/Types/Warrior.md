@@ -7,10 +7,10 @@ tags:
 - Type/Warrior/Speed/10
 - Type/Warrior/Intellect/8
 - Type/Warrior/Edge/Choice/Might/1
-- Type/Warrior/Edge/Choice/Might/1
+- Type/Warrior/Edge/Choice/Speed/1
 - Type/Warrior/Weapon/Practiced/Light
 - Type/Warrior/Weapon/Practiced/Medium
-- Type/Warrior/Weapon/Practiced/Hear
+- Type/Warrior/Weapon/Practiced/Heavy
 ---
 ## Warrior
 
@@ -27,23 +27,49 @@ tags:
 
 You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.  
 
-**Individual Role:** Warriors are physical, action-oriented people. They’re more likely to overcome a challenge using force than by other means, and they often take the most straightforward path toward their goals.  
+>**Individual Role:** Warriors are physical, action-oriented people. They’re more likely to overcome a challenge using force than by other means, and they often take the most straightforward path toward their goals.  
 
-**Group Role:** Warriors usually take and deal the most punishment in a dangerous situation. Often it falls on them to protect the other group members from threats. This sometimes means that warriors take on leadership roles as well, at least in combat and other times of danger.  
+>**Group Role:** Warriors usually take and deal the most punishment in a dangerous situation. Often it falls on them to protect the other group members from threats. This sometimes means that warriors take on leadership roles as well, at least in combat and other times of danger.  
 
-**Societal Role:** Warriors aren’t always soldiers or mercenaries. Anyone who is ready for violence, or even potential violence, might be a Warrior in the general sense. This includes guards, watchmen, police officers, sailors, or people in other roles or professions who know how to defend themselves with skill.  
+>**Societal Role:** Warriors aren’t always soldiers or mercenaries. Anyone who is ready for violence, or even potential violence, might be a Warrior in the general sense. This includes guards, watchmen, police officers, sailors, or people in other roles or professions who know how to defend themselves with skill.  
 
-**Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
+>**Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 
 #### Warrior Background Connection  
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
-![[Warrior-Background-Connection]]  
+>[!info]-  Warrior Background Connection table
+>| **d20** | **Background**                                                                                                    |
+| -- | ----------------------------------------------------------------------------------------------------- |
+| 1  | You were in the military and have friends who still serve. Your former commander remembers you well.  |
+| 2	 | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace. |
+| 3  | You were the bouncer in a local bar for a while, and the patrons there remember you. |
+| 4  | You trained with a highly respected mentor. They regard you well, but they have many enemies. |
+| 5  | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others. |
+| 6  | You have no formal training. Your abilities come to you naturally (or unnaturally). | 
+| 7  | You spent time on the streets and were in prison for a while. |
+| 8  | You were conscripted into military service, but you deserted before long. |
+| 9  | You served as a bodyguard to a powerful criminal who now owes you their life. |
+| 10 | You worked as a police officer or constable of some kind. Everyone knows you, but their opinions of you vary. |
+| 11 | Your older sibling is an infamous character who has been disgraced.
+| 12 | You served as a guard for someone who traveled extensively. You know a smattering of people in many locations. |
+| 13 | Your best friend is a teacher or scholar. They are a great source of knowledge. |
+| 14 | You and a friend both smoke the same kind of rare, expensive tobacco. The two of you get together weekly to chat and smoke. |
+| 15 | Your uncle runs a theater in town. You know all the actors and watch all the shows for free. |
+| 16 | Your craftsman friend sometimes calls on you for help. However, they pay you well. |
+| 17 | Your mentor wrote a book on martial arts. Sometimes people seek you out to ask about its stranger passages. |
+| 18 | Someone you fought alongside in the military is now the mayor of a nearby town. |
+| 19 | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero. |
+| 20 | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
+
 
 #### WARRIOR PLAYER INTRUSIONS  
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.  
-**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.  
-**Old Friend:** A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.  
-**Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.  
+>**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.  
+
+>**Old Friend:** A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.  
+
+>**Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.  
+
 #### Warrior Stat Pools
 | **Stat** | **Pool Starting Value** |
 | -- | ----------------------------- |
@@ -54,12 +80,12 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 You get 6 additional points to divide among your stat Pools however you wish.
 
 #### FIRST-TIER WARRIOR
-**First-tier warriors have the following abilities**  
-**Effort:** Your Effort is 1.  
-**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.  
-**Cypher Use:** You can bear two cyphers at a time.  
-**Weapons:** You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.  
-**Starting Equipment:** Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.  
+>**First-tier warriors have the following abilities**  
+>**Effort:** Your Effort is 1.  
+>**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.  
+>**Cypher Use:** You can bear two cyphers at a time.  
+>**Weapons:** You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.  
+>**Starting Equipment:** Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.  
 > **Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 [[Bash|Bash]]  
 [[Combat-Prowess|Combat Prowess]]  

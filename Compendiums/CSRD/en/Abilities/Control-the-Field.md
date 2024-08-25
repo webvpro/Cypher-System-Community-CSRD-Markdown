@@ -1,10 +1,10 @@
 ---
 aliases:
-- Control the Field
+- "Control the Field"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Might
@@ -13,6 +13,7 @@ tags:
 
   
 ## Control the Field  
->1  Might  
+>**Action**  
+>1 Might point
   
 This melee attack inflicts 1 less point of damage than normal, and regardless of whether you hit the target, you maneuver it into a position you desire within immediate range. Action.

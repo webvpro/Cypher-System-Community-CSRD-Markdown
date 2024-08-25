@@ -8,20 +8,37 @@ tags:
   
 ## Walks the Wild Woods  
 An adherent of nature magic who draws on the power and strength of trees.  
- ### Intrusion  
-A wooden character catches fire. A wild swing from a tree branch hits or trips an ally. Some trees have evil hearts and hate all walking things.   
-#### Tier 1    
-* [[Wilderness-Life|Wilderness Life]]  
-* [[Patient-Recovery|Patient Recovery]]  
-#### Tier 2    
-* [[Wooden-Body|Wooden Body]]  
-#### Tier 3    
-  - [[Tree-Companion|Tree Companion]]  
-  - [[Wilderness-Awareness|Wilderness Awareness]]  
-#### Tier 4    
-* [[Tree-Travel|Tree Travel]]  
-#### Tier 5    
-* [[Great-Tree|Great Tree]]  
-#### Tier 6    
-  - [[Dreadwood|Dreadwood]]  
-  - [[Restorative-Bloom|Restorative Bloom]]
+
+>[!info] Intrusions  
+>- A wooden character catches fire.  
+>- A wild swing from a tree branch hits or trips an ally.  
+>- Some trees have evil hearts and hate all walking things.  
+
+
+>[!tip]- Tier 1 Abilities  
+> [[Wilderness-Life|Wilderness Life]]  
+> [[Patient-Recovery|Patient Recovery]]  
+
+
+>[!tip]- Tier 2 Abilities  
+> [[Wooden-Body|Wooden Body]]  
+
+
+>[!tip]- Tier 3 Abilities  
+> **Choose One**  
+>- [[Tree-Companion|Tree Companion]]  
+>- [[Wilderness-Awareness|Wilderness Awareness]]  
+
+
+>[!tip]- Tier 4 Abilities  
+> [[Tree-Travel|Tree Travel]]  
+
+
+>[!tip]- Tier 5 Abilities  
+> [[Great-Tree|Great Tree]]  
+
+
+>[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Dreadwood|Dreadwood]]  
+>- [[Restorative-Bloom|Restorative Bloom]]

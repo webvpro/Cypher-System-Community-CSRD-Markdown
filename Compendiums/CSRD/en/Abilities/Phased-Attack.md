@@ -1,10 +1,10 @@
 ---
 aliases:
-- Phased Attack
+- "Phased Attack"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Phased Attack  
->3+  Intellect  
+>**Enabler**  
+>3 Intellect points
   
 The attack you make on this turn ignores your foe's armor. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). Enabler.

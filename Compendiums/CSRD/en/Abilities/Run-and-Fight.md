@@ -1,10 +1,10 @@
 ---
 aliases:
-- Run and Fight
+- "Run and Fight"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Might
@@ -13,6 +13,7 @@ tags:
 
   
 ## Run and Fight  
->4  Might  
+>**Action**  
+>4 Might points
   
 You can move a short distance and make a melee attack that inflicts 2 additional points of damage. Action.

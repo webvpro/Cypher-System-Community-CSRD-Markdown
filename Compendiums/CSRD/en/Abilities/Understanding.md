@@ -1,10 +1,10 @@
 ---
 aliases:
-- Understanding
+- "Understanding"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Understanding  
->1  Intellect  
+>**Action**  
+>1 Intellect point
   
 You observe or study a creature or object. Your next interaction with that creature or object gains one asset. Action.

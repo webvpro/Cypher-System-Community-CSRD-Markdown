@@ -1,15 +1,17 @@
 ---
 aliases:
-- Soothe Mind and Body
+- "Soothe Mind and Body"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
-- Ability/Cost/0
+- Ability/Enabler
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Task
 ---
 
   
 ## Soothe Mind and Body  
+>**Enabler**
+  
 The body and the mind are connected. All healing tasks you attempt are eased by two steps. Enabler.

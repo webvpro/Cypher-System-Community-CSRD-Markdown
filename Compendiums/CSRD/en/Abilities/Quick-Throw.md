@@ -1,10 +1,10 @@
 ---
 aliases:
-- Quick Throw
+- "Quick Throw"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Quick Throw  
->2  Speed  
+>**Action**  
+>2 Speed points
   
 After using a thrown light weapon, you draw another light weapon and make another thrown attack against the same target or a different one. Action.

@@ -1,10 +1,10 @@
 ---
 aliases:
-- Moving Like Water
+- "Moving Like Water"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ENABLER
+- Ability/Enabler
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Speed
@@ -13,6 +13,7 @@ tags:
 
   
 ## Moving Like Water  
->3+  Speed  
+>**Enabler**  
+>3 Speed points
   
 You spin and move so that your defense and attacks are aided by your fluid motion. For one minute, all your attacks and Speed defense tasks gain an asset. Enabler.

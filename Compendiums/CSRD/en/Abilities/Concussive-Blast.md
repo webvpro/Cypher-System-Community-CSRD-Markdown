@@ -1,10 +1,10 @@
 ---
 aliases:
-- Concussive Blast
+- "Concussive Blast"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## Concussive Blast  
->2  Intellect  
+>**Action**  
+>2 Intellect points
   
 You release a beam of pure force that smashes into a creature within short range, inflicting 5 points of damage and moving it back an immediate distance. Action.

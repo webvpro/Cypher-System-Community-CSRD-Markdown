@@ -1,10 +1,10 @@
 ---
 aliases:
-- True Necromancy
+- "True Necromancy"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
-- Ability/ACTION
+- Ability/Action
 - Ability/Cost/8
 - Ability/Tier/High
 - Ability/Pool/Intellect
@@ -13,6 +13,7 @@ tags:
 
   
 ## True Necromancy  
->8  Intellect  
+>**Action**  
+>8+ Intellect points
   
 This ability works like the Necromancy ability except that it creates a level 5 creature. Action to animate.
