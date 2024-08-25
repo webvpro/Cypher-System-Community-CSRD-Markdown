@@ -1,8 +1,8 @@
 ---
 aliases:
-- Cloak of Opportunity
+- "Cloak of Opportunity"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/5
@@ -13,6 +13,7 @@ tags:
 
   
 ## Cloak of Opportunity  
->ACTION 5  Intellect  
+>**Action**  
+>5 Intellect points
   
 You set small objects from the environment (rocks, broken items, clumps of dirt, and so on) swirling about you for up to ten minutes, which grants you +2 Armor. Action to initiate.

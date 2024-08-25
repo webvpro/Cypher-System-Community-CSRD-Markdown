@@ -3,29 +3,29 @@ aliases:
 - Fantasy
 tags:
 - Compendiums/CSRD/en/Tables
-- Table/Cyphers/Fantasy
+- Table/Fantasy
 ---
 
 ## Fantasy Table
 |  Roll &nbsp; &nbsp; | Fantasy  |
 | ------------- | :----------- |
-| 1-5 | Acid resistance |
-| 6-11 | Animal control |
-| 12-18 | Beast shape |
-| 19-27 | Cold resistance |
-| 28-34 | Demon ward |
-| 35-39 | Dragon ward |
-| 40-44 | Electricity resistance |
-| 45-48 | Elemental conjuration |
-| 49-57 | Fire resistance |
-| 58-61 | Giant size |
-| 62-65 | Instant boat |
-| 66-68 | Instant tower |
-| 69-72 | Lycanthrope ward |
-| 73-76 | Penultimate key |
-| 77-82 | Poison resistance |
-| 83-86 | Restorative aura |
-| 87-89 | Thought listening |
-| 90-93 | Tiny size |
-| 94-98 | Undead ward |
-| 99-0 | Walking corpse |
+| 1-5 | [[Acid-Resistance\|Acid Resistance]] |
+| 6-11 | [[Animal-Control\|Animal Control]] |
+| 12-18 | [[Beast-Shape\|Beast Shape]] |
+| 19-27 | [[Cold-Resistance\|Cold Resistance]] |
+| 28-34 | [[Demon-Ward\|Demon Ward]] |
+| 35-39 | [[Dragon-Ward\|Dragon Ward]] |
+| 40-44 | [[Electricity-Resistance\|Electricity Resistance]] |
+| 45-48 | [[Elemental-Conjuration\|Elemental Conjuration]] |
+| 49-57 | [[Fire-Resistance\|Fire Resistance]] |
+| 58-61 | [[Giant-Size\|Giant Size]] |
+| 62-65 | [[Instant-Boat\|Instant Boat]] |
+| 66-68 | [[Instant-Tower\|Instant Tower]] |
+| 69-72 | [[Lycanthrope-Ward\|Lycanthrope Ward]] |
+| 73-76 | [[Penultimate-Key\|Penultimate Key]] |
+| 77-82 | [[Poison-Resistance\|Poison Resistance]] |
+| 83-86 | [[Restorative-Aura\|Restorative Aura]] |
+| 87-89 | [[Thought-Listening\|Thought Listening]] |
+| 90-93 | [[Tiny-Size\|Tiny Size]] |
+| 94-98 | [[Undead-Ward\|Undead Ward]] |
+| 99-0 | [[Walking-Corpse\|Walking Corpse]] |

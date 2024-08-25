@@ -1,11 +1,11 @@
 ---
 aliases:
-- Robot Fighter
+- "Robot Fighter"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Attack-Skill
 - Ability/Categories/Protection
@@ -13,4 +13,6 @@ tags:
 
   
 ## Robot Fighter  
+>**Enabler**
+  
 When fighting a robot or intelligent machine, you are trained in attacks and defense. Enabler.

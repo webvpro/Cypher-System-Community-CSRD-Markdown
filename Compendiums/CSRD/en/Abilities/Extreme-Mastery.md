@@ -1,8 +1,8 @@
 ---
 aliases:
-- Extreme Mastery
+- "Extreme Mastery"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/6
@@ -14,6 +14,7 @@ tags:
 
   
 ## Extreme Mastery  
->ENABLER 6+  Might, Speed  
+>**Enabler**  
+>6 Might or 6 Speed points
   
 When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. Enabler.

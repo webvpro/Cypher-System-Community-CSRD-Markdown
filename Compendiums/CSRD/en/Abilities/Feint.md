@@ -1,8 +1,8 @@
 ---
 aliases:
-- Feint
+- "Feint"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Feint  
->ACTION 2  Speed  
+>**Action**  
+>2 Speed points
   
 If you use one action creating a misdirection or diversion, in the next round you can take advantage of your opponent's lowered defenses. Make a melee attack roll against that opponent. You gain an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. Action.

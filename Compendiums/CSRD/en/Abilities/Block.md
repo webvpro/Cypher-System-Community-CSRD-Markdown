@@ -1,8 +1,8 @@
 ---
 aliases:
-- Block
+- "Block"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Block  
->ACTION 3  Speed  
+>**Action**  
+>3 Speed points
   
 You automatically block the next melee attack made against you within the next minute. Action to initiate.

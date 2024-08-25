@@ -1,8 +1,8 @@
 ---
 aliases:
-- Undo
+- "Undo"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/5
@@ -14,6 +14,7 @@ tags:
 
   
 ## Undo  
->ACTION 5  Intellect  
+>**Action**  
+>5 Intellect points
   
 You turn back time a few seconds, effectively undoing a single creature's most recent action. That creature can then immediately repeat the same action or try something different. Action.

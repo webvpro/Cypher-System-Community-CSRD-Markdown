@@ -1,8 +1,8 @@
 ---
 aliases:
-- Electric Armor
+- "Electric Armor"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/4
@@ -13,6 +13,7 @@ tags:
 
   
 ## Electric Armor  
->ENABLER 4+  Intellect  
+>**Enabler**  
+>4 Intellect points
   
 When you wish it, electricity crackles across your body for ten minutes, granting you +1 Armor. While electrified, you have an additional +2 Armor versus electrical damage specifically, and you inflict 2 points of damage on any creature that touches you or attacks you with a melee weapon that conducts electricity. Enabler.

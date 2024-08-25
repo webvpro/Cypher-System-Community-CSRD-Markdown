@@ -1,8 +1,8 @@
 ---
 aliases:
-- Deadly Aim
+- "Deadly Aim"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Deadly Aim  
->ACTION 3  Speed  
+>**Action**  
+>3 Speed points
   
 For the next minute, all ranged attacks you make inflict 2 additional points of damage. Action to initiate.

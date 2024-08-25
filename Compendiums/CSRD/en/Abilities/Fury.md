@@ -1,8 +1,8 @@
 ---
 aliases:
-- Fury
+- "Fury"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Fury  
->ACTION 3  Might  
+>**Action**  
+>3 Might points
   
 For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.

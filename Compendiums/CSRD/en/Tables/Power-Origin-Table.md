@@ -6,7 +6,7 @@ tags:
 - Table
 ---
 
-## Power Origin Table Table
+## Power Origin Table
 |  Roll &nbsp; &nbsp; | Power Origin Table  |
 | ------------- | :----------- |
 | 1 | Absorbed powers of someone else |

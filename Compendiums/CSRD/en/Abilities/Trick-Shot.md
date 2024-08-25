@@ -1,8 +1,8 @@
 ---
 aliases:
-- Trick Shot
+- "Trick Shot"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Trick Shot  
->ACTION 2  Speed  
+>**Action**  
+>2 Speed points
   
 As part of the same action, you make a ranged attack against two targets that are within immediate range of each other. Make a separate attack roll against each target. The attack rolls are hindered. Action.

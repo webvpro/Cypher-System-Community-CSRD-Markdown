@@ -1,15 +1,17 @@
 ---
 aliases:
-- Unarmored Fighter
+- "Unarmored Fighter"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Protection
 ---
 
   
 ## Unarmored Fighter  
+>**Enabler**
+  
 While unarmored, you are trained in Speed defense tasks. Enabler.

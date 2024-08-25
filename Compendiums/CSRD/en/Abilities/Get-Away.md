@@ -1,8 +1,8 @@
 ---
 aliases:
-- Get Away
+- "Get Away"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Get Away  
->ENABLER 2+  Speed  
+>**Enabler**  
+>2 Speed points
   
 After your action on your turn, you move up to a short distance or get behind or beneath cover within immediate range. Enabler.

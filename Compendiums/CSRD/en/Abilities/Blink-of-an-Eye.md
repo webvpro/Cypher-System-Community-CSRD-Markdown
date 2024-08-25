@@ -1,8 +1,8 @@
 ---
 aliases:
-- Blink of an Eye
+- "Blink of an Eye"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/4
@@ -13,6 +13,7 @@ tags:
 
   
 ## Blink of an Eye  
->ACTION 4  Speed  
+>**Action**  
+>4 Speed points
   
 You move up to 1,000 feet (300 m) in one round. Action.

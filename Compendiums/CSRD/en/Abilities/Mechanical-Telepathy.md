@@ -1,8 +1,8 @@
 ---
 aliases:
-- Mechanical Telepathy
+- "Mechanical Telepathy"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Mechanical Telepathy  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 By touching a thinking machine, you gain access to its surface "thoughts." Action.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Intense Interaction
+- "Intense Interaction"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Intense Interaction  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You gain an asset on intimidating, persuading, and influencing people for ten minutes. Action.

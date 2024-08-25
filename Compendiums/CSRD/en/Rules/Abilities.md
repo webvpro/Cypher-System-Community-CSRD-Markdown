@@ -1,11 +1,9 @@
 ---
 aliases:
-  - Abilities in Cypher
-  - Abilities (Cypher)
+  - Abilities
 tags:
-  - Cypher/Rules/Abilities
+-  Compendium/CSRD/en/Rules/Abilities
 ---
-
 # Abilities
 
 This chapter presents a vast catalog of more than a thousand abilities a character can gain from their type, flavor (if any), and focus. They are sorted alphabetically by the ability’s name.
@@ -52,7 +50,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 - [[Compendium/Abilities/Blood-Fever|Blood Fever]]
 - [[Compendium/Abilities/Cognizant-Offense|Cognizant Offense]]
-- Greater Skill With Defense
+- [[Greater-Skill-With-Defense|Greater Skill With Defense]]
 - Practiced With All Weapons
 - Robot Fighter
 - Serv-0 Aim

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Control Machine
+- "Control Machine"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/6
@@ -13,6 +13,7 @@ tags:
 
   
 ## Control Machine  
->ACTION 6  Intellect  
+>**Action**  
+>6 Intellect points
   
 You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action.

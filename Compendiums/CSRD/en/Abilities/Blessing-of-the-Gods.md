@@ -1,16 +1,17 @@
 ---
 aliases:
-- Blessing of the Gods
+- "Blessing of the Gods"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/NA
+- Ability/Categories/NA
 ---
 
   
-# Blessing of the Gods  
+## Blessing of the Gods  
 
 As a servant of the gods, you can call up blessings in their name. This blessing depends on the god’s general demeanor and area of influence. Choose two of the abilities described below.
 
@@ -64,4 +65,4 @@ With a touch, you restore 1d6 points to one stat Pool of any creature, including
 
 >[!tip]+ Water/Sea  
 >2 Intellect,  Action  
->A target you touch can breathe water for ten minutes. 
+>A target you touch can breathe water for ten minutes.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Improved Gravity Cleave
+- "Improved Gravity Cleave"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/9
@@ -13,6 +13,7 @@ tags:
 
   
 ## Improved Gravity Cleave  
->ACTION 9  Intellect  
+>**Action**  
+>9 Intellect points
   
 You can harm a group of targets within long range by rapidly increasing gravity's pull on one portion of each target and decreasing it on another, inflicting 6 points of damage. The targets must be within immediate range of each other. Action.

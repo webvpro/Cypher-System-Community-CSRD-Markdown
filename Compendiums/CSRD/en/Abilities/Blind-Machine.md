@@ -1,8 +1,8 @@
 ---
 aliases:
-- Blind Machine
+- "Blind Machine"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/6
@@ -13,6 +13,7 @@ tags:
 
   
 ## Blind Machine  
->ACTION 6  Speed  
+>**Action**  
+>6 Speed points
   
 You deactivate the sensory apparatus of a machine, making it effectively blind until it can be repaired. You must either touch the target or strike it with a ranged attack (inflicting no damage). Action.

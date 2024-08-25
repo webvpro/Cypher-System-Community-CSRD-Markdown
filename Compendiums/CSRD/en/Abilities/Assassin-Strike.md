@@ -1,8 +1,8 @@
 ---
 aliases:
-- Assassin Strike
+- "Assassin Strike"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/5
@@ -13,6 +13,7 @@ tags:
 
   
 ## Assassin Strike  
->ENABLER 5+  Intellect  
+>**Enabler**  
+>5 Intellect points
   
 If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler.

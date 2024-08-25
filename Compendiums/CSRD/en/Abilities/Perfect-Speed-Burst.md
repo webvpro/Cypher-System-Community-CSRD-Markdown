@@ -1,8 +1,8 @@
 ---
 aliases:
-- Perfect Speed Burst
+- "Perfect Speed Burst"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/6
@@ -13,6 +13,7 @@ tags:
 
   
 ## Perfect Speed Burst  
->ENABLER 6+  Speed  
+>**Enabler**  
+>6 Speed points
   
 You can take two separate actions this round. Enabler.

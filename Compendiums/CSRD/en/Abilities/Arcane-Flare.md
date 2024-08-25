@@ -1,8 +1,8 @@
 ---
 aliases:
-- Arcane Flare
+- "Arcane Flare"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/1
@@ -14,6 +14,7 @@ tags:
 
   
 ## Arcane Flare  
->ACTION 1  Intellect  
+>**Action**  
+>1 Intellect point
   
 You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage. Enabler for enhancement; action for long-range attack.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Play to the Crowd
+- "Play to the Crowd"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Play to the Crowd  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You give a speech that is both rousing and terrifying. Those within short range who can hear and understand you have their next action either eased (an asset) or hindered-you choose, and it can be different for each individual. Action; a few rounds to complete.

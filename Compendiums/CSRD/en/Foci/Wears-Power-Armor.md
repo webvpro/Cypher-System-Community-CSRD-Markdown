@@ -8,24 +8,37 @@ tags:
   
 ## Wears Power Armor  
 Tier 1: Powered Armor  
- >[!info] Intrusion  
->The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.   
+
+>[!info] Intrusions  
+>- The armor won't come off.  
+>- The armor acts under its own power.  
+>- The armor suffers a momentary power loss.  
+>- NPCs are scared by the power armor.  
+
 
 >[!tip]- Tier 1 Abilities  
->[[Enhanced-Might|Enhanced Might]]  
+> [[Enhanced-Might|Enhanced Might]]  
+
 
 >[!tip]- Tier 2 Abilities  
->[[Heads-Up-Display|Heads-Up Display]]  
+> [[Heads-up-Display|Heads up Display]]  
+
 
 >[!tip]- Tier 3 Abilities  
+> **Choose One**  
 >- [[Fusion-Armor|Fusion Armor]]  
 >- [[Incredible-Health|Incredible Health]]  
 
+
 >[!tip]- Tier 4 Abilities  
->[[Force-Blast|Force Blast]]  
+> [[Force-Blast|Force Blast]]  
+
 
 >[!tip]- Tier 5 Abilities  
->[[Field-Reinforced-Armor|Field-Reinforced Armor]]  
+> [[Field-Reinforced-Armor|Field Reinforced Armor]]  
+
 
 >[!tip]- Tier 6 Abilities  
+> **Choose One**  
+>- [[Masterful-Armor-Modification|Masterful Armor Modification]]  
 >- [[Masterful-Armor-Modification|Masterful Armor Modification]]

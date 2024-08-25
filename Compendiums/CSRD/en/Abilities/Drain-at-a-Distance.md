@@ -1,15 +1,17 @@
 ---
 aliases:
-- Drain at a Distance
+- "Drain at a Distance"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 ---
 
   
 ## Drain at a Distance  
+>**Enabler**
+  
 Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler.

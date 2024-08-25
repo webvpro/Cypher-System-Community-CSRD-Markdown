@@ -8,25 +8,34 @@ tags:
   
 ## Fuses Flesh and Steel  
 Your body is part machine.  
- >[!info] Intrusion  
->People in most societies are afraid of someone who is revealed to have mechanical parts.   
+
+>[!info] Intrusions  
+>- People in most societies are afraid of someone who is revealed to have mechanical parts.  
+
 
 >[!tip]- Tier 1 Abilities  
->[[Enhanced-Body|Enhanced Body]]  
+> [[Enhanced-Body|Enhanced Body]]  
+
 
 >[!tip]- Tier 2 Abilities  
->[[Interface|Interface]]  
+> [[Interface|Interface]]  
+
 
 >[!tip]- Tier 3 Abilities  
+> **Choose One**  
 >- [[Sensing-Package|Sensing Package]]  
 >- [[Weaponization|Weaponization]]  
 
+
 >[!tip]- Tier 4 Abilities  
->[[Fusion|Fusion]]  
+> [[Fusion|Fusion]]  
+
 
 >[!tip]- Tier 5 Abilities  
->[[Deep-Reserves|Deep Reserves]]  
+> [[Deep-Reserves|Deep Reserves]]  
+
 
 >[!tip]- Tier 6 Abilities  
+> **Choose One**  
 >- [[Mind-Surge|Mind Surge]]  
 >- [[Ultra-Enhancement|Ultra Enhancement]]

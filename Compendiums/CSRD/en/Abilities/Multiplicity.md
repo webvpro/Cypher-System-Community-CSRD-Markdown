@@ -1,8 +1,8 @@
 ---
 aliases:
-- Multiplicity
+- "Multiplicity"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/6
@@ -14,6 +14,7 @@ tags:
 
   
 ## Multiplicity  
->ACTION 6  Might  
+>**Action**  
+>6 Might points
   
 This ability functions as Duplicate, except you can create two duplicates. Action to initiate.

@@ -1,11 +1,11 @@
 ---
 aliases:
-- Blood Fever
+- "Blood Fever"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Attack-Skill
 - Ability/Categories/Protection
@@ -13,4 +13,6 @@ tags:
 
   
 ## Blood Fever  
+>**Enabler**
+  
 When you have no points in one or two Pools, you gain an asset to attacks or defense rolls (your choice). Enabler.

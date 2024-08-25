@@ -1,5 +1,12 @@
-Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.  
-The Cypher System has no definitive list of skills. However, the following list offers ideas:  
+---
+aliases:
+- "Example Skills"
+tags:
+- Compendium/CSRD/en/Skill-Lists
+- List/Skill/Example
+- Character/Skills
+---
+
 - Astronomy
 - Balancing
 - Biology

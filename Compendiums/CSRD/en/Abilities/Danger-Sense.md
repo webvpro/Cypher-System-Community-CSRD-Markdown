@@ -1,8 +1,8 @@
 ---
 aliases:
-- Danger Sense
+- "Danger Sense"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/1
@@ -13,6 +13,7 @@ tags:
 
   
 ## Danger Sense  
->ENABLER 1+  Speed  
+>**Enabler**  
+>1 Speed point
   
 Your initiative task is eased. You pay the cost each time the ability is used. Enabler.

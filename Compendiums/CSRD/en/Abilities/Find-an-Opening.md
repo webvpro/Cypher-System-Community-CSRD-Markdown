@@ -1,8 +1,8 @@
 ---
 aliases:
-- Find an Opening
+- "Find an Opening"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/1
@@ -13,6 +13,7 @@ tags:
 
   
 ## Find an Opening  
->ACTION 1  Intellect  
+>**Action**  
+>1 Intellect point
   
 You use trickery to find an opening in your foe's defenses. If you succeed on a Speed roll against one creature within immediate range, your next attack against that creature before the end of the next round is eased. Action.

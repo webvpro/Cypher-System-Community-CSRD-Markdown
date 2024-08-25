@@ -1,8 +1,8 @@
 ---
 aliases:
-- Datajack
+- "Datajack"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/1
@@ -13,6 +13,7 @@ tags:
 
   
 ## Datajack  
->ACTION 1  Intellect  
+>**Action**  
+>1 Intellect point
   
 With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. Action.

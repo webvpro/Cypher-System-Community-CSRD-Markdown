@@ -1,8 +1,8 @@
 ---
 aliases:
-- Disincentivize
+- "Disincentivize"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/1
@@ -13,6 +13,7 @@ tags:
 
   
 ## Disincentivize  
->ENABLER 1+  Intellect  
+>**Enabler**  
+>1 Intellect point
   
 You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets' actions are hindered for one round. Enabler.

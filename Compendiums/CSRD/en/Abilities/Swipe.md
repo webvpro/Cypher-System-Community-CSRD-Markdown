@@ -1,8 +1,8 @@
 ---
 aliases:
-- Swipe
+- "Swipe"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/1
@@ -13,6 +13,7 @@ tags:
 
   
 ## Swipe  
->ACTION 1  Speed  
+>**Action**  
+>1 Speed point
   
 This is a quick, agile melee attack. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. Action.

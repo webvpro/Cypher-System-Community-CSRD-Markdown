@@ -1,13 +1,13 @@
 ---
 aliases:
-- Science & Engineering System Gm Intrusions
+- Science and Engineering System Gm Intrusions
 tags:
 - Compendiums/CSRD/en/Tables
-- Table/Intrusion/Science-&-Engineering-System-Gm-Intrusions
+- Table/Intrusion/Science-and-Engineering-System-Gm-Intrusions
 ---
 
 ## Science & Engineering System Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Science & Engineering System Gm Intrusions  |
+|  Roll &nbsp; &nbsp; | Science and Engineering System Gm Intrusions  |
 | ------------- | :----------- |
 | 1 | Shields (or basic hull integrity) compromised, all ship defense tasks hindered this round. |
 | 2 | Sensors compromised, all spacecraft tasks hindered this round. |

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Destroy Metal
+- "Destroy Metal"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Destroy Metal  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You instantly tear, rip, or burst a metal object that is within sight, within short range, and no bigger than half your size. Attempt an Intellect task to destroy the object; the task is eased by three steps compared to breaking it with brute strength. Action.

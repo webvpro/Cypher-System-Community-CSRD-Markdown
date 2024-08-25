@@ -1,8 +1,8 @@
 ---
 aliases:
-- Divert Attacks
+- "Divert Attacks"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/4
@@ -13,6 +13,7 @@ tags:
 
   
 ## Divert Attacks  
->ACTION 4  Speed  
+>**Action**  
+>4 Speed points
   
 For one minute, you automatically deflect or dodge any ranged projectile attacks. However, on your next turn after you're attacked with ranged projectiles, all your other actions are hindered. Action to initiate.

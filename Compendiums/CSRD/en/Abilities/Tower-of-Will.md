@@ -1,11 +1,11 @@
 ---
 aliases:
-- Tower of Will
+- "Tower of Will"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 - Ability/Categories/Protection
@@ -13,4 +13,6 @@ tags:
 
   
 ## Tower of Will  
+>**Enabler**
+  
 You are trained in Intellect defense tasks and gain +3 points to your Intellect Pool. Enabler.

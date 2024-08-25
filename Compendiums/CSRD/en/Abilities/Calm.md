@@ -1,8 +1,8 @@
 ---
 aliases:
-- Calm
+- "Calm"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Calm  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 Through jokes, song, or other art, you prevent a living foe from attacking anyone or anything for one round. Action.

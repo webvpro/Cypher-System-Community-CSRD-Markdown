@@ -1,8 +1,8 @@
 ---
 aliases:
-- Ship Footing
+- "Ship Footing"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Ship Footing  
->ACTION 3  Speed  
+>**Action**  
+>3 Speed points
   
 For ten minutes, all tasks you attempt while on a spaceship are eased. Action to initiate.

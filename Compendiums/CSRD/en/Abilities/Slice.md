@@ -1,8 +1,8 @@
 ---
 aliases:
-- Slice
+- "Slice"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Slice  
->ACTION 2  Speed  
+>**Action**  
+>2 Speed points
   
 This is a quick attack with a bladed or pointed weapon that is hard to defend against. You are trained in this task. If the attack is successful, it deals 1 less point of damage than normal. Action.

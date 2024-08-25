@@ -1,1 +1,0 @@
-[[Rules-of-the-Game|Show this instead]]

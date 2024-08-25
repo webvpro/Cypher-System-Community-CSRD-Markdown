@@ -1,8 +1,8 @@
 ---
 aliases:
-- Punish the Guilty
+- "Punish the Guilty"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Punish the Guilty  
->ACTION 2  Might  
+>**Action**  
+>2 Might points
   
 For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage. Action to initiate.

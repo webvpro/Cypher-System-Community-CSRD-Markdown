@@ -1,8 +1,8 @@
 ---
 aliases:
-- Vigilant
+- "Vigilant"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/5
@@ -13,6 +13,7 @@ tags:
 
   
 ## Vigilant  
->ENABLER 5+  Might  
+>**Enabler**  
+>5 Might points
   
 When affected by an attack or effect that would daze or stun you, you are not dazed or stunned. Enabler.

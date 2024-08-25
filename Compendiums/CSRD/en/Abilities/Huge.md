@@ -1,11 +1,11 @@
 ---
 aliases:
-- Huge
+- "Huge"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
 - Ability/Categories/Protection
@@ -14,4 +14,6 @@ tags:
 
   
 ## Huge  
+>**Enabler**
+  
 When you use Enlarge, you can choose to grow up to 16 feet (5 m) in height. When you do, you add +1 to Armor (a total of +2 to Armor) and deal 2 additional points of damage with melee attacks. Enabler.

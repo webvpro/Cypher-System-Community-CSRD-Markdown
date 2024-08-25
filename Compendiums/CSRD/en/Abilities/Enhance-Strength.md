@@ -1,8 +1,8 @@
 ---
 aliases:
-- Enhance Strength
+- "Enhance Strength"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Enhance Strength  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 For the next ten minutes, you gain an asset on tasks that depend on brute force, such as moving a heavy object, smashing down a door, or hitting someone with a melee weapon. Action to initiate.

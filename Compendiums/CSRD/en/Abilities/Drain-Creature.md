@@ -1,8 +1,8 @@
 ---
 aliases:
-- Drain Creature
+- "Drain Creature"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -14,6 +14,7 @@ tags:
 
   
 ## Drain Creature  
->ACTION 3  Intellect  
+>**Action**  
+>3+ Intellect points
   
 You can drain energy from a living creature you touch, inflicting 3 points of damage and restoring 3 points to your Might or Speed Pool. Action.

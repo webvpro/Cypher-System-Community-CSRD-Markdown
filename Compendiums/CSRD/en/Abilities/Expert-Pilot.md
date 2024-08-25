@@ -1,15 +1,17 @@
 ---
 aliases:
-- Expert Pilot
+- "Expert Pilot"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
-- Ability/Cost/0
+- Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Task
 ---
 
   
 ## Expert Pilot  
+>**Enabler**
+  
 You are specialized in all tasks related to piloting a starcraft. Enabler.

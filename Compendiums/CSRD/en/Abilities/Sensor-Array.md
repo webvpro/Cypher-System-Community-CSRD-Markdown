@@ -1,8 +1,8 @@
 ---
 aliases:
-- Sensor Array
+- "Sensor Array"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Sensor Array  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You are trained in using starcraft sensory instruments. These instruments allow users to answer general questions about a location, such as "How many people are in the mining colony?" or "Where did the other spacecraft crash?" Action.

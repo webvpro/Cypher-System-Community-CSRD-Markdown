@@ -1,8 +1,8 @@
 ---
 aliases:
-- Force Field
+- "Force Field"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Force Field  
->ACTION 3  Intellect  
+>**Action**  
+>3 Intellect points
   
 You create an invisible energy barrier around a creature or object you choose within short range. The force field moves with the creature or object and lasts for ten minutes. The target has +1 to Armor until the effect ends. Action.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- All-Out Con
+- "All-Out Con"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/7
@@ -13,6 +13,7 @@ tags:
 
   
 ## All-Out Con  
->ACTION 7  Intellect  
+>**Action**  
+>7 Intellect points
   
 You put everything into it. You add three free levels of Effort to the next task you attempt. You can't use this ability again until after you've taken aten-hour recovery action. Action.

@@ -1,8 +1,8 @@
 ---
 aliases:
-- Deadly Strike
+- "Deadly Strike"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/5
@@ -13,6 +13,7 @@ tags:
 
   
 ## Deadly Strike  
->ACTION 5  Might  
+>**Action**  
+>5 Might points
   
 If you strike a foe of level 3 or lower with a weapon you're practiced with, you kill the target instantly. Action.

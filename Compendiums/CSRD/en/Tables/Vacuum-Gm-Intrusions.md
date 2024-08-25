@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Vacuum Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Vacuum Gm Intrusions  |
+|  d6 | Vacuum Gm Intrusions  |
 | ------------- | :----------- |
 | 1 | The character notices a crack in their space suit or ship. It's not breached now, but may soon become a serious problem. |
 | 2 | A breach in another part of the ship or space station causes automatic safety pressure baffles to close that section off. A character might be caught in that area of the ship, or in an area of a descending baffle, which inflicts serious damage on the character (these things are made to resist obstructions and form a seal). |

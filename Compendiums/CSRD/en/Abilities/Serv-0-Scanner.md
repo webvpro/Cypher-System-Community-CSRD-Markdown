@@ -1,8 +1,8 @@
 ---
 aliases:
-- Serv-0 Scanner
+- "Serv-0 Scanner"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Enabler
 - Ability/Cost/2
@@ -13,6 +13,7 @@ tags:
 
   
 ## Serv-0 Scanner  
->ENABLER 2+  Intellect  
+>**Enabler**  
+>2 Intellect points
   
 Your Serv-0 gains the Scan ability. Enabler.

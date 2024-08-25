@@ -1,8 +1,8 @@
 ---
 aliases:
-- Dazing Attack
+- "Dazing Attack"
 tags:
-- Compendium/CSRD/en/Rules/Abilities
+- Compendium/CSRD/en/Abilities
 - Ability
 - Ability/Action
 - Ability/Cost/3
@@ -13,6 +13,7 @@ tags:
 
   
 ## Dazing Attack  
->ACTION 3  Might  
+>**Action**  
+>3 Might points
   
 You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action.
