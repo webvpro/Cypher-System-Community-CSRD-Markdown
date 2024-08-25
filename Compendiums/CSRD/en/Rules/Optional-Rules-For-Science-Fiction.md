@@ -74,3 +74,54 @@ tags:
 >[!example] Ship Collision Damage Tracks
 >[[Ship-Collision-Damage-Track|Ship Collision Damage Track]]
 
+### FTL Instability  
+Even though many different kinds of faster-than-light options are available, any use of FTL in a setting faces similar sorts of hazards at three different points: when first entering FTL, while in FTL transit, and when exiting FTL.
+
+>[!note] Entering FT  
+>Whether engaging warp drive or passing into the mouth of a wormhole gate, complicating factors might require a piloting roll, with the difficulty determined by the situation. On a failed roll, any number of bad outcomes are possible, though the least dramatic is that the craft simply fails to enter FTL and cannot do so until the PCs determine the reason and rectify it.	
+
+>[!note] In FTL Transit  
+>A dark drive failure or some weird instability in a wormhole throat, or some other issue during FTL transit could occur. Usually, these instabilities are not something a pilot can avoid, because they should be presented as a GM intrusion, at which point the PCs can attempt to avoid or deal with the situation.  
+>
+>Instability could result in a spacecraft dropping out of FTL only partway to the destination, dropping out in some completely unrecognized part of space, dropping out at the right place but months or years late, or failing to drop out at all and thus continue to move through the abnormal spaces that FTL transit posits.   
+>  
+>  Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).   
+
+>[!info] Exiting FTL  
+>The same sorts of complications could bedevil a craft exiting FTL as when entering. If so, a piloting roll is required. However, on a failed roll, results include a collision (use the Ship Collision Damage Track provided under the Asteroid Belt/Debris Field space hazard), an inadvertent spray of high-energy particles from abnormal space acting as a particle cannon accidentally aimed at some other craft or space station at the destination location, or creating/falling into a spatial anomaly.
+
+### Spatial Anomaly
+Finally, hard-to-categorize irregularities in space-time go by the broad term of “spatial anomaly.” Most of the time, spatial anomalies are hazards found in fantastically-themed settings, but not always. Because these things are anomalous, no one set of guidelines can fit them all. That said, spatial anomalies are usually a side-effect of some other factor at play, such as a hidden black hole, a dimensional rift, or the distortion field surrounding a range of post-singularity AIsestivating in the gravity wall of a magnetar.  
+>[!note]  
+>Generally speaking, spatial anomalies are a few light-seconds up to a few light-years across. It’s difficult for spacecraft to navigate within spatial anomalies, and they face many challenges if they attempt to (or are forced to) do so
+
+>[!example]  Weak Sim Strong And Post-Singularity AI  
+>[[Weak-Sim-Strong-And Post-Singularity-AI|Weak, Sim, Strong And Post-Singularity AI]]
+
+### Kardashev Scale  
+Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).   
+
+![[Types-For-A-Science-Fiction-Game|Suggested Types For A Science Fiction Game]]
+
+### Basic Creatures And NPCs For A Science Fiction Game
+
+>**Innocuous rodent:** level 1
+>
+>**Guard beast:** level 3, perception as level 4  
+>
+>**Corporate drone:** level 2 
+> 
+>**Physical laborer:** level 2; health 8
+
+
+![[Science-Fiction-Creatures-And-NPCs-By-Level And-Tech|Science Fiction Creatures And NPCs By Level And Tech]]
+
+### Additional Science Fiction Equipment  
+In a science fiction setting, the following items (and anything else appropriate to the setting) are usually available.
+
+>[!tip] Equipment  
+>Equipment includes apparel, armor, cybernetic implants, personal drone assistants, and other items that, for the most part, can be easily transported. Technically speaking, armaments are also equipment. Unless it’s important to make a distinction, assume all guidance regarding “equipment” also applies to armaments. But when it is important to make a distinction, the term “armaments” is used for equipment that is also a weapon.
+
+
+>[!tip] Armaments  
+>From contemporary bullet-firing pistols to fantastically advanced handheld disintegration guns, the weapons presented in this chapter are dedicated to those that a single character can carry and use.

@@ -39,7 +39,7 @@ A given melted may also have a trait associated with the transdimensional energy
 > none  
   
 
-|  Roll &nbsp; &nbsp; &nbsp; | Transdimensional Energy Enhancement  |  
+|  d6&nbsp; &nbsp; &nbsp; | Transdimensional Energy Enhancement  |  
 | ------------- | :----------- |  
 | 1 | Enhanced strength: Attacks inflict 6 points of damage (instead of 4) |  
 | 2 | Healing factor: Regains 2 health each round |  
