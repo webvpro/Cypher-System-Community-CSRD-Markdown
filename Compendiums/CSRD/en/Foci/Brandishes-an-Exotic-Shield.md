@@ -1,8 +1,9 @@
 ---
 aliases:
-- Brandishes an Exotic Shield
+- "Brandishes an Exotic Shield"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

@@ -21,4 +21,5 @@ Only skills gained through character type abilities or other rare instances allo
 
 If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it’s time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can’t select “all mind powers” or “all spells” as one skill and become trained or specialized in such a broad category.
 
-In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
+>[!tip] In most campaigns  
+>fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.

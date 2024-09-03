@@ -1,8 +1,9 @@
 ---
 aliases:
-- Shreds the Walls of the World
+- "Shreds the Walls of the World"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
 
   

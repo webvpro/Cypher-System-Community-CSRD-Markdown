@@ -1,8 +1,9 @@
 ---
 aliases:
-- Travels Through Time
+- "Travels Through Time"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
 
   

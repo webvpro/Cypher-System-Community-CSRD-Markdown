@@ -1,8 +1,9 @@
 ---
 aliases:
-- Wears Power Armor
+- "Wears Power Armor"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

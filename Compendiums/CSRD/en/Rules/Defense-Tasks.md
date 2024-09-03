@@ -1,7 +1,8 @@
+---
 aliases:
 - "Defense Tasks"
 tags:
-- Compendium/CSRD/en/Rules
+- Compendium/CSRD/en/Rules/Defense-Tasks
 - Task/Defense
 ---
 ## Defense Tasks

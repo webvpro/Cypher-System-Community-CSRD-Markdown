@@ -7,27 +7,31 @@ tags:
 - Character/Descriptor
 - Character/Focus
 ---
-## Character Tiers
+## Character Descriptor, Type, And Focus
 
-Every character starts the game at the first tier. Tier is a measurement of power, toughness, and ability. Characters can advance up to the sixth tier. As your character advances to higher tiers, you gain more abilities, increase your Effort, and can improve a stat’s Edge or increase a stat. Generally speaking, even first-tier characters are already quite capable. It’s safe to assume that they’ve already got some experience under their belt. This is not a “zero to hero” progression, but rather an instance of competent people refining and honing their capabilities and knowledge. Advancing to higher tiers is not really the goal of Cypher System characters, but rather a representation of how characters progress in a story.
-To progress to the next tier, characters earn experience points (XP) by pursuing character arcs, going on adventures, and discovering new things—the system is about both discovery and exploration, as well as achieving personal goals. Experience points have many uses, and one use is to purchase character benefits. After your character purchases four character benefits, they advance to the next tier. Each benefit costs 4 XP, and you can purchase them in any order, but you must purchase one of each kind of benefit (and then advance to the next tier) before you can purchase the same benefit again. The four character benefits are as follows.
+To create your character, you build a simple statement that describes them. The statement takes this form: “I am a \[fill in an adjective here] \[fill in a noun here] who \[fill in a verb here].” 
 
->[!tip] Increasing Capabilities
->You gain 4 points to add to your stat Pools. You can allocate the points among the Pools however you wish.
+**Thus:** “I am an adjective noun who verbs.” For example, you might say, “I am a [[Rugged|Rugged]] [[Warrior|Warrior]] who [[Controls-Beasts|Controls Beasts]]” or “I am a [[Charming|Charming]] [[Explorer|Explorer]] who [[Focuses-Mind-over-Matter|Focuses Mind over Matter]].”
 
->[!tip] Moving Toward Perfection  
-> You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
+In this sentence, the adjective is called your descriptor.
+>The noun is your character type.
 
->[!tip] Extra Effort
->Your Effort score increases by 1.  
+>The verb is called your focus.
 
->[!tip] Skills
->You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
+Even though character type is in the middle of the sentence, that’s where we’ll start this discussion. (Just as in a sentence, the noun provides the foundation.)
 
->[!note] Skills are a broad category of things your character can learn and accomplish. For a list of sample skills, [[Example-Skills|see here]].
+Your character [[Type|type]] is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 
->[!tip] Other Options  
->Players can also spend 4 XP to purchase other special options in lieu of gaining a new skill. Selecting any of these options counts as the skill benefit necessary to advance to the next tier. The special options are as follows:
-> - Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1. 
-> - Add 2 to your recovery rolls.
-> - Select a new type-based ability from your tier or a lower tier.
+>[!tip] You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]],  [[Explorer|Explorera]], and [[Speaker|Speakers]].
+
+Your [[Descriptor|descriptor]] defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an adjective noun who verbs.”
+
+>[!tip]
+>Unless your GM says otherwise, you can choose from any of the character descriptors.
+
+[[Focus|Focus]] is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence 
+>“I am an adjective noun who verbs.”
+>There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
+
+>[!tip]  
+>You can use the Flavors chapter to slightly modify character types to customize them for different genres.

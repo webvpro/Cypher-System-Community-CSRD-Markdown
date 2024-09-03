@@ -1,8 +1,9 @@
 ---
 aliases:
-- Moves Like the Wind
+- "Moves Like the Wind"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
 
   

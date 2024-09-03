@@ -1,8 +1,9 @@
 ---
 aliases:
-- Soars on Amazing Wings
+- "Soars on Amazing Wings"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Is Licensed to Carry
+- "Is Licensed to Carry"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

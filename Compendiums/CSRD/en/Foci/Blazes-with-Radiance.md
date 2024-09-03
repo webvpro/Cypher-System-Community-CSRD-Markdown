@@ -1,8 +1,9 @@
 ---
 aliases:
-- Blazes with Radiance
+- "Blazes with Radiance"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation 
 ---
 
   

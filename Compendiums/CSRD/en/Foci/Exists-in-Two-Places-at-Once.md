@@ -1,8 +1,9 @@
 ---
 aliases:
-- Exists in Two Places at Once
+- "Exists in Two Places at Once"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
 
   

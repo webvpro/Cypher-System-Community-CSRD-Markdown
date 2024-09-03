@@ -1,8 +1,9 @@
 ---
 aliases:
-- Ignores Physical Distance
+- "Ignores Physical Distance"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

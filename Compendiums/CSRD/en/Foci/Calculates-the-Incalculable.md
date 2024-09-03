@@ -1,8 +1,9 @@
 ---
 aliases:
-- Calculates the Incalculable
+- "Calculates the Incalculable"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Keeps a Magic Ally
+- "Keeps a Magic Ally"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

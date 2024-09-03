@@ -2,7 +2,8 @@
 aliases:
 - "Abides in Stone"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

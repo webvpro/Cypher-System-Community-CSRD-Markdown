@@ -1,8 +1,9 @@
 ---
 aliases:
-- Works the System
+- "Works the System"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

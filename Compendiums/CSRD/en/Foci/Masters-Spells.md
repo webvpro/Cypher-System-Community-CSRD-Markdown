@@ -1,8 +1,9 @@
 ---
 aliases:
-- Masters Spells
+- "Masters Spells"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
 
   

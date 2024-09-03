@@ -1,8 +1,9 @@
 ---
 aliases:
-- Absorbs Energy
+- "Absorbs Energy"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Energy-Manipulation 
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Uses Wild Magic
+- "Uses Wild Magic"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

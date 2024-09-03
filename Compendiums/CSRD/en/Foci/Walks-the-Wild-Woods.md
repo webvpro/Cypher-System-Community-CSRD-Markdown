@@ -1,8 +1,9 @@
 ---
 aliases:
-- Walks the Wild Woods
+- "Walks the Wild Woods"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

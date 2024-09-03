@@ -1,8 +1,9 @@
 ---
 aliases:
-- Shrinks to Minute Size
+- "Shrinks to Minute Size"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

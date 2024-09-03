@@ -1,12 +1,24 @@
 ---
 aliases:
-- "Fantasy Armor"
+  - "Fantasy Armor"
+  - "Fantasy Armor Descriptions"
 tags:
-- Compendiums/CSRD/en/Tables
-- Armor/Fantasy
+  - Compendium/CSRD/en/Rules/Fantasy-Armor
+  - Rule/Optional/Fantasy
+  - Rule/Armor
 ---
 
 ## Fantasy Armor
+You can wear only one kind of armor at a time (wearing more than one only gives the Armor from the best one and the Speed Effort cost of the worst one). 
+```dataview
+LIST 
+FROM #Equipment/Armor AND #Equipment/Fantasy 
+```
+
+
+>Shield: Provides an asset to Speed defense. Shield sizes vary from a small buckler to a large kite shield (in the Cypher System, the difference is mainly flavor, and for game purposes they all grant the wearer the same benefit).
+
+
 
 | Light Armor         | Armor   | Speed Effort Additional Cost | Price    |
 |---------------------|---------|------------------------------|----------|
@@ -29,5 +41,3 @@ tags:
 >\* Only against piercing and slashing attacks 
 >** Using a shield provides the wearer with an asset on Speed defense tasks If the GM prefers the simpler method of not tracking whether an attack is bashing, slashing, or stabbing, heavy cloth and padded armor should provide no Armor at all.
 
->[!example] Shields
-Shields provide an asset to Speed defense rolls. You must have one free hand to use a shield.

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Doesn't Do Much
+- "Doesn't Do Much"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
 
   

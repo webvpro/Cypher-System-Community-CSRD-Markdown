@@ -1,8 +1,9 @@
 ---
 aliases:
-- Has a Thousand Faces
+- "Has a Thousand Faces"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

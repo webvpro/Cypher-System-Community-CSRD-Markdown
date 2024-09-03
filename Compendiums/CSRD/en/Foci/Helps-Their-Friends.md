@@ -1,8 +1,9 @@
 ---
 aliases:
-- Helps Their Friends
+- "Helps Their Friends"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
 
   

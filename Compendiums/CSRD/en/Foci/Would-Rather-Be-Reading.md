@@ -1,8 +1,9 @@
 ---
 aliases:
-- Would Rather Be Reading
+- "Would Rather Be Reading"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
 
   

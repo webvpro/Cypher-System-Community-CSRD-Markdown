@@ -1,8 +1,9 @@
 ---
 aliases:
-- Rides the Lightning
+- "Rides the Lightning"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Energy-Manipulation
 ---
 
   

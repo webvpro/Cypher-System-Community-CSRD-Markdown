@@ -1,8 +1,9 @@
 ---
 aliases:
-- Copies Superpowers
+- "Copies Superpowers"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

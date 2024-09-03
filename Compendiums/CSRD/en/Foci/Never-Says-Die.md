@@ -1,8 +1,9 @@
 ---
 aliases:
-- Never Says Die
+- "Never Says Die"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

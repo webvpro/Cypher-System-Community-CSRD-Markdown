@@ -1,8 +1,9 @@
 ---
 aliases:
-- Grows to Towering Heights
+- "Grows to Towering Heights"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

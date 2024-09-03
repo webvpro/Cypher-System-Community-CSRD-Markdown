@@ -1,8 +1,9 @@
 ---
 aliases:
-- Shepherds the Community
+- "Shepherds the Community"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
 
   

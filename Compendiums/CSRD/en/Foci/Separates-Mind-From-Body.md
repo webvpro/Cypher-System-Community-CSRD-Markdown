@@ -1,8 +1,9 @@
 ---
 aliases:
-- Separates Mind From Body
+- "Separates Mind From Body"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
 
   

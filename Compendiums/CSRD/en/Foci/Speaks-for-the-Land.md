@@ -1,8 +1,9 @@
 ---
 aliases:
-- Speaks for the Land
+- "Speaks for the Land"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

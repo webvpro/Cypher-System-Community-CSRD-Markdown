@@ -1,8 +1,9 @@
 ---
 aliases:
-- Rages
+- "Rages"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat 
 ---
 
   

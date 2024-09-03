@@ -1,8 +1,9 @@
 ---
 aliases:
-- Entertains
+- "Entertains"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
 
   

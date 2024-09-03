@@ -1,8 +1,9 @@
 ---
 aliases:
-- Fights Dirty
+- "Fights Dirty"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

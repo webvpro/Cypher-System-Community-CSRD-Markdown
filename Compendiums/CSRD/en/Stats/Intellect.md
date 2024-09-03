@@ -4,7 +4,3 @@ This stat determines how smart, knowledgeable, and likable your character is. It
 >[!note]
 >Intellect could be thought of as Intellect/Personality because it governs both intelligence and charisma.
 
-[[Pool]], [[Edge]], AND [[Effort]]
-Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept: Effort. When your character really needs to accomplish a task, you apply Effort.
->[!note]
->Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.

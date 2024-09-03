@@ -1,8 +1,9 @@
 ---
 aliases:
-- Is Idolized by Millions
+- "Is Idolized by Millions"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

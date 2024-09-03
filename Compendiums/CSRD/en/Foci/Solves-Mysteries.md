@@ -1,8 +1,9 @@
 ---
 aliases:
-- Solves Mysteries
+- "Solves Mysteries"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

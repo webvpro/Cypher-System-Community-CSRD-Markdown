@@ -1,8 +1,9 @@
 ---
 aliases:
-- Learns Quickly
+- "Learns Quickly"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
 
   

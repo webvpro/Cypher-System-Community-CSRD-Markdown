@@ -1,8 +1,9 @@
 ---
 aliases:
-- Crafts Illusions
+- "Crafts Illusions"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Wields Invisible Force
+- "Wields Invisible Force"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

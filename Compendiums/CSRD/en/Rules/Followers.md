@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Character Tiers"
+- "Followers"
 tags:
 - Compendium/CSRD/en/Rules
 - Character/Followers

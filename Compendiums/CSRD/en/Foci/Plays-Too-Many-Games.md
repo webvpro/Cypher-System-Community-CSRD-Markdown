@@ -1,8 +1,9 @@
 ---
 aliases:
-- Plays Too Many Games
+- "Plays Too Many Games"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

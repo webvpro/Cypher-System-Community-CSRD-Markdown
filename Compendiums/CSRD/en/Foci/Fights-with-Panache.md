@@ -1,8 +1,9 @@
 ---
 aliases:
-- Fights with Panache
+- "Fights with Panache"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

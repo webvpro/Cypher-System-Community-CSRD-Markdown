@@ -1,8 +1,9 @@
 ---
 aliases:
-- Looks for Trouble
+- "Looks for Trouble"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

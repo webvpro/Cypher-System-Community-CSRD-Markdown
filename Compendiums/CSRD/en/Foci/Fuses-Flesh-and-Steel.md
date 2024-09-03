@@ -1,8 +1,9 @@
 ---
 aliases:
-- Fuses Flesh and Steel
+- "Fuses Flesh and Steel"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

@@ -1,6 +1,9 @@
 ---
-aliases: [Descriptors in Cypher]
-tags: [Cypher/Rules/Character-Creation/Descriptors]
+aliases:
+  - Descriptor
+tags:
+  - Compendium/CSRD/en/Rules/Descriptor
+  - Rule/Descriptor
 ---
 
 # Descriptor
@@ -58,4 +61,4 @@ Sometimes, in settings that have alien or fantasy species, players want to play 
 
 However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the [[Compendium/Cypher/Descriptors/Strong|Strong]] or [[Compendium/Cypher/Descriptors/Tough|Tough]] descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to [[Compendium/Cypher/Descriptors/Strong|Strong]] or [[Compendium/Cypher/Descriptors/Tough|Tough]] but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a [[Compendium/Cypher/Descriptors/Tough|Tough]] Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
 
-The Genres chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a [[Compendium/Cypher/Descriptors/Mysterious|Mysterious]] character and a [[Compendium/Cypher/Descriptors/Virtuous|Virtuous]] one are probably greater than those between an Alpha Centauran and an Earthling.
+The Genres chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a [[Mysterious|Mysterious]] character and a [[Virtuous|Virtuous]] one are probably greater than those between an Alpha Centauran and an Earthling.

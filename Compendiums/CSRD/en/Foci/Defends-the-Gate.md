@@ -1,8 +1,9 @@
 ---
 aliases:
-- Defends the Gate
+- "Defends the Gate"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

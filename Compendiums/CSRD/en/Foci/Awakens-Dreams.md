@@ -1,8 +1,9 @@
 ---
 aliases:
-- Awakens Dreams
+- "Awakens Dreams"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation 
 ---
 
   

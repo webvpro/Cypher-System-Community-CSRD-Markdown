@@ -1,8 +1,9 @@
 ---
 aliases:
-- Crafts Unique Objects
+- "Crafts Unique Objects"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Interprets the Law
+- "Interprets the Law"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Drives Like a Maniac
+- "Drives Like a Maniac"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

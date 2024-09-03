@@ -1,8 +1,9 @@
 ---
 aliases:
-- Bears a Halo of Fire
+- "Bears a Halo of Fire"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Energy-Manipulation
 ---
 
   

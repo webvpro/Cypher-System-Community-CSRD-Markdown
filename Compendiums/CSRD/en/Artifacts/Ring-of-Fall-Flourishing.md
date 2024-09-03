@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
-- Artifacts/Fantasy
+- Artifact/Fantasy
 ---
 
   
@@ -12,7 +12,7 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6  
 > **Form:** Gold Band Inscribed with Feather Wreath  
-> **Depletion:** Gold Band Inscribed with Feather Wreath  
+> **Depletion:** 1 in 1D100  
 > **Kind:** Fantasy
   
 The wearer of the ring can fall any distance safely, landing easily and upright.

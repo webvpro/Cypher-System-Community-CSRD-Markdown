@@ -1,8 +1,9 @@
 ---
 aliases:
-- Works for a Living
+- "Works for a Living"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
 
   

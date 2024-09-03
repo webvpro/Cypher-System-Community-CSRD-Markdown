@@ -1,8 +1,9 @@
 ---
 aliases:
-- Emerged From the Obelisk
+- "Emerged From the Obelisk"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
 
   

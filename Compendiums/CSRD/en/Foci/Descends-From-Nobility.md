@@ -1,8 +1,9 @@
 ---
 aliases:
-- Descends From Nobility
+- "Descends From Nobility"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
 
   

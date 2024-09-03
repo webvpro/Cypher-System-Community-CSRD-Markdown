@@ -1,8 +1,9 @@
 ---
 aliases:
-- Needs No Weapon
+- "Needs No Weapon"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

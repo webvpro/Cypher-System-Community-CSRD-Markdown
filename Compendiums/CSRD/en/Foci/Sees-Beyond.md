@@ -1,8 +1,9 @@
 ---
 aliases:
-- Sees Beyond
+- "Sees Beyond"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
 
   
