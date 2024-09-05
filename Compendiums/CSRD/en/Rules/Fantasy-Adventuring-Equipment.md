@@ -1,4 +1,4 @@
----
+ ---
 aliases:
   - "Adventuring Equipment"
   - "Fantasy Adventuring Equipment"

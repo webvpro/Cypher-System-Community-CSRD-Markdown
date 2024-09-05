@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Ability Guidelines Are Not Perscriptive"
+- "Combat"
 tags:
 -  Compendium/CSRD/en/Rules
 - Combat/Basics

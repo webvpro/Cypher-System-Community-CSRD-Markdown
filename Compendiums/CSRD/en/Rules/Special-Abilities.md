@@ -2,7 +2,7 @@
 aliases:
 - "Special Abilities"
 tags:
-- Compendium/CSRD/en/Rules
+- Compendium/CSRD/en/Rules/Special-Abilities
 - Character/Abilities
 ---
 ## Special Abilities
@@ -18,4 +18,4 @@ Many special abilities grant a character the option to perform an action that th
 Some special abilities allow you to perform a familiar action one that you can already do in a different way. For example, an ability might let you wear heavy armor, reduce the difficulty of Speed defense rolls, or add 2 points of fire damage to your weapon damage. These abilities are called enablers. Using one of these abilities is not considered an action. Enablers either function constantly (such as being able to wear heavy armor, which isn’t an action) or happen as part of another action (such as adding fire damage to your weapon damage, which happens as part of your attack action). If a special ability is an enabler, the end of the ability’s description says “Enabler” to remind you.
 
 Some abilities specify a duration, but you can always end one of your own abilities anytime you wish.
-(Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what’s available in their particular game and whether anything is modified, and they’ll let the players know.)
+>Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what’s available in their particular game and whether anything is modified, and they’ll let the players know.

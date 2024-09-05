@@ -23,9 +23,9 @@ Not all characters are familiar with all weapons. Warriors know their way around
 >[!note] 
 >In general, light weapons are moderately priced items, medium weapons are expensive, and heavy weapons are very expensive. Ammunition for a ranged weapon is inexpensive. The Genre chapter offers more specific details on weapons available in a given setting. Keep in mind that in many genres, it’s not acceptable to run around carrying dangerous weapons.
 
->[!example] [[Fantasy-Weapons]]
+### [[Fantasy-Weapons]]
 
->[!example]  Explosive Weapons  
+###  Explosive Weapons  
 >Bombs, grenades, missiles, and other explosives operate differently than other weapons. They affect all targets within an area (usually an immediate area) and inflict damage to all of them. A separate attack roll is required for each (or a Speed defense roll if the PCs are the targets of such an attack), although to simplify, the player can make one attack roll and compare it to the difficulty to attack each target. Usually, even if the attack roll fails (or the Speed defense roll succeeds), the targets still suffer a smaller amount of damage, often 1 point.  
 >
 >>Explosives like grenades can be thrown a short distance. Otherwise, another launcher weapon is needed to project them a long distance (or farther).

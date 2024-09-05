@@ -42,19 +42,14 @@ However, if you attempt something that has a difficulty of 0, no roll is needed�
 Using skill, assets, and Effort, you can ease the difficulty of potentially any task to 0 and thus negate the need for a roll. Walking across a narrow wooden beam is tricky for most people, but for an experienced gymnast, it’s routine. You can even ease the difficulty of an attack on a foe to 0 and succeed without rolling.  
 
 If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls). 
- >[!example] [[Task-Difficulty|Task Difficulty Table]]
+### Task Difficulty Table 
+[[Task-Difficulty|Task Difficulty Table]]
 
->[!example] [[Combat]]
-
->[!example] [[Special-Rolls|Special Rolls]]
- 
->[!example]  [[Glossary]]
-  
->[!example]  [[Range-and-Speed|Range and Speed]]
-
- >[!example]  [[Range-and-Speed|Range and Speed]]
-
->[!example]  [[Experience-Points|Experience Points]]
+## [[Combat]]
+## [[Special-Rolls|Special Rolls]]
+## [[Glossary]]
+## [[Range-and-Speed|Range and Speed]]
+## [[Experience-Points|Experience Points]]
 
 ## Cyphers  
 Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.  
@@ -65,8 +60,7 @@ Characters will find new cyphers frequently in the course of play, so players sh
 In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll need to roll a number between 1 and 100 (often called a d100 or d% roll), which you can do by rolling a d20 twice, using the last digit of the first roll as the “tens” place and the last digit of the second roll as the “ones” place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a d10 (a ten-sided die), you can use it instead of the d20 to roll numbers between 1 and 100.  
 >[!tip] A d6 is used most often for recovery rolls and to determine the level of cyphers.  
 
->[!example]  Creating your Character
->[[Creating-Characters|Creating your Character]]
+## [[Creating-Characters|Creating your Character]]
 
  
 

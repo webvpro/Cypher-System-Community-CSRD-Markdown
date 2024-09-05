@@ -1,9 +1,13 @@
 ---
 aliases:
-  - Running the Cypher System
+  - "Running the Cypher System"
 tags:
-  - Cypher/Rules/Playing
+  - Compendium/CSRD/en/Rules/Running-the-Cypher-System
+  - GM
+  - Rule/Setting-Difficulty-Rating
 ---
+# Running the Cypher System
+
 ## Setting Difficulty Ratings
 
 The GM’s most important overall tasks are setting the stage and guiding the story created by the group (not the one created by the GM ahead of time). But setting difficulty is the most important mechanical task the GM has in the game. Although there are suggestions throughout this chapter for various difficulty ratings for certain actions, there is no master list of the difficulty for every action a PC can take. Instead, the Cypher System is designed with the “teach a person to fish” style of good game mastering in mind. (If you don’t know what that means, it comes from the old adage “Give a person a fish and they’ll eat for a day. Teach a person to fish and they’ll eat for a lifetime.” The idea is not to give GMs a ton of rules to memorize or reference, but to teach them how to make their own logical judgment calls.) Of course, most of the time, it’s not a matter of exact precision. If you say the difficulty is 3 and it “should” have been 4, the world’s not over.
@@ -50,7 +54,7 @@ Last, if your mind leans toward statistics, you can look at difficulty as a perc
 
 For some people, it’s easier to think in terms of a percentage chance. A GM might think “She has about a 30% chance to know that fact about geography.” Each number on a d20 is a 5% increment, and it takes six increments to equal 30%, so there are six numbers that mean the PC succeeds: 15, 16, 17, 18, 19, and 20. Thus, since the player has to roll 15 or higher, that means the target number is 15. (And that means the task is level 5, but if you’ve already determined the target number, you likely don’t care about the level.)
 
-## ADVANTAGES TO THIS SYSTEM
+### Advantages to This System
 1. The GM makes measured adjustments in large, uniform steps. That makes things faster than if players had to do arithmetic using a range of all numbers from 1 to 20.
 2. You calculate a target number only once no matter how many times the PCs attempt the action. If you establish that the target number is 12, it’s 12 every time a PC tries that action. (On the other hand, if you had to add numbers to your die roll, you’d have to do it for every attempt.) Consider this fact in light of combat. Once a player knows that they need to roll a 12 or higher to hit a foe, combat moves very quickly.  
 3. 
@@ -58,8 +62,7 @@ For some people, it’s easier to think in terms of a percentage chance. A GM mi
 5. 
 6. This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.
 7. 
-8. Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to)—the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
-   
+8. Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to) the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
 ## GM Intrusion  
 GM intrusion is the main mechanic that the GM uses to inject drama and additional excitement into the game. It’s also a handy tool for resolving issues that affect the PCs but do not involve them. GM intrusion is a way to facilitate what goes on in the world outside the characters. Can the minotaur track the PCs’ movements through the maze? Will the fraying rope hold?  
 
@@ -172,14 +175,14 @@ When a PC rolls a 1, handle the GM intrusion the same way that you’d handle an
 >>> - The PC disables the explosive device before it goes off, but if someone doesn’t remain and hold the detonator, it will still explode.  
 >>> - The PC creates the antidote, but it will turn the imbiber’s flesh blue for the next few weeks.  
 >>> - The PC jumps across the pit but accidentally knocks loose some stones from the edge, making the jump harder for their friend right behind them.  
-### Player Intrusions
+## Player Intrusions
 Player intrusions give the players a small bit of narrative control over the world. However, the world still remains in the GM’s purview. You can always overrule a player intrusion, or suggest a way to massage it so that it fits better into the setting. Still, because it is indeed narrative control, a player intrusion should always involve a small aspect of the world beyond the character. “I punch my foe really hard” is an expression of Effort or perhaps character ability. “My foe slips and falls backward off the ledge” is a player intrusion.  
 
 Player intrusions should never be as big as GM intrusions. They should not end an encounter, only (perhaps) provide the PC with the means to more easily end an encounter. They should not have a wide-reaching or even necessarily a long-term effect on the setting. A way to consider this might be that player intrusions can affect a single object (a floorboard snaps), feature (there’s a hidden shallow spot in the stream to ford), or NPC (the vendor is an old friend). But not more than that. A player intrusion can’t affect a whole village or even a whole tavern in that village. A rock can come loose, but a player intrusion can’t create a landslide.
-### Tying Actions to Stats
+## Tying Actions to Stats
 Although the decision is open to your discretion, when a PC takes an action, it should be fairly obvious which stat is tied to that action. Physical actions that involve brute force or endurance use Might. Physical actions that involve quickness, coordination, or agility use Speed. Actions that involve intelligence, education, insight, willpower, or charm use Intellect.
 In rare instances, you could allow a PC to use a different stat for a task. For example, a character might try to break down a door by examining it closely for flaws and thus use Intellect rather than Might. This kind of change is a good thing because it encourages player creativity. Just don’t let it be abused by an exuberant or too-clever player. It’s well within your purview to decide that the door has no flaws, or to rule that the character’s attempt will take half an hour rather than one round. In other words, using a stat that is not the obvious choice should be the exception, not the rule.  
-### Cyphers
+## Cyphers
 You should think of cyphers as character abilities, whether they’re subtle cyphers or manifest cyphers. This means that it is incumbent upon you to make sure that players always have plenty of cyphers to use. In the course of their travels, the PCs should find that cyphers are extremely common. And since the PCs are limited in the number of cyphers they can carry, they will use them liberally.  
 
 Manifest cyphers can be found by scavenging through old ruins. They can be found in the corpses of magical or technological foes. They can be found among the possessions of intelligent fallen opponents or the lairs of unintelligent creatures, either amid the bones of former meals or as shiny decorations in a nest. They can be found in villages, in the back of a merchant’s cart that sells junk and scavenged parts. They are offered as rewards by people who are grateful for the PCs’ help.  
@@ -199,11 +202,11 @@ The first group includes everything that reduces the difficulty of a task (inclu
 > - Manifest cyphers can take any form. Just make them appropriate to the genre.
 
 >[!tip]  
->Cyphers teach GMs to design different kinds of scenarios—ones in which the whole adventure isn’t wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.  
+>Cyphers teach GMs to design different kinds of scenarios ones in which the whole adventure isn’t wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.  
 >
 >It’s all right if players think of cyphers (especially manifest cyphers) as equipment or treasure. You should choose points in the course of the story that are appropriate for awarding subtle cyphers, especially if the PCs aren’t at their full capacity.
 
-### Artifacts  
+## Artifacts  
 In terms of the narrative, artifacts are a lot like cyphers, except that most are not one-use items. Mechanically, they serve a very different purpose. It’s assumed that characters are exploring with some cyphers at their disposal. Artifacts, however, are added abilities that make characters broader, deeper, and often more powerful. They aren’t assumed—they’re extra.  
 
 The powers granted by artifacts are more like the abilities gained from a character’s type or focus in that they change the way the PC is played overall. The difference between an artifact and a type or focus ability is that almost all artifacts are temporary. They last longer than cyphers do, but because they have a depletion roll, any use could be their last.
@@ -214,10 +217,13 @@ Also like cyphers, artifacts are simple for the GM to create. The only differenc
 For examples of artifacts, see the Genres chapter.  
 
 >[!tip] You may wish to forbid the use of XP to reroll artifact depletion rolls. That’s pretty reasonable.
-### FANTASY ARTIFACTS
+### Fantasy Artifacts
 If cyphers are the expendable magic that is ever-present in fantasy, artifacts are the more durable magic items that can be used over and over again—swords, armor, tomes of weird magic, cloaks of invisibility, and so on. Unlike cyphers, there is no limit to how many artifacts a character can bear; an entire campaign might stem from an ongoing quest to collect all of the legendary items carried by a famous hero.
-### EXAMPLE FANTASY ARTIFACTS
+#### Example Fantasy Artifacts
 The rest of this chapter is examples of artifacts suitable for a fantasy game. The artifacts are divided into two tables—one for minor items (artifacts that don’t have particularly flashy or world-affecting abilities) and one for major items (artifacts that do). A GM running a campaign where magic is subtle, weak, or otherwise limited can use the minor items table, and a GM of a campaign where some magic can do powerful or even impossible things can roll on either table.
 
-![[Minor-Fantasy-Artifacts]]  
+```dataview
+LIST 
+FROM #Artifact/Fantasy
+```
 

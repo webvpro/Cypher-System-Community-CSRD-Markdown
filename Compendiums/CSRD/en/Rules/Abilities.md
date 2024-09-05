@@ -4,7 +4,7 @@ aliases:
 tags:
 -  Compendium/CSRD/en/Rules/Abilities
 ---
-## Abilities
+# Abilities
 
 This chapter presents a vast catalog of more than a thousand abilities a character can gain from their type, flavor (if any), and focus. They are sorted alphabetically by the ability’s name.
 
@@ -19,7 +19,7 @@ These abilities are further sorted into ability categories based on the kinds of
 > [!important] How to Use an Ability
 > To use an ability whose description says “Action”, a character must take the Activate a Special Ability action, in addition to paying the initial cost (if any).
 
-### Ability Categories and Relative Power
+## Ability Categories and Relative Power
 
 Abilities can be divided into several categories based on the kinds of things they do—improve your physical attacks, assist allies, provide defense, give you a special attack form, and so on. Under each of the following category descriptions is a list of abilities that fit that category, sorted into low-, medium-, and high-tier abilities.
 
@@ -180,7 +180,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Environment
+### Environment
 
 Manipulates the environment or things in the environment, such as with telekinesis, weather control, gravity control, illusions, and so on.
 
@@ -208,7 +208,7 @@ Manipulates the environment or things in the environment, such as with telekines
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Information
+### Information
 
 Gives the ability to learn information about something, whether chosen by the GM like Scan, by asking a question and the GM giving the answer, or by learning a language.
 
@@ -237,7 +237,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Meta
+### Meta
 
 Modifies an existing ability or character trait’s effects or parameters, such as increasing range or, damage, easing the difficulty, giving you additional noncombat actions each turn, rerolling a failed attempt, or treating a number on the die as something different than normal.
 
@@ -267,7 +267,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Movement
+### Movement
 
 Increases your movement (such as increasing your basic movement speed from short to long) or adds a new type of movement (such as flight, wallcrawling, phasing, or teleporting).
 
@@ -296,7 +296,7 @@ Increases your movement (such as increasing your basic movement speed from short
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Protection
+### Protection
 
 Gives training or specialization in one or more types of combat defenses (Might, Speed, or Intellect), provides or increases Armor, or otherwise helps prevent damage.
 
@@ -325,7 +325,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 > ``` 
 
 
-## Senses
+### Senses
 
 Enhances your senses (seeing in the dark, seeing underwater or through mist, sensing danger, finding optimal places to stand in combat, and so on), but doesn’t provide direct answers to questions like an information ability does.
 
@@ -354,7 +354,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Social
+### Social
 
 Gives you an indirect social benefit, such as providing a useful contact in a city or letting you take advantage of your social status.
 
@@ -382,7 +382,7 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Special Attack
+### Special Attack
 
 Gives the ability to make a special melee or ranged attack (weapon, energy blast, psychic, and so on). The attack might do damage, have a special effect (disarm, hinder, move the target, and so on), or both. This also includes abilities like Spray that let you attack multiple targets as your action.
 
@@ -410,7 +410,7 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Support
+### Support
 
 Gives some sort of benefit to an ally rather than yourself, such as an extra action or an asset on their roll.
 
@@ -438,7 +438,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 > SORT file.name  
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
-## Task
+### Task
 
 Gives training, specialization, or an asset in one or more noncombat skills (climbing, healing, computers, initiative, and so on).
 
@@ -467,7 +467,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Transform
+### Transform
 
 A significant change that temporarily enhances you, such as growing bigger, turning into a werewolf, and so on. Also includes apparent transformations like disguises and invisibility.
 
@@ -495,7 +495,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—A
+### Abilities—A
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -504,7 +504,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—B
+### Abilities—B
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -513,7 +513,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—C
+### Abilities—C
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -522,7 +522,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—D
+### Abilities—D
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -531,7 +531,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—E
+### Abilities—E
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -540,7 +540,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—F
+### Abilities—F
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -549,7 +549,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—K
+### Abilities—K
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -558,7 +558,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—L
+### Abilities—L
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -567,7 +567,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—M
+### Abilities—M
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -576,7 +576,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—N
+### Abilities—N
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -585,16 +585,16 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—O
+### Abilities—O
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "NO)             
+> WHERE  startswith(file.name, "O")             
 > SORT file.name 
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—P
+### Abilities—P
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -603,7 +603,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```  
 
->[!example]- Abilities—Q
+### Abilities—Q
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -612,7 +612,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
->[!example]- Abilities—R
+### Abilities—R
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -621,7 +621,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—S
+### Abilities—S
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -630,7 +630,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—T
+### Abilities—T
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -639,7 +639,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—U
+### Abilities—U
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -648,7 +648,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—V
+### Abilities—V
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -657,7 +657,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```  
 
->[!example]- Abilities—W
+### Abilities—W
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -666,16 +666,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—X
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "X")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
->[!example]- Abilities—Y
+### Abilities—Y
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -684,7 +675,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
->[!example]- Abilities—Z
+### Abilities—Z
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -693,4 +684,4 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-[[Compendiums/CSRD/en/Rules/Equipment|Equipment]]
+#### [[Animal-Form-Minor-Abilities-Table|Animal Form Minor Abilities Table]]

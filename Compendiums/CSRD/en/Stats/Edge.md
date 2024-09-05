@@ -1,3 +1,10 @@
+---
+aliases:
+  -  "Edge"
+tags: 
+- Compendium/CSRD/en/Stats/Edge
+---
+## Edge
 Although your Pool is the basic measurement of a stat, your Edge is also important. When something requires you to spend points from a stat Pool, your Edge for that stat reduces the cost. It also reduces the cost of applying Effort to a roll.
 
 For example, let’s say you have a mental blast ability, and activating it costs 1 point from your Intellect Pool. Subtract your Intellect Edge from the activation cost, and the result is how many points you must spend to use the mental blast. If using your Edge reduces the cost to 0, you can use the ability for free.

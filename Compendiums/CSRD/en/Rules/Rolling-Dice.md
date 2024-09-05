@@ -25,24 +25,29 @@ This distinction is important when stacking skills and assets to decrease the di
 ### Special Rolls
 If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that number), special rules come into play. These are explained in more detail in the following sections.
 
->**1: GM Intrusion.** The GM makes a free intrusion (see below) and doesn’t award experience points (XP) for it.  
+#### 1 GM Intrusion  
+>  The GM makes a free intrusion (see below) and doesn’t award experience points (XP) for it.  
 
->**17: Damage Bonus.** If the roll was a damage-dealing attack, it deals 1 additional point of damage.  
+#### 17: Damage Bonus
+>If the roll was a damage-dealing attack, it deals 1 additional point of damage.  
 
->**18: Damage Bonus.** If the roll was a damage-dealing attack, it deals 2 additional points of damage.  
+#### 18: Damage Bonus  
+>If the roll was a damage-dealing attack, it deals 2 additional points of damage.  
 
->**19: Minor Effect.** If the roll was a damage-dealing attack, it deals 3 additional points of damage or the PC gets a minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a minor effect in addition to the normal results of the task.  
+#### 19: Minor Effect  
+>If the roll was a damage-dealing attack, it deals 3 additional points of damage or the PC gets a minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a minor effect in addition to the normal results of the task.  
 
->**20: Major Effect.** If the roll was a damage-dealing attack, it deals 4 additional points of damage or the PC gets a major or minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a major effect in addition to the normal results of the task. If the PC spent points from a stat Pool on the action, the point cost for the action decreases to 0, meaning the character regains those points as if they had not spent them at all.
+#### 20: Major Effect. 
+>If the roll was a damage-dealing attack, it deals 4 additional points of damage or the PC gets a major or minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a major effect in addition to the normal results of the task. If the PC spent points from a stat Pool on the action, the point cost for the action decreases to 0, meaning the character regains those points as if they had not spent them at all.
 
->[!example] GM Intrusion  
->GM intrusion is explained in more detail in the Running the Cypher System chapter, but essentially it means that something occurs to complicate the character’s life. The character hasn’t necessarily fumbled or done anything wrong (although perhaps they did). It could just be that the task presents an unexpected difficulty or something unrelated affects the current situation.  
->
+##### GM Intrusion  
+GM intrusion is explained in more detail in the Running the Cypher System chapter, but essentially it means that something occurs to complicate the character’s life. The character hasn’t necessarily fumbled or done anything wrong (although perhaps they did). It could just be that the task presents an unexpected difficulty or something unrelated affects the current situation.  
+
 >For GM intrusion on a defense roll, a roll of 1 might mean that the PC takes 2 additional points of damage from the attack, indicating that the opponent got in a lucky blow.  
 >[!tip] 
->For complete details about GM intrusion and how to use it to best effect in the game, see the [[Running-the-Cypher-system|Running the Cypher System]] chapter.
+>For complete details about GM intrusion and how to use it to best effect in the game, see the [[Running-the-Cypher-System|Running the Cypher System]] chapter.
 
->[!example] Minor Effect  
+#####  Minor Effect  
 >A minor effect happens when a player rolls a natural 19. Most of the time, a minor effect is slightly beneficial to the PC, but not overwhelming.
 >
 >A climber gets up the steep slope a bit faster. A repaired machine works a bit better. A character jumping down into a pit lands on their feet. Either the GM or the player can come up with a possible minor effect that fits the situation, but both must agree on what it should be.  
