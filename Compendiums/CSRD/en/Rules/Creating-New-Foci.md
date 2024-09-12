@@ -144,7 +144,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 >Major Effect Suggestions: Make a free, no-action recovery roll that doesn’t count against daily recovery rolls.
 
 >The following are examples and not meant to provide a complete list of all possible foci in this category.
-> - [[Doesn't-Do-Much|Doesn't Do Much]]  
+> - [[Doesnt-Do-Much|Doesn't Do Much]]  
 > - [[Interprets-the-Law|Interprets the Law]]  
 > - [[Learns-Quickly|Learns Quickly]] 
 > - [[Works-for-a-Living|Works for a Living]]  

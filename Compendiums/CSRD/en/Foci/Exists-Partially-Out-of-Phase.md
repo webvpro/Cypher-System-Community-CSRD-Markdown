@@ -30,7 +30,7 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 
 
 >[!tip]- Tier 4 Abilities  
-> [[Ghost|Ghost]]  
+> [[Compendiums/CSRD/en/Abilities/Ghost|Ghost]]  
 
 
 >[!tip]- Tier 5 Abilities  

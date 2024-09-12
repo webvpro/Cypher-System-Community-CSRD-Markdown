@@ -1,6 +1,6 @@
 ---
 aliases:
-- Risk-Taking
+- Risk Taking
 tags:
 - Compendiums/CSRD/en/Descriptors
 - Descriptor

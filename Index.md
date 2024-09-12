@@ -1,0 +1,60 @@
+---
+aliases:
+  -  "CSRD Rules Index"
+tags: 
+- Compendium/CSRD/en/Rules/Index
+---
+# Cypher System Rules Index
+
+## 1. [[How-to-play]]
+>### [[Combat]]  
+>### [[Special-Rolls|Special Rolls]]  
+>### [[Glossary]]
+>### [[Range-and-Speed|Range and Speed]]
+>### [[Experience-Points|Experience Points]]
+## 2. [[Creating-Characters|Creating your Character]] 
+ >###  [[Character-Stats|Character Stats]]
+> >#### [[Pool]]
+> >#### [[Edge]] 
+> >####  [[Effort]]
+> >#### [[Effort-And-Damage|Effort And Damage]]
+> >#### [[Multiple-Uses-Of-Effort-And-Edge|Multiple Uses Of Effort And Edge]]
+> >####  [[Stat-Examples|Stat Examples]] 
+> ### [[Character-Tiers|Character Tiers]]  
+>### [[Character-Descriptor-Type-And-Focus|Character Descriptor, Type, And Focus]] 
+>### [[Special-Abilities|Special Abilities]]  
+>### [[Skills|Skills]]
+>### [[Type|Type]]
+>### [[Player-Intrusion|Player Intrusions]]
+>### [[Defense-Tasks|Defense Tasks]]
+>### [[Warrior|Warrior]]
+>### [[Adept|Adept]]  
+>### [[Explorer|Explorer]]	
+>### [[Speaker|Speaker]]
+>### [[Creating-New-Foci|Creating New Foci]]
+>>#### [[Abilities|Abilities]]
+>>>#####  [[Animal-Form-Minor-Abilities-Table|Animal Form Minor Abilities Table]]
+>### [[Equipment|Equipment]]
+>>#### [[Currency-And-Prices|Currency And Prices]]
+>>#### [[Armor|Armor]]
+>>>##### [[Fantasy-Armor|Fantasy Armor Descriptions]]
+>>####  [[Weapons|Weapons]]
+>>>##### [[Fantasy-Weapons|Fantasy Weapons Descriptions]]
+>>>#####  [[Fantasy-Adventuring-Equipment|Fantasy Adventuring Equipment]]
+## 3. [[Rules-of-the-Game|Rules of the Game]]
+>### [[Crafting-Difficulty-Table|Crafting-Difficulty Table]]
+>###  [[Riding-or-Piloting-Task-Difficulty]]
+>### [[Vehicular-Movement-and-Combat|Vehicular Movement and Combat]]
+>### [[Magical-Rules-Module|Magical Rules Module]]
+>>#### [[Optional-Rule-Ritual-Magic|Ritual-Magic]]
+>### [[Fantasy-Rules-Module|Fantasy Rules Module]]
+
+3. [[Focus|Focus  in Cypher System]]
+4. [[Abilities|Abilities  in Cypher System]]
+5. [[Compendiums/CSRD/en/Rules/Equipment|Equipment  in Cypher System]]
+13.
+14. [[Experience-Points|Experience Points]]
+15. [[Genre|Genres]]
+16. #Compendium/CSRD/en/Creatures-NPCs 
+17. #Compendium/CSRD/en/Cyphers 
+18. [[Rules/Cypher/Running-the-Cypher-system|Running the Cypher System]]
