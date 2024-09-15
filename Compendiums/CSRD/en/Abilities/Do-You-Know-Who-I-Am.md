@@ -2,7 +2,7 @@
 aliases:
 - "Do You Know Who I Am?"
 tags:
-- Compendium/CSRD/en/Abilities
+- Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
 - Ability
 - Ability/Action
 - Ability/Cost/3
