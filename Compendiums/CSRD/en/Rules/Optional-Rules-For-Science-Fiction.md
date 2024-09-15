@@ -57,7 +57,7 @@ tags:
 >[[Void-Rules|Void Rules]]  
 
 >[!example] Optional Rules: Extended Vehicular Combat (Spacecraft Combat)
->[[Extended-Vehicular-Combat|Extended Vehicular Combat]]
+>[[Optional-Rules-Extended-Vehicular-Combat|Extended Vehicular Combat]]
 
 >[!example] Optional Rule: Psionics
 >[[Optional-Rule-Psionics|Optional Rule: Psionics]]  

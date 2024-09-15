@@ -1,12 +1,12 @@
 ---
 aliases:
-- Space Suits Gm Intrusions
+- "Acceleration and High-g Maneuver Gm Intrusions"
 tags:
 - Compendiums/CSRD/en/Tables
 - Table/Intrusion/Space-Suits-Gm-Intrusions
 ---
 
-## Space Suits Gm Intrusions Table
+## Acceleration and High-g Maneuver Gm Intrusions
 |  Roll &nbsp; &nbsp; | Space Suits Gm Intrusions  |
 | ------------- | :----------- |
 | 1 | An ill-fitted suit (or one whose auto-fit function is malfunctioning) unexpectedly hinders the character's action |

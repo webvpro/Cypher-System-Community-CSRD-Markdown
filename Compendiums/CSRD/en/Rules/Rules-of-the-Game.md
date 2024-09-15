@@ -370,32 +370,32 @@ When in doubt, if it seems like it should be harder to attack in a situation, hi
 >Precise ranges are not important in the Cypher System. The broadly defined “immediate,” “short,” “long,” and “very long” ranges let the GM quickly make a judgment call and keep things moving. Basically, the idea is: your target is right there, your target is close, your target is pretty far away, or your target is extremely far away.
 
 ##### Cover 
-If a character is behind cover so that a significant portion of their body is behind something sturdy, attacks against the character are hindered.
-
-If a character is entirely behind cover (their entire body is behind something sturdy), they can’t be attacked unless the attack can go through the cover. For example, if a character hides behind a thin wooden screen and their opponent shoots the screen with a rifle that can penetrate the wood, the character can be attacked. However, because the attacker can’t see the character clearly, this still counts as cover (attacks against the character are hindered).
+>If a character is behind cover so that a significant portion of their body is behind something sturdy, attacks against the character are hindered.
+>
+>If a character is entirely behind cover (their entire body is behind something sturdy), they can’t be attacked unless the attack can go through the cover. For example, if a character hides behind a thin wooden screen and their opponent shoots the screen with a rifle that can penetrate the wood, the character can be attacked. However, because the attacker can’t see the character clearly, this still counts as cover (attacks against the character are hindered).
 
 ##### Position
-Sometimes where a character stands gives them an advantage or a disadvantage.
+>Sometimes where a character stands gives them an advantage or a disadvantage.
 Prone Target: In melee, a prone target is easier to hit (attacks against them are eased). In ranged combat, a prone target is harder to hit (attacks against them are hindered).
 Higher Ground: In either ranged or melee combat, attacks by an opponent on higher ground are eased.
 
 ##### Surprise
-When a target isn’t aware of an incoming attack, the attacker has an advantage. A ranged sniper in a hidden position, an invisible assailant, or the first salvo in a successful ambush are all eased by two steps. For the attacker to gain this advantage, however, the defender truly must have no idea that the attack is coming.
-
-If the defender isn’t sure of the attacker’s location but is still on guard, the attacks are eased by only one step.
+>When a target isn’t aware of an incoming attack, the attacker has an advantage. A ranged sniper in a hidden position, an invisible assailant, or the first salvo in a successful ambush are all eased by two steps. For the attacker to gain this advantage, however, the defender truly must have no idea that the attack is coming.
+>
+>If the defender isn’t sure of the attacker’s location but is still on guard, the attacks are eased by only one step.
 
 
 ##### Range
-In melee, you can attack a foe who is adjacent to you (next to you) or within reach (immediate range). If you enter into melee with one or more foes, usually you can attack most or all of the combatants, meaning they are next to you, within reach, or within reach if you move slightly or have a long weapon that extends your reach.
-
-The majority of ranged attacks have only two ranges: short range and long range (a few have very long range). Short range is generally less than 50 feet (15 m) or so. Long range is generally from 50 feet (15 m) to about 100 feet (30 m). Very long range is generally 100 feet (30 m) to 500 feet (150 m). Greater precision than that isn’t important in the Cypher System. If anything is longer than very long range, the exact range is usually spelled out, such as with an item that can fire a beam 1,000 feet (300 m) or teleport you up to 1 mile (1.5 km) away. 
-
-Thus, the game has four measurements of distance: immediate, short, long, and very long. These apply to movement as well. A few special cases point-blank range and extreme range modify an attack’s chance to successfully hit.
-
->**Point-Blank Range:** If a character uses a ranged weapon against a target within immediate range, the attack is eased.
-
->**Extreme Range:** Targets just at the limit of a weapon’s range are at extreme range. Attacks against such targets are hindered.
-
+>In melee, you can attack a foe who is adjacent to you (next to you) or within reach (immediate range). If you enter into melee with one or more foes, usually you can attack most or all of the combatants, meaning they are next to you, within reach, or within reach if you move slightly or have a long weapon that extends your reach.
+>
+>The majority of ranged attacks have only two ranges: short range and long range (a few have very long range). Short range is generally less than 50 feet (15 m) or so. Long range is generally from 50 feet (15 m) to about 100 feet (30 m). Very long range is generally 100 feet (30 m) to 500 feet (150 m). Greater precision than that isn’t important in the Cypher System. If anything is longer than very long range, the exact range is usually spelled out, such as with an item that can fire a beam 1,000 feet (300 m) or teleport you up to 1 mile (1.5 km) away.
+>
+>Thus, the game has four measurements of distance: immediate, short, long, and very long. These apply to movement as well. A few special cases point-blank range and extreme range modify an attack’s chance to successfully hit.
+>
+>>**Point-Blank Range:** If a character uses a ranged weapon against a target within immediate range, the attack is eased.
+>
+>>**Extreme Range:** Targets just at the limit of a weapon’s range are at extreme range. Attacks against such targets are hindered.
+>
 >[!example]  
 >The GM might allow a character with a ranged weapon to attack beyond extreme range, but the attack would be hindered by two steps for each range category beyond the normal limit. Attacks with hard limits, such as the blast radius of a bomb, can’t be modified.
 >
@@ -408,11 +408,11 @@ What characters can see (and how well they can see) plays a huge factor in comba
 ###### Very dim light 
 >Very dim light is approximately the amount of light on a starry night with no visible moon, or the glow provided by a candle or an illuminated control panel. Very dim light allows you to see clearly only within immediate range and perceive vague shapes to short range. Targets in very dim light are harder to hit. Attacks against targets within immediate range are hindered, and attacks against those in short range are hindered by two steps. Attackers trained in low-light spotting modify these difficulties by one step in their favor. Attackers specialized in low-light spotting modify these difficulties by two steps in their favor.
 ##### Darkness  
-Darkness is an area with no illumination at all, such as a moonless night with cloud cover or a room with no lights. Targets in complete darkness are nearly impossible to hit. If an attacker can use other senses (such as hearing) to get an idea of where the opponent might be, attacks against such targets are hindered by four steps. Otherwise, attacks in complete darkness fail without the need for a roll unless the player spends 1 XP to “make a lucky shot” or the GM uses GM intrusion. Attackers trained in low-light spotting ease the task. Attackers specialized in low-light spotting ease the task by two steps.
+>Darkness is an area with no illumination at all, such as a moonless night with cloud cover or a room with no lights. Targets in complete darkness are nearly impossible to hit. If an attacker can use other senses (such as hearing) to get an idea of where the opponent might be, attacks against such targets are hindered by four steps. Otherwise, attacks in complete darkness fail without the need for a roll unless the player spends 1 XP to “make a lucky shot” or the GM uses GM intrusion. Attackers trained in low-light spotting ease the task. Attackers specialized in low-light spotting ease the task by two steps.
 ##### Visibility
 Similar to illumination, factors that obscure vision affect combat.
-Mist: A target in mist is similar to one in dim light. Ranged attacks against such targets are hindered. Particularly dense mist makes ranged attacks nearly impossible (treat as darkness), and even melee attacks are hindered.
-
+###### Mist
+>A target in mist is similar to one in dim light. Ranged attacks against such targets are hindered. Particularly dense mist makes ranged attacks nearly impossible (treat as darkness), and even melee attacks are hindered.
 ###### Hiding Target 
 >A target in dense foliage, behind a screen, or crawling amid the rubble in a ruin is hard to hit because they’re hard to see. Ranged attacks against such targets are hindered.
 ###### Invisible Target 
@@ -560,7 +560,7 @@ There are many ways multiple characters can work together. None of these options
 #### Take the Attack 
 >A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.
 
-### Crafting, Building, and Repairing
+## Crafting, Building, and Repairing
 Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it. 
 
 Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.
@@ -574,7 +574,7 @@ The GM and players can gloss over much of the crafting details, if desired. Gath
 The time required to create an item is up to the GM, but the guidelines in the crafting table are a good starting point. Generally, repairing an item takes somewhere between half the creation time and the full creation time, depending on the item, the aspect that needs repairing, and the circumstances. For example, if creating an item takes one hour, repairing it takes thirty minutes to one hour.
 
 Sometimes a GM will allow a rush job if the circumstances warrant it. This is different than using skill to reduce the time required. In this case, the quality of the item is affected. Let’s say that a character needs to create a tool that will cut through solid steel with a laser (a level 7 item), but they have to do it in one day. The GM might allow it, but the device might be extremely volatile, inflicting damage on the user, or it might work only once. The device is still considered a level 7 item to create in all other respects. Sometimes the GM will rule that reducing the time is not possible. For example, a single human can’t make a chainmail vest in one hour without some kind of machine to help.
-#### Possible crafting skills include
+### Possible crafting skills include
 >- Armoring  
 >- Bowyering/fletching  
 >- Chemistry  
@@ -600,15 +600,15 @@ That said, tinkering with weird stuff is not easy. Obviously, the difficulty var
 >Obviously, what is considered “weird stuff ” will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn’t mean he could reverse-engineer a teleporter made in another dimension.
 
 #### [[Crafting-Difficulty-Table|Crafting-Difficulty Table]]
-### Guarding
+## Guarding
 In a combat situation, a character can stand guard as their action. They do not make attacks, but all their defense tasks are eased. Further, if an NPC tries to get by them or take an action that they are guarding against, the character can attempt an eased Speed action based on the level of the NPC. Success means the NPC is prevented from taking the action; the NPC’s action that turn is wasted. This is useful for blocking a doorway, guarding a friend, and so forth.
 If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.
 
-### Healing
+## Healing
 You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9. 
-### Interacting With Creatures
+## Interacting With Creatures
 The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.
-### Jumping
+## Jumping
 Decide how far you want to jump, and that sets the difficulty of your Might roll. For a standing jump, subtract 4 from the distance in feet to determine the difficulty of the jump. For example, jumping 10 feet (3 m) has a difficulty of 6.
 >If you run an immediate distance before jumping, it counts as an asset, easing the jump.
 
@@ -618,25 +618,25 @@ Decide how far you want to jump, and that sets the difficulty of your Might roll
 
 >[!note]
 >There’s nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines)
-### Looking or Listing
+## Looking or Listing
 Generally, the GM will describe any sight or sound that’s not purposefully difficult to detect. But if you want to look for a hidden enemy, search for a secret panel, or listen for someone sneaking up on you, make an Intellect roll. If it’s a creature, its level determines the difficulty of your roll. If it’s something else, the GM determines the difficulty of your roll.
-### Moving a Heavy Object
+## Moving a Heavy Object
 You can push or pull something very heavy and move it an immediate distance as your action.
 
 The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.
-### Operating or Disabling a Device, or Picking a Lock 
+## Operating or Disabling a Device, or Picking a Lock 
 As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.
 Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who is attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)
-### Riding or Piloting
+## Riding or Piloting
 If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.
-##### [[Riding-or-Piloting-Task-Difficulty]]
+#### [[Riding-or-Piloting-Task-Difficulty]]
 
-### Sneaking
+## Sneaking
 The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.
-### Swimming
+## Swimming
 If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.
-### Understanding, Identifying, or Remembering 
+## Understanding, Identifying, or Remembering 
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
-##### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
-### [[Vehicular-Movement-and-Combat|Vehicular Movement and Combat]]
+#### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
+###  [[Vehicular-Movement-and-Combat|Vehicular Movement and Combat]]
 

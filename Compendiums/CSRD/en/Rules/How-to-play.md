@@ -42,11 +42,9 @@ However, if you attempt something that has a difficulty of 0, no roll is needed�
 Using skill, assets, and Effort, you can ease the difficulty of potentially any task to 0 and thus negate the need for a roll. Walking across a narrow wooden beam is tricky for most people, but for an experienced gymnast, it’s routine. You can even ease the difficulty of an attack on a foe to 0 and succeed without rolling.  
 
 If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls). 
-### Task Difficulty Table 
-[[Task-Difficulty|Task Difficulty Table]]
-
-## [[Combat]]
-## [[Special-Rolls|Special Rolls]]
+### [[Task-Difficulty|Task Difficulty Table]]
+### [[Combat]]
+### [[Special-Rolls|Special Rolls]]
 ## [[Glossary]]
 ## [[Range-and-Speed|Range and Speed]]
 ## [[Experience-Points|Experience Points]]
