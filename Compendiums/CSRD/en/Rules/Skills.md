@@ -2,7 +2,7 @@
 aliases:
 - "Skills"
 tags:
-- Compendium/CSRD/en/Rules
+- Compendium/CSRD/en/Rules/Skills
 - Character/Skills
 ---
 ## Skills
@@ -10,8 +10,44 @@ tags:
 
 Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.
 
->[!note] Example List
->The Cypher System has no definitive list of skills. However, the following list offers ideas, [[Example-Skills]]
+### Example List
+>The Cypher System has no definitive list of skills. However, the following list offers ideas, 
+>- Astronomy
+>- Balancing
+>- Biology
+>- Botany
+>- Carrying
+>- Climbing
+>- Computers
+>- Deceiving
+>- Disguise
+>- Escaping
+>- Geography
+>- Geology
+>- Healing
+>- History
+>- Identifying
+>- Initiative
+>- Intimidation
+>- Jumping
+>- Leatherworking
+>- Lockpicking
+>- Machinery
+>- Metalworking
+>- Perception
+>- Persuasion
+>- Philosophy
+>- Physics
+>- Pickpocketing
+>- Piloting
+>- Repairing
+>- Riding
+>- Smashing
+>- Sneaking
+>- Stealth
+>- Swimming
+>- Vehicle driving
+>- Woodworking
 
 You could choose a skill that incorporates more than one of these areas (interacting might include deceiving, intimidation, and persuasion) or that is a more specific version of one (hiding might be sneaking when you’re not moving). You could also make up more general professional skills, such as baker, sailor, or lumberjack. If you want to choose a skill that’s not on this list, it’s probably best to run it past the GM first, but in general, the most important thing is to choose skills that are appropriate to your character.
 
@@ -21,4 +57,5 @@ Only skills gained through character type abilities or other rare instances allo
 
 If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it’s time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can’t select “all mind powers” or “all spells” as one skill and become trained or specialized in such a broad category.
 
-In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
+>[!tip] In most campaigns  
+>fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.

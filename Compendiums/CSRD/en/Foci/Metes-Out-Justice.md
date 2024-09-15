@@ -1,8 +1,9 @@
 ---
 aliases:
-- Metes Out Justice
+- "Metes Out Justice"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
 
   

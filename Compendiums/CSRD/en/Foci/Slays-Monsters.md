@@ -1,8 +1,9 @@
 ---
 aliases:
-- Slays Monsters
+- "Slays Monsters"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

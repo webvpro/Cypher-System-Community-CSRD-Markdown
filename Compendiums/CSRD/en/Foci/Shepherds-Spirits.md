@@ -1,8 +1,9 @@
 ---
 aliases:
-- Shepherds Spirits
+- "Shepherds Spirits"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
 
   

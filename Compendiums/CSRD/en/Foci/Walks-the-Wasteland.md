@@ -1,8 +1,9 @@
 ---
 aliases:
-- Walks the Wasteland
+- "Walks the Wasteland"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

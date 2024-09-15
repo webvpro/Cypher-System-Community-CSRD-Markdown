@@ -28,3 +28,6 @@ At the end of a session, review the actions you took and describe how they might
 >When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.
 
 This chapter presents many sample character arcs (see below).
+
+### Sample Character Arcs
+![[Sample-Character-Arcs|Sample Character Arcs]]

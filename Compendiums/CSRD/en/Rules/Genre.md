@@ -1,6 +1,7 @@
 ---
-aliases: [Genres]
-tags: [Cypher/Rules/Genres]
+aliases: "Genres"
+tags: 
+-Compendium/CSRD/en/Rules/Genre
 ---
 
 # Genres
@@ -50,3 +51,4 @@ Villager: level 2
 ### Additional Fantasy Equipment
 
 In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.
+ 

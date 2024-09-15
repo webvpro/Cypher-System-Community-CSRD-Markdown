@@ -43,4 +43,4 @@ But that could change the moment something goes wrong maybe a fault is recognize
 >[[Moving-in-Microgravity-Gm-Intrusions|Moving in Microgravity Gm Intrusions]]
 
 >[!example] Optional Rules: Extended Vehicular Combat (Spacecraft Combat) 
->[[Extended-Vehicular-Combat|Optional Rules: Extended Vehicular Combat]]
+>[[Optional-Rules-Extended-Vehicular-Combat|Optional Rules: Extended Vehicular Combat]]

@@ -3,8 +3,9 @@ aliases:
 - "Currency And Prices"
 - Money
 tags:
-- Compendium/CSRD/en/Rules
-- Currency
+- Compendium/CSRD/en/Rules/Currency-and-Prices
+- Rule/Currency  
+- Rule/Price
 ---
 ## Currency And Prices
 Dollars, pounds, euros, credits, gold pieces, Martian solval beads, Corso moons and stars, bottle caps—a lot of different currencies might be used in your game, depending on the setting and the genre. You should use whatever you like. In the Cypher System rules, we talk in generalities rather than specifics. Not unlike saying immediate or short distance rather than giving precise numbers, we talk about goods and services in terms of inexpensive, moderately priced, expensive, very expensive, or exorbitant.
@@ -31,6 +32,7 @@ Think of the categories as powers of 10. That is to say, a moderately priced ite
 
 ### Using The Price Categories  
 Regardless of how precise you want to be with prices and currency, you can use the price categories in a variety of ways.
+
 It’s easy for a GM to say to a player “You can afford two extra moderately priced things at the start of the game.” The player can look on the list and pick two moderately priced items without worrying about their cost. Plus, this approach makes it clear that they get two items, not twenty inexpensive items or one more expensive item that perhaps would not be appropriate for a starting character. The categories make it easy to lump similar items together.  
 
 The GM can also say “You can have whatever inexpensive items you want, and don’t worry about the cost.” At higher tiers, when the PCs have more wealth, followers, and so on, the GM can do this with moderate or even expensive items. This allows the group to skip over playing through a shopping trip to get supplies, and players don’t have to track prices down to the last coin.  
@@ -38,6 +40,6 @@ The GM can also say “You can have whatever inexpensive items you want, and don
 Finally, the categories can be shorthand when evaluating loot, dividing up the spoils among the PCs, and resolving other story-based occurrences that crop up in the game without dealing in the minutiae of exact prices. This is of particular use in high-powered games where the PCs are rich and powerful.
 Level of Equipment  
 
-Mundane equipment is about level 4—less if of inferior quality or materials, more if of superior quality or materials. This means that in a setting based on the distant past, the default level might be 3, while in the future it might be 5 or 6. So an average serf ’s tool in the Dark Ages is level 3, easily broken, while an average tool on a space station is level 6, made of advanced polymers.
+Mundane equipment is about level 4 less if of inferior quality or materials, more if of superior quality or materials. This means that in a setting based on the distant past, the default level might be 3, while in the future it might be 5 or 6. So an average serf ’s tool in the Dark Ages is level 3, easily broken, while an average tool on a space station is level 6, made of advanced polymers.
 
 

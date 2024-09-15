@@ -13,7 +13,7 @@ tags:
 | 4-5 | [[Antivenom\|Antivenom]] |
 | 6-9 | [[Armor-Reinforcer\|Armor Reinforcer]] |
 | 10-11 | [[Attractor\|Attractor]] |
-| 12-13 | [[Blackout\|Blackout]] |
+| 12-13 | [[Compendiums/CSRD/en/Cyphers/Blackout\|Blackout]] |
 | 14-15 | [[Catholicon\|Catholicon]] |
 | 16-17 | [[Curse-Bringer\|Curse Bringer]] |
 | 18-19 | [[Death-Bringer\|Death Bringer]] |

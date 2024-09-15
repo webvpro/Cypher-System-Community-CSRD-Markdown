@@ -1,8 +1,9 @@
 ---
 aliases:
-- Throws with Deadly Accuracy
+- "Throws with Deadly Accuracy"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat 
 ---
 
   

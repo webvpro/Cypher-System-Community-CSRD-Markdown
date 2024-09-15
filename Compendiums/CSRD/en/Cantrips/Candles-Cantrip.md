@@ -2,7 +2,7 @@
 aliases:
 - "Candles Cantrip"
 tags:
-- Compendium/CSRD/en/Cantrips
+- Compendium/CSRD/en/Cantrips/Candles-Cantrip
 - Cantrip/Pool/Intellect
 - Cantrip/Cost/1
 ---

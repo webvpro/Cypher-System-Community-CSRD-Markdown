@@ -1,8 +1,9 @@
 ---
 aliases:
-- Talks to Machines
+- "Talks to Machines"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

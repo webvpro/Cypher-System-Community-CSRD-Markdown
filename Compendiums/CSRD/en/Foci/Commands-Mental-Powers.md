@@ -1,8 +1,9 @@
 ---
 aliases:
-- Commands Mental Powers
+- "Commands Mental Powers"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

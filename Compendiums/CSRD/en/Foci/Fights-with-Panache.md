@@ -1,8 +1,9 @@
 ---
 aliases:
-- Fights with Panache
+- "Fights with Panache"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   
@@ -23,7 +24,7 @@ You're a swashbuckling daredevil who fights with flamboyant style that's enterta
 
 >[!tip]- Tier 3 Abilities  
 > **Choose One**  
->- [[Acrobatic-Attack|Acrobatic Attack]]  
+>- [[Witch-Bane|Acrobatic Attack]]  
 >- [[Flamboyant-Boast|Flamboyant Boast]]  
 
 

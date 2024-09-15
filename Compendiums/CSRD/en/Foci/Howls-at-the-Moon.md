@@ -1,8 +1,9 @@
 ---
 aliases:
-- Howls at the Moon
+- "Howls at the Moon"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

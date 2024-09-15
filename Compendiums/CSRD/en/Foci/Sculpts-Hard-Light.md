@@ -1,8 +1,9 @@
 ---
 aliases:
-- Sculpts Hard Light
+- "Sculpts Hard Light"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

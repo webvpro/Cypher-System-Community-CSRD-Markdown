@@ -1,8 +1,9 @@
 ---
 aliases:
-- Employs Magnetism
+- "Employs Magnetism"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Masters Defense
+- "Masters Defense"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

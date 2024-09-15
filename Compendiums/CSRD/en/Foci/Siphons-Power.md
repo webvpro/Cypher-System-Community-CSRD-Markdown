@@ -1,8 +1,9 @@
 ---
 aliases:
-- Siphons Power
+- "Siphons Power"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Consorts with the Dead
+- "Consorts with the Dead"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
 
   

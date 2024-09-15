@@ -1,8 +1,9 @@
 ---
 aliases:
-- Wields an Enchanted Weapon
+- "Wields an Enchanted Weapon"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

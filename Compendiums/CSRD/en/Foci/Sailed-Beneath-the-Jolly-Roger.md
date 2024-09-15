@@ -1,8 +1,9 @@
 ---
 aliases:
-- Sailed Beneath the Jolly Roger
+- "Sailed Beneath the Jolly Roger"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

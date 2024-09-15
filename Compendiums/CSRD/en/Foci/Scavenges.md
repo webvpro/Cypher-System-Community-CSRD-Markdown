@@ -1,8 +1,9 @@
 ---
 aliases:
-- Scavenges
+- "Scavenges"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

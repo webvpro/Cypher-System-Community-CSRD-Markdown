@@ -1,8 +1,9 @@
 ---
 aliases:
-- Exists Partially Out of Phase
+- "Exists Partially Out of Phase"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise 
 ---
 
   
@@ -29,7 +30,7 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 
 
 >[!tip]- Tier 4 Abilities  
-> [[Ghost|Ghost]]  
+> [[Compendiums/CSRD/en/Abilities/Ghost|Ghost]]  
 
 
 >[!tip]- Tier 5 Abilities  

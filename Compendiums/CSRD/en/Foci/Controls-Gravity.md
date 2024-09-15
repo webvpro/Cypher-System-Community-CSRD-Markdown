@@ -1,8 +1,9 @@
 ---
 aliases:
-- Controls Gravity
+- "Controls Gravity"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

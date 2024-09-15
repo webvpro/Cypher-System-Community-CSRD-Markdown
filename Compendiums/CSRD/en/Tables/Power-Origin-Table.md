@@ -1,13 +1,13 @@
 ---
 aliases:
-- Power Origin Table
+- "Power Origin Table"
 tags:
 - Compendiums/CSRD/en/Tables
 - Table
 ---
 
 ## Power Origin Table
-|  Roll &nbsp; &nbsp; | Power Origin Table  |
+|  d100 &nbsp; &nbsp; | Power Origin Table  |
 | ------------- | :----------- |
 | 1 | Absorbed powers of someone else |
 | 2-3 | Alien exile |

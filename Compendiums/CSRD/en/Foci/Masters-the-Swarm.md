@@ -1,8 +1,9 @@
 ---
 aliases:
-- Masters the Swarm
+- "Masters the Swarm"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
 
   

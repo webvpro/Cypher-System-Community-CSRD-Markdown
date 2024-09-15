@@ -1,3 +1,10 @@
+---
+aliases:
+  -  "Effort"
+tags: 
+- Compendium/CSRD/en/Stats/Effort
+---
+## Effort
 When your character really needs to accomplish a task, you can apply Effort. For a beginning character, applying [[Effort]] requires spending 3 points from the stat [[Pool]] appropriate to the action. Thus, if your character tries to dodge an attack (a Speed roll) and wants to increase the chance for success, you can apply Effort by spending 3 points from your [[Speed|Speed Pool ]] . [[Effort]] eases the task by one step. This is called applying one level of Effort.
 You don’t have to apply Effort if you don’t want to. If you choose to apply Effort to a task, you must do it before you attempt the roll—you can’t roll first and then decide to apply Effort if you rolled poorly.
 

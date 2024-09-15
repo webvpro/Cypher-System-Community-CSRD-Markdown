@@ -1,8 +1,9 @@
 ---
 aliases:
-- Is Wanted by the Law
+- "Is Wanted by the Law"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

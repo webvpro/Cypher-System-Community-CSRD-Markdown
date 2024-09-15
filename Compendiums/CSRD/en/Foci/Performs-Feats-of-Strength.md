@@ -1,8 +1,9 @@
 ---
 aliases:
-- Performs Feats of Strength
+- "Performs Feats of Strength"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
 
   

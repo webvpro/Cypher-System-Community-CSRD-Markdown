@@ -1,8 +1,9 @@
 ---
 aliases:
-- Runs Away
+- "Runs Away"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
 
   

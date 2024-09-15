@@ -1,8 +1,9 @@
 ---
 aliases:
-- Explores Dark Places
+- "Explores Dark Places"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
 
   

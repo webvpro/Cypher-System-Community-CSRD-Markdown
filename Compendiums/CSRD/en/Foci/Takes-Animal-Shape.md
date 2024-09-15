@@ -1,8 +1,9 @@
 ---
 aliases:
-- Takes Animal Shape
+- "Takes Animal Shape"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Works Miracles
+- "Works Miracles"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

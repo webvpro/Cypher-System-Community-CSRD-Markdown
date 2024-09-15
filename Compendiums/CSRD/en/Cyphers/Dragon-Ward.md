@@ -1,8 +1,8 @@
 ---
 aliases:
-- Dragon Ward
+- "Dragon Ward"
 tags:
-- Compendium/CSRD/en/Cyphers
+- Compendium/CSRD/en/CyphersDragon-Ward
 - Cypher
 - Cypher/Fantasy
 ---

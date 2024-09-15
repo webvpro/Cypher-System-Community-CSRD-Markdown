@@ -1,8 +1,9 @@
 ---
 aliases:
-- Raids
+- "Raids"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

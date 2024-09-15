@@ -1,8 +1,9 @@
 ---
 aliases:
-- Lives in the Wilderness
+- "Lives in the Wilderness"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
 
   

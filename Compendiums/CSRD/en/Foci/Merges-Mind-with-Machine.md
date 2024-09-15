@@ -1,8 +1,9 @@
 ---
 aliases:
-- Merges Mind with Machine
+- "Merges Mind with Machine"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

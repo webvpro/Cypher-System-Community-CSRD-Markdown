@@ -1,8 +1,9 @@
 ---
 aliases:
-- Prepped for the End
+- "Prepped for the End"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

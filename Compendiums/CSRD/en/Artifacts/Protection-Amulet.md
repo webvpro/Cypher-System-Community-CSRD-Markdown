@@ -4,7 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
-- Artifacts/Fantasy
+- Artifact/Fantasy
 ---
 
   
@@ -12,12 +12,12 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6  
 > **Form:** Stylized Amulet Worn on a Chain  
-> **Depletion:** Stylized Amulet Worn on a Chain  
+> **Depletion:** 1 in 1D6 (Check Each Time the Amulet Reduces Damage)  
 > **Kind:** Fantasy
   
 The amulet reduces one type of damage by an amount equal to the artifact level. Roll a d20 to determine the kind of damage the amulet protects against.  
 
-|  Roll &nbsp; &nbsp; &nbsp; |   |  
+|  Roll d20 &nbsp; &nbsp; |   |  
 | ------------- | :----------- |  
 | 1-4 | Acid |  
 | 5-8 | Cold |  

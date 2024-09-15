@@ -1,8 +1,9 @@
 ---
 aliases:
-- Defends the Weak
+- "Defends the Weak"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
 
   

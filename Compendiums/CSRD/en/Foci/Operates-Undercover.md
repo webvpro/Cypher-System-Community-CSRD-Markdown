@@ -1,8 +1,9 @@
 ---
 aliases:
-- Operates Undercover
+- "Operates Undercover"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
 
   

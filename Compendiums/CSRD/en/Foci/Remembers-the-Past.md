@@ -1,8 +1,9 @@
 ---
 aliases:
-- Remembers the Past
+- "Remembers the Past"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

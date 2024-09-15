@@ -1,8 +1,9 @@
 ---
 aliases:
-- Fuses Mind and Machine
+- "Fuses Mind and Machine"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
 
   

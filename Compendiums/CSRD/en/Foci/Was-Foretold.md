@@ -1,8 +1,9 @@
 ---
 aliases:
-- Was Foretold
+- "Was Foretold"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

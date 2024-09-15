@@ -1,6 +1,10 @@
 ---
 aliases: [Focus, Focus in Cypher]
-tags: Cypher/Rules/Character-Creation/Focus
+tags: 
+- Compendium/CSRD/en/Rules/Focus
+- Rule/Foci/Choosing
+- Rule/Foci/Connections
+- Rule/Foci/Connections
 ---
 
 # Focus
@@ -47,7 +51,7 @@ However, if you wish (and only if you wish; there is no requirement to do so), y
 >
 > Regardless, you learn information that others attempt to keep secret. You collect rumors and whispers, stories and hard-won evidence, and you use that knowledge to aid your own endeavors and, if appropriate, provide your employers with the information they desire. Alternatively, you might sell what you have learned to those willing to pay a premium.
 >
-> You probably wear dark colors—black, charcoal grey, or midnight blue—to help blend into the shadows, unless the cover you’ve chosen requires you to look like someone else.
+> You probably wear dark colors black, charcoal grey, or midnight blue—to help blend into the shadows, unless the cover you’ve chosen requires you to look like someone else.
 
 > [!abstract]- Conducts Weird Science
 > You could be a respected scientist, having been published in several peer-reviewed journals. Or you might be considered a crank by your contemporaries, pursuing fringe theories on what others consider to be scant evidence. Truth is, you have a particular gift for sifting the edges of what’s possible. You can find new insights and unlock odd phenomena with your experiments. Where others see a crackpot cornucopia, you sift the conspiracy theories for revelation. Whether you conduct your enquiries as a government contractor, a university researcher, a corporate scientist, or an indulger of curiosity in your own garage lab following your muse, you push the boundaries of what’s possible.
@@ -56,4 +60,4 @@ However, if you wish (and only if you wish; there is no requirement to do so), y
 
 If you want to go even further, you could determine where a character’s focus abilities come from. Depending on the genre, they could derive those abilities from advanced and persistent training, via magical runes, through cybernetic parts, from their genetic heritage, or because of their access to advanced technology. For instance, a character might be able to blast targets with lightning because they got zapped by strange radiation or because they picked up a lightning gun. On the other hand, it might be because their intense training allowed them to learn lightning magic. The possibilities are nearly endless, and up to you to include or forgo. Because however a focus’s abilities were gained, it’s also enough that they just work.
 
-
+#Foci 

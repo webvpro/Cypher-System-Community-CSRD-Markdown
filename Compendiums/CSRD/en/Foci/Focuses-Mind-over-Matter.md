@@ -1,8 +1,9 @@
 ---
 aliases:
-- Focuses Mind over Matter
+- "Focuses Mind over Matter"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation
 ---
 
   

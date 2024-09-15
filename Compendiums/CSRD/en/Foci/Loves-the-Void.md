@@ -1,8 +1,9 @@
 ---
 aliases:
-- Loves the Void
+- "Loves the Void"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

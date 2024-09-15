@@ -1,8 +1,9 @@
 ---
 aliases:
-- Touches the Sky
+- "Touches the Sky"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   

@@ -1,8 +1,9 @@
 ---
 aliases:
-- Stands Like a Bastion
+- "Stands Like a Bastion"
 tags:
-- Foci
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
 
   
