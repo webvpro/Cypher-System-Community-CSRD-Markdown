@@ -1,6 +1,8 @@
 # Cypher System Community CSRD in Markdown
 
-The Cypher System Community CSRD in Markdown and [Obsidian](https://obsidian.md/) Ready.
+The Cypher System Community CSRD in Markdown Project is meant to be [Obsidian](https://obsidian.md/) Ready. 
+
+ ![CSOL Logo Cypher System Compatible Color)](/assets/Compatible-with-the-Cypher-System-logo/CSOL-Logo-Cypher-System-Compatible-Color-Small-RGB.png)
  
  The CSRD can be found here as part of the [Cypher System Open License](https://csol.montecookgames.com/license/)  
 
