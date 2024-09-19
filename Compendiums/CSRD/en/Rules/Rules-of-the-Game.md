@@ -168,9 +168,9 @@ Generally, keep time the same way that you normally would, using minutes, hours,
 
 This is true even when a special ability has a specific duration. In an encounter, a duration of “one minute” is mostly the same as saying “the rest of the encounter.” You don’t have to track each round that ticks by if you don’t want to. Likewise, an ability that lasts for ten minutes can safely be considered the length of an in-depth conversation, the time it takes to quickly explore a small area, or the time it takes to rest after a strenuous activity.
 
->[!example] [[Timekeeping|Timekeeping Table]]
+### [[Timekeeping|Timekeeping Table]]
 
-## Encounters, Rounds, and Initiative 
+### Encounters, Rounds, and Initiative 
 Sometimes in the course of the game, the GM or players will refer to an “encounter.” Encounters are not so much measurements of time as they are events or instances in which something happens, like a scene of a movie or a chapter in a book. An encounter might be a fight with a foe, a dramatic crossing of a raging river, or a stressful negotiation with an important official. It’s useful to use the word when referring to a specific scene, as in “My Might Pool is low after that encounter with the soul sorcerer yesterday.”
 
 A round is about five to ten seconds. The length of time is variable because sometimes one round might be a bit longer than another. You don’t need to measure time more precisely than that. You can estimate that on average there are about ten rounds in a minute. In a round, everyone each character and NPC gets to take one action.
@@ -188,8 +188,9 @@ After everyone all PCs and NPCs in the combat has had a turn, the round ends and
 
 Since the action moves as a cycle, anything that lasts for a round ends where it started in the cycle. If Umberto uses an ability on an opponent that hinders its defenses for one round, the effect lasts until Umberto acts on his next turn.
 
-## A Closer Look at Situations That Don’t Involve PCs
+### A Closer Look at Situations That Don’t Involve PCs
 Ultimately, the GM is the arbiter of conflicts that do not involve the PCs. They should be adjudicated in the most interesting, logical, and story-based way possible. When in doubt, match the level of the NPCs (characters or creatures) or their respective effects to determine the results. Thus, if a level 4 NPC fights a level 3 NPC, the level 4 NPC will win, but if they face a level 7 NPC, they’ll lose. Likewise, a level 4 creature resists poisons or devices of level 3 or lower but not those of level 5 and above.
+
 The essence is this: in the Cypher System, it doesn’t matter if something is a creature, a poison, or a gravity-dispelling ray. If it’s a higher level, it wins; if it’s a lower level, it loses. If two things of equal level oppose each other, there might be a long, drawn-out battle that could go either way.
 ## Actions
 Anything that your character does in a round is an action. It’s easiest to think of an action as a single thing that you can do in five to ten seconds. For example, if you use your dart thrower to shoot a strange floating orb, that’s one action. So is running for cover behind a stack of barrels, prying open a stuck door, using a rope to pull your friend up from a pit, or activating a cypher (even if it’s stored in your pack).
@@ -560,7 +561,7 @@ There are many ways multiple characters can work together. None of these options
 #### Take the Attack 
 >A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.
 
-## Crafting, Building, and Repairing
+### Crafting, Building, and Repairing
 Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it. 
 
 Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.
@@ -574,7 +575,7 @@ The GM and players can gloss over much of the crafting details, if desired. Gath
 The time required to create an item is up to the GM, but the guidelines in the crafting table are a good starting point. Generally, repairing an item takes somewhere between half the creation time and the full creation time, depending on the item, the aspect that needs repairing, and the circumstances. For example, if creating an item takes one hour, repairing it takes thirty minutes to one hour.
 
 Sometimes a GM will allow a rush job if the circumstances warrant it. This is different than using skill to reduce the time required. In this case, the quality of the item is affected. Let’s say that a character needs to create a tool that will cut through solid steel with a laser (a level 7 item), but they have to do it in one day. The GM might allow it, but the device might be extremely volatile, inflicting damage on the user, or it might work only once. The device is still considered a level 7 item to create in all other respects. Sometimes the GM will rule that reducing the time is not possible. For example, a single human can’t make a chainmail vest in one hour without some kind of machine to help.
-### Possible crafting skills include
+#### Possible crafting skills include
 >- Armoring  
 >- Bowyering/fletching  
 >- Chemistry  
@@ -599,16 +600,16 @@ That said, tinkering with weird stuff is not easy. Obviously, the difficulty var
 
 >Obviously, what is considered “weird stuff ” will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn’t mean he could reverse-engineer a teleporter made in another dimension.
 
-#### [[Crafting-Difficulty-Table|Crafting-Difficulty Table]]
-## Guarding
+#### [[Crafting-Difficulty-Table|Crafting Difficulty Table]]
+### Guarding
 In a combat situation, a character can stand guard as their action. They do not make attacks, but all their defense tasks are eased. Further, if an NPC tries to get by them or take an action that they are guarding against, the character can attempt an eased Speed action based on the level of the NPC. Success means the NPC is prevented from taking the action; the NPC’s action that turn is wasted. This is useful for blocking a doorway, guarding a friend, and so forth.
 If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.
 
-## Healing
+### Healing
 You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9. 
-## Interacting With Creatures
+### Interacting With Creatures
 The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.
-## Jumping
+### Jumping
 Decide how far you want to jump, and that sets the difficulty of your Might roll. For a standing jump, subtract 4 from the distance in feet to determine the difficulty of the jump. For example, jumping 10 feet (3 m) has a difficulty of 6.
 >If you run an immediate distance before jumping, it counts as an asset, easing the jump.
 
@@ -618,25 +619,253 @@ Decide how far you want to jump, and that sets the difficulty of your Might roll
 
 >[!note]
 >There’s nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines)
-## Looking or Listing
+### Looking or Listing
 Generally, the GM will describe any sight or sound that’s not purposefully difficult to detect. But if you want to look for a hidden enemy, search for a secret panel, or listen for someone sneaking up on you, make an Intellect roll. If it’s a creature, its level determines the difficulty of your roll. If it’s something else, the GM determines the difficulty of your roll.
-## Moving a Heavy Object
+### Moving a Heavy Object
 You can push or pull something very heavy and move it an immediate distance as your action.
 
 The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.
-## Operating or Disabling a Device, or Picking a Lock 
+### Operating or Disabling a Device, or Picking a Lock 
 As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.
 Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who is attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)
-## Riding or Piloting
+### Riding or Piloting
 If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.
 #### [[Riding-or-Piloting-Task-Difficulty]]
 
-## Sneaking
+### Sneaking
 The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.
-## Swimming
+### Swimming
 If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.
-## Understanding, Identifying, or Remembering 
+### Understanding, Identifying, or Remembering 
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
 #### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
-###  [[Vehicular-Movement-and-Combat|Vehicular Movement and Combat]]
+###  Vehicular Movement
+Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.
 
+In a vehicular chase, drivers attempt Speed actions just like in a regular chase, but the task may be based either on the level of the driver (modified by the level and movement rate of the vehicle) or on the level of the vehicle (modified by the level of the driver). So if a PC driving a typical car is chasing a level 3 NPC driving a level 5 sports car, the PC would make three chase rolls with a difficulty of 5. If the PC’s car is a souped-up custom vehicle, it might grant the PC an asset in the chase. If the PC is not in a car at all, but riding a bicycle, it might hinder the chase rolls by two or three steps, or the GM might simply rule that it’s impossible.
+
+#### Vehicular Combat
+Much of the time, a fight between foes in cars, boats, or other vehicles is just like any other combat situation. The combatants probably have cover and are moving fast. Attacks to disable a vehicle or a portion of it are based on the level of the vehicle. If the vehicle is an armored car or a tank, all attacks are likely aimed at the vehicle, which has a level and probably an appropriate Armor rating, not unlike a creature.
+
+The only time this isn’t true is with battles where only vehicles and not characters are involved. Thus, if the PCs are in a shootout with bank robbers and both groups are in cars, use the standard rules. However, battles between starships of various kinds—from gigantic capital ships to single-pilot fighters—are a frequent occurrence in far-future science fiction settings. A submarine battle between two deep sea craft could be quite exciting. Characters in a modern-day game might find themselves in a tank fight. If PCs are involved in combat in which they are entirely enclosed in vehicles (so that it’s not really the characters fighting, but the vehicles), use the following quick and easy guidelines.
+
+On this scale, combat between vehicles isn’t like traditional combat. Don’t worry about health, Armor, or anything like that. Instead, just compare the levels of the vehicles involved. If the PCs’ vehicle has the higher level, the difference in levels is how many steps the PCs’ attack and defense rolls are eased. If the PCs’ vehicle has the lower level, their rolls are hindered. If the levels are the same, there is no modification.
+
+These attack and defense rolls are modified by skill and Effort, as usual. Some vehicles also have superior weapons, which ease the attack (since there is no “damage” amount to worry about), but this circumstance is probably uncommon in this abstract system and should not affect the difficulty by more than one or maybe two steps. Further, if two vehicles coordinate their attack against one vehicle, the attack is eased. If three or more vehicles coordinate, the attack is eased by two steps.
+
+The attacker must try to target a specific system on or portion of an enemy vehicle. This hinders the attack based on the system or portion targeted.
+
+That’s a lot of modifications. But it’s not really that hard. Let’s look at an example of a space battle. A PC in a small level 2 fighter attacks a level 4 frigate. Since the frigate is level 4, the difficulty of the attack starts at 4. But the attacking craft is weaker than the defender, so the attack is hindered equal to the difference in their levels (2). The fighter pilot must make a difficulty 6 attack on the frigate. However, the fighter is trying to swoop in and damage the frigate’s drive, which hinders the attack by another three steps, for a total difficulty of 9. If the fighter pilot is trained in space combat, they reduce the difficulty to 8, but it’s still impossible without help. So let’s say that two other PCs—also in level 2 fighters—join in and coordinate their attack. Three ships coordinating an attack on one target eases the task by two steps, resulting in a final difficulty of 6. Still, the attacking PC would be wise to use Effort.
+Then the frigate retaliates, and the PC needs to make a defense roll. The level difference between the ships (2) means the PC’s defense is hindered by two steps, so the difficulty of the PC’s defense roll starts out at 6. But the frigate tries to take out the fighter’s weapons, hindering their attack (easing the PC’s defense) by two steps. Thus, the PC needs to succeed at a difficulty 4 task or lose their main weapons systems.
+
+It’s important to remember that a failed attack doesn’t always mean a miss. The target ship might rock and reel from the hit, but the bulk of the damage was absorbed by the shields, so there’s no significant damage.
+
+This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they’re trying to defend.
+(During a vehicular battle, particularly a space battle, there’s a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they’re all flavor, so they’re represented in the rules generally, rather than specifically.)
+
+>[!tip ] 
+>For more details about vehicles, refer to the Genre chapter.
+>
+>Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
+
+| Targeting Task                  | Attack Hindered | Effect                                                   |
+|---------------------------------|-----------------|----------------------------------------------------------|
+| Disable weapons                 | Two steps       | One or more of the vehicle’s weapons no longer function  |
+| Disable defenses                |                 |                                                          |
+| (if applicable)                 | Two steps       | Attacks against the vehicle are eased                    |
+| Disable engine/drive            | Three steps     | Vehicle cannot move, or movement is hampered             |
+| Disable maneuverability         | Two steps       | Vehicle cannot alter its present course                  |
+| Strike power core or vital spot | Five steps      | Vehicle is completely destroyed                          |
+
+## [[Magical-Rules-Module|Magical Rules Module]]
+
+## [[Fantasy-Rules-Module|Fantasy Rules Module]]
+
+## Followers
+Player characters have the option to gain followers as they advance in tier, as provided by type or focus special abilities. Followers do not need to be paid, fed, or housed, though a character who gains followers can certainly make such arrangements if they wish. A follower is someone whom a character has inspired (or asked) to come work with the character for a time, aiding them in a variety of endeavors. A follower puts the PC’s interests ahead of, or at least on par with, their own.
+
+The PC generally makes rolls for their follower when the follower takes actions, though usually a follower’s modifications provide an asset to a specific action taken by the PC they follow.
+
+>[!note] 
+>If a follower dies, the character gains a new one after at least two weeks and proper recruitment
+
+### Modifications
+> A follower can help a PC in one or more tasks, granting the PC an asset to that task. The level of the follower indicates the number of different tasks they can help with. The tasks that the follower is able to help with are predetermined, usually chosen by the PC when they gain the follower. A level 2 follower who the player determines is a spy could grant a PC an asset on two different tasks, such as stealth and deception. Followers cannot help with tasks that they don’t have modifications for; for the purpose of helping, treat the follower as if they had inabilities in all nonmodified tasks.  
+> 
+> When the follower acts autonomously rather than helping the PC, they act like a normal NPC that has modifications. Thus, the modification increases their effective level for the associated task by one step. For example, the level 2 spy follower with modifications for stealth and deception attempts stealth and deception tasks as if they were level 3 and all other tasks as level 2.
+
+   #### Follower Assets to Combat and Defense
+> A follower cannot grant an asset to a character’s attacks or defense until the follower is level 3 or higher. Even then, the follower can help with attacks and defense only if they have a modification for that kind of task.
+> 
+> Some abilities may grant a special exception to this rule. For instance, the Serv-0 Defender ability gives your level 1 Serv-0 follower (a machine companion) a modification for Speed defense.
+
+ #### Follower Level Progression  
+>A follower increases in level by 1 each time a PC advances two tiers after gaining that follower. When the follower gains a level, the PC also chooses the task that the follower gains a modification for.
+
+### Exceptional Follower
+> When a character gains a follower, there’s a small chance that the follower will be exceptional in some way, a cut above other followers of their kind. The GM determines when an exceptional follower is found, possibly as an additional reward for smart or engaging roleplaying where the PCs impress or otherwise positively interact with one or more NPCs, some of whom may later go on to become one of their followers. An exceptional follower has the same qualities as a regular follower but is 1 level higher.
+
+### Pet  
+>Any PC can potentially gain a pet, though a pet typically doesn’t provide modifications. If a character wants a pet that can do this, they must gain the pet through an an ability or focus that grants followers. On the other hand, a well-cared-for pet grants an asset to a PC’s tasks related to achieving peace of mind, finding comfort, and resisting loneliness.
+
+### Breathing Life Into Followers 
+The modifications provided by followers could come across as fairly dry and mechanical. To avoid that, you could present each follower in a way that makes them more compelling and interesting. Here are a few examples of how to describe a follower, depending on their mix of modifications.
+>- A firebrand diplomat able to convince an enemy horde to back down.
+>- A veteran commander whose presence bolsters the entire community’s military might.
+>- A genius medic who invigorates everyone with their healing techniques.
+ >- An imaginative architect whose works both beautify and defend the city.
+ >- A tricky spy whose intelligence on enemy movements is invaluable.
+
+## Character Arcs
+Character arcs are the means by which players can invest themselves more in great stories and character depth and development.
+
+Just like in a book or a television show, characters progress through their own personal story and change over time. A PC with a character arc decides for themselves what they do and why. Character arcs are like stated goals for a character, and by progressing toward that goal, the character advances. The key word there is progressing. A PC doesn’t have to succeed at achieving the goal to earn advancement—it’s not an all-or-nothing prospect. Each arc is keyed to a single character, but just like in a book or show, characters can take part in the larger story arc that the whole group participates in, while also progressing in their own personal arc.
+
+Character arcs have different steps that mark the character’s progress through the arc. Each arc eventually reaches a climax, and then finishes with a step that is a final resolution. Each step reached earns the character 2 XP. Character arcs are the most straightforward way that a character earns XP. 
+>[!note] 
+>Typically, PCs will earn about half their total experience points from arcs or other GM awards.
+
+At character creation, a player can choose one character arc for their PC at no cost. Players have the option to not choose one, but it’s probably a good idea to do so. First and foremost, it is a character-defining factor. If they begin the campaign with a desire to find the woman who killed their brother, that says a lot about the character: they had a brother, he was likely close to them, he had been in at least one dangerous situation, and the character is probably motivated by anger and hate, at least somewhat. Even after the character finishes this first arc, they’ll undoubtedly have (at least one) more because they can gain new arcs as the campaign progresses. 
+
+Once play begins, players can take on a new arc whenever they wish, as fits the character’s ongoing story. Taking a new arc has a cost of 1 XP. While there’s no hard limit on how many arcs a character can have at one time, realistically most PCs couldn’t reasonably have more than three or four.
+
+However, as mentioned above, arcs have a beginning cost that must be paid, reflecting the character’s devotion to the goal. The character will earn this investment back (probably many times over) if the arc is completed. 
+
+Character arcs are always player-driven. A GM cannot force one on a character. That said, the events in the narrative often present story arc opportunities and inspire character arcs for the PCs. It’s certainly in the GM’s purview to suggest possible arcs related to the events going on. For example, if the GM presents an encounter in which an NPC wishes to learn from the PC, it might make sense to suggest taking the Instruction arc. Whether or not the PC takes on the student, the player doesn’t have to adopt the Instruction arc unless they want to.
+
+At the end of a session, review the actions you took and describe how they might equate to the completion of a step (or possibly more than one step) in their character arc. If the GM agrees, the character gets their reward.
+>[!note]  
+>When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.
+
+This chapter presents many sample character arcs (see below).
+
+#### GM Awards
+Sometimes, a group will have an adventure that doesn’t deal primarily with a PC’s character arc. In this case, it’s a good idea for the GM to award XP to that character for accomplishing other tasks. First and foremost, awards should be based on discovery. Discovery can include finding a significant new location, such as a hidden chamber, a secret fortress, a lost land, a new planet, or an unexplored dimension. In this fashion, PCs are explorers. Discovery can also include a new significant aspect of a setting, such as a secret organization, a new religion, and so on.
+
+It can also mean finding a new procedure or device (something too big to be considered a piece of equipment) or even previously unknown information. This could include a source of magical power, a unique teleportation device, or the cure for a plague. These are all discoveries. The common thread is that the PCs discover something that they can understand and put to use.
+
+Last, depending on the GM’s outlook and the kind of campaign the group wants to play, a discovery could be a secret, an ethical idea, an adage, or even a truth.
+>[!note]  
+>It’s a fine line, but ultimately the GM decides what constitutes a discovery as opposed to just something weird in the course of an adventure. Usually, the difference is, did the PCs successfully interact with it and learn something about it? If so, it’s probably a discovery.
+
+> **Artifacts**  
+> When the group gains an artifact, award XP equal to the artifact’s level and divide it among the PCs (minimum 1 XP for each character). Round down if necessary. For example, if four PCs discover a level 5 artifact, they each get 1 XP. Money, standard equipment, and cyphers are not worth XP. 
+> >[!tip]
+> Experience point awards for artifacts should usually apply even if the artifact was given to the PCs rather than found, because often such gifts are the rewards for success.
+
+> **Miscellaneous Discoveries**  
+> Various other discoveries might grant 1 XP to each PC involved.
+
+> **Other Awards**  
+> If a character is focused on activities that don’t relate to a character arc or a discovery, as a general rule, a mission should be worth at least 1 XP per game session involved in accomplishing it. For example, saving a family on an isolated farm beset by raiding cultists might be worth 1 XP for each character. Of course, saving the family doesn’t always mean killing the bad guys; it might mean relocating them, parlaying with the cultists, or chasing off the raiders.
+
+#### Spending Experience Points
+Experience points are meant to be used. Hoarding them is not a good idea; if a player accumulates more than 10 XP, the GM can require them to spend some.
+Generally, experience points can be spent in four ways: immediate benefits, short- and medium-term benefits, long-term benefits, and character advancement.
+
+>[!note]  
+>Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how through experience, time, toil, travail, and so on, characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character’s capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn’t a waste of XP it’s what XP are for.  
+
+##### Immediate Benefits
+>The most straightforward way for a player to use XP is to reroll any roll in the game even one that they didn’t make. This costs 1 XP per reroll, and the player chooses the best result. They can continue to spend XP on rerolls, but this can quickly become an expensive proposition. It’s a fine way to try to prevent disaster, but it’s not a good idea to use a lot of XP to reroll a single action over and over.
+>A player can also spend 1 XP to refuse a GM intrusion.
+
+##### Short and Medium-Term Benefits  
+>By spending 2 XP, a character can gain a skill—or, more rarely, an ability that provides a short-term benefit. Let’s say a character notices that the computer terminals in the facility they’re infiltrating are similar to those used by the company they once worked for. They spend 2 XP and say that they have a great deal of experience in using these. As a result, they are trained in operating (and breaking into) these computers. This is just like being trained in computer use or hacking, but it applies only to computers found in that particular location. The skill is extremely useful in the facility, but nowhere else.  
+
+##### Medium-term benefits
+> are usually story based. For example, a character can spend 2 XP while climbing through mountains and say that they have experience with climbing in regions like these, or perhaps they spend the XP after they’ve been in the mountains for a while and say that they’ve picked up the feel for climbing there. Either way, from now on, they’re trained in climbing in those mountains. This helps them now and any time they return to the area, but they’re not trained in climbing everywhere.  
+> 
+> This method allows a character to get immediate training in a skill for half the normal cost. (Normally, it costs 4 XP to become trained in a skill.) It’s also a way to gain a new skill even if the PC has already gained a new skill as a step toward attaining the next tier.  
+> In rare cases, a GM might allow a character to spend 2 XP to gain an entirely new ability such as a device, a special ability, or a special mental power—for a short time, usually no longer than the course of one scenario. The player and the GM should agree on a story-based explanation for the benefit. Perhaps the ability has a specific rare requirement, such as a tool, a battery, a drug, or some kind of treatment. For example, a character who wants to explore a submerged location has several biotech enhancements, and they spend 2 XP to cobble together a device that lets them breathe underwater. This gives them the ability for a considerable length of time, but not permanently the device might work for only eight hours. Again, the story and the logic of the situation dictate the parameters.  
+
+##### Long-Term Benefits  
+> In many ways, the long-term benefits a PC can gain by spending XP are a means of integrating the mechanics of the game with the story. Players can codify things that happen to their characters by talking to the GM and spending 3 XP.  
+> Things that a PC can acquire as a long-term benefit can be thought of as being story based, and they allow the player to have some narrative control over the story. In the course of play, a player might decide that their character gains a friend (a contact) or builds a log cabin (a home). Because a player spent XP, however, they should have some agency over what they’ve gained, and it shouldn’t be easily taken away. The player should help come up with the details of the contact or the design of their home.  
+> It’s also possible to gain these benefits through events in the story, without spending XP. The new contact comes to the PC and starts the relationship. The new home is granted to them as a reward for service to a powerful or wealthy patron, or maybe the character inherits the home from a relative. However, because these came from the GM and not the player (and no XP were spent), the player has no narrative control over them and the GM makes up the details. 
+> 
+> Long-term benefits can include the following.
+> - **Contact:** The character gains a long-term NPC contact of importance—someone who will help them with information, equipment, or physical tasks. The player and GM should work out the details of the relationship.  
+> - **Home:** The PC acquires a full-time residence. This can be an apartment in a city, a cabin in the wilderness, a base in an ancient complex, or whatever fits the situation. It should be a secure place where the PC can leave their belongings and sleep soundly. Several characters could combine their XP and buy a home together.  
+> - **Title or job:** The PC is granted a position of importance or authority. It might come with responsibilities, prestige, and rewards, or it might be an honorary title.  
+> - **Wealth:** The PC comes into a considerable amount of wealth, whether it’s a windfall, an inheritance, or a gift. It might be enough to buy a home or a title, but that’s not really the point. The main benefit is that the PC no longer needs to worry about the cost of simple equipment, lodging, food, and so on. This wealth could mean a set amount—perhaps 50,000 dollars (or whatever is appropriate in the setting)—or it could bestow the ability to ignore minor costs, as decided by the player and GM.
+
+>[!note]  
+>GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants’ unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.  
+
+#### Character Advancement 
+ Progressing to the next tier involves four steps. When a PC has spent 4 XP on each of the steps, they advance to the next tier and gain all the type and focus benefits of that tier. The four steps can be purchased in any order, but each can be purchased only once per tier. In other words, a PC must buy all four steps and advance to the next tier before they can buy the same steps again.  
+
+##### Increasing Capabilities 
+>You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.
+##### Moving Toward Perfection 
+>You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
+##### Extra Effort
+>Your Effort score increases by 1.
+##### Skills
+>Choose one skill other than attacks or defense, such as climbing, jumping, persuading, sneaking, or history. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it.
+>
+>If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren’t eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.
+>>[!note]
+>>Once you’re specialized in a skill, you can’t improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don’t count as an asset or training.
+##### Other Options 
+>Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier.
+> 
+> The other three need to be from the other categories. The special options are as follows:
+> - Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.
+> - Add 2 to your recovery rolls.
+> - Select another focus ability available to you at tier 3. (You must be tier 3 or higher to do this. Characters advancing beyond tier 6 can use this option to select their other tier 6 focus ability.)
+> - Select another character ability from your type, such as a tier 2 Warrior selecting Reload or Crushing Blow.
+##### Equal Advancement
+It’s worthwhile if all characters advance through the six tiers at about the same rate an important issue for some players. A good GM can achieve this result by carefully handing out XP rewards, some during play (which will tend to get used immediately) and some after play concludes, especially after completing a major story arc or quest so the GM can hand out 4 XP in one go (which will tend to get used for advancement). Many groups will discover while playing that equal advancement isn’t an important issue in the Cypher System, but people should get to play the game the way they want to play it.
+##### Tier Advancement in the Cypher System
+Tiers in the Cypher System aren’t entirely like levels in other roleplaying games. In the Cypher System, gaining tiers is not the players’ only goal or the only measure of achievement. Starting (first-tier) characters are already competent, and there are only six tiers. Character advancement has a power curve, but it’s only steep enough to keep things interesting. In other words, gaining a new tier is cool and fun, but it’s not the only path to success or power. If you spend all your XP on immediate, short-term, and medium-term benefits, you will be different from someone who spends their points on long-term benefits, but you will not be “behind” that character.
+
+The general idea is that most characters will spend half their XP on tier advancement and long-term benefits, and the rest on immediate benefits and short- and medium-term benefits (which are used during gameplay). Some groups might decide that XP earned during a game is to be spent on immediate and short and medium-term benefits (gameplay uses), and XP awarded between sessions for discoveries is to be spent on character advancement (long-term uses).
+
+Ultimately, the idea is to make experience points into tools that the players and the GM can use to shape the story and the characters, not just a bookkeeping hassle.
+##### Sample Character Arcs
+The rest of this chapter presents sample character arcs for PCs. The writeup of each arc describes the parts involved in progressing through the arc:
+
+###### Opening
+>This sets the stage for the rest of the arc. It involves some action, although that might just be the PC agreeing to do the task or undertake the mission. It usually has no reward.
+
+###### Step(s) 
+>This is the action required to move toward the climax. In story terms, this is the movement through the bulk of the arc. It’s the journey. The rising tension. Although there might be just one step, there might also be many, depending on the story told. Each results in a reward of 2 XP.
+
+###### Climax 
+>This is the finale—the point at which the PC likely succeeds or fails at what they’ve set out to do. Not every arc ends with victory. If the character is successful, they earn a reward of 4 XP. If they fail, they still earn a reward of 2 XP. If a character fails the climax, they very likely ignore the resolution.
+
+###### Resolution
+>This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward. 
+
+
+Within the arc, most of the time a part is probably optional, depending on the situation—although it’s hard to envision most arcs without some kind of opening, climax, or resolution. Steps other than the opening, the climax, and the resolution can be done in any order.
+
+Character arcs should always take at least weeks in game time, and no more than two parts in an arc should be accomplished in a game session (and most of the time, it should be one part, if any). If neither of these two things is true, then it’s not really a character arc. You can’t, for example, use the Creation arc to guide you through something you can make in an hour or two.
+
+The following are common character arcs that you can choose for your character. If you and the GM want to make a new one, it should be fairly easy after looking through these models.
+###### Sample Character Arcs List
+This chapter has a selection of sample character arcs, but you can create your own too. The arcs are intentionally broad to encompass many different characters and stories. For example, Revenge is a very simple and straightforward character arc. The player who chooses this arc for their character decides who they want revenge on, and why. It’s up to the players and the GM to make the details fit.
+>Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
+
+>```dataview
+>LIST 
+>FROM #Character-Arc 
+>SORT file.name
+>```
+### Genres
+The Cypher System can be used to play in many settings. This chapter provides additional information and rules for fantasy, modern, science fiction, horror, romance, superheroes, post-apocalyptic, fairy tale, and historical genres.
+#### [[Genre-Fantasy|Fantasy]]
+#### [[Modern-Rules-Module|Modern Rules Module]]
+#### [[Science-Fiction-Rules-Module|Science Fiction Rules Module]]
+
+## Character Options
+###   [[Modern-Magic-Character-Options|Modern Magic Character Options]]
+###  [[Fantasy-Character-Options|Fantasy Character Options]]
+### [[Superhero-Character-Options|Superhero Character Options]]
+### [[Fairytale-Character-Options|Fairytale Character Options]]
+## Artifacts 
+#### [[Modern-Magic-Artifacts]]
+
+##

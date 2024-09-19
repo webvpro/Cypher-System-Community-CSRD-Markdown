@@ -7,7 +7,7 @@ tags:
 ---
 ## Special Abilities
 
-Character [[Type|type]] and [[Focus|foci]]  grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
+Character [[Type-x|type]] and [[Focus|foci]]  grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
 >[!note] 
 >1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge.
 

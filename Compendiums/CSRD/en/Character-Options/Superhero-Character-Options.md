@@ -1,88 +1,85 @@
 ---
-aliases:
-tags:
-  - "Superhero Character Options"
+aliases: "Superhero Character Options"
 tags:
   - Compendium/CSRD/en/Character-Options/Modern-Magic-Character-Options
   - Character/Options/Superhero
 ---
 ## Superhero Character Options
 ### Descriptors
-This section presents new descriptors meant specifically for a superhero game.
-####  [[Amazing]]
-#### [[Incredible|Incredible]]
-#### [[Mighty]]
-#### [[Sensational]]
-#### [[Uncanny]]
+> This section presents new descriptors meant specifically for a superhero game.
+> ####  [[Amazing]]
+> #### [[Incredible|Incredible]]
+> #### [[Mighty]]
+> #### [[Sensational]]
+> #### [[Uncanny]]
 
 ### New Foci
-This section presents new superhero foci that can be used as is in most superhero campaigns. The foci introduced here are as follows:
-
-#### [[Copies-Superpowers|Copies Superpowers]]
-#### [[Has-a-Thousand-Faces|Has a Thousand Faces]] 
-#### [[Ignores-Physical-Distance|Ignores Physical Distance]]
-#### [[Sculpts-Hard-Light|Sculpts Hard Light]]
-#### [[Shrinks-to-Minute-Size|Shrinks to Minute Size]]
-#### [[Soars-on-Amazing-Wings|Soars on Amazing Wings]]
-#### [[Stretches]]
-#### [[Takes-Animal-Shape|Takes Animal Shape]]
-#### [[Touches-the-Sky|Touches the Sky]]
-#### [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon]]
-#### [[Wields-Invisible-Force|Wields Invisible Force]]
+>This section presents new superhero foci that can be used as is in most superhero campaigns. The foci introduced here are as follows:
+> #### [[Copies-Superpowers|Copies Superpowers]]
+> #### [[Has-a-Thousand-Faces|Has a Thousand Faces]] 
+> #### [[Ignores-Physical-Distance|Ignores Physical Distance]]
+> #### [[Sculpts-Hard-Light|Sculpts Hard Light]]
+> #### [[Shrinks-to-Minute-Size|Shrinks to Minute Size]]
+> #### [[Soars-on-Amazing-Wings|Soars on Amazing Wings]]
+> #### [[Stretches]]
+> #### [[Takes-Animal-Shape|Takes Animal Shape]]
+> #### [[Touches-the-Sky|Touches the Sky]]
+> #### [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon]]
+> #### [[Wields-Invisible-Force|Wields Invisible Force]]
 
 ### New Abilities 
-The following are new abilities for the Cypher System, most of which are associated with the new foci in this book.
-#### [[Advantages-of-Being-Small|Advantages of Being Small]]
-#### [[Ageless]]
-#### [[Always-Tinkering|Always Tinkering]]
-#### [[Amazing-Copying|Amazing Copying]]
-#### [[Amazing-Leap|Amazing Leap]]
-#### [[Animal-Scrying|Animal Scrying]]
-#### [[Animal-Shape|Animal Shape]]
-#### [[Automatic-Glow|Automatic Glow]]
-#### [[Beneath-Notice|Beneath Notice]]
-#### [[Bigger-Animal-Shape|Bigger Animal Shape]]
-#### [[Body-Morph|Body Morph]]
-#### [[Bolster-Illusion|Bolster Illusion]]
-#### [[Boost-Manifest-Cypher-Function|Boost Manifest Cypher Function]]
-#### [[Charge-Weapon|Charge Weapon]]
-#### [[Command-Beast|Command Beast]]
-#### [[Copy-Power|Copy Power]]
-#### [[Defensive-Blinking|Defensive Blinking]]
-#### [[Dimensional-Squeeze|Dimensional Squeeze]]
-####  [[Disguise-Other|Disguise Other]]
-#### [[Elastic-Grip|Elastic Grip]]
-#### [[Enchanted-Weapon|Enchanted Weapon]]
-#### [[Flex-Weapon-Skill|Flex Weapon Skill]]
-#### [[Flight-Exertion|Flight Exertion]]
-#### [[Flying-Companion|Flying Companion]]
-#### [[Harder-Light|Harder Light]]
-#### [[Improved-Copying|Improved Copying]]
-#### [[Innate-Power|Innate Power]]
-#### [[Lend-Animal-Shape|Lend Animal Shape]]
-#### [[Medium-Teleportation|Medium Teleportation]]
-#### [[Mist-Cloud|Mist Cloud]]
-#### [[Modify-Cyphers|Modify Cyphers]]
-#### [[Multiple-Copying|Multiple Copying]]
-#### [[Multi-Vanish]]
-#### [[Power-Crash|Power Crash]]
-#### [[Power-Memory|Power Memory]]
-#### [[Shrink|Shrink]]
-#### [[Shrink-Others|Shrink Others]]
-##### [[Small-Flight|Small Flight]]
-#### [[Teleportation-Burst|Teleportation Burst]]
-#### [[Teleportive-Wound|Teleportive Wound]]
-#### [[Temporary-Light|Temporary Light]]
-#### [[Throw-Enchanted-Weapon|Throw Enchanted Weapon]]
-#### [[Tiny|Tiny]]
-#### [[War-Flesh|War Flesh]]
-#### [[Wildcard-Powers|Wildcard Powers]]
-#### [[Wing-Weapons|Wing Weapons]]
+>The following are new abilities for the Cypher System, most of which are associated with the new foci in this book.
+> #### [[Advantages-of-Being-Small|Advantages of Being Small]]
+> #### [[Ageless]]
+> #### [[Always-Tinkering|Always Tinkering]]
+> #### [[Amazing-Copying|Amazing Copying]]
+> #### [[Amazing-Leap|Amazing Leap]]
+> #### [[Animal-Scrying|Animal Scrying]]
+> #### [[Animal-Shape|Animal Shape]]
+> #### [[Automatic-Glow|Automatic Glow]]
+> #### [[Beneath-Notice|Beneath Notice]]
+> #### [[Bigger-Animal-Shape|Bigger Animal Shape]]
+> #### [[Body-Morph|Body Morph]]
+> #### [[Bolster-Illusion|Bolster Illusion]]
+> #### [[Boost-Manifest-Cypher-Function|Boost Manifest Cypher Function]]
+> #### [[Charge-Weapon|Charge Weapon]]
+> #### [[Command-Beast|Command Beast]]
+> #### [[Copy-Power|Copy Power]]
+> #### [[Defensive-Blinking|Defensive Blinking]]
+> #### [[Dimensional-Squeeze|Dimensional Squeeze]]
+> ####  [[Disguise-Other|Disguise Other]]
+> #### [[Elastic-Grip|Elastic Grip]]
+> #### [[Enchanted-Weapon|Enchanted Weapon]]
+> #### [[Flex-Weapon-Skill|Flex Weapon Skill]]
+> #### [[Flight-Exertion|Flight Exertion]]
+> #### [[Flying-Companion|Flying Companion]]
+> #### [[Harder-Light|Harder Light]]
+> #### [[Improved-Copying|Improved Copying]]
+> #### [[Innate-Power|Innate Power]]
+> #### [[Lend-Animal-Shape|Lend Animal Shape]]
+> #### [[Medium-Teleportation|Medium Teleportation]]
+> #### [[Mist-Cloud|Mist Cloud]]
+> #### [[Modify-Cyphers|Modify Cyphers]]
+> #### [[Multiple-Copying|Multiple Copying]]
+> #### [[Multi-Vanish]]
+> #### [[Power-Crash|Power Crash]]
+> #### [[Power-Memory|Power Memory]]
+> #### [[Shrink|Shrink]]
+> #### [[Shrink-Others|Shrink Others]]
+> ##### [[Small-Flight|Small Flight]]
+> #### [[Teleportation-Burst|Teleportation Burst]]
+> #### [[Teleportive-Wound|Teleportive Wound]]
+> #### [[Temporary-Light|Temporary Light]]
+> #### [[Throw-Enchanted-Weapon|Throw Enchanted Weapon]]
+> #### [[Tiny|Tiny]]
+> #### [[War-Flesh|War Flesh]]
+> #### [[Wildcard-Powers|Wildcard Powers]]
+> #### [[Wing-Weapons|Wing Weapons]]
 
 
 ### Gaming With Superpowers
 #### Building a Superhero 
-#### Popular Heroes in the Cypher System
+##### Popular Heroes in the Cypher System
 
 | Character       | Summary                                 | Sentence                                           | Archetype             |
 |-----------------|-----------------------------------------|----------------------------------------------------|-----------------------|
@@ -116,13 +113,13 @@ The archetypes suggest how to assign your power shifts. This is an important asp
 
 >In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character. 
 
-#### Power Source
+##### Power Source
 As you’re figuring out what type, descriptor, focus, and power shifts you want for
 your character, think about how you got your powers. Are you a mutant, born with special abilities? Do you have a high-tech costume with built-in nanotechnology? Are you a sorcerer, or maybe a psychic? The source of your powers is character flavor—for example, there’s no game mechanics difference between the mental powers of an alien member of a telepathic species, a human character who built a brain-augmenting helmet, or a faerie character from the starlight dimension who knows mind-magic. All three of those characters could have the same type, focus, descriptor, and power shifts, but they’d be very different people and have very different reasons for being a part of the RPG campaign.
 
 >If you can’t decide how you got your powers, or if you like leaving some things up to chance, try rolling once or twice on the Power Origin table and pick the result that you like better, or combine the two into something weird and unique.
 
-##### Power Origin Table
+###### Power Origin Table
 | d100  | Origin                                                        |
 |-------|---------------------------------------------------------------|
 | 01    | Absorbed powers of someone else                               |
@@ -180,10 +177,10 @@ your character, think about how you got your powers. Are you a mutant, born with
 | 99    | Unknown                                                       |
 | 00    | Unusual weather                                               |
 
-#### Starting Just Past Tier 1
+##### Starting Just Past Tier 1
 An interesting option for a GM starting a superhero campaign is to immediately give each PC 4 XP, which they must spend on a special advancement option to gain another type ability. It’s another way (along with power shifts) to make new superhero PCs feel a cut above player characters in other genres—and gives players a little more wiggle room in building the character they want to play.
 
-#### Random Superpowers
+##### Random Superpowers
 The following table has a broad selection of powers (or in some cases, sets of related powers). Players who are stuck for ideas about their superhero can roll once or twice on the table for inspiration; use the Example column for a suggested game example of that kind of power, whether that’s a power shift, a hero archetype, a focus, or a specific special ability (of course, these suggestions aren’t the only way to achieve that power).
 
 The GM can also use this table to come up with random abilities for supervillains. However, there is much more leeway in designing NPC abilities, so the Example column is more for suggesting game mechanics than abilities to choose.

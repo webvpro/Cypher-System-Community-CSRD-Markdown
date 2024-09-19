@@ -84,4 +84,285 @@ Long-term zero G is dangerous, but there are issues associated with moving aroun
 ### [[Optional-Rules-Extended-Vehicular-Combat|Optional Rules: Extended Vehicular Combat (Spacecraft Combat)]]
 ### [[Optional-Rule-Ritual-Magic|Optional Rule: Psionics]]
 ### [[Optional-Rule-Posthuman-Upgrades|Optional Rule: Posthuman Upgrades]]
-### 
+### [[Salvage-From-A-Spacecraft|Salvage From A Spacecraft]]
+### [[Ship-Collision-Damage-Track|Ship Collision Damage Track]]
+### FTL Instability  
+Even though many different kinds of faster-than-light options are available, any use of FTL in a setting faces similar sorts of hazards at three different points: when first entering FTL, while in FTL transit, and when exiting FTL.
+
+#### Entering FT  
+>Whether engaging warp drive or passing into the mouth of a wormhole gate, complicating factors might require a piloting roll, with the difficulty determined by the situation. On a failed roll, any number of bad outcomes are possible, though the least dramatic is that the craft simply fails to enter FTL and cannot do so until the PCs determine the reason and rectify it.	
+
+#### In FTL Transit  
+>A dark drive failure or some weird instability in a wormhole throat, or some other issue during FTL transit could occur. Usually, these instabilities are not something a pilot can avoid, because they should be presented as a GM intrusion, at which point the PCs can attempt to avoid or deal with the situation.  
+>
+>Instability could result in a spacecraft dropping out of FTL only partway to the destination, dropping out in some completely unrecognized part of space, dropping out at the right place but months or years late, or failing to drop out at all and thus continue to move through the abnormal spaces that FTL transit posits.   
+>  
+>  Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).   
+#### Exiting FTL  
+>The same sorts of complications could bedevil a craft exiting FTL as when entering. If so, a piloting roll is required. However, on a failed roll, results include a collision (use the Ship Collision Damage Track provided under the Asteroid Belt/Debris Field space hazard), an inadvertent spray of high-energy particles from abnormal space acting as a particle cannon accidentally aimed at some other craft or space station at the destination location, or creating/falling into a spatial anomaly.
+
+### Spatial Anomaly
+Finally, hard-to-categorize irregularities in space-time go by the broad term of “spatial anomaly.” Most of the time, spatial anomalies are hazards found in fantastically-themed settings, but not always. Because these things are anomalous, no one set of guidelines can fit them all. That said, spatial anomalies are usually a side-effect of some other factor at play, such as a hidden black hole, a dimensional rift, or the distortion field surrounding a range of post-singularity AIsestivating in the gravity wall of a magnetar.  
+>[!note]  
+>Generally speaking, spatial anomalies are a few light-seconds up to a few light-years across. It’s difficult for spacecraft to navigate within spatial anomalies, and they face many challenges if they attempt to (or are forced to) do so
+
+### [[Weak-Sim-Strong-And Post-Singularity-AI|Weak, Sim, Strong And Post-Singularity AI]]
+
+### Kardashev Scale  
+Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).   
+
+### [[Types-For-A-Science-Fiction-Game|Suggested Types For A Science Fiction Game]]
+
+### Basic Creatures And NPCs For A Science Fiction Game
+
+>**Innocuous rodent:** level 1
+>
+>**Guard beast:** level 3, perception as level 4  
+>
+>**Corporate drone:** level 2 
+> 
+>**Physical laborer:** level 2; health 8
+
+
+![[Science-Fiction-Creatures-And-NPCs-By-Level And-Tech|Science Fiction Creatures And NPCs By Level And Tech]]
+
+### Additional Science Fiction Equipment  
+In a science fiction setting, the following items (and anything else appropriate to the setting) are usually available.
+
+#### Equipment  
+>Equipment includes apparel, armor, cybernetic implants, personal drone assistants, and other items that, for the most part, can be easily transported. Technically speaking, armaments are also equipment. Unless it’s important to make a distinction, assume all guidance regarding “equipment” also applies to armaments. But when it is important to make a distinction, the term “armaments” is used for equipment that is also a weapon.
+
+
+#### Armaments  
+>From contemporary bullet-firing pistols to fantastically advanced handheld disintegration guns, the weapons presented in this chapter are dedicated to those that a single character can carry and use.
+
+#### Variable Cost by Tech Rating
+Equipment costs assume the setting is predominantly of same tech rating as the object’s tech rating. The price drops by one price category if the setting tech rating is, generally speaking, greater than the object’s tech rating.
+Note, however, that inexpensive items do not become free; they remain inexpensive.
+#### Weapon Options Granted by Type or Focus
+When a player makes up their character, their type likely indicates that they can choose one or more weapons of their choice. When choosing such weapons and equipment, the following restrictions apply to that choice:
+> • Characters must choose weapons within, or less than, the average tech rating of the setting. 
+> • Characters may not choose weapons in the exorbitant or priceless price category.
+#### Contemporary Styling in Advanced or Fantastic Settings
+Equipment listed as contemporary can often be had in hard science fiction or fantastic genres, possibly at a lower price. Note that such equipment available in these future worlds are not necessarily antiques (though they could be), but rather cheaply made objects. 
+#### Equipment Power
+For the most part, assume that equipment is either self-powered, or easily powered by charging fields or other ubiquitous and freely available sources. That is, unless a piece of equipment losing power makes a good GM intrusion in a clutch situation.
+#### Customizing Equipment
+Listing all possible armaments and equipment and their many variants across all three tech ratings, at least in the space available, isn’t an option. However, a representative cross section is provided. If you’re looking for something that isn’t noted, look for something close and adapt the listing
+#### Inexpensive Items
+| Weapons                | Notes        |
+|------------------------|--------------|
+| Energy pack (50 shots) |              |
+| Knife (simple)         | Light weapon |
+
+| Other Items              | Notes |
+|--------------------------|-------|
+| Flashlight               |       |
+| Survival rations (1 day) |       |
+
+#### Moderately Priced Items
+| Weapons            | Notes                                                                                                        |
+|--------------------|--------------------------------------------------------------------------------------------------------------|
+| Hunting knife      | Light weapon                                                                                                 |
+| Machete            | Medium weapon                                                                                                |
+| Grenade (sonic)    | Explosive weapon, inflicts 2 points of damage in immediate radius, plus Might defense roll or lose next turn |
+| Grenade (thermite) | Explosive weapon, inflicts 5 points of damage in immediate radius                                            |
+
+| Armor          | Notes       |
+|----------------|-------------|
+| Leather jacket | Light armor |
+
+| Other Items         | Notes                               |
+|---------------------|-------------------------------------|
+| Backpack            |                                     |
+| Bag of heavy tools  |                                     |
+| Bag of light tools  |                                     |
+| Binoculars          | Asset for perception tasks at range |
+| Breather            | 8 hours of breathable air           |
+| Climbing gear       | Asset for climbing tasks            |
+| Communicator        | Planetary range                     |
+| Crowbar             |                                     |
+| Environment tent    |                                     |
+| First aid kit       | Asset for healing tasks             |
+| Handcuffs           |                                     |
+| Nightvision goggles |                                     |
+| Portable lamp       |                                     |
+| Rope                | Nylon, 50 feet                      |
+| Sleeping bag        |                                     |
+
+#### Expensive Items
+| Weapons        | Notes                                                                                 |
+|----------------|---------------------------------------------------------------------------------------|
+| Light blaster  | Light weapon, short range                                                             |
+| Medium blaster | Medium weapon, long range                                                             |
+| Needler        | Light weapon, long range                                                              |
+| Shotgun        | Heavy weapon, immediate range                                                         |
+| Stunstick      | Medium weapon, inflicts no damage but human-sized or smaller target loses next action |
+
+| Armor                  | Notes        |
+|------------------------|--------------|
+| Armored bodysuit       | Medium armor |
+| Lightweight body armor | Medium armor |
+
+| Other Items                         | Notes                                                                         |
+|-------------------------------------|-------------------------------------------------------------------------------|
+| Camera designed to be concealed     | Transmits at long range                                                       |
+| Microphone designed to be concealed | Transmits at long range                                                       |
+| Environment suit                    | Provides 24 hours of atmosphere and +10 to Armor against extreme temperatures |
+| Wrist computer                      | Asset for most knowledge-based tasks                                          |
+
+#### Very Expensive Items
+| Weapons             | Notes                                        |
+|---------------------|----------------------------------------------|
+| Heavy blaster       | Heavy weapon, long range                     |
+| Heavy blaster rifle | Heavy weapon, 300-foot (90 m) range          |
+| Pulse laser gun     | Medium weapon, rapid-fire weapon, long range |
+
+| Armor      | Notes                                       |
+|------------|---------------------------------------------|
+| Battlesuit | Heavy armor, also works as environment suit |
+
+| Other Items       | Notes                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------|
+| Disguise kit      | Asset for disguise tasks                                                                    |
+| Gravity regulator | Belt-mounted device that regulates gravity to 1G for wearer if within 0 G to 3 G conditions |
+| Handheld scanner  | Asset for identifying tasks                                                                 |
+| Hovercraft        | Level 4                                                                                     |
+| Infiltrator       | Asset for lockpicking tasks when used with electronic locks                                 |
+| Jetpack           | Level 4                                                                                     |
+| Stealthsuit       | Asset for stealth tasks                                                                     |
+#### Exhorbitant Items
+| Weapons      | Notes                                                                                    |
+|--------------|------------------------------------------------------------------------------------------|
+| Blast cannon | 10 points of damage, 500-foot (150 m) range, requires a tripod and two people to operate |
+
+| Armor       | Notes                         |
+|-------------|-------------------------------|
+| Force field | Not armor, offers +1 to Armor |
+
+| Other Items     | Notes   |
+|-----------------|---------|
+| Luxury hovercar | Level 5 |
+| Robot servant   | Level 3 |
+| Small spaceship | Level 4 |
+
+### Equipment Listing
+#### Communication
+##### Lightspeed Communication Delays
+For ease of reference, the light delay table provides the time it takes light from the sun to each planet in our solar system, plus a few other notable locations. To figure light delays between two different locations, subtract the time delay of the object closer to the sun from the time delay of the object farther away. The difference is the light delay between those two locations. Double times for two-way communication
+###### Light Delay Table
+| Location          | AU   | Light Delay |
+|-------------------|------|-------------|
+| Mercury           | 0.4  | 3 minutes   |
+| Venus             | 0.7  | 6 minutes   |
+| Earth             | 1.0  | 8 minutes   |
+| Mars              | 1.5  | 13 minutes  |
+| Asteroid belt     | 2.7  | 22 minutes  |
+| Jupiter           | 5.2  | 43 minutes  |
+| Saturn            | 9.5  | 79 minutes  |
+| Uranus            | 19   | 160 minutes |
+| Neptune           | 30   | 4 hours     |
+| Inner Kuiper Belt | 30   | 4 hours     |
+| Pluto             | 39   | 6 hours     |
+| Outer Kuiper Belt | 50   | 7 hours     |
+| Inner Oort Cloud  | 5k   | 29 days     |
+| Outer Oort Cloud  | 100k | 19 months   |
+| Proxima Centauri  | 269k | 4.2 years   |
+
+##### Contemporary
+>- [[Smartphone|Smartphone]]
+>- [[Computer-Laptop|Computer/Laptop]]
+>- [[Satellite-Phone|Satellite Phone]]
+##### Advanced 
+> - [[Communicator|Communicator, badge/ring ]]
+> - [[AR-Glasses|AR Glasses]]
+> - [[AR-Contacts|AR Contacts]]
+> - [[Courier]]
+> - [[Laser-Array|Laser Array]]
+> - [[Graser-Array|Graser Array]]
+##### Fantastic
+> - [[Minds-Eye|Mind's Eye]]
+> - [[Ansible]]
+#### Sense-enhancing Tools
+Some communication devices also provide sense-enhancing abilities, such as the smartphone, AR glasses and contacts, and the mind’s eye implant. 
+##### Contemporary
+>- [[Binoculars]]
+>- [[Camera-Surveillance|Camera, Surveillance]]
+>- [[Microscope]]
+>- [[Nightvision-Goggles|Nightvision Goggles]]
+>- [[Analysis-Apparatus|Analysis Apparatus]]
+##### Advanced 
+>- [[Hand-Scanner|Hand Scanner]]
+>- [[Lab-on-a-Chip|Lab on a Chip]]
+>- [[Research-Drone|Research Drone]]
+##### Fantastic
+> - [[Multicorder]]
+> - [[Sonic-Toolgrip|Sonic Toolgrip]]
+#### Apparel & Armor
+Unless the GM is running some kind of survival-related scenario, characters can be presumed to have basic clothing and footwear suitable to their environment. 
+##### Contemporary
+> - [[Cold-Weather-Gear|Cold Weather Gear]]
+> - [[Scuba-Gear|SCUBA Gear]]
+##### Contemporary Armor 
+>- [[Leather-Jacket|Leather Jacket]]
+>- [[Kevlar-Vest]]
+>- [[Military-Body-Armor-Light|Military Body Armor, Light]]
+>- [[Military-Body-Armor|Military Body Armor]]
+##### Advanced 
+>- [[Safesuit-Space|Safesuit, Space]]
+>- [[Breather]]
+>- [[Exoskin-Grav-Assist]]
+>- [[Shipboots]]
+>- [[Pressure-Suit|Pressure Suit]]
+>- [[Exoskin-Brute|Exoskin, Brute]]
+>- [[Exoskin-Reactive|Exoskin, Reactive]]
+>- [[Space-Suit|Space Suit]]
+>- [[Swimsuit-Hydrodynamic|Swimsuit, Hydrodynamic]]
+
+>[!note] ### ### Taking Damage in a Space Suit
+>Taking damage while protected from the effects of vacuum in a space suit (or safesuit) requires one additional defense roll. On a failure, the suit breaches and begins to spew precious air, heat, and pressure into the void. Deluxe space suits have auto-sealing functionality, repairing the puncture within a round. But during any round a suit is leaking, all tasks are hindered as the spray of venting atmosphere jerks or even spins the character around. Those with less advanced suits must find some way to seal the breach within three rounds, otherwise on the fourth round, they are treated as if in vacuum
+##### Advanced Armor
+>-  [[Armored-Bodysuit|Armored Bodysuit]]
+>- [[Body-Armor-Lightweight|Body Armor, Lightweight]]
+>- [[Paint-On-Impact-Armor|Paint-On Impact Armor]]
+>- [[Battlesuit]]
+>- [[Holobit]] 
+>- [[Battlesuit-Deluxe|Battlesuit, Deluxe]]
+##### Fantastic
+>- [[Breather-Vacuum|Breather, Vacuum]]
+>- [[Compendiums/CSRD/en/Equipment/Bounding-Boots|Bounding Boots]]
+>- [[Cloak-Chameleon|Cloak, Chameleon]]
+##### Fantastic Armor
+>- [[Force-Field-Quick|Force Field, Quick]]
+>- [[Cloak-Impact|Cloak, Impact]]
+>- [[Battle-Armor|Battle Armor]]
+>- [[Kinetic-Ring|Kinetic Ring]]
+>- [[Gun-Armor|Gun Armor]]
+#### Utility Gear
+##### Contemporary
+>- [[Duct-Tape-Roll|Duct Tape Roll]]
+>- [[Flashlight|Flashlight]]
+>- [[Padlock-with-Keys|Padlock with Keys]]
+>- [[Backpack]]
+>- [[Bolt-Cutters|Bolt Cutters]]
+>- [[Climbing-Gear|Climbing Gear]]
+>- [[Crowbar]]
+>- [[Electric-Lantern|Electric Lantern]]
+>- [[Lockpick-Set|Lockpick Set]]
+>- [[Restraint]]
+>- [[Sleeping-Bag|Sleeping Bag]]
+>- [[Tent]]
+>- [[Tools-General|Tools, General]]
+>- [[Disguise-Kit|Disguise Kit]]
+##### Advanced 
+>- [[Everlight]]
+>- [[Tent-Environment|Tent, Environment]]
+>- [[Repair-Tape-Roll|Repair Tape Roll]]
+>- [[Self-Extending-Rope|Self-Extending Rope]]
+>- [[Surelock]]
+>- [[Lock-Infiltrator|Lock Infiltrator]]
+>- [[Exo-Hand|Exo-Hand]]
+>- [[Fusion-Battery|Fusion Battery]]
+>- [[Fusion-Torch|Fusion Torch]]
+>- [[4D-Printer|4D Printer]]
+##### Fantastic

@@ -1,25 +1,10 @@
 ---
 aliases:
-  - Abilities
+  - "Ability Categories and Relative Power"
 tags:
--  Compendium/CSRD/en/Rules/Abilities
+-  Compendium/CSRD/en/Rules/Ability-Categories-and-Relative-Power
 ---
-# Abilities
-
-This chapter presents a vast catalog of more than a thousand abilities a character can gain from their type, flavor (if any), and focus. They are sorted alphabetically by the ability’s name.
-
-A character’s type, flavor, and focus assign an appropriate tier to each ability. However, if you’re creating a brand-new focus or type, we provide a couple of additional tools.
-
-The first is a power grade for each ability, which tells you about how potent it is in relation to other abilities. Abilities appropriate for tiers 1 and 2 characters are called “low-tier” abilities. Abilities appropriate for tiers 3 and 4 are called “mid-tier” abilities. Abilities appropriate for tiers 5 and 6 are called “high-tier” abilities.
-
-These abilities are further sorted into ability categories based on the kinds of things they do—abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on.
-
-(Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.)
-
-> [!important] How to Use an Ability
-> To use an ability whose description says “Action”, a character must take the Activate a Special Ability action, in addition to paying the initial cost (if any).
-
-## Ability Categories and Relative Power
+# Ability Categories and Relative Power
 
 Abilities can be divided into several categories based on the kinds of things they do—improve your physical attacks, assist allies, provide defense, give you a special attack form, and so on. Under each of the following category descriptions is a list of abilities that fit that category, sorted into low-, medium-, and high-tier abilities.
 
@@ -38,21 +23,21 @@ The abilities in this chapter can be roughly grouped into these categories: Atta
 
 Gives you training or specialization in a specific physical attack (like swords or unarmed combat), a category of physical attacks (light bladed, heavy bashing, and so on), or another physical skill primarily used to inflict harm (such as breaking objects).
 
-#### Low Tier  
+>[!example] Low Tier  
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Low
 > SORT file.name  
 > ```
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Mid 
 > SORT file.name  
 > ```
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/High
@@ -64,21 +49,22 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 Gives you a follower, modifies a follower, or gives you an additional benefit when interacting with or near your follower. This category includes humanoid followers, beast companions, and temporary companions like summoned swarms, conjured spirits, and so on.
 
-#### Low Tier
+>[!example] Low Tier
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Companion AND #Ability/Tier/Low  
 > SORT file.name
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST 
 > FROM #Ability/Categories/Companion AND #Ability/Tier/Mid  
 > SORT file.name  
 > ``` 
 
-####  High Tier 
+
+>[!example] High Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Companion AND #Ability/Tier/High  
@@ -89,21 +75,22 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 Controls or influences minds in ways outside of what could be done with conventional intimidation and persuasion, such as using psychic mind control, fear gas, and so on.
 
-####  Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Control AND #Ability/Tier/Low  
 > SORT file.name
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Control AND #Ability/Tier/Mid  
 > SORT file.name  
 > ``` 
 
-#### High Tier 
+
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Control AND #Ability/Tier/High  
@@ -114,14 +101,14 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 Creates useful physical things, such as mundane tools (hammers, crowbars), limited-use devices (manifest cyphers, artifacts), or independent beings (robots, elementals, zombies). Includes blueprints, plans, and effects that aid or speed crafting.
 
-####  Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Craft  AND #Ability/Tier/Low  
 > SORT file.name  
 > ``` 
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0]) 
 > FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid  
@@ -129,7 +116,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 > ``` 
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid  
@@ -140,7 +127,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 ### Cure
 Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or otherwise gives immunity to a harmful effect or condition, such as poison, disease, mental attacks, moving down on the damage track, or dying.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Cure   AND #Ability/Tier/Low  
@@ -148,14 +135,14 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 > ``` 
 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Cure   AND #Ability/Tier/Mid  
 > SORT file.name  
 > ``` 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 >  LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Cure   AND #Ability/Tier/High   
@@ -166,14 +153,14 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 
 Manipulates the environment or things in the environment, such as with telekinesis, weather control, gravity control, illusions, and so on.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Environment AND #Ability/Tier/Low    
 > SORT file.name  
 > ``` 
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST 
 > FROM #Ability/Categories/Environment AND #Ability/Tier/Mid    
@@ -181,7 +168,7 @@ Manipulates the environment or things in the environment, such as with telekines
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Environment AND #Ability/Tier/High    
@@ -192,14 +179,14 @@ Manipulates the environment or things in the environment, such as with telekines
 
 Gives the ability to learn information about something, whether chosen by the GM like Scan, by asking a question and the GM giving the answer, or by learning a language.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Information AND #Ability/Tier/Low     
 > SORT file.name  
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Information AND #Ability/Tier/Mid      
@@ -207,7 +194,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 > ``` 
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Information AND #Ability/Tier/High       
@@ -218,7 +205,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 Modifies an existing ability or character trait’s effects or parameters, such as increasing range or, damage, easing the difficulty, giving you additional noncombat actions each turn, rerolling a failed attempt, or treating a number on the die as something different than normal.
 
-####  Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Meta AND #Ability/Tier/High      
@@ -226,7 +213,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 > ``` 
 
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Meta AND #Ability/Tier/Mid      
@@ -234,7 +221,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 > ``` 
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Meta AND #Ability/Tier/Mid      
@@ -245,7 +232,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 
 Increases your movement (such as increasing your basic movement speed from short to long) or adds a new type of movement (such as flight, wallcrawling, phasing, or teleporting).
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Movement AND #Ability/Tier/Low       
@@ -253,14 +240,14 @@ Increases your movement (such as increasing your basic movement speed from short
 > ``` 
 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Movement AND #Ability/Tier/Mid        
 > SORT file.name  
 > ``` 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Movement AND #Ability/Tier/High        
@@ -271,21 +258,21 @@ Increases your movement (such as increasing your basic movement speed from short
 
 Gives training or specialization in one or more types of combat defenses (Might, Speed, or Intellect), provides or increases Armor, or otherwise helps prevent damage.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Protection AND #Ability/Tier/Low         
 > SORT file.name  
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Protection AND #Ability/Tier/Mid          
 > SORT file.name  
 > ``` 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Protection AND #Ability/Tier/High          
@@ -297,14 +284,14 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 Enhances your senses (seeing in the dark, seeing underwater or through mist, sensing danger, finding optimal places to stand in combat, and so on), but doesn’t provide direct answers to questions like an information ability does.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Senses AND #Ability/Tier/Low    
 > SORT file.name  
 > ``` 
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Senses  AND #Ability/Tier/Mid   
@@ -312,7 +299,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 > ``` 
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Senses  AND #Ability/Tier/High  
@@ -323,21 +310,21 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 Gives you an indirect social benefit, such as providing a useful contact in a city or letting you take advantage of your social status.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Social AND #Ability/Tier/Low     
 > SORT file.name  
 > ``` 
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Social AND #Ability/Tier/Mid      
 > SORT file.name  
 > ``` 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Social AND #Ability/Tier/High    
@@ -348,21 +335,21 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 Gives the ability to make a special melee or ranged attack (weapon, energy blast, psychic, and so on). The attack might do damage, have a special effect (disarm, hinder, move the target, and so on), or both. This also includes abilities like Spray that let you attack multiple targets as your action.
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Low              
 > SORT file.name  
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Mid              
 > SORT file.name  
 > ``` 
 
-####  High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Special-Attack   AND #Ability/Tier/High               
@@ -373,14 +360,14 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 
 Gives some sort of benefit to an ally rather than yourself, such as an extra action or an asset on their roll.
 
-####  Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Support  AND #Ability/Tier/Low
 > SORT file.name  
 > ``` 
 
-#### Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Support AND #Ability/Tier/Mid  
@@ -388,7 +375,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 > ``` 
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Support AND #Ability/Tier/High 
@@ -398,14 +385,14 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 
 Gives training, specialization, or an asset in one or more noncombat skills (climbing, healing, computers, initiative, and so on).
 
-#### Low Tier 
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Task  AND #Ability/Tier/Low      
 > SORT file.name 
 > ```
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Task  AND #Ability/Tier/Mid 
@@ -413,7 +400,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 > ```  
 
 
-#### High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Task  AND #Ability/Tier/High      
@@ -423,28 +410,29 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 ### Transform
 
 A significant change that temporarily enhances you, such as growing bigger, turning into a werewolf, and so on. Also includes apparent transformations like disguises and invisibility.
-#### Low Tier 
+
+>[!example] Low Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Transform   AND #Ability/Tier/Low                  
 > SORT file.name 
 > ```
 
-####  Mid Tier 
+>[!example] Mid Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Transform   AND #Ability/Tier/Mid                   
 > SORT file.name 
 > ```
 
-####  High Tier 
+>[!example] High Tier 
 > ```dataview 
 > LIST  WITHOUT ID link(file.link, aliases[0])  
 > FROM #Ability/Categories/Transform   AND #Ability/Tier/High                   
 > SORT file.name 
 > ```
 
-## Abilities—A
+### Abilities—A
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -453,7 +441,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—B
+### Abilities—B
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -462,7 +450,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—C
+### Abilities—C
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -471,7 +459,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—D
+### Abilities—D
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -480,7 +468,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—E
+### Abilities—E
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -489,7 +477,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—F
+### Abilities—F
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -497,39 +485,8 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > SORT file.name 
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
-## Abilities—G
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "G")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-## Abilities—H
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "H")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-## Abilities—I
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "I")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-## Abilities—J
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "J")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-## Abilities—K
+
+### Abilities—K
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -538,7 +495,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—L
+### Abilities—L
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -547,7 +504,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—M
+### Abilities—M
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -556,7 +513,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—N
+### Abilities—N
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -565,7 +522,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—O
+### Abilities—O
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -574,7 +531,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—P
+### Abilities—P
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -583,7 +540,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```  
 
-## Abilities—Q
+### Abilities—Q
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -592,7 +549,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ``` 
 
-## Abilities—R
+### Abilities—R
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -601,7 +558,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—S
+### Abilities—S
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -610,7 +567,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—T
+### Abilities—T
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -619,7 +576,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—U
+### Abilities—U
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -628,7 +585,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—V
+### Abilities—V
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -637,7 +594,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```  
 
-## Abilities—W
+### Abilities—W
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -646,7 +603,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—Y
+### Abilities—Y
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -655,7 +612,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-## Abilities—Z
+### Abilities—Z
 > ```dataview 
 > LIST 
 > FROM #Compendium/CSRD/en/Abilities
@@ -664,4 +621,4 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > GROUP BY link(file.link, file.aliases[0]) 
 > ```
 
-### [[Animal-Form-Minor-Abilities-Table|Animal Form Minor Abilities Table]]
+## [[Animal-Form-Minor-Abilities-Table|Animal Form Minor Abilities Table]]

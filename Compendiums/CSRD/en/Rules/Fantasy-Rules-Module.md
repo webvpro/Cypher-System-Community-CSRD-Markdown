@@ -241,5 +241,3 @@ The trap magically moves the character to another location within about 1,000 fe
 ##### GM Intrusion 
 >The teleport destination is above the ground, causing the character to fall some distance and take damage (1 point of ambient damage per 10 feet fallen). The destination is dangerous, such as a tiny room lined with spikes, a shark tank, or a boulder in a lava lake.
 
-## [[Followers]]
-

@@ -29,5 +29,8 @@ At the end of a session, review the actions you took and describe how they might
 
 This chapter presents many sample character arcs (see below).
 
-### Sample Character Arcs
-![[Sample-Character-Arcs|Sample Character Arcs]]
+> ```dataview 
+> LIST  WITHOUT ID link(file.link, aliases[0]) 
+> FROM  #Compendium/CSRD/en/Character-Arcs
+> SORT file.name  
+> ```

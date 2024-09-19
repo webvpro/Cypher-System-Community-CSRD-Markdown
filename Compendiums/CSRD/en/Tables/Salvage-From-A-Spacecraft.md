@@ -6,7 +6,9 @@ tags:
 - Table/Salvage/Spacecraft
 ---
 ## Salvage From A Spacecraft
-
+If the derelict ship was subject to vacuum, partly destroyed in combat, or damaged by some other disaster or close encounter with a space hazard, salvaged items are usually degraded, and are valued at one price category less than noted. The GM may decide an object is completely unrecoverable (worthless) or works fine.
+### Salvage GM Intrusion
+>Claim jumpers/pirates might try to salvage a ship that PCs are attempting to salvage.
 
 | d10 | In-Ship Salvage (value PCs gain on a sale of salvaged item)                  |
 |-----|------------------------------------------------------------------------------|

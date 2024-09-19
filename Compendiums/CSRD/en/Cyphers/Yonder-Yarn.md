@@ -2,8 +2,8 @@
 aliases:
 - Yonder Yarn
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+- Compendium/CSRD/en/Cyphers/Yonder-Yarn
+- Cypher/Fairy-Tale
 ---
 
   

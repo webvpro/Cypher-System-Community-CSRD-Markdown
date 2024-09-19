@@ -99,6 +99,7 @@ In some cases, the ideas here require minor changes to the flavor described in t
 ### Prepared Vs. Spontaneous Spellcasting  
 >Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you’d like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
 
+
 ### New Foci  
 > - [[Takes-Animal-Shape|Takes Animal Shape]]  
 > - [[Uses-Wild-Magic]]

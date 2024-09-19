@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Lab-on-a-Chip"
+- "Lab on a Chip"
 tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Advanced

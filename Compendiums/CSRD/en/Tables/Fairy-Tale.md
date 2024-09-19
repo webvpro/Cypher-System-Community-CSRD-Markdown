@@ -47,7 +47,7 @@ tags:
 | 38 | [[Flaming-Arrow\|Flaming Arrow]] |
 | 39 | [[Flowers-for-Grandmother\|Flowers for Grandmother]] |
 | 40 | [[Forget-Me-Knot\|Forget-Me-Knot]] |
-| 41 | [[Genie's-Handkerchief\|Genie's Handkerchief]] |
+| 41 | [[Genies-Handkerchief\|Genie's Handkerchief]] |
 | 42 | [[Gilded-Shell\|Gilded Shell]] |
 | 43 | [[Gingerbread-Man\|Gingerbread Man]] |
 | 44 | [[Godfathers-Picture-Book\|Godfather's Picture Book]] |

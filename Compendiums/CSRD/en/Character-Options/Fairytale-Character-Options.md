@@ -1,7 +1,5 @@
 ---
-aliases:
-tags:
-  - "Fairytale Character Options"
+aliases: "Fairytale Character Options"
 tags:
   - Compendium/CSRD/en/Character-Options/Fairytale-Character-Options
   - Character/Options/Fairytale
@@ -535,3 +533,11 @@ While characters can find or purchase many of these items in the world, only mag
 | 98   | [[Wooden-Spoon\|Wooden Spoon]]                                            |
 | 99   | [[Yonder-Yarn\|Yonder Yarn]]                                             |
 | 00   | Roll on the cypher tables in the Cypher System Rulebook |
+
+   A SELECTION OF FAIRY TALE CYPHERS
+ ```dataview 
+ TABLE  WITHOUT ID link(file.link, aliases[0]) 
+ FROM  "Compendiums/CSRD/en/Cyphers" 
+ Where contains(tags, "Cypher/Fairy-Tale")
+ SORT file.name  
+ ```

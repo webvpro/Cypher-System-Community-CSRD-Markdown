@@ -22,7 +22,7 @@ In this sentence,
 
 Even though character type is in the middle of the sentence, that’s where we’ll start this discussion. (Just as in a sentence, the noun provides the foundation.)
 
->Your character [[Type|type]] is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
+>Your character [[Type-x|type]] is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 >
 >You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]],  [[Explorer|Explorers]], and [[Speaker|Speakers]].
 

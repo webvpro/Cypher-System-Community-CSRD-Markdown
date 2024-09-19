@@ -2,8 +2,8 @@
 aliases:
 - Animated Wood
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+- Compendium/CSRD/en/Cyphers/Animated-Wood
+- Cypher/Fairy-Tale
 ---
 
   
