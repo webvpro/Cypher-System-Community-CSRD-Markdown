@@ -1,6 +1,6 @@
 ---
 aliases:
-- Elemental, Water
+- "Elemental, Water"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

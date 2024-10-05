@@ -1,6 +1,6 @@
 ---
 aliases:
-- Soldier's Cloak of Invisibility
+- "Soldier's Cloak of Invisibility"
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Elemental, Thorn
+- "Elemental, Thorn"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

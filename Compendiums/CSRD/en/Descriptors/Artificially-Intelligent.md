@@ -3,7 +3,8 @@ aliases:
 - Artificially Intelligent
 tags:
 - Compendiums/CSRD/en/Descriptors
-- Descriptor
+- Descriptor/Sci-Fi
+- Descriptor/Species
 ---
 
 ## Artificially Intelligent  

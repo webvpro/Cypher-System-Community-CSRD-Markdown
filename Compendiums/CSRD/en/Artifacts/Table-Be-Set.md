@@ -1,6 +1,6 @@
 ---
 aliases:
-- Table-Be-Set
+- "Table Be Set"
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
@@ -8,7 +8,7 @@ tags:
 ---
 
   
-## Table-Be-Set  
+## Table Be Set
 >[!info] Stats  
 > **Level:** 1d6  
 > **Form:** Common-Looking Wooden Table  

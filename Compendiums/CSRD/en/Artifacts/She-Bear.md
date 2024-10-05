@@ -1,6 +1,6 @@
 ---
 aliases:
-- She-Bear
+- "She Bear"
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
@@ -8,7 +8,7 @@ tags:
 ---
 
   
-## She-Bear  
+## She Bear  
 >[!info] Stats  
 > **Level:** 1d6  
 > **Form:** Bit of Wood Carved in the Shape of a Bear  

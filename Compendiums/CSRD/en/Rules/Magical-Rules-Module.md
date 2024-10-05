@@ -60,7 +60,8 @@ In a world where magic and technology coexist, wizards will have spells and effe
 >- [[Screen-Control|Screen Control]]
 ## Mind Control  
 From a rules perspective, mind control is fairly straightforward: one creature decides what actions another creature takes (perhaps limited in that the controlled creature won’t take actions that harm them or go against their nature, such as attacking friends). But what’s happening inside the controlled creature’s head—whether during the effect or afterward—often isn’t specified. There are several options for the GM to consider, either for all kinds of mind-control magic or on a case-by-case basis. 
-Confusion: The controlled creature doesn’t understand why they’re doing things they normally wouldn’t do, but they aren’t aware of any outside influence on their thoughts and actions. Once the control is over, the creature may admit that they don’t know why they did those things, or come up with an explanation justifying (to themselves and others) their reasons for those actions. 
+### Confusion
+>The controlled creature doesn’t understand why they’re doing things they normally wouldn’t do, but they aren’t aware of any outside influence on their thoughts and actions. Once the control is over, the creature may admit that they don’t know why they did those things, or come up with an explanation justifying (to themselves and others) their reasons for those actions. 
 
 ### Dream 
 >The controlled creature is aware of what’s going on but perceives it in a dreamlike state. They may believe that they’re in control of themselves the entire time, or somewhat aware that they’re not fully in control (similar to being intoxicated by drugs or alcohol or disoriented by an illness). Afterward, the creature might feel strange about the events but may not realize that someone else was controlling them. 

@@ -119,6 +119,10 @@ your character, think about how you got your powers. Are you a mutant, born with
 
 >If you can’t decide how you got your powers, or if you like leaving some things up to chance, try rolling once or twice on the Power Origin table and pick the result that you like better, or combine the two into something weird and unique.
 
+>[!tip]
+>Remember that you can permanently increase the range of one of your abilities with the increased range power shift.
+
+
 ###### Power Origin Table
 | d100  | Origin                                                        |
 |-------|---------------------------------------------------------------|

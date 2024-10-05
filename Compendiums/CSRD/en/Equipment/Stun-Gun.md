@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Stun "Gun""
+- "Stun \"Gun\""
 tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Armament

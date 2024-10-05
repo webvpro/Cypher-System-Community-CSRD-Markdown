@@ -1,6 +1,6 @@
 ---
 aliases:
-- "Blast Cannon"
+- "Blaster Cannon"
 tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Science-Fiction

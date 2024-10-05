@@ -112,7 +112,7 @@ There are three basic ways in which a character can ease a task: skills, assets,
 >
 >Free Level of Effort: A few abilities give you a free level of Effort (these usually require you to apply at least one level of Effort to a task). In effect, you’re getting one more level of Effort than what you paid for. This free level of Effort can exceed the Effort limit for your character, but not the six-step limit for easing a task.
 
-## [[Rolling-Dice|Rolling Dice]]
+## ![[Rolling-Dice#Rolling the Dice|Rolling Dice]]
 
 ## Retrying a Task After Failure  
 If a character fails a task (whether it’s climbing a wall, picking a lock, trying to figure out a mysterious device, or something else) they can attempt it again, but they must apply at least one level of Effort when retrying that task. A retry is a new action, not part of the same action that failed, and it takes the same amount of time as the first attempt did.

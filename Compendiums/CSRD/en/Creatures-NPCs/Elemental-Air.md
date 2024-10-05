@@ -1,6 +1,6 @@
 ---
 aliases:
-- Elemental, Air
+- "Elemental, Air"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

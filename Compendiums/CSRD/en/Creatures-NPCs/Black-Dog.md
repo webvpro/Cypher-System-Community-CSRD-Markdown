@@ -1,6 +1,6 @@
 ---
 aliases:
-- Black Dog
+- "Black Dog"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

@@ -142,7 +142,7 @@ In a modern setting, the following items (and anything else appropriate to the r
 | Luxury car  | Level 5 |
 | Sports car  | Level 6 |
 
-## Optional Rule: Handling Pcs as Children
+## Optional Rule: Handling PCs as Children
 The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.
 ### Age 9 to 13
 #### Slight:

@@ -319,7 +319,7 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 >- [[Space-Suit|Space Suit]]
 >- [[Swimsuit-Hydrodynamic|Swimsuit, Hydrodynamic]]
 
->[!note] ### ### Taking Damage in a Space Suit
+>[!note] Taking Damage in a Space Suit
 >Taking damage while protected from the effects of vacuum in a space suit (or safesuit) requires one additional defense roll. On a failure, the suit breaches and begins to spew precious air, heat, and pressure into the void. Deluxe space suits have auto-sealing functionality, repairing the puncture within a round. But during any round a suit is leaking, all tasks are hindered as the spray of venting atmosphere jerks or even spins the character around. Those with less advanced suits must find some way to seal the breach within three rounds, otherwise on the fourth round, they are treated as if in vacuum
 ##### Advanced Armor
 >-  [[Armored-Bodysuit|Armored Bodysuit]]
@@ -366,3 +366,415 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 >- [[Fusion-Torch|Fusion Torch]]
 >- [[4D-Printer|4D Printer]]
 ##### Fantastic
+>- [[Carryall-Pack|Carryall Pack]]
+>- [[Gravity-Regulator|Gravity Regulator]]
+>- [[Programmable-Suitcase|Programmable Suitcase]]
+#### Health Care and Nutrition
+Health care is too broad a topic to cover in depth. However, for purposes of on-the-go amelioration of wounds and other injuries, the following options are available. In particular, advanced tech autodocs include any number of partly robotic healing kits or automated hospital devices.
+##### Contemporary
+>- [[Trail-Rations-1-Day|Trail Rations (1 Day)]]
+>- [[First-Aid-Kit|First Aid Kit]]
+>- [[Military-Grade-Field-Dressing|Military-Grade Field Dressing]]
+##### Advanced 
+>- [[Cold-Sober|Cold Sober]]
+>- [[Mega-Bar|Mega Bar]]
+>- [[Serum-Remedial|Serum, Remedial]]
+>- [[Serum-Space-Fit|Serum, Space-Fit]]
+>- [[Serum-Acceleration|Serum, Acceleration]]
+>- [[Serum-Antivenom|Serum, Antivenom]]
+>- [[Transplant-Organ-or-Limb|Transplant, Organ or Limb]]
+>- [[Autodoc-Mobile|Autodoc, Mobile]]
+>- [[Hibernation-Pod|Hibernation Pod]]
+>- [[Omnichair]]
+>- [[Compendiums/CSRD/en/Equipment/Autodoc|Autodoc]]
+##### Fantastic
+>- [[Nano-Tab-General|Nano Tab, General]]
+>- [[Nano-Tab-Acceleration|Nano Tab, Acceleration]]
+>- [[Nano-Tab-Space-Fit|Nano Tab, Space-Fit]]
+>- [[Nano-Tab-Immolating|Nano Tab, Immolating]]
+>- [[Nano]]
+#### Robots & AI
+##### Contemporary
+>- [[Electronic-Assistant|Electronic Assistant]]
+>- [[House-Robot|House Robot]]
+>- [[PackBot]]
+>- [[Surveillance-Drone|Surveillance Drone]]
+##### Advanced 
+>- [[Auton|Auton]]
+>- [[Auton-Medical|Auton, Medical]]
+>- [[Auton-Defense|Auton, Defense]]
+>- [[Auton-Military-Drone|Auton, Military Drone]]
+>- [[Auton-Warrior|Auton, Warrior]]
+>- [[Shipmind]]
+##### Fantastic
+>- [[Synth]]
+>- [[Synth-Companion]]
+>- [[Synth-Free|Synth, Free]]
+>- [[Compendiums/CSRD/en/Equipment/Wardroid|Wardroid]]
+>- [[Synth-Infiltrator|Synth, Infiltrator]]
+#### Recreation
+Occasional recreation is absolutely necessary to maintain stable relationships as well as mental stability and happiness. Characters that never engage in recreation become gradually more unhappy and troubled, and eventually find interaction tasks and most Intellect tasks hindered unexpectedly.
+##### Contemporary
+>- [[Compendiums/CSRD/en/Equipment/Book|Book]]
+>- [[Card-Tabletop-Digital-Game|Card Tabletop Digital Game]]
+>- [[Alcohol-and-Drugs|Alcohol and Drugs]]
+##### Advanced 
+>- [[Sidekick-Sphere|Sidekick Sphere]]
+>- [[Tattoo-Programmable|Tattoo, Programmable]]
+##### Fantastic
+>- [[Tattoo-Living|Tattoo, Living]]
+>- [[Pleasure-Bit|Pleasure Bit]]
+#### Armaments Listing
+A selection of weapons for your sci-fi setting rated by level, price, function, and tech level
+##### Armament Ammunition & Charge
+Weapons require ammunition (“ammo”), whether that’s rounds of a particular caliber, energy packs, or something even more exotic. You can handle ammo requirements for weapons in one of three ways: exact tracking, abstracted monthly upkeep cost, or not worrying about it.
+
+Exact tracking means asking the character to track their available and used rounds/shots after (and possibly during) a fight. 
+
+Abstracted monthly upkeep cost assumes that the characters go through ammo at an average rate, and obtaining more ammo or energy packs is something they do in their “off-camera” time. The monthly upkeep cost for ammo should equal about two steps less in price category than the weapon in question. 
+
+Or you can just not worry about keeping track of ammunition, especially in games where gunplay isn’t common.
+###### Contemporary
+>- [[Ammo-Box-of-50-Rounds|Ammo (Box of 50 Rounds)]]
+###### Advanced / Fantastic
+>- [[Energy-Pack-50-Shots|Energy Pack (50 Shots)]]
+>- [[Smart-Rounds-Box-of-4-Rounds|Smart Rounds (Box of 4 Rounds)]]
+##### Melee Weapons
+Any weapon that a character must use by swinging or stabbing at a target within immediate range is considered a melee weapon. Most contemporary melee weapons rely on the strength of the wielder.
+###### Contemporary
+>- [[Knife-Simple|Knife, Simple]]
+>- [[Knife-Hunting|Knife, Hunting]]
+>- [[Machete]]
+>- [[Nightstick]]
+>- [[Broad-Sword-Replica|Broad Sword, Replica]]
+>- [[Stun-Gun|Stun "Gun"]]
+###### Advanced 
+>-  [[Power-Fist|Power Fist]]
+>- [[Stunstick]]
+###### Fantastic
+>- [[Plasma-Saber|Plasma Saber]]
+##### Ranged Weapons
+Any weapon that fires a projectile or other destructive force at a target within short or longer range is considered a ranged weapon. 
+###### Contemporary
+>- [[Bow]]
+>- [[Hand-Grenade|Hand Grenade]]
+>- [[Rifle-Low-Caliber|Rifle, Low Caliber]]
+>- [[Handgun-Light|Handgun, Light]]
+>- [[Handgun-Medium|Handgun, Medium]]
+>- [[Handgun-Heavy]]
+>- [[Rifle-Assault|Rifle, Assault]]
+>- [[Rifle-Heavy|Rifle, Heavy]]
+>- [[Submachine-Gun|Submachine Gun]]
+>- [[Taser]]
+###### Advanced 
+>- [[Grenade-Sonic|Grenade, Sonic]]
+>- [[Grenade-Thermite|Grenade, Thermite]]
+>- [[Needler-Syringer|Needler Syringer]]
+>- [[Vacuum-Handgun-Heavy|Vacuum Handgun, Heavy]]
+>- [[Vacuum-Rifle-Heavy|Vacuum Rifle, Assault]]
+>- [[Foam-Restraint-Rifle|Foam Restraint Rifle]]
+>- [[Grapple-Gun|Grapple Gun]]
+>- [[Laser-Photon-Rifle|Laser Photon Rifle]]
+>- [[Rail-Gun|Rail Gun]]
+###### Fantastic
+>- [[Blaster-Light]]
+>- [[Blaster-Medium|Blaster, Medium]]
+>- [[Plasma-Grenade|Plasma Grenade]]
+>- [[Blaster-Goggles|Blaster, Goggles]]
+>- [[Blaster-Heavy-Rifle|Blaster, Heavy Rifle]]
+>- [[Blaster-Heavy-Pulse-Rifle|Blaster, Heavy Pulse Rifle]]
+>- [[Blaster-Cannon|Blaster Cannon]]
+
+>[!note] Blaster Weapons
+>**Optional Blaster Rule as the Default** 
+>
+>The advantage that blaster weapons have over other projectile and coherent light weapons is their ability to penetrate targets, which renders Armor less effective. This optional rule is presented as the default rule in The Stars Are Fire to demonstrate their superior tech level even over advanced tech weapons.
+
+### Equipment and Weapons as Artifacts
+Cypher System artifacts in a science fiction setting could potentially be any one of the items presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially unusual devices are everywhere. 
+> ```dataview 
+> LIST 
+> FROM #Compendium/CSRD/en/Artifacts AND #Artifact/Science-Fiction 
+> 
+> SORT file.name 
+> 
+> ```
+
+## Vehicles & Spacecraft
+>**Vehicle**
+>Technically speaking, spacecraft are also vehicles. Unless it’s important to make a distinction, assume all guidance here regarding “vehicles” also applies to spacecraft. 
+
+>**Spacecraft (and Starship)** 
+>When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term “spacecraft” is used for vehicles that travel beyond a single planet’s atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
+#### Variable Cost by Tech Rating
+Vehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating. 
+#### Contemporary Styling in Advanced or Fantastic Settings
+As previously indicated, vehicles listed as contemporary might be found in settings using advanced or fantastic tech, possibly at a lower price. However, the vehicles available in these future worlds are not (necessarily) antiques, but rather cheaply made objects, possibly with the veneer and stylings of vehicles suitable to the setting, and possibly the power source, too.
+#### Priceless Price Category
+A priceless item is something that even the very rich can’t afford, requiring the resources of a nation-state, or similar entity appropriate to the setting, to acquire or build.
+#### Fighting in a Vehicle
+If PCs are involved in combat in which they are only partly or lightly enclosed (or not at all enclosed, as in the case of most cycles, boards, and similar conveyances), use normal rules of combat, as modified by vehicular movement. However, if PCs are involved in a combat where they are completely enclosed in a vehicle with no possibility of openness to the environment through which they can fire weapons (so that it’s not really the characters fighting, but the vehicles), use the vehicular combat rules from the CSR. 
+If PCs are involved in space combat, see the [[Optional-Rules-Extended-Vehicular-Combat|extended vehicular combat rules]] described in this book, which provide all kinds of additional options.
+#### Driverless Vehicles
+If the rider, driver, or pilot activates self-driving as part of another action, riding, driving, and piloting tasks are automatically completed (or failed) according to the vehicle’s level, though all such self-driving tasks are hindered. However, the pilot is free to engage in other actions as the vehicle maneuvers to the best of its ability.
+
+This driverless function is also available on many spacecraft, courtesy of a shipmind, which is a sim AI that can control the ship’s functions as necessary. Shipminds control spacecraft at the spacecraft’s level, not their level, but are not subject to the task hindrance that more basic driverless vehicles suffer.
+#### Looking for More Vehicle Options
+A representative cross section of vehicles is provided. If you’re looking for something that isn’t noted, use something close and adapt the listing.
+>[!note]
+>Also note that unless a particular listing is already indicated as a luxury or sport version, most vehicles can be obtained in a luxury or sports package, either at the next price category up, or at double the indicated price.
+
+#### Customizing Vehicles
+Assuming the facilities are available, characters can pay for the customization of their vehicle to add a weapon system, add even more weapon systems, add superior weapon systems, or some other significant option. In most cases, the cost for such an upgrade is very expensive to exorbitant.
+### Planetary Vehicle Listing
+#### Cycles 
+##### Contemporary 
+> - [[Motorcycle-Dirt-Bike|Motorcycle, Dirt Bike]]
+> - [[Motorcycle-Cruiser|Motorcycle, Cruiser]]
+##### Advanced
+> - [[Motorcycle-Battle|Motorcycle, Battle]]
+> - [[Motorcycle-Omni-Terrain|Motorcycle, Omni-Terrain]]
+> - [[Vacuum-Cycle|Vacuum Cycle]] 
+##### Fantastic
+>- [[Hover-Speedster|Hover Speedster]] 
+>- [[Hard-Light-Cycle|Hard-Light Cycle]]
+>- [[Hover-Speedster-Battle|Hover Speedster, Battle]]
+ 
+#### Cars
+Buying a car at the bottom of its price range usually means the car isn’t top quality. Such vehicles have a depletion of 1 in 1d100 (check per day used)
+##### [[Wheeled-Vehicle-Gm-Intrusions|Wheeled Vehicle Gm Intrusions]]
+##### Contemporary 
+>- [[Car-Used|Car, Used]]
+>- [[Car-Sedan|Car, Sedan]] 
+>-  [[Car-Sports|Car, Sports]]
+>- [[Car-Utility|Car, Utility]]
+##### Advanced
+>- [[Hovercar]]
+>- [[Land-Ark|Land Ark]]
+>- [[Land-Ark-Battle|Land Ark, Battle]]
+>- [[Moon-Buggy|Moon Buggy]]
+##### Fantastic
+>- [[Car-Flying|Car, Flying]] 
+>- [[Car-Smart|Car, Smart]]
+#### Aircraft
+##### [[Hovering-and-Flying-Vehicle-Gm-Intrusions|Hovering and Flying Vehicle Gm Intrusions]]
+##### Contemporary 
+>- [[Airplane-Basic|Airplane, Basic]]
+>- [[Helicopter]]
+>- [[Fighter-Jet|Fighter Jet]]
+##### Advanced
+>- [[Cloud-Surfing-Board|Cloud Surfing Board]]
+>- [[Jetpack]]
+>- [[VTOL-Hyperjet|VTOL Hyperjet]]
+>- [[VTOL-Stealthjet|VTOL Stealthjet]]
+>- [[VTOL-Seawing|VTOL Seawing]]
+>- [[Zeppelin-Yacht|Zeppelin, Yacht]] 
+##### Fantastic
+>- [[Hoverboard]]
+>- [[Orb-Personal|Orb, Personal]]
+>- [[Hard-Light-Jet|Hard-Light Jet]]
+>- [[Teleportation-Disc|Teleportation Disc]]
+#### Seacraft
+##### [[Seacraft-Gm-Intrusions|Seacraft Gm Intrusions]]
+##### Contemporary 
+>- [[Jet-Ski|Jet Ski]]
+>- [[Motorboat]]
+>- [[Motorboat-Performance|Motorboat, Performance]]
+>- [[Submersible-Personal|Submersible, Personal]]
+>- [[Yacht]]
+>- [[Gunboat-Fast-Attack-Craft|Gunboat, Fast Attack Craft]]
+>- [[Submarine]]
+>- [[Warship-Destroyer|Warship, Destroyer]]
+##### Advanced
+>- [[Sub-Waterglide|Sub, Waterglide]]
+>- [[Yacht-Hydroplane|Yacht, Hydroplane]]
+>- [[Submarine-Supercavitation|Submarine, Supercavitation]]
+##### Fantastic
+>- [[Manta]]
+#### Mechs and Tanks
+##### Contemporary 
+>- [[Tank]]
+##### Advanced 
+>- [[Mech-Loader|Mech, Loader]]
+>- [[Mech-Infantry|Mech, Infantry]]
+>- [[Mech-Interceptor|Mech, Interceptor]] 
+##### Fantastic 
+>- [[Colossal-Battle-Mech|Colossal Battle Mech]] 
+### Spacecraft Listing
+Most spacecraft have the capacity to reach orbit from the surface of the planet, if not radically more advanced capabilities. All spacecraft completely enclose their crew in a sealed cabin (or series of chambers) with life support suitable for days, weeks, or much longer. Most spacecraft also come with one or more spare space suits, tools, a few spare parts, and so on. Advanced and fantastic spacecraft also have sensors that provide enough astronavigation information to plot and fly to their destinations. 
+
+PCs in spacecraft can travel to other moons, planets, space stations, and perhaps even other solar systems. PCs in spacecraft may also get caught up in space combat (see the [[Optional-Rules-Extended-Vehicular-Combat|Extended Vehicular Combat (Spacecraft Combat)]]) and run across space hazards.
+
+##### [[Spacecraft-Gm-Intrusions|Spacecraft Gm Intrusions]]
+##### Spacecraft Upkeep
+Each month of spacecraft operation usually requires that the PCs pay for fuel, feedstocks, and other upkeep. The level of the spacecraft determines upkeep. 
+
+| Level | Upkeep Cost    |
+|-------|----------------|
+| 1-2   | Moderate       |
+| 3-5   | Expensive      |
+| 6-7   | Very expensive |
+| 8-9   | Exorbitant     |
+| 10    | Priceless      |
+
+##### Solar System Travel Times 
+
+| Origin        | Destination           | Travel Time– Nuclear Plasma |
+|---------------|-----------------------|-----------------------------|
+| Venus         | Mercury               | 20 +120 days                |
+| Earth/moon    | Venus                 | 20 +1d20 days               |
+| Earth/moon    | Mars                  | 20 +1d20 days               |
+| Mars          | Asteroid Belt         | 30 +1d20 days               |
+| Asteroid Belt | Jupiter and its moons | 30 +1d20 days               |
+| Jupiter       | Saturn and its moons  | 60 +1d20 days               |
+| Saturn        | Uranus                | 90 +1d20 days               |
+| Uranus        | Neptune               | 100 +1d20 days              |
+| Neptune       | Pluto                 | 100 +1d20 days              |
+
+#### Retrofitting Power and Drives
+Older spacecraft and starships are often retrofitted with more advanced power sources, and more importantly, FTL drives, in order to give them the ability to move further. The main reason to do this is that such ships cost much less, especially if retrofitted advanced ships are available in a fantastic setting, but even for craft within the same tech rating. During vehicular combat, retrofitted ships are treated as if 1 level lower than their actual level for purposes of level comparison in combat if they are fighting FTL-capable fantastic-rated starships.
+##### Contemporary Power
+###### Solar Panels
+>Usually flat panels that convert sunlight to electricity, which can be used for a variety of onboard systems, including powering ion drives. 
+###### RTGs
+>When solar panels are not an option, as is often the case for spacecraft that operate far from the sun or on a planetary surface with lots of dust or shadow, RTGs (radioisotope thermoelectric generators) are good long-term power sources for electric power, which can be used for a variety of onboard systems, including powering ion drives. The heart of an RTG is an embedded mass of atomic isotope, such as plutonium-238. 
+##### Contemporary Drives 
+###### Rocket 
+>A rocket engine produces thrust by expelling reaction mass, usually in thundering expanding white clouds from the rocket’s base propulsion nozzle. Most contemporary spacecraft use a mix of several rockets and fuel types. Rockets are the primary constituent of a heavy-lift launch spacecraft. 
+###### Ion Thruster
+> on thrusters can use solar panels or RTGs (or both) to expel ions (or cations) to produce thrust over long periods, which allows a spacecraft to build up speed over large periods of time. The bleeding edge of contemporary ion thruster is VASIMR (Variable Specific Impulse Magnetoplasma Rocket), which could drastically reduce travel times around the solar system, if perfected.
+##### Advanced Power 
+######  Fusion Power
+>Electrical generation by using heat from nuclear fusion reactions, requiring relatively small fuel input for much higher-power output. Fuel sources include helium-3 (abundant on the Moon and other locations in the solar system without an atmosphere). 
+##### Advanced Drives 
+######  Nuclear Plasma
+.Essentially, nuclear plasma drives are just very advanced ion thrusters, the promised “perfected” version. These are great, unless the setting has fusion drives, in which case nuclear plasma drives may seem quaint. 
+##### Fusion Drive
+>Relying on fusion power, a fusion drive is an order of magnitude more efficient than a contemporary ion thruster. A fusion drive does not require the creation of electricity to ionize propellent, but instead directly uses the fusion product as an exhaust to provide thrust.
+##### Fantastic Power 
+###### Antimatter Power
+>Antimatter particles have opposite charge from their matter counterparts, giving them potentially explosive properties when combined, producing energy an order of magnitude more than a fusion power system. Fuel sources include both antimatter as well as Li2 (an atom with 2 lithium ions), important for controlled matter-antimatter reaction so it can be harnessed for power. 
+###### Singularity Power
+>Taps energy from Hawking radiation and rotational energy of a spinning micro-black hole to generate energy an order of magnitude more than nuclear power. Fuel source is a micro-black hole. 
+###### Zero-Point Generator
+>Vacuum energy is created by normal fluctuation in the quantum field of normal space-time. This zero-point radiation of the vacuum provides arbitrary (possibly limitless) amounts of energy with no fuel other than the initial resources required to build the generator. 
+##### Fantastic Drives 
+###### Warp Drive
+>A warp drive uses enormous power to distort the fabric of space-time to create a bubble surrounding the starship. The bubble moves by compressing space-time in front of it and expanding space-time behind it, moving independently of the rest of the universe to achieve apparent FTL travel. Warp drives can achieve objective speeds of up to 500 times the speed of light at maximum power.
+###### Hyperdrive
+>Similar to warp drive in some ways, but pushes the ship into a different realm of existence, often called hyperspace, where laws of physics differ significantly and many more dimensions are accessible, allowing a ship to greatly surpass the speed of light before returning to normal space. Hyperdrives can achieve objective speeds of up to 1000 times the speed of light at maximum power. 
+###### Wormhole Drive
+>A wormhole drive uses enormous power to open a shortcut between two locations in space-time and travel between those points in a matter of seconds. Most wormhole drives rely on regions of space where wormholes can be formed, or on previously established networks of wormhole tunnels that the wormhole drive accesses. Which means that while travel between two points might be almost instantaneous, travel to and from wormhole-viable locations could greatly increase travel times. Likewise, wormholes can normally only bridge locations up to 200 or so light-years at a time (which means it would take about 500 jumps to cross the Milky Way galaxy from end to end). 
+###### Dark Drive
+>A dark drive (short for “dark matter quantum drive”) uses enormous power to enable point-to-point transitions between other locations in the galaxy (or universe) using previously unrealized entanglement between normal matter and dark matter. However, objective travel time is variable and somewhat arbitrary; sometimes a trip may take minutes, other times days or months. For those aboard, relative travel time seems constant at about four solar hours, no matter the distance traveled, or the objective time noted by external observers.
+#### Pioneer-era Spacecraft
+Though extremely complex, pioneer-era spacecraft are not robust vehicles. Technology allowing re-use of components is still in its infancy in these contemporary tech spacecraft, and small problems have a way of becoming major catastrophes if not caught and quickly dealt with. In fact, that very complexity exacts a toll. 
+
+Generally speaking, all tasks for operating a pioneer-era spacecraft are hindered by two steps. Only the very well trained (or the very lucky) should even consider trying to operate such a craft. Finally, pioneer-era spacecraft usually don’t have weapon systems.
+##### Contemporary
+>- [[Space-Capsule|Space Capsule]]
+>- [[Rocket-Heavy-Lift-Launch|Rocket, Heavy-Lift Launch]]
+>- [[Shuttle-Launch|Shuttle, Launch]]
+#### Torpedos in Space Combat
+Once launched, self-guiding torpedoes engage smart-tracking systems to zero in on their assigned targets. The torpedo accelerates at 50 or more Gs towards its target, but at the extended distances in which many space battles occur, it may still take several rounds for a torpedo to finally home in on and strike (or ultimately miss) its target.
+#### Spacecraft
+Advanced spacecraft have advanced propulsion technologies, allowing them to move between planets within a single solar system, with transit times between planets varying from days to weeks (or more, if using a less efficient drive). Most advanced spacecraft can’t land on a planet’s surface unless noted, requiring some secondary craft or means to transfer crew and cargo.
+##### Advanced
+>- [[Wafercraft-Exploration|Wafercraft, Exploration]]
+>- [[Microcapsule]]
+>- [[Microcapsule-Fighter-Dart|Microcapsule, Fighter (Dart)]]
+>- [[Spacecraft-Racer|Spacecraft, Racer]]
+>- [[Spacecraft-Freighter|Spacecraft, Freighter]]
+>- [[Spaceplane]]
+>- [[Spaceplane-Combat-Claw|Spaceplane, Combat (Claw)]]
+>- [[Spacecraft-Solar-Sail|Spacecraft, Solar Sail]]
+>- [[Spacecraft-Dragonfly-Class|Spacecraft, Dragonfly Class]]
+>- [[Spacecraft-Exploration-Class|Spacecraft, Exploration Class]]
+>- [[Spacecraft-Corvette-Class|Spacecraft, Corvette Class]]
+>- [[Spacecraft-Destroyer-Class|Spacecraft, Destroyer Class]] 
+>- [[Spacecraft-Dreadnought|Spacecraft, Dreadnought]]
+>- [[Skyhook]]
+>- [[Space-Elevator|Space Elevator]]
+#### Starships
+Starships are spacecraft that have FTL technology, allowing them to move between different stars, with transit times ranging from days to months, or years in extreme cases. Starships are also often capable of planetary landings and ascent with some retrofitting before each planetfall.
+>[!note]
+>Starcraft (and other vehicles) of a higher tech rating involved in vehicular combat with craft of a lower tech rating are treated as if two levels higher when comparing relative levels for purposes of determining combat effectiveness.
+##### Fantastic
+>- [[Dagger-Fighter|Dagger Fighter]]
+>- [[Starship-Cargo-Passenger|Starship, Cargo Passenger]]
+>- [[Starship-Solo-Fighter|Starship, Solo Fighter]]
+>-  [[Starship-General-Purpose|Starship, General Purpose]]
+>- [[Starship-Discovery-Class|Starship, Discovery Class]]
+>- [[Starship-Warship-Class|Starship, Warship Class]]
+>- [[Starship-Capital-Class|Starship, Capital Class]]
+>- [[Starship-Omega-Class|Starship, Omega Class]]
+#### Stellar Gate
+Stellar gates open wormholes between two fixed points at different locations without crossing the space between. The complexity of building a stellar gate is so extreme that such technology is often ascribed to found portals and networks dating back to mysterious ancient ultras or by post-singularity AIs. As might be expected, gates have a fantastic tech rating, no matter how small.
+##### Fantastic
+>- [[Gate-Planetary|Gate, Planetary]]
+>- [[Gate-Interplanetary|Gate, Interplanetary]]
+>- [[Gate-Star|Gate, Star]]
+>- [[Gate-Galactic|Gate, Galactic]]
+>- [[Gate-Intergalactic|Gate, Intergalactic]]
+>- [[Gate-Interdimensional|Gate, Interdimensional]]
+#### Space-Time Vehicles
+Space-time vehicles allow for movement between different points in both space and time. Such vehicles are vanishingly rare, and timelines in which they are active tend to eventually snuff themselves out due to accidental paradox events, limiting their availability even further. As with stellar gates, space-time vehicles are so complex that it’s likely they are the product of ancient ultras or post-singularity AIs, and could be treated as artifacts with a depletion of 1 in 1d20.
+##### Fantastic
+>- [[Car-Temporal-or-Dimensional|Car, Temporal or Dimensional]] 
+>- [[Matrix-Temporal|Matrix, Temporal]]
+### Vehicles as Artifacts
+Cypher System artifacts in a science fiction setting could potentially be any one of the vehicles presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially weird and hard-to-grok objects are everywhere. 
+
+A couple of examples of such artifacts are presented here. 
+>- [[Gate-Ring|Gate Ring]]
+>- [[Fractal-Traveler|Fractal Traveler]]
+### Starships
+Here are a few sample starship types:
+
+| Starship    | Level             | Crew  | Weapon Systems |
+|-------------|-------------------|-------|----------------|
+| Fighter     | 1                 | 1     | 1              |
+| Interceptor | 2                 | 1     | 1              |
+| Freighter   | 3 (4 for defense) | 4     | 1              |
+| Frigate     | 4                 | 20    | 4              |
+| Cruiser     | 4                 | 25    | 5              |
+| Battleship  | 10                | 1,000 | 36             |
+
+“Crew” indicates the minimum number of people needed to operate the ship. Many ships can carry more passengers. “Weapon Systems” indicates the maximum number of different enemies the ship can target at once—but only one attack per target in any circumstance.
+(Since it’s frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.)
+
+[[Artificially-Intelligent]]
+
+## Effects of Gravity
+In a hard science fiction game, variable effects of gravity can’t be waved away by tech that simulates normal gravity on spacecraft, space stations, and other worlds. Instead, it’s an issue people must overcome.
+
+### Short-Term Microgravity Exposure
+>People new to low gravity might get space sickness. Newcomers must succeed on a difficulty 3 Might task or suffer mild nausea for about two to four days, during which time all their tasks are hindered. A few unlucky travelers (usually those who roll a 1 or otherwise face a GM intrusion) are almost completely incapacitated, and find all tasks hindered by three steps.
+### Long-Term Microgravity Exposure
+>Long-term exposure to microgravity environments without medical interventions degrades health. How long one spends in such conditions is directly relevant. The GM may assign long-term penalties to PCs if the situation warrants it, though the use of advanced space medicine, proper exercise, and recommended steroids and other hormones can avoid these complications.
+### Low Gravity
+>Weapons that rely on weight, such as all heavy weapons, inflict 2 fewer points of damage (dealing a minimum of 1 point). Short-range weapons can reach to long range, and long-range weapons can reach to very long range. Characters trained in low-gravity maneuvering ignore the damage penalty.
+### High Gravity
+>It’s hard to make effective attacks when the pull of gravity is very strong. Attacks (and all physical actions) made in high gravity are hindered. Ranges in high gravity are reduced by one category (very-long-range weapons reach only to long range, long-range weapons reach only to short range, and short-range weapons reach only to immediate range). Characters trained in high-gravity maneuvering ignore the change in difficulty but not the range decreases.
+### Zero Gravity
+>It’s hard to maneuver in an environment without gravity. Attacks (and all physical actions) made in zero gravity are hindered. Short-range weapons can reach to long range, and long-range weapons can reach to very-long range.
+## Effects of Vacuum
+Vacuum is lethal. There’s no air to breathe, and the lack of pressure causes havoc on an organic body. An unprotected character moves one step down the damage track each round. However, at the point where they should die, they instead fall unconscious and remain so for about a minute. If they are rescued during that time, they can be revived. If not, they die.
+## Traveling the Solar System and Orbital Mechanics
+In a hard science fiction setting, you might be interested in evoking the reality of travel times between colonies on planets and moons in the solar system. Even so, plotting a course between locations in the solar system isn’t simple, because everything is always moving with respect to everything else. You could determine exactly how long a trip would take with some internet research. Or you could just evoke the effect of orbital mechanics and varying accelerations on interplanetary travel. Use the Interplanetary Travel Table to do so. For a trip between locations not directly compared, add up the destinations in between. The travel times assume a nuclear plasma engine of a kind already being tested today (but better), a steady thrust toward the destination, and an equally long and steady braking thrust over the last half of the trip before orbit insertion. Such propulsion systems can change velocity and sustain thrust for days at a time, which reduces bone loss, muscle atrophy, and other long-term effects of low gravity.
+Regardless, the travel times between distant locations bring home one thing: space is big and lonely.
+### Interplanetary Travel
+
+| Origin                | Destination           | Travel Time Using |
+|-----------------------|-----------------------|-------------------|
+| Nuclear Plasma Engine |                       |                   |
+| Earth/Moon            | Mars                  | 20 + 1d20 days    |
+| Mars                  | Asteroid belt         | 30 + 1d20 days    |
+| Asteroid belt         | Jupiter and its moons | 30 + 1d20 days    |
+| Jupiter               | Saturn and its moons  | 60 + 1d20 days    |
+| Saturn                | Uranus                | 90 + 1d20 days    |
+
+## Science Fiction Species Descriptors
+In a science fiction setting, some GMs may want to offer alien species or androids, who are mechanically different from humans, as options for player characters. This can be accomplished by using descriptors. Two examples are below.
+>- [[Artificially-Intelligent|Artificially Intelligent]]
+>- [[Quintar]]

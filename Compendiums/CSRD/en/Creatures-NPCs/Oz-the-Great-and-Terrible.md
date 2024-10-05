@@ -1,6 +1,6 @@
 ---
 aliases:
-- Oz, the Great and Terrible
+- "Oz, the Great and Terrible"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

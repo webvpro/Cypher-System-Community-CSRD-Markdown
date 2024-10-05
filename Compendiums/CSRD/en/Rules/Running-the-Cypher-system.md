@@ -3,8 +3,6 @@ aliases:
   - "Running the Cypher System"
 tags:
   - Compendium/CSRD/en/Rules/Running-the-Cypher-System
-  - GM
-  - Rule/Setting-Difficulty-Rating
 ---
 # Running the Cypher System
 
@@ -57,12 +55,9 @@ For some people, it’s easier to think in terms of a percentage chance. A GM mi
 ### Advantages to This System
 1. The GM makes measured adjustments in large, uniform steps. That makes things faster than if players had to do arithmetic using a range of all numbers from 1 to 20.
 2. You calculate a target number only once no matter how many times the PCs attempt the action. If you establish that the target number is 12, it’s 12 every time a PC tries that action. (On the other hand, if you had to add numbers to your die roll, you’d have to do it for every attempt.) Consider this fact in light of combat. Once a player knows that they need to roll a 12 or higher to hit a foe, combat moves very quickly.  
-3. 
-4. If a PC can reduce the difficulty of an action to 0, no roll is needed. This means that an Olympic gymnast doesn’t roll a die to walk across a balance beam, but the average person does. The task is initially rated the same for both, but the difficulty is reduced for the gymnast. There’s no chance of failure.  
-5. 
-6. This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.
-7. 
-8. Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to) the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
+3. If a PC can reduce the difficulty of an action to 0, no roll is needed. This means that an Olympic gymnast doesn’t roll a die to walk across a balance beam, but the average person does. The task is initially rated the same for both, but the difficulty is reduced for the gymnast. There’s no chance of failure.  
+4. This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.
+5.  Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to) the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
 ## GM Intrusion  
 GM intrusion is the main mechanic that the GM uses to inject drama and additional excitement into the game. It’s also a handy tool for resolving issues that affect the PCs but do not involve them. GM intrusion is a way to facilitate what goes on in the world outside the characters. Can the minotaur track the PCs’ movements through the maze? Will the fraying rope hold?  
 
@@ -100,7 +95,7 @@ This mechanic offers a way for the GM to determine how things happen in the game
 
 This isn’t cheating it’s the rules of the game. This rule simply replaces traditional dice rolling with good game mastering, logic, and intelligent storytelling. When a PC is climbing a burning rope, and everyone knows that it will break at some point, the game has a mechanism to ensure that it breaks at just the right time.
 
->[!example]  Variant  
+#### Variant  
 >If you want more randomness in your game, or if you want your game to seem like more of a simulation, assign a flat percentage chance for whatever you’re trying to resolve. For example, each round, the star troopers have a 20% chance to blast through the door—or, if you want the risk to escalate, a cumulative 20% chance to blast through the door. By not using GM intrusion, this method robs the PCs of a few XP, but when they see you rolling dice, it might help with their immersion. Alternatively, you can pretend to roll dice but really use GM intrusion, though this method seriously robs the characters of XP.  
 >
 >There’s a better way. Announce your intrusion, but say that there’s only a chance it will happen (state the percentage chance), and then roll the dice in plain view of everyone. If the intrusion occurs, award the XP as normal. This is likely the best of both worlds. However, it takes the narrative power out of your hands and gives it to the dice. Perhaps this method is best used only occasionally. If nothing else, it injects some variety and certainly some drama.
@@ -121,7 +116,7 @@ When a PC rolls a 1, handle the GM intrusion the same way that you’d handle an
 >[!tip]  
 >This might not be true of your players, but many players rarely, if ever, spend XP to refuse an intrusion from the GM, though they regularly use XP to avoid an intrusion that comes from a bad roll. And there’s nothing wrong with that. Some GMs might want to forbid using an XP to reroll a 1, but there’s really no point—if you’ve got an idea for a good intrusion, you don’t need to wait until a player rolls a 1 to use it.
 
->[!example] GM Intrusion That Affects the Group  
+#### GM Intrusion That Affects the Group  
 >The core of the idea behind GM intrusion is that the player being adversely affected gains an experience point. But what if the intrusion affects the whole group equally? What if the GM uses it to have an unstable device overload and explode, harming all the characters? In this case, if no PC is involved more than the others (for example, no single PC was frantically attempting to repair the device), you should give 1 XP to each character but not give any of them an extra XP to hand out to someone else.  
 >
 >However, this kind of group intrusion should be an exception, not the rule. GM intrusions are much more effective if they are more personal.

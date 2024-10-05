@@ -1,6 +1,6 @@
 ---
 aliases:
-- Aine, Fairy Queen of Light an Love
+- "Aine, Fairy Queen of Light an Love"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

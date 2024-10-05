@@ -3,7 +3,8 @@ aliases:
 - Quintar
 tags:
 - Compendiums/CSRD/en/Descriptors
-- Descriptor
+- Descriptor/Sci-Fi
+- Descriptor/Species
 ---
 
 ## Quintar  

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Wolf, Big Bad
+- "Wolf, Big Bad"
 tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Boy Blue's Horn
+- "Boy Blue's Horn"
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
