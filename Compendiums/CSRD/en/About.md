@@ -1,3 +1,3 @@
 ## Table of contents
 
-[[How-to-Play]]
+[[How-to-play]]

@@ -249,10 +249,10 @@ Defense tasks are when a player makes a roll to keep something undesirable from 
 ### Intellect Defense
 >Used for fending off mental attacks or anything that might affect or influence one’s mind.
 
-### [[Warrior|Warrior]]
-### [[Adept|Adept]]
-### [[Explorer|Explorer]]
-### [[Speaker|Speaker]]
+### ![[Warrior#Warrior]]
+### ![[Adept#Adept]]
+### [[Explorer#Explorer]]
+### [[Speaker#Speaker]]
 ### [[Fantasy-Character-Options|Fantasy Character Options]]
 ### Further Customization
 The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
@@ -298,3 +298,6 @@ The full description for each listed ability can be found in the [[Abilities|Abi
 ### ![[Focus#Focus|Focus]] 
 ### ![[Abilities#Abilities]]
 ### ![[Equipment#Equipment]]
+
+
+# ![[INDEX#Cypher System Rules Index]]

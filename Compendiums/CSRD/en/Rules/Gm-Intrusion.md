@@ -24,4 +24,4 @@ If a player rolls a 1 on a die, the GM can intrude without giving the player any
 > During a fight, a PC swings their axe and damages a foe with a slice across the shoulder. The GM intrudes by saying that the foe turned just as the axe struck, wrenching the weapon from the character’s grip and sending it clattering across the floor. The axe comes to a stop 10 feet (3 m) away. Because the GM intruded, the PC gains 2 XP, and the player immediately gives one of those XP to another player. Now the character must deal with the dropped weapon, perhaps drawing a different weapon or using their next turn to scramble after the axe.
 
 >[!note]
->For much more on GM intrusions, see the [[Running-the-Cypher-System|Running the Cypher System]] chapter.
+>For much more on GM intrusions, see the [[Compendiums/CSRD/en/Rules/Running-the-Cypher-system|Running the Cypher System]] chapter.

@@ -104,7 +104,7 @@ Each artifact has a level and a rate of power depletion. When an artifact is use
 
 Depowered artifacts can sometimes be recharged using the repair rules, depending on the item’s nature. Other special abilities can also repower an expended item, but probably for only one use.
 
-For GM information on artifacts, see the [[Running-the-Cypher-System|Running the Cypher System]] chapter.
+For GM information on artifacts, see the [[Compendiums/CSRD/en/Rules/Running-the-Cypher-system|Running the Cypher System]] chapter.
 ### Finding, Identifying, and Using Artifacts
 Characters can sometimes find artifacts while on adventures. They might be in ancient ruins, either intact or in need of manipulation to get them working. They could have been stolen from well-guarded military installations. They might be granted as rewards or taken from fallen foes. Sometimes they can even be purchased from a specialized source, but this occurs more rarely than most PCs would probably like.
 

@@ -6,16 +6,14 @@ tags:
 ---
 # Cypher System Rules Index
 
->[!example]+  **How To Play the Cypher System** 
->[[How-to-play|How To Play]]
+>[!example]-  **How To Play the Cypher System** 
+>[[How-to-play#How to Play the Cypher System]]
 >>[[How-to-play#When Do You Roll?]]
->>- [[Task-Difficulty|Task Difficulty Table]]
->
+>>- [[How-to-play#Task-Difficulty Task Difficulty Table]]
 >[[How-to-play#Combat|Combat]]
 >>[[How-to-play#Light weapons|Light Weapons]]
 >> [[How-to-play#Medium weapons|Medium Weapons]]
 >>[[How-to-play#Heavy weapons|Heavy weapons]]
->
 >[[How-to-play#Special-Rolls]]
 >[[How-to-play#Glossary]]
 >[[How-to-play#Range-and-Speed]]
@@ -27,7 +25,7 @@ tags:
 >[[How-to-play#Cyphers]]
 >[[How-to-play#Other Dice]]
 
->[!example]+  **Creating your Character in Cypher System** 
+>[!example]-  **Creating your Character in Cypher System** 
 >[[Creating-Characters|Creating your Character]] 
 >[[Creating-Characters#Character Stats]]
 >>[[Creating-Characters#Might]]
@@ -39,38 +37,37 @@ tags:
 >>- [[Creating-Characters#Effort]]
 >>	-  [[Creating-Characters#Effort And Damage]]
 >>	-  [[Creating-Characters#Multiple Uses Of Effort And Edge]]
->> 
 >> [[Creating-Characters#Stat Examples]]
 >
 > [[Creating-Characters#Character Tiers]]
->> [[Creating-Characters#Increasing Capabilities]]
->> [[Creating-Characters#Moving Toward Perfection]]
->> [[Creating-Characters#Extra Effort]]
->> [[Creating-Characters#Other Options]]
+>>- [[Creating-Characters#Increasing Capabilities]]
+>>- [[Creating-Characters#Moving Toward Perfection]]
+>>-  [[Creating-Characters#Extra Effort]]
+>>- [[Creating-Characters#Other Options]]
 >
 > [[Creating-Characters#Character Descriptor, Type, And Focus]]
-> >[[Creating-Characters#Special Abilities]]
+>>[[Creating-Characters#Special Abilities]]
 >> [[Creating-Characters#Skills]]
->> -  [[Creating-Characters#Example List]]
->>
+>> -  [[Creating-Characters#Example  List]]
 >> [[Creating-Characters#Type]]
-> > -  [[Creating-Characters#Player Intrusion]]
-> > - [[Creating-Characters#Defense Tasks]]
-> > -  [[Creating-Characters#Warrior Warrior]]
-> > -  [[Creating-Characters#Adept Adept]]
-> > - [[Creating-Characters#Explorer Explorer]]
-> > - [[Creating-Characters#Speaker Speaker]]
-> > -  [[Creating-Characters#Fantasy-Character-Options Fantasy Character Options]]
-> > - [[Creating-Characters#Further Customization]]
-> > -   [[Creating-Characters#Modifying Type Aspects]]
-> > -  [[Creating-Characters#Drawbacks and Penalties]]
-> > -  [[Creating-Characters#Flavor|Flavor]]
->>
->>[[Creating-Characters#! Descriptor Descriptor Descriptor|Descriptor]]
->>[[Creating-Characters#! Focus Focus Focus|Focus]]
+>> -  [[Creating-Characters#Player Intrusion]]
+>> - [[Creating-Characters#Defense Tasks]]
+>> -  [[Creating-Characters#Warrior Warrior]]
+>> -  [[Creating-Characters#Adept Adept]]
+>> - [[Creating-Characters#Explorer Explorer]]
+>> - [[Creating-Characters#Speaker Speaker]]
+>
+> [[Creating-Characters#Fantasy-Character-Options Fantasy Character Options]]
+> 
+> [[Creating-Characters#Further Customization]]
+>>  [[Creating-Characters#Modifying Type Aspects]]
+>>  [[Creating-Characters#Drawbacks and Penalties]]
+>>  [[Creating-Characters#Flavor|Flavor]]
+>>  [[Creating-Characters#! Descriptor Descriptor Descriptor|Descriptor]]
+>>  [[Creating-Characters#! Focus Focus Focus|Focus]]
 >>[[Creating-Characters#! Equipment Equipment|Equipment]]
 
->[!example]+  **Rules of the Game** 
+>[!example]-  **Rules of the Game** 
 >[[Rules-of-the-Game#Rules of the Game|Rules of the Game]]
 >[[Rules-of-the-Game#This is How You Play the Cypher System]]
 >[[Rules-of-the-Game#Key Concepts]]
@@ -84,8 +81,8 @@ tags:
 >> [[Rules-of-the-Game#Initial Cost]]
 >> [[Rules-of-the-Game#Distance]]
 >> [[Rules-of-the-Game#Timekeeping]]
+>> [[Rules-of-the-Game#Actions]]
 >
->[[Rules-of-the-Game#Actions]]
 >[[Rules-of-the-Game#Magical-Rules-Module Magical Rules Module]]
 >[[Rules-of-the-Game#Fantasy-Rules-Module Fantasy Rules Module]]
 >[[Rules-of-the-Game#Followers]]
@@ -96,7 +93,7 @@ tags:
 >>[[Rules-of-the-Game#Sample Character Arcs]]
 
 >[!example]+  **Genres** 
->[[Genre#Genres]]
+>[[Genres#Genres]]
 >- [[Genre-Fantasy|Fantasy Rules Module]]
 >- [[Modern-Rules-Module|Modern Rules Module]]
 >- [[Science-Fiction-Rules-Module|Science Fiction Rules Module]]
@@ -167,10 +164,10 @@ tags:
 >### [[Optional-Modern-Fantasy-Rules|Modern Fantasy]]
 3. [[Focus|Focus  in Cypher System]]
 4. [[Abilities|Abilities  in Cypher System]]
-5. [[Compendiums/CSRD/en/Rules/Equipment|Equipment  in Cypher System]]
+5. [[Equipment|Equipment  in Cypher System]]
 13.
 14. [[Experience-Points|Experience Points]]
-15. [[Genre|Genres]]
+15. [[Genres|Genres]]
 16. #Compendium/CSRD/en/Creatures-NPCs 
 17. #Compendium/CSRD/en/Cyphers 
 18. [[Rules/Cypher/Running-the-Cypher-system|Running the Cypher System]]

@@ -854,18 +854,5 @@ This chapter has a selection of sample character arcs, but you can create your o
 >FROM #Character-Arc 
 >SORT file.name
 >```
-### Genres
-The Cypher System can be used to play in many settings. This chapter provides additional information and rules for fantasy, modern, science fiction, horror, romance, superheroes, post-apocalyptic, fairy tale, and historical genres.
-#### [[Genre-Fantasy|Fantasy]]
-#### [[Modern-Rules-Module|Modern Rules Module]]
-#### [[Science-Fiction-Rules-Module|Science Fiction Rules Module]]
 
-## Character Options
-###   [[Modern-Magic-Character-Options|Modern Magic Character Options]]
-###  [[Fantasy-Character-Options|Fantasy Character Options]]
-### [[Superhero-Character-Options|Superhero Character Options]]
-### [[Fairytale-Character-Options|Fairytale Character Options]]
-## Artifacts 
-#### [[Modern-Magic-Artifacts]]
-
-##
+## ![[INDEX#Cypher System Rules Index]]

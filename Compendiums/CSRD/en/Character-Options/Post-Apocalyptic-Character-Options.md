@@ -27,7 +27,7 @@ may or may not be appropriate for your players, depending on your setting.
 >[[Canien|Canien]]
 >[[Felis|Felis]]
 >[[Flutter|Flutter]]
->[[Mutant|Mutant]]
+>[[Mu tant|Mutant]]
 
 >[!note]
 >The Scavenges focus can be used as written in the Cypher System Rulebook, but whenever the abilities point to the scavenging rules and tables from the rulebook (including Ruin Lore, Junkmonger, Know Where to Look, and other abilities), use the optional rule for scavenging, repairing, and building in this book instead.
@@ -35,5 +35,7 @@ may or may not be appropriate for your players, depending on your setting.
 ### Foci  
 This section presents new post-apocalyptic foci that can be used as-is in most games set after civilization falls. As these were created specifically for the post-apocalyptic genre, each has an expanded description with more story details than the foci in the Cypher System Rulebook (which have short, broad descriptions suitable for other genres).
 
->[[Merges-Mind-with-Machine|Merges Mind with Machine]]
->
+[[Merges-Mind-with-Machine|Merges Mind with Machine]]
+[[Prepped-for-the-End|Prepped for the End]]
+[[Raids]]
+[[Walks-the-Wasteland|Walks the Wasteland]]

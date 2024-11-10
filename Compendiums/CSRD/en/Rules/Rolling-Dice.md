@@ -45,7 +45,7 @@ GM intrusion is explained in more detail in the Running the Cypher System chapte
 
 >For GM intrusion on a defense roll, a roll of 1 might mean that the PC takes 2 additional points of damage from the attack, indicating that the opponent got in a lucky blow.  
 >[!tip] 
->For complete details about GM intrusion and how to use it to best effect in the game, see the [[Running-the-Cypher-System|Running the Cypher System]] chapter.
+>For complete details about GM intrusion and how to use it to best effect in the game, see the [[Compendiums/CSRD/en/Rules/Running-the-Cypher-system|Running the Cypher System]] chapter.
 
 ####  Minor Effect  
 >A minor effect happens when a player rolls a natural 19. Most of the time, a minor effect is slightly beneficial to the PC, but not overwhelming.

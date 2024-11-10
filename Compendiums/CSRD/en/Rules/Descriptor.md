@@ -21,23 +21,13 @@ This section details fifty descriptors. Choose one of them for your character. Y
 ## List of Descriptors
 
 The descriptors available are:
+```dataview 
+TABLE WITHOUT ID
+file.link AS "Descriptor"
+FROM #Compendiums/CSRD/en/Descriptors 
+SORT file.name
+```
 
-| Descriptor                                                   |                                              |                           |                                   |
-| ------------------------------------------------------------ | -------------------------------------------- | ------------------------- | --------------------------------- |
-| [[Appealing]]   | [Beneficent](Compendium/Cypher/Descriptors/Beneficent.md) | [Brash](Compendium/Cypher/Descriptors/Brash.md)     | [Calm](Compendium/Cypher/Descriptors/Calm.md)         |
-| [Chaotic](Compendium/Cypher/Descriptors/Chaotic.md)         | [Charming](Compendium/Cypher/Descriptors/Charming.md)    | [Clever](Compendium/Cypher/Descriptors/Clever.md)   | [Clumsy](Compendium/Cypher/Descriptors/Clumsy.md)     |
-| [Craven](Compendium/Cypher/Descriptors/Craven.md)           | [Creative](Compendium/Cypher/Descriptors/Creative.md)  | [Cruel](Compendium/Cypher/Descriptors/Cruel.md)     | [Dishonorable](Compendium/Cypher/Descriptors/Dishonorable.md) |
-| [Doomed](Compendium/Cypher/Descriptors/Doomed.md)           | [Empathic](Compendium/Cypher/Descriptors/Empathic.md)  | [Exiled](Compendium/Cypher/Descriptors/Exiled.md)     | [Fast](Compendium/Cypher/Descriptors/Fast.md)         |
-| [Foolish](Compendium/Cypher/Descriptors/Foolish.md)         | [Graceful](Compendium/Cypher/Descriptors/Graceful.md)  | [Guarded](Compendium/Cypher/Descriptors/Guarded.md)   | [Hardy](Compendium/Cypher/Descriptors/Hardy.md)       |
-| [Hideous](Compendium/Cypher/Descriptors/Hideous.md)         | [Honorable](Compendium/Cypher/Descriptors/Honorable.md) | [Impulsive](Compendium/Cypher/Descriptors/Impulsive.md) | [Inquisitive](Compendium/Cypher/Descriptors/Inquisitive.md) |
-| [Intelligent](Compendium/Cypher/Descriptors/Intelligent.md) | [Intuitive](Compendium/Cypher/Descriptors/Intuitive.md) | [Jovial](Compendium/Cypher/Descriptors/Jovial.md)     | [Kind](Compendium/Cypher/Descriptors/Kind.md)         |
-| [Learned](Compendium/Cypher/Descriptors/Learned.md)         | [Lucky](Compendium/Cypher/Descriptors/Lucky.md)        | [Mad](Compendium/Cypher/Descriptors/Mad.md)           | [Mechanical](Compendium/Cypher/Descriptors/Mechanical.md) |
-| [Mysterious](Compendium/Cypher/Descriptors/Mysterious.md)   | [Mystical](Compendium/Cypher/Descriptors/Mystical.md)  | [Naive](Compendium/Cypher/Descriptors/Naive.md)       | [Perceptive](Compendium/Cypher/Descriptors/Perceptive.md) |
-| [Resilient](Compendium/Cypher/Descriptors/Resilient.md)     | [Risk-Taking](Compendium/Cypher/Descriptors/Risk-Taking.md) | [Rugged](Compendium/Cypher/Descriptors/Rugged.md)     | [Sharp-Eyed](Compendium/Cypher/Descriptors/Sharp-Eyed.md) |
-| [Skeptical](Compendium/Cypher/Descriptors/Skeptical.md)     | [Stealthy](Compendium/Cypher/Descriptors/Stealthy.md)  | [Strong](Compendium/Cypher/Descriptors/Strong.md)     | [Strong-Willed](Compendium/Cypher/Descriptors/Strong-Willed.md) |
-| [Swift](Compendium/Cypher/Descriptors/Swift.md)             | [Tongue-Tied](Compendium/Cypher/Descriptors/Tongue-Tied.md) | [Tough](Compendium/Cypher/Descriptors/Tough.md)       | [Vicious](Compendium/Cypher/Descriptors/Vicious.md)   |
-| [Virtuous](Compendium/Cypher/Descriptors/Virtuous.md)       | [Weird](Compendium/Cypher/Descriptors/Weird.md)        |                           |                                   |
-^Cypher-List-Descriptors
 
 ## Customizing Descriptors
 

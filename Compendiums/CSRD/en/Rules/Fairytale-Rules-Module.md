@@ -216,8 +216,368 @@ of triggering a minor special effect or major special effect, respectively. In f
 >- A shapeshifting or disguise spell or ability works so well that the foe’s familiar or companion runs off, afraid to continue the fight.
 
 #### Creating Your Character
-##### ![[Fairytale-Character-Options#Fairytale Character Options|Fairytale Character Options]]
+##### Form Vs. Function
+>In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, and a human the size of your thumb. And that’s perfectly fine. Build your character sentence in a way that plays to your character’s strengths and weaknesses, and the rest can be handled through story and narrative. Playing a talking bear, a gingerbread man, or a changeling will likely affect your character’s appearance, their outlook on life, and their backstory, but it doesn’t necessarily affect their abilities, skills, and Pools beyond what you choose during character creation.
+>
+>Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
+##### Skills
+As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include: 
+• Talking animals*
+• Talking nature*
+• Trickery
+• Using magic 
+• Weather
+• Baking
+• Cobbling 
+• Curses
+• Dancing 
+• Death
+• Magic
+• Playing an instrument 
+• Puzzles
+• Riddles
+• Sailing
+• Sensing magic 
+• Singing
+Remember that only skills gained through character type abilities or in other rare instances allow you to become skilled with attack or defense tasks. Thus, all magic skills are noncombat skills only.
 
+>* These skills could be used in a number of different ways, depending on the setting. If the setting has talking animals that the players can’t understand, the talking animals skill could help a PC communicate with them in other ways. If there are talking animals that the characters can understand, the skill could provide an asset in social interactions.
+
+##### Type
+Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter. 
+
+###### Suggested Types for a Fairy Tale Game
+Type Name and Flavor Suggestions
+
+####### [[Warrior]]
+>Huntsman, Skills and knowledge, stealth
+>Knight 
+>Woodcutter 
+>Guard 
+>Archer, Stealth
+
+####### [[Adept]]
+>King/queen
+>Wizard/witch, Magic, skills and knowledge
+>Chosen one
+>- Apprentice
+>- Magical being (genie, spirit, faerie, and so on)
+
+####### [[Explorer]]
+>Adventurer 
+>Dreamer Seeker 
+>Sailor/seafarer, Combat
+>Wanderer 
+>Outlaw, Combat Stealth
+>Thief, Stealth
+>Wolf, Combat Stealth
+
+####### [[Speaker|Speaker]]
+>Aristocrat 
+>Princess/prince 
+>Entertainer 
+>Helper, Magic
+>Trickster, Skills and Knowledge
+
+##### Descriptor
+Your descriptor is what defines your character—it changes the way you tackle every action that you take. Your descriptor places your character in their current situation or adventure, and helps provide a sense of their motivations.
+
+###### Suggested Descriptors for a Fairy Tale Game
+The following descriptors are appropriate for fairy tale settings. Other descriptors from the Cypher System Rulebook may be appropriate but would require consulting with your GM to determine how such a character might get involved in the campaign.
+ - [[Appealing]]
+ - [[Beneficent]]
+ - [[Brash]]
+ - [[Compendiums/CSRD/en/Descriptors/Calm|Calm]]
+- [[Chaotic|Chaotic]]
+- [[Charming]]
+- [[Clever]]
+- [[Craven]]
+- [[Creative|Creative]]
+- [[Dishonorable]] 
+- [[Doomed]]
+- [[Empathic]]
+- [[Exiled]]
+- [[Foolish|Foolish]]
+- [[Guarded]]
+- [[Honorable]] 
+- [[Impulsive]] 
+- [[Inquisitive]] 
+- [[Intelligent]] 
+- [[Intuitive]]
+- [[Jovial]]
+- [[Kind]]
+- [[Mad]]
+- [[Mysterious]]
+- [[Naive]]
+- [[Perceptive]]
+- [[Resilient]]
+- [[Risk-Taking|Risk Taking]]
+- [[Skeptical]]
+- [[Strong|Strong]]
+- [[Strong-Willed|Strong-Willed]] 
+- [[Tongue-Tied|Tongue-Tied]] 
+- [[Vicious]]
+- [[Virtuous]]
+- [[Weird]]
+###### Heartwood Descriptors
+• [[Bewitched]] 
+• [[Changeling]]
+• [[Fragmented]] 
+• [[Frumious]]
+• [[Haunted]] 
+• [[Lost]]
+
+##### Focus
+Your focus makes your character unique.
+It gives you benefits when you create your character and each time you ascend to the next tier. When you choose a focus, it gives you a first-tier ability, a special connection to one or more of your fellow PCs, and possibly some starting equipment.
+
+###### Suggested Foci for a Fairy Tale Game
+- [[Abides-in-Stone|Abides in Stone]]
+- [[Absorbs-Energy|Absorbs Energy]]
+- [[Awakens-Dreams|Awakens Dreams]]
+- [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]]
+- [[Blazes-with-Radiance|Blazes with Radiance]]
+- [[Brandishes-an-Exotic-Shield|Brandishes an Exotic Shield]]
+- [[Channels-Divine-Blessings|Channels Divine Blessings]]
+- [[Commands-Mental-Powers|Commands Mental Powers]]
+- [[Conducts-Weird-Science|Conducts Weird Science]]
+- [[Consorts-with-the-Dead|Consorts with the Dead]]
+- [[Controls-Beasts|Controls Beasts]]
+- [[Controls-Gravity|Controls Gravity]]
+- [[Crafts-Illusions|Crafts Illusions]]
+- [[Crafts-Unique-Objects|Crafts Unique Objects]]
+- [[Dances-with-Dark-Matter|Dances with Dark Matter]]
+- [[Defends-the-Gate|Defends the Gate]]
+- [[Defends-the-Weak|Defends the Weak]]
+- [[Descends-From-Nobility|Descends From Nobility]]
+- [[Doesnt-Do-Much|Doesn't Do Much]]
+- [[Emerged-From-the-Obelisk|Emerged From the Obelisk]]
+- [[Employs-Magnetism|Employs Magnetism]]
+- [[Entertains|Entertains]]
+- [[Exists-in-Two-Places-at-Once|Exists in Two Places at Once]]
+- [[Exists-Partially-Out-of-Phase|Exists Partially Out of Phase]]
+- [[Explores-Dark-Places|Explores Dark Places]] 
+- [[Fights-Dirty|Fights Dirty]]
+- [[Fights-with-Panache|Fights with Panache]] 
+- [[Focuses-Mind-over-Matter|Focuses Mind over Matter]]
+- [[Grows-to-Towering-Heights|Grows to Towering Heights]] 
+- [[Helps-Their-Friends|Helps Their Friends]]
+- [[Howls-at-the-Moon|Howls at the Moon]]\
+- [[Hunts|Hunts]]
+- [[Infiltrates|Infiltrates]]
+- [[Is-Wanted-by-the-Law|Is Wanted by the Law]] 
+- [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
+- [[Leads]]
+- [[Learns-Quickly|Learns Quickly]]
+- [[Lives-in-the-Wilderness|Lives in the Wilderness]]
+- [[Looks-for-Trouble|Looks for Trouble]]
+- [[Masters-Defense|Masters Defense]]
+- [[Masters-Spells|Masters Spells]]
+- [[Masters-the-Swarm|Masters the Swarm]]
+- [[Masters-Weaponry|Masters Weaponry]]
+- [[Metes-Out-Justice|Metes Out Justice]]
+- [[Moves-Like-a-Cat|Moves Like a Cat]]
+- [[Moves-Like-the-Wind|Moves Like the Wind]] 
+- [[Murders]]
+- [[Needs-No-Weapon|Needs No Weapon]]
+- [[Never-Says-Die|Never Says Die]]
+- [[Performs-Feats-of-Strength|Performs Feats of Strength]]
+- [[Rages]]
+- [[Rides-the-Lightning|Rides the Lightning]]
+- [[Runs-Away|Runs Away]]
+- [[Scavenges]]
+- [[Sees-Beyond|Sees Beyond]]
+- [[Separates-Mind-From-Body|Separates Mind From Body]]
+- [[Shepherds-the-Community|Shepherds the Community]]
+- [[Shepherds-Spirits|Shepherds Spirits]]
+- [[Shreds-the-Walls-of-the-World|Shreds the Walls of the World]]
+- [[Slays-Monsters|Slays Monsters]]
+- [[Solves-Mysteries|Solves Mysteries]]
+- [[Speaks-for-the-Land|Speaks for the Land]]
+- [[Stands-Like-a-Bastion|Stands Like a Bastion]]
+- [[Throws-with-Deadly-Accuracy|Throws with Deadly Accuracy]]
+- [[Travels-Through-Time|Travels Through Time]]
+- [[Was-Foretold|Was Foretold]]
+- [[Wields-Two-Weapons-at-Once|Wields Two Weapons at Once]]\
+- [[Works-for-a-Living|Works for a Living]]
+- [[Works-Miracles|Works Miracles]]
+- [[Would-Rather-Be-Reading|Would Rather Be Reading]]
+###### Heartwood Foci
+• [[Befriends-the-Black-Dog|Befriends the Black Dog]]  
+• [[Curses-the-World]]
+• [[Feigns-No-Fear|Feigns No Fear]]
+• [[Lived-Among-the-Fey|Lived Among the Fey]]
+
+###### Adjusted Foci
+[[Battles-Robots|Battles Robots]], [[Builds-Robots|Builds Robots]], [[Talks-to-Machines|Talks to Machines]]
+Best for settings that include elements of science fiction. Alternatively, “robots” can be a stand-in for puppets, steampunk entities, golems, or other creations such as Pinocchio, Edward Scissorhands, the Gingerbread Man, and the Tin Man. Mister Geppetto would likely be someone who Builds Robots, while Muska (from Miyazaki’s film Laputa: Castle in the Sky) might be someone who Battles Robots.
+
+[[Drives-Like-a-Maniac|Drives Like a Maniac]]
+Best for modern settings or those where traditional fairy tale vehicles such as horse-drawn carriages, magic carpets, witch’s brooms, and chicken-legged huts are common.
+
+[[Fuses-Flesh-and-Steel|Fuses Flesh and Steel]], [[Fuses-Mind-and-Machine|Fuses Mind and Machine]]
+Best for steampunk or weird science mashups. Edward Scissorhands and the Tin Man are probably characters who Fuse Flesh and Steel. Alternatively, renaming the foci to Fuses Flesh and Magic or Wants to Become a Real Boy can provide characters with the same benefits from a more magical-sounding source.
+
+[[Is-Licensed-to-Carry|Is Licensed to Carry]]
+With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon. 
+
+[[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]]
+With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
+
+#####  Fairy Tale Character Arcs
+Character arcs are fantastic opportunities for players to deepen their roleplaying options, add to the narrative, and set goals that can intertwine with and strengthen a campaign or adventure. While character arcs aren’t a requirement, they work particularly well in fairy tale games, where individual goals and tasks are often at the forefront of what drives adventures.
+
+Players can pick from any of the sample character arcs in the Cypher System Rulebook, make up their own (with the assistance and approval of the GM), or choose one of the new character arcs created specifically for the Heartwood setting.
+
+##### Equipment
+Most weapons that are powered by magic, such as wands, operate exactly like a regular weapon; they just do their damage using magic.
+
+Equipment and weapons with unique magic abilities are typically considered to be cyphers or artifacts.
+
+##### Currency
+In most fairy tales, money isn’t precise. Someone might be poor or rich. They might find a bag of gold or a chest full of jewels. They might be the richest man in the town or have nothing but a tired old cow to their name. But typically what they don’t have is “one gold piece” or “thirty farthings” to their name. This means that whatever your fairy tale setting, you can think in general terms of money instead of keeping meticulous track of every penny, farthing, gold coin, or dollar.
+
+To keep things easy, no matter what currency your characters use, think of money as being in simple amounts that scale up, such as a copper coin, a silver coin, and a gold coin. These could easily equate to the inexpensive, moderate, and expensive items on the equipment list. Items that are very expensive might be worth a bag of silver, while exorbitant items might be worth a bag of gold.
+
+Additionally, if the PCs are completing a character arc, accomplishing a task, or doing some other type of action to receive a piece of equipment, you can use the price category to decide how complicated or difficult that task is. A moderately priced item likely requires completing a moderately difficult task, while an exorbitant item may require something that taxes the PCs and really puts their skills and dedication to the test.
+
+##### Signature Items
+In fairy tales, clothing, weapons, and other items that a character carries for a long time tend to be very personal and very important. They’re often unique and handcrafted,
+they may have names or stories that go with them, and because characters tend to keep them for a long time, they may have undergone repairs or have markings that tell something about the character’s background.
+##### Apparel and Armor
+In most cases, characters start out by wearing any type of clothing they choose. Typically (unless the GM decides otherwise or unless it is designated as armor),
+this clothing is purely for decorative and roleplaying purposes and offers no additional benefits.
+
+However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks. 
+##### Optional Rule: I Have That!
+>In fairy tales, characters often have exactly the right mundane piece of equipment
+that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified 
+> “Pocket Item” in that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
+> 
+>Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
+>
+>The GM has veto power over items that they don’t think you could have found or carried.
+Using the I Have That! rule doesn’t preclude PCs from also purchasing these items directly. For example, if a character who sews wants to buy a thimble and an inexpensive Pocket Item, they can. However, they cannot later turn the thimble into a Pocket Item; it remains a thimble.
+
+###### Example Pocket Items
+###### Inexpensive
+• Apple
+• Ashes (handful)
+• Breadcrumbs
+• Butter
+• Candy
+• Chalk
+• Cricket in a cage
+• Cup
+• Egg
+• Fabric
+• Flyswatter
+• Glass jar
+• Glue
+• Honey
+• Leather
+• Magnets
+• Marbles
+• Nails
+• Needle and thread
+• Paper
+• Plait of hair
+• Pot of fat
+• Pot of grease 
+• Ribbon
+• Rice (handful) 
+• Straw
+• Tacks
+• Wax
+• Wool
+###### Moderate
+>- Bird in a cage
+>- Sewing shears
+>- Thimble
+##### Clothing
+###### Inexpensive
+>- Gloves or mittens
+>- Hat or hood
+###### Moderately Priced
+> - Cloak or coat
+> - Specialized outfit (craftsman, baker, guard, and so on)
+> - Wizard or enchanter’s outfit
+###### Very Expensive
+> -Elegant cloak or coat
+> Royal ensemble
+> Suit or ballgown
+###### Exorbitant
+> - Elegant, bespoke clothing suitable for moving in elite circles (provides an asset in interaction tasks)
+##### Weapons and Protective Gear 
+###### Inexpensive
+> - Ammunition (12 arrows, 12 crossbow bolts, and so on)
+###### Moderately Priced 
+>- Light weapons (knives, handaxe, hairpin, darts, wand, slingshot, and so on)
+>- Light armor (hides and furs, thieves’ armor, leather jerkin, padded coat, and so on)
+###### Expensive 
+>- Medium weapon (club, sword, battleaxe, mace, crossbow, spear, staff, and so on)
+>- Medium armor (breastplate, brigade, chainmail, and so on)
+###### Very Expensive
+>- Heavy weapon (huge sword, great hammer, massive axe, halberd, heavy crossbow, and so on)
+>- Heavy armor (full plate armor)
+###### Exorbitant
+>- Jeweled, ornate, royal, or bespoke weapon
+>- Jeweled, ornate, royal, or bespoke armor
+
+>Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
+##### Basic Equipment
+###### Inexpensive 
+>- Candle
+>- Chalk (3)
+>- Day’s rations
+>- Meal, decent
+>- Sack
+>- Sewing kit
+>- Sharpening stone
+>- String or yarn
+>- Thimble
+>- Tinder and flint
+>- Torch (3)
+>- Vial
+###### Moderately Priced
+>- Backpack
+>- Bedroll
+>- Book
+>- Box, small
+>- Deck of cards
+>- Game
+>- Lantern
+>- Meal, fine dining
+>- Metal file
+>- Mining pick
+>- Mirror, hand
+>- Quill, ink and paper (2 pieces)
+>- Rope (50 feet)
+>- Tent
+>- Waterskin or flask
+###### Expensive
+>- Bag of heavy tools
+>- Bag of light tools
+>- Box, medium
+###### Very Expensive 
+>- Charon’s obol. Imbued coin. 
+>>Placed in the mouth of a dead person prior to burial as payment to Charon, the ferryman, for conveying the soul to its proper resting place.
+>- Disguise kit/potion. Asset for disguise tasks.
+>- Healing kit/potion. Asset for healing tasks.
+>- Protective charm. Church bell, four-leaf clover, rabbit’s foot, and so on. Asset on defense rolls against fairies and other fey-like creatures.
+>- Handheld scrying mirror. Asset for initiative tasks when held in hand or worn.
+##### Travel
+###### Moderately Priced 
+>- Common transportation, rental (horse-drawn carriage, boat, mount, and so on)
+>- Lodging, shared room or shed, meager
+###### Expensive
+>- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, renting magic transportation includes a guide, driver, or other person who can power and operate the vehicle. For example, a levitating mortar can only be driven by a witch of a certain age.
+>- Common transportation, purchase (horse-drawn carriage, boat, mount, and so on)
+>- Lodging, solo room, decent
+###### Very Expensive 
+>- Lodging, whole building or large room
+###### Exorbitant 
+>- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, it’s also necessary to hire a guide, driver, or other person who can control and power the vehicle. Alternatively, characters must take a class, learn a spell, or meet other magic requirements in order to operate the vehicle.
 
 ### Cyphers and Artifacts
 Because magic and thus magic items are so prevalent in most fairy tales, cyphers in particular should be easy for characters to replenish. If you’re using subtle cyphers, you can choose how they arrive—on magic storms, perhaps, or in pockets of magic that exist throughout the world. Or maybe the magic is such that it just works, ensuring that cyphers show up whenever the characters need them.
@@ -484,7 +844,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 • [[Fire-Elemental|Elemental, Fire]]
 • [[Elemental-Thorn|Elemental, Thorn]]
 • [[Elemental-Water|Elemental, Water]]
-• [[Compendiums/CSRD/en/Creatures-NPCs/Ghost|Ghost]]
+• [[Gargoyle|Ghost]]
 • [[Ghoul]]
 • [[Giant]]
 • [[Goblin]]
@@ -573,7 +933,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 | [[Devil\|Devil]]        |
 | [[Djinni]]       |
 | [[Fallen-Angel]] |
-| [[Ghost]]        |
+| [[Compendiums/CSRD/en/Abilities/Ghost]]        |
 | [[Ghoul]]        |
 | [[Skeleton]]     |
 
@@ -857,3 +1217,21 @@ Creatures of water and waves are those that inhabit or are deeply tied to the ri
 ##### [[Dame-Gothel#Dame Gothel|Dame Gothel]]
 ##### [[The-Sea-Witch#The Sea Witch|The Sea Witch]]
 ##### [[The-Wicked-Witch-of-the-West#The Wicked Witch of the West|The Wicked Witch of the West]]
+
+
+#### NPCs
+The NPCs in the following section are general examples of nonmagical, mortal human characters that are commonly found in fairy tales.
+
+From General to Specific: While the NPCs listed here are general types, such as crafter and robber, it’s easy to turn them into specific characters from common and well-known fairy tales. For example, with a little tweaking, you can turn a generic tailor into the tailor from The Brave Little Tailor. Just give the crafter NPC a banner that says “SEVEN WITH ONE BLOW” and embrace a jaunty, overconfident nature, and you have the titular character.
+Health, Not Pools: Remember that NPCs don’t have stat Pools. Instead, they have a characteristic called health. When an NPC takes damage of any kind, the amount
+is subtracted from their health. Unless described otherwise, an NPC’s health
+is always equal to their target number. Some NPCs might have special reactions to or defenses against attacks that would normally deal Speed damage or Intellect damage, but unless the NPC’s description specifically explains this, assume that all damage is subtracted from the NPC’s health.
+
+Naming Your NPCs: You might have noticed that in fairy tales, many characters —especially those of the lower or working classes—don’t have a name beyond their title, position, or profession (or sometimes their marriage status). “The Woodcutter,” “the Tailor,” “the Baker’s wife,” and so on. While you could follow suit and just call your NPC “the Woodcutter,” most player characters are going to ask that person their name. It’s likely to break immersion if you throw in a modern name, or if the NPC tries to explain that they don’t have one, they’re just called “the Woodcutter.” And if you call them all Jack, then no one (including you) will remember which one is which. Consider coming up with a list of names ahead of time so that you’re always ready to give players something to call a new walk-on character. 
+
+[[Aristocrat]]
+[[Child]]
+[[Compendiums/CSRD/en/Creatures-NPCs/Crafter|Crafter]]
+[[Huntsman|Huntsman/Woodsman]]
+[[Robber]]
+[[Scholar]]

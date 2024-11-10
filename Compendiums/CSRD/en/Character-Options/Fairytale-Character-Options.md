@@ -5,10 +5,40 @@ tags:
   - Character/Options/Fairytale
 ---
 ## Fairytale Character Options
-### Form Vs. Function
->In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, and a human the size of your thumb. And that’s perfectly fine. Build your character sentence in a way that plays to your character’s strengths and weaknesses, and the rest can be handled through story and narrative. Playing a talking bear, a gingerbread man, or a changeling will likely affect your character’s appearance, their outlook on life, and their backstory, but it doesn’t necessarily affect their abilities, skills, and Pools beyond what you choose during character creation.
->
->Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
+### Fairytale Descriptors
+[[Bewitched]]
+[[Changeling]]
+[[Fragmented]]
+[[Frumious]]
+[[Haunted]]
+[[Lost]]
+
+### Fairytale Foci
+Below the description of each focus, you’ll find its abilities. The details of these abilities can be found in the Cypher System Rulebook.
+
+[[Befriends-the-Black-Dog|Befriends the Black Dog]]
+[[Curses-the-World|Curses the World]]
+[[Feigns-No-Fear|Feigns No Fear]]
+[[Lived-Among-the-Fey|Lived Among the Fey]]
+[[Made-a-Deal-With-Death|Made a Deal With Death]]
+[[Sheds-Their-Skin|Sheds Their Skin]]
+
+### Heartwood Character Arcs 
+Characters in the Heartwood should choose a starting character arc, something that they hope to accomplish for their character through time and experience. This can be a Heartwood-specific arc or one from the list of character arcs in the Cypher System Rulebook.
+
+#### Suggested Heartwood Arcs
+[[Become-an-Advocate|Become an Advocate]]
+[[Put-Down-Roots|Put Down Roots]]
+[[Develop-Coping-Strategies|Develop Coping Strategies]]
+[[Take-the-Wrong-Path|Take the Wrong Path]]
+
+### Form vs. Function
+In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, and a human the size of your thumb. And that’s perfectly fine. Build your character sentence in a way that plays to your character’s strengths and weaknesses, and the rest can be handled through story and narrative. Playing a talking bear, a gingerbread man, or a changeling will likely affect your character’s appearance, their outlook on life, and their backstory, but it doesn’t necessarily affect their abilities, skills, and Pools beyond what you choose during character creation.
+
+Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
+
+
+
 ### Skills
 As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include: 
 • Talking animals*
@@ -109,18 +139,18 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - [[Virtuous]]
 - [[Weird]]
 ##### Heartwood Descriptors
-• Bewitched 
-• Changeling
-• Fragmented 
-• Frumious
-• Haunted 
-• Lost
+• [[Bewitched]] 
+• [[Changeling]]
+• [[Fragmented]] 
+• [[Frumious]]
+• [[Haunted]] 
+• [[Lost]]
 
 ### Focus
 Your focus makes your character unique.
 It gives you benefits when you create your character and each time you ascend to the next tier. When you choose a focus, it gives you a first-tier ability, a special connection to one or more of your fellow PCs, and possibly some starting equipment.
 
-##### Suggested Foci for a Fairy Tale Game
+#### Suggested Foci for a Fairy Tale Game
 - [[Abides-in-Stone|Abides in Stone]]
 - [[Absorbs-Energy|Absorbs Energy]]
 - [[Awakens-Dreams|Awakens Dreams]]
@@ -191,11 +221,11 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Works-for-a-Living|Works for a Living]]
 - [[Works-Miracles|Works Miracles]]
 - [[Would-Rather-Be-Reading|Would Rather Be Reading]]
-##### Heartwood Foci
-• Befriends the Black Dog  
-• Curses the World
-• Feigns No Fear
-• Lived Among the Fey
+#### Heartwood Foci
+• [[Befriends-the-Black-Dog|Befriends the Black Dog]]  
+• [[Curses-the-World]]
+• [[Feigns-No-Fear|Feigns No Fear]]
+• [[Lived-Among-the-Fey|Lived Among the Fey]]
 
 ##### Adjusted Foci
 [[Battles-Robots|Battles Robots]], [[Builds-Robots|Builds Robots]], [[Talks-to-Machines|Talks to Machines]]
@@ -316,8 +346,8 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 >Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
 ### Basic Equipment
 #### Inexpensive 
->- Candle
->- Chalk (3)
+>- [[Candle]]
+>-  Chalk (3)
 >- Day’s rations
 >- Meal, decent
 >- Sack
