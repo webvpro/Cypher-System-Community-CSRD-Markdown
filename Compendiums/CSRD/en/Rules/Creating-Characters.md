@@ -10,13 +10,8 @@ tags:
 
 # Creating Your Character
 
-## Form Vs. Function
->In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, and a human the size of your thumb. And that’s perfectly fine. Build your character sentence in a way that plays to your character’s strengths and weaknesses, and the rest can be handled through story and narrative. Playing a talking bear, a gingerbread man, or a changeling will likely affect your character’s appearance, their outlook on life, and their backstory, but it doesn’t necessarily affect their abilities, skills, and Pools beyond what you choose during character creation.
->
->Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
+This section explains how to create characters to play in a Cypher System game. This involves a series of decisions that will shape your character, so the more you understand what kind of character you want to play, the easier character creation will be. The process involves understanding the values of three game statistics and choosing three aspects that determine your character’s capabilities.
 
-
-This section explains how to create characters to play in a Cypher System game. This involves a series of decisions that will shape your character, so the more you understand what kind of character you want to play, the easier character creation will be. The process involves understanding the values of three game statistics and choosing three aspects that determine your character’s capabilities. 
 
 ## Character Stats
 Every player character has three defining characteristics, which are typically called “statistics” or “stats.” These stats are Might, Speed, and Intellect. They are broad categories that cover many different but related aspects of a character.
@@ -148,7 +143,7 @@ Even though character type is in the middle of the sentence, that’s where we�
 >[!tip]  
 >You can use the Flavors chapter to slightly modify character types to customize them for different genres.
 
-### Special Abilities
+## Special Abilities
 Character [[Type-x|type]] and [[Focus|foci]]  grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
 >[!note] 
 >1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge.
@@ -228,54 +223,59 @@ Since the type is the basis upon which your whole character is built, it’s imp
 To further massage the four types for better use in various settings, different methods called flavors are presented in Flavor to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).
 
 Finally, more fundamental options for further customization are provided at the end of this chapter.
-
-### Player Intrusion
-A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.
-
-A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
-
-Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
->[!note] 
->Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
+>[!hint] Player Intrusion
+>A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a [[GM intrusion]]: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.
 >
->Player intrusions should be limited to no more than one per player per session.)
-## Defense Tasks
-Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
+>A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
+>
+>Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
+>>[!note]  
+>>Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
+>>
+>>Player intrusions should be limited to no more than one per player per session.
 
-### Might Defense
+
+##
+>[!hint]  Defense Tasks
+>Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
+>  #### Might Defense:
 > Used for resisting poison, disease, and anything else that can be overcome with strength and health.
-###  Speed Defense
+> ####  Speed Defense:
 >Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.
-### Intellect Defense
+>#### Intellect Defense:
 >Used for fending off mental attacks or anything that might affect or influence one’s mind.
 
-### ![[Warrior#Warrior]]
-### ![[Adept#Adept]]
-### [[Explorer#Explorer]]
-### [[Speaker#Speaker]]
-### [[Fantasy-Character-Options|Fantasy Character Options]]
-### Further Customization
+### [[Warrior#Warrior|Warrior]]
+### [[Adept#Adept|Adept]]
+### [[Explorer#Explorer|Explorer]]
+### [[Speaker#Speaker|Speaker]]
+## [[Fantasy-Character-Options|Fantasy Character Options]]
+## [[Modern-Rules-Module|Modern Rules Module]]
+## [[Optional-Rule-Children-PCs|Optional Rule: Handling PCs as Children]]
+## [[Science-Fiction-Rules-Module|Science Fiction Rules Module]]
+## [[Superhero-Rules-Module|Superhero Rules Module]]
+## Further Customization
 The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
-#### Modifying Type Aspects
+### Modifying Type Aspects
 The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.
-##### Stat Pools 
+#### Stat Pools 
 >Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.
-##### Edge 
+#### Edge 
 >A player can start with an Edge of 1 in whichever stat they wish.
-##### Cypher Use 
+#### Cypher Use 
 >If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.
-##### Weapons 
+#### Weapons 
 >Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
-#### Drawbacks and Penalties
+### Drawbacks and Penalties
 In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.
-##### Weakness 
+#### Weakness 
 >A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.
 >
 >Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
-##### Inabilities 
+#### Inabilities 
 >Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game)
 
-#### Flavor 
+### Flavor 
 Flavors are groups of special abilities the GM and players can use to alter a character type to make it more to their liking or more appropriate to the genre or setting. For example, if a player wants to create a magic-using thief character, she could play an Adept with stealth flavoring. In a science fiction setting, a Warrior might also have knowledge of machinery, so the character could be flavored with technology.
 
 At a given tier, abilities from a flavor are traded one for one with standard abilities from a type. So to add the Danger Sense stealth flavor ability to a Warrior, something else—perhaps Bash—must be sacrificed. Now that character can choose Danger Sense as they would any other first-tier warrior ability, but they can never choose Bash.
@@ -286,18 +286,18 @@ In the end, flavor is mostly a tool for the GM to easily create campaign-specifi
 The flavors available are stealth, technology, magic, combat, and skills and knowledge. 
 The full description for each listed ability can be found in the Abilities chapter, which also contains descriptions for type and focus abilities in a single vast catalog.
 
-#####  Flavors 
+####  Flavors 
 > - [[Stealth-Flavor|Stealth Flavor]]  
 > - [[Technology-Flavor|Technology Flavor]]  
 > - [[Magic-Flavor|Magic Flavor]] 
 > - [[Combat-Flavor|Combat Flavor]]  
 > - [[Skills-and-Knowledge-Flavor|Skills and Knowledge Flavor]].
 
-The full description for each listed ability can be found in the [[Abilities|Abilities]] chapter, which also contains descriptions for [[Type-x|type]] and [[Focus|Focus]] abilities in a single vast catalog.
-### ![[Descriptor#Descriptor|Descriptor]]
-### ![[Focus#Focus|Focus]] 
-### ![[Abilities#Abilities]]
-### ![[Equipment#Equipment]]
+The full description for each listed ability can be found in the [[Abilities|Abilities]] chapter, which also contains descriptions for [[Type|Type]] and [[Focus|Focus]] abilities in a single vast catalog.
+## ![[Descriptor#Descriptor|Descriptor]]
+## ![[Focus#Focus|Focus]] 
+## ![[Abilities#Abilities]]
+## ![[Equipment#Equipment]]
 
 
-# ![[INDEX#Cypher System Rules Index]]
+# [[INDEX#Cypher System Rules Index]]

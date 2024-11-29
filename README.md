@@ -1,8 +1,9 @@
 # Cypher System Community CSRD in Markdown
 
-The Cypher System Community CSRD in Markdown Project is meant to be [Obsidian](https://obsidian.md/)  ready and can be used as a vault.    
+The Cypher System Community CSRD in Markdown Project is meant to be [Obsidian](https://obsidian.md/)  ready and can be used as a vault. 
+ 
 
-  Download this [.zip file](https://github.com/webvpro/Cypher-System-Community-CSRD-Markdown/archive/refs/heads/main.zip) to get started
+  Download this [.zip file](https://github.com/webvpro/Cypher-System-Community-CSRD-Markdown/archive/refs/heads/main.zip) to get started. Once downloaded you can open the [Index](INDEX.md)
 
   ![CSOL Logo Cypher System Compatible Color)](https://github.com/user-attachments/assets/30cee28c-1605-4bfa-a82d-6b46429ac7de)
  

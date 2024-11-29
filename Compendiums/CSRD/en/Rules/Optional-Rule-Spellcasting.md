@@ -3,6 +3,7 @@ aliases:
   - "Optional Rule: Spellcasting"
 tags:
 -  Compendium/CSRD/en/Rules/Optional/Spellcasting
+-  Rule/Optional
 ---
 ## Optional Rule: Spellcasting
 Fantasy settings prioritize magic as an essential ingredient. But why restrict that magic to just wizards and similar characters? It’s not uncommon in fantasy literature for a thief or warrior to learn a few spells as they steal or brawl through their adventures. Leiber’s Gray Mouser knew some spells, Moorcock’s Elric knew a lot, pretty much everyone in Anthony’s Xanth books knew at least one, and so on. Of course, wizards and sorcerers specialize in spellcasting, which gives them clear superiority in magic use. But whether a character is a fireball-flinging wizard or a belligerent barbarian, anyone can learn some spellcasting under this optional rule.
