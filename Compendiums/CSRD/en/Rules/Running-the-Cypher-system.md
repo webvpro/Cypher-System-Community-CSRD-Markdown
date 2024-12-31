@@ -222,3 +222,248 @@ LIST
 FROM #Artifact/Fantasy
 ```
 
+#### Science Fiction Artifacts
+```dataview
+LIST 
+FROM #Artifact/Science-Fiction 
+```
+
+#### Weapons
+Artifacts that can be used as weapons, though some have other uses as well. 
+Light, Medium, and Heavy Artifact Weapons: The artifact weapons described in this section are idiosyncratic in that they are not described as light, medium, or heavy. If they were specifically categorized, many characters would find that their training doesn’t match up with a particular designation. With artifact weapons living outside the regular weapon categories, anyone can use an artifact weapon.
+
+- [[Alpha-Beam-Projector|Alpha Beam Projector]]
+- [[Carbonizer]]
+- [[Death-Ray|Death Ray]]
+- [[Disintegration-Beamer|Disintegration Beamer]]
+- [[Brain-Cylinder|Empathetic Ray]]
+
+#### Horror Artifacts
+Most Cypher System artifacts in a horror setting are either cursed objects (which draw or focus
+
+the attention of monsters on a place or person) or things used to control, contain, or destroy the horrors threatening the main characters. The origin of the artifact is often part of the backstory of the plot: why a particular ghost is haunting the house, why the cultists are making human sacrifices, or why monsters keep appearing in a particular town. In most cases, the characters don’t have to know how these things work, how they were made, or what sort of creature (alien, demon, ghost) is responsible—an artifact is merely a tool that gives the PCs a chance to survive the threat, or the thing that must be destroyed to make everything safe again (see the Bad Penny module).
+
+Because one of the interesting aspects of horror is mixing genres, you should feel free to incorporate any of these artifacts into your horror game even if they’re traditionally associated with different genres; it’ll give your game a unique twist and give you many additional ways to scare the PCs and players. For example, PCs entering the lair of a vampire might find a room with a dozen brain cylinders, each containing the brain of a former lover or would-be hunter, forever imprisoned and available for conversation whenever the vampire wants it. Or PCs dealing with an alien invasion find the crashed spacecraft and discover that its engine is connected to a ghost vault, using the souls of the dead as a power source for interstellar travel.
+
+The Bad Penny module is a handy GM tool when a horror artifact is important to the game’s plot.
+
+#### Lovecraftian Artifacts
+The stories of the mythos often feature strange books or devices (which might be magical or of exotic scientific manufacture) that are connected to the plot and often reference or have links to each other. Even if your Lovecraftian game session doesn’t involve these artifacts, having other characters mention them or letting the PCs find notes about them creates a sense of a larger world filled with unknowable horrors. Appropriate items in this chapter are:
+##### Horror Artifacts List
+- [[Book-of-Thoth|Book of Thoth]]
+- [[Brain-Cylinder|Brain Cylinder]]
+- [[Cursed-Video|Cursed Video]]
+- [[Demon-Puzzle|Demon Puzzle]]
+- [[Human-Suit|Ghost Vault]]
+- [[Monkeys-Paw|Monkey’s Paw]]
+- [[Necronomicon|Necronomicon (Lovecraftian, Latin Edition)]]
+- [[Pnakotic-Manuscripts|Pnakotic Manuscripts]]
+- [[Shining-Trapezohedron|Shining Trapezohedron]]
+- [[Silgarho-Bullet|Silgarho Bullet]]
+- [[Spirit-Board|Spirit Board]]
+
+### Fairytale Artifacts
+Most artifacts in a Cypher System fairy tale setting are magical objects that have been either crafted via magic or later altered by or imbued with magic. There are a number of people and beings in fairy tale settings who are capable of creating artifacts by one or both of these methods. Additionally, some artifacts are products of magic or the setting itself. Thus, new artifacts are constantly entering the world, just waiting to be found and used by the characters.
+
+#### [[Fairy-Tale-Artifacts#Fairy Tale Artifact Quirks|Fairy Tale Artifacts]]
+
+## Equipment
+
+### Modern Fantasy Equipment
+In a modern fantasy setting, the following items (and anything else appropriate to a modern Earthlike world) are usually available. As with most physical things, a character can spend more for a higher-quality version of an item, such as an expensive altar cloth instead of a moderately priced one. Some of these price categories are higher than for a typical real-world item because items used with magic usually require higher quality or specific materials.
+
+#### Inexpensive Items
+| Item                   | Notes                                                 |
+|------------------------|-------------------------------------------------------|
+| Bottle                 |                                                       |
+| Bowl                   |                                                       |
+| Box                    |                                                       |
+| Candle                 |                                                       |
+| Candle Holder          |                                                       |
+| Crystals               |                                                       |
+| Figurine               |                                                       |
+| Fresh or dried flowers |                                                       |
+| Incense                |                                                       |
+| Mason Jar              |                                                       |
+| Metal needles          |                                                       |
+| Mortar and pestle      | Required for some magic and crafting                  |
+| Pendulum               |                                                       |
+| Poster                 | Diagrams of herbs and medicinal plants                |
+| Sealing wax            | Used in some rituals and for sealing letters          |
+| Seashells              |                                                       |
+| Smudging stick         | For cleansing an area and warding off negative energy |
+| Tea                    |                                                       |
+
+
+#### Moderately Priced Items 
+
+|                         |                                     |
+|-------------------------|-------------------------------------|
+| Old book                | Asset on knowledge related tasks    |
+| Plant                   | Provides herbs or supportive energy |
+| Pouch                   | Leather or velvet                   |
+| Rune set                | Required for some divination spells |
+| Set of small stones     | Required for some magic             |
+| Signet                  | For use with sealing wax            |
+| Skull (human or animal) |                                     |
+| Spirit board            |                                     |
+| Staff                   |                                     |
+| Tarot deck              |                                     |
+| Vintage clothing        |                                     |
+| Wand                    |                                     |
+
+#### Expensive Items
+| Old book                | Asset on knowledge related tasks    |
+|-------------------------|-------------------------------------|
+| Plant                   | Provides herbs or supportive energy |
+| Pouch                   | Leather or velvet                   |
+| Rune set                | Required for some divination spells |
+| Set of small stones     | Required for some magic             |
+| Signet                  | For use with sealing wax            |
+| Skull (human or animal) |                                     |
+| Spirit board            |                                     |
+| Staff                   |                                     |
+| Tarot deck              |                                     |
+| Vintage clothing        |                                     |
+| Wand                    |                                     |
+
+Many items in these lists are magical implements used with casting spells and performing rituals, but don’t have a specific purpose in the rules. The GM may decide that certain abilities or kinds of abilities require them or are hindered without them, such as using a crystal ball for a scrying spell, an athame for a protection spell, or a spirit board for a ritual to talk to a dead person.
+
+#### Modern Fantasy Crafting Materials
+An inferior example of a crafting ingredient counts as one price category lower. A superior example counts as one or more price categories higher.
+Often, a material with sentimental value to the magician is worth one price category more than its default value.
+
+##### Inexpensive Materials 
+• Base metals (copper, aluminum, iron, and so on) 
+• Beer 
+• Book (fiction, history) 
+• Candle 
+• Cheese 
+• Clay or ceramic 
+• Coffee 
+• Combustible fuel (lamp oil, kerosene, gasoline) 
+• Common animal (chicken, cow, tuna) parts, nonrenewable* 
+• Common animal parts (chicken, cow, tuna), renewable* 
+• Common fabric (denim, linen, polycotton, polyester, quilting cotton, wool) 
+• Common stone (granite, sandstone, slate) 
+• Common wood (pine, hemlock) 
+• Dry food goods (nuts, beans, grains) 
+• Edible mushrooms 
+• Eggs 
+• Flowers or flower petals 
+• Fruit or vegetables 
+• Glass 
+• Hard alcohol 
+• Houseplant 
+• Human hair or nails 
+• Ink 
+• Leaves 
+• Meat 
+• Ornamental stones (agate, obsidian, quartz, turquoise) 
+• Paint 
+• Pastries 
+• Plant-based drug (aspirin, opium, tobacco, cannabis) 
+• Roots 
+• Rubber 
+• Salt 
+• Sand 
+• Seawater 
+• Smoke 
+• Soil or mulch 
+• Sugar 
+• Tea 
+• Water 
+• Wax 
+• Wine 
+
+##### Moderately Priced Materials 
+• Book or textbook 
+• Custom seal matrix (such as a family crest or a magician’s personal rune) 
+• Dust from an outdoor wedding 
+• Earth from a grave 
+• Fine fabric (cashmere wool, heirloom-quality linen, merino wool, silk satin) 
+• Fine stone (marble) 
+• Fine wood (oak, juniper, mesquite, redwood) 
+• Firearm 
+• Human blood 
+• Human teeth 
+• Incense 
+• Knife 
+• Lantern 
+• Leather 
+• Live music 
+• Mushrooms (hallucinogenic, poisonous) 
+• Musical instrument 
+• Noble gas (helium, neon, argon) 
+• Painting 
+• Semi-precious stones (jasper, moonstone, onyx) 
+• Shoes 
+• Small sculpture 
+• Stone from a grave marker 
+• Sword 
+• Uncommon animal (monkey, snake, lizard) parts, non-renewable* 
+• Uncommon animal (monkey, snake, lizard) parts, renewable* 
+• Water from a hot spring 
+• Well water
+
+##### Expensive Materials 
+• Air from a mountaintop 
+• Bottled lightning 
+• Cypher, level 1–5 
+• Exotic animal (elephant, reindeer, tiger) parts, non renewable* 
+• Exotic animal (elephant, reindeer, tiger) parts, renewable* 
+• Exotic wood (manzanita, sequoia) 
+• Flame kindled from a burning house 
+• Flame kindled from a funeral pyre 
+• Human bones 
+• Human organs 
+• Meteorite 
+• Pearl 
+• Precious metals (gold, silver) 
+• Precious stones (amber, amethyst, jade, topaz) 
+• Raindrops from a powerful storm 
+• Stone that has been in darkness for at least a century 
+• Wood from a used coffin 
+• Wood from a wine cask 
+
+##### Very Expensive Materials 
+• Air from a person’s last breath 
+• Baby’s first laugh 
+• Cypher, level 6–10 
+• Dream of an infant 
+• Exotic metals (rare earths, uranium ore) 
+• Gemstone (diamond, opal, ruby, sapphire) 
+
+##### Exorbitant Materials 
+• Wood from an ancient tree 
+
+### Superhero Equipment
+#### Special Equipment
+Sometimes a group of superheroes needs special equipment so they can participate in an encounter or advance the story. For example, characters who must get to an underwater base will need air tanks or a water-breathing device, and those going on a short trip into space will need a vehicle and spacesuits. This sort of item doesn’t have to be a cypher (which counts against a character’s cypher limit) or an artifact (which has a depletion chance)—it can just be equipment. If a player suggests a suitable piece of equipment they can buy (such as scuba gear), or a gadgeteer or inventor character offers to build something to do the job, the GM should let them do it and handwave most of the details because they’re being creative and overcoming obstacles to move the story forward. In other words, don’t assume that every piece of weird equipment needs to be a cypher or artifact; things that allow the adventure to happen shouldn’t cost the characters much, or maybe not anything at all. And if the players take too much advantage of this leeway, the GM always has the option to use an intrusion to complicate an encounter.
+
+### Fantasy Equipment
+#### Medieval Fantasy Equipment
+| Category       | GP Value        |
+| -------------- | --------------- |
+| Inexpensive    | Less than 1 gp  |
+| Moderate       | 1–10 gp         |
+| Expensive      | 100–500 gp      |
+| Very expensive | 1,000–10,000 gp |
+| Exorbitant     | 10,000+ gp      |
+
+##### Starting Gold Pieces for Characters
+>-  **Warrior Starting Equipment**: Appropriate clothing and two weapons of your choice, plus 6d6 + 100 gp. 
+>- **Adept Starting Equipment**: Appropriate clothing, plus 3d6 + 80 gp. 
+>- **Explorer Starting Equipment**: Appropriate clothing and a weapon of your choice, plus 3d6 + 90 gp.
+>- **Speaker Starting Equipment**: Appropriate clothing and a light weapon of your choice, plus 3d6 + 90 gp
+
+##### [[Fantasy-Weapons#Fantasy Weapons|Fantasy Weapons Descriptions]]
+##### [[Fantasy-Armor#Fantasy Armor|Fantasy Armor Descriptions]]
+##### [[Fantasy-Equipment-Adventuring-Equipment#Adventuring Equipment|Fantasy Adventuring Equipment]]
+
+### [[Post-apocalyptic-Equipment]]
+#### [[Post-apocalyptic-Cyphers-and-Artifacts]]
+
+### [[Science-Fiction-Equipment|Science Fiction Equipment]]
+
+### [[Fairytale-Character-Options#Equipment|Fairytale Equipment]]

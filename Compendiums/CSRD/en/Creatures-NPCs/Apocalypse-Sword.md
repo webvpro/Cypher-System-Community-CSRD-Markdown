@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Four Horsemen of the Apocalypse Sword"
+tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature
 - Creature/level/6

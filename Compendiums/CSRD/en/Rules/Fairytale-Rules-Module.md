@@ -746,6 +746,7 @@ While characters can find or purchase many of these items in the world, only mag
 | 99   | [[Yonder-Yarn\|Yonder Yarn]]                                             |
 | 00   | Roll on the cypher tables in the Cypher System Rulebook |
 
+
   #### Artifacts
 Most artifacts in a Cypher System fairy tale setting are magical objects that have been either crafted via magic or later altered by or imbued with magic. There are a number of people and beings in fairy tale settings who are capable of creating artifacts by one or both of these methods. Additionally, some artifacts are products of magic or the setting itself. Thus, new artifacts are constantly entering the world, just waiting to be found and used by the characters.
 

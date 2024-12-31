@@ -1,6 +1,6 @@
 ---
 aliases:
-- Military Exoskeleton
+- "Military Exoskeleton"
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact

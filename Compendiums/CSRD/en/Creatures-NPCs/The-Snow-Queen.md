@@ -5,9 +5,9 @@ tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature
 - Creature/Kind/Creature
-- Creature/Level/null
+- Creature/Level/NA
 - Creature/Armor/2
-- Creature/Health/null
+- Creature/Health/NA
 ---
 
   

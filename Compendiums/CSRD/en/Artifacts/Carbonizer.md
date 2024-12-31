@@ -3,7 +3,7 @@ aliases:
 - Carbonizer
 tags:
 - Compendium/CSRD/en/Artifacts
-- Artifact
+- Artifact/Weapon
 - Artifact/Post-Apocalyptic
 ---
 

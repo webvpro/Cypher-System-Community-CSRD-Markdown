@@ -3,7 +3,7 @@ aliases:
 - Death Ray
 tags:
 - Compendium/CSRD/en/Artifacts
-- Artifact
+- Artifact/Weapon
 - Artifact/Science-Fiction
 ---
 

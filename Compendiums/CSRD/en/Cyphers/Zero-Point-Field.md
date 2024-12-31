@@ -5,6 +5,7 @@ tags:
 - Compendium/CSRD/en/Cyphers
 - Cypher
 - Cypher/Fantastic
+- Cypher/Manifest
 ---
 
   

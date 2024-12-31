@@ -25,7 +25,7 @@ It’s vital that the GM and the players all check in with each other to make su
 **Rival suitor:** level 2, interactions as level 3
 **The unattainable:** level 3, interactions as level 7, resistance to all interactions as level 9
 
-## OPTIONAL RULE: INFATUATION
+## Optional Rule: Infatuation
 When a PC is near someone they are infatuated with, particularly in the early stages of that infatuation, they must make an Intellect defense roll with a difficulty determined by the GM based on the situation (not on the level of the subject of the infatuation). Failure might mean that the character does or says something awkward or embarrassing either in an attempt to impress or when trying to hide the infatuation. Or it could mean that for one round, the player loses control of the character, and the GM decides what the PC does next, such as risk their own safety to help an endangered character. However, GMs should welcome player input into this situation. The point is to portray that when we’re distracted by the powerful feelings (and hormones) related to infatuation, we don’t always react in the best way, the smartest way, or even the way we want to.
 
 Infatuation can happen whether the PC is attracted to an NPC or a PC.

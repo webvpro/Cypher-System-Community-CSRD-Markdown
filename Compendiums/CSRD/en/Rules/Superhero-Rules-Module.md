@@ -1,4 +1,4 @@
----
+v---
 aliases: "Superhero Rules Module"
 tags: 
 - Compendium/CSRD/en/Rules/Superhero-Rules-Module

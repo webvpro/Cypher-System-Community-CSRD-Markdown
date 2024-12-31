@@ -112,7 +112,7 @@ There are three basic ways in which a character can ease a task: skills, assets,
 >
 >Free Level of Effort: A few abilities give you a free level of Effort (these usually require you to apply at least one level of Effort to a task). In effect, you’re getting one more level of Effort than what you paid for. This free level of Effort can exceed the Effort limit for your character, but not the six-step limit for easing a task.
 
-## ![[Rolling-Dice#Rolling the Dice|Rolling Dice]]
+## [[Rolling-Dice#Rolling the Dice|Rolling Dice]]
 
 ## Retrying a Task After Failure  
 If a character fails a task (whether it’s climbing a wall, picking a lock, trying to figure out a mysterious device, or something else) they can attempt it again, but they must apply at least one level of Effort when retrying that task. A retry is a new action, not part of the same action that failed, and it takes the same amount of time as the first attempt did.
@@ -533,7 +533,7 @@ Thus, players and GMs can return to the beginning of this chapter and look at th
 As further guidance, the following are some of the more common actions a player might take.
 > Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That’s why there is a “do something else” action. PCs are not pieces on a game board—they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.
 
-### Climbing
+#### Climbing
 When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties. 
 
 | Difficulty | Surface                                             |
@@ -546,22 +546,22 @@ When a character climbs, the GM sets a difficulty based on the surface being cli
 | 8          | Smooth, horizontal surface (climber is upside down) |
 | 10         | Glass wall or similar surface                       |
 
-### Cooperative Actions
+#### Cooperative Actions
 There are many ways multiple characters can work together. None of these options, however, can be used at the same time by the same characters.
 
-#### Helping 
+##### Helping 
 >If you use your action to help someone with a task, you ease the task. If you have an inability in a task, your help has no effect. If you use your action to help someone with a task that you are trained or specialized in, the task is eased by two steps. Help is considered an asset, and someone receiving help usually can’t gain more than two assets on a single task if that help is provided by another character.
 > >For example, if Scott is trying to climb a steep incline and Sarah (who is trained in climbing) spends her turn helping him, Scott’s task is eased by two steps.
 > Sometimes you can help by performing a task that complements what another person is attempting. If your complementary action succeeds, you ease the other person’s task. For example, if Scott tries to persuade a ship captain to let him on board, Sarah could try to supplement Scott’s words with a flattering lie about the captain (a deception action), a display of knowledge about the region where the ship is headed (a geography action), or a direct threat to the captain (an intimidation action). If Sarah’s roll is a success, Scott’s persuasion task is eased.
-#### Distraction 
+##### Distraction 
 >When a character uses their turn to distract a foe, that foe’s attacks are hindered for one round. Multiple characters distracting a foe have no greater effect than a single character doing so—a foe is either distracted or not. A distraction might be yelling a challenge, firing a warning shot, or a similar activity that doesn’t harm the foe.
-#### Draw the Attack 
+##### Draw the Attack 
 >When an NPC attacks a character, another PC can prominently present themselves, shout taunts, and move to try to get the foe to attack them instead. In most cases, this action succeeds without a roll—the opponent attacks the prominent PC instead of their companions. In other cases, such as with intelligent or determined foes, the prominent character must succeed at an Intellect action to draw the attack. If that Intellect action is successful, the foe attacks the prominent character, whose defenses are hindered by two steps. Two characters attempting to draw an attack at the same time cancel each other out.
 >>Two characters attempting to draw an attack at the same time cancel each other out.
-#### Take the Attack 
+##### Take the Attack 
 >A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.
 
-### Crafting, Building, and Repairing
+#### Crafting, Building, and Repairing
 Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it. 
 
 Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.
@@ -601,15 +601,15 @@ That said, tinkering with weird stuff is not easy. Obviously, the difficulty var
 >Obviously, what is considered “weird stuff ” will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn’t mean he could reverse-engineer a teleporter made in another dimension.
 
 #### [[Crafting-Difficulty-Table|Crafting Difficulty Table]]
-### Guarding
+#### Guarding
 In a combat situation, a character can stand guard as their action. They do not make attacks, but all their defense tasks are eased. Further, if an NPC tries to get by them or take an action that they are guarding against, the character can attempt an eased Speed action based on the level of the NPC. Success means the NPC is prevented from taking the action; the NPC’s action that turn is wasted. This is useful for blocking a doorway, guarding a friend, and so forth.
 If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.
 
-### Healing
+#### Healing
 You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9. 
-### Interacting With Creatures
+#### Interacting With Creatures
 The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.
-### Jumping
+#### Jumping
 Decide how far you want to jump, and that sets the difficulty of your Might roll. For a standing jump, subtract 4 from the distance in feet to determine the difficulty of the jump. For example, jumping 10 feet (3 m) has a difficulty of 6.
 >If you run an immediate distance before jumping, it counts as an asset, easing the jump.
 
@@ -619,26 +619,26 @@ Decide how far you want to jump, and that sets the difficulty of your Might roll
 
 >[!note]
 >There’s nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines)
-### Looking or Listing
+#### Looking or Listing
 Generally, the GM will describe any sight or sound that’s not purposefully difficult to detect. But if you want to look for a hidden enemy, search for a secret panel, or listen for someone sneaking up on you, make an Intellect roll. If it’s a creature, its level determines the difficulty of your roll. If it’s something else, the GM determines the difficulty of your roll.
-### Moving a Heavy Object
+#### Moving a Heavy Object
 You can push or pull something very heavy and move it an immediate distance as your action.
 
 The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.
-### Operating or Disabling a Device, or Picking a Lock 
+#### Operating or Disabling a Device, or Picking a Lock 
 As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.
 Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who is attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)
-### Riding or Piloting
+#### Riding or Piloting
 If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.
-#### [[Riding-or-Piloting-Task-Difficulty]]
+##### [[Riding-or-Piloting-Task-Difficulty]]
 
-### Sneaking
+#### Sneaking
 The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.
-### Swimming
+#### Swimming
 If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.
-### Understanding, Identifying, or Remembering 
+#### Understanding, Identifying, or Remembering 
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
-#### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
+##### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
 ###  Vehicular Movement
 Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.
 

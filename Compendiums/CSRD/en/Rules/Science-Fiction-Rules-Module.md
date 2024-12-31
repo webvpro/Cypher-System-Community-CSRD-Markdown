@@ -37,7 +37,7 @@ This chapter contains a variety of subsystems and set pieces that you can choose
 ##### Exposure to vacuum feels like 
 >Breath explodes out of lungs, cold slashes the body like a knife carved from a glacier. Tears freeze in the corners of eyes, ice forms on teeth and tongue. Moisture boils out of ears, scalp, freezing on exposed skin, lips, and eyelids. (As this happens, the Effects of Vacuum also take their mechanical toll on the character.)
 
-#### Optional Rules: Harder Science Fiction
+###                                                  Optional Rules: Harder Science Fiction
 Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions. 
 
 In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion. 
@@ -51,7 +51,7 @@ The Cypher System Rulebook describes some hard science fiction considerations re
 >All physical tasks are hindered. Ranges in high gravity are reduced by one category (very long-range weapons reach only to long range, long-range weapons reach only to short range, and short-range weapons reach only to immediate range). Those trained in highgravity maneuvering ignore the change in difficulty but not the range decreases. 
 ##### Zero Gravity 
 >All physical tasks are hindered. Short-range weapons can reach to long range, and long-range weapons can reach to very-long range.
-#### Void Rules 
+##### Void Rules 
 The extreme environment in space hard radiation, lack of air and pressure, wild temperature variations, and lack of gravity—tends to magnify small issues into much more significant ones. While Murphy’s Law (everything that can go wrong will go wrong) is a useful reminder to keep an eye out for trouble even under regular circumstances, Finagle’s Law reigns in space, which is that anything that can go wrong, will go wrong—at the worst possible moment. To evoke this law, GMs can implement Void Rules. 
 
 The idea is to create a feeling of increased repercussions by changing one die roll mechanic. In the game, activities on a planet’s surface—and within a functioning air-filled spacecraft, habitat, or space suit when everything is going well—remain normal. The PCs interact with each other and the NPCs, investigate, research, repair an external sensor module, travel, and so on. 
@@ -74,12 +74,12 @@ Even if advanced tech or fantastic tech is available, space suits are susceptibl
 In a fantastic tech setting where gravitic control usually cancels inertia, spacecraft acceleration (or deceleration) is only an issue when the gravitic systems malfunction. But acceleration is always something everyone has to deal with in contemporary or advanced tech settings.
 >Of course, massive acceleration (or deceleration) is just plain lethal. Someone who jumps off a ten-story building is subject to several hundred Gs when they suddenly stop. Less extreme is still dangerous, because it pulls blood out of pilots’ and passengers’ heads, rendering them unconscious. This can happen at just 4 or 5 Gs without any amelioration, though contemporary tech allows fighter craft pilots to withstand up to 9 Gs for limited periods. Advanced tech methods, which include acceleration serum, allow characters to survive the kind of Gs a spacecraft might pull for extended trips or during battle, up to a maximum of 15 Gs. Ships have limiters that normally prevent them from thrusting at higher speeds. Normally.
 ###### [[Acceleration-and-High-G-Maneuver-Gm-Intrusions|Acceleration and High-G Maneuver Gm Intrusions]]
-#### Long-term Exposure to Zero G and Radiation
+##### Long-term Exposure to Zero G and Radiation
 In a setting with contemporary tech, a variety of issues related to long-term exposure to micro-gravity and high radiation beset astronauts, including bone and muscle loss, less circulating blood and red cell mass, less ability to constrict and dilate in vessels, irregular hormones, diminished immune system, inability of mitochondria to initiate wound healing, and even shortened telomeres. The inability to heal even minor wounds and nicks until a space-farer returns to stronger gravity will eventually prove lethal, though a snapped bone or normally inconsequential virus or parasite could also do them in.
 ##### [[Space-Health-Hazard-Gm-Intrusions|Space Health Hazard Gm Intrusions]]
-#### Moving in Microgravity  
+##### Moving in Microgravity  
 Long-term zero G is dangerous, but there are issues associated with moving around in microgravity. Those who have spent at least a little time in microgravity can move as part of a routine action. It’s only when something else distracting or dangerous is happening simultaneously that routine movements through a ship or station become potentially problematic.
-##### [[Moving-in-Microgravity-Gm-Intrusions|Moving in Microgravity Gm Intrusions]]
+###### [[Moving-in-Microgravity-Gm-Intrusions|Moving in Microgravity Gm Intrusions]]
 
 ### [[Optional-Rules-Extended-Vehicular-Combat|Optional Rules: Extended Vehicular Combat (Spacecraft Combat)]]
 ### [[Optional-Rule-Ritual-Magic|Optional Rule: Psionics]]

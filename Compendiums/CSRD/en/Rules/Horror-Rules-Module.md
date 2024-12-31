@@ -48,7 +48,7 @@ Second, the dead character is able to use their subtle cyphers to help a living 
 
 The player of a dead character always gets to decide when to help and which PC to affect with their help—they’re not merely extensions of the living PCs. Whether this help is just fate or coincidence working on behalf of the PC, or if it literally is the lingering ghost of a dead character trying to save a living person, depends on the scenario and the GM.
 Help from a dead character doesn’t have to be from a ghost. Depending on the genre, it might be the influence of a guilty artificial intelligence, a sentient weapon with a grudge, a cultist with conflicting loyalties, and so on
-Hallucination Reset
+#### Hallucination Reset
 In some horror genres, it’s unclear if the character is truly experiencing what’s happening in the story, or if they’re hallucinating or dreaming it. In some cases, their fear response
 to the real events happening around them prompts their conscious or subconscious imagination to create an unreal scenario that’s even more terrifying, only to have them snap out of it and find themselves in a prior (but perhaps still very dangerous) situation. This sort of hallucination allows the story to go completely off the rails and then suddenly return to normal.
 
@@ -60,7 +60,7 @@ Used carefully, a hallucination reset leaves the characters wondering what is re
 
 Note that a deliberate and planned reset can deliberately do strange things with the story because it’s completely in the characters’ heads. A horror game about werewolves might have a dream or hallucination about fascist soldiers attacking the PCs with flamethrowers. One about aliens might show the antagonists turning into sexy vampires. A haunted house might convince the PCs that they’re tearing off their own faces. A hallucination might even include elements of something that will happen in the future, so when the actual event occurs (perhaps in a later session) the players won’t know if they should act on their “future memories” of these events or ignore them as falsehoods.
 
-Horror Mode
+#### Horror Mode
 Horror Mode is an optional rule discussed in the Cypher System Rulebook. When using this rule, the GM can escalate the tension by increasing the range of numbers that trigger a GM intrusion: first on a roll of 1 or 2 instead of 1, then a roll of 1 to 3, then a roll of
 1 to 4, and so on. The Escalation Rate table below shows what causes the intrusion range to increase.
 
@@ -95,6 +95,7 @@ Cypher System characters are tough and resilient, even at tier 1, but Ironman br
 #### Last Survivor
 Sometimes the antagonist kills off all the protagonists one by one, leaving only one survivor to challenge them. In the journey toward that point, it’s not clear who the last survivor will be, and sometimes a potential last survivor is eliminated unexpectedly or sacrifices themselves so that another person may live. The Last Survivor horror module
 is a way for PCs to temporarily thwart fate, but it inevitably feeds toward the last surviving character having extra advantages when dealing with the murderous antagonist.
+
 When using this module, the GM places a token on the game table that represents the last survivor, and puts a piece of paper (or an XP card) underneath the token that represents 1 XP. Whenever there is a GM intrusion, instead of giving 2 XP to a player and letting that player award 1 XP to another player, the GM gives 1 XP to the chosen player, and the other 1 XP is added to the last survivor token. Whenever there is a group intrusion, 1 XP is added to the last survivor token (as if the last survivor were a separate PC).
 
 At any time, a player can decide that their PC becomes the last survivor by picking up the token and its XP.
@@ -299,7 +300,7 @@ For your convenience, the cyphers have been organized into lists by horror genre
 | D20   | BODY HORROR CYPHERS        |
 |-------|----------------------------|
 | 1-2   | [[Anathema-Siren\| Ascendant brain vivisector]] |
-| 3-4   | Decaptitative longevity    |
+| 3-4   |  Decaptitative longevity    |
 | 5-6   | [[Horrific-Arm\|Horrific Arm]]             |
 | 7-8   | [[Horrific-Eye\|Horrific Eye]]              |
 | 9-10  | [[Horrific-Face\|Horrific Face]]              |
@@ -346,84 +347,84 @@ For your convenience, the cyphers have been organized into lists by horror genre
 
 | D20  | GHOST CYPHERS          |
 |------|------------------------|
-| 1-8  | Anathema siren (ghost) |
-| 9-20 | Ghost detector         |
+| 1-8  | [[Anathema-Siren#Anathema Siren\|Anathema siren (ghost)]] |
+| 9-20 | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]         |
 
 | D20   | LOVECRAFTIAN CYPHERS                        |
 |-------|---------------------------------------------|
-| 1-2   | Anathema siren (aliens)                     |
-| 3-4   | Anathema siren (cryptids)                   |
-| 5-6   | Anathema siren (extradimensional creatures) |
-| 7     | Anathema siren (undead)                     |
-| 8-9   | Horrific arm                                |
-| 10-11 | Horrific eye                                |
-| 12-13 | Horrific face                               |
-| 14-15 | Horrific integrated weapon                  |
-| 16-17 | Insanity suppressor                         |
-| 18-19 | Invisibility revealer                       |
-| 20    | Mind swapper                                |
+| 1-2   | [[Anathema-Siren#Anathema Siren\|Anathema siren (aliens)]]                     |
+| 3-4   | [[Anathema-Siren#Anathema Siren\|Anathema siren (cryptids)]]                   |
+| 5-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (extradimensional creatures)]] |
+| 7     | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead)]]                     |
+| 8-9   | [[Horrific-Arm#Horrific Arm\|Horrific Arm]]                                |
+| 10-11 | [[Horrific-Eye#Horrific Eye\|Horrific Eye]]                                |
+| 12-13 | [[Horrific-Face#Horrific Face\|Horrific Face]]                               |
+| 14-15 | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\|Horrific Integrated Weapon]]                  |
+| 16-17 | [[Insanity-Suppressor#Insanity Suppressor\|Insanity Suppressor]]                         |
+| 18-19 | [[Invisibility-Revealer#Invisibility Revealer\|Invisibility Revealer]]                       |
+| 20    | [[Mind-Swapper#Mind Swapper\|Mind Swapper]]                                |
 
 | D20   | MUMMY CYPHERS            |
 |-------|--------------------------|
-| 1-6   | Anathema siren (mummies) |
-| 7-12  | Corrupted canopic jar    |
-| 13-16 | Reanimator               |
-| 17-20 | Revenant serum           |
+| 1-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (mummies)]] |
+| 7-12  | [[Corrupted-Canopic-Jar#Corrupted Canopic Jar\|Corrupted Canopic Jar]]    |
+| 13-16 | [[Reanimator#Reanimator\|Reanimator]]               |
+| 17-20 | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]           |
 
 | D20 | SCIENCE GONE WRONG CYPHERS |
 |-----|----------------------------|
-| 1   | Anathema siren (simulacra) |
-| 2   | Ascendant brain vivisector |
-| 3   | Ascendant flesh vivisector |
+| 1   | [[Anathema-Siren#Anathema Siren\|Anathema siren (simulacra)]] |
+| 2   | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\|Ascendant Brain Vivisector]] |
+| 3   | [[Ascendant-Flesh-Vivisector#Ascendant Flesh Vivisector\|Ascendant Flesh Vivisector]] |
 | 4   | Decapitative longevity     |
-| 5   | Ghost detector             |
-| 6   | Ghost trap                 |
-| 7   | Homunculus flask           |
-| 8   | Horrific arm               |
-| 9   | Horrific eye               |
-| 10  | Horrific face              |
-| 11  | Horrific integrated weapon |
-| 12  | Humanity tester            |
-| 13  | Insanity suppressor        |
-| 14  | Invisibility revealer      |
-| 15  | invisibility serum         |
-| 16  | Mind swapper               |
-| 17  | Primitive doppelganger     |
-| 18  | Reanimator                 |
-| 19  | Revenant serum             |
-| 20  | Unphantomed limb           |
+| 5   | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]             |
+| 6   | [[Ghost-Trap#Ghost Trap\|Ghost Trap]]                 |
+| 7   | [[Homunculus-Flask#Homunculus Flask\|Homunculus Flask]]          |
+| 8   | [[Horrific-Arm#Horrific Arm\|Horrific Arm]]                                |
+| 10-11 | [[Horrific-Eye#Horrific Eye\|Horrific Eye]]                                |
+| 12-13 | [[Horrific-Face#Horrific Face\|Horrific Face]]                               |
+| 14-15 | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\|Horrific Integrated Weapon]] |
+| 12  | [[Humanity-Tester\|Humanity Tester]]            |
+| 13  | [[Insanity-Suppressor#Insanity Suppressor\|Insanity Suppressor]]        |
+| 14  | [[Invisibility-Revealer#Invisibility Revealer\|Invisibility Revealer]]      |
+| 15  | [[Invisibility-Serum#Invisibility Serum\|Invisibility Serum]]        |
+| 16  | [[Mind-Swapper#Mind Swapper\|Mind Swapper]]               |
+| 17  | [[Primitive-Doppelganger#Primitive Doppelganger\|Primitive Doppelganger]]     |
+| 18  | [[Reanimator#Reanimator\|Reanimator]]                 |
+| 19  | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]             |
+| 20  | [[Unphantomed-Limb#Unphantomed Limb\|Unphantomed Limb]]           |
 
 | D20   | UNDEAD CYPHERS            |
 |-------|---------------------------|
-| 1-3   | Anathema siren (ghosts)   |
-| 4-6   | Anathema siren (vampires) |
-| 7-9   | Anathema siren (undead)   |
+| 1-3   | [[Anathema-Siren#Anathema Siren\|Anathema siren (ghosts)]]   |
+| 4-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (vampires)]] |
+| 7-9   | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead) ]]  |
 | 10    | Decapitative longevity    |
-| 11-12 | Ghost detector            |
-| 13    | Ghost trap                |
-| 14    | Reanimator                |
-| 15    | Revenant serum            |
-| 16-18 | Silgarho infusion         |
-| 19-20 | Wolfsbane potion          |
+| 11-12 | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]            |
+| 13    | [[Ghost-Trap#Ghost Trap\|Ghost Trap]]                |
+| 14    | [[Reanimator#Reanimator\|Reanimator]]                 |
+| 15    |[[Revenant-Serum#Revenant Serum\|Revenant Serum]]           |
+| 16-18 | [[Silgarho-Infusion#Silgarho Infusion\|Silgarho Infusion]]         |
+| 19-20 |[[Wolfsbane-Potion#Wolfsbane Potion\|Wolfsbane Potion]]          |
 
 | D20   | VAMPIRE CYPHERS          |
 |-------|--------------------------|
-| 1-6   | Anathema siren (vampire) |
-| 7-12  | Humanity tester          |
-| 13-20 | Silgarho infusion        |
+| 1-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (vampire)]] |
+| 7-12  | [[Humanity-Tester#Humanity Tester\|Humanity Tester]]          |
+| 13-20 | [[Silgarho-Infusion#Silgarho Infusion\|Silgarho Infusion]]        |
 
 | D20   | WEREWOLF CYPHERS            |
 |-------|-----------------------------|
-| 1-5   | Anathema siren (werewolves) |
-| 6-10  | Ascendant brain vivisector  |
-| 11-15 | Reanimator                  |
-| 16-20 | Wolfsbane potion            |
+| 1-5   | [[Anathema-Siren#Anathema Siren\|Anathema siren (werewolves)]] |
+| 6-10  | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\|Ascendant Brain Vivisector]]  |
+| 11-15 | [[Reanimator#Reanimator\|Reanimator]]                  |
+| 16-20 | [[Wolfsbane-Potion#Wolfsbane Potion\|Wolfsbane Potion]]            |
 
 | D20   | ZOMBIE CYPHERS          |
 |-------|-------------------------|
-| 1-8   | Anathema siren (undead) |
-| 9-14  | Reanimator              |
-| 15-20 | Revenant serum          |
+| 1-8   | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead)]] |
+| 9-14  | [[Reanimator#Reanimator\|Reanimator]]              |
+| 15-20 | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]          |
 
 ### Using GM Intrusions in Horror Mode
 With the GM intrusions coming fast and furious toward the end of Horror Mode, it’s easy to run out of ideas. In combat, intrusions might just mean that the monster or villain gets a surprise extra attack or inflicts more damage. Perhaps a PC is thrown to the ground or nearer to the edge of a cliff. If the characters are running away, one might trip and fall. If the PCs are exploring, a bookcase topples, potentially hitting someone. Think of all the similar moments you’ve seen in horror films.

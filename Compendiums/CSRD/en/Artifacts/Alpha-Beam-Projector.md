@@ -3,7 +3,7 @@ aliases:
 - Alpha Beam Projector
 tags:
 - Compendium/CSRD/en/Artifacts
-- Artifact
+- Artifact/Weapon
 - Artifact/Science-Fiction
 ---
 

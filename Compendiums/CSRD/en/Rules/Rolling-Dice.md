@@ -25,19 +25,19 @@ This distinction is important when stacking skills and assets to decrease the di
 ### Special Rolls
 If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that number), special rules come into play. These are explained in more detail in the following sections.
 
-#### 1: GM Intrusion  
+##### 1: GM Intrusion  
 >  The GM makes a free intrusion (see below) and doesn’t award experience points (XP) for it.  
 
-#### 17: Damage Bonus
+##### 17: Damage Bonus
 >If the roll was a damage-dealing attack, it deals 1 additional point of damage.  
 
-#### 18: Damage Bonus  
+##### 18: Damage Bonus  
 >If the roll was a damage-dealing attack, it deals 2 additional points of damage.  
 
-#### 19: Minor Effect  
+##### 19: Minor Effect  
 >If the roll was a damage-dealing attack, it deals 3 additional points of damage or the PC gets a minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a minor effect in addition to the normal results of the task.  
 
-#### 20: Major Effect
+##### 20: Major Effect
 >If the roll was a damage-dealing attack, it deals 4 additional points of damage or the PC gets a major or minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a major effect in addition to the normal results of the task. If the PC spent points from a stat Pool on the action, the point cost for the action decreases to 0, meaning the character regains those points as if they had not spent them at all.
 
 #### GM Intrusion  
