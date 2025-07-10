@@ -1,4 +1,4 @@
-----
+---
 aliases:
 - "Soul Familiar"
 tags:
