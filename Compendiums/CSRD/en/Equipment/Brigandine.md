@@ -1,20 +1,21 @@
 ---
 aliases:
-- "Brigandine"
+  - Brigandine
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/200-Gp
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/200-Gp
+  - Equipment/Armor/Medium
+title: Brigandine
+collection: Equipment
+kind: Equipment
 ---
-
-  
-## Brigandine  
-  
->Long strips of metal attached to a cloth or leather backing. Often called "splint mail."  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 200 Gp  
->>[!note] Features  
+## Brigandine    
+    
+>Long strips of metal attached to a cloth or leather backing. Often called "splint mail."    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Expensive, 200 Gp    
+>>[!note] Features    
 >> - Medium armor

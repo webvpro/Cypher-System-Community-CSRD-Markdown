@@ -1,17 +1,25 @@
 ---
 aliases:
-- "Machine Companion"
+  - Machine Companion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Companion
+title: Machine Companion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Companion
 ---
-
-  
-## Machine Companion  
->**Enabler**
-  
+## Machine Companion    
+>**Enabler**  
+    
 You create a level 3 animate, intelligent machine that accompanies you and acts as you direct. As a level 3 machine companion, it has a target number of 9 and 9 health, and it inflicts 3 points of damage. If it's destroyed, it takes you one month to create a new one. Enabler.

@@ -1,17 +1,25 @@
 ---
 aliases:
-- "Sniper's Aim"
+  - Sniper's Aim
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Attack-Skill
+title: Sniper's Aim
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Attack-Skill
 ---
-
-  
-## Sniper's Aim  
->**Enabler**
-  
+## Sniper's Aim    
+>**Enabler**  
+    
 By dint of almost constant practice playing games that simulate making ranged attacks, your hand-eye coordination is off the chart. You have an asset on all ranged attacks. Enabler.

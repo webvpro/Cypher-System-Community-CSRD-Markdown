@@ -1,19 +1,20 @@
 ---
 aliases:
-- "Stealthsuit"
+  - Stealthsuit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Stealthsuit
+collection: Equipment
+kind: Equipment
 ---
-
-  
-## Stealthsuit  
-  
->Provides two assets to stealth tasks.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
+## Stealthsuit    
+    
+>Provides two assets to stealth tasks.    
+> **Options :** Advanced, Apparel & Armor, Science Fiction    
+> **Level :** 4    
 > **Value :** Very Expensive

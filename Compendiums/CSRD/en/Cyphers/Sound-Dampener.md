@@ -1,16 +1,17 @@
 ---
 aliases:
-- Sound Dampener
+  - Sound Dampener
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Sound Dampener
+collection: Cyphers
+kind: Cypher
 ---
-
-  
-## Sound Dampener  
->[!info] Stats  
-> **Level:** 1d6+2  
-> **Kind:** Fantastic
-  
+## Sound Dampener    
+>[!info] Stats    
+> **Level:** 1d6+2    
+> **Kind:** Fantastic  
+    
 Dampens all sound within immediate range for one minute per cypher level, providing an asset on stealth actions by all creatures in the area.
