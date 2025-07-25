@@ -11,6 +11,7 @@ tags:
 title: Ansible
 collection: Equipment
 kind: Equipment
+id: Ansible
 ---
 ## Ansible    
     

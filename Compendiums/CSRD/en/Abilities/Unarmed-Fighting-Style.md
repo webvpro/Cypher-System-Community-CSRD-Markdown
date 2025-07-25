@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Attack-Skill
+id: Unarmed-Fighting-Style
 ---
 ## Unarmed Fighting Style    
 >**Enabler**  

@@ -7,6 +7,7 @@ tags:
 title: Battles Robots
 collection: Foci
 kind: Focus
+id: Battles-Robots
 ---
 ## Battles Robots    
 You excel in battling robots, automatons, and machine entities.    

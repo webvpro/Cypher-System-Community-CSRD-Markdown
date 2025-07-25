@@ -8,6 +8,7 @@ tags:
 title: Death Bringer
 collection: Cyphers
 kind: Cypher
+id: Death-Bringer
 ---
 ## Death Bringer    
 >[!info] Stats    

@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Superhero
 title: Improved Copying
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Superhero
+id: Improved-Copying
 ---
 ## Improved Copying    
 >**Enabler**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Charm-Machine
 ---
 ## Charm Machine    
 >**Action**    

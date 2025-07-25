@@ -9,6 +9,7 @@ title: Guardian Idol
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Guardian-Idol
 ---
 ## Guardian Idol    
 >[!info] Stats    

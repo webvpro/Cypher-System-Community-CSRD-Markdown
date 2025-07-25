@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Absorb-Pure-Energy
 ---
 ## Absorb Pure Energy    
 >**Enabler**  

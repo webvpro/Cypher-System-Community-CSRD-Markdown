@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Rapid-Attack
 ---
 ## Rapid Attack    
 >**Enabler**    

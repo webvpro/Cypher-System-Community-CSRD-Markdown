@@ -8,6 +8,7 @@ tags:
 title: Remote Viewer
 collection: Cyphers
 kind: Cypher
+id: Remote-Viewer
 ---
 ## Remote Viewer    
 >[!info] Stats    

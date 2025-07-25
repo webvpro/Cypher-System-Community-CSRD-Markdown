@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/2
   - Creature/Health/25
+  - Content/Fairytale
 title: Fallen Angel
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 2
 health: 25
+id: Fallen-Angel
+categories:
+  - Fairytale
 ---
 ## Fallen Angel    
 Angels are normally associated with virtue and service to higher moral beings. But just like people, sometimes angels are tempted into impure acts. Those who stray too far over the line may fall from higher realms and be forced to walk the Earth in penance. This experience drives most fallen angels insane.  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Inspiring-Success
 ---
 ## Inspiring Success    
 >**Enabler**    

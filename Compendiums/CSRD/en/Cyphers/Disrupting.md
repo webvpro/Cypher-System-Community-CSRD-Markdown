@@ -8,6 +8,7 @@ tags:
 title: Disrupting
 collection: Cyphers
 kind: Cypher
+id: Disrupting
 ---
 ## Disrupting    
 >[!info] Stats    

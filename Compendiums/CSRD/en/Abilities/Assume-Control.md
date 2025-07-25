@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Assume-Control
 ---
 ## Assume Control    
 >**Action**    

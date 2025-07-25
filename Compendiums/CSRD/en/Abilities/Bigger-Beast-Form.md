@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Transform
+id: Bigger-Beast-Form
 ---
 ## Bigger Beast Form    
 >**Enabler**  

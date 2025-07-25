@@ -9,6 +9,7 @@ title: Staff of the Prophet
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Staff-of-the-Prophet
 ---
 ## Staff of the Prophet    
 >[!info] Stats    

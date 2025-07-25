@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/0
   - Creature/Health/30
+  - Content/Fairytale
 title: Cailleach
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 0
 health: 30
+id: Cailleach
+categories:
+  - Fairytale
 ---
 ## Cailleach    
 Not actually a water spirit, but one who has made her peace with the sea in an eternal bargain, Cailleach once lived on land. Now she is a recluse deep in the ocean in the realm known as the Expanse of Halirane. She appears ancient, and in fact is much older than that. She shaves her head bald, wears dozens of shell earrings in each ear, and has a glass eye that allows her to see three views of the future. As part of her bargain with the sea, she can never return to dry land again, or she will lose all of her powers forever.    

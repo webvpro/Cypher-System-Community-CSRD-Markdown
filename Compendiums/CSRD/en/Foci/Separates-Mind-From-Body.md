@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Exploration
+  - Content/Fantasy
 title: Separates Mind From Body
 collection: Foci
 kind: Focus
+id: Separates-Mind-From-Body
+categories:
+  - Fantasy
 ---
 ## Separates Mind From Body    
 You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.    

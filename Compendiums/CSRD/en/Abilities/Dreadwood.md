@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Intellect
   - Ability/Categories/NA
+  - Content/Fantasy
 title: Dreadwood
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Intellect
 categories:
   - NA
+  - Fantasy
+id: Dreadwood
 ---
 ## Dreadwood    
 >**Action**    

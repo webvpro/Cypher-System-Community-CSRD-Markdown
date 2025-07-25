@@ -10,6 +10,7 @@ tags:
 title: Torch
 collection: Equipment
 kind: Equipment
+id: Torch
 ---
 ## Torch    
     

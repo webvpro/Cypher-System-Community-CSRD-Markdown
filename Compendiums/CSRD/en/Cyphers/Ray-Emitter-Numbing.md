@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Numbing
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Numbing
 ---
 ## Ray Emitter Numbing    
 >[!info] Stats    

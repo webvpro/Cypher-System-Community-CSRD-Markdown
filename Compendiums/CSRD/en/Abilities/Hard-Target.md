@@ -18,8 +18,12 @@ tier: High
 pools: []
 categories:
   - Protection
+id: Hard-Target
 ---
-## Hard Target    
->**Enabler**  
-    
+## Hard Target  
+  
+>**Enabler**
+  
+  
+  
 If you move a short distance or farther on your turn, all Speed defense rolls are eased. Enabler.

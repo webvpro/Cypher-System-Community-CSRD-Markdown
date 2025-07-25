@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Snickersnee
 collection: Cyphers
 kind: Cypher
+id: Snickersnee
+categories:
+  - Fairytale
 ---
 ## Snickersnee    
 >[!info] Stats    

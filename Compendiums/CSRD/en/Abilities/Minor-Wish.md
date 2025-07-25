@@ -22,6 +22,7 @@ categories:
   - Meta
   - Protection
   - Task
+id: Minor-Wish
 ---
 ## Minor Wish    
 >**Action**  

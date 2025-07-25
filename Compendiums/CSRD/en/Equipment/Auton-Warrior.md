@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Auton, Warrior
+  - 'Auton, Warrior'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Auton, Warrior
+title: 'Auton, Warrior'
 collection: Equipment
 kind: Equipment
+id: Auton-Warrior
 ---
 ## Auton, Warrior    
     

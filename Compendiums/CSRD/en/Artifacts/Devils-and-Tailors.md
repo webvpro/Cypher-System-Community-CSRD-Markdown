@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Devils and Tailors
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Devils-and-Tailors
 ---
 ## Devils and Tailors    
 >[!info] Stats    

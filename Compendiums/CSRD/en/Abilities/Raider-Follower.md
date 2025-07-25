@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Raider-Follower
 ---
 ## Raider Follower    
 >**Action**  

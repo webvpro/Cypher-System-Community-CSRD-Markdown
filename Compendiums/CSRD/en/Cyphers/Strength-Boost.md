@@ -8,6 +8,7 @@ tags:
 title: Strength Boost
 collection: Cyphers
 kind: Cypher
+id: Strength-Boost
 ---
 ## Strength Boost    
 >[!info] Stats    

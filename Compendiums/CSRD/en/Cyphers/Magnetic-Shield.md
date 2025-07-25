@@ -8,6 +8,7 @@ tags:
 title: Magnetic Shield
 collection: Cyphers
 kind: Cypher
+id: Magnetic-Shield
 ---
 ## Magnetic Shield    
 >[!info] Stats    

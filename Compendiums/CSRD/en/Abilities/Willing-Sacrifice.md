@@ -20,6 +20,7 @@ pools: []
 categories:
   - Cure
   - Meta
+id: Willing-Sacrifice
 ---
 ## Willing Sacrifice    
 >**Action**  

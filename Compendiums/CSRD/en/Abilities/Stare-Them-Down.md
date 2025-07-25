@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Stare-Them-Down
 ---
 ## Stare Them Down    
 >**Enabler**  

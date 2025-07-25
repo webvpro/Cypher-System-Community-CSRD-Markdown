@@ -4,6 +4,8 @@ aliases:
   - Type (Character)
 tags:
   - Cypher/Rules/Character-Creation/Type
+id: Types-og
+title: Character Type in Cypher
 ---
 
 # Type
@@ -59,28 +61,28 @@ As warriors advance, their skill in battle—whether defending themselves or dis
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-| `dice: 1d20`  | Background                                                                                                               |
-|------|--------------------------------------------------------------------------------------------------------------------------|
-| 1    | You were in the military and have friends who still serve. Your former commander remembers you well.                  |
-| 2    | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace.                   |
-| 3    | You were the bouncer in a local bar for a while, and the patrons there remember you.                                    |
-| 4    | You trained with a highly respected mentor. They regard you well, but they have many enemies.                           |
-| 5    | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others.          |
-| 6    | You have no formal training. Your abilities come to you naturally (or unnaturally).                                     |
-| 7    | You spent time on the streets and were in prison for a while.                                                            |
-| 8    | You were conscripted into military service, but you deserted before long.                                                |
-| 9    | You served as a bodyguard to a powerful criminal who now owes you their life.                                            |
-| 10   | You worked as a police officer or constable of some kind. Everyone knows you, but their opinions of you vary.           |
-| 11   | Your older sibling is an infamous character who has been disgraced.                                                      |
-| 12   | You served as a guard for someone who traveled extensively. You know a smattering of people in many locations.          |
-| 13   | Your best friend is a teacher or scholar. They are a great source of knowledge.                                          |
-| 14   | You and a friend both smoke the same kind of rare, expensive tobacco. The two of you get together weekly to chat and smoke.|
-| 15   | Your uncle runs a theater in town. You know all the actors and watch all the shows for free.                             |
-| 16   | Your craftsman friend sometimes calls on you for help. However, they pay you well.                                       |
-| 17   | Your mentor wrote a book on martial arts. Sometimes people seek you out to ask about its stranger passages.              |
-| 18   | Someone you fought alongside in the military is now the mayor of a nearby town.                                          |
-| 19   | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.|
-| 20   | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors.|
+| `dice: 1d20` | Background                                                                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1            | You were in the military and have friends who still serve. Your former commander remembers you well.                                       |
+| 2            | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace.                                      |
+| 3            | You were the bouncer in a local bar for a while, and the patrons there remember you.                                                       |
+| 4            | You trained with a highly respected mentor. They regard you well, but they have many enemies.                                              |
+| 5            | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others.                            |
+| 6            | You have no formal training. Your abilities come to you naturally (or unnaturally).                                                        |
+| 7            | You spent time on the streets and were in prison for a while.                                                                              |
+| 8            | You were conscripted into military service, but you deserted before long.                                                                  |
+| 9            | You served as a bodyguard to a powerful criminal who now owes you their life.                                                              |
+| 10           | You worked as a police officer or constable of some kind. Everyone knows you, but their opinions of you vary.                              |
+| 11           | Your older sibling is an infamous character who has been disgraced.                                                                        |
+| 12           | You served as a guard for someone who traveled extensively. You know a smattering of people in many locations.                             |
+| 13           | Your best friend is a teacher or scholar. They are a great source of knowledge.                                                            |
+| 14           | You and a friend both smoke the same kind of rare, expensive tobacco. The two of you get together weekly to chat and smoke.                |
+| 15           | Your uncle runs a theater in town. You know all the actors and watch all the shows for free.                                               |
+| 16           | Your craftsman friend sometimes calls on you for help. However, they pay you well.                                                         |
+| 17           | Your mentor wrote a book on martial arts. Sometimes people seek you out to ask about its stranger passages.                                |
+| 18           | Someone you fought alongside in the military is now the mayor of a nearby town.                                                            |
+| 19           | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.           |
+| 20           | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
 ^Cypher-Backgrounds-Warrior
 
 ### Warrior Player Intrusions
@@ -105,7 +107,7 @@ Your foe’s weapon has a weak spot. In the course of the combat, it quickly bec
 | --------- | ------------------- |
 | Might     | 10                  |
 | Speed     | 10                  |
-| Intellect | 8                    |
+| Intellect | 8                   |
 ^Cypher-Stats-Warrior
 
 You get 6 additional points to divide among your stat Pools however you wish.
@@ -238,16 +240,16 @@ For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none o
 
 ## Adept
 
-| Fantasy/Fairy Tale   | Modern/Horror/Romance | Science Fiction          | Superhero/Post-Apocalyptic |
-|----------------------|-----------------------|--------------------------|---------------------------|
-| Wizard               | Psychic               | Psion                    | Mage                      |
-| Mage                 | Occultist             | Psionicist               | Sorcerer                  |
-| Sorcerer             | Witch                 | Telepath                 | Power-wielder             |
-| Cleric               | Practitioner          | Seeker                   | Master                    |
-| Druid                | Medium                | Master                   | Psion                     |
-| Seer                 | Fringe Scientist      | Scanner                  | Telepath                  |
-| Diabolist            |                       | ESPer                    |                           |
-| Fey-touched          |                       | Abomination              |                           |
+| Fantasy/Fairy Tale     | Modern/Horror/Romance   | Science Fiction            | Superhero/Post-Apocalyptic  |
+| ---------------------- | ----------------------- | -------------------------- | --------------------------- |
+| Wizard                 | Psychic                 | Psion                      | Mage                        |
+| Mage                   | Occultist               | Psionicist                 | Sorcerer                    |
+| Sorcerer               | Witch                   | Telepath                   | Power-wielder               |
+| Cleric                 | Practitioner            | Seeker                     | Master                      |
+| Druid                  | Medium                  | Master                     | Psion                       |
+| Seer                   | Fringe Scientist        | Scanner                    | Telepath                    |
+| Diabolist              |                         | ESPer                      |                             |
+| Fey-touched            |                         | Abomination                |                             |
 ^Cypher-Archetype-Adept
 
 You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
@@ -301,28 +303,28 @@ You get 6 additional points to divide among your stat Pools however you wish.
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-| `dice: 1d20` | Background                                                                                                               |
-|------------|--------------------------------------------------------------------------------------------------------------------------|
-| 1          | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.                 |
-| 2          | You studied in a school infamous for its dark, brooding instructors and graduates.                                     |
-| 3          | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential.|
-| 4          | While traveling alone, you saved the life of a powerful person. They remain indebted to you.                            |
-| 5          | Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you.|
-| 6          | You owe money to a number of people and don’t have the funds to pay your debts.                                         |
-| 7          | You failed disgracefully at your initial studies with your teacher and now proceed on your own.                        |
-| 8          | You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention.|
-| 9          | You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few.        |
-| 10         | You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you.|
-| 11         | While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.  |
-| 12         | Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings.                     |
-| 13         | You trained for a time with a group of influential Adepts, and they still look upon you with fondness.                   |
-| 14         | You worked the gardens in the palace of an influential noble or person of wealth. They wouldn’t remember you, but you made friends with their young daughter.|
-| 15         | An experiment you conducted in the past went horribly awry. The locals remember you as a dangerous and foolhardy individual.|
-| 16         | You hail from a distant place where you were well known and regarded, but people here treat you with suspicion.          |
-| 17         | People you meet seem put off by the strange birthmark on your face.                                                     |
-| 18         | Your best friend is also an Adept. You and your friend share discoveries and secrets readily.                          |
-| 19         | You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.|
-| 20         | You belong to a secretive social club that gathers monthly to drink and talk.                                          |
+| `dice: 1d20` | Background                                                                                                                                                        |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1            | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.                                                            |
+| 2            | You studied in a school infamous for its dark, brooding instructors and graduates.                                                                                |
+| 3            | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential. |
+| 4            | While traveling alone, you saved the life of a powerful person. They remain indebted to you.                                                                      |
+| 5            | Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you.                          |
+| 6            | You owe money to a number of people and don’t have the funds to pay your debts.                                                                                   |
+| 7            | You failed disgracefully at your initial studies with your teacher and now proceed on your own.                                                                   |
+| 8            | You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention.                            |
+| 9            | You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few.                                                  |
+| 10           | You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you. |
+| 11           | While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.                                            |
+| 12           | Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings.                                                               |
+| 13           | You trained for a time with a group of influential Adepts, and they still look upon you with fondness.                                                            |
+| 14           | You worked the gardens in the palace of an influential noble or person of wealth. They wouldn’t remember you, but you made friends with their young daughter.     |
+| 15           | An experiment you conducted in the past went horribly awry. The locals remember you as a dangerous and foolhardy individual.                                      |
+| 16           | You hail from a distant place where you were well known and regarded, but people here treat you with suspicion.                                                   |
+| 17           | People you meet seem put off by the strange birthmark on your face.                                                                                               |
+| 18           | Your best friend is also an Adept. You and your friend share discoveries and secrets readily.                                                                     |
+| 19           | You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.                                        |
+| 20           | You belong to a secretive social club that gathers monthly to drink and talk.                                                                                     |
 ^Cypher-Backgrounds-Adept
 
 ### First-Tier Adept
@@ -451,16 +453,16 @@ For her character arc, Jen chooses Aid a Friend. She decides that when her sorce
 
 ## Explorer
 
-| Fantasy/Fairy Tale   | Modern/Horror/Romance                               | Science Fiction        | Superhero/Post-Apocalyptic |
-|----------------------|----------------------------------------------------|------------------------|---------------------------|
-| Explorer             | Athlete                                            | Explorer               | Adventurer                |
-| Adventurer           | Explorer                                           | Adventurer             | Crimefighter              |
-| Delver               | Drifter                                            | Wanderer               |                           |
-| Mystery Seeker       | Detective                                          | Planetary Specialist   |                           |
-|                      | Scholar                                            | Xenobiologist          |                           |
-|                      | Spelunker                                          |                        |                           |
-|                      | Trailblazer                                        |                        |                           |
-|                      | Investigative Reporter                             |                        |                           |
+| Fantasy/Fairy Tale     | Modern/Horror/Romance                                | Science Fiction          | Superhero/Post-Apocalyptic  |
+| ---------------------- | ---------------------------------------------------- | ------------------------ | --------------------------- |
+| Explorer               | Athlete                                              | Explorer                 | Adventurer                  |
+| Adventurer             | Explorer                                             | Adventurer               | Crimefighter                |
+| Delver                 | Drifter                                              | Wanderer                 |                             |
+| Mystery Seeker         | Detective                                            | Planetary Specialist     |                             |
+|                        | Scholar                                              | Xenobiologist            |                             |
+|                        | Spelunker                                            |                          |                             |
+|                        | Trailblazer                                          |                          |                             |
+|                        | Investigative Reporter                               |                          |                             |
 ^Cypher-Archetypes-Explorer
 
 You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.
@@ -513,28 +515,28 @@ You get 6 additional points to divide among your stat Pools however you wish.
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-| `dice: 1d20`  | Background                                                                                                               |
-|------|--------------------------------------------------------------------------------------------------------------------------|
-| 1    | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                 |
-| 2    | Your brother is the lead singer in a really popular band.                                                               |
-| 3    | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.|
-| 4    | You were a cop, but you gave it up after encountering corruption on the force.                                          |
-| 5    | Your parents were missionaries, so you spent much of your young life traveling to exotic places.                       |
-| 6    | You served in the military with honor.                                                                                  |
-| 7    | You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.|
-| 8    | You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.      |
-| 9    | Your best friend from your youth is now an influential member of the government.                                        |
-| 10   | You used to be a teacher. Your students remember you fondly.                                                            |
-| 11   | You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.|
-| 12   | Your greatest discovery to date was stolen by your arch-rival.                                                          |
-| 13   | You belong to an exclusive organization of Explorers whose existence is not widely known.                              |
-| 14   | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety.|
-| 15   | When you were young, you were addicted to narcotics, and now you are a recovering addict.                               |
-| 16   | While exploring a remote location, you saw something strange you’ve never been able to explain.                         |
-| 17   | You own a small bar or restaurant.                                                                                       |
-| 18   | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                     |
-| 19   | Your sister owns a store and gives you a hefty discount.                                                                 |
-| 20   | Your father is a high-ranking officer in the military with many connections.                                             |
+| `dice: 1d20` | Background                                                                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1            | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |
+| 2            | Your brother is the lead singer in a really popular band.                                                                                  |
+| 3            | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.           |
+| 4            | You were a cop, but you gave it up after encountering corruption on the force.                                                             |
+| 5            | Your parents were missionaries, so you spent much of your young life traveling to exotic places.                                           |
+| 6            | You served in the military with honor.                                                                                                     |
+| 7            | You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.           |
+| 8            | You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.                        |
+| 9            | Your best friend from your youth is now an influential member of the government.                                                           |
+| 10           | You used to be a teacher. Your students remember you fondly.                                                                               |
+| 11           | You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.    |
+| 12           | Your greatest discovery to date was stolen by your arch-rival.                                                                             |
+| 13           | You belong to an exclusive organization of Explorers whose existence is not widely known.                                                  |
+| 14           | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety. |
+| 15           | When you were young, you were addicted to narcotics, and now you are a recovering addict.                                                  |
+| 16           | While exploring a remote location, you saw something strange you’ve never been able to explain.                                            |
+| 17           | You own a small bar or restaurant.                                                                                                         |
+| 18           | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                                        |
+| 19           | Your sister owns a store and gives you a hefty discount.                                                                                   |
+| 20           | Your father is a high-ranking officer in the military with many connections.                                                               |
 ^Cypher-Backgrounds-Explorer
 
 ### First-Tier Explorer
@@ -676,16 +678,16 @@ For their character arc, Sam chooses Enterprise. Exploring alien places sometime
 
 ## Speaker
 
-| Fantasy/Fairy Tale   | Modern/Horror/Romance      | Science Fiction   | Superhero/Post-Apocalyptic |
-|----------------------|----------------------------|-------------------|---------------------------|
-| Bard                 | Diplomat                   | Diplomat          | Charmer                   |
-| Speaker              | Charmer                    | Empath            | Mesmerist                 |
-| Skald                | Face                       | Glam              | Puppet Master             |
-| Emissary             | Spinner                    | Consul            |                           |
-| Priest               | Manipulator                | Legate            |                           |
-| Advocate             | Minister                   |                   |                           |
-|                      | Mediator                   |                   |                           |
-|                      | Lawyer                     |                   |                           |
+| Fantasy/Fairy Tale     | Modern/Horror/Romance        | Science Fiction     | Superhero/Post-Apocalyptic  |
+| ---------------------- | ---------------------------- | ------------------- | --------------------------- |
+| Bard                   | Diplomat                     | Diplomat            | Charmer                     |
+| Speaker                | Charmer                      | Empath              | Mesmerist                   |
+| Skald                  | Face                         | Glam                | Puppet Master               |
+| Emissary               | Spinner                      | Consul              |                             |
+| Priest                 | Manipulator                  | Legate              |                             |
+| Advocate               | Minister                     |                     |                             |
+|                        | Mediator                     |                     |                             |
+|                        | Lawyer                       |                     |                             |
 ^Cypher-Archetypes-Speaker
 
 You’re good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.
@@ -737,28 +739,28 @@ You get 6 additional points to divide among your stat Pools however you wish.
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-| `dice: 1d20` | Background                                                                                                               |
-|------------|--------------------------------------------------------------------------------------------------------------------------|
-| 1          | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.         |
-| 2          | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over.|
-| 3          | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil. |
-| 4          | You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.     |
-| 5          | You have no memory of anything that happened to you before the age of 18.                                                |
-| 6          | Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.|
-| 7          | As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.                             |
-| 8          | You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.            |
-| 9          | You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.       |
-| 10         | You have an annoying rival who always seems to get in your way or foil your plans.                                     |
-| 11         | You’ve worked yourself into the position of spokesperson for an organization or company of some importance.            |
-| 12         | Your neighbors were murdered, and the mystery remains unsolved.                                                        |
-| 13         | You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.            |
-| 14         | Your childhood sweetheart ended up with your best friend (now your ex-best friend).                                    |
-| 15         | You are part of a maligned minority, but you work to bring the injustice of your status to public attention.            |
-| 16         | You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.                     |
-| 17         | You once ran a con that cheated important people out of money, and they want revenge.                                 |
-| 18         | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).          |
-| 19         | You are in a close romantic relationship with someone in local politics.                                               |
-| 20         | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|
+| `dice: 1d20` | Background                                                                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1            | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.                                            |
+| 2            | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over. |
+| 3            | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.                                    |
+| 4            | You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.                                        |
+| 5            | You have no memory of anything that happened to you before the age of 18.                                                                                  |
+| 6            | Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.         |
+| 7            | As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.                                                                |
+| 8            | You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.                                                |
+| 9            | You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.                                         |
+| 10           | You have an annoying rival who always seems to get in your way or foil your plans.                                                                         |
+| 11           | You’ve worked yourself into the position of spokesperson for an organization or company of some importance.                                                |
+| 12           | Your neighbors were murdered, and the mystery remains unsolved.                                                                                            |
+| 13           | You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.                                               |
+| 14           | Your childhood sweetheart ended up with your best friend (now your ex-best friend).                                                                        |
+| 15           | You are part of a maligned minority, but you work to bring the injustice of your status to public attention.                                               |
+| 16           | You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.                                                        |
+| 17           | You once ran a con that cheated important people out of money, and they want revenge.                                                                      |
+| 18           | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).                                             |
+| 19           | You are in a close romantic relationship with someone in local politics.                                                                                   |
+| 20           | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |
 ^Cypher-Backgrounds-Speaker
 
 ## First-Tier Speaker
@@ -881,7 +883,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
-Mary chooses [[Compendium/Abilities/Fast-Talk|Fast Talk]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Abilities/Encouragement|Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+| Mary chooses [[Compendium/Abilities/Fast-Talk | Fast Talk]] and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses [[Compendium/Abilities/Encouragement | Encouragement]] as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion). |
 
 A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 

@@ -9,6 +9,7 @@ title: Horn of Thunder
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Horn-of-Thunder
 ---
 ## Horn of Thunder    
 >[!info] Stats    

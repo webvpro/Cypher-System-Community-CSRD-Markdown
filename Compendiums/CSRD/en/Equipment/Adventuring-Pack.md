@@ -9,6 +9,7 @@ tags:
 title: Adventuring Pack
 collection: Equipment
 kind: Equipment
+id: Adventuring-Pack
 ---
 ## Adventuring Pack    
     

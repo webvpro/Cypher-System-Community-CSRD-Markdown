@@ -15,20 +15,21 @@ tags:
 title: Explorer
 collection: Types
 kind: Type
+id: Explorer
 ---
 ## Explorer  
   
-| Fantasy/Fairy Tale   | Modern/Horror/Romance                               | Science Fiction        | Superhero/Post-Apocalyptic |  
-|----------------------|----------------------------------------------------|------------------------|---------------------------|  
-| Explorer             | Athlete                                            | Explorer               | Adventurer                |  
-| Adventurer           | Explorer                                           | Adventurer             | Crimefighter              |  
-| Delver               | Drifter                                            | Wanderer               |                           |  
-| Mystery Seeker       | Detective                                          | Planetary Specialist   |                           |  
-|                      | Scholar                                            | Xenobiologist          |                           |  
-|                      | Spelunker                                          |                        |                           |  
-|                      | Trailblazer                                        |                        |                           |  
-|                      | Investigative Reporter                             |                        |                           |  
-  
+| Fantasy/Fairy Tale     | Modern/Horror/Romance                                | Science Fiction          | Superhero/Post-Apocalyptic  |
+| ---------------------- | ---------------------------------------------------- | ------------------------ | --------------------------- |
+| Explorer               | Athlete                                              | Explorer                 | Adventurer                  |
+| Adventurer             | Explorer                                             | Adventurer               | Crimefighter                |
+| Delver                 | Drifter                                              | Wanderer                 |                             |
+| Mystery Seeker         | Detective                                            | Planetary Specialist     |                             |
+|                        | Scholar                                              | Xenobiologist            |                             |
+|                        | Spelunker                                            |                          |                             |
+|                        | Trailblazer                                          |                          |                             |
+|                        | Investigative Reporter                               |                          |                             |
+
 You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.  
   
 >**Individual Role**: Although Explorers can be academics or well studied, they are first and foremost interested in action. They face grave dangers and terrible obstacles as a routine part of life.  
@@ -50,12 +51,12 @@ When playing an Explorer, you can spend 1 XP to use one of the following player 
   
 ### Explorer Stat Pools  
   
-| Stat      | Pool Starting Value |  
-| --------- | ------------------- |  
-| Might     | 10                  |  
-| Speed     | 9                   |  
-| Intellect | 9                   |  
-  
+| Stat      | Pool Starting Value |
+| --------- | ------------------- |
+| Might     | 10                  |
+| Speed     | 9                   |
+| Intellect | 9                   |
+
 ^Cypher-Stats-Explorer  
   
 You get 6 additional points to divide among your stat Pools however you wish.  
@@ -65,29 +66,29 @@ You get 6 additional points to divide among your stat Pools however you wish.
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.  
   
 >[!info]- Explorer Background Connections  
->| 1d20  | Background                                                                                                               |  
-|------|--------------------------------------------------------------------------------------------------------------------------|  
-| 1    | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                 |  
-| 2    | Your brother is the lead singer in a really popular band.                                                               |  
-| 3    | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.|  
-| 4    | You were a cop, but you gave it up after encountering corruption on the force.                                          |  
-| 5    | Your parents were missionaries, so you spent much of your young life traveling to exotic places.                       |  
-| 6    | You served in the military with honor.                                                                                  |  
-| 7    | You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.|  
-| 8    | You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.      |  
-| 9    | Your best friend from your youth is now an influential member of the government.                                        |  
-| 10   | You used to be a teacher. Your students remember you fondly.                                                            |  
-| 11   | You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.|  
-| 12   | Your greatest discovery to date was stolen by your arch-rival.                                                          |  
-| 13   | You belong to an exclusive organization of Explorers whose existence is not widely known.                              |  
-| 14   | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety.|  
-| 15   | When you were young, you were addicted to narcotics, and now you are a recovering addict.                               |  
-| 16   | While exploring a remote location, you saw something strange you’ve never been able to explain.                         |  
-| 17   | You own a small bar or restaurant.                                                                                       |  
-| 18   | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                     |  
-| 19   | Your sister owns a store and gives you a hefty discount.                                                                 |  
-| 20   | Your father is a high-ranking officer in the military with many connections.                                             |  
-^Cypher-Backgrounds-Explorer  
+| >      | 1d20                                                                                                                                       | Background |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 1      | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |            |
+| 2      | Your brother is the lead singer in a really popular band.                                                                                  |            |
+| 3      | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.           |            |
+| 4      | You were a cop, but you gave it up after encountering corruption on the force.                                                             |            |
+| 5      | Your parents were missionaries, so you spent much of your young life traveling to exotic places.                                           |            |
+| 6      | You served in the military with honor.                                                                                                     |            |
+| 7      | You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.           |            |
+| 8      | You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.                        |            |
+| 9      | Your best friend from your youth is now an influential member of the government.                                                           |            |
+| 10     | You used to be a teacher. Your students remember you fondly.                                                                               |            |
+| 11     | You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.    |            |
+| 12     | Your greatest discovery to date was stolen by your arch-rival.                                                                             |            |
+| 13     | You belong to an exclusive organization of Explorers whose existence is not widely known.                                                  |            |
+| 14     | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety. |            |
+| 15     | When you were young, you were addicted to narcotics, and now you are a recovering addict.                                                  |            |
+| 16     | While exploring a remote location, you saw something strange you’ve never been able to explain.                                            |            |
+| 17     | You own a small bar or restaurant.                                                                                                         |            |
+| 18     | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                                        |            |
+| 19     | Your sister owns a store and gives you a hefty discount.                                                                                   |            |
+| 20     | Your father is a high-ranking officer in the military with many connections.                                                               |            |
+^Cypher-Backgrounds-Explorer
   
 ### First-Tier Explorer  
   

@@ -8,12 +8,18 @@ tags:
   - Creature/Level/5
   - Creature/Armor/0
   - Creature/Health/25
+  - Content/Fairytale
+  - Content/Horror
 title: Demon
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 0
 health: 25
+id: Demon
+categories:
+  - Fairytale
+  - Horror
 ---
 ## Demon    
 Demons are formless spirits of the dead tortured in nether realms until all that was good or caring in them was burned away, forging a being of spite and hate.  

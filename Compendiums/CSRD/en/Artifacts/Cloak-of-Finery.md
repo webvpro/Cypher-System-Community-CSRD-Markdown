@@ -9,6 +9,7 @@ title: Cloak of Finery
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Cloak-of-Finery
 ---
 ## Cloak of Finery    
 >[!info] Stats    

@@ -9,6 +9,7 @@ title: Cat's Eye Spectacles
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Cat's-Eye-Spectacles
 ---
 ## Cat's Eye Spectacles    
 >[!info] Stats    

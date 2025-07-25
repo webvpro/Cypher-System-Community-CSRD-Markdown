@@ -9,6 +9,7 @@ tags:
 title: Pony
 collection: Equipment
 kind: Equipment
+id: Pony
 ---
 ## Pony    
     

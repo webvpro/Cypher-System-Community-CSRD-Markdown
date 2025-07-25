@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Robot-Control
 ---
 ## Robot Control    
 >**Action**    

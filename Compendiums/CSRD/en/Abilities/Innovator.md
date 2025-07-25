@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Craft
+id: Innovator
 ---
 ## Innovator    
 >**Enabler**  

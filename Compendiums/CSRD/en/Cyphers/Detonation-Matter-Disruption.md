@@ -8,6 +8,7 @@ tags:
 title: Detonation Matter Disruption
 collection: Cyphers
 kind: Cypher
+id: Detonation-Matter-Disruption
 ---
 ## Detonation Matter Disruption    
 >[!info] Stats    

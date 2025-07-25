@@ -11,6 +11,7 @@ kind: Cantrip
 pools:
   - Intellect
 cost: '1'
+id: Pen-Cantrip
 ---
 ## Pen Cantrip  (1 Intellect point)  
 You write with your finger on a surface for up to ten minutes as if using a common ballpoint pen. The “ink” immediately dries once you write, but it can be smeared or cleaned up like a normal pen. The ink is blue, black, or dark brown, decided when you cast this cantrip. Action.   

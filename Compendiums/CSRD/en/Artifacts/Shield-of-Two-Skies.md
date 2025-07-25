@@ -9,6 +9,7 @@ title: Shield of Two Skies
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Shield-of-Two-Skies
 ---
 ## Shield of Two Skies    
 >[!info] Stats    

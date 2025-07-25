@@ -9,6 +9,7 @@ tags:
 title: Crossbow Bolts (12)
 collection: Equipment
 kind: Equipment
+id: Crossbow-Bolts-12
 ---
 ## Crossbow Bolts (12)    
     

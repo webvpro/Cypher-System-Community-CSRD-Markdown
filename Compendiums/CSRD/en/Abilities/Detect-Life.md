@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Senses
+id: Detect-Life
 ---
 ## Detect Life    
 >**Action**    

@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Post-Apocalyptic
+  - Content/Science-Fiction
 title: Book
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Book
 ---
 ## Book    
 >[!info] Stats    

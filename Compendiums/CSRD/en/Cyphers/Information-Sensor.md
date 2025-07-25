@@ -8,6 +8,7 @@ tags:
 title: Information Sensor
 collection: Cyphers
 kind: Cypher
+id: Information-Sensor
 ---
 ## Information Sensor    
 >[!info] Stats    

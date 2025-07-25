@@ -9,6 +9,7 @@ tags:
 title: Wizard's Outfit
 collection: Equipment
 kind: Equipment
+id: Wizard's-Outfit
 ---
 ## Wizard's Outfit    
     

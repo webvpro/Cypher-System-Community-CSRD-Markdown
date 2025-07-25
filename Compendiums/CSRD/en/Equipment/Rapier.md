@@ -10,6 +10,7 @@ tags:
 title: Rapier
 collection: Equipment
 kind: Equipment
+id: Rapier
 ---
 ## Rapier    
     

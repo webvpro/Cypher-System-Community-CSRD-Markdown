@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Intelligent-Interface
 ---
 ## Intelligent Interface    
 >**Enabler**    

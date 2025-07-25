@@ -10,6 +10,7 @@ tags:
 title: Large Boat
 collection: Equipment
 kind: Equipment
+id: Large-Boat
 ---
 ## Large Boat    
     

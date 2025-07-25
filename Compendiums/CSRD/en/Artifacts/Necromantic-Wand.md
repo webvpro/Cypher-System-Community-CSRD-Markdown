@@ -9,6 +9,7 @@ title: Necromantic Wand
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Necromantic-Wand
 ---
 ## Necromantic Wand    
 >[!info] Stats    

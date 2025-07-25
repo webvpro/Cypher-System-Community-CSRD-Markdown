@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Influence
+  - Content/Fantasy
 title: Commands Mental Powers
 collection: Foci
 kind: Focus
+id: Commands-Mental-Powers
+categories:
+  - Fantasy
 ---
 ## Commands Mental Powers    
 You have honed the power of your mind to perform amazing psychic deeds.    

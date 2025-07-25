@@ -9,6 +9,7 @@ title: Staff of Black Iron
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Staff-of-Black-Iron
 ---
 ## Staff of Black Iron    
 >[!info] Stats    

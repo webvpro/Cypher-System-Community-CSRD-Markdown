@@ -14,6 +14,7 @@ kind: NPC
 level: 4
 armor: 2
 health: 15
+id: Dwarf
 ---
 ## Dwarf    
 A typical dwarf found outside of their homeland is an explorer, warrior, and tradesperson of some skill. Dwarves travel to find work as mercenaries, sell the goods they create, or find unusual materials to use in their crafting.    

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/0
   - Creature/Health/6
+  - Content/Fairytale
 title: Scholar
 collection: Creatures-NPCs
 kind: NPC
 level: 2
 armor: 0
 health: 6
+id: Scholar
+categories:
+  - Fairytale
 ---
 ## Scholar    
 Scholars might be librarians, sages, wise women, crones, experts, or soothsayers. Typically, scholars seek knowledge above all else, and many also are willing to share it with others (sometimes for a price, sometimes just for the joy of sharing knowledge). A scholar's expertise might be general or specific--they may study the world at large or home in on a specific type of magic or fey being, for example.    

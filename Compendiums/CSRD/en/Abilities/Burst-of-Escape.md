@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Meta
+id: Burst-of-Escape
 ---
 ## Burst of Escape    
 >**Enabler**    

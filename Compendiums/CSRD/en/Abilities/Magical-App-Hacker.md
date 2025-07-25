@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Magical-App-Hacker
 ---
 ## Magical App Hacker    
 >**Enabler**  

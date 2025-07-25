@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Senses
+id: Find-an-Opening
 ---
 ## Find an Opening    
 >**Action**    

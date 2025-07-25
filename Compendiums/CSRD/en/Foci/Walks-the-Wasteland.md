@@ -7,6 +7,7 @@ tags:
 title: Walks the Wasteland
 collection: Foci
 kind: Focus
+id: Walks-the-Wasteland
 ---
 ## Walks the Wasteland    
 Most people want to hide from the devastation or just curl up and die rather than face a hostile world. Not you. You're determined to see what's out there, to survive, and, more than that, to thrive. It's that or let the radioactive rats--or whatever it is that hunts the ruins--get you. If you were around before the end, you could have been a soldier, mercenary, or at least someone who had basic survival training. What sets you apart from all the others like you is that you decided to hope when everything looked darkest. Since then, you have eaten your share of spoiled food and irradiated water, and survived. Whether that's because you've adapted, you're luckier, or you were just tougher than the rest is anyone's guess. But you're still walking the wastes even though so many others are gone. You probably don't spend a lot of time on your appearance, given that you wear the cobbled-together clothing and bits and pieces of armor you're able to scavenge from the ruins. Appearance doesn't matter; actions do.    

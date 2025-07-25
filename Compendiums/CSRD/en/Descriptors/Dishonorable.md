@@ -7,6 +7,7 @@ tags:
 title: Dishonorable
 collection: Descriptors
 kind: Descriptor
+id: Dishonorable
 ---
 ## Dishonorable    
 There is no honor among thieves-or betrayers, backstabbers, liars, or cheats. You are all of these things, and either you don't lose any sleep over it, or you deny the truth to others or to yourself. Regardless, you are willing to do whatever it takes to get your own way. Honor, ethics, and principles are merely words. In your estimation, they have no place in the real world.  

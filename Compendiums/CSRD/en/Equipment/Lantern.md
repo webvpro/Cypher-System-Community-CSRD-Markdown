@@ -10,6 +10,7 @@ tags:
 title: Lantern
 collection: Equipment
 kind: Equipment
+id: Lantern
 ---
 ## Lantern    
     

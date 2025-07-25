@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Command-Machine
 ---
 ## Command Machine    
 >**Action**    

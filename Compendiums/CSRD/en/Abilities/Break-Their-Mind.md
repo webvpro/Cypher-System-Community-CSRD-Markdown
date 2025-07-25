@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Break-Their-Mind
 ---
 ## Break Their Mind    
 >**Action**    

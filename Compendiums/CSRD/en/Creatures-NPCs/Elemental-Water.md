@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Elemental, Water
+  - 'Elemental, Water'
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
   - Creature
@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/24
-title: Elemental, Water
+  - Content/Fairytale
+title: 'Elemental, Water'
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 0
 health: 24
+id: Elemental-Water
+categories:
+  - Fairytale
 ---
 ## Elemental, Water    
 Water elementals are animate masses of water. When swimming, they are nearly indistinguishable from their surroundings, but when they have to move on dry land, they usually take the form of a curling wave, amorphous blob, or large puddle. They can spontaneously appear in locations with pristine salt or fresh water.    

@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Deactivate-Mechanisms
 ---
 ## Deactivate Mechanisms    
 >**Action**    

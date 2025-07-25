@@ -9,6 +9,7 @@ tags:
 title: Straightjacket
 collection: Equipment
 kind: Equipment
+id: Straightjacket
 ---
 ## Straightjacket    
     

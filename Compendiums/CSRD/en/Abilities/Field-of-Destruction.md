@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Protection
+id: Field-of-Destruction
 ---
 ## Field of Destruction    
 >**Enabler**    

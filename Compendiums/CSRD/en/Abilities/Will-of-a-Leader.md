@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Will-of-a-Leader
 ---
 ## Will of a Leader    
 >**Action**    

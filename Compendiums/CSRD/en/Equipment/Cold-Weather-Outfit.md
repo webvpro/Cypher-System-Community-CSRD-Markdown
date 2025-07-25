@@ -9,6 +9,7 @@ tags:
 title: Cold-Weather Outfit
 collection: Equipment
 kind: Equipment
+id: Cold-Weather-Outfit
 ---
 ## Cold-Weather Outfit    
     

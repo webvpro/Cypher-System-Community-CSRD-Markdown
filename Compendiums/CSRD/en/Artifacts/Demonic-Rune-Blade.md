@@ -9,6 +9,7 @@ title: Demonic Rune Blade
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Demonic-Rune-Blade
 ---
 ## Demonic Rune Blade    
 >[!info] Stats    

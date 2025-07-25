@@ -9,6 +9,7 @@ tags:
 title: Alchemist Fire (Flask)
 collection: Equipment
 kind: Equipment
+id: Alchemist-Fire-Flask
 ---
 ## Alchemist Fire (Flask)    
     

@@ -1,9 +1,11 @@
 ---
 aliases:
   - Equipment
-  - "Equipment in Cypher System"
+  - Equipment in Cypher System
 tags:
   - Compendium/CSRD/en/Rules/Equipment
+id: Equipment
+title: Equipment
 ---
 
 # Equipment
@@ -64,7 +66,7 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 | ------ | -------------------------------------- |
 | Light  | +1                                     |
 | Medium | +2                                     |
-| Heavy  | +3                                     | 
+| Heavy  | +3                                     |
 
 #### [[Fantasy-Armor|Fantasy Armor Descriptions]]
 
@@ -77,11 +79,11 @@ Not all characters are familiar with all weapons. Warriors know their way around
 
 >Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, rifles, regular shotguns, assault rifles, and so on. Anything that must be used in two hands is a heavy weapon.
 
-| Weapon | Damage                  |
-|--------|-------------------------|
-| Light  | 2 points (attack eased) |
-| Medium | 4 points                |
-| Heavy  | 6 points                |
+| Weapon   | Damage                    |
+| -------- | ------------------------- |
+| Light    | 2 points (attack eased)   |
+| Medium   | 4 points                  |
+| Heavy    | 6 points                  |
 
 >[!note] 
 >In general, light weapons are moderately priced items, medium weapons are expensive, and heavy weapons are very expensive. Ammunition for a ranged weapon is inexpensive. The Genre chapter offers more specific details on weapons available in a given setting. Keep in mind that in many genres, it’s not acceptable to run around carrying dangerous weapons.

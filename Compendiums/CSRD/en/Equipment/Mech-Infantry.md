@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Mech, Infantry
+  - 'Mech, Infantry'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Mech, Infantry
+title: 'Mech, Infantry'
 collection: Equipment
 kind: Equipment
+id: Mech-Infantry
 ---
 ## Mech, Infantry    
     

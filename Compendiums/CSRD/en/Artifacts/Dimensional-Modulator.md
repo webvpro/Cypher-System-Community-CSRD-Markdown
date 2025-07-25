@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Dimensional Modulator
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Dimensional-Modulator
 ---
 ## Dimensional Modulator    
 >[!info] Stats    

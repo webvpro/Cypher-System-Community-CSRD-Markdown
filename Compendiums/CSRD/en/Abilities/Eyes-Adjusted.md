@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Senses
+id: Eyes-Adjusted
 ---
 ## Eyes Adjusted    
 >**Enabler**  

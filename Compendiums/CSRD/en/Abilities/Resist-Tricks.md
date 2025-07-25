@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Resist-Tricks
 ---
 ## Resist Tricks    
 >**Enabler**  

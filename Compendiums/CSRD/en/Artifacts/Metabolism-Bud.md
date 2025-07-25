@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Metabolism Bud
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Metabolism-Bud
 ---
 ## Metabolism Bud    
 >[!info] Stats    

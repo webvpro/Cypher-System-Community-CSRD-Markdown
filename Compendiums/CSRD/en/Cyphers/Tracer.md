@@ -8,6 +8,7 @@ tags:
 title: Tracer
 collection: Cyphers
 kind: Cypher
+id: Tracer
 ---
 ## Tracer    
 >[!info] Stats    

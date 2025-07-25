@@ -16,6 +16,7 @@ tags:
 title: Military Body Armor
 collection: Equipment
 kind: Equipment
+id: Military-Body-Armor
 ---
 ## Military Body Armor    
     

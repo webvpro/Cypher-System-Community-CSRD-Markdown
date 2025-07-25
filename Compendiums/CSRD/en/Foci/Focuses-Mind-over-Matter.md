@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
 title: Focuses Mind over Matter
 collection: Foci
 kind: Focus
+id: Focuses-Mind-over-Matter
+categories:
+  - Fantasy
 ---
 ## Focuses Mind over Matter    
 You can telekinetically move objects with your mind without physically touching them.    

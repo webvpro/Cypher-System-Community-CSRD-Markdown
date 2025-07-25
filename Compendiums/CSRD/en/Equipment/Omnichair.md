@@ -11,6 +11,7 @@ tags:
 title: Omnichair
 collection: Equipment
 kind: Equipment
+id: Omnichair
 ---
 ## Omnichair    
     

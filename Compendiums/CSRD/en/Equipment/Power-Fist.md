@@ -12,6 +12,7 @@ tags:
 title: Power Fist
 collection: Equipment
 kind: Equipment
+id: Power-Fist
 ---
 ## Power Fist    
     

@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Fantasy
 title: Great Tree
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Fantasy
+id: Great-Tree
 ---
 ## Great Tree    
 >**Enabler**  

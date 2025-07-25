@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Book-of-the-Baker
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Book of the Baker
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Book-of-the-Baker
+contentCategory: Modern Magic Artifacts
 ---
 ## Book of the Baker  
 #### Level   

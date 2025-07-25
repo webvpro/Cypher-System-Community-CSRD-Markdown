@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Vicious Tankard
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Vicious-Tankard
 ---
 ## Vicious Tankard    
 >[!info] Stats    

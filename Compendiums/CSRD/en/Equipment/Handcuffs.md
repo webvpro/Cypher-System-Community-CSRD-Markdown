@@ -16,6 +16,7 @@ tags:
 title: Handcuffs
 collection: Equipment
 kind: Equipment
+id: Handcuffs
 ---
 ## Handcuffs    
     

@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Cure
+id: Escape
 ---
 ## Escape    
 >**Action**    

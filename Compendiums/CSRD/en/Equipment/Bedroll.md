@@ -10,6 +10,7 @@ tags:
 title: Bedroll
 collection: Equipment
 kind: Equipment
+id: Bedroll
 ---
 ## Bedroll    
     

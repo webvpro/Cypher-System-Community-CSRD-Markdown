@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Meta
+id: Charging-Horde
 ---
 ## Charging Horde    
 >**Action**    

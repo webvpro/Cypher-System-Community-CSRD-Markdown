@@ -11,6 +11,7 @@ tags:
 title: Electronic Assistant
 collection: Equipment
 kind: Equipment
+id: Electronic-Assistant
 ---
 ## Electronic Assistant    
     

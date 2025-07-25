@@ -15,6 +15,7 @@ kind: Creature
 level: 5
 armor: 2
 health: 20
+id: Haunted-Car
 ---
 ## Haunted Car    
 Whether you call them haunted, possessed, misenchanted, cursed, or just plain evil, some cars develop a hateful will, the ability to drive themselves, and a love for the smell of blood on asphalt.   

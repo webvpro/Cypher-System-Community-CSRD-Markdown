@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Dark-Matter-Strike
 ---
 ## Dark Matter Strike    
 >**Enabler**    

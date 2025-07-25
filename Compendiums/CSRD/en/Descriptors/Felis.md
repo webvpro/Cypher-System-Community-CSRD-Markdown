@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Post-Apocalyptic
 title: Felis
 collection: Descriptors
 kind: Descriptor
+id: Felis
+categories:
+  - Post-Apocalyptic
 ---
 ## Felis    
 You're an evolved, intelligent cat with the ability to speak and use tools. Felis are equally comfortable running on all fours or standing around in a clowder of other felis gossiping over catswort tea. Your fur is your protection from the elements, but you sometimes wear a harness for your equipment and may adopt boots for rough terrain and hats for fashion or function. Your visage is like that of before-times cats, including piercing, reflective eyes. Like other felis, you are crafty and cautious, unless you feel comfortable with others, in which case you can laze away hours in the sun or a warm spot. But if need be, you are quick to act and are not afraid to use your claws to defend yourself.  

@@ -10,6 +10,7 @@ tags:
 title: Sword (Substandard)
 collection: Equipment
 kind: Equipment
+id: Sword-Substandard
 ---
 ## Sword (Substandard)    
     

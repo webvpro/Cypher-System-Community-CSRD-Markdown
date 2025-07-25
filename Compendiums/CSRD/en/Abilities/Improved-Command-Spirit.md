@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Improved-Command-Spirit
 ---
 ## Improved Command Spirit    
 >**Enabler**  

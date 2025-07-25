@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gate, Interdimensional
+  - 'Gate, Interdimensional'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/7
   - Equipment/Value/Priceless
-title: Gate, Interdimensional
+title: 'Gate, Interdimensional'
 collection: Equipment
 kind: Equipment
+id: Gate-Interdimensional
 ---
 ## Gate, Interdimensional    
     

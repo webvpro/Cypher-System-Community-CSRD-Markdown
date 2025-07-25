@@ -8,6 +8,7 @@ tags:
 title: Nullification Ray
 collection: Cyphers
 kind: Cypher
+id: Nullification-Ray
 ---
 ## Nullification Ray    
 >[!info] Stats    

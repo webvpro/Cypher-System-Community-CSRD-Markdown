@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Word-of-Death
 ---
 ## Word of Death    
 >**Action**    

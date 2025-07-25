@@ -11,6 +11,7 @@ tags:
 title: Manta
 collection: Equipment
 kind: Equipment
+id: Manta
 ---
 ## Manta    
     

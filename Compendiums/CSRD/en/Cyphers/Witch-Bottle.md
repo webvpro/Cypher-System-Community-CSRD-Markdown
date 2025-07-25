@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Witch Bottle
 collection: Cyphers
 kind: Cypher
+id: Witch-Bottle
+categories:
+  - Fairytale
 ---
 ## Witch Bottle    
 >[!info] Stats    

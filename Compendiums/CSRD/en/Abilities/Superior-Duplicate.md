@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Companion
+id: Superior-Duplicate
 ---
 ## Superior Duplicate    
 >**Enabler**    

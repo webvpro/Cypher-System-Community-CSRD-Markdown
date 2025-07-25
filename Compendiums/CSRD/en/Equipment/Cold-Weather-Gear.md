@@ -11,6 +11,7 @@ tags:
 title: Cold Weather Gear
 collection: Equipment
 kind: Equipment
+id: Cold-Weather-Gear
 ---
 ## Cold Weather Gear    
     

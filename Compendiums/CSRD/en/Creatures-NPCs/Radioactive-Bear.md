@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 1
 health: 35
+id: Radioactive-Bear
 ---
 ## Radioactive Bear    
 Exposure to radiation and other mutagens--or possibly the malign design of some before times military lab or inscrutable AI instance--transformed an already large and aggressive bear into something truly horrific. Standing well over 20 feet (6 m) tall, radioactive bears are drawn to radioactive areas, which empower and sustain them, though not completely. Which is why sometimes they head into uncontaminated areas to hunt large game. They especially prefer people.    

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Neverlost
 collection: Cyphers
 kind: Cypher
+id: Neverlost
+categories:
+  - Fairytale
 ---
 ## Neverlost    
 >[!info] Stats    

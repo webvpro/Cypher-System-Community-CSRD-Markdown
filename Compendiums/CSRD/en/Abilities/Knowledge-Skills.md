@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Knowledge-Skills
 ---
 ## Knowledge Skills    
 >**Enabler**  

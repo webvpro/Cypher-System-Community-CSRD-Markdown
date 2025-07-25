@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Control-the-Field
 ---
 ## Control the Field    
 >**Action**    

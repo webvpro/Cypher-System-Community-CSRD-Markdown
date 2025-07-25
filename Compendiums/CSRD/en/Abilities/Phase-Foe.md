@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Phase-Foe
 ---
 ## Phase Foe    
 >**Action**    

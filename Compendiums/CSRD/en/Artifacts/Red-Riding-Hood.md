@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Red Riding Hood
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Red-Riding-Hood
 ---
 ## Red Riding Hood    
 >[!info] Stats    

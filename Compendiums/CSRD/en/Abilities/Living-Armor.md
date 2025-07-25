@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Living-Armor
 ---
 ## Living Armor    
 >**Action**    

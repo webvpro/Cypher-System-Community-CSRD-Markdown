@@ -7,6 +7,7 @@ tags:
 title: Stat Examples
 collection: Rules
 kind: Stats
+id: Stat-Examples
 ---
 ## Stat Examples  
   

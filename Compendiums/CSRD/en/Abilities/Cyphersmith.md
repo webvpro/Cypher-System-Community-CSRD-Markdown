@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Cyphersmith
 ---
 ## Cyphersmith    
 >**Enabler**  

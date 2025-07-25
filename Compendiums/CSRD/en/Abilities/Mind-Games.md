@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Mind-Games
 ---
 ## Mind Games    
 >**Action**    

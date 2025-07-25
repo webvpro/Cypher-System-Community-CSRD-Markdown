@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tools, Specialized
+  - 'Tools, Specialized'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Tools, Specialized
+title: 'Tools, Specialized'
 collection: Equipment
 kind: Equipment
+id: Tools-Specialized
 ---
 ## Tools, Specialized    
     

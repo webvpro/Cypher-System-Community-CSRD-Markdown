@@ -7,6 +7,7 @@ tags:
 title: Perceptive
 collection: Descriptors
 kind: Descriptor
+id: Perceptive
 ---
 ## Perceptive    
 You miss little. You pick out the small details in the world around you and are skilled at making deductions from the information you find. Your talents make you an exceptional sleuth, a formidable scientist, or a talented scout.  

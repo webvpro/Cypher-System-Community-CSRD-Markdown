@@ -8,6 +8,8 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Superhero
+  - Content/Fantasy
 title: Bigger Animal Shape
 collection: Abilities
 kind: Ability
@@ -18,6 +20,9 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Superhero
+  - Fantasy
+id: Bigger-Animal-Shape
 ---
 ## Bigger Animal Shape    
 >**Enabler**  

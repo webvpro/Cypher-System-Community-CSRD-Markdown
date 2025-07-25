@@ -9,6 +9,7 @@ title: Wand of Firebolts
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Wand-of-Firebolts
 ---
 ## Wand of Firebolts    
 >[!info] Stats    

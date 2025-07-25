@@ -9,6 +9,7 @@ tags:
 title: Mirror
 collection: Equipment
 kind: Equipment
+id: Mirror
 ---
 ## Mirror    
     

@@ -7,6 +7,7 @@ tags:
 title: Inquisitive
 collection: Descriptors
 kind: Descriptor
+id: Inquisitive
 ---
 ## Inquisitive    
 The world is vast and mysterious, with wonders and secrets to keep you amazed for several lifetimes. You feel the tugging on your heart, the call to explore the wreckage of past civilizations, to discover new peoples, new places, and whatever bizarre wonders you might find along the way. However, as strongly as you feel the pull to roam the world, you know there is danger aplenty, and you take precautions to ensure that you are prepared for any eventuality. Research, preparation, and readiness will help you live long enough to see everything you want to see and do everything you want to do.  

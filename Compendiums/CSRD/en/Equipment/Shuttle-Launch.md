@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Shuttle, Launch
+  - 'Shuttle, Launch'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/3
   - Equipment/Value/Priceless
-title: Shuttle, Launch
+title: 'Shuttle, Launch'
 collection: Equipment
 kind: Equipment
+id: Shuttle-Launch
 ---
 ## Shuttle, Launch    
     

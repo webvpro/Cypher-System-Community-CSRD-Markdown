@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Balance
 ---
-## Balance    
->**Enabler**  
-    
+## Balance  
+  
+>**Enabler**
+  
+  
+  
 You are trained in balancing. Enabler.

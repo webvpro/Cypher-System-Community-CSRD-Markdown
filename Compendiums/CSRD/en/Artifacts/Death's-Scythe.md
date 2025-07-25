@@ -9,6 +9,7 @@ title: Death's Scythe
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Death's-Scythe
 ---
 ## Death's Scythe    
 >[!info] Stats    

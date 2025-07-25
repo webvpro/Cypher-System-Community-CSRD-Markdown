@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Lead-From-the-Front
 ---
 ## Lead From the Front    
 >**Enabler**  

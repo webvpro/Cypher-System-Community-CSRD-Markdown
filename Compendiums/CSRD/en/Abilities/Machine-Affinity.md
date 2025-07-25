@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Machine-Affinity
 ---
-## Machine Affinity    
->**Enabler**  
-    
+## Machine Affinity  
+  
+>**Enabler**
+  
+  
+  
 You are trained in tasks involving electrical machines. Enabler.

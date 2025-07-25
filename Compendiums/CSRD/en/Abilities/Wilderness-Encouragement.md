@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Wilderness-Encouragement
 ---
 ## Wilderness Encouragement    
 >**Action**    

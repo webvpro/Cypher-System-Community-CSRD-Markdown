@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Guild-Training
 ---
 ## Guild Training    
 >**Enabler**  

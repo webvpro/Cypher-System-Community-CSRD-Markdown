@@ -8,6 +8,7 @@ tags:
 title: Sniper Module
 collection: Cyphers
 kind: Cypher
+id: Sniper-Module
 ---
 ## Sniper Module    
 >[!info] Stats    

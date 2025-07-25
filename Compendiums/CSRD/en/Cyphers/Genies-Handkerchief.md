@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Genie's Handkerchief
 collection: Cyphers
 kind: Cypher
+id: Genies-Handkerchief
+categories:
+  - Fairytale
 ---
 ## Genie's Handkerchief    
 >[!info] Stats    

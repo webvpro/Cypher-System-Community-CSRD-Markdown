@@ -11,6 +11,7 @@ tags:
 title: Dagger Fighter
 collection: Equipment
 kind: Equipment
+id: Dagger-Fighter
 ---
 ## Dagger Fighter    
     

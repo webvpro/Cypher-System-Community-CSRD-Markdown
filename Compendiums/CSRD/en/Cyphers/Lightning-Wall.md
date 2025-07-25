@@ -8,6 +8,7 @@ tags:
 title: Lightning Wall
 collection: Cyphers
 kind: Cypher
+id: Lightning-Wall
 ---
 ## Lightning Wall    
 >[!info] Stats    

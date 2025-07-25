@@ -10,6 +10,7 @@ tags:
 title: Hand Axe
 collection: Equipment
 kind: Equipment
+id: Hand-Axe
 ---
 ## Hand Axe    
     

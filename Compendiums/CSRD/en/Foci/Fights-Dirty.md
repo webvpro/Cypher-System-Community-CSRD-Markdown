@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Fights Dirty
 collection: Foci
 kind: Focus
+id: Fights-Dirty
+categories:
+  - Fantasy
 ---
 ## Fights Dirty    
 You'll do anything to win a fight: bite, scratch, kick, trick, and worse.    

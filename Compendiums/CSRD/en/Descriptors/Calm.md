@@ -7,6 +7,7 @@ tags:
 title: Calm
 collection: Descriptors
 kind: Descriptor
+id: Calm
 ---
 ## Calm    
 You've spent most of your life in sedentary pursuits-books, movies, hobbies, and so on-rather than active ones. You're well versed in all manner of academia or other intellectual pursuits, but nothing physical. You're not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.  

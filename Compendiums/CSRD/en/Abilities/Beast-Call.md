@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Beast-Call
 ---
 ## Beast Call    
 >**Action**    

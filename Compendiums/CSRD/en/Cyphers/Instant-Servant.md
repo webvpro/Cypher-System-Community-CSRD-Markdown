@@ -8,6 +8,7 @@ tags:
 title: Instant Servant
 collection: Cyphers
 kind: Cypher
+id: Instant-Servant
 ---
 ## Instant Servant    
 >[!info] Stats    

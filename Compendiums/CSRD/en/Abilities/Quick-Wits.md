@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Quick-Wits
 ---
 ## Quick Wits    
 >**Enabler**  

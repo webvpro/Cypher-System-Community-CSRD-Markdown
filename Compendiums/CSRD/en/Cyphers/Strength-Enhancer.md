@@ -8,6 +8,7 @@ tags:
 title: Strength Enhancer
 collection: Cyphers
 kind: Cypher
+id: Strength-Enhancer
 ---
 ## Strength Enhancer    
 >[!info] Stats    

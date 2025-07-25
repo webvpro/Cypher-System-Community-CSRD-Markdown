@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Table Be Set
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Table-Be-Set
 ---
 ## Table Be Set  
 >[!info] Stats    

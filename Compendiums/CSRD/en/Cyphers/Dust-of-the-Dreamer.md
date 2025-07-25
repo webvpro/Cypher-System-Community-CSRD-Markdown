@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dust of the Dreamer
 collection: Cyphers
 kind: Cypher
+id: Dust-of-the-Dreamer
+categories:
+  - Fairytale
 ---
 ## Dust of the Dreamer    
 >[!info] Stats    

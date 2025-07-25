@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Demeanor-of-Command
 ---
 ## Demeanor of Command    
 >**Action**    

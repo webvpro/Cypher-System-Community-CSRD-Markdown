@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Transform
+id: Illusory-Disguise
 ---
 ## Illusory Disguise    
 >**Action**    

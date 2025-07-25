@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Shield-Burst
 ---
 ## Shield Burst    
 >**Enabler**  

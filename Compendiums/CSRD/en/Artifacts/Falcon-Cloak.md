@@ -9,6 +9,7 @@ title: Falcon Cloak
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Falcon-Cloak
 ---
 ## Falcon Cloak    
 >[!info] Stats    

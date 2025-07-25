@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Support
+  - Content/Fantasy
 title: Helps Their Friends
 collection: Foci
 kind: Focus
+id: Helps-Their-Friends
+categories:
+  - Fantasy
 ---
 ## Helps Their Friends    
 You love your friends and help them out of any difficulty, no matter what.    

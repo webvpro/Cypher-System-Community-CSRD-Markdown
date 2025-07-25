@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Magic Beans
 collection: Cyphers
 kind: Cypher
+id: Magic-Beans
+categories:
+  - Fairytale
 ---
 ## Magic Beans    
 >[!info] Stats    

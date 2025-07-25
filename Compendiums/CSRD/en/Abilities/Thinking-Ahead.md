@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Thinking-Ahead
 ---
 ## Thinking Ahead    
 >**Action**    

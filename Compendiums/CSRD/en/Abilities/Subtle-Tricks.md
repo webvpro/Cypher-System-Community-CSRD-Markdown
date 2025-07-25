@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Subtle-Tricks
 ---
 ## Subtle Tricks    
 >**Enabler**  

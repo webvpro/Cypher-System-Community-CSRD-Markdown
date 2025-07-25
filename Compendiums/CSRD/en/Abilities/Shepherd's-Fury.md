@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Shepherd's-Fury
 ---
 ## Shepherd's Fury    
 >**Action**  

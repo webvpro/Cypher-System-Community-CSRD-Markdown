@@ -7,6 +7,7 @@ tags:
 title: Hardy
 collection: Descriptors
 kind: Descriptor
+id: Hardy
 ---
 ## Hardy    
 Your body was built to take abuse. Whether you're pounding down stiff drinks while holding up a bar in your favorite watering hole or trading blows with a thug in a back alley, you keep going, shrugging off hurts and injuries that might slow or incapacitate a lesser person. Neither hunger nor thirst, cut flesh nor broken bone can stop you. You just press on through the pain and continue.  

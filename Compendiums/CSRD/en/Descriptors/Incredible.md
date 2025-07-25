@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Superhero
 title: Incredible
 collection: Descriptors
 kind: Descriptor
+id: Incredible
+categories:
+  - Superhero
 ---
 ## Incredible    
 You're misunderstood, and you might not even think of yourself as a hero, but somehow you keep ending up in situations where your abilities are just what's needed to prevent disaster. Maybe good luck cancels out just enough of being cursed to count as a win. You've saved innocent lives, defeated some really bad people, and perhaps even cheated death a couple of times. Half the time you don't even know how you did it, but you succeeded at the impossible . . . often with a lot of collateral damage. When you hear police sirens, it's time to leave, but you know that trouble will find you eventually--and you'll be ready to smash it.  

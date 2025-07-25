@@ -22,6 +22,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Devoted-Defender
 ---
 ## Devoted Defender    
 >**Action**    

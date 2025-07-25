@@ -8,6 +8,7 @@ tags:
 title: Perfection
 collection: Cyphers
 kind: Cypher
+id: Perfection
 ---
 ## Perfection    
 >[!info] Stats    

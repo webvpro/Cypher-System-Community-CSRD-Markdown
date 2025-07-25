@@ -22,6 +22,7 @@ pools:
 categories:
   - Magic
   - Fantasy
+id: Spore-Cloud
 ---
 ## Spore Cloud  
 >**Action**    

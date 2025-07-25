@@ -7,6 +7,7 @@ tags:
 title: Special Abilities
 collection: Rules
 kind: Character
+id: Special-Abilities
 ---
 ## Special Abilities  
   

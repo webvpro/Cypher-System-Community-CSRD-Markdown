@@ -7,6 +7,7 @@ tags:
 title: Disassembler
 collection: Cyphers
 kind: Cypher
+id: Disassembler
 ---
 ## Disassembler    
 >[!info] Stats    

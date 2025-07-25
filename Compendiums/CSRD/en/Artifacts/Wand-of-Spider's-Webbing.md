@@ -9,6 +9,7 @@ title: Wand of Spider's Webbing
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Wand-of-Spider's-Webbing
 ---
 ## Wand of Spider's Webbing    
 >[!info] Stats    

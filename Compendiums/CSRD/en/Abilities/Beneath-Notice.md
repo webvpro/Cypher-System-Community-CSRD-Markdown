@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Superhero
 title: Beneath Notice
 collection: Abilities
 kind: Ability
@@ -18,8 +19,13 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Superhero
+id: Beneath-Notice
 ---
-## Beneath Notice    
->**Enabler**  
-    
+## Beneath Notice  
+  
+>**Enabler**
+  
+  
+  
 Your decreased size makes it difficult to find you. While Shrink is active on you, all stealth tasks you attempt are eased. Enabler.

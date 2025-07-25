@@ -8,6 +8,7 @@ tags:
 title: Instant Boat
 collection: Cyphers
 kind: Cypher
+id: Instant-Boat
 ---
 ## Instant Boat    
 >[!info] Stats    

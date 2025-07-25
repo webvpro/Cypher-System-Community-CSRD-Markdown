@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Mind Disrupting
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Mind-Disrupting
 ---
 ## Ray Emitter Mind Disrupting    
 >[!info] Stats    

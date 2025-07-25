@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Thief's-Luck
 ---
 ## Thief's Luck    
 >**Action**  

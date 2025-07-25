@@ -9,6 +9,7 @@ title: Cloak of Elfkind
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Cloak-of-Elfkind
 ---
 ## Cloak of Elfkind    
 >[!info] Stats    

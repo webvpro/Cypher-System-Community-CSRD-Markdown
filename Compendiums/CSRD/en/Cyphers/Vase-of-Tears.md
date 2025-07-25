@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Vase of Tears
 collection: Cyphers
 kind: Cypher
+id: Vase-of-Tears
+categories:
+  - Fairytale
 ---
 ## Vase of Tears    
 >[!info] Stats    

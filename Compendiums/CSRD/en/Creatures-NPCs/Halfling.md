@@ -14,6 +14,7 @@ kind: NPC
 level: 3
 armor: 0
 health: 9
+id: Halfling
 ---
 ## Halfling    
 A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions.    

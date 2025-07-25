@@ -8,6 +8,7 @@ tags:
 title: Energy Boost
 collection: Cyphers
 kind: Cypher
+id: Energy-Boost
 ---
 ## Energy Boost    
 >[!info] Stats    

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers/Sorcerers-Skeleton-Key
   - Cypher
+  - Content/Fairytale
 title: Sorcerer's Skeleton Key
 collection: Cyphers
 kind: Cypher
+id: Sorcerers-Skeleton-Key
+categories:
+  - Fairytale
 ---
 ## Sorcerer's Skeleton Key    
 >[!info] Stats    

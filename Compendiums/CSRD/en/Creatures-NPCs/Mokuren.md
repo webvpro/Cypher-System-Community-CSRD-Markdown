@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 9
+id: Mokuren
 ---
 ## Mokuren    
 Mokuren are usually no larger than a cat, but they possess the ability to swell until they're the size of a bus (if only briefly). That ability, combined with their flashy pyrokinetic tails, make these creatures a particular favorite with children, at least in stories and picture books. Given that mokuren can "burrow" into paintings and other two-dimensional art, it's possible that some mokuren images are more than simple representations.    

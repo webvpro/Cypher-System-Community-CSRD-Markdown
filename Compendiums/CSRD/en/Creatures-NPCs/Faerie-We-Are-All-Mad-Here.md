@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 12
+id: Faerie-We-Are-All-Mad-Here
 ---
 ## Faerie We Are All Mad Here    
 In general, faeries (sometimes called fairies or fair folk) are humanoid in appearance, small in stature, and magical. They are associated with music, mirth, tricks, and taunts. Seeing one is an omen--hopefully, an omen of a silly song or the first appearance of an annoying new road companion (the very faerie sighted) flitting around, asking the questions of a curious four-year-old hyped up on sugar water and ice cream. Some faeries are tricksters, delighting in playing pranks and stealing clothing, equipment, or prized objects. And a few are malicious, luring travelers to their various dooms, making deadly deals, and forcing others into captivity.  

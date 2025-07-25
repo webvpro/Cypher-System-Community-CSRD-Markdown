@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Synth, Free
+  - 'Synth, Free'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Expensive*
-title: Synth, Free
+title: 'Synth, Free'
 collection: Equipment
 kind: Equipment
+id: Synth-Free
 ---
 ## Synth, Free    
     

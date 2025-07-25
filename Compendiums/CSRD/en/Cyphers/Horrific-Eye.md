@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Horrific Eye
 collection: Cyphers
 kind: Cypher
+id: Horrific-Eye
+categories:
+  - Horror
 ---
 ## Horrific Eye    
 >[!info] Stats    

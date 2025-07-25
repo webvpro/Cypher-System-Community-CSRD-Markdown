@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Protection
+id: Divert-Attacks
 ---
 ## Divert Attacks    
 >**Action**    

@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Intellect
   - Ability/Categories/NA
+  - Content/Superhero
 title: Small Flight
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Intellect
 categories:
   - NA
+  - Superhero
+id: Small-Flight
 ---
 ## Small Flight    
 >**Action**    

@@ -8,6 +8,7 @@ tags:
 title: Mind Meld
 collection: Cyphers
 kind: Cypher
+id: Mind-Meld
 ---
 ## Mind Meld    
 >[!info] Stats    

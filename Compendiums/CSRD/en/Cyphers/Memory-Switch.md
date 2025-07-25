@@ -8,6 +8,7 @@ tags:
 title: Memory Switch
 collection: Cyphers
 kind: Cypher
+id: Memory-Switch
 ---
 ## Memory Switch    
 >[!info] Stats    

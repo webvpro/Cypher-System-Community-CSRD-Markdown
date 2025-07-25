@@ -22,6 +22,7 @@ pools:
 categories:
   - Meta
   - Task
+id: Coordinated-Effort
 ---
 ## Coordinated Effort    
 >**Action**    

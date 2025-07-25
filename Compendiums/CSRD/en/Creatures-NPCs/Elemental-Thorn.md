@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Elemental, Thorn
+  - 'Elemental, Thorn'
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
   - Creature
@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/2
   - Creature/Health/36
-title: Elemental, Thorn
+  - Content/Fairytale
+title: 'Elemental, Thorn'
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 2
 health: 36
+id: Elemental-Thorn
+categories:
+  - Fairytale
 ---
 ## Elemental, Thorn    
 The grisly sign of an active thorn elemental in areas of heavy woods or jungle is the presence of shriveled bodies dangling from vines, dead of strangulation and poison. Thorn elementals take form in areas dense with woody growth under threat by hatchet, axe, saw, and, sometimes, human-caused climate disruptions.    

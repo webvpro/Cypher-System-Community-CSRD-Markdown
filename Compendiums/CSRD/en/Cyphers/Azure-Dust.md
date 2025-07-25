@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Azure Dust
 collection: Cyphers
 kind: Cypher
+id: Azure-Dust
+categories:
+  - Fairytale
 ---
 ## Azure Dust    
 >[!info] Stats    

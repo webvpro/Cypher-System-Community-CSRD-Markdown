@@ -8,6 +8,7 @@ tags:
 title: Secret
 collection: Cyphers
 kind: Cypher
+id: Secret
 ---
 ## Secret    
 >[!info] Stats    

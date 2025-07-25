@@ -8,6 +8,7 @@ title: Learn
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Learn
 ---
 ## Learn  
 >You want to learn something. This isn’t the same as the Uncover a Secret arc, in which you’re looking for a bit of information. This is a skill or whole area of knowledge you want to gain proficiency with. This is learning a new language, how to play an instrument, or how to be a good cook. Thus, it’s not about gaining a level or rank in climbing, but learning to be an experienced mountaineer.  

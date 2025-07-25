@@ -12,6 +12,7 @@ tags:
 title: Taser
 collection: Equipment
 kind: Equipment
+id: Taser
 ---
 ## Taser    
     

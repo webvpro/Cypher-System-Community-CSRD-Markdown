@@ -8,6 +8,7 @@ tags:
 title: Vocal Translator
 collection: Cyphers
 kind: Cypher
+id: Vocal-Translator
 ---
 ## Vocal Translator    
 >[!info] Stats    

@@ -10,6 +10,7 @@ tags:
 title: Small Spaceship
 collection: Equipment
 kind: Equipment
+id: Small-Spaceship
 ---
 ## Small Spaceship    
     

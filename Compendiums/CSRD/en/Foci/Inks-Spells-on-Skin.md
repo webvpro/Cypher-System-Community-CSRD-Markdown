@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/nks-Spells-on-Skin
   - Focus/Category/
+  - Content/Modern-Magic
 title: Inks Spells on Skin
 collection: Foci
 kind: Focus
+id: Inks-Spells-on-Skin
+categories:
+  - Modern-Magic
 ---
 ## Inks Spells on Skin    
 Your enchanted heritage is etched upon you. Studying strange formulas, mystic runes, and magical glyphs to learn spells is one thing. Making spells truly a part of you is another, but that’s exactly what you do when you apply magical inks to create intricate spell tattoos across your body. Each tattoo you inscribe on yourself is not merely a design, but the keystone of a spell, giving you the ability to cast it. Because your tattoos are magical, you can continually add to those you’ve already accumulated without ruining the designs, allowing your mastery over magic to grow. You often wear clothing that bares your arms and perhaps other parts of your body to expose your tattoos, so that others know you for a spellcaster.  

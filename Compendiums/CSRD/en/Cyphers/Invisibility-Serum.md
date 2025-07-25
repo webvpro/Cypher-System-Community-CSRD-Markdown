@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Invisibility Serum
 collection: Cyphers
 kind: Cypher
+id: Invisibility-Serum
+categories:
+  - Horror
 ---
 ## Invisibility Serum    
 >[!info] Stats    

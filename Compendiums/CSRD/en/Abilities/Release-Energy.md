@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Special-Attack
+id: Release-Energy
 ---
 ## Release Energy    
 >**Action**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Deflect-Attacks
 ---
 ## Deflect Attacks    
 >**Action**    

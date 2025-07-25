@@ -22,6 +22,7 @@ pools:
 categories:
   - Meta
   - Special-Attack
+id: Push-Off-and-Throw
 ---
 ## Push Off and Throw    
 >**Action**    

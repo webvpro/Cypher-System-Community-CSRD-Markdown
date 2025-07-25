@@ -11,6 +11,7 @@ tags:
 title: Gun Armor
 collection: Equipment
 kind: Equipment
+id: Gun-Armor
 ---
 ## Gun Armor    
     

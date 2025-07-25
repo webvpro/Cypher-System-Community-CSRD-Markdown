@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Electric-Armor
 ---
 ## Electric Armor    
 >**Enabler**    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Illusory-Selves
 ---
 ## Illusory Selves    
 >**Action**    

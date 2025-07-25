@@ -7,6 +7,7 @@ tags:
 title: Hopeful
 collection: Descriptors
 kind: Descriptor
+id: Hopeful
 ---
 ## Hopeful    
 Despite civilization's fall, you're optimistic about what the future could bring, confident   

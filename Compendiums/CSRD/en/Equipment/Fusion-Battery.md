@@ -11,6 +11,7 @@ tags:
 title: Fusion Battery
 collection: Equipment
 kind: Equipment
+id: Fusion-Battery
 ---
 ## Fusion Battery    
     

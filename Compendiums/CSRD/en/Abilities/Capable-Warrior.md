@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Capable-Warrior
 ---
 ## Capable Warrior    
 >**Enabler**  

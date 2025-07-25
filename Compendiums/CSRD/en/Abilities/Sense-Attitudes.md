@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Sense-Attitudes
 ---
 ## Sense Attitudes    
 >**Enabler**  

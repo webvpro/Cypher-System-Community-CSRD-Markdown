@@ -1,8 +1,10 @@
 ---
 aliases:
-  - "Running the Cypher System"
+  - Running the Cypher System
 tags:
   - Compendium/CSRD/en/Rules/Running-the-Cypher-System
+id: Running-the-Cypher-system
+title: Running the Cypher System
 ---
 # Running the Cypher System
 
@@ -273,59 +275,59 @@ Most artifacts in a Cypher System fairy tale setting are magical objects that ha
 In a modern fantasy setting, the following items (and anything else appropriate to a modern Earthlike world) are usually available. As with most physical things, a character can spend more for a higher-quality version of an item, such as an expensive altar cloth instead of a moderately priced one. Some of these price categories are higher than for a typical real-world item because items used with magic usually require higher quality or specific materials.
 
 #### Inexpensive Items
-| Item                   | Notes                                                 |
-|------------------------|-------------------------------------------------------|
-| Bottle                 |                                                       |
-| Bowl                   |                                                       |
-| Box                    |                                                       |
-| Candle                 |                                                       |
-| Candle Holder          |                                                       |
-| Crystals               |                                                       |
-| Figurine               |                                                       |
-| Fresh or dried flowers |                                                       |
-| Incense                |                                                       |
-| Mason Jar              |                                                       |
-| Metal needles          |                                                       |
-| Mortar and pestle      | Required for some magic and crafting                  |
-| Pendulum               |                                                       |
-| Poster                 | Diagrams of herbs and medicinal plants                |
-| Sealing wax            | Used in some rituals and for sealing letters          |
-| Seashells              |                                                       |
-| Smudging stick         | For cleansing an area and warding off negative energy |
-| Tea                    |                                                       |
+| Item                     | Notes                                                   |
+| ------------------------ | ------------------------------------------------------- |
+| Bottle                   |                                                         |
+| Bowl                     |                                                         |
+| Box                      |                                                         |
+| Candle                   |                                                         |
+| Candle Holder            |                                                         |
+| Crystals                 |                                                         |
+| Figurine                 |                                                         |
+| Fresh or dried flowers   |                                                         |
+| Incense                  |                                                         |
+| Mason Jar                |                                                         |
+| Metal needles            |                                                         |
+| Mortar and pestle        | Required for some magic and crafting                    |
+| Pendulum                 |                                                         |
+| Poster                   | Diagrams of herbs and medicinal plants                  |
+| Sealing wax              | Used in some rituals and for sealing letters            |
+| Seashells                |                                                         |
+| Smudging stick           | For cleansing an area and warding off negative energy   |
+| Tea                      |                                                         |
 
 
 #### Moderately Priced Items 
 
-|                         |                                     |
-|-------------------------|-------------------------------------|
-| Old book                | Asset on knowledge related tasks    |
-| Plant                   | Provides herbs or supportive energy |
-| Pouch                   | Leather or velvet                   |
-| Rune set                | Required for some divination spells |
-| Set of small stones     | Required for some magic             |
-| Signet                  | For use with sealing wax            |
-| Skull (human or animal) |                                     |
-| Spirit board            |                                     |
-| Staff                   |                                     |
-| Tarot deck              |                                     |
-| Vintage clothing        |                                     |
-| Wand                    |                                     |
+|                           |                                       |
+| ------------------------- | ------------------------------------- |
+| Old book                  | Asset on knowledge related tasks      |
+| Plant                     | Provides herbs or supportive energy   |
+| Pouch                     | Leather or velvet                     |
+| Rune set                  | Required for some divination spells   |
+| Set of small stones       | Required for some magic               |
+| Signet                    | For use with sealing wax              |
+| Skull (human or animal)   |                                       |
+| Spirit board              |                                       |
+| Staff                     |                                       |
+| Tarot deck                |                                       |
+| Vintage clothing          |                                       |
+| Wand                      |                                       |
 
 #### Expensive Items
-| Old book                | Asset on knowledge related tasks    |
-|-------------------------|-------------------------------------|
-| Plant                   | Provides herbs or supportive energy |
-| Pouch                   | Leather or velvet                   |
-| Rune set                | Required for some divination spells |
-| Set of small stones     | Required for some magic             |
-| Signet                  | For use with sealing wax            |
-| Skull (human or animal) |                                     |
-| Spirit board            |                                     |
-| Staff                   |                                     |
-| Tarot deck              |                                     |
-| Vintage clothing        |                                     |
-| Wand                    |                                     |
+| Old book                  | Asset on knowledge related tasks      |
+| ------------------------- | ------------------------------------- |
+| Plant                     | Provides herbs or supportive energy   |
+| Pouch                     | Leather or velvet                     |
+| Rune set                  | Required for some divination spells   |
+| Set of small stones       | Required for some magic               |
+| Signet                    | For use with sealing wax              |
+| Skull (human or animal)   |                                       |
+| Spirit board              |                                       |
+| Staff                     |                                       |
+| Tarot deck                |                                       |
+| Vintage clothing          |                                       |
+| Wand                      |                                       |
 
 Many items in these lists are magical implements used with casting spells and performing rituals, but don’t have a specific purpose in the rules. The GM may decide that certain abilities or kinds of abilities require them or are hindered without them, such as using a crystal ball for a scrying spell, an athame for a protection spell, or a spirit board for a ritual to talk to a dead person.
 

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Word-of-Command
 ---
 ## Word of Command    
 >**Action**    

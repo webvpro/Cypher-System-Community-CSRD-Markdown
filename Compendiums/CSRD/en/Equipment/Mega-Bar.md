@@ -11,6 +11,7 @@ tags:
 title: Mega Bar
 collection: Equipment
 kind: Equipment
+id: Mega-Bar
 ---
 ## Mega Bar    
     

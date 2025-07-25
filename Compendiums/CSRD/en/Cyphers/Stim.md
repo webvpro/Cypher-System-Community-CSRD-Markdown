@@ -8,6 +8,7 @@ tags:
 title: Stim
 collection: Cyphers
 kind: Cypher
+id: Stim
 ---
 ## Stim    
 >[!info] Stats    

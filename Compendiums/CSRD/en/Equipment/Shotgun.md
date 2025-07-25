@@ -23,6 +23,7 @@ tags:
 title: Shotgun
 collection: Equipment
 kind: Equipment
+id: Shotgun
 ---
 ## Shotgun    
     

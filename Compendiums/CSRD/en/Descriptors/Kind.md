@@ -7,6 +7,7 @@ tags:
 title: Kind
 collection: Descriptors
 kind: Descriptor
+id: Kind
 ---
 ## Kind    
 It's always been easy for you to see things from the point of view of other people. That ability has made you sympathetic to what they really want or need. From your perspective, you're just applying the old proverb that "it's easier to catch flies with honey than with vinegar," but others simply see your behavior as kindness. Of course, being kind takes time, and yours is limited. You've learned that a small fraction of people don't deserve your time or kindness-true sadists, narcissists, and similar folk will only waste your energy. So you deal with them swiftly, saving your kindness for those who deserve it and can benefit from your attention.  

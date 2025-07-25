@@ -8,12 +8,18 @@ tags:
   - Creature/Level/4
   - Creature/Armor/3
   - Creature/Health/12
+  - Content/Fairytale
+  - Content/Horror
 title: Devil
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 3
 health: 12
+id: Devil
+categories:
+  - Fairytale
+  - Horror
 ---
 ## Devil    
 Devils are manifest evil. As "native fauna" of various tortuous nether realms, devils come in many forms, though most are iterations on a theme that includes a humanoid shape, large batwings, bestial faces, and twisting horns. Most stink of brimstone and sport tails that end in a fork. Devils fill the ranks of hellish armies, guard evil vaults, and appear at the magical summons of warlocks and sorcerers who are not afraid for the sanctity of their own souls.    

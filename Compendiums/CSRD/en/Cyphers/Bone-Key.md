@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Bone Key
 collection: Cyphers
 kind: Cypher
+id: Bone-Key
+categories:
+  - Fairytale
 ---
 ## Bone Key    
 >[!info] Stats    

@@ -12,6 +12,7 @@ tags:
 title: Pulse Laser Gun
 collection: Equipment
 kind: Equipment
+id: Pulse-Laser-Gun
 ---
 ## Pulse Laser Gun    
     

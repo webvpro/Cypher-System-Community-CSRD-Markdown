@@ -8,6 +8,7 @@ tags:
 title: Screen Control
 collection: Cyphers
 kind: Cypher
+id: Screen-Control
 ---
 ## Screen Control   
 >[!info] Stats    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Serum, Acceleration
+  - 'Serum, Acceleration'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Expensive
-title: Serum, Acceleration
+title: 'Serum, Acceleration'
 collection: Equipment
 kind: Equipment
+id: Serum-Acceleration
 ---
 ## Serum, Acceleration    
     

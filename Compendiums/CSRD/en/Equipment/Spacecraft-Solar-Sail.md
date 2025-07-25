@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Spacecraft, Solar Sail
+  - 'Spacecraft, Solar Sail'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Spacecraft, Solar Sail
+title: 'Spacecraft, Solar Sail'
 collection: Equipment
 kind: Equipment
+id: Spacecraft-Solar-Sail
 ---
 ## Spacecraft, Solar Sail    
     

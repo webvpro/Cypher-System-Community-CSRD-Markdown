@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Movement
+id: Very-Long-Sprinting
 ---
 ## Very Long Sprinting    
 >**Enabler**  

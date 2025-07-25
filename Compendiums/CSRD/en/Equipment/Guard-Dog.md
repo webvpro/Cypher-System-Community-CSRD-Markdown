@@ -9,6 +9,7 @@ tags:
 title: Guard Dog
 collection: Equipment
 kind: Equipment
+id: Guard-Dog
 ---
 ## Guard Dog    
     

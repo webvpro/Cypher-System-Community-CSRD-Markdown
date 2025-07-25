@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 2
 health: 23
+id: Artificial-Intelligence-Ai 1
 ---
 ## Artificial Intelligence Ai    
 An artificial intelligence thinks independently, learning and evolving with experience. AIs have their own goals and motivations, and may work with or against humans. Some want to gather data, some want to solve technological problems, and some want to take over the world--at any cost.   

@@ -9,6 +9,7 @@ title: Crystal Ball
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Crystal-Ball
 ---
 ## Crystal Ball    
 >[!info] Stats    

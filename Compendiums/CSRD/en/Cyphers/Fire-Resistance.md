@@ -8,6 +8,7 @@ tags:
 title: Fire Resistance
 collection: Cyphers
 kind: Cypher
+id: Fire-Resistance
 ---
 ## Fire Resistance    
 >[!info] Stats    

@@ -9,6 +9,7 @@ tags:
 title: Fancy Outfit
 collection: Equipment
 kind: Equipment
+id: Fancy-Outfit
 ---
 ## Fancy Outfit    
     

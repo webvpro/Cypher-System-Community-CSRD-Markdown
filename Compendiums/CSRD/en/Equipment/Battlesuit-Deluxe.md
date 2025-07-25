@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Battlesuit, Deluxe
+  - 'Battlesuit, Deluxe'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
   - Equipment/Armor/Heavy
-title: Battlesuit, Deluxe
+title: 'Battlesuit, Deluxe'
 collection: Equipment
 kind: Equipment
+id: Battlesuit-Deluxe
 ---
 ## Battlesuit, Deluxe    
     

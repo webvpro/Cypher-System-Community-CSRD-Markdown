@@ -10,6 +10,7 @@ tags:
 title: Rules of the Game
 collection: Rules
 kind: Rules
+id: Rules-of-the-Game
 ---
 # Rules of the Game    
 Cypher System games are played in the joint imagination of all the players, including the GM. The GM sets the scene, the players state what their characters attempt to do, and the GM determines what happens next. The rules and the dice help make the game run smoothly, but it’s the people, not the rules or the dice, that direct the action and determine the story—and the fun. If a rule gets in the way or detracts from the game, the players and the GM should work together to change it.  
@@ -333,13 +334,13 @@ When you rest, make a recovery roll. To do this, roll a d6 and add your tier. Yo
   
 >Each character chooses when to make recovery rolls. If a party of five PCs rests for ten minutes because two of them want to make recovery rolls, the others don’t have to make rolls at that time. Later in the day, those three can decide to rest for ten minutes and make recovery rolls.  
  ##### Recovery Roll Table  
->| Recovery Roll        | Rest Time Needed |  
->|----------------------|------------------|  
->| First recovery roll  | One action       |  
->| Second recovery roll | Ten minutes      |  
->| Third recovery roll  | One hour         |  
->| Fourth recovery roll | Ten hours        |  
-  
+| >   | Recovery Roll          | Rest Time Needed   |
+| >   | ---------------------- | ------------------ |
+| >   | First recovery roll    | One action         |
+| >   | Second recovery roll   | Ten minutes        |
+| >   | Third recovery roll    | One hour           |
+| >   | Fourth recovery roll   | Ten hours          |
+
 #### Restoring the Damage Track   
 Using points from a recovery roll to raise a stat Pool from 0 to 1 or higher also automatically moves the character up one step on the damage track.  
   
@@ -539,16 +540,16 @@ As further guidance, the following are some of the more common actions a player 
 #### Climbing  
 When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties.   
   
-| Difficulty | Surface                                             |  
-|------------|-----------------------------------------------------|  
-| 2          | Surface with lots of handholds                      |  
-| 3          | Stone wall or similar surface (a few handholds)     |  
-| 4          | Crumbling or slippery surface                       |  
-| 5          | Smooth stone wall or similar surface                |  
-| 6          | Metal wall or similar surface                       |  
-| 8          | Smooth, horizontal surface (climber is upside down) |  
-| 10         | Glass wall or similar surface                       |  
-  
+| Difficulty   | Surface                                               |
+| ------------ | ----------------------------------------------------- |
+| 2            | Surface with lots of handholds                        |
+| 3            | Stone wall or similar surface (a few handholds)       |
+| 4            | Crumbling or slippery surface                         |
+| 5            | Smooth stone wall or similar surface                  |
+| 6            | Metal wall or similar surface                         |
+| 8            | Smooth, horizontal surface (climber is upside down)   |
+| 10           | Glass wall or similar surface                         |
+
 #### Cooperative Actions  
 There are many ways multiple characters can work together. None of these options, however, can be used at the same time by the same characters.  
   
@@ -671,15 +672,15 @@ This bare-bones system should allow the GM and players to flesh out exciting enc
 >  
 >Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.  
   
-| Targeting Task                  | Attack Hindered | Effect                                                   |  
-|---------------------------------|-----------------|----------------------------------------------------------|  
-| Disable weapons                 | Two steps       | One or more of the vehicle’s weapons no longer function  |  
-| Disable defenses                |                 |                                                          |  
-| (if applicable)                 | Two steps       | Attacks against the vehicle are eased                    |  
-| Disable engine/drive            | Three steps     | Vehicle cannot move, or movement is hampered             |  
-| Disable maneuverability         | Two steps       | Vehicle cannot alter its present course                  |  
-| Strike power core or vital spot | Five steps      | Vehicle is completely destroyed                          |  
-  
+| Targeting Task                    | Attack Hindered   | Effect                                                     |
+| --------------------------------- | ----------------- | ---------------------------------------------------------- |
+| Disable weapons                   | Two steps         | One or more of the vehicle’s weapons no longer function    |
+| Disable defenses                  |                   |                                                            |
+| (if applicable)                   | Two steps         | Attacks against the vehicle are eased                      |
+| Disable engine/drive              | Three steps       | Vehicle cannot move, or movement is hampered               |
+| Disable maneuverability           | Two steps         | Vehicle cannot alter its present course                    |
+| Strike power core or vital spot   | Five steps        | Vehicle is completely destroyed                            |
+
 ## [Magical Rules Module](Magical-Rules-Module.md)  
   
 ## [Fantasy Rules Module](Fantasy-Rules-Module.md)  

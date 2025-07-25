@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Emperors-New-Clothes
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Emperor's New Clothes
 collection: Cyphers
 kind: Cypher
+id: Emperors-New-Clothes
+categories:
+  - Fairytale
 ---
 ## Emperor's New Clothes    
 >[!info] Stats    

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Post-Apocalyptic
 title: Merges Mind with Machine
 collection: Foci
 kind: Focus
+id: Merges-Mind-with-Machine
+categories:
+  - Post-Apocalyptic
 ---
 ## Merges Mind with Machine    
 You were raised in an underground bunker by Milly, an AI instance installed in your brain before you developed cognition of your own. Unlike AI zombies, your personality and motivations haven't been replaced; your sense of self grew alongside the AI, as collaborators rather than foes. This granted you superior intellect and an uncanny knack for computers. Now you've emerged into the larger world, where survivors are predisposed to distrust you, and you may need to keep your background a secret to be accepted. Whether you hate AI or remain loyal to Milly, you face the best odds if you can fit in with another group of survivors. After all, there's a lot you don't know about how things work on the surface and the things people have done to stay alive in the past twenty years.    

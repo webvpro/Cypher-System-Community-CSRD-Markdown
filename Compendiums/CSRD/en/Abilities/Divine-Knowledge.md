@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Divine-Knowledge
 ---
 ## Divine Knowledge    
 >**Enabler**  

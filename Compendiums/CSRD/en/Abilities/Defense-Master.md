@@ -20,6 +20,7 @@ pools: []
 categories:
   - Protection
   - Special-Attack
+id: Defense-Master
 ---
 ## Defense Master    
 >**Enabler**  

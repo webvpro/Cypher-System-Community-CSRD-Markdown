@@ -8,6 +8,7 @@ tags:
 title: Instant Shelter
 collection: Cyphers
 kind: Cypher
+id: Instant-Shelter
 ---
 ## Instant Shelter    
 >[!info] Stats    

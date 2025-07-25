@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Control
+id: Defuse-Situation
 ---
 ## Defuse Situation    
 >**Action**  

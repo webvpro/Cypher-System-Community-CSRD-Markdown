@@ -22,6 +22,7 @@ pools:
 categories:
   - Companion
   - Senses
+id: Beast-Eyes
 ---
 ## Beast Eyes    
 >**Action**    

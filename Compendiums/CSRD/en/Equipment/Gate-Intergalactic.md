@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gate, Intergalactic
+  - 'Gate, Intergalactic'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/7
   - Equipment/Value/Priceless
-title: Gate, Intergalactic
+title: 'Gate, Intergalactic'
 collection: Equipment
 kind: Equipment
+id: Gate-Intergalactic
 ---
 ## Gate, Intergalactic    
     

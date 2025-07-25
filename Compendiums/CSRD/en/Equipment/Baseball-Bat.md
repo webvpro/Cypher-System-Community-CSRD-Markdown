@@ -10,6 +10,7 @@ tags:
 title: Baseball Bat
 collection: Equipment
 kind: Equipment
+id: Baseball-Bat
 ---
 ## Baseball Bat    
     

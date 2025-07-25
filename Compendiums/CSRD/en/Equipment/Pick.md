@@ -10,6 +10,7 @@ tags:
 title: Pick
 collection: Equipment
 kind: Equipment
+id: Pick
 ---
 ## Pick    
     

@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 3
 health: 27
+id: Angel-of-the-Apocalypse
 ---
 ## Angel of the Apocalypse    
 If the End Times causes civilization to fall, biblical threats multiply across the land, including one or more angels of the apocalypse. They are every bit as terrifying as the Four Horsemen because they're charged with bringing about the end of the world. They have little room for pity or the plights of individuals; they have nations to topple and the forces of Hell to oppose.   

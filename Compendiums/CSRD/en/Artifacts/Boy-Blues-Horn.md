@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Boy Blue's Horn
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Boy-Blues-Horn
 ---
 ## Boy Blue's Horn    
 >[!info] Stats    

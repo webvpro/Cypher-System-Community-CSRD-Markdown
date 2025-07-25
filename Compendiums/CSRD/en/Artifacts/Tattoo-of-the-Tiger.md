@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Tattoo-of-the-Tiger
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Tattoo of the Tiger
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Tattoo-of-the-Tiger
+contentCategory: Modern Magic Artifacts
 ---
 ## Tattoo of the Tiger  
   

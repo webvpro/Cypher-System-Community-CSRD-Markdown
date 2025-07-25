@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Meta
+id: Fury
 ---
 ## Fury    
 >**Action**    

@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 0
 health: 50
+id: Tyrannosaurus-Rex
 ---
 ## Tyrannosaurus Rex    
 The short arms of a tyrannosaurus have been much parodied in Earth social media circles, but the arms aren't really important when a hunting tyrannosaurus is after you. It's more the soul-shivering roar, designed to freeze prey in place, and a skull and mouth so enormous that the entire creature is cantilevered by a massive tail that itself can be used as a powerful weapon.  

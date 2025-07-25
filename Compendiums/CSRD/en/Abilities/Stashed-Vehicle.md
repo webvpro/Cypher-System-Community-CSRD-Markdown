@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Stashed-Vehicle
 ---
 ## Stashed Vehicle    
 >**Action**  

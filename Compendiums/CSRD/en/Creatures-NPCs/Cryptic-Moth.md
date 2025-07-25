@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 0
 health: 23
+id: Cryptic-Moth
 ---
 ## Cryptic Moth    
 Normal moths are enigmatic, gauzy haunts of twilight. The feathery touch of their wings on your face can startle, even frighten. This is to be expected, since moths are the children of cryptic moths, malign and intelligent entities of another realm. Sometimes referred to as mothmen, other times as shadow faeries, cryptic moths are certainly alien. Each possesses a unique wing pattern and coloration, and, to some extent, body shape. These patterns  

@@ -14,6 +14,7 @@ tags:
 title: Flashlight
 collection: Equipment
 kind: Equipment
+id: Flashlight
 ---
 ## Flashlight    
     

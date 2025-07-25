@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Rifle, Low Caliber
+  - 'Rifle, Low Caliber'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Moderate
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
-title: Rifle, Low Caliber
+title: 'Rifle, Low Caliber'
 collection: Equipment
 kind: Equipment
+id: Rifle-Low-Caliber
 ---
 ## Rifle, Low Caliber    
     

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Grenade, Thermite
+  - 'Grenade, Thermite'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Moderate
   - Equipment/Weapon/Thrown
-title: Grenade, Thermite
+title: 'Grenade, Thermite'
 collection: Equipment
 kind: Equipment
+id: Grenade-Thermite
 ---
 ## Grenade, Thermite    
     

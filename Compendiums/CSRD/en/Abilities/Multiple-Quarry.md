@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Multiple-Quarry
 ---
 ## Multiple Quarry    
 >**Action**    

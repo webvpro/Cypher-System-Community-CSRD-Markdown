@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Fantasy
 title: Dragonfolk
 collection: Descriptors
 kind: Descriptor
+id: Dragonfolk
+categories:
+  - Fantasy
 ---
 ## Dragonfolk    
 You have scales, fangs, claws, and magic-gifts of the dragons. You might have been born of dragonfolk parents, willingly transformed in a magical ceremony, or chosen by a dragon to be their agent or champion. You have a great destiny before you, but it is your choice whether to make it your own or bend to the will of those who made you what you are. Some people mistrust or fear you, and others consider you a prophet or wish to exploit your power for their own goals.  

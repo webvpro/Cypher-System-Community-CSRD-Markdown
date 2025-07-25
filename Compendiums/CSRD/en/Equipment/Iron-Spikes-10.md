@@ -9,6 +9,7 @@ tags:
 title: Iron Spikes (10)
 collection: Equipment
 kind: Equipment
+id: Iron-Spikes-10
 ---
 ## Iron Spikes (10)    
     

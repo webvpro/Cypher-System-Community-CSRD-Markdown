@@ -8,6 +8,7 @@ tags:
 title: Uninterruptible Power Source
 collection: Cyphers
 kind: Cypher
+id: Uninterruptible-Power-Source
 ---
 ## Uninterruptible Power Source    
 >[!info] Stats    

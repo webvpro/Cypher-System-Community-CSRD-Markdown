@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Tank-Combat
+  - Content/Fantasy
 title: Brandishes an Exotic Shield
 collection: Foci
 kind: Focus
+id: Brandishes-an-Exotic-Shield
+categories:
+  - Fantasy
 ---
 ## Brandishes an Exotic Shield    
 You deploy an amazing shield of pure force that provides protection and some offensive options.    

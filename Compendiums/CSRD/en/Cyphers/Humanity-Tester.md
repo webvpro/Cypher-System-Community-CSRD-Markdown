@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Humanity Tester
 collection: Cyphers
 kind: Cypher
+id: Humanity-Tester
+categories:
+  - Horror
 ---
 ## Humanity Tester    
 >[!info] Stats    

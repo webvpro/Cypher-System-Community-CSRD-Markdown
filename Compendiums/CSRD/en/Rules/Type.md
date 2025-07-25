@@ -7,6 +7,7 @@ tags:
 title: Type
 collection: Rules
 kind: Character
+id: Type
 ---
 # Type  
   

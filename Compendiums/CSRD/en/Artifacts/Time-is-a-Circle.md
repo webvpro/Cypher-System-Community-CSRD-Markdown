@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Time-is-a-Circle
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Time is a Circle
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Time-is-a-Circle
+contentCategory: Modern Magic Artifacts
 ---
 ## Time is a Circle  
   

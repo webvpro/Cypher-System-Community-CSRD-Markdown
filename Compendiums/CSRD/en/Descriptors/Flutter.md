@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Post-Apocalyptic
 title: Flutter
 collection: Descriptors
 kind: Descriptor
+id: Flutter
+categories:
+  - Post-Apocalyptic
 ---
 ## Flutter    
 You emerged from the chrysalis with your mind awash in skills instilled while you matured, as well as knowledge handed down from your ancestors. If the stories are true, some of your knowledge comes from even further back, ceded by godlike "humans" who raised flutters into the light of self-knowledge. That was before humans were lost, leaving the world in ruins. Ruins that are now yours to refurbish and rebuild or, as many prefer, to  ignore while you instead go your own way. Humans may have created you, but they're gone, and you can decide what you think you owe them, if anything.  

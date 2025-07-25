@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Senses
+id: Share-Senses
 ---
 ## Share Senses    
 >**Enabler**  

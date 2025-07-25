@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Solo Fighter
+  - 'Starship, Solo Fighter'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Starship, Solo Fighter
+title: 'Starship, Solo Fighter'
 collection: Equipment
 kind: Equipment
+id: Starship-Solo-Fighter
 ---
 ## Starship, Solo Fighter    
     

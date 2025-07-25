@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Fairytale
 title: Shining Knife
 collection: Cyphers
 kind: Cypher
+id: Shining-Knife
+categories:
+  - Fairytale
 ---
 ## Shining Knife    
 >[!info] Stats    

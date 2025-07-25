@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Ecosensitive-Fridge-Magnets
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Ecosensitive Fridge Magnets
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Ecosensitive-Fridge-Magnets
+contentCategory: Modern Magic Artifacts
 ---
 ## Ecosensitive Fridge Magnets  
 >1d6   

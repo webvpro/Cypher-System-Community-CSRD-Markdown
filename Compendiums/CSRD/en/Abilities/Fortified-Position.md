@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Protection
+id: Fortified-Position
 ---
 ## Fortified Position    
 >**Action**    

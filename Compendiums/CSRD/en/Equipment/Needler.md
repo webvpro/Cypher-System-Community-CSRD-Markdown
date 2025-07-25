@@ -11,6 +11,7 @@ tags:
 title: Needler
 collection: Equipment
 kind: Equipment
+id: Needler
 ---
 ## Needler    
     

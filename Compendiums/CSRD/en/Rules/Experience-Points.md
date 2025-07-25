@@ -10,6 +10,7 @@ tags:
 title: Experience Points
 collection: Rules
 kind: Character
+id: Experience-Points
 ---
 ## Experience Points    
 Experience points (XP) are rewards given to players when the GM intrudes on the story (this is called GM intrusion) with a new and unexpected challenge. For example, in the middle of combat, the GM might inform the player that they drop their weapon. However, to intrude in this manner, the GM must award the player 2 XP. The rewarded player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a funny joke, performed an action that saved a life, and so on).    

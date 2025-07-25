@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Horror
+  - Content/Horror
 title: Book of Inversion
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Horror
+id: Book-of-Inversion
 ---
 ## Book of Inversion    
 >[!info] Stats    

@@ -7,6 +7,7 @@ tags:
 title: Wears Power Armor
 collection: Foci
 kind: Focus
+id: Wears-Power-Armor
 ---
 ## Wears Power Armor    
 Tier 1: Powered Armor    

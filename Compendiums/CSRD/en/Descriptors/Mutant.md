@@ -7,6 +7,7 @@ tags:
 title: Mutant
 collection: Descriptors
 kind: Descriptor
+id: Mutant
 ---
 ## Mutant    
 Savage forces strong enough to destroy a world left you transformed. Either through latent mutations passed down from ancestors that survived the apocalypse, or because something about you reacts when you're exposed to radiation or some other mutagenic source, you are prone to mutation. You might look relatively similar to others of your species, or you might have one or more obvious physical differences that make it hard to disguise your nature. Not that you necessarily want to hide what you are; you might wish to proudly display what makes you different and, to your mind, better.  

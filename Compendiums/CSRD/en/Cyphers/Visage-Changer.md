@@ -8,6 +8,7 @@ tags:
 title: Visage Changer
 collection: Cyphers
 kind: Cypher
+id: Visage-Changer
 ---
 ## Visage Changer    
 >[!info] Stats    

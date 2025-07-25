@@ -7,6 +7,7 @@ tags:
 title: Naive
 collection: Descriptors
 kind: Descriptor
+id: Naive
 ---
 ## Naive    
 You've lived a sheltered life. Your childhood was safe and secure, so you didn't get a chance to learn much about the world-and even less chance to experience it. Whether you were training for something, had your nose in a book, or just were sequestered in a secluded place, you haven't done much, met many people, or seen many interesting things so far. That's probably going to change soon, but as you go forward into a larger world, you do so without some of the understanding that others possess about how it all works.  

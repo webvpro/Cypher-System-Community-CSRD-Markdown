@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Protection
+id: Enhanced-Body
 ---
 ## Enhanced Body    
 >**Enabler**  

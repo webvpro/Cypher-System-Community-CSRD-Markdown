@@ -12,6 +12,7 @@ tags:
 title: Plasma Grenade
 collection: Equipment
 kind: Equipment
+id: Plasma-Grenade
 ---
 ## Plasma Grenade    
     

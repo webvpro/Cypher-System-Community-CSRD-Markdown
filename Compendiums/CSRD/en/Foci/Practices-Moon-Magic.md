@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Practices-Moon-Magic
   - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
 title: Practices Moon Magic
 collection: Foci
 kind: Focus
+id: Practices-Moon-Magic
+categories:
+  - Modern-Magic
 ---
 ## Practices Moon Magic  
 The moon is a powerful force on the world, in terms of both science and magic. She hangs overhead like a watchful eye, makes creatures act strangely, represents cycles of time, and causes the ebb and flow of the tides. To you, she is a friend, an inspiration, and a constant reminder that someone is watching over you. You wield her magic to create beams of dangerous light, influence others, travel, and sense the underlying truth and reality of things. The day is not your foe (after all, the moon is often visible during the day), but you prefer the night when the moon can be the brightest light in the sky. You might call yourself a moonchild or a moon witch. You probably prefer black, white, or grey clothing, with lowing portions such as long sleeves, a cape, or a long coat. You might have one or more tattoos or tokens representing the moon, either full, crescent, or in multiple phases. Your favorite jewelry and adornments (like buttons) usually have moonstones.  

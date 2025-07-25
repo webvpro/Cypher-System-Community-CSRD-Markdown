@@ -9,6 +9,7 @@ title: Rocket Fist
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Rocket-Fist
 ---
 ## Rocket Fist    
 >[!info] Stats    

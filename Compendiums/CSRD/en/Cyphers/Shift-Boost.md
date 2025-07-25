@@ -8,6 +8,7 @@ tags:
 title: Shift Boost
 collection: Cyphers
 kind: Cypher
+id: Shift-Boost
 ---
 ## Shift Boost    
 >[!info] Stats    

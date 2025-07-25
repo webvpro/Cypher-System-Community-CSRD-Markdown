@@ -9,7 +9,7 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Magic/Modern
-title: Spells Have No Speed Limit
+title: 'Spells Have No Speed Limit '
 collection: Abilities
 kind: Ability
 action: false
@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Spells-Have-No-Speed-Limit
 ---
 ## Spells Have No Speed Limit   
 >**Enabler**    

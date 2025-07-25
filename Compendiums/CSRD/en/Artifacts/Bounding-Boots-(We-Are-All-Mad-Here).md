@@ -9,6 +9,7 @@ title: Bounding Boots (We Are All Mad Here)
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Bounding-Boots-(We-Are-All-Mad-Here)
 ---
 ## Bounding Boots (We Are All Mad Here)    
 >[!info] Stats    

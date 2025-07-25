@@ -7,6 +7,7 @@ tags:
 title: Beseech
 collection: Rituals
 kind: Ritual
+id: Beseech
 ---
 ## Beseech  
 Call upon a powerful supernatural entity such as a deity, archangel, demon lord, or ancient elemental to ask for a favor that the entity can and is likely to do (nothing it would ethically oppose). If the ritual is successful, the entity makes its attention known, such as by manifesting as a light, noise, or visible spirit. It may ask for more information, for a task or favor in return, or for a service to be named later. The entity is not compelled to do the favor; the ritual merely gains its attention and gives the characters the opportunity to speak their case.   

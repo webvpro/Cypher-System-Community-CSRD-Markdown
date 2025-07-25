@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Subsonic-Rumble
 ---
 ## Subsonic Rumble    
 >**Action**    

@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: No-Need-for-Weapons
 ---
 ## No Need for Weapons    
 >**Enabler**  

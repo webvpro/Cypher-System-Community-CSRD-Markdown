@@ -9,6 +9,7 @@ tags:
 title: Lighter (Butane or Electric)
 collection: Equipment
 kind: Equipment
+id: Lighter-Butane-or-Electric
 ---
 ## Lighter (Butane or Electric)    
     

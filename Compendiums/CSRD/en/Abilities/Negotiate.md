@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Negotiate
 ---
 ## Negotiate    
 >**Action**    

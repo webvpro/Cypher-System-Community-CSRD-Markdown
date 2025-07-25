@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 2
 health: 9
+id: Natathim
 ---
 ## Natathim    
 Genetically engineered to live in the water oceans discovered beneath the ice crusts of various solar moons, natathim (Homo aquus) have human ancestors, but barely look it. Survival in the frigid, lightless depths of extraterrestrial oceans required extreme adaptation. Predominantly dark blue, their undersides countershade to pure white. Though humanoid, their physiology is streamlined, giving their heads a somewhat fish-like shape, complete with gills and large eyes to collect light in the depths. Their bodies are adorned with fins and frills, including a long shark-like tail, and they have webbed extremities with retractable claws.   

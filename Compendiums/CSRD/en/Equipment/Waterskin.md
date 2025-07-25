@@ -9,6 +9,7 @@ tags:
 title: Waterskin
 collection: Equipment
 kind: Equipment
+id: Waterskin
 ---
 ## Waterskin    
     

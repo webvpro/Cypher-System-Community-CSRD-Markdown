@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Tinker
 ---
 ## Tinker    
 >**Action**    

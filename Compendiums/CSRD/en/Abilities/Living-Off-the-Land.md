@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Cure
+id: Living-Off-the-Land
 ---
 ## Living Off the Land    
 >**Enabler**  

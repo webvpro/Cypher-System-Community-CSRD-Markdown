@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/0
   - Creature/Health/35
+  - Content/Horror
 title: Shoggoth
 collection: Creatures-NPCs
 kind: Creature
 level: 7
 armor: 0
 health: 35
+id: Shoggoth
+categories:
+  - Horror
 ---
 ## Shoggoth    
 Shoggoths vary in size, but the smallest are usually at least 10 feet (3 m) across. They are the product of incredibly advanced bioengineering by some strange species in the distant past. They are angry, vicious predators feared by any who have ever heard of these rare creatures (or who have encountered them and somehow survived to tell the tale). They were created by the elder things but overthrew their masters and now roam the vast, ancient cities they have claimed for themselves.  

@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 2
 health: 24
+id: Mummy
 ---
 ## Mummy    
 Mummies are intelligent undead, usually royalty or members of the priesthood, risen from their burial places to destroy those who disturbed their rest. Many seek to undo wrongs against them from ages past or re-establish themselves in their former high stations.    

@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Pixie Dust
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Pixie-Dust
 ---
 ## Pixie Dust    
 >[!info] Stats    

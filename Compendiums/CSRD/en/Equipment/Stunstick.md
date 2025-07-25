@@ -12,6 +12,7 @@ tags:
 title: Stunstick
 collection: Equipment
 kind: Equipment
+id: Stunstick
 ---
 ## Stunstick    
     

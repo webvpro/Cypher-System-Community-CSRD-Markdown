@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Basic
+  - Content/Fantasy
 title: Learns Quickly
 collection: Foci
 kind: Focus
+id: Learns-Quickly
+categories:
+  - Fantasy
 ---
 ## Learns Quickly    
 You deal with bad situations as they arise, learning new lessons each time.    

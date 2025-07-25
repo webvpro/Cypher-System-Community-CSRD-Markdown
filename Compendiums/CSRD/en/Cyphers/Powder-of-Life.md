@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Powder of Life
 collection: Cyphers
 kind: Cypher
+id: Powder-of-Life
+categories:
+  - Fairytale
 ---
 ## Powder of Life    
 >[!info] Stats    

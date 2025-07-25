@@ -8,6 +8,7 @@ tags:
 title: Effort Enhancer Noncombat
 collection: Cyphers
 kind: Cypher
+id: Effort-Enhancer-Noncombat
 ---
 ## Effort Enhancer Noncombat    
 >[!info] Stats    

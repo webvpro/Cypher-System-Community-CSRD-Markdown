@@ -20,6 +20,7 @@ tags:
 title: Machete
 collection: Equipment
 kind: Equipment
+id: Machete
 ---
 ## Machete    
     

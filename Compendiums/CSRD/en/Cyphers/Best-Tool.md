@@ -8,6 +8,7 @@ tags:
 title: Best Tool
 collection: Cyphers
 kind: Cypher
+id: Best-Tool
 ---
 ## Best Tool    
 >[!info] Stats    

@@ -14,6 +14,7 @@ kind: NPC
 level: 4
 armor: 2
 health: 15
+id: Paladin
 ---
 ## Paladin    
 Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe.    

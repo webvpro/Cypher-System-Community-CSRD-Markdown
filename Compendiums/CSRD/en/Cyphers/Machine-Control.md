@@ -8,6 +8,7 @@ tags:
 title: Machine Control
 collection: Cyphers
 kind: Cypher
+id: Machine-Control
 ---
 ## Machine Control    
 >[!info] Stats    

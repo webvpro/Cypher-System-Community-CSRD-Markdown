@@ -8,6 +8,7 @@ tags:
 title: Inferno Wall
 collection: Cyphers
 kind: Cypher
+id: Inferno-Wall
 ---
 ## Inferno Wall    
 >[!info] Stats    

@@ -4,9 +4,15 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
+  - Content/Fantasy
 title: Wields an Enchanted Weapon
 collection: Foci
 kind: Focus
+id: Wields-an-Enchanted-Weapon
+categories:
+  - Superhero
+  - Fantasy
 ---
 ## Wields an Enchanted Weapon    
 You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.    

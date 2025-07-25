@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Attempted-Murder
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Attempted Murder
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Attempted-Murder
+contentCategory: Modern Magic Artifacts
 ---
 ## Attempted Murder   
 #### Level   

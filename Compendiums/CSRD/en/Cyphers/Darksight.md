@@ -8,6 +8,7 @@ tags:
 title: Darksight
 collection: Cyphers
 kind: Cypher
+id: Darksight
 ---
 ## Darksight    
 >[!info] Stats    

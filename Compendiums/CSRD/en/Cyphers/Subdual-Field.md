@@ -8,6 +8,7 @@ tags:
 title: Subdual Field
 collection: Cyphers
 kind: Cypher
+id: Subdual-Field
 ---
 ## Subdual Field    
 >[!info] Stats    

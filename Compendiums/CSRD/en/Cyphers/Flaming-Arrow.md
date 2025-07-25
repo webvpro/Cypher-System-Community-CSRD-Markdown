@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Flaming Arrow
 collection: Cyphers
 kind: Cypher
+id: Flaming-Arrow
+categories:
+  - Fairytale
 ---
 ## Flaming Arrow    
 >[!info] Stats    

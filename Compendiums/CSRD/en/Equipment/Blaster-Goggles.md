@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Blaster, Goggles
+  - 'Blaster, Goggles'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Long
-title: Blaster, Goggles
+title: 'Blaster, Goggles'
 collection: Equipment
 kind: Equipment
+id: Blaster-Goggles
 ---
 ## Blaster, Goggles    
     

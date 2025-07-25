@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Metabolic Prod
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Metabolic-Prod
 ---
 ## Metabolic Prod    
 >[!info] Stats    

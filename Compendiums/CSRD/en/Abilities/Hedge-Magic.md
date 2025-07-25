@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Hedge-Magic
 ---
 ## Hedge Magic    
 >**Action**    

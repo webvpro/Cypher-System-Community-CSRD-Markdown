@@ -8,6 +8,7 @@ tags:
 title: Blinking
 collection: Cyphers
 kind: Cypher
+id: Blinking
 ---
 ## Blinking    
 >[!info] Stats    

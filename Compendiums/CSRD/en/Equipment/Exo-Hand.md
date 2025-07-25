@@ -11,6 +11,7 @@ tags:
 title: Exo-Hand
 collection: Equipment
 kind: Equipment
+id: Exo-Hand
 ---
 ## Exo-Hand    
     

@@ -9,6 +9,7 @@ tags:
 title: Ammunition
 collection: Cyphers
 kind: Cypher
+id: Ammunition
 ---
 ## Ammunition    
 >[!info] Stats    

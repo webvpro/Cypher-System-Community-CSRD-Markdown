@@ -1,3 +1,9 @@
+---
+id: Task-Difficulty
+aliases:
+  - Task Difficulty
+title: Task Difficulty
+---
 ## Task Difficulty
 
 | **Task Difficulty** | **Description** | **Target No.** | **Guidance**                                                                                  |

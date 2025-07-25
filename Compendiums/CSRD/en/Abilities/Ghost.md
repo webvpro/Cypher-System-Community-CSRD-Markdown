@@ -10,6 +10,7 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Movement
   - Ability/Categories/Task
+  - Content/Modern-Magic
 title: Ghost
 collection: Abilities
 kind: Ability
@@ -22,6 +23,8 @@ pools:
 categories:
   - Movement
   - Task
+  - Modern-Magic
+id: Ghost
 ---
 ## Ghost    
 >**Action**    

@@ -9,6 +9,7 @@ tags:
 title: Rations (1 Day)
 collection: Equipment
 kind: Equipment
+id: Rations-1-Day
 ---
 ## Rations (1 Day)    
     

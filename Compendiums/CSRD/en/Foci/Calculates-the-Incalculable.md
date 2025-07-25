@@ -7,6 +7,7 @@ tags:
 title: Calculates the Incalculable
 collection: Foci
 kind: Focus
+id: Calculates-the-Incalculable
 ---
 ## Calculates the Incalculable    
 Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.    

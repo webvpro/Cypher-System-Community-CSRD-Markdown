@@ -7,6 +7,7 @@ tags:
 title: Empathic
 collection: Descriptors
 kind: Descriptor
+id: Empathic
 ---
 ## Empathic    
 Other people are open books to you. You may have a knack for reading a person's tells, those subtle movements that convey an individual's mood and disposition. Or you may receive information in a more direct way, feeling a person's emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.  

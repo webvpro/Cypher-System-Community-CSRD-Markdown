@@ -7,6 +7,7 @@ tags:
 title: Conjure the Dead
 collection: Rituals
 kind: Ritual
+id: Conjure-the-Dead
 ---
 ## Conjure the Dead  
 Summons the spirit of a dead person or creature (commonly called a “ghost”), which appears in the summoning circle prepared for the ritual. The spirit remains there for about a minute, during which time the summoners can interrogate them or persuade them to share information. The spirit usually wants something in return (such as messages conveyed to the living or unfulfilled tasks completed). If the characters don’t comply, they must magically threaten or compel the spirit to obey.   

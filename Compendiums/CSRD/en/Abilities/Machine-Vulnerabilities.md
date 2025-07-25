@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Machine-Vulnerabilities
 ---
 ## Machine Vulnerabilities    
 >**Enabler**  

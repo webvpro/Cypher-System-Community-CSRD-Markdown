@@ -11,6 +11,7 @@ tags:
 title: Military-Grade Field Dressing
 collection: Equipment
 kind: Equipment
+id: Military-Grade-Field-Dressing
 ---
 ## Military-Grade Field Dressing    
     

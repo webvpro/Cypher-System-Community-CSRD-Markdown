@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Intellect
   - Ability/Categories/NA
+  - Content/Superhero
 title: Bolster Illusion
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Intellect
 categories:
   - NA
+  - Superhero
+id: Bolster-Illusion
 ---
 ## Bolster Illusion    
 >**Enabler**    

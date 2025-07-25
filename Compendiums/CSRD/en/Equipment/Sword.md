@@ -10,6 +10,7 @@ tags:
 title: Sword
 collection: Equipment
 kind: Equipment
+id: Sword
 ---
 ## Sword    
     

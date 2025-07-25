@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Airplane, Basic
+  - 'Airplane, Basic'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Planetary-Vehicle
   - Equipment/Level/2
   - Equipment/Value/Very-Expensive
-title: Airplane, Basic
+title: 'Airplane, Basic'
 collection: Equipment
 kind: Equipment
+id: Airplane-Basic
 ---
 ## Airplane, Basic    
     

@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Horn of Destruction
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Horn-of-Destruction
 ---
 ## Horn of Destruction    
 >[!info] Stats    

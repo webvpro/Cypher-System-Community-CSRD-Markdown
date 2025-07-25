@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Cure
+id: Mind-Surge
 ---
 ## Mind Surge    
 >**Action**  

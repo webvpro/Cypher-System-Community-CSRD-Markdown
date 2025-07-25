@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Bolts-of-Power
 ---
 ## Bolts of Power    
 >**Action**    

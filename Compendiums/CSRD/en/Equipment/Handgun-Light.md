@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Handgun, Light
+  - 'Handgun, Light'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
@@ -15,9 +15,10 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Short
-title: Handgun, Light
+title: 'Handgun, Light'
 collection: Equipment
 kind: Equipment
+id: Handgun-Light
 ---
 ## Handgun, Light    
     

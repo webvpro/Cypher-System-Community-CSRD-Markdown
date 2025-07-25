@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Hard-to-Hit
 ---
-## Hard to Hit    
->**Enabler**  
-    
+## Hard to Hit  
+  
+>**Enabler**
+  
+  
+  
 You are trained in Speed defense tasks. Enabler.

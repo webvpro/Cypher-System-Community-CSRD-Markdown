@@ -8,6 +8,7 @@ tags:
 title: Force Screen Projector
 collection: Cyphers
 kind: Cypher
+id: Force-Screen-Projector
 ---
 ## Force Screen Projector    
 >[!info] Stats    

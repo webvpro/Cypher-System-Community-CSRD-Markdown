@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Magicians-Protective-Amulet
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Magician’s Protective Amulet
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Magicians-Protective-Amulet
+contentCategory: Modern Magic Artifacts
 ---
 ## Magician’s Protective Amulet  
 >1d6 +2  

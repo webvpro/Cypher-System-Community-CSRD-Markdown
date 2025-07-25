@@ -8,6 +8,7 @@ tags:
 title: Visual Displacement Device
 collection: Cyphers
 kind: Cypher
+id: Visual-Displacement-Device
 ---
 ## Visual Displacement Device    
 >[!info] Stats    

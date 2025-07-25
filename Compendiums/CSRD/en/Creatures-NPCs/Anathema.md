@@ -14,6 +14,7 @@ kind: Super Villain
 level: 7
 armor: 0
 health: 70
+id: Anathema
 ---
 ## Anathema    
 The supervillain called Anathema is big, bright red, and stronger than anyone on this planet or any other (or so he claims). Superheroes who go head to head with him learn that he can withstand almost any hit and always gives back twice as hard as he receives. He can bring down buildings with a punch and throw semi trucks across state lines.   

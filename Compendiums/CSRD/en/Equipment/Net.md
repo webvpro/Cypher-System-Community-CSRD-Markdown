@@ -11,6 +11,7 @@ tags:
 title: Net
 collection: Equipment
 kind: Equipment
+id: Net
 ---
 ## Net    
     

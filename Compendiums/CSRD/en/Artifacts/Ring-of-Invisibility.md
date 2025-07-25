@@ -9,6 +9,7 @@ title: Ring of Invisibility
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Ring-of-Invisibility
 ---
 ## Ring of Invisibility    
 >[!info] Stats    

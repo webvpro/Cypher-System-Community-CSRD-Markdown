@@ -7,6 +7,7 @@ tags:
 title: Exists in Two Places at Once
 collection: Foci
 kind: Focus
+id: Exists-in-Two-Places-at-Once
 ---
 ## Exists in Two Places at Once    
 You exist in two places at once.    

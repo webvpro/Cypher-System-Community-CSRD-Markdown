@@ -1,11 +1,13 @@
 ---
-aliases: Fantasy Genre
+aliases:
+  - Genre Fantasy
 tags:
   - Compendium/CSRD/en/Rules/Genre-Fantasy
   - Genre/Fantasy
-title: F
+title: Genre Fantasy
 collection: Rules
 kind: Genre
+id: Genre-Fantasy
 ---
 ## Fantasy Types  
   
@@ -19,19 +21,19 @@ The point is, there are many, many types of fantasy.
   
 ### Suggested Types for a Fantasy Game  
   
-| Role         | Character Type                 |  
-|--------------|--------------------------------|  
-| Warrior      | Warrior                        |  
-| Knight       | Warrior                        |  
-| Ranger       | Explorer                       |  
-| Barbarian    | Explorer flavored with combat  |  
-| Thief        | Explorer flavored with stealth |  
-| Wizard       | Adept                          |  
-| Cleric       | Speaker flavored with magic    |  
-| Druid        | Explorer flavored with magic   |  
-| Warrior mage | Warrior flavored with magic    |  
-| Bard         | Speaker                        |  
-  
+| Role           | Character Type                   |
+| -------------- | -------------------------------- |
+| Warrior        | Warrior                          |
+| Knight         | Warrior                          |
+| Ranger         | Explorer                         |
+| Barbarian      | Explorer flavored with combat    |
+| Thief          | Explorer flavored with stealth   |
+| Wizard         | Adept                            |
+| Cleric         | Speaker flavored with magic      |
+| Druid          | Explorer flavored with magic     |
+| Warrior mage   | Warrior flavored with magic      |
+| Bard           | Speaker                          |
+
   
 ### Basic Creatures and NPCs for a Fantasy Game  
   
@@ -65,105 +67,105 @@ Villager: level 2
   
 In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.  
 #### Inexpensive Items  
-| Weapons                | Notes                          |  
-| ---------------------- | ------------------------------ |  
-| [Arrows (12)](Arrows-12.md) |                                |  
-| [Crossbow Bolts (12)](Crossbow-Bolts-12.md)    |                                |  
-| [Knife (Rusty and Worn)](Knife-Rusty-and-Worn.md) | Light weapon (won’t last long) |  
-| [Wooden Club](Wooden-Club.md)            | Light weapon                   |  
-  
-| Other Items          | Notes |  
-|----------------------|-------|  
-| Burlap sack          |       |  
-| Candle               |       |  
-| Iron rations (1 day) |       |  
-| Torch (3)            |       |  
-  
+| Weapons                                           | Notes                          |
+| ------------------------------------------------- | ------------------------------ |
+| [Arrows (12)](Arrows-12.md)                       |                                |
+| [Crossbow Bolts (12)](Crossbow-Bolts-12.md)       |                                |
+| [Knife (Rusty and Worn)](Knife-Rusty-and-Worn.md) | Light weapon (won’t last long) |
+| [Wooden Club](Wooden-Club.md)                     | Light weapon                   |
+
+| Other Items            | Notes   |
+| ---------------------- | ------- |
+| Burlap sack            |         |
+| Candle                 |         |
+| Iron rations (1 day)   |         |
+| Torch (3)              |         |
+
   
 #### Moderately Priced Items  
-| Weapons             | Notes                           |  
-|---------------------|---------------------------------|  
-| Blowgun             | Light weapon, immediate range   |  
-| Dagger              | Light weapon                    |  
-| Handaxe             | Light weapon                    |  
-| Sword (substandard) | Medium weapon (won’t last long) |  
-| Throwing knife      | Light weapon, short range       |  
-  
-| Armor          | Notes                  |  
-|----------------|------------------------|  
-| Hides and furs | Light armor            |  
-| Leather jerkin | Light armor            |  
-| Shield         | Asset to Speed defense |  
-  
-| Other Items       | Notes         |  
-|-------------------|---------------|  
-| Backpack          |               |  
-| Bedroll           |               |  
-| Crowbar           |               |  
-| Hourglass         |               |  
-| Lantern           |               |  
-| Rope              | Hemp, 50 feet |  
-| Signal horn       |               |  
-| Spikes and hammer | 10 spikes     |  
-| Tent              |               |  
-  
+| Weapons               | Notes                             |
+| --------------------- | --------------------------------- |
+| Blowgun               | Light weapon, immediate range     |
+| Dagger                | Light weapon                      |
+| Handaxe               | Light weapon                      |
+| Sword (substandard)   | Medium weapon (won’t last long)   |
+| Throwing knife        | Light weapon, short range         |
+
+| Armor            | Notes                    |
+| ---------------- | ------------------------ |
+| Hides and furs   | Light armor              |
+| Leather jerkin   | Light armor              |
+| Shield           | Asset to Speed defense   |
+
+| Other Items         | Notes           |
+| ------------------- | --------------- |
+| Backpack            |                 |
+| Bedroll             |                 |
+| Crowbar             |                 |
+| Hourglass           |                 |
+| Lantern             |                 |
+| Rope                | Hemp, 50 feet   |
+| Signal horn         |                 |
+| Spikes and hammer   | 10 spikes       |
+| Tent                |                 |
+
 #### Expensive Items  
-| Weapons        | Notes                            |  
-|----------------|----------------------------------|  
-| Battleaxe      | Medium weapon                    |  
-| Bow            | Medium weapon, long range        |  
-| Cutlass        | Medium weapon                    |  
-| Light crossbow | Medium weapon, long range        |  
-| Quarterstaff   | Medium weapon (requires 2 hands) |  
-| Sword          | Medium weapon                    |  
-  
-| Armor       | Notes        |  
-|-------------|--------------|  
-| Breastplate | Medium armor |  
-| Brigandine  | Medium armor |  
-| Chainmail   | Medium armor |  
-  
-| Other Items        | Notes |  
-|--------------------|-------|  
-| Bag of heavy tools |       |  
-| Bag of light tools |       |  
-  
+| Weapons          | Notes                              |
+| ---------------- | ---------------------------------- |
+| Battleaxe        | Medium weapon                      |
+| Bow              | Medium weapon, long range          |
+| Cutlass          | Medium weapon                      |
+| Light crossbow   | Medium weapon, long range          |
+| Quarterstaff     | Medium weapon (requires 2 hands)   |
+| Sword            | Medium weapon                      |
+
+| Armor         | Notes          |
+| ------------- | -------------- |
+| Breastplate   | Medium armor   |
+| Brigandine    | Medium armor   |
+| Chainmail     | Medium armor   |
+
+| Other Items          | Notes   |
+| -------------------- | ------- |
+| Bag of heavy tools   |         |
+| Bag of light tools   |         |
+
 #### Very Expensive Items  
-| Weapons         | Notes                    |  
-|-----------------|--------------------------|  
-| Greatsword      | Heavy weapon             |  
-| Heavy crossbow  | Heavy weapon, long range |  
-| Sword (jeweled) | Medium weapon            |  
-  
-| Armor               | Notes                                  |  
-|---------------------|----------------------------------------|  
-| Dwarven breastplate | Medium armor, encumbers as light armor |  
-| Full plate armor    | Heavy armor                            |  
-  
-| Other Items  | Notes                               |  
-|--------------|-------------------------------------|  
-| Disguise kit | Asset for disguise tasks            |  
-| Healing kit  | Asset for healing tasks             |  
-| Spyglass     | Asset for perception tasks at range |  
-  
+| Weapons           | Notes                      |
+| ----------------- | -------------------------- |
+| Greatsword        | Heavy weapon               |
+| Heavy crossbow    | Heavy weapon, long range   |
+| Sword (jeweled)   | Medium weapon              |
+
+| Armor                 | Notes                                    |
+| --------------------- | ---------------------------------------- |
+| Dwarven breastplate   | Medium armor, encumbers as light armor   |
+| Full plate armor      | Heavy armor                              |
+
+| Other Items    | Notes                                 |
+| -------------- | ------------------------------------- |
+| Disguise kit   | Asset for disguise tasks              |
+| Healing kit    | Asset for healing tasks               |
+| Spyglass       | Asset for perception tasks at range   |
+
 #### Exorbitant Items  
-| Armor           | Notes                               |  
-|-----------------|-------------------------------------|  
-| Elven chainmail | Medium armor, encumbers as no armor |  
-  
-| Other Items          | Notes |  
-|----------------------|-------|  
-| Sailing ship (small) |       |  
-  
+| Armor             | Notes                                 |
+| ----------------- | ------------------------------------- |
+| Elven chainmail   | Medium armor, encumbers as no armor   |
+
+| Other Items            | Notes   |
+| ---------------------- | ------- |
+| Sailing ship (small)   |         |
+
 #### Medieval Fantasy Equipment  
-| Category       | GP Value        |  
-|----------------|-----------------|  
-| Inexpensive    | Less than 1 gp  |  
-| Moderate       | 1–10 gp         |  
-| Expensive      | 100–500 gp      |  
-| Very expensive | 1,000–10,000 gp |  
-| Exorbitant     | 10,000+ gp      |  
-  
+| Category         | GP Value          |
+| ---------------- | ----------------- |
+| Inexpensive      | Less than 1 gp    |
+| Moderate         | 1–10 gp           |
+| Expensive        | 100–500 gp        |
+| Very expensive   | 1,000–10,000 gp   |
+| Exorbitant       | 10,000+ gp        |
+
   
 ### Fantasy Artifacts  
 In many ways, fantasy is the genre for artifacts. All magic items—wands that shoot lightning, magic carpets, singing swords, rings that make the wearer invisible, and so on—are artifacts. Below are a few sample artifacts to give a template for GMs to follow. Those running a fantasy campaign will likely want to create many magic artifacts.  

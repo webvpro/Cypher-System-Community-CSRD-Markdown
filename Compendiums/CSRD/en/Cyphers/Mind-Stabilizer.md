@@ -8,6 +8,7 @@ tags:
 title: Mind Stabilizer
 collection: Cyphers
 kind: Cypher
+id: Mind-Stabilizer
 ---
 ## Mind Stabilizer    
 >[!info] Stats    

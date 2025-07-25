@@ -7,6 +7,7 @@ tags:
 title: Works for a Living
 collection: Foci
 kind: Focus
+id: Works-for-a-Living
 ---
 ## Works for a Living    
 You take great satisfaction in a job well done, whether it's coding, building houses, or mining asteroids.    

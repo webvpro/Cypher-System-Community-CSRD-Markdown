@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Call-Dead-Spirit
 ---
 ## Call Dead Spirit    
 >**Action**    

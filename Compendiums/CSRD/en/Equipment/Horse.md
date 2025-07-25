@@ -9,6 +9,7 @@ tags:
 title: Horse
 collection: Equipment
 kind: Equipment
+id: Horse
 ---
 ## Horse    
     

@@ -13,6 +13,7 @@ kind: Creature
 level: 8
 armor: 4
 health: 75
+id: Divinity-of-the-City
 ---
 ## Divinity of the City  
   

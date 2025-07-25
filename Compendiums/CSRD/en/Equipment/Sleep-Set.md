@@ -11,6 +11,7 @@ tags:
 title: Sleep Set
 collection: Equipment
 kind: Equipment
+id: Sleep-Set
 ---
 ## Sleep Set    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Energy-Protection
 ---
 ## Energy Protection    
 >**Action**    

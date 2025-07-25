@@ -7,6 +7,7 @@ tags:
 title: Siphons Power
 collection: Foci
 kind: Focus
+id: Siphons-Power
 ---
 ## Siphons Power    
 You suck power out of machines and creatures alike in order to empower yourself.    

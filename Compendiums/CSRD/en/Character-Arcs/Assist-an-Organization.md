@@ -8,6 +8,7 @@ title: Assist an Organization
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Assist-an-Organization
 ---
 ## Assist an Organization  
 >You set out to accomplish something that will further an organization. You’re probably allied with them or they are rewarding you for your help in some fashion.  

@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 0
 health: 18
+id: Inquisitor
 ---
 ## Inquisitor    
 Inquisitors are aliens who call themselves "inquisitors" when they contact new species. Their preferred method of interaction is to study a given area for its flora and fauna, and attempt to collect a representative sample of any intelligent species they find (such as humans). Collected subjects may be gone for good, but other times they wake with little or no recollection of the experience save for bruises, missing digits or teeth, scabbed-over circular head wounds, and a gap of three or more days in their memory. Instead of arms, inquisitors sprout three sets of three tentacles like those of a squid, each of which branches into a smaller and finer set of manipulator tendrils. They can manipulate complex machines in a way that a regular human could never hope to. In most settings, inquisitors possess a level of technology and advancement well above that enjoyed by humans.    

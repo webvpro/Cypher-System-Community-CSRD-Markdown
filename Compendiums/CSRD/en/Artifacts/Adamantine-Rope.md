@@ -9,6 +9,7 @@ title: Adamantine Rope
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Adamantine-Rope
 ---
 ## Adamantine Rope    
 >[!info] Stats    

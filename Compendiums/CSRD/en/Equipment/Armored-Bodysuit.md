@@ -12,6 +12,7 @@ tags:
 title: Armored Bodysuit
 collection: Equipment
 kind: Equipment
+id: Armored-Bodysuit
 ---
 ## Armored Bodysuit    
     

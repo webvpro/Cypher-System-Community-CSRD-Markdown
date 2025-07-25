@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Practiced-in-Light-Armor
 ---
 ## Practiced in Light Armor    
 >**Enabler**  

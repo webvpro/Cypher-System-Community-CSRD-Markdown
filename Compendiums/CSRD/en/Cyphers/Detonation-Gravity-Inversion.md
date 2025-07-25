@@ -8,6 +8,7 @@ tags:
 title: Detonation Gravity Inversion
 collection: Cyphers
 kind: Cypher
+id: Detonation-Gravity-Inversion
 ---
 ## Detonation Gravity Inversion    
 >[!info] Stats    

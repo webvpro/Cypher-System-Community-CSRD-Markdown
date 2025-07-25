@@ -13,6 +13,7 @@ tags:
 title: Laser Photon Pistol
 collection: Equipment
 kind: Equipment
+id: Laser-Photon-Pistol
 ---
 ## Laser Photon Pistol    
     

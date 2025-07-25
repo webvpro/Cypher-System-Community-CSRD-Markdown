@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Craft
+id: Jury-Rig
 ---
 ## Jury-Rig    
 >**Action**    

@@ -22,6 +22,7 @@ pools:
 categories:
   - Attack-Skill
   - Task
+id: Quarry
 ---
 ## Quarry    
 >**Action**    

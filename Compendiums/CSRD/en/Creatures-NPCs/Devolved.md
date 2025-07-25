@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 0
 health: 21
+id: Devolved
 ---
 ## Devolved    
 Conglomerate security subsidiaries regularly experiment with new ways to create super-soldiers, either to supply to a government on a contract basis, or to use for themselves. These experiments produced hundreds of dead ends-literally-plus a few dangerous failures. The devolved are one of those dangerous failures. These malformed, hideous brutes share a common heritage but display a wide array of maladies and mutations in the flesh, including withered limbs or elephantine patches of thick, scaly skin, misplaced body parts, and mental abnormalities. Simple-minded and afflicted with pain from their twisted, broken forms, the devolved vent all their hatred and wrath against all others.   

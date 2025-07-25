@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Anywhere Door
 collection: Cyphers
 kind: Cypher
+id: Anywhere-Door
+categories:
+  - Fairytale
 ---
 ## Anywhere Door    
 >[!info] Stats    

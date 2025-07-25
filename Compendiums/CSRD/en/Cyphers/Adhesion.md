@@ -8,6 +8,7 @@ tags:
 title: Adhesion
 collection: Cyphers
 kind: Cypher
+id: Adhesion
 ---
 ## Adhesion    
 >[!info] Stats    

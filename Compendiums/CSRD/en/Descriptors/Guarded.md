@@ -7,6 +7,7 @@ tags:
 title: Guarded
 collection: Descriptors
 kind: Descriptor
+id: Guarded
 ---
 ## Guarded    
 You conceal your true nature behind a mask and are loath to let anyone see who you really are. Protecting yourself, physically and emotionally, is what you care about most, and you prefer to keep everyone else at a safe distance. You may be suspicious of everyone you meet, expecting the worst from people so you won't be surprised when they prove you right. Or you might just be a bit reserved, careful about letting people through your gruff exterior to the person you really are.  

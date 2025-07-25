@@ -8,6 +8,7 @@ tags:
 title: Motion Sensor
 collection: Cyphers
 kind: Cypher
+id: Motion-Sensor
 ---
 ## Motion Sensor    
 >[!info] Stats    

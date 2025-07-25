@@ -8,6 +8,7 @@ tags:
 title: Detonation Creature
 collection: Cyphers
 kind: Cypher
+id: Detonation-Creature
 ---
 ## Detonation Creature    
 >[!info] Stats    

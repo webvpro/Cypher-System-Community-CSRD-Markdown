@@ -7,6 +7,7 @@ tags:
 title: Tough
 collection: Descriptors
 kind: Descriptor
+id: Tough
 ---
 ## Tough    
 You're strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.  

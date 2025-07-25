@@ -8,6 +8,7 @@ tags:
 title: First Aid
 collection: Cyphers
 kind: Cypher
+id: First-Aid
 ---
 ## First Aid    
 >[!info] Stats    

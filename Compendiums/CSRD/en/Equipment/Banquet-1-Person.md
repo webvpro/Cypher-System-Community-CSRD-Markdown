@@ -9,6 +9,7 @@ tags:
 title: Banquet (1 Person)
 collection: Equipment
 kind: Equipment
+id: Banquet-1-Person
 ---
 ## Banquet (1 Person)    
     

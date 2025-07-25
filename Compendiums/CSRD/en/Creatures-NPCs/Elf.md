@@ -14,6 +14,7 @@ kind: NPC
 level: 4
 armor: 1
 health: 12
+id: Elf
 ---
 ## Elf    
 An elf has a very long lifespan and tends to learn and abandon many skills and interests, including combat and magic. Elves are likely to wander in pursuit of something new and interesting, such as finding the tallest tree in the forest, the most beautiful sunset, or the perfect love song.    

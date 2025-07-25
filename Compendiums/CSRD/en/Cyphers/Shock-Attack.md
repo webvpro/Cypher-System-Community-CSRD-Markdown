@@ -8,6 +8,7 @@ tags:
 title: Shock Attack
 collection: Cyphers
 kind: Cypher
+id: Shock-Attack
 ---
 ## Shock Attack    
 >[!info] Stats    

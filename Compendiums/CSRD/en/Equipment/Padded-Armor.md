@@ -9,6 +9,7 @@ tags:
 title: Padded Armor
 collection: Equipment
 kind: Equipment
+id: Padded-Armor
 ---
 ## Padded Armor    
     

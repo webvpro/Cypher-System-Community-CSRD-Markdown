@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Blaster, Heavy
+  - 'Blaster, Heavy'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Heavy
   - Equipment/Range/Long
-title: Blaster, Heavy
+title: 'Blaster, Heavy'
 collection: Equipment
 kind: Equipment
+id: Blaster-Heavy
 ---
 ## Blaster, Heavy    
     

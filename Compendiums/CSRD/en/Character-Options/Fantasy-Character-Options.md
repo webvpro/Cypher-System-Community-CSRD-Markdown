@@ -7,6 +7,7 @@ tags:
 title: Fantasy Character Options
 collection: Rules
 kind: Character
+id: Fantasy-Character-Options
 ---
 ## Fantasy Character Options  
 In some cases, the ideas here require minor changes to the flavor described in the character options; you should work with your GM to make sure these changes are suitable for the campaign. Most of the foci in this section appear in the Cypher System; foci with an asterisk (*) are found later in this document. Some of these options recommend swapping out a type ability for an ability from one of the character flavors such as combat, magic, or stealth.   

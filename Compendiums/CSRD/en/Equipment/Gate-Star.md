@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gate, Star
+  - 'Gate, Star'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/5
   - Equipment/Value/Priceless
-title: Gate, Star
+title: 'Gate, Star'
 collection: Equipment
 kind: Equipment
+id: Gate-Star
 ---
 ## Gate, Star    
     

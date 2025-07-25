@@ -8,6 +8,7 @@ tags:
 title: Poison Resistance
 collection: Cyphers
 kind: Cypher
+id: Poison-Resistance
 ---
 ## Poison Resistance    
 >[!info] Stats    

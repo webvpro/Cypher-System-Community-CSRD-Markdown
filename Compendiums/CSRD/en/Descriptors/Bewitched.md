@@ -7,6 +7,7 @@ tags:
 title: Bewitched
 collection: Descriptors
 kind: Descriptor
+id: Bewitched
 ---
 ## Bewitched    
 You’re not sure that your thoughts are always your own. You often hear a voice or voices, guiding you and attempting to force your hand. Sometimes these voices are helpful and kind. Other times, not so much. Where do they come from, and are you cursed or blessed by them?  

@@ -11,6 +11,7 @@ tags:
 title: Microscope
 collection: Equipment
 kind: Equipment
+id: Microscope
 ---
 ## Microscope    
     

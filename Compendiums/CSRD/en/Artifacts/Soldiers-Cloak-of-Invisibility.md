@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Soldier's Cloak of Invisibility
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Soldiers-Cloak-of-Invisibility
 ---
 ## Soldier's Cloak of Invisibility    
 >[!info] Stats    

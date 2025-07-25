@@ -7,6 +7,7 @@ tags:
 title: Befriends the Black Dog
 collection: Foci
 kind: Focus
+id: Befriends-the-Black-Dog
 ---
 ## Befriends the Black Dog  
 Everywhere you go, your black dog goes too. They are your best friend and your greatest weakness. Their shadowed presence fills you with a darkness, but it is inside that darkness that you find the strength to shine.  

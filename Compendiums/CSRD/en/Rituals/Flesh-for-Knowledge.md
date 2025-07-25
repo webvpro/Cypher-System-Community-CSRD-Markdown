@@ -7,6 +7,7 @@ tags:
 title: Flesh for Knowledge
 collection: Rituals
 kind: Ritual
+id: Flesh-for-Knowledge
 ---
 ## Exorcism  
 Sacrifices some of the ritualist’s flesh, inflicting Might and Speed damage equal to the level of the ritual and permanently reducing the character’s Pools by 4 points (the character can divide this loss between Might and Speed as they see fit). The character experiences painful hallucinations that give them insight and understanding. They immediately learn one type or focus ability available to them (any ability they could learn by spending 4 XP as an advancement).   

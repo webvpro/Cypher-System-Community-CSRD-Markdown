@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Deathless
 collection: Cyphers
 kind: Cypher
+id: Deathless
+categories:
+  - Fairytale
 ---
 ## Deathless    
 >[!info] Stats    

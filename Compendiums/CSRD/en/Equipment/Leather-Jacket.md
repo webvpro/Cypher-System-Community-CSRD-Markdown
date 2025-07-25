@@ -16,6 +16,7 @@ tags:
 title: Leather Jacket
 collection: Equipment
 kind: Equipment
+id: Leather-Jacket
 ---
 ## Leather Jacket    
     

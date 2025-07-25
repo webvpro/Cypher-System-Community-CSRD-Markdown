@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Cloak, Chameleon
+  - 'Cloak, Chameleon'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Apparel-And-Armor
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive
-title: Cloak, Chameleon
+title: 'Cloak, Chameleon'
 collection: Equipment
 kind: Equipment
+id: Cloak-Chameleon
 ---
 ## Cloak, Chameleon    
     

@@ -1,8 +1,11 @@
 ---
 aliases:
-  - "Ability Categories and Relative Power"
+  - Ability Categories and Relative Power
 tags:
--  Compendium/CSRD/en/Rules/Ability-Categories-and-Relative-Power
+  - Compendium/CSRD/en/Rules/Ability-Categories-and-Relative-Power
+id: Ability-Categories-and-Relative-Power
+title: Ability Categories and Relative Power
+
 ---
 # Ability Categories and Relative Power
 
@@ -23,602 +26,143 @@ The abilities in this chapter can be roughly grouped into these categories: Atta
 
 Gives you training or specialization in a specific physical attack (like swords or unarmed combat), a category of physical attacks (light bladed, heavy bashing, and so on), or another physical skill primarily used to inflict harm (such as breaking objects).
 
->[!example] Low Tier  
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Low
-> SORT file.name  
-> ```
-
->[!example] Mid Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Mid 
-> SORT file.name  
-> ```
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/High
-> SORT file.name  
-> ```
-
-
 ### Companion
 
 Gives you a follower, modifies a follower, or gives you an additional benefit when interacting with or near your follower. This category includes humanoid followers, beast companions, and temporary companions like summoned swarms, conjured spirits, and so on.
-
->[!example] Low Tier
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Companion AND #Ability/Tier/Low  
-> SORT file.name
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST 
-> FROM #Ability/Categories/Companion AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Companion AND #Ability/Tier/High  
-> SORT file.name  
-> ``` 
 
 ### Control
 
 Controls or influences minds in ways outside of what could be done with conventional intimidation and persuasion, such as using psychic mind control, fear gas, and so on.
 
->[!example] Low Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Control AND #Ability/Tier/Low  
-> SORT file.name
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Control AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Control AND #Ability/Tier/High  
-> SORT file.name  
-> ``` 
-
 ### Craft
 
 Creates useful physical things, such as mundane tools (hammers, crowbars), limited-use devices (manifest cyphers, artifacts), or independent beings (robots, elementals, zombies). Includes blueprints, plans, and effects that aid or speed crafting.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Low  
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0]) 
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
-
 ### Cure
 Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or otherwise gives immunity to a harmful effect or condition, such as poison, disease, mental attacks, moving down on the damage track, or dying.
-
->[!example] Low Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/Low  
-> SORT file.name  
-> ``` 
-
-
->[!example] Mid Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
->  LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/High   
-> SORT file.name  
-> ``` 
 
 ### Environment
 
 Manipulates the environment or things in the environment, such as with telekinesis, weather control, gravity control, illusions, and so on.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Environment AND #Ability/Tier/Low    
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST 
-> FROM #Ability/Categories/Environment AND #Ability/Tier/Mid    
-> SORT file.name  
-> GROUP BY link(file.link, file.aliases[0]) 
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Environment AND #Ability/Tier/High    
-> SORT file.name  
-> ``` 
-
 ### Information
 
 Gives the ability to learn information about something, whether chosen by the GM like Scan, by asking a question and the GM giving the answer, or by learning a language.
-
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Information AND #Ability/Tier/Low     
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Information AND #Ability/Tier/Mid      
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Information AND #Ability/Tier/High       
-> SORT file.name  
-> ``` 
 
 ### Meta
 
 Modifies an existing ability or character trait’s effects or parameters, such as increasing range or, damage, easing the difficulty, giving you additional noncombat actions each turn, rerolling a failed attempt, or treating a number on the die as something different than normal.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Meta AND #Ability/Tier/High      
-> SORT file.name  
-> ``` 
-
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Meta AND #Ability/Tier/Mid      
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Meta AND #Ability/Tier/Mid      
-> SORT file.name  
-> ``` 
-
 ### Movement
 
 Increases your movement (such as increasing your basic movement speed from short to long) or adds a new type of movement (such as flight, wallcrawling, phasing, or teleporting).
-
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Movement AND #Ability/Tier/Low       
-> SORT file.name  
-> ``` 
-
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Movement AND #Ability/Tier/Mid        
-> SORT file.name  
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Movement AND #Ability/Tier/High        
-> SORT file.name  
-> ``` 
 
 ### Protection
 
 Gives training or specialization in one or more types of combat defenses (Might, Speed, or Intellect), provides or increases Armor, or otherwise helps prevent damage.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Protection AND #Ability/Tier/Low         
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Protection AND #Ability/Tier/Mid          
-> SORT file.name  
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Protection AND #Ability/Tier/High          
-> SORT file.name  
-> ``` 
-
-
 ### Senses
 
 Enhances your senses (seeing in the dark, seeing underwater or through mist, sensing danger, finding optimal places to stand in combat, and so on), but doesn’t provide direct answers to questions like an information ability does.
-
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Senses AND #Ability/Tier/Low    
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Senses  AND #Ability/Tier/Mid   
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Senses  AND #Ability/Tier/High  
-> SORT file.name  
-> ``` 
 
 ### Social
 
 Gives you an indirect social benefit, such as providing a useful contact in a city or letting you take advantage of your social status.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Social AND #Ability/Tier/Low     
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Social AND #Ability/Tier/Mid      
-> SORT file.name  
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Social AND #Ability/Tier/High    
-> SORT file.name  
-> ``` 
-
 ### Special Attack
 
 Gives the ability to make a special melee or ranged attack (weapon, energy blast, psychic, and so on). The attack might do damage, have a special effect (disarm, hinder, move the target, and so on), or both. This also includes abilities like Spray that let you attack multiple targets as your action.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Low              
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Mid              
-> SORT file.name  
-> ``` 
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Special-Attack   AND #Ability/Tier/High               
-> SORT file.name  
-> ``` 
-
 ### Support
 
 Gives some sort of benefit to an ally rather than yourself, such as an extra action or an asset on their roll.
-
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Support  AND #Ability/Tier/Low
-> SORT file.name  
-> ``` 
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Support AND #Ability/Tier/Mid  
-> SORT file.name  
-> ``` 
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Support AND #Ability/Tier/High 
-> SORT file.name  
-> ``` 
+ 
 ### Task
 
 Gives training, specialization, or an asset in one or more noncombat skills (climbing, healing, computers, initiative, and so on).
-
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Task  AND #Ability/Tier/Low      
-> SORT file.name 
-> ```
-
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Task  AND #Ability/Tier/Mid 
-> SORT file.name 
-> ```  
-
-
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Task  AND #Ability/Tier/High      
-> SORT file.name 
-> ```
 
 ### Transform
 
 A significant change that temporarily enhances you, such as growing bigger, turning into a werewolf, and so on. Also includes apparent transformations like disguises and invisibility.
 
->[!example] Low Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/Low                  
-> SORT file.name 
-> ```
+#### Animal Form Minor Abilities
 
->[!example] Mid Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/Mid                   
-> SORT file.name 
-> ```
+  
+| Animal              | Skill Training           | Other Abilities   |
+| ------------------- | ------------------------ | ----------------- |
+| Ape                 | Climbing                 | Hands             |
+| Badger              | Climbing                 | Scent             |
+| Bat                 | Perception               | Flying            |
+| Bear                | Climbing                 | Scent             |
+| Bird                | Perception               | Flying            |
+| Boar                | Might defense            | Scent             |
+| Cat                 | Climbing or stealth      | Small             |
+| Constrictor snake   | Climbing                 | Constrict         |
+| Crocodile           | Stealth or swimming      | Constrict         |
+| Deinonychus         | Perception               | Fast              |
+| Dolphin             | Perception or swimming   | Fast              |
+| Fish                | Stealth or swimming      | Aquatic           |
+| Frog                | Jumping or stealth       | Aquatic           |
+| Horse               | Perception               | Fast              |
+| Leopard             | Climbing or stealth      | Fast              |
+| Lizard              | Climbing or stealth      | Small             |
+| Octopus             | Stealth                  | Aquatic           |
+| Shark               | Swimming                 | Aquatic           |
+| Turtle              | Might defense            | Armor             |
+| Venomous snake      | Climbing                 | Venom             |
+| Wolf                | Perception               | Scent             |
 
->[!example] High Tier 
-> ```dataview 
-> LIST  WITHOUT ID link(file.link, aliases[0])  
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/High                   
-> SORT file.name 
-> ```
 
-### Abilities—A
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "A")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+> [!tip] Aquatic  
+  
+> The animal either breathes water instead of air or is able to breathe water in addition to breathing air.  
+  
 
-### Abilities—B
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "B")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Armor 
+  
+> The animal has a thick hide or shell, granting +1 to Armor.
+  
 
-### Abilities—C
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "C")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Constrict 
+  
+> The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until the animal releases the foe.
+  
 
-### Abilities—D
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "D")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Fast  
+  
+>The animal can move a long distance on its turn instead of a short distance.
+  
 
-### Abilities—E
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "E")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Flying  
+  
+>The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.
+  
 
-### Abilities—F
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "F")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Hands  
+  
+>The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).
+  
 
-### Abilities—K
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "K")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Scent 
+  
+> The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.
+  
 
-### Abilities—L
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "L")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Small  
+  
+>The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.
+  
 
-### Abilities—M
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "M")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
+  
+>[!tip] Venom  
+  
+>The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.
 
-### Abilities—N
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "N")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—O
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "O")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—P
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "P")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```  
-
-### Abilities—Q
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Q")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ``` 
-
-### Abilities—R
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "R")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—S
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "S")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—T
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "T")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—U
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "U")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—V
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "S")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```  
-
-### Abilities—W
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "W")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—Y
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Y")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-### Abilities—Z
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Z")             
-> SORT file.name 
-> GROUP BY link(file.link, file.aliases[0]) 
-> ```
-
-## [[Animal-Form-Minor-Abilities-Table|Animal Form Minor Abilities Table]]

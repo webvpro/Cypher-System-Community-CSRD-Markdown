@@ -9,6 +9,7 @@ tags:
 title: Riding Horse
 collection: Equipment
 kind: Equipment
+id: Riding-Horse
 ---
 ## Riding Horse    
     

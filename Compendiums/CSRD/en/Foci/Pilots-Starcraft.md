@@ -7,6 +7,7 @@ tags:
 title: Pilots Starcraft
 collection: Foci
 kind: Focus
+id: Pilots-Starcraft
 ---
 ## Pilots Starcraft    
 You're a crack starship pilot.    

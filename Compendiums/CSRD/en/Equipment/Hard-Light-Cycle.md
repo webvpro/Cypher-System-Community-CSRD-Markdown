@@ -11,6 +11,7 @@ tags:
 title: Hard-Light Cycle
 collection: Equipment
 kind: Equipment
+id: Hard-Light-Cycle
 ---
 ## Hard-Light Cycle    
     

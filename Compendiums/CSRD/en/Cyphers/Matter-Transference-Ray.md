@@ -8,6 +8,7 @@ tags:
 title: Matter Transference Ray
 collection: Cyphers
 kind: Cypher
+id: Matter-Transference-Ray
 ---
 ## Matter Transference Ray    
 >[!info] Stats    

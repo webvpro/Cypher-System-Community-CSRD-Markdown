@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Blood Pearl Blossom
 collection: Cyphers
 kind: Cypher
+id: Blood-Pearl-Blossom
+categories:
+  - Fairytale
 ---
 ## Blood Pearl Blossom    
 >[!info] Stats    

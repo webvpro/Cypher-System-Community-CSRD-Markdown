@@ -7,6 +7,7 @@ tags:
 title: Roach
 collection: Descriptors
 kind: Descriptor
+id: Roach
 ---
 ## Roach    
 You are born of a species of evolved insects once called "cockroach," but that is far in the past. Radiation and forced evolution have radically increased your size, shape, and ability to think. Your exoskeleton mimics the shape of a human being, though not perfectly. When you move about human society, shadows and cloaks are your ally if you wish to pass unnoticed. When those of your kind are discovered, it usually goes poorly for someone. You, however, have a wandering spirit and seek to explore the fallen world and find a new way forward.  

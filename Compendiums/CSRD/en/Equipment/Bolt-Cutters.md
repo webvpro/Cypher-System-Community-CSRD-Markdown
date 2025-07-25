@@ -11,6 +11,7 @@ tags:
 title: Bolt Cutters
 collection: Equipment
 kind: Equipment
+id: Bolt-Cutters
 ---
 ## Bolt Cutters    
     

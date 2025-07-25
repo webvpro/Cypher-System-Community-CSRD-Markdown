@@ -20,6 +20,7 @@ pools: []
 categories:
   - Cure
   - Meta
+id: Deep-Reserves
 ---
 ## Deep Reserves    
 >**Action**  

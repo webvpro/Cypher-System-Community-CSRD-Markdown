@@ -11,6 +11,7 @@ tags:
 title: Teleportation Disc
 collection: Equipment
 kind: Equipment
+id: Teleportation-Disc
 ---
 ## Teleportation Disc    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Movement
+id: Bolt-Rider
 ---
 ## Bolt Rider    
 >**Action**    

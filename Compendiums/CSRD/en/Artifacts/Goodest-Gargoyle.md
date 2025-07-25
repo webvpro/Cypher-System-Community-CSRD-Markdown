@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Goodest-Gargoyle
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Goodest Gargoyle
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Goodest-Gargoyle
+contentCategory: Modern Magic Artifacts
 ---
 ## Goodest Gargoyle  
 >1d6 +2  

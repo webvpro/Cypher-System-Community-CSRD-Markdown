@@ -8,6 +8,7 @@ tags:
 title: Fireproofing
 collection: Cyphers
 kind: Cypher
+id: Fireproofing
 ---
 ## Fireproofing    
 >[!info] Stats    

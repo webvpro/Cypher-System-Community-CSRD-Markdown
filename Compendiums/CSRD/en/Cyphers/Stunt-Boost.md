@@ -8,6 +8,7 @@ tags:
 title: Stunt Boost
 collection: Cyphers
 kind: Cypher
+id: Stunt-Boost
 ---
 ## Stunt Boost    
 >[!info] Stats    

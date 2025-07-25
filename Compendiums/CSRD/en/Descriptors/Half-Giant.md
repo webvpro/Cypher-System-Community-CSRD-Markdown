@@ -7,6 +7,7 @@ tags:
 title: Half-Giant
 collection: Descriptors
 kind: Descriptor
+id: Half-Giant
 ---
 ## Half-Giant    
 You stand at least 12 feet (4 m) tall and tower over everyone around you. Whether you are a full-blooded giant or merely have giant heritage from large ancestors, you're massive. Always large for your age, it became an issue only once you reached puberty and topped 7 feet (2 m) in height, and kept growing from there.  

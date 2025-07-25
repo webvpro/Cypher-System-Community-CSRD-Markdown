@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 2
 health: 23
+id: Zombie-Hulk
 ---
 ## Zombie Hulk    
 Most zombies are mindless, shambling, hungry, and infectious. Some varieties, despite their semblance to corpses, enjoy a regenerative process that keeps them active regardless of grievous wounds, rotting flesh, and sometimes missing limbs or organs. That same process kicks into overdrive in zombie hulks, converting everything they eat into additional mass and muscle. The result is three times as massive as a regular zombie and five times as dangerous.  

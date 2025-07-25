@@ -8,6 +8,7 @@ tags:
 title: Rolling Dice
 collection: Rules
 kind: Roll
+id: Rolling-Dice
 ---
 ## Rolling the Dice  
 To determine success or failure, a player rolls a die (always a d20). If they roll the target number or higher, they succeed. Most of the time, that’s the end of it—nothing else needs to be done. Rarely, a character might apply a small modifier to the roll. If they have a +2 bonus when attempting specific actions, they add 2 to the number rolled. However, the original roll matters if it’s a special roll.  

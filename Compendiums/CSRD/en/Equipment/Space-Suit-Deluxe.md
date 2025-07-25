@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Space Suit, Deluxe
+  - 'Space Suit, Deluxe'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive-X2
-title: Space Suit, Deluxe
+title: 'Space Suit, Deluxe'
 collection: Equipment
 kind: Equipment
+id: Space-Suit-Deluxe
 ---
 ## Space Suit, Deluxe    
     

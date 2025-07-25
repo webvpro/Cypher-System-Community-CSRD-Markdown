@@ -22,6 +22,7 @@ pools:
 categories:
   - Magic
   - Fantasy
+id: Reading-Decomposition
 ---
 ## Reading Decomposition  
 >**Action**    

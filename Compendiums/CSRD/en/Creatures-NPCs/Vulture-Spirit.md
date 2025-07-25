@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 10
+id: Vulture-Spirit
 ---
 ## Vulture Spirit  
 Vulture spirits look like tall humans with bald heads and horrible, hunched posture. They blend in, and they like it that way. Vulture spirits subsist on other people’s pain and misery, which has led to a bad reputation that’s hard to shake.   

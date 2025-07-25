@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/2
   - Creature/Health/7
+  - Content/Fairytale
 title: Orc
 collection: Creatures-NPCs
 kind: Creature
 level: 2
 armor: 2
 health: 7
+id: Orc
+categories:
+  - Fairytale
 ---
 ## Orc    
 Born into squalor and fear, the orc species is composed of miserable, misbegotten humanoids that seem destined to serve as fodder for more powerful evil overlords. When left to their own devices, these loathsome creatures turn on each other, the strongest oppressing the next weakest (and so on down the line) with cruel barbs, gruesome jokes, and physical beatings. When these creatures have no masters to hate, they hate themselves.  

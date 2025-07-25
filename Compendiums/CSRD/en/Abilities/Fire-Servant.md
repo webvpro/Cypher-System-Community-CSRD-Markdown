@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Fire-Servant
 ---
 ## Fire Servant    
 >**Action**    

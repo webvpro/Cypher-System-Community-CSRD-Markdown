@@ -8,6 +8,7 @@ tags:
 title: Useful Thing
 collection: Cyphers
 kind: Cypher
+id: Useful-Thing
 ---
 ## Useful Thing    
 >[!info] Stats    

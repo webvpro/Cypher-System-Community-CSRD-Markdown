@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Rifle, Assault
+  - 'Rifle, Assault'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
-title: Rifle, Assault
+title: 'Rifle, Assault'
 collection: Equipment
 kind: Equipment
+id: Rifle-Assault
 ---
 ## Rifle, Assault    
     

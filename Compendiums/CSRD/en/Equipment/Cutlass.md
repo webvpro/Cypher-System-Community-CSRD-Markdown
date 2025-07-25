@@ -10,6 +10,7 @@ tags:
 title: Cutlass
 collection: Equipment
 kind: Equipment
+id: Cutlass
 ---
 ## Cutlass    
     

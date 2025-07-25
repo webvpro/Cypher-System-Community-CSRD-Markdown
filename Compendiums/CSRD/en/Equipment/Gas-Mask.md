@@ -12,6 +12,7 @@ tags:
 title: Gas Mask
 collection: Equipment
 kind: Equipment
+id: Gas-Mask
 ---
 ## Gas Mask    
     

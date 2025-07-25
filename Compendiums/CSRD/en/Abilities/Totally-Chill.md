@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Cure
+id: Totally-Chill
 ---
 ## Totally Chill    
 >**Enabler**  

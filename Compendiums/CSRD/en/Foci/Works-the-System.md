@@ -7,6 +7,7 @@ tags:
 title: Works the System
 collection: Foci
 kind: Focus
+id: Works-the-System
 ---
 ## Works the System    
 You can exploit flaws in artificial systems, including but not limited to computer code.    

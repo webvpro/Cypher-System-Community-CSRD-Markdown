@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Nano Tab, Space-Fit
+  - 'Nano Tab, Space-Fit'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
-title: Nano Tab, Space-Fit
+title: 'Nano Tab, Space-Fit'
 collection: Equipment
 kind: Equipment
+id: Nano-Tab-Space-Fit
 ---
 ## Nano Tab, Space-Fit    
     

@@ -11,6 +11,7 @@ tags:
 title: Leather Jerkin
 collection: Equipment
 kind: Equipment
+id: Leather-Jerkin
 ---
 ## Leather Jerkin    
     

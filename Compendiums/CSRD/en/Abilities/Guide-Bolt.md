@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Guide-Bolt
 ---
 ## Guide Bolt    
 >**Enabler**    

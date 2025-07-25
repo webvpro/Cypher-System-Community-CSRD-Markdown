@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 0
 health: 18
+id: Replicant
 ---
 ## Replicant    
 Virtually identical to adult humans, these biosculpted androids are stronger, faster, and potentially smarter. However, because they are manufactured beings with grafted memories, replicants rarely feel true human emotion, be that love, sadness, or empathy, though those who live long enough to lay down their own memories can develop the capacity to do so.   

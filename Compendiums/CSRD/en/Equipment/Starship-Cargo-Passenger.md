@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Cargo Passenger
+  - 'Starship, Cargo Passenger'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Starship, Cargo Passenger
+title: 'Starship, Cargo Passenger'
 collection: Equipment
 kind: Equipment
+id: Starship-Cargo-Passenger
 ---
 ## Starship, Cargo Passenger    
     

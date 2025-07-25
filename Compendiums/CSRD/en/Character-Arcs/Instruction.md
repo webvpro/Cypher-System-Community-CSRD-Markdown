@@ -8,6 +8,7 @@ title: Instruction
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Instruction
 ---
 ## Instruction  
 >You teach a pupil. You have knowledge on a topic and are willing to share. This can be a skill, an area of lore, a combat style, or the use of a special ability. This is usually a fairly long-term arc. Sometimes teaching a pupil is a side matter, and sometimes the pupil takes on more of an apprentice role and spends a great deal of time with you, traveling with you and perhaps even living in your house (or you living in theirs).  

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers/Yonder-Yarn
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Yonder Yarn
 collection: Cyphers
 kind: Cypher
+id: Yonder-Yarn
+categories:
+  - Fairytale
 ---
 ## Yonder Yarn    
 >[!info] Stats    

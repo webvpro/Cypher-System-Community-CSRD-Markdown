@@ -22,6 +22,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Wasteland-Camouflage
 ---
 ## Wasteland Camouflage    
 >**Action**    

@@ -10,6 +10,7 @@ tags:
 title: Infiltrator
 collection: Equipment
 kind: Equipment
+id: Infiltrator
 ---
 ## Infiltrator    
     

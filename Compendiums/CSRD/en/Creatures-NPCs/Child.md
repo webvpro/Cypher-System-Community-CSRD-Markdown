@@ -8,12 +8,16 @@ tags:
   - Creature/Level/1
   - Creature/Armor/0
   - Creature/Health/3
+  - Content/Fairytale
 title: Child
 collection: Creatures-NPCs
 kind: NPC
 level: 1
 armor: 0
 health: 3
+id: Child
+categories:
+  - Fairytale
 ---
 ## Child    
 Children play the roles of urchins, siblings, daughters, sons, waifs, servants, royal family members, child brides, and more.    

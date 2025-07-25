@@ -14,6 +14,7 @@ kind: NPC
 level: 5
 armor: 0
 health: 15
+id: Secret-Agent
 ---
 ## Secret Agent    
 Secret agents are trained professionals who put their mission before their own well-being, regardless of which government agency, corporation, guild, or kingdom employs them. An agent operates under a fake cover, perhaps as an envoy, inspector, technician, actor, tourist, or bumbling fool.    

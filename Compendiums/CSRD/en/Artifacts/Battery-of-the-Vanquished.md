@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Battery-of-the-Vanquished
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Battery of the Vanquished
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Battery-of-the-Vanquished
+contentCategory: Modern Magic Artifacts
 ---
 ## Battery of the Vanquished  
 #### Level   

@@ -8,6 +8,7 @@ tags:
 title: Sheen
 collection: Cyphers
 kind: Cypher
+id: Sheen
 ---
 ## Sheen    
 >[!info] Stats    

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/0
   - Creature/Health/8
+  - Content/Fairytale
 title: Crafter
 collection: Creatures-NPCs
 kind: NPC
 level: 2
 armor: 0
 health: 8
+id: Crafter
+categories:
+  - Fairytale
 ---
 ## Crafter    
 Crafters include bakers, cobblers, candlemakers, butchers, millers, tailors, woodworkers, and cooks. While most crafters aren't particularly agile fighters, they are usually clever and strong, and have a number of familiar tools at their disposal for weapons.    

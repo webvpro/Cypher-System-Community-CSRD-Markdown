@@ -11,6 +11,7 @@ tags:
 title: Stasis Pod
 collection: Equipment
 kind: Equipment
+id: Stasis-Pod
 ---
 ## Stasis Pod    
     

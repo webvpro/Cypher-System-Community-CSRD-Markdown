@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Story Knife
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Story-Knife
 ---
 ## Story Knife    
 >[!info] Stats    

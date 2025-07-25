@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: She Bear
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: She-Bear
 ---
 ## She Bear    
 >[!info] Stats    

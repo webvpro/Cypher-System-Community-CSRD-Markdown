@@ -22,6 +22,7 @@ pools:
 categories:
   - Attack-Skill
   - Meta
+id: Duel-to-the-Death
 ---
 ## Duel to the Death    
 >**Action**    

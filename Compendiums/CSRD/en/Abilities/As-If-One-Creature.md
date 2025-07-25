@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Companion
+id: As-If-One-Creature
 ---
 ## As If One Creature    
 >**Enabler**  

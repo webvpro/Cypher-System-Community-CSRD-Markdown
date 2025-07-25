@@ -7,6 +7,7 @@ tags:
 title: Resurrection
 collection: Rituals
 kind: Ritual
+id: Resurrection
 ---
 ## Resurrection  
 Restores a dead being to life. The creature is restored to full health and is ready to act as soon as the ritual is completed. Depending on how they died and the nature of death in the setting, the creature may or may not remember anything that happened after they died.   

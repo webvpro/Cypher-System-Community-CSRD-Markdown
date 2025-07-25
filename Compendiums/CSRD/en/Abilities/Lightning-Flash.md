@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - ''
+id: Lightning-Flash
 ---
 ## Lightning Flash    
 >**Action**    

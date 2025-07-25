@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Lions-Courage
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Lion's Courage
 collection: Cyphers
 kind: Cypher
+id: Lions-Courage
+categories:
+  - Fairytale
 ---
 ## Lion's Courage    
 >[!info] Stats    

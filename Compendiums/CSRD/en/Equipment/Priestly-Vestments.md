@@ -9,6 +9,7 @@ tags:
 title: Priestly Vestments
 collection: Equipment
 kind: Equipment
+id: Priestly-Vestments
 ---
 ## Priestly Vestments    
     

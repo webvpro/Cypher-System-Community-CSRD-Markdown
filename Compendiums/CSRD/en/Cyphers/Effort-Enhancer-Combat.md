@@ -8,6 +8,7 @@ tags:
 title: Effort Enhancer Combat
 collection: Cyphers
 kind: Cypher
+id: Effort-Enhancer-Combat
 ---
 ## Effort Enhancer Combat    
 >[!info] Stats    

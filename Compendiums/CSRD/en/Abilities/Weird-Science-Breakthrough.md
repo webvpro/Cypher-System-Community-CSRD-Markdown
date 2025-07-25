@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Weird-Science-Breakthrough
 ---
 ## Weird Science Breakthrough    
 >**Action**    

@@ -11,6 +11,7 @@ tags:
 title: House Robot
 collection: Equipment
 kind: Equipment
+id: House-Robot
 ---
 ## House Robot    
     

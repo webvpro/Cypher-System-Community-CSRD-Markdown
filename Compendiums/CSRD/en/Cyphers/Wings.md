@@ -8,6 +8,7 @@ tags:
 title: Wings
 collection: Cyphers
 kind: Cypher
+id: Wings
 ---
 ## Wings    
 >[!info] Stats    

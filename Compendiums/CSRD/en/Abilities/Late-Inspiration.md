@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Late-Inspiration
 ---
 ## Late Inspiration    
 >**Enabler**    

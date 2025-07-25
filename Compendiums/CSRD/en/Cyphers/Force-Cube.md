@@ -8,6 +8,7 @@ tags:
 title: Force Cube
 collection: Cyphers
 kind: Cypher
+id: Force-Cube
 ---
 ## Force Cube    
 >[!info] Stats    

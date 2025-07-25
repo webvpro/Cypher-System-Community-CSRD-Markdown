@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Psychic-Suggestion
 ---
 ## Psychic Suggestion    
 >**Action**    

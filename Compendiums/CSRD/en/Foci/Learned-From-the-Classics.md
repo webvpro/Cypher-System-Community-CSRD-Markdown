@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Learned-From-the-Classics
   - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
 title: Learned From the Classics
 collection: Foci
 kind: Focus
+id: Learned-From-the-Classics
+categories:
+  - Modern-Magic
 ---
 ## Learned From the Classics  
 Magic comes intuitively to some people, but you’ve always had to work a bit harder. Luckily, you find that research comes naturally. You know what questions to ask; you know which books, websites, or professionals will have the answers. You spent years studying and practicing, and you taught yourself everything you know. Now you’re a skilled magician who’s always eager to learn more—evidenced by your lengthy reading list.  

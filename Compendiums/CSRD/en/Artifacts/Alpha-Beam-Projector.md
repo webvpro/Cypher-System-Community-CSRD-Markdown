@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact/Weapon
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Alpha Beam Projector
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Alpha-Beam-Projector
 ---
 ## Alpha Beam Projector    
 >[!info] Stats    

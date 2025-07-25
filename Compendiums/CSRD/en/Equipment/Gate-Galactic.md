@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gate, Galactic
+  - 'Gate, Galactic'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/6
   - Equipment/Value/Priceless
-title: Gate, Galactic
+title: 'Gate, Galactic'
 collection: Equipment
 kind: Equipment
+id: Gate-Galactic
 ---
 ## Gate, Galactic    
     

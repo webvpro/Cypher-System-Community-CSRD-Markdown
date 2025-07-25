@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Senses
+id: See-the-Unseen
 ---
 ## See the Unseen    
 >**Enabler**  

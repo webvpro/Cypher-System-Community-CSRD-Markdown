@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Snake Leaves
 collection: Cyphers
 kind: Cypher
+id: Snake-Leaves
+categories:
+  - Fairytale
 ---
 ## Snake Leaves    
 >[!info] Stats    

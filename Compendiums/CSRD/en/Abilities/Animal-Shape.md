@@ -9,6 +9,8 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Intellect
   - Ability/Categories/NA
+  - Content/Superhero
+  - Content/Fantasy
 title: Animal Shape
 collection: Abilities
 kind: Ability
@@ -20,6 +22,9 @@ pools:
   - Intellect
 categories:
   - NA
+  - Superhero
+  - Fantasy
+id: Animal-Shape
 ---
 ## Animal Shape    
 >**Action**    

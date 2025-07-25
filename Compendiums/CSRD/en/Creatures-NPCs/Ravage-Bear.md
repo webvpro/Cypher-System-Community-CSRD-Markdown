@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 1
 health: 20
+id: Ravage-Bear
 ---
 ## Ravage Bear    
 A ravage bear is a hideous predator that hunts entirely by sense of smell. It is blind and nearly deaf, but it still tracks and senses prey easily. It is very protective of its young, and if hungry, it is extremely dangerous. Otherwise, it gives most creatures a wide berth.    

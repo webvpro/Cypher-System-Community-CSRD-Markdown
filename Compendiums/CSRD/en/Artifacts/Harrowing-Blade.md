@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Harrowing-Blade
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Harrowing Blade
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Harrowing-Blade
+contentCategory: Modern Magic Artifacts
 ---
 ## Harrowing Blade  
 >1d6 +1  

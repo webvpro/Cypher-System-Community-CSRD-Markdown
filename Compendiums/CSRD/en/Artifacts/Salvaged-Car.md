@@ -9,6 +9,7 @@ title: Salvaged Car
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Salvaged-Car
 ---
 ## Salvaged Car    
 >[!info] Stats    

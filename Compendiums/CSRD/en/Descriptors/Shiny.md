@@ -7,6 +7,7 @@ tags:
 title: Shiny
 collection: Descriptors
 kind: Descriptor
+id: Shiny
 ---
 ## Shiny    
 You’re brash and bright, and you exult in situations, people, and objects that seem to  you as if they have a similar sheen. Literally shiny objects qualify, as well as objects that are not rusted or degraded by time’s passage or the effects of the apocalypse. You also tend to fall into the orbit of people who are strong, unbeaten, and possessed of an inner brightness. You believe that they, like you, reflect the light of some greater spiritual purpose in the world. When you believe you are acting in that glow, you are emboldened and may take risks others fear. You don’t seek death, but you’re confident that death in the pursuit of something shiny is the definition of a life well-lived.  

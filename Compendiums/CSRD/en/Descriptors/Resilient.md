@@ -7,6 +7,7 @@ tags:
 title: Resilient
 collection: Descriptors
 kind: Descriptor
+id: Resilient
 ---
 ## Resilient    
 You can take a lot of punishment, both physically and mentally, and still come back for more. It takes a lot to put you down. Neither physical nor mental shocks or damage have a lasting effect. You're tough to faze. Unflappable. Unstoppable.  

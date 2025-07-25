@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Weapon-Defense
 ---
 ## Weapon Defense    
 >**Enabler**  

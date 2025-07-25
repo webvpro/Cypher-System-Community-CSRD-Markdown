@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Counter-Danger
 ---
 ## Counter Danger    
 >**Action**    

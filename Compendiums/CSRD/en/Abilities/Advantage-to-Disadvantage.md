@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Advantage-to-Disadvantage
 ---
 ## Advantage to Disadvantage    
 >**Action**    

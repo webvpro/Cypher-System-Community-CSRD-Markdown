@@ -16,6 +16,7 @@ tags:
 title: Bag of Heavy Tools
 collection: Equipment
 kind: Equipment
+id: Bag-of-Heavy-Tools
 ---
 ## Bag of Heavy Tools    
     

@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 2
 health: 24
+id: Synthetic-Person
 ---
 ## Synthetic Person    
 Synthetic people have been called many things, including simply synths, androids, robot mimics, and, depending on how they act, killer robots. Their origins are varied. In some cases, they're the result of corporate research into "products" that would serve humanity as assistants and companions, but later gained sentience. In other cases, synthetic people are the result of a state-sponsored program to develop war machines or automated assassins that looked like regular people. Another origin for synthetic people is through the design of awakened (and inimical) AIs as part of an effort to kill off all regular biological people. Now they roam their environment looking like anyone else. Some synths try to fit into whatever kind of society they can find. Some may not even know that they are not human. Others are bitter, homicidal, or still retain their programming to kill. Some of these may have even shed some or all of their synthetic skins to reveal the alloyed mechanisms beneath.    

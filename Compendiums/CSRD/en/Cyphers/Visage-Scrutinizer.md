@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Visage Scrutinizer
 collection: Cyphers
 kind: Cypher
+id: Visage-Scrutinizer
+categories:
+  - Horror
 ---
 ## Visage Scrutinizer    
 >[!info] Stats    

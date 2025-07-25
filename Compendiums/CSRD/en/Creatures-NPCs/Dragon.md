@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 3
 health: 45
+id: Dragon
 ---
 ## Dragon    
 Dragons are exceptionally territorial, vain, and greedy. Apex predators, dragons must eat large meals on a regular basis. They prefer virgins, though they will settle for whoever, or whatever-such as horses or wild pigs-is available in a pinch. They love games of all sorts, especially when they get to consume the loser. Drawn to wealth and magic, dragons accumulate hoards of golden treasure. A dragon's hoard is not only an end in itself, but part of a never-ending contest between dragons of a certain age to see which one can accumulate the largest trove.    

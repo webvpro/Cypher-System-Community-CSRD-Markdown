@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Knife, Multipurpose
+  - 'Knife, Multipurpose'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Value/Moderate
   - Equipment/Asset
   - Equipment/Weapon/Light
-title: Knife, Multipurpose
+title: 'Knife, Multipurpose'
 collection: Equipment
 kind: Equipment
+id: Knife-Multipurpose
 ---
 ## Knife, Multipurpose    
     

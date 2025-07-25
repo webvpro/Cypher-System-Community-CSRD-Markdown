@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Fantasy
 title: Controls Gravity
 collection: Foci
 kind: Focus
+id: Controls-Gravity
+categories:
+  - Fantasy
 ---
 ## Controls Gravity    
 You can sway the attraction of gravity itself.    

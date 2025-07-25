@@ -7,6 +7,7 @@ tags:
 title: Emerged From the Obelisk
 collection: Foci
 kind: Focus
+id: Emerged-From-the-Obelisk
 ---
 ## Emerged From the Obelisk    
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.    

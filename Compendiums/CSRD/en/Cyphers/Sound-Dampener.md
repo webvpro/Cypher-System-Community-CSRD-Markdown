@@ -8,6 +8,7 @@ tags:
 title: Sound Dampener
 collection: Cyphers
 kind: Cypher
+id: Sound-Dampener
 ---
 ## Sound Dampener    
 >[!info] Stats    

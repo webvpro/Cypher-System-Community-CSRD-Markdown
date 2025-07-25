@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Jotunn, Frost
+  - 'Jotunn, Frost'
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
   - Creature
@@ -8,12 +8,13 @@ tags:
   - Creature/Level/6
   - Creature/Armor/2
   - Creature/Health/30
-title: Jotunn, Frost
+title: 'Jotunn, Frost'
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 2
 health: 30
+id: 'Jotunn,-Frost'
 ---
 ## Jotunn, Frost    
 Frost jotunns are often called frost giants or ice giants. Their skin is pale white, pink, or blue, and their hair is usually white, pale blond, or actual ice. They prefer cold mountains and tundra, wear chainmail and furs, and use metal axes that channel powerful cold from their bodies.    

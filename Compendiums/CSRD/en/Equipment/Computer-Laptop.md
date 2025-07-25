@@ -11,6 +11,7 @@ tags:
 title: Computer Laptop
 collection: Equipment
 kind: Equipment
+id: Computer-Laptop
 ---
 ## Computer Laptop    
     

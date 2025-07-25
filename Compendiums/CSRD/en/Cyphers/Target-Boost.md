@@ -8,6 +8,7 @@ tags:
 title: Target Boost
 collection: Cyphers
 kind: Cypher
+id: Target-Boost
 ---
 ## Target Boost    
 >[!info] Stats    

@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Discerning-Mind
 ---
 ## Discerning Mind    
 >**Enabler**  

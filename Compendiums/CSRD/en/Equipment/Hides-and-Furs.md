@@ -11,6 +11,7 @@ tags:
 title: Hides and Furs
 collection: Equipment
 kind: Equipment
+id: Hides-and-Furs
 ---
 ## Hides and Furs    
     

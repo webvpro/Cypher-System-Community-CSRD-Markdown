@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Conjures-Bullets
   - Focus/Category/Magic-Tech
+  - Content/Modern-Magic
 title: Conjures Bullets
 collection: Foci
 kind: Focus
+id: Conjures-Bullets
+categories:
+  - Modern-Magic
 ---
 ## Conjures Bullets  
 You blend sorcery and firearms into an amazing mix of magic and technology. Bullets and spells are almost interchangeable to you; your magic has a firearm motif and you cast using your gun. You might be a trick-shot sorcerer, a magical member of the armed forces, or an outlaw with a flair for arcane power. Gun nuts and wizard purists might look down on your blended technique, but you can do things that nobody else can do. You might call yourself a guncaster, spellshooter, or triggermage. You wear clothing that leaves your arms and hands free to use your weapon and cast spells, preferring something more flashy than a gunslinger’s long coat and more intimidating than typical magician or witch clothing.  

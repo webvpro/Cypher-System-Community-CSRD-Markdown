@@ -10,6 +10,7 @@ tags:
 title: Handheld Scanner
 collection: Equipment
 kind: Equipment
+id: Handheld-Scanner
 ---
 ## Handheld Scanner    
     

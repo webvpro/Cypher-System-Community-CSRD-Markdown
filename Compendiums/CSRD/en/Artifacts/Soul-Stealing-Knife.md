@@ -9,6 +9,7 @@ title: Soul-Stealing Knife
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Soul-Stealing-Knife
 ---
 ## Soul-Stealing Knife    
 >[!info] Stats    

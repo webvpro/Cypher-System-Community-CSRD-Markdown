@@ -11,6 +11,7 @@ tags:
 title: Helicopter
 collection: Equipment
 kind: Equipment
+id: Helicopter
 ---
 ## Helicopter    
     

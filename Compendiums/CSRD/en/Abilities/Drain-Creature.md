@@ -22,6 +22,7 @@ pools:
 categories:
   - Cure
   - Meta
+id: Drain-Creature
 ---
 ## Drain Creature    
 >**Action**    

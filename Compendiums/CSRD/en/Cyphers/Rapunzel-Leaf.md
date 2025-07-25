@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Rapunzel Leaf
 collection: Cyphers
 kind: Cypher
+id: Rapunzel-Leaf
+categories:
+  - Fairytale
 ---
 ## Rapunzel Leaf    
 >[!info] Stats    

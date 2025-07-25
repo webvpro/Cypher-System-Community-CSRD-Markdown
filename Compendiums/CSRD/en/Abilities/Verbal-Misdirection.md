@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Verbal-Misdirection
 ---
 ## Verbal Misdirection    
 >**Enabler**    

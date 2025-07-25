@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Portable Lamp, Solar
+  - 'Portable Lamp, Solar'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Portable Lamp, Solar
+title: 'Portable Lamp, Solar'
 collection: Equipment
 kind: Equipment
+id: Portable-Lamp-Solar
 ---
 ## Portable Lamp, Solar    
     

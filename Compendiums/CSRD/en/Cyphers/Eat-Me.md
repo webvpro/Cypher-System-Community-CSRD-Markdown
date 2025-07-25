@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Eat Me
 collection: Cyphers
 kind: Cypher
+id: Eat-Me
+categories:
+  - Fairytale
 ---
 ## Eat Me    
 >[!info] Stats    

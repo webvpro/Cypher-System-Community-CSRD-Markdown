@@ -22,6 +22,7 @@ categories:
   - Meta
   - Protection
   - Transform
+id: Moderate-Wish
 ---
 ## Moderate Wish    
 >**Action**  

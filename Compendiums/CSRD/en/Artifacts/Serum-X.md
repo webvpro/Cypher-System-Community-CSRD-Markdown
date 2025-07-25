@@ -9,6 +9,7 @@ title: Serum X
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Serum-X
 ---
 ## Serum X    
 >[!info] Stats    

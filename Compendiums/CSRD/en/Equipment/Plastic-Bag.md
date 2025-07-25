@@ -9,6 +9,7 @@ tags:
 title: Plastic Bag
 collection: Equipment
 kind: Equipment
+id: Plastic-Bag
 ---
 ## Plastic Bag    
     

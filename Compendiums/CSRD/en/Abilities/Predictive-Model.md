@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Predictive-Model
 ---
 ## Predictive Model    
 >**Action**    

@@ -8,6 +8,7 @@ tags:
 title: Beast Shape
 collection: Cyphers
 kind: Cypher
+id: Beast-Shape
 ---
 ## Beast Shape    
 >[!info] Stats    

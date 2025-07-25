@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Transform
+id: Outside-Reality
 ---
 ## Outside Reality    
 >**Enabler**    

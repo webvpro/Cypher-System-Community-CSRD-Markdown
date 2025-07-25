@@ -7,6 +7,7 @@ tags:
 title: Mystical
 collection: Descriptors
 kind: Descriptor
+id: Mystical
 ---
 ## Mystical    
 You think of yourself as mystical, attuned with the mysterious and the paranormal. Your true talents lie with the supernatural. You likely have experience with ancient lore, and you can sense and wield the supernatural-though whether that means "magic," "psychic phenomena," or something else is up to you (and probably up to those around you as well). Mystical characters often wear jewelry, such as a ring or an amulet, or have tattoos or other marks that show their interests.  

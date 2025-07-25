@@ -7,6 +7,7 @@ tags:
 title: Canien
 collection: Descriptors
 kind: Descriptor
+id: Canien
 ---
 ## Canien    
 You're an evolved, intelligent dog with the ability to speak and use tools. Some caniens stand upright and have hands, and others are quadrupeds who can use a combination of their front paws and mouth as adroitly as a handed canien; you decide which kind of canien you are. Most canien clothing and equipment accommodates walking on either two feet or four, so that's normally not an issue. Either way, you've got fur, a tail, and a noble dog visage true to your particular line of descent. And like most caniens, you're loyal to your pack and friends. But you may find strangers a little suspicious, in which case you aren't shy about letting them know. However, you're usually willing to entertain the idea that a newcomer may be a friend you just don't know yet.  

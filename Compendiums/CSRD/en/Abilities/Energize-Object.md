@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Energize-Object
 ---
 ## Energize Object    
 >**Action**  

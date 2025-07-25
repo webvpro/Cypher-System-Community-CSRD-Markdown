@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Poison-Touch
 ---
 ## Poison Touch    
 >**Action**    

@@ -11,6 +11,7 @@ tags:
 title: Lockpick Set
 collection: Equipment
 kind: Equipment
+id: Lockpick-Set
 ---
 ## Lockpick Set    
     

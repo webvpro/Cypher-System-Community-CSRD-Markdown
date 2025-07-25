@@ -11,6 +11,7 @@ tags:
 title: Autodoc
 collection: Equipment
 kind: Equipment
+id: Autodoc
 ---
 ## Autodoc    
     

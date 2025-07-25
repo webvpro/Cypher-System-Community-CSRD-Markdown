@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Steadfast Tin Soldier
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Steadfast-Tin-Soldier
 ---
 ## Steadfast Tin Soldier    
 >[!info] Stats    

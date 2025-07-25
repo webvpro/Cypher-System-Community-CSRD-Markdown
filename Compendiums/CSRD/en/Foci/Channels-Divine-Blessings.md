@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Irregular
+  - Content/Fantasy
 title: Channels Divine Blessings
 collection: Foci
 kind: Focus
+id: Channels-Divine-Blessings
+categories:
+  - Fantasy
 ---
 ## Channels Divine Blessings    
 A devout follower of a divine being, you channel some of your deity's power to achieve wonders.    

@@ -9,6 +9,7 @@ tags:
 title: Scale
 collection: Equipment
 kind: Equipment
+id: Scale
 ---
 ## Scale    
     

@@ -1,12 +1,14 @@
 ---
-aliases: How To Play the Cypher System
+aliases:
+  - How to play
 tags:
   - Compendium/CSRD/en/Rules
   - HowTo
   - Task/Difficulty
-title: H
+title: How to play
 collection: Rules
 kind: HowTo
+id: How-to-play
 ---
 # How to Play the Cypher System  
   

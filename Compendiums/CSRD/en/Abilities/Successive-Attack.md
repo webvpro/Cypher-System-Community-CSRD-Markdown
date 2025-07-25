@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Successive-Attack
 ---
 ## Successive Attack    
 >**Enabler**    

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Superhero
 title: Uncanny
 collection: Descriptors
 kind: Descriptor
+id: Uncanny
+categories:
+  - Superhero
 ---
 ## Uncanny    
 There's something unusual about you, and it makes other people a little uncomfortable. You know you're exceptional--gifted, even--and being a bit odd doesn't make you any less of a person. This uncanny element is a part of you, in your blood, in your DNA. You can't help it, but you won't apologize for it. You feel comfortable around other people with similar strangeness, people who've experienced the same prejudice that you have; these shared experiences mean they're your family, perhaps the only family you've got.  

@@ -7,6 +7,7 @@ tags:
 title: Appealing
 collection: Descriptors
 kind: Descriptor
+id: Appealing
 ---
 ## Appealing    
 You're attractive to others, but perhaps more important, you are likeable and charismatic. You've got that "special something" that draws others to you. You often know just the right thing to say to make someone laugh, put them at ease, or spur them to action. People like you, want to help you, and want to be your friend.  

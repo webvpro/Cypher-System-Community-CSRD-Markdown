@@ -9,6 +9,7 @@ title: Rocket-Propelled Grenade
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Rocket-Propelled-Grenade
 ---
 ## Rocket-Propelled Grenade    
 >[!info] Stats    

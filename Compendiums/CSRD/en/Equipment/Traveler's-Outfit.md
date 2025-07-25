@@ -9,6 +9,7 @@ tags:
 title: Traveler's Outfit
 collection: Equipment
 kind: Equipment
+id: Traveler's-Outfit
 ---
 ## Traveler's Outfit    
     

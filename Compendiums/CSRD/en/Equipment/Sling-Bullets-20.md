@@ -9,6 +9,7 @@ tags:
 title: Sling Bullets (20)
 collection: Equipment
 kind: Equipment
+id: Sling-Bullets-20
 ---
 ## Sling Bullets (20)    
     

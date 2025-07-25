@@ -11,6 +11,7 @@ tags:
 title: PackBot
 collection: Equipment
 kind: Equipment
+id: PackBot
 ---
 ## PackBot    
     

@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Improved-Edge
 ---
 ## Improved Edge    
 >**Enabler**  

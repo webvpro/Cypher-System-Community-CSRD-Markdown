@@ -7,6 +7,7 @@ tags:
 title: Honorable
 collection: Descriptors
 kind: Descriptor
+id: Honorable
 ---
 ## Honorable    
 You are trustworthy, fair, and forthright. You try to do what is right, to help others, and to treat them well. Lying and cheating are no way to get ahead-these things are for the weak, the lazy, or the despicable. You probably spend a lot of time thinking about your personal honor, how best to maintain it, and how to defend it if challenged. In combat, you are straightforward and offer quarter to any foe.  

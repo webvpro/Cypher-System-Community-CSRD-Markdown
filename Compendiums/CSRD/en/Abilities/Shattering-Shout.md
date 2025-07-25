@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Shattering-Shout
 ---
 ## Shattering Shout    
 >**Action**    

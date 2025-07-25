@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Tough-It-Out
 ---
 ## Tough It Out    
 >**Enabler**  

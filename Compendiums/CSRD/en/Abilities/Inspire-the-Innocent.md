@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Inspire-the-Innocent
 ---
 ## Inspire the Innocent    
 >**Action**    

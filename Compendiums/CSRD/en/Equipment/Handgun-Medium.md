@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Handgun, Medium
+  - 'Handgun, Medium'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
@@ -15,9 +15,10 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
-title: Handgun, Medium
+title: 'Handgun, Medium'
 collection: Equipment
 kind: Equipment
+id: Handgun-Medium
 ---
 ## Handgun, Medium    
     

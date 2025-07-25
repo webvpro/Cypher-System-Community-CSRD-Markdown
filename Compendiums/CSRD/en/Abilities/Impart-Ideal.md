@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Impart-Ideal
 ---
 ## Impart Ideal    
 >**Action**    

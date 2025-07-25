@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Meta
+id: Quick-Death
 ---
 ## Quick Death    
 >**Action**    

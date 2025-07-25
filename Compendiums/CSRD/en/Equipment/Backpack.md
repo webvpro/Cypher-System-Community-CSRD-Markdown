@@ -21,6 +21,7 @@ tags:
 title: Backpack
 collection: Equipment
 kind: Equipment
+id: Backpack
 ---
 ## Backpack    
     

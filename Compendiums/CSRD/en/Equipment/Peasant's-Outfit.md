@@ -9,6 +9,7 @@ tags:
 title: Peasant's Outfit
 collection: Equipment
 kind: Equipment
+id: Peasant's-Outfit
 ---
 ## Peasant's Outfit    
     

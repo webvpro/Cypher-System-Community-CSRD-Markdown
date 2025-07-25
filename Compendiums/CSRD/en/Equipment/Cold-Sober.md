@@ -11,6 +11,7 @@ tags:
 title: Cold Sober
 collection: Equipment
 kind: Equipment
+id: Cold-Sober
 ---
 ## Cold Sober    
     

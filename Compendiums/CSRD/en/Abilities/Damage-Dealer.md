@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Damage-Dealer
 ---
 ## Damage Dealer    
 >**Enabler**  

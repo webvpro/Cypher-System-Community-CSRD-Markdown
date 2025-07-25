@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Rabbit Hole
 collection: Cyphers
 kind: Cypher
+id: Rabbit-Hole
+categories:
+  - Fairytale
 ---
 ## Rabbit Hole    
 >[!info] Stats    

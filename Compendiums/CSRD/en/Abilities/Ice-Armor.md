@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Ice-Armor
 ---
 ## Ice Armor    
 >**Enabler**    

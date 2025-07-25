@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/15
+  - Content/Fairytale
 title: Cat Sidhe
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 0
 health: 15
+id: Cat-Sidhe
+categories:
+  - Fairytale
 ---
 ## Cat Sidhe    
 Cat sidhes, sometimes called phantom cats, are dog-sized felines that were once witches and now have shifted permanently into cat form. They're all black except for a single white symbol on their chest, which is their name.  

@@ -12,6 +12,7 @@ tags:
 title: Blowgun
 collection: Equipment
 kind: Equipment
+id: Blowgun
 ---
 ## Blowgun    
     

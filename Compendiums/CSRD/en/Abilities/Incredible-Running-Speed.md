@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Movement
+id: Incredible-Running-Speed
 ---
 ## Incredible Running Speed    
 >**Enabler**  

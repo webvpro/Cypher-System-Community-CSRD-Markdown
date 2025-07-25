@@ -9,6 +9,7 @@ title: Memory Eraser
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Memory-Eraser
 ---
 ## Memory Eraser    
 >[!info] Stats    

@@ -18,6 +18,7 @@ tags:
 title: First Aid Kit
 collection: Equipment
 kind: Equipment
+id: First-Aid-Kit
 ---
 ## First Aid Kit    
     

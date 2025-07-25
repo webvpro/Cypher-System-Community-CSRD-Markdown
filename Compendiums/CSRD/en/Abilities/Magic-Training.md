@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Magic-Training
 ---
-## Magic Training    
->**Enabler**  
-    
+## Magic Training  
+  
+>**Enabler**
+  
+  
+  
 You are trained in the basics of magic (including the operation of magic artifacts and cyphers) and can attempt to understand and identify its properties. Enabler.

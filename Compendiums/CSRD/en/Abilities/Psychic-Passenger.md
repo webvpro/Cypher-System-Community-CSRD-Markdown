@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Psychic-Passenger
 ---
 ## Psychic Passenger    
 >**Action**    

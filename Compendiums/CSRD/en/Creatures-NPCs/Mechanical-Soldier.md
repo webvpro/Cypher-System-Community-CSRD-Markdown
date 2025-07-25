@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 3
 health: 15
+id: Mechanical-Soldier
 ---
 ## Mechanical Soldier    
 Clockwork automatons powered by steam, these mechanical men patrol about and guard locations of importance to their makers. Lanky and awkward in their movements, these quasi-humanoid automatons stand almost 8 feet (2 m) tall. In their three-fingered hands, they wield a variety of weapons.  

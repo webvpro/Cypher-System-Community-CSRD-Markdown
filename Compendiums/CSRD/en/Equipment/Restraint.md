@@ -12,6 +12,7 @@ tags:
 title: Restraint
 collection: Equipment
 kind: Equipment
+id: Restraint
 ---
 ## Restraint    
     

@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Poor-Magicians-Lunchbox
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Poor Magician’s Lunchbox
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Poor-Magicians-Lunchbox
+contentCategory: Modern Magic Artifacts
 ---
 ## Poor Magician’s Lunchbox  
   

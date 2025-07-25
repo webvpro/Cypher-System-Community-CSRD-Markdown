@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Friend Slaying
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Friend-Slaying
 ---
 ## Ray Emitter Friend Slaying    
 >[!info] Stats    

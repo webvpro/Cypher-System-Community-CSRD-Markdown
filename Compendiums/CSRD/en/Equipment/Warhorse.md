@@ -9,6 +9,7 @@ tags:
 title: Warhorse
 collection: Equipment
 kind: Equipment
+id: Warhorse
 ---
 ## Warhorse    
     

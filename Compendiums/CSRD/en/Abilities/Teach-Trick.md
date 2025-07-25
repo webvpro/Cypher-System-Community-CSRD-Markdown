@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Teach-Trick
 ---
 ## Teach Trick    
 >**Action**    

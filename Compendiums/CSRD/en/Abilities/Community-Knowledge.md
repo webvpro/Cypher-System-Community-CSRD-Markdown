@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Community-Knowledge
 ---
 ## Community Knowledge    
 >**Action**    

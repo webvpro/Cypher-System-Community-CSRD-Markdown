@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Negate-Danger
 ---
 ## Negate Danger    
 >**Action**    

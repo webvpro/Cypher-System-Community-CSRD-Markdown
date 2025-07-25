@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Weather-the-Vicissitudes
 ---
 ## Weather the Vicissitudes    
 >**Enabler**  

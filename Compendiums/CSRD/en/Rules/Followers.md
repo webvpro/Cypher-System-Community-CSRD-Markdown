@@ -7,6 +7,7 @@ tags:
 title: Followers
 collection: Rules
 kind: Character
+id: Followers
 ---
 ## Followers  
 Player characters have the option to gain followers as they advance in tier, as provided by type or focus special abilities. Followers do not need to be paid, fed, or housed, though a character who gains followers can certainly make such arrangements if they wish. A follower is someone whom a character has inspired (or asked) to come work with the character for a time, aiding them in a variety of endeavors. A follower puts the PC’s interests ahead of, or at least on par with, their own.  

@@ -7,6 +7,7 @@ tags:
 title: Vicious
 collection: Descriptors
 kind: Descriptor
+id: Vicious
 ---
 ## Vicious    
 You try to hide what's inside, fold it into yourself when everything inside you screams to let go, make them pay, make them hurt, and make them bleed. Sometimes you succeed for your friends-smiling like they smile, laughing when they laugh, and sometimes even having other emotions of your own. But it's always there, that feeling of frantic glee mixed with hate that sometimes leaps out of you when you confront a foe. Violence your friends can tolerate, but you sometimes worry they will also learn that you are cruel.  

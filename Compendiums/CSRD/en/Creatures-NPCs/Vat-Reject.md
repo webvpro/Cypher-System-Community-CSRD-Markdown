@@ -8,12 +8,16 @@ tags:
   - Creature/Level/3
   - Creature/Armor/0
   - Creature/Health/9
+  - Content/Horror
 title: Vat Reject
 collection: Creatures-NPCs
 kind: Creature
 level: 3
 armor: 0
 health: 9
+id: Vat-Reject
+categories:
+  - Horror
 ---
 ## Vat Reject    
 Vat rejects come into being when clone vats meant to produce clone soldiers or similar  
@@ -43,11 +47,11 @@ Vat rejects fear nothing and welcome death, except that their existential rage r
 > The vat reject also has a radioactive sting. On a failed Might defense roll, the character struck by the reject descends one step on the damage track.    
     
   
-|  Roll &nbsp; &nbsp; &nbsp; | Ability  |    
-| ------------- | :----------- |    
-| 1 | Reject deals +3 damage in melee (6 points total) |    
-| 2 | Reject has short-range acid spit attack that inflicts 2 points of damage, plus 2 points of damage each additional round until victim succeeds on a Might defense roll |    
-| 3 | Reject can fly a long distance as an action |    
-| 4 | Reject has 2 Armor |    
-| 5 | Reject has long-range destructive eye ray attack that inflicts 6 points of damage |    
-| 6 | When struck by an attack, reject detonates in an immediate radius, inflicting 6 points of damage in a radioactive explosion (and 1 point even on a successful Speed defense roll) |
+| Roll &nbsp; &nbsp; &nbsp; | Ability                                                                                                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                         | Reject deals +3 damage in melee (6 points total)                                                                                                                                  |
+| 2                         | Reject has short-range acid spit attack that inflicts 2 points of damage, plus 2 points of damage each additional round until victim succeeds on a Might defense roll             |
+| 3                         | Reject can fly a long distance as an action                                                                                                                                       |
+| 4                         | Reject has 2 Armor                                                                                                                                                                |
+| 5                         | Reject has long-range destructive eye ray attack that inflicts 6 points of damage                                                                                                 |
+| 6                         | When struck by an attack, reject detonates in an immediate radius, inflicting 6 points of damage in a radioactive explosion (and 1 point even on a successful Speed defense roll) |

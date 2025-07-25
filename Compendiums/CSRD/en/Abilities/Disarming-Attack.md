@@ -22,6 +22,7 @@ pools:
 categories:
   - Meta
   - Special-Attack
+id: Disarming-Attack
 ---
 ## Disarming Attack    
 >**Action**    

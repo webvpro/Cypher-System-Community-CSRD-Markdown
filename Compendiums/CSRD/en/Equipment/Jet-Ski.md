@@ -11,6 +11,7 @@ tags:
 title: Jet Ski
 collection: Equipment
 kind: Equipment
+id: Jet-Ski
 ---
 ## Jet Ski    
     

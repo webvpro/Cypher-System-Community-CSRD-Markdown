@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Sprint-and-Grab
 ---
 ## Sprint and Grab    
 >**Action**    

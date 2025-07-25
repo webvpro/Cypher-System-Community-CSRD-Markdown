@@ -9,6 +9,7 @@ title: Demonflesh
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Demonflesh
 ---
 ## Demonflesh    
 >[!info] Stats    

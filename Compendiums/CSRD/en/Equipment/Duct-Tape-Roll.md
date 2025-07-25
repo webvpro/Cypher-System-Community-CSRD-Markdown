@@ -11,6 +11,7 @@ tags:
 title: Duct Tape Roll
 collection: Equipment
 kind: Equipment
+id: Duct-Tape-Roll
 ---
 ## Duct Tape Roll    
     

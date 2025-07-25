@@ -9,6 +9,7 @@ title: Omni Orb
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Omni-Orb
 ---
 ## Omni Orb    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Divine-Radiance
 ---
 ## Divine Radiance    
 >**Action**    

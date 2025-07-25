@@ -9,6 +9,7 @@ tags:
 title: Portable Lamp
 collection: Equipment
 kind: Equipment
+id: Portable-Lamp
 ---
 ## Portable Lamp    
     

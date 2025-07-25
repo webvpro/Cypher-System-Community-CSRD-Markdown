@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Seize-the-Initiative
 ---
 ## Seize the Initiative    
 >**Enabler**    

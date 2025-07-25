@@ -1,13 +1,15 @@
 ---
-aliases: Magical Rules Module
+aliases:
+  - Magical Rules Module
 tags:
   - Compendium/CSRD/en/Rules/Magical-Rules-Module
   - Rule/Crafting/Magic-Items
   - Rule/Crafting/Cypher
   - Rule/Crafting/Artifacts
-title: M
+title: Magical Rules Module
 collection: Rules
 kind: Rule
+id: Magical-Rules-Module
 ---
 # Magical Rules Module  
   

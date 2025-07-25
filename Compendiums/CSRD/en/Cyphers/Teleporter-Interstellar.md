@@ -8,6 +8,7 @@ tags:
 title: Teleporter Interstellar
 collection: Cyphers
 kind: Cypher
+id: Teleporter-Interstellar
 ---
 ## Teleporter Interstellar    
 >[!info] Stats    

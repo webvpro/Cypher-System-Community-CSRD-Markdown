@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Cure
+  - Content/Weird-West
 title: Free to Move
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: High
 pools: []
 categories:
   - Cure
+  - Weird-West
+id: Free-to-Move
 ---
 ## Free to Move    
 >**Enabler**  

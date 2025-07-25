@@ -7,6 +7,7 @@ tags:
 title: Strong
 collection: Descriptors
 kind: Descriptor
+id: Strong
 ---
 ## Strong    
 You're extremely strong and physically powerful, and you use these qualities well, whether through violence or feats of prowess. You likely have a brawny build and impressive muscles.  

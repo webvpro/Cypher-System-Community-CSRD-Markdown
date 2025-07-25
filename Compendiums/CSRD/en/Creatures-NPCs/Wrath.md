@@ -14,6 +14,7 @@ kind: Super-Villain
 level: 6
 armor: 1
 health: 36
+id: Wrath
 ---
 ## Wrath    
 The head of an elite group of assassins, Wrath wants to save the world by killing everyone who impedes her vision of perfection-which turns out to be the better part of humanity. In addition to being one of the most accomplished martial artists to walk the earth (thanks to her connection with a mystical entity called the Demon), Wrath is also a criminal mastermind whose assassins are just one layer of the organization she controls.  

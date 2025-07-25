@@ -10,6 +10,7 @@ tags:
 title: Hammer
 collection: Equipment
 kind: Equipment
+id: Hammer
 ---
 ## Hammer    
     

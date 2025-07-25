@@ -10,6 +10,7 @@ tags:
 title: Club
 collection: Equipment
 kind: Equipment
+id: Club
 ---
 ## Club    
     

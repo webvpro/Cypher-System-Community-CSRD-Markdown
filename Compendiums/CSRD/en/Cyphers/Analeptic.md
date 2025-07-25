@@ -8,6 +8,7 @@ tags:
 title: Analeptic
 collection: Cyphers
 kind: Cypher
+id: Analeptic
 ---
 ## Analeptic    
 >[!info] Stats    

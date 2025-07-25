@@ -7,6 +7,7 @@ tags:
 title: Conjure the Dead
 collection: Rituals
 kind: Ritual
+id: Conjure-Elemental
 ---
 ## Conjure Elemental  
 Summons a primordial elemental spirit of air, earth, fire, or water, which appears in a physical form. The elemental remains for about a minute, during which time the characters must attempt to bribe, threaten, or bargain with it. An elemental is usually summoned to do something that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—attack, guard, and scout are common tasks. The elemental typically wants something in return for its service, usually a gift or bribe appropriate to its nature—incense for air, gems for earth, oil for fire, salts for water, and so on. If the summoners can’t come to an agreement with the elemental, it might make one attack before it leaves.   

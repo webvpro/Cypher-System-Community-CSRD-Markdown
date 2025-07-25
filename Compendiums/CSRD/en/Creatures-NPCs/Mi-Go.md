@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/1
   - Creature/Health/19
+  - Content/Horror
 title: Mi-Go
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 1
 health: 19
+id: Mi-Go
+categories:
+  - Horror
 ---
 ## Mi-Go    
 These extraterrestrial creatures are known as the Fungi from Yuggoth or the Abominable Ones. They are a bizarre amalgam of insect and fungal entity, with many limbs and wings that can carry them aloft. They sometimes enslave humans to work for them in strange factories, mines, or other  

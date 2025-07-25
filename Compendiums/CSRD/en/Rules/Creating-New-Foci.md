@@ -7,6 +7,7 @@ tags:
 title: Creating New Foci
 collection: Rules
 kind: Foci
+id: Creating-New-Foci
 ---
 # Creating New Foci  
 This section provides everything you need to create your own foci.  

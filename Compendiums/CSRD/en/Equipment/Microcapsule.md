@@ -11,6 +11,7 @@ tags:
 title: Microcapsule
 collection: Equipment
 kind: Equipment
+id: Microcapsule
 ---
 ## Microcapsule    
     

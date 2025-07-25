@@ -7,6 +7,7 @@ tags:
 title: Frumious
 collection: Descriptors
 kind: Descriptor
+id: Frumious
 ---
 ## Frumious    
 SA furious, fuming anger waits, always, just beneath your surface, swirling under your skin like a caged beast. You might do your best to hide it or control it, or perhaps you have given up trying to tame it and you let it run wild. Either way, it seems to cause you—and those around you—grief more often than not.  

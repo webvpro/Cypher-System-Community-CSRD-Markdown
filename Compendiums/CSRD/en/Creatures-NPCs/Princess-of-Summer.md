@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/2
   - Creature/Health/22
+  - Content/Fairytale
 title: Princess of Summer
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 2
 health: 22
+id: Princess-of-Summer
+categories:
+  - Fairytale
 ---
 ## Princess of Summer    
 Fey nobility are as numberless as cottonwood seeds on the June breeze. But that doesn't mean each isn't unique, with a quirky personality and a specific role to play in the mysterious Court of Summer. Demonstrating life, vigor, predation, growth, and competition, the princesses and princes of summer are beings of warmth and generosity, usually. But catch them during the change of the season, and they can be deadly adversaries just as easily. Fey nobles dress in costly diaphanous and flowing garments, and often wear some sign of their noble lineage, such as a circlet or diadem.    

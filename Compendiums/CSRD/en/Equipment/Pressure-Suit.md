@@ -11,6 +11,7 @@ tags:
 title: Pressure Suit
 collection: Equipment
 kind: Equipment
+id: Pressure-Suit
 ---
 ## Pressure Suit    
     

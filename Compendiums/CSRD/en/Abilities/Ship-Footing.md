@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Task
+id: Ship-Footing
 ---
 ## Ship Footing    
 >**Action**    

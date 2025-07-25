@@ -7,6 +7,7 @@ tags:
 title: Decapitative Longevity
 collection: Cyphers
 kind: Cypher
+id: Decapitative-Longevity
 ---
 ## Decapitative Longevity    
 >[!info] Stats    

@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/Very-Expensive
-  - Equipment/Value/1,500-Gp
+  - 'Equipment/Value/1,500-Gp'
   - Equipment/Armor/Heavy
 title: Full Plate Armor
 collection: Equipment
 kind: Equipment
+id: Full-Plate-Armor
 ---
 ## Full Plate Armor    
     

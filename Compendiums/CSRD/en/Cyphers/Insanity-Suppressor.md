@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Insanity Suppressor
 collection: Cyphers
 kind: Cypher
+id: Insanity-Suppressor
+categories:
+  - Horror
 ---
 ## Insanity Suppressor    
 >[!info] Stats    

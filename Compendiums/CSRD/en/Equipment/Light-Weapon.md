@@ -10,6 +10,7 @@ tags:
 title: Light Weapon
 collection: Equipment
 kind: Equipment
+id: Light-Weapon
 ---
 ## Light Weapon    
     

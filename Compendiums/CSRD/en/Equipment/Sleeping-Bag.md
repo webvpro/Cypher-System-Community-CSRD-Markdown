@@ -18,6 +18,7 @@ tags:
 title: Sleeping Bag
 collection: Equipment
 kind: Equipment
+id: Sleeping-Bag
 ---
 ## Sleeping Bag    
     

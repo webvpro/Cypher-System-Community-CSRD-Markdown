@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Knave of Hearts
 collection: Cyphers
 kind: Cypher
+id: Knave-of-Hearts
+categories:
+  - Fairytale
 ---
 ## Knave of Hearts    
 >[!info] Stats    

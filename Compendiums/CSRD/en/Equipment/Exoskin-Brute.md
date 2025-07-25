@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Exoskin, Brute
+  - 'Exoskin, Brute'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Exoskin, Brute
+title: 'Exoskin, Brute'
 collection: Equipment
 kind: Equipment
+id: Exoskin-Brute
 ---
 ## Exoskin, Brute    
     

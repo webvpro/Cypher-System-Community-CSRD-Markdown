@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Center-of-Attention
 ---
 ## Center of Attention    
 >**Action**    

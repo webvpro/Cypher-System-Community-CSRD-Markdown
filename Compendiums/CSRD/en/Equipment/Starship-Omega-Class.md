@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Omega Class
+  - 'Starship, Omega Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/10
   - Equipment/Value/Priceless
-title: Starship, Omega Class
+title: 'Starship, Omega Class'
 collection: Equipment
 kind: Equipment
+id: Starship-Omega-Class
 ---
 ## Starship, Omega Class    
     

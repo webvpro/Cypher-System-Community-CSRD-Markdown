@@ -9,6 +9,7 @@ tags:
 title: Vehicle
 collection: Equipment
 kind: Equipment
+id: Vehicle
 ---
 ## Vehicle    
     

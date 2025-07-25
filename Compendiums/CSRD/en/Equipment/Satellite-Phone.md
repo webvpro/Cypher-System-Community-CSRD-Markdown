@@ -11,6 +11,7 @@ tags:
 title: Satellite Phone
 collection: Equipment
 kind: Equipment
+id: Satellite-Phone
 ---
 ## Satellite Phone    
     

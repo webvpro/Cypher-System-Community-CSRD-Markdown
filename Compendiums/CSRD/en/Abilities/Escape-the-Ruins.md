@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Escape-the-Ruins
 ---
 ## Escape the Ruins    
 >**Action**    

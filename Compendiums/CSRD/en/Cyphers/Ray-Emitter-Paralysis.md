@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Paralysis
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Paralysis
 ---
 ## Ray Emitter Paralysis    
 >[!info] Stats    

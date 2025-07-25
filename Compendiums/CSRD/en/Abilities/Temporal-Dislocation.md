@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Movement
+id: Temporal-Dislocation
 ---
 ## Temporal Dislocation    
 >**Action**    

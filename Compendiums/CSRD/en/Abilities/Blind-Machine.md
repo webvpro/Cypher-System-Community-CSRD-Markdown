@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Blind-Machine
 ---
 ## Blind Machine    
 >**Action**    

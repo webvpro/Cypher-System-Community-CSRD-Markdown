@@ -8,11 +8,11 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Exorbitant-a-Bulky-Piece-of-Equipment-that-Takes-a-Few-Days
-  - >-
-    Equipment/Value/Set-up-and-Calibrate.-Useful-for-Ship-to-Ship-Communication-for-"tight"-Beaming-Information
+  - Equipment/Value/Set-up-and-Calibrate.-Useful-for-Ship-to-Ship-Communication-for-"tight"-Beaming-Information
 title: Laser Array
 collection: Equipment
 kind: Equipment
+id: Laser-Array
 ---
 ## Laser Array    
     

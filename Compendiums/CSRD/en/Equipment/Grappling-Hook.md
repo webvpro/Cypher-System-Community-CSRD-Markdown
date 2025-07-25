@@ -9,6 +9,7 @@ tags:
 title: Grappling Hook
 collection: Equipment
 kind: Equipment
+id: Grappling-Hook
 ---
 ## Grappling Hook    
     

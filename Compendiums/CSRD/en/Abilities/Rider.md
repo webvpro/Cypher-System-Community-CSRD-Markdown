@@ -18,8 +18,13 @@ tier: Mid
 pools: []
 categories:
   - Task
+  - Weird-West
+id: Rider
 ---
-## Rider    
->**Enabler**  
-    
+## Rider  
+  
+>**Enabler**
+  
+  
+  
 You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler.

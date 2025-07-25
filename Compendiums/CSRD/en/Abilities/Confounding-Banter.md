@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Confounding-Banter
 ---
 ## Confounding Banter    
 >**Action**    

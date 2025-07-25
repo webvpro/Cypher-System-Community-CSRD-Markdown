@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Crown Jewel
 collection: Cyphers
 kind: Cypher
+id: Crown-Jewel
+categories:
+  - Fairytale
 ---
 ## Crown Jewel    
 >[!info] Stats    

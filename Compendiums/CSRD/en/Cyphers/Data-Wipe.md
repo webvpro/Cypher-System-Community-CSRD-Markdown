@@ -7,6 +7,7 @@ tags:
 title: Data Wipe
 collection: Cyphers
 kind: Cypher
+id: Data-Wipe
 ---
 ## Data Wipe    
 >[!info] Stats    

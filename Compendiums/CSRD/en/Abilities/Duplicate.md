@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Companion
+id: Duplicate
 ---
 ## Duplicate    
 >**Action**    

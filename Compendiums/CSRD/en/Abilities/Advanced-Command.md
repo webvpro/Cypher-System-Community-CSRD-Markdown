@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Advanced-Command
 ---
 ## Advanced Command    
 >**Action**    

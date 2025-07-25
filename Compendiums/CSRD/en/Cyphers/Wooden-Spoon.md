@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Wooden Spoon
 collection: Cyphers
 kind: Cypher
+id: Wooden-Spoon
+categories:
+  - Fairytale
 ---
 ## Wooden Spoon    
 >[!info] Stats    

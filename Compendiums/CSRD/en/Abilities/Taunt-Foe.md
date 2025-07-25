@@ -22,6 +22,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Taunt-Foe
 ---
 ## Taunt Foe    
 >**Enabler**    

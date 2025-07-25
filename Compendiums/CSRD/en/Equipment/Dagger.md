@@ -12,6 +12,7 @@ tags:
 title: Dagger
 collection: Equipment
 kind: Equipment
+id: Dagger
 ---
 ## Dagger    
     

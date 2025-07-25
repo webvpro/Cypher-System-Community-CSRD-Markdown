@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Shirt of Nettles
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Shirt-of-Nettles
 ---
 ## Shirt of Nettles    
 >[!info] Stats    

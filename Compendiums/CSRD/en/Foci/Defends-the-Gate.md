@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Tank-Combat
+  - Content/Fantasy
 title: Defends the Gate
 collection: Foci
 kind: Focus
+id: Defends-the-Gate
+categories:
+  - Fantasy
 ---
 ## Defends the Gate    
 Everyone wants you on their side when it comes to a fight because nothing gets by you.    

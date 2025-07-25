@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Transform
+id: Wild-Camouflage
 ---
 ## Wild Camouflage    
 >**Action**    

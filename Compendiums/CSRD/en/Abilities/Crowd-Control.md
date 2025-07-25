@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Crowd-Control
 ---
 ## Crowd Control    
 >**Action**    

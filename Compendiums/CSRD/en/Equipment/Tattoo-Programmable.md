@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tattoo, Programmable
+  - 'Tattoo, Programmable'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Tattoo, Programmable
+title: 'Tattoo, Programmable'
 collection: Equipment
 kind: Equipment
+id: Tattoo-Programmable
 ---
 ## Tattoo, Programmable    
     

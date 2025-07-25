@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Rose of Red
 collection: Cyphers
 kind: Cypher
+id: Rose-of-Red
+categories:
+  - Fairytale
 ---
 ## Rose of Red    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Protection
+id: Experienced-in-Armor
 ---
 ## Experienced in Armor    
 >**Enabler**  

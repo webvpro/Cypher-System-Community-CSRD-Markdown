@@ -7,6 +7,7 @@ tags:
 title: Efficacy Boost Minor
 collection: Cyphers
 kind: Cypher
+id: Efficacy-Boost-Minor
 ---
 ## Efficacy Boost Minor    
 >[!info] Stats    

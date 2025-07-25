@@ -11,6 +11,7 @@ tags:
 title: Tank
 collection: Equipment
 kind: Equipment
+id: Tank
 ---
 ## Tank    
     

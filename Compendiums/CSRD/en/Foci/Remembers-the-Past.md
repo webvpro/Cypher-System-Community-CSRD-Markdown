@@ -7,6 +7,7 @@ tags:
 title: Remembers the Past
 collection: Foci
 kind: Focus
+id: Remembers-the-Past
 ---
 ## Remembers the Past    
 You are a student of the before-times. Maybe that's because you grew up in the ruins of an old library and read everything as your hobby, you found a friendly AI archivist who taught you about how things once were, you're long-lived and were alive before the apocalypse, or you have a deep recollection of the world before the end for some other reason. This knowledge gives you an appreciation of the before-times as well as a point of view that many other survivors lack that benefits you in and around ruins. You can find things others wouldn't know to look for, plucking fruits of the past that would otherwise go unharvested.    

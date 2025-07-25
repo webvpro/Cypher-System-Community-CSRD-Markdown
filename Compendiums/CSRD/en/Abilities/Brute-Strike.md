@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - NA
+id: Brute-Strike
 ---
 ## Brute Strike    
 >**Enabler**    

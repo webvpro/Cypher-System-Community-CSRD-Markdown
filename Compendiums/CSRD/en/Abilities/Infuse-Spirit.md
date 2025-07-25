@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Cure
+id: Infuse-Spirit
 ---
 ## Infuse Spirit    
 >**Enabler**  

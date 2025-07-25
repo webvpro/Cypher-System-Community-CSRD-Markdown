@@ -8,6 +8,7 @@ tags:
 title: Magnetic Master
 collection: Cyphers
 kind: Cypher
+id: Magnetic-Master
 ---
 ## Magnetic Master    
 >[!info] Stats    

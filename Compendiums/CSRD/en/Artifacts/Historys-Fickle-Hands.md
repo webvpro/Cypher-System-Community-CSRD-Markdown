@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Historys-Fickle-Hands
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: History’s Fickle Hands
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Historys-Fickle-Hands
+contentCategory: Modern Magic Artifacts
 ---
 ## History’s Fickle Hands  
 >1d6   

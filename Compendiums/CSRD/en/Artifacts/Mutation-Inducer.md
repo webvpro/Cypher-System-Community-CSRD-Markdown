@@ -9,6 +9,7 @@ title: Mutation Inducer
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Mutation-Inducer
 ---
 ## Mutation Inducer    
 >[!info] Stats    

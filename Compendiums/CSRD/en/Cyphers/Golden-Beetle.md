@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Golden Beetle
 collection: Cyphers
 kind: Cypher
+id: Golden-Beetle
+categories:
+  - Fairytale
 ---
 ## Golden Beetle    
 >[!info] Stats    

@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Outwit
 ---
 ## Outwit    
 >**Enabler**  

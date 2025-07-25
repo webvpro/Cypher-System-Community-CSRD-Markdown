@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Call-in-Favor
 ---
 ## Call in Favor    
 >**Action**    

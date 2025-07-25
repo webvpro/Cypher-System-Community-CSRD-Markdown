@@ -12,6 +12,7 @@ tags:
 title: Light Crossbow
 collection: Equipment
 kind: Equipment
+id: Light-Crossbow
 ---
 ## Light Crossbow    
     

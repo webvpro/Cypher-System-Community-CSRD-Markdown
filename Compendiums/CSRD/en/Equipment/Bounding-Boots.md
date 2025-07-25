@@ -11,6 +11,7 @@ tags:
 title: Bounding Boots
 collection: Equipment
 kind: Equipment
+id: Bounding-Boots
 ---
 ## Bounding Boots    
     

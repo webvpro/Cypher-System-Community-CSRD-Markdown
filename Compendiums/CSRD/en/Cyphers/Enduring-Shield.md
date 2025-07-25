@@ -8,6 +8,7 @@ tags:
 title: Enduring Shield
 collection: Cyphers
 kind: Cypher
+id: Enduring-Shield
 ---
 ## Enduring Shield    
 >[!info] Stats    

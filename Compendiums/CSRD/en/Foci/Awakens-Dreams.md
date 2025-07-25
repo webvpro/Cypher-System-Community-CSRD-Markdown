@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
 title: Awakens Dreams
 collection: Foci
 kind: Focus
+id: Awakens-Dreams
+categories:
+  - Fantasy
 ---
 ## Awakens Dreams    
 You can pull images from dreams and bring them to life in the waking world.    

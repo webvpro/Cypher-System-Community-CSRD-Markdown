@@ -14,6 +14,7 @@ kind: NPC
 level: 4
 armor: 1
 health: 12
+id: Druid
 ---
 ## Druid    
 A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others.    

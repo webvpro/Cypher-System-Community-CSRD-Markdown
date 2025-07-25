@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 0
 health: 23
+id: Supernal
 ---
 ## Supernal    
 Half humanoid and half-dragonfly, supernals are beautiful entities, though certainly alien. Each supernal possesses a unique wing pattern and coloration and, to some extent, body shape. These patterns and colors may signify where in the hierarchy a particular supernal stands among its kind, but for those who do not speak the language of supernals (which is telepathic), the complexity of their social structure is overwhelming. Whether they are agents of some unknown alien civilization or seek their own aims, supernals are mysterious and cryptic. Most fear contact with them, because they have a penchant for stealing away other life forms, who are rarely seen again.    

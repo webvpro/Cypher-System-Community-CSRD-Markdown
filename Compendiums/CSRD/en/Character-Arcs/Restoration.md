@@ -8,6 +8,7 @@ title: Restoration
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Restoration
 ---
 ## Restoration  
 >You’re down but not out. You want to restore your good name. Recover what you’ve lost. Rebuild what has been destroyed. You’ve fallen down or have been knocked down, but either way you want to pick yourself up. This is a possible follow-up to the Fall From Grace arc.  

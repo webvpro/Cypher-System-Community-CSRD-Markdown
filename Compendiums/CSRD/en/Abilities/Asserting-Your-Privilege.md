@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Asserting-Your-Privilege
 ---
 ## Asserting Your Privilege    
 >**Action**    

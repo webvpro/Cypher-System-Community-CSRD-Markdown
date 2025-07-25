@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Memorys-Match
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Memory's Match
 collection: Cyphers
 kind: Cypher
+id: Memorys-Match
+categories:
+  - Fairytale
 ---
 ## Memory's Match    
 >[!info] Stats    

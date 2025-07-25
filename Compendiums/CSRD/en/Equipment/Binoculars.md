@@ -19,6 +19,7 @@ tags:
 title: Binoculars
 collection: Equipment
 kind: Equipment
+id: Binoculars
 ---
 ## Binoculars    
     

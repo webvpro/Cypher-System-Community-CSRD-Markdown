@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Medication, One Bottle
+  - 'Medication, One Bottle'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Medication, One Bottle
+title: 'Medication, One Bottle'
 collection: Equipment
 kind: Equipment
+id: Medication-One-Bottle
 ---
 ## Medication, One Bottle    
     

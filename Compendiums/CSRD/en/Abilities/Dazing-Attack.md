@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Dazing-Attack
 ---
 ## Dazing Attack    
 >**Action**    

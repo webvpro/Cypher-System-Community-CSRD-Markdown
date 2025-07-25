@@ -11,6 +11,7 @@ tags:
 title: Rifle
 collection: Equipment
 kind: Equipment
+id: Rifle
 ---
 ## Rifle    
     

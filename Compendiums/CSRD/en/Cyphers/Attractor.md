@@ -8,6 +8,7 @@ tags:
 title: Attractor
 collection: Cyphers
 kind: Cypher
+id: Attractor
 ---
 ## Attractor    
 >[!info] Stats    

@@ -16,6 +16,7 @@ tags:
 title: Kevlar Vest
 collection: Equipment
 kind: Equipment
+id: Kevlar-Vest
 ---
 ## Kevlar Vest    
     

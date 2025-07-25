@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, General Purpose
+  - 'Starship, General Purpose'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/3
   - Equipment/Value/Exorbitant
-title: Starship, General Purpose
+title: 'Starship, General Purpose'
 collection: Equipment
 kind: Equipment
+id: Starship-General-Purpose
 ---
 ## Starship, General Purpose    
     

@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Enhanced-Beast-Form
 ---
 ## Enhanced Beast Form    
 >**Enabler**  

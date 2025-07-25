@@ -9,6 +9,7 @@ tags:
 title: Cold Weather Camping Gear
 collection: Equipment
 kind: Equipment
+id: Cold-Weather-Camping-Gear
 ---
 ## Cold Weather Camping Gear    
     

@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Might
   - Ability/Categories/NA
+  - Content/Superhero
 title: Shrink
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Might
 categories:
   - NA
+  - Superhero
+id: Shrink
 ---
 ## Shrink    
 >**Action**    

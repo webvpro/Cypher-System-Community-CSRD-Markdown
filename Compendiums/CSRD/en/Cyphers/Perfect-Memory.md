@@ -8,6 +8,7 @@ tags:
 title: Perfect Memory
 collection: Cyphers
 kind: Cypher
+id: Perfect-Memory
 ---
 ## Perfect Memory    
 >[!info] Stats    

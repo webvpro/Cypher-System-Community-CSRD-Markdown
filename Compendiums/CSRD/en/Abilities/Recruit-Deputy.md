@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Companion
+id: Recruit-Deputy
 ---
 ## Recruit Deputy    
 >**Enabler**  

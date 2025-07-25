@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Sensor-Array
 ---
 ## Sensor Array    
 >**Action**    

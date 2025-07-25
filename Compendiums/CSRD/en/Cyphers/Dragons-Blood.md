@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Dragons-Blood
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dragon's Blood
 collection: Cyphers
 kind: Cypher
+id: Dragons-Blood
+categories:
+  - Fairytale
 ---
 ## Dragon's Blood    
 >[!info] Stats    
@@ -17,8 +21,8 @@ kind: Cypher
     
 When mixed with liquid and painted on a living being, grants one of the following effects for a day.    
   
-|  Roll &nbsp; &nbsp; &nbsp; | Dragon's Blood  |    
-| ------------- | :----------- |    
-| 1-2 | +2 to Armor |    
-| 3-4 | Asset to all tasks involving magic |    
-| 5-6 | Asset to all tasks involving romance, sex, and fertility |
+| Roll &nbsp; &nbsp; &nbsp; | Dragon's Blood                                           |
+| ------------------------- | -------------------------------------------------------- |
+| 1-2                       | +2 to Armor                                              |
+| 3-4                       | Asset to all tasks involving magic                       |
+| 5-6                       | Asset to all tasks involving romance, sex, and fertility |

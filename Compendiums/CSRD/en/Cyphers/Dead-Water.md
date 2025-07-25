@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dead Water
 collection: Cyphers
 kind: Cypher
+id: Dead-Water
+categories:
+  - Fairytale
 ---
 ## Dead Water    
 >[!info] Stats    

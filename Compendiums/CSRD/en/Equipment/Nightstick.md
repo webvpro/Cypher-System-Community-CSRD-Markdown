@@ -12,6 +12,7 @@ tags:
 title: Nightstick
 collection: Equipment
 kind: Equipment
+id: Nightstick
 ---
 ## Nightstick    
     

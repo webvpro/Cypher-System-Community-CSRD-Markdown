@@ -9,6 +9,7 @@ title: Explorer's Gloves
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Explorer's-Gloves
 ---
 ## Explorer's Gloves    
 >[!info] Stats    

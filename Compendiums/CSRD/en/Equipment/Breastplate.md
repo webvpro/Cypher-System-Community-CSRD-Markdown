@@ -10,6 +10,7 @@ tags:
 title: Breastplate
 collection: Equipment
 kind: Equipment
+id: Breastplate
 ---
 ## Breastplate    
     

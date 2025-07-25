@@ -8,6 +8,7 @@ tags:
 title: Power Device
 collection: Cyphers
 kind: Cypher
+id: Power-Device
 ---
 ## Power Device   
 >[!info] Stats    

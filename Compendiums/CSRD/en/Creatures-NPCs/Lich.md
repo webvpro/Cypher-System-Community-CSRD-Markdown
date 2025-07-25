@@ -14,6 +14,7 @@ kind: Creature
 level: 8
 armor: 1
 health: 45
+id: Lich
 ---
 ## Lich    
 A lich is a powerful wizard or priest who has used their knowledge of necromancy to bind their soul in a magical object called a phylactery, making them immortal and undead unless their soul object is found and destroyed. Having corrupted its own life energy in an obscene ritual, a lich can pursue its other magical goals, usually the acquisition of more wealth, magic, and power. A newly made lich may look like a recent corpse, but maintaining its physical vessel becomes less of a priority as the centuries pass, so over time they tend to look withered or even skeletal. Liches often work with or command other undead, such as wraiths, skeletons, vampires, and zombies.    

@@ -20,8 +20,12 @@ pools: []
 categories:
   - Meta
   - Protection
+id: Resilient-Ice-Armor
 ---
-## Resilient Ice Armor    
->**Enabler**  
-    
+## Resilient Ice Armor  
+  
+>**Enabler**
+  
+  
+  
 The sheen of ice you generate using your Ice Armor ability gives you an additional +1 to Armor. Enabler.

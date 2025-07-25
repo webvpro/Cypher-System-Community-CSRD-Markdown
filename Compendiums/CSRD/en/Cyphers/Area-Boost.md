@@ -8,6 +8,7 @@ tags:
 title: Area Boost
 collection: Cyphers
 kind: Cypher
+id: Area-Boost
 ---
 ## Area Boost    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Earthquake
 ---
 ## Earthquake    
 >**Action**    

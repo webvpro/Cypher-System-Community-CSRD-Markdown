@@ -20,6 +20,7 @@ pools: []
 categories:
   - Information
   - Task
+id: Monster-Lore
 ---
 ## Monster Lore    
 >**Enabler**  

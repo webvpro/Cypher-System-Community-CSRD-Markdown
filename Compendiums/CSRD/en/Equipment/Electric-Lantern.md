@@ -11,6 +11,7 @@ tags:
 title: Electric Lantern
 collection: Equipment
 kind: Equipment
+id: Electric-Lantern
 ---
 ## Electric Lantern    
     

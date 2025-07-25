@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Cure
+id: Surging-Confidence
 ---
 ## Surging Confidence    
 >**Enabler**    

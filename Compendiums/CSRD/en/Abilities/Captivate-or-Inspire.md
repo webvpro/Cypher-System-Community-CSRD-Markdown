@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Control
+id: Captivate-or-Inspire
 ---
 ## Captivate or Inspire    
 >**Action**  

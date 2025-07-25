@@ -14,6 +14,7 @@ kind: Super Villain
 level: 5
 armor: 1
 health: 15
+id: Mister-Genocide
 ---
 ## Mister Genocide    
 Real name Alfred Webster, Mister Genocide has the unfortunate ability to synthesize deadly poison from his skin. His touch can kill, but if he wishes it, so can his spittle or even his breath.  

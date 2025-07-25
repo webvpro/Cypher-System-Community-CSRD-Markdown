@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Mind-for-Might
 ---
 ## Mind for Might    
 >**Enabler**  

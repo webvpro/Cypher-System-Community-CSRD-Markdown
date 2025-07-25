@@ -11,6 +11,7 @@ tags:
 title: Everlight
 collection: Equipment
 kind: Equipment
+id: Everlight
 ---
 ## Everlight    
     

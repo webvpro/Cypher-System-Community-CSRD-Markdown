@@ -10,6 +10,7 @@ tags:
 title: Riot Gear
 collection: Equipment
 kind: Equipment
+id: Riot-Gear
 ---
 ## Riot Gear    
     

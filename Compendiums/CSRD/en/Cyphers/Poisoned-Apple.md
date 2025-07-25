@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Poisoned Apple
 collection: Cyphers
 kind: Cypher
+id: Poisoned-Apple
+categories:
+  - Fairytale
 ---
 ## Poisoned Apple    
 >[!info] Stats    

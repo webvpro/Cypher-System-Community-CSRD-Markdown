@@ -11,6 +11,7 @@ tags:
 title: Hibernation Pod
 collection: Equipment
 kind: Equipment
+id: Hibernation-Pod
 ---
 ## Hibernation Pod    
     

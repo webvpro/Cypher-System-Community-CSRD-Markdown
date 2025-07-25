@@ -12,6 +12,7 @@ tags:
 title: Handaxe
 collection: Equipment
 kind: Equipment
+id: Handaxe
 ---
 ## Handaxe    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Question-the-Spirits
 ---
 ## Question the Spirits    
 >**Action**    

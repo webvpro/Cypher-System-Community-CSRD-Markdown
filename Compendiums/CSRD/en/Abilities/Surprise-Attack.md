@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Special-Attack
+  - Content/Weird-West
 title: Surprise Attack
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: Low
 pools: []
 categories:
   - Special-Attack
+  - Weird-West
+id: Surprise-Attack
 ---
 ## Surprise Attack    
 >**Enabler**  

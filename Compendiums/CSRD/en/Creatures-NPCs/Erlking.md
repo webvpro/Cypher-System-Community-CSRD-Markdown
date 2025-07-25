@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/4
   - Creature/Health/27
+  - Content/Fairytale
 title: Erlking
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 4
 health: 27
+id: Erlking
+categories:
+  - Fairytale
 ---
 ## Erlking    
 This vaguely humanoid creature is an animated accumulation of woodland debris--bark, lost teeth, matted weeds, and dirt. It wears a crown of oak leaves and a cloak of mist.  

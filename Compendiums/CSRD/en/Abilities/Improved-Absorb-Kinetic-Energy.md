@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Improved-Absorb-Kinetic-Energy
 ---
 ## Improved Absorb Kinetic Energy    
 >**Enabler**  

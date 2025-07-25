@@ -9,6 +9,7 @@ title: Tunneling Gauntlets
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Tunneling-Gauntlets
 ---
 ## Tunneling Gauntlets    
 >[!info] Stats    

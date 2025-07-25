@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Mechanical-Telepathy
 ---
 ## Mechanical Telepathy    
 >**Action**    

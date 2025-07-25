@@ -14,6 +14,7 @@ kind: Creature
 level: 2
 armor: 0
 health: 6
+id: Morlock
 ---
 ## Morlock    
 Morlocks are degenerate, blind cannibal humanoids that avoid light. They have prominent teeth, piglike eyes, loose skin, and stooped postures. They avoid bright daylight and prefer to hunt and forage when it is dark out (or at least under the twilight-like canopy of a heavy forest). Morlocks eat any sort of meat, even carrion and their own dead. Morlocks build piles of stones to mark their territory. On nights of the new moon, they create unnerving music by playing simple drums made out of skulls and logs. They lack the foresight to store food for lean times, so they range farther from home in winter and times of famine. They are sometimes enslaved by more powerful creatures such as ogres or a vampire.    

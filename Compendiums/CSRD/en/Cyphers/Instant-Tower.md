@@ -8,6 +8,7 @@ tags:
 title: Instant Tower
 collection: Cyphers
 kind: Cypher
+id: Instant-Tower
 ---
 ## Instant Tower    
 >[!info] Stats    

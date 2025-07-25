@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Hook's Hook
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Hooks-Hook
 ---
 ## Hook's Hook    
 >[!info] Stats    

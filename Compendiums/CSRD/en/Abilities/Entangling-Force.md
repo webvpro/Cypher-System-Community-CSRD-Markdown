@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Entangling-Force
 ---
 ## Entangling Force    
 >**Action**    

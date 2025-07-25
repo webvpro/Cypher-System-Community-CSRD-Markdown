@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Companion
+id: Entourage
 ---
 ## Entourage    
 >**Enabler**  

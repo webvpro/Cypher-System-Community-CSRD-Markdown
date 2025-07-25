@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Information
+id: Know-Their-Faults
 ---
 ## Know Their Faults    
 >**Enabler**  

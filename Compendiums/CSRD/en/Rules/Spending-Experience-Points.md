@@ -9,6 +9,7 @@ tags:
 title: Spending Experience Points
 collection: Rules
 kind: XP
+id: Spending-Experience-Points
 ---
 ## Spending Experience Points  
 Experience points are meant to be used. Hoarding them is not a good idea; if a player accumulates more than 10 XP, the GM can require them to spend some.  

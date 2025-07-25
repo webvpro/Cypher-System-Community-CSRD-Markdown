@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Might
   - Ability/Categories/NA
+  - Content/Superhero
 title: Elastic Grip
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Might
 categories:
   - NA
+  - Superhero
+id: Elastic-Grip
 ---
 ## Elastic Grip    
 >**Enabler**    

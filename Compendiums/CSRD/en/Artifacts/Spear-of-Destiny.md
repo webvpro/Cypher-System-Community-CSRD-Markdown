@@ -9,6 +9,7 @@ title: Spear of Destiny
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Spear-of-Destiny
 ---
 ## Spear of Destiny    
 >[!info] Stats    

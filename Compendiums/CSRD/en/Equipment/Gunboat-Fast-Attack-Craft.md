@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gunboat, Fast Attack Craft
+  - 'Gunboat, Fast Attack Craft'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Priceless
-title: Gunboat, Fast Attack Craft
+title: 'Gunboat, Fast Attack Craft'
 collection: Equipment
 kind: Equipment
+id: Gunboat-Fast-Attack-Craft
 ---
 ## Gunboat, Fast Attack Craft    
     

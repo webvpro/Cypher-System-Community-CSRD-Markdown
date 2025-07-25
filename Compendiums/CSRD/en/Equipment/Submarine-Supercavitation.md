@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Submarine, Supercavitation
+  - 'Submarine, Supercavitation'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Priceless
-title: Submarine, Supercavitation
+title: 'Submarine, Supercavitation'
 collection: Equipment
 kind: Equipment
+id: Submarine-Supercavitation
 ---
 ## Submarine, Supercavitation    
     

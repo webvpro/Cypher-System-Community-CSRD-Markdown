@@ -12,6 +12,7 @@ tags:
 title: Foam Restraint Rifle
 collection: Equipment
 kind: Equipment
+id: Foam-Restraint-Rifle
 ---
 ## Foam Restraint Rifle    
     

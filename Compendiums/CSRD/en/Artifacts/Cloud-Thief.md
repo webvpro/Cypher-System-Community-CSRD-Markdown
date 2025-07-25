@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Cloud-Thief
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Cloud Thief
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Cloud-Thief
+contentCategory: Modern Magic Artifacts
 ---
 ## Cloud Thief  
 >1d6  

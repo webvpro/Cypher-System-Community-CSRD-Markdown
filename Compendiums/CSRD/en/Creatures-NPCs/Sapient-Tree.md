@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 3
 health: 16
+id: Sapient-Tree
 ---
 ## Sapient Tree    
 Guardians of the wood, sapient trees stand eternally vigilant, often on the outskirts of their grove or forest to keep out those who might seek to do them-or other, ordinary trees- harm. They look like normal trees until they reveal their true nature, with limb-like branches and faces in the bark of their trunk. They don't always move, but with effort, they can uproot themselves and walk about. However, they usually do so only when no one is looking. The origin and temperament of sapient trees varies; they might be haunted trees possessed by spirits, trees animated by magic spells, or ancient mythical beings. Some are peaceful and noble, but others are downright wicked and cruel.    

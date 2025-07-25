@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Breather, Vacuum
+  - 'Breather, Vacuum'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Apparel-And-Armor
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Breather, Vacuum
+title: 'Breather, Vacuum'
 collection: Equipment
 kind: Equipment
+id: Breather-Vacuum
 ---
 ## Breather, Vacuum    
     

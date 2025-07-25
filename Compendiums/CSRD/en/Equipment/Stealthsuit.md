@@ -11,6 +11,7 @@ tags:
 title: Stealthsuit
 collection: Equipment
 kind: Equipment
+id: Stealthsuit
 ---
 ## Stealthsuit    
     

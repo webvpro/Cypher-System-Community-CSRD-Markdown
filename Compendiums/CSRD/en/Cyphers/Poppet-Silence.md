@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Poppet Silence
 collection: Cyphers
 kind: Cypher
+id: Poppet-Silence
+categories:
+  - Fairytale
 ---
 ## Poppet Silence    
 >[!info] Stats    

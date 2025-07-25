@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Fantasy
 title: Catfolk
 collection: Descriptors
 kind: Descriptor
+id: Catfolk
+categories:
+  - Fantasy
 ---
 ## Catfolk    
 You are unmistakably feline. Your people have fur; large, pointed ears; sharp teeth and claws; and even tails. You are nimble, graceful, and quick. An ancient and sophisticated culture, your people have their own language, customs, and traditions developed in relative seclusion over the centuries. Neither conquerors nor conquered, the success of your society has come from the fact that you have given most others a wide berth. As a people, you almost never get involved in wars or similar matters, which has given other cultures the idea that you are aloof, unapproachable, or mysterious. As long as they leave you alone, what they think is fine with you.  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Intense-Interaction
 ---
 ## Intense Interaction    
 >**Action**    

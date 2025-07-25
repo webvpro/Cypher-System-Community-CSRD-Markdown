@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Attack-Skill
+  - Content/Weird-West
 title: Greater Skill With Attacks
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: High
 pools: []
 categories:
   - Attack-Skill
+  - Weird-West
+id: Greater-Skill-With-Attacks
 ---
 ## Greater Skill With Attacks    
 >**Enabler**  

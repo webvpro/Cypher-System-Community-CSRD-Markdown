@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Bullet-Jaunt
 ---
 ## Bullet Jaunt     
 >**Action**  

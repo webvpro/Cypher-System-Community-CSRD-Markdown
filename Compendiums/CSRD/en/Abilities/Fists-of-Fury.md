@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Fists-of-Fury
 ---
-## Fists of Fury    
->**Enabler**  
-    
+## Fists of Fury  
+  
+>**Enabler**
+  
+  
+  
 You inflict 2 additional points of damage with unarmed attacks. Enabler.

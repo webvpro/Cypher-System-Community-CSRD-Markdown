@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Ghost Trap
 collection: Cyphers
 kind: Cypher
+id: Ghost-Trap
+categories:
+  - Horror
 ---
 ## Ghost Trap    
 >[!info] Stats    

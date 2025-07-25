@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Greater-Enhanced-Potential
 ---
 ## Greater Enhanced Potential    
 >**Enabler**  

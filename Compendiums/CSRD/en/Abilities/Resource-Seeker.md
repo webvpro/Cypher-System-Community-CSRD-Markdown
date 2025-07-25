@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Resource-Seeker
 ---
 ## Resource Seeker    
 >**Action**    

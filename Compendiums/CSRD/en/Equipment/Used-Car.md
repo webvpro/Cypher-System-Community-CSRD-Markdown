@@ -10,6 +10,7 @@ tags:
 title: Used Car
 collection: Equipment
 kind: Equipment
+id: Used-Car
 ---
 ## Used Car    
     

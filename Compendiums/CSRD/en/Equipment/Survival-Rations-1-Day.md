@@ -9,6 +9,7 @@ tags:
 title: Survival Rations (1 Day)
 collection: Equipment
 kind: Equipment
+id: Survival-Rations-1-Day
 ---
 ## Survival Rations (1 Day)    
     

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Valorous Whetstone
 collection: Cyphers
 kind: Cypher
+id: Valorous-Whetstone
+categories:
+  - Fairytale
 ---
 ## Valorous Whetstone    
 >[!info] Stats    

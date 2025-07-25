@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/0
   - Creature/Health/21
+  - Content/Fairytale
 title: Chimera
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 0
 health: 21
+id: Chimera
+categories:
+  - Fairytale
 ---
 ## Chimera    
 Chimeras are unsettling hybrids that combine the features of many different animals, often arranged in odd formations. The fusion of animal forms is the only thing that unifies these creatures-otherwise, different chimeras often look very different from each other. They include combinations of goat and lion, lizard and bat, dragon and spider, dinosaur and giant insect. A few even display human features, such as an improbably located face or hands instead of claws. Some chimeras can fly. Others slither across the ground.   

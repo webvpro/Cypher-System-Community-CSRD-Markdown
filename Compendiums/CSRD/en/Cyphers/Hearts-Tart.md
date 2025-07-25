@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Hearts-Tart
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Heart's Tart
 collection: Cyphers
 kind: Cypher
+id: Hearts-Tart
+categories:
+  - Fairytale
 ---
 ## Heart's Tart    
 >[!info] Stats    

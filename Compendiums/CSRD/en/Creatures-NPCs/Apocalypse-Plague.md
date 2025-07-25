@@ -13,6 +13,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 24
+id: Apocalypse-Plague
 ---
 ## Four Horsemen of the Apocalypse Plague     
   

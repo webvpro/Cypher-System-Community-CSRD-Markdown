@@ -7,6 +7,7 @@ tags:
 title: Lost
 collection: Descriptors
 kind: Descriptor
+id: Lost
 ---
 ## Lost    
 You can’t remember exactly when it happened or why, but you have lost your way. The path through life, or even through your own mind, no longer seems to exist. Once you had a reason and a goal, but now you find yourself wandering aimlessly, without clear purpose or drive.  

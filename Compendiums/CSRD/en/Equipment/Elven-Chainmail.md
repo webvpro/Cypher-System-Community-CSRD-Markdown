@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/Very-Expensive
-  - Equipment/Value/8,000-Gp
+  - 'Equipment/Value/8,000-Gp'
   - Equipment/Armor/Medium
 title: Elven Chainmail
 collection: Equipment
 kind: Equipment
+id: Elven-Chainmail
 ---
 ## Elven Chainmail    
     

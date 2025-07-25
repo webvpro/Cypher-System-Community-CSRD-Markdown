@@ -11,6 +11,7 @@ tags:
 title: Lab on a Chip
 collection: Equipment
 kind: Equipment
+id: Lab-on-a-Chip
 ---
 ## Lab-on-a-Chip    
     

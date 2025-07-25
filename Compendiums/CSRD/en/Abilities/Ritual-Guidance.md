@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Ritual-Guidance
 ---
 ## Ritual Guidance  
 >**Enabler**    

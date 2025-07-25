@@ -9,6 +9,7 @@ title: Terahertz Scanner
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Terahertz-Scanner
 ---
 ## Terahertz Scanner    
 >[!info] Stats    

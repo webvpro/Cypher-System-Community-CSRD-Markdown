@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Godfathers-Picture-Book
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Godfather's Picture Book
 collection: Cyphers
 kind: Cypher
+id: Godfathers-Picture-Book
+categories:
+  - Fairytale
 ---
 ## Godfather's Picture Book    
 >[!info] Stats    

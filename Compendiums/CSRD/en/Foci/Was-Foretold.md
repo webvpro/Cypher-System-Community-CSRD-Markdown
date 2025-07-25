@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Fantasy
 title: Was Foretold
 collection: Foci
 kind: Focus
+id: Was-Foretold
+categories:
+  - Fantasy
 ---
 ## Was Foretold    
 You are the "chosen one," and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.    

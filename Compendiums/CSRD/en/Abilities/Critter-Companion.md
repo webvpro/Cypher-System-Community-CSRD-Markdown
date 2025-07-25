@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Companion
+id: Critter-Companion
 ---
 ## Critter Companion    
 >**Enabler**  

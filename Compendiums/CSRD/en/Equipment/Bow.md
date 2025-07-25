@@ -24,6 +24,7 @@ tags:
 title: Bow
 collection: Equipment
 kind: Equipment
+id: Bow
 ---
 ## Bow    
     

@@ -8,6 +8,7 @@ tags:
 title: Density
 collection: Cyphers
 kind: Cypher
+id: Density
 ---
 ## Density    
 >[!info] Stats    

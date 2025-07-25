@@ -7,6 +7,7 @@ tags:
 title: Conducts Weird Science
 collection: Foci
 kind: Focus
+id: Conducts-Weird-Science
 ---
 ## Conducts Weird Science    
 Your preternatural insight and ability make you a scientist capable of amazing feats.    

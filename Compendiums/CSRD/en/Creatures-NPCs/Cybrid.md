@@ -14,6 +14,7 @@ kind: Creature
 level: 8
 armor: 3
 health: 60
+id: Cybrid
 ---
 ## Cybrid    
 Cybrid origins could be the result of someone finding a cache of ancient ultra technology, or manufactured by a post-singularity AI for some unfathomable purpose, or even the result of banned weapons research by a nation-state or conglomerate. The human remnants in each cybrid's carbon fiber and nested shells of nanotech exist in a red haze of pain; neuro-wetware and chemicals bathing their remaining living tissues hold the pain partly at bay.   

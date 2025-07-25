@@ -8,6 +8,7 @@ tags:
 title: Damage Boost
 collection: Cyphers
 kind: Cypher
+id: Damage-Boost
 ---
 ## Damage Boost    
 >[!info] Stats    

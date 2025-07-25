@@ -9,6 +9,7 @@ tags:
 title: Batteries
 collection: Equipment
 kind: Equipment
+id: Batteries
 ---
 ## Batteries    
     

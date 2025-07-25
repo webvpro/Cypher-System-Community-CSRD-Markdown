@@ -11,6 +11,7 @@ tags:
 title: Gravity Regulator
 collection: Equipment
 kind: Equipment
+id: Gravity-Regulator
 ---
 ## Gravity Regulator    
     

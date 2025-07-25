@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 0
 health: 33
+id: Exoslime
 ---
 ## Exoslime    
 Amoeboid life predominates in some environments. Sometimes, it slimes asteroid crevices or its greasy residue is found on abandoned spacecraft. In a few cases, large portions of entire worlds are covered in living seas of translucent protoplasm. Individual volumes of exoslime are 5 m (15 foot) diameter moldlike blobs. Exoslimes possess independent minds, but in some settings may be manufactured entities designed to explore new locations, interact with aliens, or subjugate aliens. Exoslimes can learn to respect the autonomy of other creatures, though their natural instinct is to absorb novel objects and creatures they discover in order to learn about them. Exoslimes can also replicate anything they absorb, even a previously eaten living intelligent being.    

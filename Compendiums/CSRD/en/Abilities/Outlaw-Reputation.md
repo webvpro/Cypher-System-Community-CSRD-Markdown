@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Outlaw-Reputation
 ---
 ## Outlaw Reputation    
 >**Enabler**    

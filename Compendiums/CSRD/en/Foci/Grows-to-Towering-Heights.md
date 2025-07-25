@@ -7,6 +7,7 @@ tags:
 title: Grows to Towering Heights
 collection: Foci
 kind: Focus
+id: Grows-to-Towering-Heights
 ---
 ## Grows to Towering Heights    
 For brief periods, you can grow larger and, with enough experience, to towering heights.    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Buddy-System
 ---
 ## Buddy System    
 >**Action**    

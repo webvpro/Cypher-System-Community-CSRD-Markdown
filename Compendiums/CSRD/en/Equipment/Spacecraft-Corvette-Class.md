@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Spacecraft, Corvette Class
+  - 'Spacecraft, Corvette Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/4
   - Equipment/Value/Priceless
-title: Spacecraft, Corvette Class
+title: 'Spacecraft, Corvette Class'
 collection: Equipment
 kind: Equipment
+id: Spacecraft-Corvette-Class
 ---
 ## Spacecraft, Corvette Class    
     

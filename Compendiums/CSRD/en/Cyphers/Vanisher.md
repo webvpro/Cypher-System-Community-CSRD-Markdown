@@ -8,6 +8,7 @@ tags:
 title: Vanisher
 collection: Cyphers
 kind: Cypher
+id: Vanisher
 ---
 ## Vanisher    
 >[!info] Stats    

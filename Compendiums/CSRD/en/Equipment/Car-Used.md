@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Car, Used
+  - 'Car, Used'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/3
   - Equipment/Value/Expensive
   - Equipment/Value/Very-Expensive
-title: Car, Used
+title: 'Car, Used'
 collection: Equipment
 kind: Equipment
+id: Car-Used
 ---
 ## Car, Used    
     

@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Protection
+id: Wear-It-Well
 ---
 ## Wear It Well    
 >**Enabler**  

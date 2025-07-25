@@ -8,6 +8,7 @@ tags:
 title: Eagleseye
 collection: Cyphers
 kind: Cypher
+id: Eagleseye
 ---
 ## Eagleseye    
 >[!info] Stats    

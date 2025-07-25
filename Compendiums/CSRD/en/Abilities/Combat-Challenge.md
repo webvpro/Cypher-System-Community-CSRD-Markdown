@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Support
+id: Combat-Challenge
 ---
 ## Combat Challenge    
 >**Enabler**  

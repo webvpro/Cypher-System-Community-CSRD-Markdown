@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Living Water
 collection: Cyphers
 kind: Cypher
+id: Living-Water
+categories:
+  - Fairytale
 ---
 ## Living Water    
 >[!info] Stats    

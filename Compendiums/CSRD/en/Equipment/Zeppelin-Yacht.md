@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Zeppelin, Yacht
+  - 'Zeppelin, Yacht'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/3
   - Equipment/Value/Exorbitant
-title: Zeppelin, Yacht
+title: 'Zeppelin, Yacht'
 collection: Equipment
 kind: Equipment
+id: Zeppelin-Yacht
 ---
 ## Zeppelin, Yacht    
     

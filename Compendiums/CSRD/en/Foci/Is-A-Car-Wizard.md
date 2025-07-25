@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Is-A-Car-Wizard
   - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
 title: Is A Car Wizard
 collection: Foci
 kind: Focus
+id: Is-A-Car-Wizard
+categories:
+  - Modern-Magic
 ---
 ## Is A Car Wizard  
 Your skill behind the wheel is legendary, combining natural talent and specialized magic to perform stunts and tricks that are impossible for regular people. Nothing beats the feel of wind in your hair, except maybe the intense purr of a finely tuned engine augmented by sorcery. You love pushing yourself (and your vehicle) to the limit, even if it’s dangerous—better to die a legend than live a long, dull life driving something boring. You enjoy drawing attention to yourself, so you tend to wear sleek clothing, stylish sunglasses, and borderline-gaudy jewelry, but never anything that interferes with your ability to control a car or cast a spell.  

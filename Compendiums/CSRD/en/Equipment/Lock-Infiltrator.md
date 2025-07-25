@@ -11,6 +11,7 @@ tags:
 title: Lock Infiltrator
 collection: Equipment
 kind: Equipment
+id: Lock-Infiltrator
 ---
 ## Lock Infiltrator    
     

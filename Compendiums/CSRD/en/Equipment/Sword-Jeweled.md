@@ -10,6 +10,7 @@ tags:
 title: Sword (Jeweled)
 collection: Equipment
 kind: Equipment
+id: Sword-Jeweled
 ---
 ## Sword (Jeweled)    
     

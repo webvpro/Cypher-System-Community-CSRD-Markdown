@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/0
   - Creature/Health/24
+  - Content/Horror
 title: Vampire
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 0
 health: 24
+id: Vampire
+categories:
+  - Horror
 ---
 ## Vampire    
 Vampires are undead creatures, risen from the grave to drink blood. Their very nature and essence are evil and anti-life, even as they revel in their own endless existence. Most vampires are vain, arrogant, sadistic, lustful, and domineering. Their powers allow them to manipulate others, and they frequently toy with their prey before feeding. Vampires come out only at night, as the sun's rays will destroy them.  

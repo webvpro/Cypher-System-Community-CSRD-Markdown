@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Cloud-Storage
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Cloud Storage
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Cloud-Storage
+contentCategory: Modern Magic Artifacts
 ---
 ## Cloud Storage  
 >1d6 +2  

@@ -9,6 +9,7 @@ tags:
 title: Ascetic's Outfit
 collection: Equipment
 kind: Equipment
+id: Ascetic's-Outfit
 ---
 ## Ascetic's Outfit    
     

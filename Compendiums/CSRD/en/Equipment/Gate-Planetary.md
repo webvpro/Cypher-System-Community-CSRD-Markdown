@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Gate, Planetary
+  - 'Gate, Planetary'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/3
   - Equipment/Value/Priceless
-title: Gate, Planetary
+title: 'Gate, Planetary'
 collection: Equipment
 kind: Equipment
+id: Gate-Planetary
 ---
 ## Gate, Planetary    
     

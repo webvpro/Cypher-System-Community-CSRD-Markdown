@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tent, Environment
+  - 'Tent, Environment'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/3
   - Equipment/Value/Moderate
-title: Tent, Environment
+title: 'Tent, Environment'
 collection: Equipment
 kind: Equipment
+id: Tent-Environment
 ---
 ## Tent, Environment    
     

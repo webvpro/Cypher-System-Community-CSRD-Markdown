@@ -22,6 +22,7 @@ pools:
 categories:
   - Social
   - Task
+id: Debate
 ---
 ## Debate    
 >**Action**    

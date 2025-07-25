@@ -10,6 +10,7 @@ tags:
 title: Flail
 collection: Equipment
 kind: Equipment
+id: Flail
 ---
 ## Flail    
     

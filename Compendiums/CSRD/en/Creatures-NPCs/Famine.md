@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 24
+id: Famine
 ---
 ## Famine    
 Famine delighted in economic collapse and starvation before the apocalypse. They still spend time destabilizing survivor groups' livelihoods by direct and indirect means. Famine is rail thin, and carries a chain weapon with weighted, disc shaped ends that can also be used as an improvised scale.    

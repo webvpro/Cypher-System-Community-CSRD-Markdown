@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Task
+id: Master-Entertainer
 ---
 ## Master Entertainer    
 >**Enabler**  

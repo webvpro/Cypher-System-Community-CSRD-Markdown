@@ -11,6 +11,7 @@ tags:
 title: Plasma Saber
 collection: Equipment
 kind: Equipment
+id: Plasma-Saber
 ---
 ## Plasma Saber    
     

@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 1
 health: 15
+id: Soul-Eater
 ---
 ## Soul Eater    
 A soul eater is the animate head of a powerful wizard who shuffled off this mortal coil to become an undead creature without ethics, feelings, or a sense of morality. Also called dread skulls, these creatures maintain their existence by occasionally absorbing the spirit or mind of living victims. An absorbed "soul" is burned away, which is why dread skulls are wreathed in flame; it's the by-product of the creature's previous meal.    

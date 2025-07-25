@@ -1,7 +1,10 @@
 ---
-aliases: "Genres"
-tags: 
--Compendium/CSRD/en/Rules/Genre
+aliases:
+  - Genres
+tags:
+  - Compendium/CSRD/en/Rules/Genre
+id: Genres
+title: Genres
 ---
 
 # Genres

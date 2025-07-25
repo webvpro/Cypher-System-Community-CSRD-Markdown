@@ -11,6 +11,7 @@ tags:
 title: Elegant Clothes
 collection: Equipment
 kind: Equipment
+id: Elegant-Clothes
 ---
 ## Elegant Clothes    
     

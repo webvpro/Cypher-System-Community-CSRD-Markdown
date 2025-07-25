@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/2
   - Creature/Health/20
+  - Content/Fairytale
 title: Black Dog
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 2
 health: 20
+id: Black-Dog
+categories:
+  - Fairytale
 ---
 ## Black Dog    
 Black dogs go by many names: hellhounds, bearers of death, black hounds of destiny, and devil dogs, just to name a few. Typically they are spectral or demonic entities that show up at night. They are often sinister, malevolent, or purposefully harmful (such as the Barghest and Black Shuck). Occasionally, black dogs are helpful and benevolent, guarding people from danger, helping them find the correct path, or signifying the death of someone nearby. Black dogs are usually large, shaggy, and as black as night, with long ears and tails. However, despite their name, they can be any color. The real distinction is that they are definitely not regular, living dogs. Some have eyes like fire, some howl with a ghostly, ethereal song, and still others have telltale witches' marks upon their chest or back. Black dogs can see ghosts, witches, and other magical entities not typically visible to other creatures. They are sometimes a portent of death, but not always. Many carry with them an inherent sense of sadness and despair, which they can pass on to those around them. Black dogs sometimes serve as familiars for witches and sorcerers.    

@@ -11,6 +11,7 @@ tags:
 title: Self-Extending Rope
 collection: Equipment
 kind: Equipment
+id: Self-Extending-Rope
 ---
 ## Self-Extending Rope    
     

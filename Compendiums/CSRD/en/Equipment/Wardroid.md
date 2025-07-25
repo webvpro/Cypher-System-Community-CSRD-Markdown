@@ -11,6 +11,7 @@ tags:
 title: Wardroid
 collection: Equipment
 kind: Equipment
+id: Wardroid
 ---
 ## Wardroid    
     

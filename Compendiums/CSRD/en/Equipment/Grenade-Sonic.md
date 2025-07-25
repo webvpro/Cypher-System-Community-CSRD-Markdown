@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Grenade, Sonic
+  - 'Grenade, Sonic'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Moderate
   - Equipment/Weapon/Thrown
-title: Grenade, Sonic
+title: 'Grenade, Sonic'
 collection: Equipment
 kind: Equipment
+id: Grenade-Sonic
 ---
 ## Grenade, Sonic    
     

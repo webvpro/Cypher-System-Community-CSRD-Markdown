@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 1
 health: 24
+id: Hydra
 ---
 ## Hydra    
 This mythological reptile has five writhing serpent heads, each of which constantly exhales a venomous plume. Well over 20 feet (6 m) long from the tip of its longest head to its thrashing tail, the toxic beast's most discomfiting feature is its magical ability to sprout new heads when it's wounded. Some hydras dwell on land, others in water. Most seem to have been set as guardians of important places by higher powers, which is probably why they're so difficult to kill.    

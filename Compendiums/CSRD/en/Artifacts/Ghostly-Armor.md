@@ -9,6 +9,7 @@ title: Ghostly Armor
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Ghostly-Armor
 ---
 ## Ghostly Armor    
 >[!info] Stats    

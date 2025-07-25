@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Fantasy
 title: Lizardfolk
 collection: Descriptors
 kind: Descriptor
+id: Lizardfolk
+categories:
+  - Fantasy
 ---
 ## Lizardfolk    
 You are from a long line of fierce reptilian predators. You show your fangs and scales proudly. Your people survive and thrive in the wetlands, guarding their eggs, raising their hatchlings, and protecting their territory. City-builders may call you a savage and your culture primitive, but there is grace in your hunting, artistry in your crafting, joy in your songs, and reverence in your worship.  

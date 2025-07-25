@@ -9,6 +9,7 @@ tags:
 title: Glasses
 collection: Equipment
 kind: Equipment
+id: Glasses
 ---
 ## Glasses    
     

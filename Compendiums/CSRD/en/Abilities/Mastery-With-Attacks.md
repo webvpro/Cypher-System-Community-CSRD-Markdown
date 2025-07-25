@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Attack-Skill
+id: Mastery-With-Attacks
 ---
 ## Mastery With Attacks    
 >**Action**  

@@ -11,6 +11,7 @@ tags:
 title: Programmable Suitcase
 collection: Equipment
 kind: Equipment
+id: Programmable-Suitcase
 ---
 ## Programmable Suitcase    
     

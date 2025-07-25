@@ -10,6 +10,7 @@ tags:
 title: Manacles
 collection: Equipment
 kind: Equipment
+id: Manacles
 ---
 ## Manacles    
     

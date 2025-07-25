@@ -9,6 +9,7 @@ tags:
 title: Lamp
 collection: Equipment
 kind: Equipment
+id: Lamp
 ---
 ## Lamp    
     

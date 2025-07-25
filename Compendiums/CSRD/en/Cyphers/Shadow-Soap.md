@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Shadow Soap
 collection: Cyphers
 kind: Cypher
+id: Shadow-Soap
+categories:
+  - Fairytale
 ---
 ## Shadow Soap    
 >[!info] Stats    

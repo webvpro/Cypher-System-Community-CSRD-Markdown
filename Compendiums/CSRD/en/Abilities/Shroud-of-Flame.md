@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Shroud-of-Flame
 ---
 ## Shroud of Flame    
 >**Enabler**    

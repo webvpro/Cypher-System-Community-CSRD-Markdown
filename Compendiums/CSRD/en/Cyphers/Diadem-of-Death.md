@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Diadem of Death
 collection: Cyphers
 kind: Cypher
+id: Diadem-of-Death
+categories:
+  - Fairytale
 ---
 ## Diadem of Death    
 >[!info] Stats    

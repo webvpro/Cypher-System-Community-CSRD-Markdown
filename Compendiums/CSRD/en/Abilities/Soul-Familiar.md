@@ -10,6 +10,7 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Magic
   - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
 title: Soul Familiar
 collection: Abilities
 kind: Ability
@@ -22,6 +23,8 @@ pools:
 categories:
   - Magic
   - Fantasy
+  - Modern-Magic
+id: Soul-Familiar
 ---
 ## Soul Familiar
   

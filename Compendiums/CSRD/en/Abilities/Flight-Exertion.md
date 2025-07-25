@@ -10,6 +10,7 @@ tags:
   - Ability/Pool/Might
   - Ability/Pool/Speed
   - Ability/Categories/NA
+  - Content/Superhero
 title: Flight Exertion
 collection: Abilities
 kind: Ability
@@ -22,6 +23,8 @@ pools:
   - Speed
 categories:
   - NA
+  - Superhero
+id: Flight-Exertion
 ---
 ## Flight Exertion    
 >**Enabler**    

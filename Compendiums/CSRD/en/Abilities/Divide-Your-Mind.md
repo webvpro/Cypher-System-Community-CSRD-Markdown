@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Divide-Your-Mind
 ---
 ## Divide Your Mind    
 >**Action**    

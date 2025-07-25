@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Discovery Class
+  - 'Starship, Discovery Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/5
   - Equipment/Value/Priceless
-title: Starship, Discovery Class
+title: 'Starship, Discovery Class'
 collection: Equipment
 kind: Equipment
+id: Starship-Discovery-Class
 ---
 ## Starship, Discovery Class    
     

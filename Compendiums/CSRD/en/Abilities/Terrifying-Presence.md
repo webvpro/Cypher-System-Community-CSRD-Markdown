@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Terrifying-Presence
 ---
 ## Terrifying Presence    
 >**Action**    

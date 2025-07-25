@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Mind-of-a-Leader
 ---
 ## Mind of a Leader    
 >**Action**    

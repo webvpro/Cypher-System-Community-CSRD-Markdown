@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 2
 health: 25
+id: Sphinx
 ---
 ## Sphinx    
 A sphinx is a magical creature with a large lionlike body, feathered wings, and a head that is like that of a human or some kind of animal (typically a hawk or ram). Wise and fierce, sphinxes have a connection to the divine and are often found guarding temples or persons of great interest to the gods (although whether they serve good or evil depends on the individual sphinx). No matter what their head looks like, a sphinx can devour creatures as easily and quickly as a lion.    

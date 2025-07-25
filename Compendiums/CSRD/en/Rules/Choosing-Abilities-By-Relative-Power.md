@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Choosing Abilities By Relative Power"
+  - Choosing Abilities By Relative Power
 tags:
--  Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules
+id: Choosing-Abilities-By-Relative-Power
+title: Choosing Abilities By Relative Power
 ---
 
 # Choosing Abilities By Relative Power

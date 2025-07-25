@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Revenant Serum
 collection: Cyphers
 kind: Cypher
+id: Revenant-Serum
+categories:
+  - Horror
 ---
 ## Revenant Serum    
 >[!info] Stats    

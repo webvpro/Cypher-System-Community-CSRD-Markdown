@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Tank-Combat
+  - Content/Fantasy
 title: Lives in the Wilderness
 collection: Foci
 kind: Focus
+id: Lives-in-the-Wilderness
+categories:
+  - Fantasy
 ---
 ## Lives in the Wilderness    
 You can survive in badlands where others perish.    

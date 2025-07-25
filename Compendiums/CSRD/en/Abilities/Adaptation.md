@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Environment
+id: Adaptation
 ---
 ## Adaptation    
 >**Enabler**  

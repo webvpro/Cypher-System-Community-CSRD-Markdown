@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Misdirect-Blame
 ---
 ## Misdirect Blame    
 >**Action**    

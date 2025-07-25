@@ -9,6 +9,7 @@ title: Vorpal Sword
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Vorpal-Sword
 ---
 ## Vorpal Sword    
 >[!info] Stats    

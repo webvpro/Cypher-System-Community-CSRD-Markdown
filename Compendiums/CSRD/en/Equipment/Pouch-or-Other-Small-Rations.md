@@ -9,6 +9,7 @@ tags:
 title: Pouch or Other Small Rations
 collection: Equipment
 kind: Equipment
+id: Pouch-or-Other-Small-Rations
 ---
 ## Pouch or Other Small Rations    
     

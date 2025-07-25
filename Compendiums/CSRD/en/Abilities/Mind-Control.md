@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Mind-Control
 ---
 ## Mind Control    
 >**Action**    

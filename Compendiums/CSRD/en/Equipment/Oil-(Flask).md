@@ -9,6 +9,7 @@ tags:
 title: Oil (Flask)
 collection: Equipment
 kind: Equipment
+id: Oil-(Flask)
 ---
 ## Oil (Flask)    
     

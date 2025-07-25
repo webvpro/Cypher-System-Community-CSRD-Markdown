@@ -14,6 +14,7 @@ kind: NPC
 level: 5
 armor: 0
 health: 15
+id: Occultist
 ---
 ## Occultist    
 Paranormal researchers, cultists, secret practitioners of white magic, and coven members might be occultists. Thanks to their study of the metaphysical, occultists learn several magical tricks, including the ability to summon or banish the dead.    

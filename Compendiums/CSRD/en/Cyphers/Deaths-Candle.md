@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Deaths-Candle
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Death's Candle
 collection: Cyphers
 kind: Cypher
+id: Deaths-Candle
+categories:
+  - Fairytale
 ---
 ## Death's Candle    
 >[!info] Stats    

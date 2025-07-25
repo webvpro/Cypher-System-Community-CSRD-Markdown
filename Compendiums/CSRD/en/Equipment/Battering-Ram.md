@@ -9,6 +9,7 @@ tags:
 title: Battering Ram
 collection: Equipment
 kind: Equipment
+id: Battering-Ram
 ---
 ## Battering Ram    
     

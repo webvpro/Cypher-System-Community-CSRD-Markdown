@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 3
 health: 22
+id: Photonomorph
 ---
 ## Photonomorph    
 Hard-light technology, which creates pseudo-matter from modified photons, has made possible all kinds of structures and devices that wouldn't otherwise exist. One of those, unfortunately, are self-sustaining photonic matter creatures. Sometimes, photonomorphs are enforcers created by much more powerful beings; other times they are the result of some person or AI attempting to ascend into a new state of being. But whatever their origin, photonomorphs are dangerous beings that can create matter from light, granting them an arbitrarily wide swathe of abilities. That includes their own glowing bodies, which they can change with only a little effort. This variability of form, coupled with their vast power, may be why many seem slightly mad.    

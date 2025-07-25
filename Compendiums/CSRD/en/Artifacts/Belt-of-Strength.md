@@ -9,6 +9,7 @@ title: Belt of Strength
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Belt-of-Strength
 ---
 ## Belt of Strength    
 >[!info] Stats    

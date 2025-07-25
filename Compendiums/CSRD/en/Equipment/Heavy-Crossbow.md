@@ -12,6 +12,7 @@ tags:
 title: Heavy Crossbow
 collection: Equipment
 kind: Equipment
+id: Heavy-Crossbow
 ---
 ## Heavy Crossbow    
     

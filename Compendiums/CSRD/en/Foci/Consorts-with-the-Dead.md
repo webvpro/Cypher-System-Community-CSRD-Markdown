@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Ally-Use
+  - Content/Fantasy
 title: Consorts with the Dead
 collection: Foci
 kind: Focus
+id: Consorts-with-the-Dead
+categories:
+  - Fantasy
 ---
 ## Consorts with the Dead    
 The dead answer your questions, and their reanimated corpses serve you.    

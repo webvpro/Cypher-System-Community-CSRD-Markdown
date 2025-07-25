@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Companion
+id: Spirit-Accomplice
 ---
 ## Spirit Accomplice    
 >**Action**  

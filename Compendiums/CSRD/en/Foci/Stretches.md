@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
 title: Stretches
 collection: Foci
 kind: Focus
+id: Stretches
+categories:
+  - Superhero
 ---
 ## Stretches    
 Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.    

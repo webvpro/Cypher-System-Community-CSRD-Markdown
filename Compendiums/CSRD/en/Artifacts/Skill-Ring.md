@@ -9,6 +9,7 @@ title: Skill Ring
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Skill-Ring
 ---
 ## Skill Ring    
 >[!info] Stats    

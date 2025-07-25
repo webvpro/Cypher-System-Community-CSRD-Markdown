@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Special-Attack
+id: Weightless-Shot
 ---
 ## Weightless Shot    
 >**Enabler**  

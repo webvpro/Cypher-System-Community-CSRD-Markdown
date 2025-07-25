@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Meatboy
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Meatboy
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Meatboy
+contentCategory: Modern Magic Artifacts
 ---
 ## Meatboy  
 >1d6  

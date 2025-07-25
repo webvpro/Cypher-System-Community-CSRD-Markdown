@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Post-Apocalyptic
 title: Prepped for the End
 collection: Foci
 kind: Focus
+id: Prepped-for-the-End
+categories:
+  - Post-Apocalyptic
 ---
 ## Prepped for the End    
 You prepared for ultimate disaster, unlike most of the sheeple. Which means you stashed away food, water, and other survival gear when things were still okay. You trained yourself for harsh conditions, for basic machine and electronic repair, and maybe even in a musical instrument to pass the time in the bunker when no other entertainments could be had. You'd excel in a small group of other survivors, but you're ready to go it alone if that's what it takes. Above all, you're prepared to make it through whatever the future holds, no matter how daunting the odds. Because you prepped wisely.    

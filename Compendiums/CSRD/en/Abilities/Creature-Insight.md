@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Creature-Insight
 ---
 ## Creature Insight    
 >**Action**    

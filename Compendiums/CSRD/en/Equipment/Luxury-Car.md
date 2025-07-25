@@ -10,6 +10,7 @@ tags:
 title: Luxury Car
 collection: Equipment
 kind: Equipment
+id: Luxury-Car
 ---
 ## Luxury Car    
     

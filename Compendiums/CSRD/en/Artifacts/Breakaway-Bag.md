@@ -8,6 +8,7 @@ title: Breakaway Bag
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Breakaway-Bag
 ---
 ## Breakaway Bag  
 #### Level   

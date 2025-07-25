@@ -9,6 +9,7 @@ title: Armored Cloth
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Armored-Cloth
 ---
 ## Armored Cloth    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Greater-Healing-Touch
 ---
 ## Greater Healing Touch    
 >**Action**    

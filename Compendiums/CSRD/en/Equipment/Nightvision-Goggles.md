@@ -20,6 +20,7 @@ tags:
 title: Nightvision Goggles
 collection: Equipment
 kind: Equipment
+id: Nightvision-Goggles
 ---
 ## Nightvision Goggles    
     

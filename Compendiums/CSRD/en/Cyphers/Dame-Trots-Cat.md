@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Dame-Trots-Cat
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dame Trot's Cat
 collection: Cyphers
 kind: Cypher
+id: Dame-Trots-Cat
+categories:
+  - Fairytale
 ---
 ## Dame Trot's Cat    
 >[!info] Stats    

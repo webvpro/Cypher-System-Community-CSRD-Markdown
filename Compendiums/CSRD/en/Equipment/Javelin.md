@@ -10,6 +10,7 @@ tags:
 title: Javelin
 collection: Equipment
 kind: Equipment
+id: Javelin
 ---
 ## Javelin    
     

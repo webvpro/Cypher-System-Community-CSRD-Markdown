@@ -8,6 +8,7 @@ tags:
 title: Burst Boost
 collection: Cyphers
 kind: Cypher
+id: Burst-Boost
 ---
 ## Burst Boost    
 >[!info] Stats    

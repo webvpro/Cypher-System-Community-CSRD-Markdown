@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Biomorphic-Detonation
 ---
 ## Biomorphic Detonation    
 >**Action**    

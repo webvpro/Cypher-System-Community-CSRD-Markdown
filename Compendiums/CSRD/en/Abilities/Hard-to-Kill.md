@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Protection
+id: Hard-to-Kill
 ---
 ## Hard to Kill    
 >**Enabler**  

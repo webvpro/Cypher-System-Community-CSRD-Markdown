@@ -9,6 +9,7 @@ tags:
 title: Arrows (20)
 collection: Equipment
 kind: Equipment
+id: Arrows-20
 ---
 ## Arrows (20)    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Summon-Demon
 ---
 ## Summon Demon    
 >**Action**    

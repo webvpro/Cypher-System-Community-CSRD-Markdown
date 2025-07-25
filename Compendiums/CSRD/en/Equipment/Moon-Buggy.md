@@ -11,6 +11,7 @@ tags:
 title: Moon Buggy
 collection: Equipment
 kind: Equipment
+id: Moon-Buggy
 ---
 ## Moon Buggy    
     

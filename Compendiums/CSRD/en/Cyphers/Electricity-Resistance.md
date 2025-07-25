@@ -8,6 +8,7 @@ tags:
 title: Electricity Resistance
 collection: Cyphers
 kind: Cypher
+id: Electricity-Resistance
 ---
 ## Electricity Resistance    
 >[!info] Stats    

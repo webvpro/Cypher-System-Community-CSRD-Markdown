@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Repeated-Rituals
 ---
 ## Repeated Rituals  
 >**Enabler**    

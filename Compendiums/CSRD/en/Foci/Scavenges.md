@@ -7,6 +7,7 @@ tags:
 title: Scavenges
 collection: Foci
 kind: Focus
+id: Scavenges
 ---
 ## Scavenges    
 When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.    

@@ -8,6 +8,7 @@ tags:
 title: Trick Embedder
 collection: Cyphers
 kind: Cypher
+id: Trick-Embedder
 ---
 ## Trick Embedder    
 >[!info] Stats    

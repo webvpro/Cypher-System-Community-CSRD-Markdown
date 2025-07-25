@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Protection
+id: Mastery-in-Armor
 ---
 ## Mastery in Armor    
 >**Enabler**  

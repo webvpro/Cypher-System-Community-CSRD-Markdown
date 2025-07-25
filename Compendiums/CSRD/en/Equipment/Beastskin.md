@@ -10,6 +10,7 @@ tags:
 title: Beastskin
 collection: Equipment
 kind: Equipment
+id: Beastskin
 ---
 ## Beastskin    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Boost-Manifest-Cypher
 ---
 ## Boost Manifest Cypher    
 >**Action**    

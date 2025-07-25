@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Machine-Telepathy
 ---
 ## Machine Telepathy    
 >**Action**    

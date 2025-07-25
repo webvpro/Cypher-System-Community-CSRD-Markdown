@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Speed-Readers
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Speed Readers
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Speed-Readers
+contentCategory: Modern Magic Artifacts
 ---
 ## Speed Readers  
   

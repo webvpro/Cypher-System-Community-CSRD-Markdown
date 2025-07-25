@@ -7,6 +7,7 @@ tags:
 title: Efficacy Boost Major
 collection: Cyphers
 kind: Cypher
+id: Efficacy-Boost-Major
 ---
 ## Efficacy Boost Major    
 >[!info] Stats    

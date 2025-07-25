@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Versatile-Mind
 ---
 ## Versatile Mind    
 >**Enabler**  

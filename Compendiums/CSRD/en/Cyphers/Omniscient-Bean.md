@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Omniscient Bean
 collection: Cyphers
 kind: Cypher
+id: Omniscient-Bean
+categories:
+  - Fairytale
 ---
 ## Omniscient Bean    
 >[!info] Stats    

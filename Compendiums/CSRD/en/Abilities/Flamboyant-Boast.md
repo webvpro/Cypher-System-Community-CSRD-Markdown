@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Flamboyant-Boast
 ---
 ## Flamboyant Boast    
 >**Enabler**    

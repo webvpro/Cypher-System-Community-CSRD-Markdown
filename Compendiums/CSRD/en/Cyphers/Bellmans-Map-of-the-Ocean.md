@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Bellmans-Map-of-the-Ocean
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Bellman's Map of the Ocean
 collection: Cyphers
 kind: Cypher
+id: Bellmans-Map-of-the-Ocean
+categories:
+  - Fairytale
 ---
 ## Bellman's Map of the Ocean    
 >[!info] Stats    

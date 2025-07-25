@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Living Copycat
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Living-Copycat
+contentCategory: Modern Magic Artifacts
 ---
 ## Living Copycat   
 >1d6  

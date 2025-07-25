@@ -8,6 +8,7 @@ tags:
 title: Retaliation
 collection: Cyphers
 kind: Cypher
+id: Retaliation
 ---
 ## Retaliation    
 >[!info] Stats    

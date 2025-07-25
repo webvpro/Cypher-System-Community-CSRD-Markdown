@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Craft
+id: Robot-Builder
 ---
 ## Robot Builder    
 >**Enabler**  

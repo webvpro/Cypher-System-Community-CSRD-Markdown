@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Performs Feats of Strength
 collection: Foci
 kind: Focus
+id: Performs-Feats-of-Strength
+categories:
+  - Fantasy
 ---
 ## Performs Feats of Strength    
 A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Tall-Tale
 ---
 ## Tall Tale    
 >**Action**    

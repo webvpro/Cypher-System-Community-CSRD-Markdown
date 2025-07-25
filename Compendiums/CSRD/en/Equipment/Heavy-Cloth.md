@@ -9,6 +9,7 @@ tags:
 title: Heavy Cloth
 collection: Equipment
 kind: Equipment
+id: Heavy-Cloth
 ---
 ## Heavy Cloth    
     

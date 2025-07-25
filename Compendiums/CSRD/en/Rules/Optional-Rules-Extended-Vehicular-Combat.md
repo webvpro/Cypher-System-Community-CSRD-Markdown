@@ -8,6 +8,7 @@ tags:
 title: 'Optional Rules: Extended Vehicular Combat (Spacecraft Combat)'
 collection: Rules
 kind: Spacecraft
+id: Optional-Rules-Extended-Vehicular-Combat
 ---
 ##  Optional Rules: Extended Vehicular Combat (Spacecraft Combat)    
 When vehicular combat occurs—which happens whenever the PCs are completely enclosed in a vehicle so that it’s not really the characters fighting, but the vehicles— start with the vehicular combat rules described in the Cypher System Rulebook.   

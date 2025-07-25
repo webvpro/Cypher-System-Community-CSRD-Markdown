@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Ascendant Brain Vivisector
 collection: Cyphers
 kind: Cypher
+id: Ascendant-Brain-Vivisector
+categories:
+  - Horror
 ---
 ## Ascendant Brain Vivisector    
 >[!info] Stats    

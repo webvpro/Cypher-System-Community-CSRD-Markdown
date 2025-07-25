@@ -8,6 +8,7 @@ tags:
 title: Detonation Pressure
 collection: Cyphers
 kind: Cypher
+id: Detonation-Pressure
 ---
 ## Detonation Pressure    
 >[!info] Stats    

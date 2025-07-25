@@ -11,6 +11,7 @@ tags:
 title: Spear
 collection: Equipment
 kind: Equipment
+id: Spear
 ---
 ## Spear    
     

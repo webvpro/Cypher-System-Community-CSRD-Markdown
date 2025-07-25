@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Embrace-the-Night
 ---
 ## Embrace the Night    
 >**Action**    

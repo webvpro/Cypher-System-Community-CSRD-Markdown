@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 1
 health: 12
+id: Grey
 ---
 ## Grey    
 Greys are enigmatic creatures born of alien stars (or dimensions) who have learned to move across the vast distances that bridge neighboring star systems. The creatures descend through the atmosphere under the cover of night to abduct specimens for study and return the victims later after a thorough examination. Returned abductees are usually befuddled and confused, and they retain little memory of what happened to them. Victims of the greys' examination frequently sport strange marks on their flesh, oddly shaped wounds, gaps where teeth used to be, and strange or unknown metal lodged somewhere under the skin.  

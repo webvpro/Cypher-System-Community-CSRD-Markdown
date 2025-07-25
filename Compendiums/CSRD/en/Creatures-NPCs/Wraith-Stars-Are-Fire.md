@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 0
 health: 15
+id: Wraith-Stars-Are-Fire
 ---
 ## Wraith Stars Are Fire    
 Wraiths (Homo vacuus) are genetically engineered to live in the vacuum of space by directly metabolizing high-energy charged particles abundant in the void. Though derived from human stock, wraiths are alien in body, sometimes concealing themselves in layers of shroud-like tissue, other times revealing themselves as wispy, elongated things of glowing red plasma. In some settings, wraiths are partners with humans, working in locations where humans would find difficult. In other settings, wraiths went their own way generations earlier, and rediscovering them would be a first contact scenario. Alternatively, wraiths might be a threat to humans, hating humans for having created a species forced to spend its existence in the dark void of space.    

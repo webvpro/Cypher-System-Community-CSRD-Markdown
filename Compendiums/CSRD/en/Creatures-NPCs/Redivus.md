@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 4
 health: 12
+id: Redivus
 ---
 ## Redivus    
 Redivi spend most of their lives-uncounted millennia-hurtling through space. Most never encounter anything, but some few impact other worlds, are captured by alien spacecraft, or otherwise intercepted. Their traveling form resembles rocky space rubble the size of a small spacecraft-until they unfurl glowing magnetic plasma wings, revealing themselves as strange creatures of living mineral. Redivi can interact with almost any electronic system and manipulate electromagnetic fields. Redivi are searchers, all sent forth by the Great Mother, billions upon billions of them (they say), looking for the seed of the next great cosmic expansion. Thus, most redivi are consumed with finding out more, finding other redivi, and eventually, finding their "universal seed."    

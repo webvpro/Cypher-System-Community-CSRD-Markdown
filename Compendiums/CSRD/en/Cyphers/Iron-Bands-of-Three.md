@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Iron Bands of Three
 collection: Cyphers
 kind: Cypher
+id: Iron-Bands-of-Three
+categories:
+  - Fairytale
 ---
 ## Iron Bands of Three    
 >[!info] Stats    

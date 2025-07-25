@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Itsy Bitsy Spider
 collection: Cyphers
 kind: Cypher
+id: Itsy-Bitsy-Spider
+categories:
+  - Fairytale
 ---
 ## Itsy Bitsy Spider    
 >[!info] Stats    

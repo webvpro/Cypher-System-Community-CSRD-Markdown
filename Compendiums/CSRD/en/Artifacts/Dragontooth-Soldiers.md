@@ -9,6 +9,7 @@ title: Dragontooth Soldiers
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Dragontooth-Soldiers
 ---
 ## Dragontooth Soldiers    
 >[!info] Stats    

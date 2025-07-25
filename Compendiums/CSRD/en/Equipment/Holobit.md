@@ -11,6 +11,7 @@ tags:
 title: Holobit
 collection: Equipment
 kind: Equipment
+id: Holobit
 ---
 ## Holobit    
     

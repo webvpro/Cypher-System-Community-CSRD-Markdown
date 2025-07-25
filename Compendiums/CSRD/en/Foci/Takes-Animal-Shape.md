@@ -4,9 +4,15 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
+  - Content/Fantasy
 title: Takes Animal Shape
 collection: Foci
 kind: Focus
+id: Takes-Animal-Shape
+categories:
+  - Superhero
+  - Fantasy
 ---
 ## Takes Animal Shape    
 A shapechanger who can take the form of various animals.    

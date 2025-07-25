@@ -8,6 +8,7 @@ title: Enterprise
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Enterprise
 ---
 ## Enterprise  
 >You want to create and run a business or start an organization. Maybe you’re a craftsperson who wants to sell your creations. Maybe you like baking and you want to start a catering service. Or maybe you want to start a secret society or found a school to teach young mutants how to use their powers. You’ll almost certainly have to make new connections, find (and somehow pay for) a location, and deal with all manner of administrative duties.    

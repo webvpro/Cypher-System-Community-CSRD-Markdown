@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Senses
+id: Sensor
 ---
 ## Sensor    
 >**Action**    

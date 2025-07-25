@@ -8,6 +8,7 @@ tags:
 title: Telepathy
 collection: Cyphers
 kind: Cypher
+id: Telepathy
 ---
 ## Telepathy    
 >[!info] Stats    

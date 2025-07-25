@@ -11,6 +11,7 @@ tags:
 title: Cloud Surfing Board
 collection: Equipment
 kind: Equipment
+id: Cloud-Surfing-Board
 ---
 ## Cloud Surfing Board    
     

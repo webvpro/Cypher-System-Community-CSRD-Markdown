@@ -1,8 +1,10 @@
 ---
 aliases:
-  -  "Edge"
-tags: 
-- Compendium/CSRD/en/Stats/Edge
+  - Edge
+tags:
+  - Compendium/CSRD/en/Stats/Edge
+id: Edge
+title: Edge
 ---
 ## Edge
 Although your Pool is the basic measurement of a stat, your Edge is also important. When something requires you to spend points from a stat Pool, your Edge for that stat reduces the cost. It also reduces the cost of applying Effort to a roll.

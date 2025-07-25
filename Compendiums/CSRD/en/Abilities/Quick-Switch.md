@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Quick-Switch
 ---
 ## Quick Switch    
 >**Enabler**  

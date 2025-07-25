@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Punish-All-the-Guilty
 ---
 ## Punish All the Guilty    
 >**Action**    

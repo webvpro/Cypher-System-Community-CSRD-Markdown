@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Car, Flying
+  - 'Car, Flying'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive
-title: Car, Flying
+title: 'Car, Flying'
 collection: Equipment
 kind: Equipment
+id: Car-Flying
 ---
 ## Car, Flying    
     

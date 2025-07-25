@@ -11,6 +11,7 @@ tags:
 title: Surveillance Drone
 collection: Equipment
 kind: Equipment
+id: Surveillance-Drone
 ---
 ## Surveillance Drone    
     

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Restore-Life
 ---
 ## Restore Life    
 >**Action**    

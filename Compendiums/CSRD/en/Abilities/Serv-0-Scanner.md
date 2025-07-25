@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Serv-0-Scanner
 ---
 ## Serv-0 Scanner    
 >**Enabler**    

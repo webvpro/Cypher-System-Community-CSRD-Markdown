@@ -8,6 +8,7 @@ tags:
 title: Efficacy Boost
 collection: Cyphers
 kind: Cypher
+id: Efficacy-Boost
 ---
 ## Efficacy Boost    
 >[!info] Stats    

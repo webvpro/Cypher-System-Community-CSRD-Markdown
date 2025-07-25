@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Resilience
 ---
 ## Resilience    
 >**Enabler**  

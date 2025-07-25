@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Fantasy
 title: Wild Insight
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Fantasy
+id: Wild-Insight
 ---
 ## Wild Insight    
 >**Enabler**  

@@ -13,6 +13,7 @@ kind: Creature
 level: 6
 armor: 3
 health: 24
+id: Apocalypse-Sword
 ---
 ## Four Horsemen of the Apocalypse Sword  
   

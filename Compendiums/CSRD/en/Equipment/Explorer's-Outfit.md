@@ -9,6 +9,7 @@ tags:
 title: Explorer's Outfit
 collection: Equipment
 kind: Equipment
+id: Explorer's-Outfit
 ---
 ## Explorer's Outfit    
     

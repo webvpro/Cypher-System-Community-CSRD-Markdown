@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Craft
+id: Weapon-Crafter
 ---
 ## Weapon Crafter    
 >**Enabler**  

@@ -1,10 +1,12 @@
 ---
 aliases:
-- "Optional Modern Fantasy Rules"
-- "Modern Fantasy"
-- "Urban Fantasy"  
+  - Optional Modern Fantasy Rules
+  - Modern Fantasy
+  - Urban Fantasy
 tags:
-- Compendium/CSRD/en/Rules/Optional/Modern-Fantasy
+  - Compendium/CSRD/en/Rules/Optional/Modern-Fantasy
+id: Optional-Modern-Fantasy-Rules
+title: Optional Modern Fantasy Rules
 ---
 
 ## Optional Modern Fantasy Rules  
@@ -20,11 +22,7 @@ Unless the theme of the setting is that everyone is quite proficient in magic, i
 #### The following are examples of typical cantrips in a modern fantasy setting:
 
 
->```dataview
->LIST 
->FROM #Cantrip 
->SORT file.name
->```
+
 
 #### Optional Rules: Learning Cantrips
 In some fantasy settings, cantrips are commonly available, but not everyone knows how to cast them (in the same way that phone and computer apps are common, but not everyone knows how to code an app). When someone tries to learn a cantrip, have them attempt a level 3 Intellect-based task (skills such as magical lore affect this). If they succeed, they learn the cantrip. If they fail, they don’t. A PC only spends the 2 XP to learn cantrips when they succeed at this roll.  This way, learning a cantrip isn’t automatic—it’s more like passing a final exam. And there are ways for the character to “cram” for this test, including expending Effort, getting help, or using an appropriate asset.

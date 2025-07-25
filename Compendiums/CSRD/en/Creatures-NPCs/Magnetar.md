@@ -14,6 +14,7 @@ kind: Super Villain
 level: 8
 armor: 8
 health: 50
+id: Magnetar
 ---
 ## Magnetar    
 Not much is known about Magnetar other than its powerful ability to generate and control magnetic fields. Various research groups theorize that Magnetar is an alien, a sentient and self-improving robot, or even some kind of manifestation of a fundamental force. Given Magnetar's vaguely humanoid shape, a few people even suggest that the villain is actually a man with a mutant ability so powerful that it burned out all memories of his former self.  

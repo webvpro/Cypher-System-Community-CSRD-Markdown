@@ -14,6 +14,7 @@ tags:
 title: Camera Designed to Be Concealed
 collection: Equipment
 kind: Equipment
+id: Camera-Designed-to-Be-Concealed
 ---
 ## Camera Designed to Be Concealed    
     

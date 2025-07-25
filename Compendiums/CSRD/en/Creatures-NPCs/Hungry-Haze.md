@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 0
 health: 12
+id: Hungry-Haze
 ---
 ## Hungry Haze    
 Hungry hazes are found in regions where the fundamental laws of physics have been eroded or are weak. They are named for how they appear as distortions of sight, like areas of heat haze, that shimmer in the air. These colorless hazes rapidly advance when they sense prey, taking on a "hungry" orange-red hue as they cling to the bodies of whatever they attempt to feed on next.  

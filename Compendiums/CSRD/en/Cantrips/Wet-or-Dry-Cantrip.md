@@ -11,6 +11,7 @@ kind: Cantrip
 pools:
   - Intellect
 cost: '1'
+id: Wet-or-Dry-Cantrip
 ---
 ## Wet or Dry Cantrip  (1 Intellect point)  
 You alter the moisture level of an object or area within immediate range, affecting about a 1-foot (30 cm) cube or one set of clothing. If you want the target to be wetter, it is dampened as if you poured a cup of water on it. If you want it drier, it is dried as if you hung it out in the sun on a warm day. Action.   

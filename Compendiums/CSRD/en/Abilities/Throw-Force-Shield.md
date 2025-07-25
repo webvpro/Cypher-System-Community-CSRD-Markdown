@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Special-Attack
+id: Throw-Force-Shield
 ---
 ## Throw Force Shield    
 >**Enabler**  

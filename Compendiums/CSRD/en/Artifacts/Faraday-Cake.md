@@ -9,6 +9,7 @@ title: Faraday Cake
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Faraday-Cake
 ---
 ## Faraday Cake    
 >[!info] Stats    

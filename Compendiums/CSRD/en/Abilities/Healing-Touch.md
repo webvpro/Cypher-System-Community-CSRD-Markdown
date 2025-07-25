@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Healing-Touch
 ---
 ## Healing Touch    
 >**Action**    

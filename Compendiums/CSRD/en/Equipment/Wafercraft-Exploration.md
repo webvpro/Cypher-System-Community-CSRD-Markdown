@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Wafercraft, Exploration
+  - 'Wafercraft, Exploration'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/1
   - Equipment/Value/Very-Expensive
-title: Wafercraft, Exploration
+title: 'Wafercraft, Exploration'
 collection: Equipment
 kind: Equipment
+id: Wafercraft-Exploration
 ---
 ## Wafercraft, Exploration    
     

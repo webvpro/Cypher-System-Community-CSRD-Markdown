@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Gingerbread Man
 collection: Cyphers
 kind: Cypher
+id: Gingerbread-Man
+categories:
+  - Fairytale
 ---
 ## Gingerbread Man    
 >[!info] Stats    

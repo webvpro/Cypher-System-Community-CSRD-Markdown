@@ -22,6 +22,7 @@ pools:
 categories:
   - Senses
   - Support
+id: Reveal
 ---
 ## Reveal    
 >**Action**    

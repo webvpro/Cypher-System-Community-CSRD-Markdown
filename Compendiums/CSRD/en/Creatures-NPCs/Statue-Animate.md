@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Statue, Animate
+  - 'Statue, Animate'
 tags:
   - Compendium/CSRD/en/Creatures-NPCs/Statue-Animate
   - Creature
@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/4
   - Creature/Health/33
-title: Statue, Animate
+  - Content/Fairytale
+title: 'Statue, Animate'
 collection: Creatures-NPCs
 kind: Creature
 level: 7
 armor: 4
 health: 33
+id: Statue-Animate
+categories:
+  - Fairytale
 ---
 ## Statue, Animate    
 Towering statues carved from stone or cast in metal are sometimes more than humans rendered in moments of triumph, celebration, or suffering. Sometimes a statue moves, usually in service to some ancient geas or command that animated it in the first place.  

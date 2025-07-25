@@ -14,6 +14,7 @@ tags:
 title: Hunting Knife
 collection: Equipment
 kind: Equipment
+id: Hunting-Knife
 ---
 ## Hunting Knife    
     

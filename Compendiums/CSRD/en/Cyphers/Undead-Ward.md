@@ -8,6 +8,7 @@ tags:
 title: Undead Ward
 collection: Cyphers
 kind: Cypher
+id: Undead-Ward
 ---
 ## Undead Ward    
 >[!info] Stats    

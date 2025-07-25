@@ -7,6 +7,7 @@ tags:
 title: Weird
 collection: Descriptors
 kind: Descriptor
+id: Weird
 ---
 ## Weird    
 You aren't like anyone else, and that's fine with you. People don't seem to understand you-they even seem put off by you-but who cares? You understand the world better than they do because you're weird, and so is the world you live in. The concept of "the weird" is well known to you. Strange devices, ancient locales, bizarre creatures, storms that can transform you, living energy fields, conspiracies, aliens, and things most people can't even name populate the world, and you thrive on them. You have a special attachment to it all, and the more you discover about the weirdness in the world, the more you might discover about yourself.  

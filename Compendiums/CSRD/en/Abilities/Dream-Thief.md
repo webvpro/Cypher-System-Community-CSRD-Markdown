@@ -22,6 +22,7 @@ pools:
 categories:
   - Information
   - Special-Attack
+id: Dream-Thief
 ---
 ## Dream Thief    
 >**Action**    

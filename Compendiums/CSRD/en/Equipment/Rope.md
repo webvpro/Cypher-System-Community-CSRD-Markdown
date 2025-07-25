@@ -19,6 +19,7 @@ tags:
 title: Rope
 collection: Equipment
 kind: Equipment
+id: Rope
 ---
 ## Rope    
     

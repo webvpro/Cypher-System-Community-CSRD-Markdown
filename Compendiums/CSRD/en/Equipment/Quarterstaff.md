@@ -11,6 +11,7 @@ tags:
 title: Quarterstaff
 collection: Equipment
 kind: Equipment
+id: Quarterstaff
 ---
 ## Quarterstaff    
     

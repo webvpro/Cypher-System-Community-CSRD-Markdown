@@ -22,6 +22,7 @@ pools:
 categories:
   - Craft
   - Meta
+id: Quick-Work
 ---
 ## Quick Work    
 >**Action**    

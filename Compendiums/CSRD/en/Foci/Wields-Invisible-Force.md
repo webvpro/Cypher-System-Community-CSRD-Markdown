@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
 title: Wields Invisible Force
 collection: Foci
 kind: Focus
+id: Wields-Invisible-Force
+categories:
+  - Superhero
 ---
 ## Wields Invisible Force    
 You bend light and manipulate beams of force for offense and defense.    

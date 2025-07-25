@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Synth, Companion
+  - 'Synth, Companion'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Expensive
-title: Synth, Companion
+title: 'Synth, Companion'
 collection: Equipment
 kind: Equipment
+id: Synth-Companion
 ---
 ## Synth, Companion    
     

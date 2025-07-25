@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Short-Teleportation
 ---
 ## Short Teleportation    
 >**Action**    

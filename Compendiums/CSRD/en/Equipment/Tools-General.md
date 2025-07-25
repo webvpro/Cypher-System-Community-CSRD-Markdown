@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tools, General
+  - 'Tools, General'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/3
   - Equipment/Value/Moderate
-title: Tools, General
+title: 'Tools, General'
 collection: Equipment
 kind: Equipment
+id: Tools-General
 ---
 ## Tools, General    
     

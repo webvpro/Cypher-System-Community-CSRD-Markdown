@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Craft
+id: Expert-Crafter
 ---
 ## Expert Crafter    
 >**Enabler**  

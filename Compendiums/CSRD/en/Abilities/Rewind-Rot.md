@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Rewind-Rot
 ---
 ## Rewind Rot  
 >**Enabler**    

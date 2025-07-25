@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Serv-0-Defender
 ---
 ## Serv-0 Defender    
 >**Enabler**  

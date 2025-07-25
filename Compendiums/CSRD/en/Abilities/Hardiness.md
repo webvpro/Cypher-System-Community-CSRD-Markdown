@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Hardiness
 ---
-## Hardiness    
->**Enabler**  
-    
+## Hardiness  
+  
+>**Enabler**
+  
+  
+  
 You are trained in Might defense tasks. Enabler.

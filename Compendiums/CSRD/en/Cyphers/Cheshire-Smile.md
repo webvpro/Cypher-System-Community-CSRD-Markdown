@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Cheshire Smile
 collection: Cyphers
 kind: Cypher
+id: Cheshire-Smile
+categories:
+  - Fairytale
 ---
 ## Cheshire Smile    
 >[!info] Stats    

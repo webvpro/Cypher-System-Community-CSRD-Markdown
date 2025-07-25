@@ -8,6 +8,7 @@ title: Solve a Mystery
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Solve-a-Mystery
 ---
 ## Solve a Mystery  
 >Different from the Learn arc and the Uncover a Secret arc, this arc is about solving a crime or a similar action committed in the fairly recent past. It’s not about practice or study, but about questions and answers. In theory, the mystery doesn’t have to be a crime. It might be “Why is this strange caustic substance leaking into my basement?”  

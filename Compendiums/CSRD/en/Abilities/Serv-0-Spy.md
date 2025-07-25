@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Senses
+id: Serv-0-Spy
 ---
 ## Serv-0 Spy    
 >**Action**    

@@ -9,6 +9,7 @@ tags:
 title: Spikes and Hammer
 collection: Equipment
 kind: Equipment
+id: Spikes-and-Hammer
 ---
 ## Spikes and Hammer    
     

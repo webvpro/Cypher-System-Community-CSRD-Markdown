@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Transform
+id: Beast-Form
 ---
 ## Beast Form    
 >**Action**  

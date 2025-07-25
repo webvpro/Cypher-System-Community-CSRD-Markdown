@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Craft
+id: Create
 ---
 ## Create    
 >**Action**    

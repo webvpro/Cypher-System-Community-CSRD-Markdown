@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Needs No Weapon
 collection: Foci
 kind: Focus
+id: Needs-No-Weapon
+categories:
+  - Fantasy
 ---
 ## Needs No Weapon    
 Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Foil-Danger
 ---
 ## Foil Danger    
 >**Action**    

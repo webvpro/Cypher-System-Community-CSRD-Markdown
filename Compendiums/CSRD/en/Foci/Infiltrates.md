@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Exploration
+  - Content/Fantasy
 title: Infiltrates
 collection: Foci
 kind: Focus
+id: Infiltrates
+categories:
+  - Fantasy
 ---
 ## Infiltrates    
 Subtlety, guile, and stealth allow you to get in where others can't.    

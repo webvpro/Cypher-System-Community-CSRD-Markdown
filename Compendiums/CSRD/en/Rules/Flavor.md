@@ -1,6 +1,11 @@
 ---
-aliases: [Flavor in Cypher, Flavor (Abilities)]
-tags: [Cypher/Rules/Character-Creation/Flavor]
+aliases:
+  - Flavor in Cypher
+  - Flavor (Abilities)
+tags:
+  - Cypher/Rules/Character-Creation/Flavor
+id: Flavor
+title: Flavor in Cypher
 ---
 
 # Flavor
@@ -20,4 +25,4 @@ In the end, flavor is mostly a tool for the GM to easily create campaign-specifi
 > - [[Combat-Flavor|Combat Flavor]]  
 > - [[Skills-and-Knowledge-Flavor|Skills and Knowledge Flavor]].
 
-The full description for each listed ability can be found in the [[Abilities|Abilities]] chapter, which also contains descriptions for [[Type-x|type]] and [[Focus|Focus]] abilities in a single vast catalog.
+| The full description for each listed ability can be found in the [[Abilities | Abilities]] chapter, which also contains descriptions for [[Type-x | type]] and [[Focus | Focus]] abilities in a single vast catalog. |

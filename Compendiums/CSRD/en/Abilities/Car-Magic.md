@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Car-Magic
 ---
 ## Car Magic  
 >**Action**    

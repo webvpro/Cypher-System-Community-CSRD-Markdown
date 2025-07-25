@@ -8,6 +8,7 @@ tags:
 title: Detonation Singularity
 collection: Cyphers
 kind: Cypher
+id: Detonation-Singularity
 ---
 ## Detonation Singularity    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Grand-Deception
 ---
 ## Grand Deception    
 >**Action**    

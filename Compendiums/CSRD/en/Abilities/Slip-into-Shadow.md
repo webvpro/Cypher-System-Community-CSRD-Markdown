@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Slip-into-Shadow
 ---
 ## Slip Into Shadow    
 >**Action**    

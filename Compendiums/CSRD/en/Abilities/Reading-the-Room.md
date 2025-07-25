@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Reading-the-Room
 ---
 ## Reading the Room    
 >**Action**    

@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Debilitating-Strike
 ---
 ## Debilitating Strike    
 >**Action**    

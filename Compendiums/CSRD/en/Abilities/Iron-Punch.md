@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Iron-Punch
 ---
 ## Iron Punch    
 >**Action**    

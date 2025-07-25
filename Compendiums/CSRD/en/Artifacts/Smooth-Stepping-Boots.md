@@ -9,6 +9,7 @@ title: Smooth-Stepping Boots
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Smooth-Stepping-Boots
 ---
 ## Smooth-Stepping Boots    
 >[!info] Stats    

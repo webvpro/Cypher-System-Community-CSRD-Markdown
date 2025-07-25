@@ -11,6 +11,7 @@ tags:
 title: White Noise Generator
 collection: Equipment
 kind: Equipment
+id: White-Noise-Generator
 ---
 ## White Noise Generator    
     

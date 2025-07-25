@@ -18,8 +18,12 @@ tier: Mid
 pools: []
 categories:
   - Task
+id: Master-Crafter
 ---
-## Master Crafter    
->**Enabler**  
-    
+## Master Crafter  
+  
+>**Enabler**
+  
+  
+  
 You are trained in the crafting of two kinds of items, or you are specialized in two kinds of items that you are already trained in. Enabler.

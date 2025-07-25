@@ -9,6 +9,7 @@ title: Carbonizer
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Carbonizer
 ---
 ## Carbonizer    
 >[!info] Stats    

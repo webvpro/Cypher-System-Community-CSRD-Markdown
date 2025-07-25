@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Flight-Not-Fight
 ---
-## Flight Not Fight    
->**Enabler**  
-    
+## Flight Not Fight  
+  
+>**Enabler**
+  
+  
+  
 If you use your action only to move, all Speed defense tasks are eased. Enabler.

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/1
   - Creature/Health/40
+  - Content/Fairytale
 title: Giant
 collection: Creatures-NPCs
 kind: Creature
 level: 7
 armor: 1
 health: 40
+id: Giant
+categories:
+  - Fairytale
 ---
 ## Giant    
 Violent storms, earthquakes, typhoons, and other natural disasters draw giants. Standing 20 to 30 feet (6 to 9 m) tall, giants delight in rampaging through the middle of such calamities, creating even more destruction. Some giants grow so powerful that they can trigger natural disasters on their own.    

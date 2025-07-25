@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Nonsensical Poem
 collection: Cyphers
 kind: Cypher
+id: Nonsensical-Poem
+categories:
+  - Fairytale
 ---
 ## Nonsensical Poem    
 >[!info] Stats    

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dressmaking Nut
 collection: Cyphers
 kind: Cypher
+id: Dressmaking-Nut
+categories:
+  - Fairytale
 ---
 ## Dressmaking Nut    
 >[!info] Stats    

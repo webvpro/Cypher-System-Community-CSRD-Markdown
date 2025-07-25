@@ -8,6 +8,7 @@ tags:
 title: Friction Reducer
 collection: Cyphers
 kind: Cypher
+id: Friction-Reducer
 ---
 ## Friction Reducer    
 >[!info] Stats    

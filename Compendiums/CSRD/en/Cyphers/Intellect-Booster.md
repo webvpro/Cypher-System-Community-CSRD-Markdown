@@ -8,6 +8,7 @@ tags:
 title: Intellect Booster
 collection: Cyphers
 kind: Cypher
+id: Intellect-Booster
 ---
 ## Intellect Booster    
 >[!info] Stats    

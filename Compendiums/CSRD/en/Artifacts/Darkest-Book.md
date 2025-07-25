@@ -9,6 +9,7 @@ title: Darkest Book
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Darkest-Book
 ---
 ## Darkest Book    
 >[!info] Stats    

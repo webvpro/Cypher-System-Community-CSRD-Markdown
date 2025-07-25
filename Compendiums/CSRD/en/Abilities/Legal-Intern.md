@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Companion
+id: Legal-Intern
 ---
 ## Legal Intern    
 >**Enabler**  

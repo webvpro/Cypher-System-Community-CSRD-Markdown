@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Predictive-Equation
 ---
 ## Predictive Equation    
 >**Action**    

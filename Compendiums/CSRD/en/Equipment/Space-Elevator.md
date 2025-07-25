@@ -11,6 +11,7 @@ tags:
 title: Space Elevator
 collection: Equipment
 kind: Equipment
+id: Space-Elevator
 ---
 ## Space Elevator    
     

@@ -18,8 +18,12 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Apocalyptic-Stare
 ---
-## Apocalyptic Stare    
->**Enabler**  
-    
+## Apocalyptic Stare  
+  
+>**Enabler**
+  
+  
+  
 Your demeanor is of someone who shouldn't be trifled with. You are trained in intimidation. Enabler.

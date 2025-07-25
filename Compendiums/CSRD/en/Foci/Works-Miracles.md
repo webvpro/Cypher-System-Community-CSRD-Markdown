@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Fantasy
 title: Works Miracles
 collection: Foci
 kind: Focus
+id: Works-Miracles
+categories:
+  - Fantasy
 ---
 ## Works Miracles    
 You can heal others with a touch, alter time to help others, and are generally beloved by everyone.    

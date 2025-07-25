@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Artifact-Tinkerer
 ---
 ## Artifact Tinkerer    
 >**Enabler**  

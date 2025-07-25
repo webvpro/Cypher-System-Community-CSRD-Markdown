@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Fear
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Fear
 ---
 ## Ray Emitter Fear    
 >[!info] Stats    

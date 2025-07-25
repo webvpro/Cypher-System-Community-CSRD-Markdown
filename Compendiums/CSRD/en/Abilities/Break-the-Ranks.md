@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Break-the-Ranks
 ---
 ## Break the Ranks    
 >**Action**    

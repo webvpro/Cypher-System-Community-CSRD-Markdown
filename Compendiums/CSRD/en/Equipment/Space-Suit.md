@@ -11,6 +11,7 @@ tags:
 title: Space Suit
 collection: Equipment
 kind: Equipment
+id: Space-Suit
 ---
 ## Space Suit    
     

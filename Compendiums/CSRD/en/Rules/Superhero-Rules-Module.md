@@ -1,3 +1,9 @@
+---
+id: Superhero-Rules-Module
+aliases:
+  - Superhero Rules Module
+title: Superhero Rules Module
+---
 v---
 aliases: "Superhero Rules Module"
 tags: 
@@ -14,20 +20,20 @@ Like horror, the superhero genre is really a subset of the modern genre with ext
 >- And so on.
 ## Suggested Types for a Superhero Game
 
-| Role                 | Type                                      |
-|----------------------|-------------------------------------------|
-| Strong hero          | Warrior                                   |
-| Brawler hero         | Warrior with stealth flavor               |
-| Gadget hero          | Explorer with technology flavor           |
-| Pilot                | Explorer with technology flavor           |
-| Charmer              | Speaker                                   |
-| Leader               | Speaker with combat flavor                |
-| Shadowy vigilante    | Explorer with stealth flavor              |
-| Scientist hero       | Explorer with skills and knowledge flavor |
-| Energy-wielding hero | Adept with combat flavor                  |
-| Wizard               | Adept                                     |
-| Mentalist            | Adept                                     |
-| Psychic ninja        | Warrior with magic flavor                 |
+| Role                   | Type                                        |
+| ---------------------- | ------------------------------------------- |
+| Strong hero            | Warrior                                     |
+| Brawler hero           | Warrior with stealth flavor                 |
+| Gadget hero            | Explorer with technology flavor             |
+| Pilot                  | Explorer with technology flavor             |
+| Charmer                | Speaker                                     |
+| Leader                 | Speaker with combat flavor                  |
+| Shadowy vigilante      | Explorer with stealth flavor                |
+| Scientist hero         | Explorer with skills and knowledge flavor   |
+| Energy-wielding hero   | Adept with combat flavor                    |
+| Wizard                 | Adept                                       |
+| Mentalist              | Adept                                       |
+| Psychic ninja          | Warrior with magic flavor                   |
 
 ## Basic Creatures and Npcs for a Superhero Game
 >**Dog, guard:** level 3, attacks and perception as level 4
@@ -113,30 +119,30 @@ The Cypher System Rulebook gives a few examples of how, in the superhero genre, 
 ### Feats of Strength
 Use the following table to estimate the difficulty of various incredible feats of physical strength.
 
-| Difficulty	Lifting Task                                              |                    |                     |                      |                        |
-|----------------------------------------------------------------------|--------------------|---------------------|----------------------|------------------------|
-| 4	Lift a 150-pound (68 kg) object                                    |                    |                     |                      |                        |
-| 9	Lift a 400-pound (180 kg) object                                   |                    |                     |                      |                        |
-| 10	Lift a 1-ton (1 tonne) car or traffic copter                      |                    |                     |                      |                        |
-| 11	Lift a 5-ton (4.5 tonne) ambulance                                | private jet        | elephant            | or Tyrannosaurus rex |                        |
-| 12	Lift a 10-ton (9 tonne) school bus                                | combat helicopter  | triceratops         | or 5-foot boulder    |                        |
-| 13	Lift a 20-ton (18 tonne) fire truck                               | mobile home        | fighter jet         | Apatosaurus          | or light military tank |
-| 14	Lift a 40-ton (36 tonne) humpback whale or loaded tractor-trailer |                    |                     |                      |                        |
-| 15	Lift an 80-ton (72 tonne) space shuttle                           | single-story house | passenger train car | or military tank     |                        |
+| Difficulty	Lifting Task                                                |                      |                       |                        |                          |
+| ---------------------------------------------------------------------- | -------------------- | --------------------- | ---------------------- | ------------------------ |
+| 4	Lift a 150-pound (68 kg) object                                      |                      |                       |                        |                          |
+| 9	Lift a 400-pound (180 kg) object                                     |                      |                       |                        |                          |
+| 10	Lift a 1-ton (1 tonne) car or traffic copter                        |                      |                       |                        |                          |
+| 11	Lift a 5-ton (4.5 tonne) ambulance                                  | private jet          | elephant              | or Tyrannosaurus rex   |                          |
+| 12	Lift a 10-ton (9 tonne) school bus                                  | combat helicopter    | triceratops           | or 5-foot boulder      |                          |
+| 13	Lift a 20-ton (18 tonne) fire truck                                 | mobile home          | fighter jet           | Apatosaurus            | or light military tank   |
+| 14	Lift a 40-ton (36 tonne) humpback whale or loaded tractor-trailer   |                      |                       |                        |                          |
+| 15	Lift an 80-ton (72 tonne) space shuttle                             | single-story house   | passenger train car   | or military tank       |                          |
 
-| Task Circumstances                                               | Difficulty |
-|------------------------------------------------------------------|------------|
-| Lifting the object as high as the character can reach            | +0         |
-| Lifting the object only partway off the ground                   | -1         |
-| Asset (lever, jack, etc.)                                        | -1 or -2   |
-| Help from another character (asset)                              | -1 or -2   |
-| Large character (double human size)                              | -1*        |
-| Carrying an object an immediate distance                         | +0         |
-| Carrying an object a short distance                              | +1         |
-| Pushing or pulling (not lifting) an object an immediate distance | -1         |
-| Pushing or pulling (not lifting) an object a short distance      | +0         |
-| Pushed or pulled object can roll or slide very easily            | -1         |
-| Pushed or pulled object is buoyant and moving through water      | -1         |
+| Task Circumstances                                                 | Difficulty   |
+| ------------------------------------------------------------------ | ------------ |
+| Lifting the object as high as the character can reach              | +0           |
+| Lifting the object only partway off the ground                     | -1           |
+| Asset (lever, jack, etc.)                                          | -1 or -2     |
+| Help from another character (asset)                                | -1 or -2     |
+| Large character (double human size)                                | -1*          |
+| Carrying an object an immediate distance                           | +0           |
+| Carrying an object a short distance                                | +1           |
+| Pushing or pulling (not lifting) an object an immediate distance   | -1           |
+| Pushing or pulling (not lifting) an object a short distance        | +0           |
+| Pushed or pulled object can roll or slide very easily              | -1           |
+| Pushed or pulled object is buoyant and moving through water        | -1           |
 
 * Each additional doubling of the character’s size eases the task by another step.
 Some character abilities are able to move heavy things, often more easily than brute physical strength can. If a superhero wants to push the limits of what those abilities can do, the GM can compare the baseline effects of those abilities to the Feats of Strength table to determine the comparable difficulty of the task, and modify the character’s roll to succeed.
@@ -146,17 +152,17 @@ but not an all-out run. A character can try to run a long distance (100 feet [30
 
 Of course, superheroes aren’t normal people—they’re exceptional, and some can run as fast as Olympic athletes, or much faster. For a character trying to run more than a long distance as their entire action, use the following table to determine the difficulty for the task. Failing this roll is just like failing the basic running roll described above.
 
-| Difficulty | Running Distance   | Notes                                   |
-|------------|--------------------|-----------------------------------------|
-| 6          | 200 feet (60 m)    | 19 mph (30 kph)                         |
-| 8          | 250 feet (76 m)    | 24 mph (39 kph); bear, Olympic sprinter |
-| 9          | 340 feet (104 m)   | 33 mph (53 kph); cat, coyote, greyhound |
-| 10         | 400 feet (120 m)   | 49 mph (79 kph); horse, tiger           |
-| 11         | 700 feet (210 m)   | 68 mph (110 kph); cheetah               |
-| 12         | 1,400 feet (430 m) | 136 mph (220 kph)                       |
-| 13         | 2,800 feet (850 m) | 273 mph (440 kph)                       |
-| 14         | 1 mile (1.5 km)    | 545 mph (880 kph); Boeing 747           |
-| 15         | 2 miles (3 km)     | 1,600 mph (2,575 kph); Mach 2           |
+| Difficulty   | Running Distance     | Notes                                     |
+| ------------ | -------------------- | ----------------------------------------- |
+| 6            | 200 feet (60 m)      | 19 mph (30 kph)                           |
+| 8            | 250 feet (76 m)      | 24 mph (39 kph); bear, Olympic sprinter   |
+| 9            | 340 feet (104 m)     | 33 mph (53 kph); cat, coyote, greyhound   |
+| 10           | 400 feet (120 m)     | 49 mph (79 kph); horse, tiger             |
+| 11           | 700 feet (210 m)     | 68 mph (110 kph); cheetah                 |
+| 12           | 1,400 feet (430 m)   | 136 mph (220 kph)                         |
+| 13           | 2,800 feet (850 m)   | 273 mph (440 kph)                         |
+| 14           | 1 mile (1.5 km)      | 545 mph (880 kph); Boeing 747             |
+| 15           | 2 miles (3 km)       | 1,600 mph (2,575 kph); Mach 2             |
 
 ### Tremendous Leaps
 Some—but not all—strong superheroes can easily leap dozens or hundreds of feet, well beyond what’s possible with the jumping rules (running a short distance and jumping 30 feet [9 m] is a difficulty 10 task). Characters who want to jump huge distances like that should take the Amazing Leap ability, allowing them to jump a long distance or more.
@@ -167,15 +173,15 @@ To make superhero character jumps a bit more exciting, the GM can implement an o
 ### Powerful Creatures
 Superheroes don’t just stop bank robbers and fight supervillains—sometimes they face giant robots, alien space monsters, or so-called gods. GMs can use the following examples to estimate the level and challenges for such threats.
 
-| Level | Example                                                                      |
-|-------|------------------------------------------------------------------------------|
-| 9     | Demigod                                                                      |
-| 10    | Kaiju 300 feet (90 m) tall                                                   |
-| 11    | Robot 1,000 feet (300 m) tall                                                |
-| 12    | Vampire blood god                                                            |
-| 13    | Legendary monster*                                                           |
-| 14    | Archangel, demon prince, typical god or goddess**, multidimensional sorcerer |
-| 15    | Moon-sized space monster, pantheon leader***                                 |
+| Level   | Example                                                                        |
+| ------- | ------------------------------------------------------------------------------ |
+| 9       | Demigod                                                                        |
+| 10      | Kaiju 300 feet (90 m) tall                                                     |
+| 11      | Robot 1,000 feet (300 m) tall                                                  |
+| 12      | Vampire blood god                                                              |
+| 13      | Legendary monster*                                                             |
+| 14      | Archangel, demon prince, typical god or goddess**, multidimensional sorcerer   |
+| 15      | Moon-sized space monster, pantheon leader***                                   |
 
 \* A primordial monster (such as Echidna or Typhon) or a powerful creature associated with the end of the world (such as Jörmungandr or Fenris).
 
@@ -210,21 +216,17 @@ Sometimes a group of superheroes needs special equipment so they can participate
 ### Power Boost Cyphers
 This section introduces two new power boost cyphers, and consolidates the two efficacy boost cyphers in the Cypher System Rulebook into one cypher with variable effects based on cypher level.
 
-| 01-10 | Area boost     |
-|-------|----------------|
-| 11-20 | [[Burst-Boost\|Burst Boost]]    |
-| 21-30 | [[Damage-Boost\|Damage Boost]]   |
-| 31-40 | [[Efficacy-Boost\|Efficacy Boost]] |
-| 41-50 | [[Energy-Boost\|Energy Boost]]   |
-| 51-60 | [[Range-Boost\|Range Boost]]    |
-| 61-80 | [[Shift-Boost\|Shift Boost]]    |
-| 81-90 | [[Stunt-Boost\|Stunt Boost]]    |
-| 91-00 | [[Target-Boost\|Target Boost]]   |
+| 01-10   | Area boost        |                  |
+| ------- | ----------------- | ---------------- |
+| 11-20   | [[Burst-Boost\    | Burst Boost]]    |
+| 21-30   | [[Damage-Boost\   | Damage Boost]]   |
+| 31-40   | [[Efficacy-Boost\ | Efficacy Boost]] |
+| 41-50   | [[Energy-Boost\   | Energy Boost]]   |
+| 51-60   | [[Range-Boost\    | Range Boost]]    |
+| 61-80   | [[Shift-Boost\    | Shift Boost]]    |
+| 81-90   | [[Stunt-Boost\    | Stunt Boost]]    |
+| 91-00   | [[Target-Boost\   | Target Boost]]   |
 
 ### Artifacts
 
->```dataview
->LIST 
->FROM #Artifact/Superhero 
->SORT file.name
->```
+

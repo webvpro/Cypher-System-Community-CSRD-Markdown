@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Meta
+id: Usurp-Cypher
 ---
 ## Usurp Cypher    
 >**Action**  

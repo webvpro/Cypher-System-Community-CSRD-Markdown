@@ -22,6 +22,7 @@ pools:
 categories:
   - Meta
   - Social
+id: Perfect-Stranger
 ---
 ## Perfect Stranger    
 >**Action**    

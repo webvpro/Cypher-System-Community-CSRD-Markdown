@@ -8,6 +8,7 @@ tags:
 title: Detonation Gravity
 collection: Cyphers
 kind: Cypher
+id: Detonation-Gravity
 ---
 ## Detonation Gravity    
 >[!info] Stats    

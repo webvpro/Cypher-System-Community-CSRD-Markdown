@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - ''
+id: Heroic-Witch-Bane
 ---
 ## Heroic Witch Bane                                                       
 >**Enabler**    

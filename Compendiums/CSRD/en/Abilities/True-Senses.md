@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Senses
+id: True-Senses
 ---
 ## True Senses    
 >**Enabler**  

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Body Armor, Lightweight
+  - 'Body Armor, Lightweight'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Expensive
   - Equipment/Armor/Heavy
-title: Body Armor, Lightweight
+title: 'Body Armor, Lightweight'
 collection: Equipment
 kind: Equipment
+id: Body-Armor-Lightweight
 ---
 ## Body Armor, Lightweight    
     

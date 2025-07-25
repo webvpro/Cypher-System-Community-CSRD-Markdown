@@ -1,7 +1,10 @@
 ---
-aliases: "Sample Character Arcs"
-tags: 
-- Compendium/CSRD/en/Rules/Character-Arcs
+aliases:
+  - Sample Character Arcs
+tags:
+  - Compendium/CSRD/en/Rules/Character-Arcs
+id: Sample-Character-Arcs
+title: Sample Character Arcs
 ---
 
 ## Sample Character Arcs
@@ -28,7 +31,4 @@ The following are common character arcs that you can choose for your character. 
 This chapter has a selection of sample character arcs, but you can create your own too. The arcs are intentionally broad to encompass many different characters and stories. For example, Revenge is a very simple and straightforward character arc. The player who chooses this arc for their character decides who they want revenge on, and why. It’s up to the players and the GM to make the details fit.
 >Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
 
->```dataview
->LIST 
->FROM #Character-Arc  
->```
+

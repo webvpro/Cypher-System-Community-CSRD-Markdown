@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Witchs-Ladder
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Witch's Ladder
 collection: Cyphers
 kind: Cypher
+id: Witchs-Ladder
+categories:
+  - Fairytale
 ---
 ## Witch's Ladder    
 >[!info] Stats    

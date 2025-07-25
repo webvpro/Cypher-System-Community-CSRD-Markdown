@@ -9,6 +9,7 @@ title: Storm Shack
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Storm-Shack
 ---
 ## Storm Shack    
 >[!info] Stats    

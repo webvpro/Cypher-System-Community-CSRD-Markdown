@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Take-Command
 ---
 ## Take Command    
 >**Action**    

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/24
+  - Content/Horror
 title: Werewolf
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 0
 health: 24
+id: Werewolf
+categories:
+  - Horror
 ---
 ## Werewolf    
 The curse of lycanthropy begins as nightmares about being chased or, somehow more terrifying, chasing someone else. As the dreams grow more fierce and each night's sleep provides less rest, victims begin to wonder about the bloodstains on their clothing, the strange claw marks in their homes, and eventually, the mutilated bodies they find buried in their backyards.  

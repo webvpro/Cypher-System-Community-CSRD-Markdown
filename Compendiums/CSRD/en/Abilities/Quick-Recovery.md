@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Cure
+id: Quick-Recovery
 ---
 ## Quick Recovery    
 >**Enabler**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Resonant-Quake
 ---
 ## Resonant Quake    
 >**Action**    

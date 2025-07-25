@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Teleport Hat
 collection: Cyphers
 kind: Cypher
+id: Teleport-Hat
+categories:
+  - Fairytale
 ---
 ## Teleport Hat    
 >[!info] Stats    

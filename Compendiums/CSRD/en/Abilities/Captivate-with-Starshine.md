@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Control
+id: Captivate-with-Starshine
 ---
 ## Captivate With Starshine    
 >**Action**  

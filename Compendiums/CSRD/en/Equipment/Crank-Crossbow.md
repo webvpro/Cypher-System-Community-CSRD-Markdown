@@ -11,6 +11,7 @@ tags:
 title: Crank Crossbow
 collection: Equipment
 kind: Equipment
+id: Crank-Crossbow
 ---
 ## Crank Crossbow    
     

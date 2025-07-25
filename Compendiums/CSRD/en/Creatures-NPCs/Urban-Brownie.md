@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 9
+id: Urban-Brownie
 ---
 ## Urban Brownie  
 While most people are familiar with rural brownies with their wizened, ragged appearance and their penchant for helping with farming tasks, the urban brownie is a very different type of entity. Having adapted to live in cities and decent-sized towns, urban brownies tend to care much more about their appearance and prefer less outdoorsy forms of labor.   

@@ -7,6 +7,7 @@ tags:
 title: Foolish
 collection: Descriptors
 kind: Descriptor
+id: Foolish
 ---
 ## Foolish    
 Not everyone can be brilliant. Oh, you don't think of yourself as stupid, and you're not. It's just that others might have a bit more . . . wisdom. Insight. You prefer to barrel along headfirst through life and let other people worry about things. Worrying's never helped you, so why bother? You take things at face value and don't fret about what tomorrow might bring.  

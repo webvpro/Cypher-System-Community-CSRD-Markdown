@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Meta
+id: Double-Strike
 ---
 ## Double Strike    
 >**Action**    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Sub, Waterglide
+  - 'Sub, Waterglide'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Exorbitant
-title: Sub, Waterglide
+title: 'Sub, Waterglide'
 collection: Equipment
 kind: Equipment
+id: Sub-Waterglide
 ---
 ## Sub, Waterglide    
     

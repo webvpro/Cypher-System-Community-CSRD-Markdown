@@ -8,6 +8,7 @@ tags:
 title: Range Boost
 collection: Cyphers
 kind: Cypher
+id: Range-Boost
 ---
 ## Range Boost    
 >[!info] Stats    

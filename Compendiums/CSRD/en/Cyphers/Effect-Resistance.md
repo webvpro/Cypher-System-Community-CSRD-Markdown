@@ -8,6 +8,7 @@ tags:
 title: Effect Resistance
 collection: Cyphers
 kind: Cypher
+id: Effect-Resistance
 ---
 ## Effect Resistance    
 >[!info] Stats    

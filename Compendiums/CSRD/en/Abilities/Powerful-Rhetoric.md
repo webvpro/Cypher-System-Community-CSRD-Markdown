@@ -22,6 +22,7 @@ pools:
 categories:
   - Social
   - Task
+id: Powerful-Rhetoric
 ---
 ## Powerful Rhetoric    
 >**Action**    

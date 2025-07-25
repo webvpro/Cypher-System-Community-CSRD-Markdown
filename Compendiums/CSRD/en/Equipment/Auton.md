@@ -11,6 +11,7 @@ tags:
 title: Auton
 collection: Equipment
 kind: Equipment
+id: Auton
 ---
 ## Auton    
     

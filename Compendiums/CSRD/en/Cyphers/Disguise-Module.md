@@ -8,6 +8,7 @@ tags:
 title: Disguise Module
 collection: Cyphers
 kind: Cypher
+id: Disguise-Module
 ---
 ## Disguise Module    
 >[!info] Stats    

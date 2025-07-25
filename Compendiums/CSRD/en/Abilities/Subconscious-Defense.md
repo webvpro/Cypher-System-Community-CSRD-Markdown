@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Subconscious-Defense
 ---
 ## Subconscious Defense    
 >**Enabler**  

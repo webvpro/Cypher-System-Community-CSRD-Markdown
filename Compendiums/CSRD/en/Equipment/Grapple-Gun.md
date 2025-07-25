@@ -12,6 +12,7 @@ tags:
 title: Grapple Gun
 collection: Equipment
 kind: Equipment
+id: Grapple-Gun
 ---
 ## Grapple Gun    
     

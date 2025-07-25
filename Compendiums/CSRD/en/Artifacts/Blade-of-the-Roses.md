@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Blade-of-the-Roses
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Blade of the Roses
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Blade-of-the-Roses
+contentCategory: Modern Magic Artifacts
 ---
 ## Blade of the Roses  
 #### Level   

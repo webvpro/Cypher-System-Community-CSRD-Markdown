@@ -8,6 +8,7 @@ tags:
 title: Teleporter Planetary
 collection: Cyphers
 kind: Cypher
+id: Teleporter-Planetary
 ---
 ## Teleporter Planetary    
 >[!info] Stats    

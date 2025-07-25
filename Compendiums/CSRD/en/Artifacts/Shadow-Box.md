@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Horror
+  - Content/Horror
 title: Shadow Box
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Horror
+id: Shadow-Box
 ---
 ## Shadow Box    
 >[!info] Stats    

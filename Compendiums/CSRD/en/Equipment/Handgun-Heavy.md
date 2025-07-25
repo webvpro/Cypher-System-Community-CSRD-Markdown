@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Handgun, Heavy
+  - 'Handgun, Heavy'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
@@ -15,9 +15,10 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Heavy
   - Equipment/Range/Long
-title: Handgun, Heavy
+title: 'Handgun, Heavy'
 collection: Equipment
 kind: Equipment
+id: Handgun-Heavy
 ---
 ## Handgun, Heavy    
     

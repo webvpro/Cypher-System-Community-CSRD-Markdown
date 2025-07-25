@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Auton, Medical
+  - 'Auton, Medical'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Auton, Medical
+title: 'Auton, Medical'
 collection: Equipment
 kind: Equipment
+id: Auton-Medical
 ---
 ## Auton, Medical    
     

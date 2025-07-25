@@ -8,6 +8,7 @@ tags:
 title: Animal Control
 collection: Cyphers
 kind: Cypher
+id: Animal-Control
 ---
 ## Animal Control    
 >[!info] Stats    

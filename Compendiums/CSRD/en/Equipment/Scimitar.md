@@ -10,6 +10,7 @@ tags:
 title: Scimitar
 collection: Equipment
 kind: Equipment
+id: Scimitar
 ---
 ## Scimitar    
     

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Irregular
+  - Content/Fantasy
 title: Masters Spells
 collection: Foci
 kind: Focus
+id: Masters-Spells
+categories:
+  - Fantasy
 ---
 ## Masters Spells    
 By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.    

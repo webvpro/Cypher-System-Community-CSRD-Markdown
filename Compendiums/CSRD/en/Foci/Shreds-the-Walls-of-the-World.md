@@ -7,6 +7,7 @@ tags:
 title: Shreds the Walls of the World
 collection: Foci
 kind: Focus
+id: Shreds-the-Walls-of-the-World
 ---
 ## Shreds the Walls of the World    
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.    

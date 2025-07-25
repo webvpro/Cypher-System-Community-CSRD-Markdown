@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Protection
+id: Parry
 ---
 ## Parry    
 >**Enabler**    

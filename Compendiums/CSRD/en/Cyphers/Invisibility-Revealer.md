@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Invisibility Revealer
 collection: Cyphers
 kind: Cypher
+id: Invisibility-Revealer
+categories:
+  - Horror
 ---
 ## Invisibility Revealer    
 >[!info] Stats    

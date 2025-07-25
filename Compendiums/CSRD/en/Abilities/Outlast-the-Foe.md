@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Task
+id: Outlast-the-Foe
 ---
 ## Outlast the Foe    
 >**Enabler**  

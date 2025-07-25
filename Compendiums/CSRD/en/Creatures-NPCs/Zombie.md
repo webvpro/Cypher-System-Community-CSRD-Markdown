@@ -8,12 +8,16 @@ tags:
   - Creature/Level/3
   - Creature/Armor/0
   - Creature/Health/12
+  - Content/Horror
 title: Zombie
 collection: Creatures-NPCs
 kind: Creature
 level: 3
 armor: 0
 health: 12
+id: Zombie
+categories:
+  - Horror
 ---
 ## Zombie    
 Humans transformed into aggressive, hard-to-kill serial killers with no memory of their former existence are called zombies. Depending on a zombie's origin, the reason for its transformation varies. A zombie might arise from an undead curse, a psychic possession, an AI meatware overwrite, a viral infection, a drug overdose, or something else. Regardless of how the transformation happened, the result is much the same: a creature whose humanity has been burned out and replaced with unquenchable hunger.  

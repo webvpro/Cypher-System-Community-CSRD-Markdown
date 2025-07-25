@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Wizard, Mighty
+  - 'Wizard, Mighty'
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
   - Creature
@@ -8,12 +8,13 @@ tags:
   - Creature/Level/8
   - Creature/Armor/0
   - Creature/Health/40
-title: Wizard, Mighty
+title: 'Wizard, Mighty'
 collection: Creatures-NPCs
 kind: NPC
 level: 8
 armor: 0
 health: 40
+id: 'Wizard,-Mighty'
 ---
 ## Wizard, Mighty    
 Some wizards learn so many spells and accumulate so much lore that they become incredibly powerful. Some work for a higher purpose, whereas others are concerned only with themselves.    

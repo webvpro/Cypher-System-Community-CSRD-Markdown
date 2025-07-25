@@ -11,6 +11,7 @@ tags:
 title: VTOL Hyperjet
 collection: Equipment
 kind: Equipment
+id: VTOL-Hyperjet
 ---
 ## VTOL Hyperjet    
     

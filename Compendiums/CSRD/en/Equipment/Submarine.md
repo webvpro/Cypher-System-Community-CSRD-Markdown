@@ -11,6 +11,7 @@ tags:
 title: Submarine
 collection: Equipment
 kind: Equipment
+id: Submarine
 ---
 ## Submarine    
     

@@ -11,6 +11,7 @@ tags:
 title: Colossal Battle Mech
 collection: Equipment
 kind: Equipment
+id: Colossal-Battle-Mech
 ---
 ## Colossal Battle Mech    
     

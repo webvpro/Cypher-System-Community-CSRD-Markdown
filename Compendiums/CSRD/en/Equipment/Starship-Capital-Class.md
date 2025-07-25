@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Capital Class
+  - 'Starship, Capital Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/7
   - Equipment/Value/Priceless
-title: Starship, Capital Class
+title: 'Starship, Capital Class'
 collection: Equipment
 kind: Equipment
+id: Starship-Capital-Class
 ---
 ## Starship, Capital Class    
     

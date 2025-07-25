@@ -9,6 +9,7 @@ tags:
 title: Burlap Sack
 collection: Equipment
 kind: Equipment
+id: Burlap-Sack
 ---
 ## Burlap Sack    
     

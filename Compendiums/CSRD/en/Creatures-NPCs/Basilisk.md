@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 1
 health: 15
+id: Basilisk
 ---
 ## Basilisk    
 A basilisk is a magical kind of serpent that resembles a cobra, has a series of scales on its head like a crown, and crawls upright instead of slithering on its belly. It feeds on snakes and other creatures smaller than itself, relying on its poisonous aura to weaken and kill its prey. It is known to make an unnerving growl instead of a typical snake hiss. An adult basilisk is 10 to 18 feet (3 to 5.5 m) long.    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Auton, Military Drone
+  - 'Auton, Military Drone'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Auton, Military Drone
+title: 'Auton, Military Drone'
 collection: Equipment
 kind: Equipment
+id: Auton-Military-Drone
 ---
 ## Auton, Military Drone    
     

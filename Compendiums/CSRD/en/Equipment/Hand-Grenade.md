@@ -12,6 +12,7 @@ tags:
 title: Hand Grenade
 collection: Equipment
 kind: Equipment
+id: Hand-Grenade
 ---
 ## Hand Grenade    
     

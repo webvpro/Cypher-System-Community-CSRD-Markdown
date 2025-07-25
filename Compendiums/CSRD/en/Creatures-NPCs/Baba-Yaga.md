@@ -7,12 +7,16 @@ tags:
   - Creature/Kind/Creature
   - Creature/Level/9
   - Creature/Armor/0
+  - Content/Fairytale
 title: Baba Yaga
 collection: Creatures-NPCs
 kind: Creature
 level: 9
 armor: 0
 health: NA
+id: Baba-Yaga
+categories:
+  - Fairytale
 ---
 ## Baba Yaga  
   

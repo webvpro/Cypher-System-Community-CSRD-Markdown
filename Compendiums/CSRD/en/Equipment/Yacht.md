@@ -11,6 +11,7 @@ tags:
 title: Yacht
 collection: Equipment
 kind: Equipment
+id: Yacht
 ---
 ## Yacht    
     

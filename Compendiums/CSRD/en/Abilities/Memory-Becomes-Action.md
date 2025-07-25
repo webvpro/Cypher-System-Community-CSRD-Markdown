@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - NA
+id: Memory-Becomes-Action
 ---
 ## Memory Becomes Action    
 >**Enabler**    

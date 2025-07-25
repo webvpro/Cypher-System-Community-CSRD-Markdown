@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Confuse-Enemy
 ---
 ## Confuse Enemy    
 >**Enabler**    

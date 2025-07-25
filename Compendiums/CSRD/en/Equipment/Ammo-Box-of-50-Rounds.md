@@ -11,6 +11,7 @@ tags:
 title: Ammo (Box of 50 Rounds)
 collection: Equipment
 kind: Equipment
+id: Ammo-Box-of-50-Rounds
 ---
 ## Ammo (Box of 50 Rounds)    
     

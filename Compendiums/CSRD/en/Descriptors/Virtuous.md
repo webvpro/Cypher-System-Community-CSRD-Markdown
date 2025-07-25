@@ -7,6 +7,7 @@ tags:
 title: Virtuous
 collection: Descriptors
 kind: Descriptor
+id: Virtuous
 ---
 ## Virtuous    
 Doing the right thing is a way of life. You live by a code, and that code is something you attend to every day. Whenever you slip, you reproach yourself for your weakness and then get right back on track. Your code probably includes moderation, respect for others, cleanliness, and other characteristics that most people would agree are virtues, while you eschew their opposites: sloth, greed, gluttony, and so on.  

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Horrific Orifice
 collection: Cyphers
 kind: Cypher
+id: Horrific-Orifice
+categories:
+  - Horror
 ---
 ## Horrific Orifice    
 >[!info] Stats    

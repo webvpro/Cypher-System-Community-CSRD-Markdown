@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Drink Me
 collection: Cyphers
 kind: Cypher
+id: Drink-Me
+categories:
+  - Fairytale
 ---
 ## Drink Me    
 >[!info] Stats    

@@ -14,6 +14,7 @@ tags:
 title: Wooden Club
 collection: Equipment
 kind: Equipment
+id: Wooden-Club
 ---
 ## Wooden Club    
     

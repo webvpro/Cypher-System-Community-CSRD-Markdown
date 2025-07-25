@@ -8,6 +8,7 @@ title: Mysterious Background
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Mysterious-Background
 ---
 ## Mysterious Background  
 >You don’t know who your parents were, but you want to find out. The mystery might be something other than your parentage, but that’s a common theme in this kind of arc. You want to know where you come from—there’s some kind of mystery in your past.   

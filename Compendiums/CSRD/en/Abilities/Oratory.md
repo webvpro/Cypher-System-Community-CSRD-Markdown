@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Oratory
 ---
 ## Oratory    
 >**Action**    

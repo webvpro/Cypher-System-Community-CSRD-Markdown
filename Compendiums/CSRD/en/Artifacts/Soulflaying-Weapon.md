@@ -9,6 +9,7 @@ title: Soulflaying Weapon
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Soulflaying-Weapon
 ---
 ## Soulflaying Weapon    
 >[!info] Stats    

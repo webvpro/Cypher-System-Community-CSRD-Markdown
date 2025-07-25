@@ -8,6 +8,7 @@ tags:
 title: Monoblade
 collection: Cyphers
 kind: Cypher
+id: Monoblade
 ---
 ## Monoblade    
 >[!info] Stats    

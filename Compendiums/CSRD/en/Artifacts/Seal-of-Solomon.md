@@ -9,6 +9,7 @@ title: Seal of Solomon
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Seal-of-Solomon
 ---
 ## Seal of Solomon    
 >[!info] Stats    

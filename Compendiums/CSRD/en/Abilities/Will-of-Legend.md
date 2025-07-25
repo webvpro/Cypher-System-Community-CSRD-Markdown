@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Cure
+id: Will-of-Legend
 ---
 ## Will of Legend    
 >**Enabler**  

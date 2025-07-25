@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Increased-Effects
 ---
 ## Increased Effects    
 >**Enabler**  

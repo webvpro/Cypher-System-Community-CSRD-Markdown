@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 2
 health: 18
+id: Giant-Snake
 ---
 ## Giant Snake    
 Those about to stumble into the presence of a giant snake at least 50 feet (15 m) long are warned by the skin it shed and discarded and by the cracked, slippery bones of digested victims.    

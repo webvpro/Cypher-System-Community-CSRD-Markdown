@@ -8,6 +8,7 @@ tags:
 title: Water Adapter
 collection: Cyphers
 kind: Cypher
+id: Water-Adapter
 ---
 ## Water Adapter    
 >[!info] Stats    

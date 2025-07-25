@@ -9,6 +9,7 @@ title: Enchanted Armor
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Enchanted-Armor
 ---
 ## Enchanted Armor    
 >[!info] Stats    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Blaster, Light
+  - 'Blaster, Light'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Long
-title: Blaster, Light
+title: 'Blaster, Light'
 collection: Equipment
 kind: Equipment
+id: Blaster-Light
 ---
 ## Blaster, Light    
     

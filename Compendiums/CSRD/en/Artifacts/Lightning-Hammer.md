@@ -9,6 +9,7 @@ title: Lightning Hammer
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Lightning-Hammer
 ---
 ## Lightning Hammer    
 >[!info] Stats    

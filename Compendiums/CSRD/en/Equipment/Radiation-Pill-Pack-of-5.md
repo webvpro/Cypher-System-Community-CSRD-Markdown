@@ -9,6 +9,7 @@ tags:
 title: Radiation Pill (Pack of 5)
 collection: Equipment
 kind: Equipment
+id: Radiation-Pill-Pack-of-5
 ---
 ## Radiation Pill (Pack of 5)    
     

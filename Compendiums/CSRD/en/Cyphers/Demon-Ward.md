@@ -8,6 +8,7 @@ tags:
 title: Demon Ward
 collection: Cyphers
 kind: Cypher
+id: Demon-Ward
 ---
 ## Demon Ward    
 >[!info] Stats    

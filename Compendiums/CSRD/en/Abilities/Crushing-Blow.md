@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Meta
+id: Crushing-Blow
 ---
 ## Crushing Blow    
 >**Action**    

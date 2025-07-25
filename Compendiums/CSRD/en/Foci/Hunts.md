@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Hunts
 collection: Foci
 kind: Focus
+id: Hunts
+categories:
+  - Fantasy
 ---
 ## Hunts    
 You are a stalking hunter who excels at bringing down your selected quarry.    

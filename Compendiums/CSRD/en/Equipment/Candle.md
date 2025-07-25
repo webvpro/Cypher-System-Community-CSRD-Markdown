@@ -13,6 +13,7 @@ tags:
 title: Candle
 collection: Equipment
 kind: Equipment
+id: Candle
 ---
 ## Candle    
     

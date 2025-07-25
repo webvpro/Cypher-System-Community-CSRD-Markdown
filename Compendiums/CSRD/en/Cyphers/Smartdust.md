@@ -7,6 +7,7 @@ tags:
 title: Smartdust
 collection: Cyphers
 kind: Cypher
+id: Smartdust
 ---
 ## Smartdust    
 >[!info] Stats    

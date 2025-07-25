@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
 title: Ignores Physical Distance
 collection: Foci
 kind: Focus
+id: Ignores-Physical-Distance
+categories:
+  - Superhero
 ---
 ## Ignores Physical Distance    
 You can teleport from one place to another by briefly passing through a parallel dimension.    

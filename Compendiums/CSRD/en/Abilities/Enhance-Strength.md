@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Task
+id: Enhance-Strength
 ---
 ## Enhance Strength    
 >**Action**    

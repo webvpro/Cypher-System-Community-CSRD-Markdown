@@ -8,6 +8,7 @@ tags:
 title: Poison Mind Disrupting
 collection: Cyphers
 kind: Cypher
+id: Poison-Mind-Disrupting
 ---
 ## Poison Mind Disrupting    
 >[!info] Stats    

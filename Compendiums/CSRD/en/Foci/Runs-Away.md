@@ -7,6 +7,7 @@ tags:
 title: Runs Away
 collection: Foci
 kind: Focus
+id: Runs-Away
 ---
 ## Runs Away    
 Your first instinct is to run from danger, and you've gotten very good at it.    

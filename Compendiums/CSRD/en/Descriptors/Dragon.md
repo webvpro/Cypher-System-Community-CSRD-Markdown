@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors/Dragon
   - Descriptor/Species
+  - Content/Modern-Magic
 title: Dragon
 collection: Descriptors
 kind: Descriptor
+id: Dragon
+categories:
+  - Modern-Magic
 ---
 ## Dragon    
 You can shift at will between a dragon and humanoid form; you may choose to spend more time in one form or the other. In your dragon form you’re about 10 feet (3.5 m) long with four legs, leathery wings, and a serpentlike tail. You’re drawn to treasure and shiny things, but you’re willing to share your hoard with those you trust. Though you can speak human languages, you can’t ignore the fact that you’re a wild part of your local ecosystem—at least some of the time. You’re an apex predator, driven to fly and to hunt, and you burmite in cold temperatures like other reptiles.  

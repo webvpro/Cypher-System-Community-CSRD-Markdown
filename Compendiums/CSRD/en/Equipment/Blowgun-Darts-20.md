@@ -9,6 +9,7 @@ tags:
 title: Blowgun Darts (20)
 collection: Equipment
 kind: Equipment
+id: Blowgun-Darts-20
 ---
 ## Blowgun Darts (20)    
     

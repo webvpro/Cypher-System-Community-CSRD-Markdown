@@ -14,6 +14,7 @@ kind: NPC
 level: 6
 armor: 1
 health: 18
+id: Assassin
 ---
 ## Assassin    
 An assassin kills with poison, with high-velocity bullets from a distance, or by arranging for an unfortunate accident. Assassins accept contracts from governments, corporations, crime bosses, and aggrieved former partners, though some assassins pay themselves by tracking criminals anywhere to collect on "dead or alive" bounties.    

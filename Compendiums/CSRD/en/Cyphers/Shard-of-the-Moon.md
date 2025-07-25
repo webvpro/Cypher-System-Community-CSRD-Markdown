@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Shard of the Moon
 collection: Cyphers
 kind: Cypher
+id: Shard-of-the-Moon
+categories:
+  - Fairytale
 ---
 ## Shard of the Moon    
 >[!info] Stats    

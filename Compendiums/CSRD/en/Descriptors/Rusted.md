@@ -7,6 +7,7 @@ tags:
 title: Rusted
 collection: Descriptors
 kind: Descriptor
+id: Rusted
 ---
 ## Rusted    
 Life has dealt you some hard knocks. You lost an eye, an arm, or a leg several years ago, possibly during the apocalypse itself, or perhaps afterward. But you didn't give up. You adjusted, learning to do everything again, despite what first seemed like a limitation. If you lost a limb, you use a prosthetic; if an eye, you sometimes quip that binocular vision is overrated. Sure, there are times when you struggle with discomfort, pain, and possibly even self-consciousness. However, overcoming all that only makes you stronger and more determined to succeed. Ultimately, your scars, your prosthetic (if any), and your story represent who you are: a survivor who overcomes whatever is thrown your way.  

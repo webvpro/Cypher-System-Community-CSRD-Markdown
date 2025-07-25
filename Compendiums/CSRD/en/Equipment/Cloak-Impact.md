@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Cloak, Impact
+  - 'Cloak, Impact'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Apparel-And-Armor
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive
   - Equipment/Armor/Heavy
-title: Cloak, Impact
+title: 'Cloak, Impact'
 collection: Equipment
 kind: Equipment
+id: Cloak-Impact
 ---
 ## Cloak, Impact    
     

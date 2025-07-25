@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/1
   - Creature/Health/12
+  - Content/Fairytale
 title: Nuppeppo
 collection: Creatures-NPCs
 kind: Creature
 level: 2
 armor: 1
 health: 12
+id: Nuppeppo
+categories:
+  - Fairytale
 ---
 ## Nuppeppo    
 Nuppeppos are animated lumps of human flesh that walk on vaguely defined limbs. They smell of decay and death. They're spotted in graveyards, battlefields, coroner's offices, and other places where the dead are kept or interred. When witnessed in other places, nuppeppos seem to wander streets aimlessly, sometimes alone, sometimes in groups, and sometimes following a living person who'd rather be left alone.  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Damn-the-Guilty
 ---
 ## Damn the Guilty    
 >**Action**    

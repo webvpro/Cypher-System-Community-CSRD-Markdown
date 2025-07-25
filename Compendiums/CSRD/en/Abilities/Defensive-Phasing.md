@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Defensive-Phasing
 ---
 ## Defensive Phasing    
 >**Action**    

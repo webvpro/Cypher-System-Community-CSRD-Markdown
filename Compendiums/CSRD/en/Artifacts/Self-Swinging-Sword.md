@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Self-Swinging Sword
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Self-Swinging-Sword
 ---
 ## Self-Swinging Sword    
 >[!info] Stats    

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Green Spectacles
 collection: Cyphers
 kind: Cypher
+id: Green-Spectacles
+categories:
+  - Fairytale
 ---
 ## Green Spectacles    
 >[!info] Stats    

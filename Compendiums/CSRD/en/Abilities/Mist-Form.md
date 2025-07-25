@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - ''
+id: Mist-Form
 ---
 ## Mist Form    
 >**Action**    

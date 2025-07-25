@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Concussive-Blast
 ---
 ## Concussive Blast    
 >**Action**    

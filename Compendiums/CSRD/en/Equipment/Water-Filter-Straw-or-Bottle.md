@@ -9,6 +9,7 @@ tags:
 title: Water Filter Straw or Bottle
 collection: Equipment
 kind: Equipment
+id: Water-Filter-Straw-or-Bottle
 ---
 ## Water Filter Straw or Bottle    
     

@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Galoshes of Fortune
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Galoshes-of-Fortune
 ---
 ## Galoshes of Fortune    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Information-Gathering
 ---
 ## Information Gathering    
 >**Action**    

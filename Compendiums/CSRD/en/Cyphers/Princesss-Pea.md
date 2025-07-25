@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Princesss
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Princess's Pea
 collection: Cyphers
 kind: Cypher
+id: Princesss-Pea
+categories:
+  - Fairytale
 ---
 ## Princess's Pea    
 >[!info] Stats    

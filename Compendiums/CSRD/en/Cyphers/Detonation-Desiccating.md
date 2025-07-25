@@ -8,6 +8,7 @@ tags:
 title: Detonation Desiccating
 collection: Cyphers
 kind: Cypher
+id: Detonation-Desiccating
 ---
 ## Detonation Desiccating    
 >[!info] Stats    

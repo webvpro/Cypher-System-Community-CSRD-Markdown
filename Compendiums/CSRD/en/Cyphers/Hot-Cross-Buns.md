@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Hot Cross Buns
 collection: Cyphers
 kind: Cypher
+id: Hot-Cross-Buns
+categories:
+  - Fairytale
 ---
 ## Hot Cross Buns    
 >[!info] Stats    

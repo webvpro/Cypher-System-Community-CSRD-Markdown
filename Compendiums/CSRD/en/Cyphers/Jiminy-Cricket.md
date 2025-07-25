@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Jiminy Cricket
 collection: Cyphers
 kind: Cypher
+id: Jiminy-Cricket
+categories:
+  - Fairytale
 ---
 ## Jiminy Cricket    
 >[!info] Stats    

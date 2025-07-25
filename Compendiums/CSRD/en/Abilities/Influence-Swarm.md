@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Influence-Swarm
 ---
 ## Influence Swarm    
 >**Action**    

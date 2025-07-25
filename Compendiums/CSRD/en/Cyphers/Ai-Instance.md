@@ -7,6 +7,7 @@ tags:
 title: Ai Instance
 collection: Cyphers
 kind: Cypher
+id: Ai-Instance
 ---
 ## Ai Instance    
 >[!info] Stats    

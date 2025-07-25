@@ -20,6 +20,7 @@ pools: []
 categories:
   - Social
   - Task
+id: Privileged-Nobility
 ---
 ## Privileged Nobility    
 >**Enabler**  

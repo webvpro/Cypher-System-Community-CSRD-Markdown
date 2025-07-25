@@ -20,6 +20,7 @@ pools: []
 categories:
   - Craft
   - Protection
+id: Poison-Crafter
 ---
 ## Poison Crafter    
 >**Enabler**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Destroy-Metal
 ---
 ## Destroy Metal    
 >**Action**    

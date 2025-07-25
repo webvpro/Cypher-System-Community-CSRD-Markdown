@@ -11,6 +11,7 @@ tags:
 title: Synth
 collection: Equipment
 kind: Equipment
+id: Synth
 ---
 ## Synth    
     

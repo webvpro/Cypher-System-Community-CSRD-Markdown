@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Knowing-the-Unknown
 ---
 ## Knowing the Unknown    
 >**Action**    

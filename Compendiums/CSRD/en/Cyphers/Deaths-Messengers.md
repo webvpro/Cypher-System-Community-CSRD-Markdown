@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Deaths-Messengers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Death's Messengers
 collection: Cyphers
 kind: Cypher
+id: Deaths-Messengers
+categories:
+  - Fairytale
 ---
 ## Death's Messengers    
 >[!info] Stats    

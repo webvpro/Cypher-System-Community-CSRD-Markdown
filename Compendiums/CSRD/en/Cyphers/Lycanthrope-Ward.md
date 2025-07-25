@@ -8,6 +8,7 @@ tags:
 title: Lycanthrope Ward
 collection: Cyphers
 kind: Cypher
+id: Lycanthrope-Ward
 ---
 ## Lycanthrope Ward    
 >[!info] Stats    

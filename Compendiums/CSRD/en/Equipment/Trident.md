@@ -10,6 +10,7 @@ tags:
 title: Trident
 collection: Equipment
 kind: Equipment
+id: Trident
 ---
 ## Trident    
     

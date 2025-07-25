@@ -11,6 +11,7 @@ tags:
 title: Sidekick Sphere
 collection: Equipment
 kind: Equipment
+id: Sidekick-Sphere
 ---
 ## Sidekick Sphere    
     

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Darning Needle
 collection: Cyphers
 kind: Cypher
+id: Darning-Needle
+categories:
+  - Fairytale
 ---
 ## Darning Needle    
 >[!info] Stats    

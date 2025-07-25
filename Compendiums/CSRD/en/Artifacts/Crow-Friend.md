@@ -5,10 +5,15 @@ tags:
   - Compendium/CSRD/en/Artifacts/Crow-Friend
   - Artifact
   - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
 title: Crow Friend
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Modern-Magic
+id: Crow-Friend
+contentCategory: Modern Magic Artifacts
 ---
 ## Crow Friend   
 >1d6 +4  

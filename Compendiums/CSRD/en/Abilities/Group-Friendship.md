@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Social
+id: Group-Friendship
 ---
 ## Group Friendship    
 >**Action**    

@@ -9,6 +9,7 @@ title: Coil of Endless Rope
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Coil-of-Endless-Rope
 ---
 ## Coil of Endless Rope    
 >[!info] Stats    

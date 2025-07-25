@@ -7,6 +7,7 @@ tags:
 title: Skills
 collection: Rules
 kind: Character
+id: Skills
 ---
 ## Skills  
   

@@ -8,6 +8,7 @@ tags:
 title: Thought Listening
 collection: Cyphers
 kind: Cypher
+id: Thought-Listening
 ---
 ## Thought Listening    
 >[!info] Stats    

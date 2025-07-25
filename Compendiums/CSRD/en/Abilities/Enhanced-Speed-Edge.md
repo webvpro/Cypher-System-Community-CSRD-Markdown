@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Enhanced-Speed-Edge
 ---
 ## Enhanced Speed Edge    
 >**Enabler**  

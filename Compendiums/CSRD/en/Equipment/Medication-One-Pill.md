@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Medication, One Pill
+  - 'Medication, One Pill'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Medication, One Pill
+title: 'Medication, One Pill'
 collection: Equipment
 kind: Equipment
+id: Medication-One-Pill
 ---
 ## Medication, One Pill    
     

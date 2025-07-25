@@ -11,6 +11,7 @@ tags:
 title: Multicorder
 collection: Equipment
 kind: Equipment
+id: Multicorder
 ---
 ## Multicorder    
     

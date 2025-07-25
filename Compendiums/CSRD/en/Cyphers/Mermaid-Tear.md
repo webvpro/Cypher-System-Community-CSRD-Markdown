@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Mermaid Tear
 collection: Cyphers
 kind: Cypher
+id: Mermaid-Tear
+categories:
+  - Fairytale
 ---
 ## Mermaid Tear    
 >[!info] Stats    

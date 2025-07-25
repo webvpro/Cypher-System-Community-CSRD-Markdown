@@ -9,6 +9,7 @@ tags:
 title: Bicycle or Skateboard or Inline Skates
 collection: Equipment
 kind: Equipment
+id: Bicycle-or-Skateboard-or-Inline-Skates
 ---
 ## Bicycle or Skateboard or Inline Skates    
     

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/6
   - Creature/Armor/0
   - Creature/Health/21
+  - Content/Fairytale
 title: Kelpie
 collection: Creatures-NPCs
 kind: Creature
 level: 6
 armor: 0
 health: 21
+id: Kelpie
+categories:
+  - Fairytale
 ---
 ## Kelpie    
 A sinister aquatic creature that takes the shape of a grey horse or white pony, the kelpie lures unsuspecting passersby and attempts to drown them in a nearby body of water.  

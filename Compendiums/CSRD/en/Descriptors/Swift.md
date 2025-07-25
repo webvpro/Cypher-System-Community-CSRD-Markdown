@@ -7,6 +7,7 @@ tags:
 title: Swift
 collection: Descriptors
 kind: Descriptor
+id: Swift
 ---
 ## Swift    
 You move quickly, able to sprint in short bursts and work with your hands with dexterity. You're great at crossing distances quickly but not always smoothly. You are likely slim and muscular.  

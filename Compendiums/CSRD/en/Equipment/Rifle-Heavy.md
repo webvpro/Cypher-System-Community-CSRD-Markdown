@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Rifle, Heavy
+  - 'Rifle, Heavy'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Post-Apocalyptic
@@ -14,9 +14,10 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Heavy
   - Equipment/Range/Very-Long
-title: Rifle, Heavy
+title: 'Rifle, Heavy'
 collection: Equipment
 kind: Equipment
+id: Rifle-Heavy
 ---
 ## Rifle, Heavy    
     

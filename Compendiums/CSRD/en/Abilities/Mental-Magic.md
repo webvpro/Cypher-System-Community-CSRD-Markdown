@@ -20,11 +20,19 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Mental-Magic
 ---
-## Mental Magic  
->**Enabler**    
-When attempting a magic-based Might or Speed task, you can instead roll as if it were an Intellect action. This means that if you apply Effort, you spend points from your Intellect Pool and use your Intellect Edge. Enabler  
-  
-  
-  
-  
+## Mental Magic
+  
+>**Enabler**  
+  
+When attempting a magic-based Might or Speed task, you can instead roll as if it were an Intellect action. This means that if you apply Effort, you spend points from your Intellect Pool and use your Intellect Edge. Enabler
+  
+
+  
+
+  
+
+  
+
+  

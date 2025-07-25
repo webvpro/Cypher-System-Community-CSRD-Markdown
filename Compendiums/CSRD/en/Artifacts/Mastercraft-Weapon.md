@@ -9,6 +9,7 @@ title: Mastercraft Weapon
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Mastercraft-Weapon
 ---
 ## Mastercraft Weapon    
 >[!info] Stats    

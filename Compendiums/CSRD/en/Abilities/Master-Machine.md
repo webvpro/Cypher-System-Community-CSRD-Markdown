@@ -22,6 +22,7 @@ pools:
 categories:
   - Meta
   - Senses
+id: Master-Machine
 ---
 ## Master Machine    
 >**Action**    

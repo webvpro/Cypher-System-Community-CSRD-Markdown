@@ -8,6 +8,7 @@ tags:
 title: Comprehension
 collection: Cyphers
 kind: Cypher
+id: Comprehension
 ---
 ## Comprehension    
 >[!info] Stats    

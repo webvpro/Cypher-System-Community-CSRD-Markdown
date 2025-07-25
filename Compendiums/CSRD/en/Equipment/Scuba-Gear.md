@@ -9,6 +9,7 @@ tags:
 title: Scuba Gear
 collection: Equipment
 kind: Equipment
+id: Scuba-Gear
 ---
 ## Scuba Gear    
     

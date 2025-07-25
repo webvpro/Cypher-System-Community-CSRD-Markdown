@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Continuous-Transfer
 ---
 ## Continuous Transfer  
 >**Enabler**    

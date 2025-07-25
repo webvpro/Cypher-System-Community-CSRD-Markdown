@@ -9,6 +9,7 @@ title: Nanorifle
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Nanorifle
 ---
 ## Nanorifle    
 >[!info] Stats    

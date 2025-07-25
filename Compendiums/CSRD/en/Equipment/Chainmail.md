@@ -11,6 +11,7 @@ tags:
 title: Chainmail
 collection: Equipment
 kind: Equipment
+id: Chainmail
 ---
 ## Chainmail    
     

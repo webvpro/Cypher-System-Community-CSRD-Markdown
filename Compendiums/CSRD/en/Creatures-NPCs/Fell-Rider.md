@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 3
 health: 25
+id: Fell-Rider
 ---
 ## Fell Rider    
 Motorcycle riding raiders keep their "motor wheels" alive through constant tinkering and repair. The two wheeled machines are modified with spears, spikes, lances, and sometimes guns and flamethrowers. Fell riders wear heavy protective garments made from fur, salvaged clothing, and leather from past targets. Goggles protect their eyes, and bones are sewn through their wild, greasy hair as decoration.  
@@ -63,11 +64,11 @@ Most warlords have a specific additional advantage they can pull out to win a fi
 > none    
     
   
-|  Roll &nbsp; &nbsp; &nbsp; | Unique Warlord Advantage  |    
-| ------------- | :----------- |    
-| 1 | Rocket launcher (level 7): long-range weapon inflicts 7 points of damage on targets in an immediate area (depletion: 1-2 in 1d6) |    
-| 2 | Fire thrower (level 7): immediate-range weapon inflicts 7 points of damage on all targets within immediate range (depletion: 1 in 1d10) |    
-| 3 | Release the beast: Gives the command to "release the beast"; a melted loyal to warlord charges into the fight |    
-| 4 | Force shield (level 5): Static field blocks all incoming attacks against the warlord for one round (depletion: 1-2 in 1d10) |    
-| 5 | Power gauntlet: Warlord's power gauntlet grabs foe and automatically deals damage from crushing until foe escapes |    
-| 6 | Skystrike: Calls in a "skystrike" from a battered wristband; a round later, a missile launched from a  before-times satellite strikes nearby, inflicting 10 points of damage on all creatures within a short area who fail a Speed defense roll, and 2 points on those who succeed (depletion: automatic) |
+| Roll &nbsp; &nbsp; &nbsp; | Unique Warlord Advantage                                                                                                                                                                                                                                                                                  |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                         | Rocket launcher (level 7): long-range weapon inflicts 7 points of damage on targets in an immediate area (depletion: 1-2 in 1d6)                                                                                                                                                                          |
+| 2                         | Fire thrower (level 7): immediate-range weapon inflicts 7 points of damage on all targets within immediate range (depletion: 1 in 1d10)                                                                                                                                                                   |
+| 3                         | Release the beast: Gives the command to "release the beast"; a melted loyal to warlord charges into the fight                                                                                                                                                                                             |
+| 4                         | Force shield (level 5): Static field blocks all incoming attacks against the warlord for one round (depletion: 1-2 in 1d10)                                                                                                                                                                               |
+| 5                         | Power gauntlet: Warlord's power gauntlet grabs foe and automatically deals damage from crushing until foe escapes                                                                                                                                                                                         |
+| 6                         | Skystrike: Calls in a "skystrike" from a battered wristband; a round later, a missile launched from a  before-times satellite strikes nearby, inflicting 10 points of damage on all creatures within a short area who fail a Speed defense roll, and 2 points on those who succeed (depletion: automatic) |

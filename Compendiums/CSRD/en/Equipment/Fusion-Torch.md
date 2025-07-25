@@ -11,6 +11,7 @@ tags:
 title: Fusion Torch
 collection: Equipment
 kind: Equipment
+id: Fusion-Torch
 ---
 ## Fusion Torch    
     

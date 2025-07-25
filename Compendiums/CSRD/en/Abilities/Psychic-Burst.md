@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Psychic-Burst
 ---
 ## Psychic Burst    
 >**Action**    

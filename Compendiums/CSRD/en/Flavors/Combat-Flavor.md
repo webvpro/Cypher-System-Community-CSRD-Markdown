@@ -7,6 +7,7 @@ tags:
 title: Combat Flavor
 collection: Flavors
 kind: Flavor
+id: Combat-Flavor
 ---
 ## Combat Flavor    
 Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.    

@@ -13,6 +13,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 24
+id: Apocalypse-Beast
 ---
 ## Four Hoursemen of the Apocalypse Beast, Creature  
   

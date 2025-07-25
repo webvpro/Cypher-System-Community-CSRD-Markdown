@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Swimsuit, Hydrodynamic
+  - 'Swimsuit, Hydrodynamic'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Swimsuit, Hydrodynamic
+title: 'Swimsuit, Hydrodynamic'
 collection: Equipment
 kind: Equipment
+id: Swimsuit-Hydrodynamic
 ---
 ## Swimsuit, Hydrodynamic    
     

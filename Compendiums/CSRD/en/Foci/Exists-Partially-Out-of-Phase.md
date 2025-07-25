@@ -7,6 +7,7 @@ tags:
 title: Exists Partially Out of Phase
 collection: Foci
 kind: Focus
+id: Exists-Partially-Out-of-Phase
 ---
 ## Exists Partially Out of Phase    
 A bit translucent, you're slightly out of phase and can move through solid objects.    

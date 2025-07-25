@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Deadly-Swarm
 ---
 ## Deadly Swarm    
 >**Action**    

@@ -8,12 +8,18 @@ tags:
   - Creature/Level/2
   - Creature/Armor/1
   - Creature/Health/6
+  - Content/Fairytale
+  - Content/Horror
 title: Skeleton
 collection: Creatures-NPCs
 kind: Creature
 level: 2
 armor: 1
 health: 6
+id: Skeleton
+categories:
+  - Fairytale
+  - Horror
 ---
 ## Skeleton    
 Skeletons are animated bones without much sense of self-preservation. They enjoy a crucial advantage over living creatures in one important and often exploited area: skeletons are dead shots with ranged weapons. They have no breath, no heartbeat, and no shaking hands to contend with as they release a shot, which means that skeletons armed with ranged weapons are something to be feared.    

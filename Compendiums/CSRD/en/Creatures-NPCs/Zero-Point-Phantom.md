@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 15
+id: Zero-Point-Phantom
 ---
 ## Zero-Point Phantom    
 Temporary violations of conservation of energy mean that "virtual particles" constantly and seemingly randomly pop out of nothing, briefly interact with normal matter, then disappear. Zero-point phantoms are collections of such particles, taking the form of a very large, almost spider-like entity of many legs, stalks, and arms. What they're doing when they're not manifest is unknown; are they entombed in nearby solids, phased into another dimension, or do they simply not exist until they are called into being by some random cosmic event? Whatever the case, zero-point phantoms seem to prefer unlit or dimly lit areas in spacecraft and stations far from any planet, when they seem to struggle out of solid surfaces, raising a cloud of shadow.    

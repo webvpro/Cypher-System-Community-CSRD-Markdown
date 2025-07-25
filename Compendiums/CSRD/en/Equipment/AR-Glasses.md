@@ -11,6 +11,7 @@ tags:
 title: AR Glasses
 collection: Equipment
 kind: Equipment
+id: AR-Glasses
 ---
 ## AR Glasses    
     

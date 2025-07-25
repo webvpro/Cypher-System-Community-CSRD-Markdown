@@ -1,8 +1,10 @@
 ---
 aliases:
-  - "Optional Rule: Psionics"
+  - 'Optional Rule: Psionics'
 tags:
--  Compendium/CSRD/en/Rules/Optional/Ritual-Magic
+  - Compendium/CSRD/en/Rules/Optional/Ritual-Magic
+id: Optional-Rule-Ritual-Magic
+title: 'Optional Rule: Psionics'
 ---
 ## Optional Rule: Ritual-Magic
 

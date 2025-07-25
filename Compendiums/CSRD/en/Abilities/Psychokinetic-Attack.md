@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Psychokinetic-Attack
 ---
 ## Psychokinetic Attack    
 >**Action**    

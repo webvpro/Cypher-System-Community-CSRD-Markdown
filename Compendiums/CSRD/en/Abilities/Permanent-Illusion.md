@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Permanent-Illusion
 ---
 ## Permanent Illusion    
 >**Enabler**    

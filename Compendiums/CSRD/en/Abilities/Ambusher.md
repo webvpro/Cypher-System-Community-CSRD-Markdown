@@ -18,8 +18,12 @@ tier: Mid
 pools: []
 categories:
   - Special-Attack
+id: Ambusher
 ---
-## Ambusher    
->**Enabler**  
-    
+## Ambusher  
+  
+>**Enabler**
+  
+  
+  
 When you attack a creature that has not yet acted during the first round of combat, your attack is eased. Enabler.

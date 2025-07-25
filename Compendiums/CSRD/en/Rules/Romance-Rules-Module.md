@@ -1,7 +1,10 @@
 ---
-aliases: "Romance Rules Module"
-tags: 
-- Compendium/CSRD/en/Rules/Romance-Rules-Module
+aliases:
+  - Romance Rules Module
+tags:
+  - Compendium/CSRD/en/Rules/Romance-Rules-Module
+id: Romance-Rules-Module
+title: Romance Rules Module
 ---
 
 # Romance Rules Module
@@ -41,18 +44,18 @@ A relationship can be improved only one level at a time, and the GM and the play
 
 ### Romantic Relationship Levels
 
-| Level | Relationship                                                        |
-|-------|---------------------------------------------------------------------|
-| 1     | First meeting. Interest or curiosity.                               |
-| 2     | A sense of connection above the norm. Strong physical attraction.   |
-| 3     | Affection and a bond that will last longer than a single encounter. |
-| 4     | Serious affection. Almost certainly physical affection.             |
-| 5     | A profession of love.                                               |
-| 6     | A serious long-term commitment.                                     |
-| 7     | A lifelong commitment.                                              |
-| 8     | Soul mates.                                                         |
-| 9     | A love affair for the ages.                                         |
-| 10    | A bond that transcends time and space.                              |
+| Level   | Relationship                                                          |
+| ------- | --------------------------------------------------------------------- |
+| 1       | First meeting. Interest or curiosity.                                 |
+| 2       | A sense of connection above the norm. Strong physical attraction.     |
+| 3       | Affection and a bond that will last longer than a single encounter.   |
+| 4       | Serious affection. Almost certainly physical affection.               |
+| 5       | A profession of love.                                                 |
+| 6       | A serious long-term commitment.                                       |
+| 7       | A lifelong commitment.                                                |
+| 8       | Soul mates.                                                           |
+| 9       | A love affair for the ages.                                           |
+| 10      | A bond that transcends time and space.                                |
 
 Relationship levels can go down as well as up. Neglect, carelessness, inappropriate emotional displays, lies, infidelity, and bungled wooing attempts can all potentially lower a relationship level. This is entirely in the judgment of the GM, although a lowered relationship level is very likely an appropriate use of a GM intrusion.
 Relationship levels indicate the strength of the bond and thus help dictate an NPC’s actions in regard to a PC. An NPC in a level 5 relationship probably will be more generous and forgiving toward the PC than if the relationship was level 3 or 4. An NPC in a level 6 relationship or higher would likely give their partner most anything, even maybe sacrificing their own well-being or their life for them. (And people in a higher-level relationship certainly would.) Likewise, a relationship level can influence a PC’s actions. An Intellect defense roll with a difficulty equal to the relationship level might be appropriate if the PC wants to act against the best interests of their loved one, or if they must keep their cool and act normally when their loved one is in danger.
@@ -60,15 +63,15 @@ You can use this optional system in any genre, for any type of relationship, eve
 
 ### Platonic Relationship Levels
 
-| Level | Relationship                                                                        |
-|-------|-------------------------------------------------------------------------------------|
-| 1     | First meeting. Interest or curiosity.                                               |
-| 2     | A sense of connection above the norm.                                               |
-| 3     | A memorable connection. Indications of a mutually beneficial relationship possible. |
-| 4     | Real friendship.                                                                    |
-| 5     | Deep friendship.                                                                    |
-| 6     | Relationship akin to that of a close sibling.                                       |
-| 7     | A pledge of complete partnership.                                                   |
-| 8     | Platonic soul mates. Something akin to a life-debt.                                 |
-| 9     | A friendship for the ages.                                                          |
-| 10    | A bond that transcends time and space.                                              |
+| Level   | Relationship                                                                          |
+| ------- | ------------------------------------------------------------------------------------- |
+| 1       | First meeting. Interest or curiosity.                                                 |
+| 2       | A sense of connection above the norm.                                                 |
+| 3       | A memorable connection. Indications of a mutually beneficial relationship possible.   |
+| 4       | Real friendship.                                                                      |
+| 5       | Deep friendship.                                                                      |
+| 6       | Relationship akin to that of a close sibling.                                         |
+| 7       | A pledge of complete partnership.                                                     |
+| 8       | Platonic soul mates. Something akin to a life-debt.                                   |
+| 9       | A friendship for the ages.                                                            |
+| 10      | A bond that transcends time and space.                                                |

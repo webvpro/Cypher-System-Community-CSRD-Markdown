@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Cat Sidhe Medallion
 collection: Cyphers
 kind: Cypher
+id: Cat-Sidhe-Medallion
+categories:
+  - Fairytale
 ---
 ## Cat Sidhe Medallion    
 >[!info] Stats    

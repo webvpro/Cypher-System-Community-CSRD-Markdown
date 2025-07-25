@@ -8,6 +8,7 @@ tags:
 title: Dragon Ward
 collection: CyphersDragon-Ward
 kind: Cypher
+id: Dragon-Ward
 ---
 ## Dragon Ward    
 >[!info] Stats    

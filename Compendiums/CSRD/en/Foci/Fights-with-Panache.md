@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Fights with Panache
 collection: Foci
 kind: Focus
+id: Fights-with-Panache
+categories:
+  - Fantasy
 ---
 ## Fights with Panache    
 You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.    

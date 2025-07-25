@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Object-Bond-Mastery
 ---
 ## Object Bond Mastery    
 >**Enabler**    

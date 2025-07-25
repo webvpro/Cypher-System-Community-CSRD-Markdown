@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Work-the-Friendship
 ---
 ## Work the Friendship    
 >**Action**    

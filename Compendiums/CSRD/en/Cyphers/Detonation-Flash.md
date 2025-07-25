@@ -8,6 +8,7 @@ tags:
 title: Detonation Flash
 collection: Cyphers
 kind: Cypher
+id: Detonation-Flash
 ---
 ## Detonation Flash    
 >[!info] Stats    

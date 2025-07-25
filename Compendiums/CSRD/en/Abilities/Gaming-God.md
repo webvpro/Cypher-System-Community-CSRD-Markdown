@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Cure
+id: Gaming-God
 ---
 ## Gaming God    
 >**Enabler**  

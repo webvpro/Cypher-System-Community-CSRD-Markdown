@@ -8,6 +8,7 @@ tags:
 title: Heat Attack
 collection: Cyphers
 kind: Cypher
+id: Heat-Attack
 ---
 ## Heat Attack    
 >[!info] Stats    

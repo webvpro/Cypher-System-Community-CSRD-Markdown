@@ -11,6 +11,7 @@ tags:
 title: Battle Armor
 collection: Equipment
 kind: Equipment
+id: Battle-Armor
 ---
 ## Battle Armor    
     

@@ -11,6 +11,7 @@ tags:
 title: Shipboots
 collection: Equipment
 kind: Equipment
+id: Shipboots
 ---
 ## Shipboots    
     

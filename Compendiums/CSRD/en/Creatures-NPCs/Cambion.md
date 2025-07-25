@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 1
 health: 25
+id: Cambion
 ---
 ## Cambion    
 Fine ebony scales cover a cambion's perfectly athletic figure. Two reddish horns grow from  

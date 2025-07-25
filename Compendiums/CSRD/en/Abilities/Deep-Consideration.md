@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Deep-Consideration
 ---
 ## Deep Consideration    
 >**Action**    

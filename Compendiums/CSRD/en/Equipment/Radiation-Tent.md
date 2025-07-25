@@ -12,6 +12,7 @@ tags:
 title: Radiation Tent
 collection: Equipment
 kind: Equipment
+id: Radiation-Tent
 ---
 ## Radiation Tent    
     

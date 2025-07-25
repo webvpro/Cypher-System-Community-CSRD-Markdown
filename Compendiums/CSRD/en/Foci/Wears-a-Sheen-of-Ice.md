@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
 title: Wears a Sheen of Ice
 collection: Foci
 kind: Focus
+id: Wears-a-Sheen-of-Ice
+categories:
+  - Fantasy
 ---
 ## Wears a Sheen of Ice    
 You command the wintery power of cold and ice.    

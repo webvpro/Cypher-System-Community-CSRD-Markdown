@@ -7,6 +7,7 @@ tags:
 title: Raids
 collection: Foci
 kind: Focus
+id: Raids
 ---
 ## Raids    
 When civilization fell, you did what you had to do to stay alive. Did you kill innocent people? Probably, insofar as anyone who survived the end can really be considered "innocent." You figured they'd have done the same to you. But whether they deserved it or not, you and the other raiders you ran with survived, and your targets did not. Then something life-changing happened to you, altering your perspective; it's up to you to decide what. In any case, you've turned over a new leaf. You don't indiscriminately kill anymore, though surviving is still a goal. But you've joined with others who you want to protect as much as or even more than your own life. You're done with raiding. But is raiding (and those who might recognize you as a raider) done with you?    

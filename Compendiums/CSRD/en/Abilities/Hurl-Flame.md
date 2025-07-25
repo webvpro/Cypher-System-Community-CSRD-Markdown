@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Hurl-Flame
 ---
 ## Hurl Flame    
 >**Action**    

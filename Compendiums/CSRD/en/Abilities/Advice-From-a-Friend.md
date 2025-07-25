@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Advice-From-a-Friend
 ---
 ## Advice From a Friend    
 >**Action**    

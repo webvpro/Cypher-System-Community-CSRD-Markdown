@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Safesuit, Space
+  - 'Safesuit, Space'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/2
   - Equipment/Value/Moderate
-title: Safesuit, Space
+title: 'Safesuit, Space'
 collection: Equipment
 kind: Equipment
+id: Safesuit-Space
 ---
 ## Safesuit, Space    
     

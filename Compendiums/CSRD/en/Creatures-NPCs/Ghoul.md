@@ -8,12 +8,18 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/12
+  - Content/Fairytale
+  - Content/Horror
 title: Ghoul
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 0
 health: 12
+id: Ghoul
+categories:
+  - Fairytale
+  - Horror
 ---
 ## Ghoul    
 Ghouls spend almost as much time beneath the ground as corpses do, but ghouls are very much alive. Their bodies are hairless and so porcelain-smooth that their faces are sometimes mistaken for masks, albeit gore-smeared masks. Ghouls come to the surface at night to gather humanoid remains or steal those recently interred from their graves, though many prefer to eat from still-living victims.  

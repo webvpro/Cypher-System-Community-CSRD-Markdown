@@ -22,6 +22,7 @@ pools:
 categories:
   - Cure
   - Meta
+id: One-With-the-Wild
 ---
 ## One With the Wild    
 >**Action**    

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/9
   - Creature/Armor/0
   - Creature/Health/40
+  - Content/Fairytale
 title: The West Wind
 collection: Creatures-NPCs
 kind: Creature
 level: 9
 armor: 0
 health: 40
+id: The-West-Wind
+categories:
+  - Fairytale
 ---
 ## The West Wind    
 The West Wind has no master, no shackles, no chains. She goes where she will, and woe to those who try to capture or hold her. When she's not blowing through the sky, she takes the shape of a human woman dressed in a sparkling blue tuxedo, her short silver hair pushed back from her face.  

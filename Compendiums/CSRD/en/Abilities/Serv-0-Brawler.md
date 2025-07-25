@@ -20,6 +20,7 @@ pools: []
 categories:
   - Attack-Skill
   - Task
+id: Serv-0-Brawler
 ---
 ## Serv-0 Brawler    
 >**Enabler**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Draw-Conclusion
 ---
 ## Draw Conclusion    
 >**Action**    

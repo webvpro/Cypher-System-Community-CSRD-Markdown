@@ -9,6 +9,7 @@ title: Crown of the Mind
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Crown-of-the-Mind
 ---
 ## Crown of the Mind    
 >[!info] Stats    

@@ -10,6 +10,7 @@ tags:
 title: Knife
 collection: Equipment
 kind: Equipment
+id: Knife
 ---
 ## Knife    
     

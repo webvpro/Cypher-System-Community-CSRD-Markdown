@@ -8,6 +8,7 @@ tags:
 title: Psychic Communique
 collection: Cyphers
 kind: Cypher
+id: Psychic-Communique
 ---
 ## Psychic Communique    
 >[!info] Stats    

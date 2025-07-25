@@ -1,8 +1,10 @@
 ---
 aliases:
-  -  "Might"
-tags: 
-- Compendium/CSRD/en/Stats/Pool/Might
+  - Might
+tags:
+  - Compendium/CSRD/en/Stats/Pool/Might
+id: Might
+title: Might
 ---
 ## Might
 Might defines how strong and durable your character is. The concepts of strength, endurance, constitution, hardiness, and physical prowess are all folded into this one stat. Might isn’t relative to size; instead, it’s an absolute measurement. An elephant has more Might than the mightiest tiger, which has more Might than the mightiest rat, which has more Might than the mightiest spider.

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Improved-Apportation
 ---
 ## Improved Apportation    
 >**Action**    

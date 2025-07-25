@@ -8,6 +8,7 @@ tags:
 title: Detonation Web
 collection: Cyphers
 kind: Cypher
+id: Detonation-Web
 ---
 ## Detonation Web    
 >[!info] Stats    

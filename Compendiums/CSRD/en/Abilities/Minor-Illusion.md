@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Minor-Illusion
 ---
 ## Minor Illusion    
 >**Action**    

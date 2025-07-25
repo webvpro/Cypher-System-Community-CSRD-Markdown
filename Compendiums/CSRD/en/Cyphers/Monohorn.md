@@ -8,6 +8,7 @@ tags:
 title: Monohorn
 collection: Cyphers
 kind: Cypher
+id: Monohorn
 ---
 ## Monohorn    
 >[!info] Stats    

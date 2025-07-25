@@ -8,6 +8,7 @@ tags:
 title: Teleporter Traveler
 collection: Cyphers
 kind: Cypher
+id: Teleporter-Traveler
 ---
 ## Teleporter Traveler    
 >[!info] Stats    

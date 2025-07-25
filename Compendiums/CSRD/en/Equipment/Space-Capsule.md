@@ -11,6 +11,7 @@ tags:
 title: Space Capsule
 collection: Equipment
 kind: Equipment
+id: Space-Capsule
 ---
 ## Space Capsule    
     

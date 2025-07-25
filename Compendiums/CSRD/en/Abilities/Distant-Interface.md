@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Distant-Interface
 ---
 ## Distant Interface    
 >**Action**    

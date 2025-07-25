@@ -8,6 +8,7 @@ tags:
 title: Time Dilation Defensive
 collection: Cyphers
 kind: Cypher
+id: Time-Dilation-Defensive
 ---
 ## Time Dilation Defensive    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Anticipate-Attack
 ---
 ## Anticipate Attack    
 >**Action**    

@@ -11,6 +11,7 @@ tags:
 title: Brigandine
 collection: Equipment
 kind: Equipment
+id: Brigandine
 ---
 ## Brigandine    
     

@@ -9,6 +9,7 @@ tags:
 title: Shopping Cart Wheelbarrow
 collection: Equipment
 kind: Equipment
+id: Shopping-Cart-Wheelbarrow
 ---
 ## Shopping Cart Wheelbarrow    
     

@@ -9,6 +9,7 @@ title: Crown of Eyes
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Crown-of-Eyes
 ---
 ## Crown of Eyes    
 >[!info] Stats    

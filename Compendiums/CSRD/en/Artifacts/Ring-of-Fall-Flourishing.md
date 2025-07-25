@@ -9,6 +9,7 @@ title: Ring of Fall Flourishing
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Ring-of-Fall-Flourishing
 ---
 ## Ring of Fall Flourishing    
 >[!info] Stats    

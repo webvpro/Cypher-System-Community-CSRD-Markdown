@@ -10,6 +10,7 @@ tags:
 title: Animal Hide
 collection: Equipment
 kind: Equipment
+id: Animal-Hide
 ---
 ## Animal Hide    
     

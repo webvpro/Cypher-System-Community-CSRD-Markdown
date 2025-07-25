@@ -13,6 +13,7 @@ tags:
 title: Alcohol and Drugs
 collection: Equipment
 kind: Equipment
+id: Alcohol-and-Drugs
 ---
 ## Alcohol and Drugs    
     

@@ -22,6 +22,7 @@ pools:
 categories:
   - Special-Attack
   - Support
+id: Undo
 ---
 ## Undo    
 >**Action**    

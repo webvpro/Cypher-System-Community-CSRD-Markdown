@@ -9,6 +9,7 @@ title: Dragontongue Weapon
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Dragontongue-Weapon
 ---
 ## Dragontongue Weapon    
 >[!info] Stats    

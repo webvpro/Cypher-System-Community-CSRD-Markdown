@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Soul-Interrogation
 ---
 ## Soul Interrogation    
 >**Action**    

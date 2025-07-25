@@ -10,6 +10,7 @@ tags:
 title: Acid (Flask)
 collection: Equipment
 kind: Equipment
+id: Acid-Flask
 ---
 ## Acid (Flask)    
     

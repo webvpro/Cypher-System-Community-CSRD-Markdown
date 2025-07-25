@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Scramble-Machine
 ---
 ## Scramble Machine    
 >**Action**    

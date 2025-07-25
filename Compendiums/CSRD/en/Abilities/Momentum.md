@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Special-Attack
+id: Momentum
 ---
 ## Momentum    
 >**Enabler**  

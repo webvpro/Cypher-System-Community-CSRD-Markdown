@@ -8,6 +8,7 @@ tags:
 title: Repel
 collection: Cyphers
 kind: Cypher
+id: Repel
 ---
 ## Repel    
 >[!info] Stats    

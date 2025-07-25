@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Change-the-Paradigm
 ---
 ## Change the Paradigm    
 >**Action**    

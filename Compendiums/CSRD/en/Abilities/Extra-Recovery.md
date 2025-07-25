@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Cure
+id: Extra-Recovery
 ---
 ## Extra Recovery    
 >**Enabler**  

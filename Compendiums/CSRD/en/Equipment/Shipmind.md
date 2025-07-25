@@ -11,6 +11,7 @@ tags:
 title: Shipmind
 collection: Equipment
 kind: Equipment
+id: Shipmind
 ---
 ## Shipmind    
     

@@ -11,6 +11,7 @@ tags:
 title: Throwing Dart
 collection: Equipment
 kind: Equipment
+id: Throwing-Dart
 ---
 ## Throwing Dart    
     

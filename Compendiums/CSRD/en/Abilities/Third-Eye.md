@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Senses
+id: Third-Eye
 ---
 ## Third Eye    
 >**Action**    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Car, Utility
+  - 'Car, Utility'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -9,9 +9,10 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Expensive
   - Equipment/Value/Very-Expensive
-title: Car, Utility
+title: 'Car, Utility'
 collection: Equipment
 kind: Equipment
+id: Car-Utility
 ---
 ## Car, Utility    
     

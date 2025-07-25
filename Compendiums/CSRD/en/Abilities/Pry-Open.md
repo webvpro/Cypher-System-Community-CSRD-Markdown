@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Pry-Open
 ---
 ## Pry Open    
 >**Action**    

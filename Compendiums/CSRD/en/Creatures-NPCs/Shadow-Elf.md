@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 1
 health: 15
+id: Shadow-Elf
 ---
 ## Shadow Elf    
 Elves who faded from the surface to escape the justice of their fey cousins for crimes uncounted are sometimes called shadow elves, dark elves, or simply trow. It's widely assumed that shadow elves fled to new realms deep below the ground, and indeed, the routes that lead to their true abodes are mostly subterranean and include many grand underground keeps. However, the heart of the shadow elf kingdom lies in the colorless dimension of Shadow itself, where all things exist as a dim reflection of the real world.  
@@ -47,11 +48,11 @@ If subject to full daylight, a shadow elf loses its modifications to stealth, pe
 > The shadow elf casts a spell that charms a character on a failed Intellect defense roll. The character fights on the side of the shadow elf for up to one minute, though they can make another Intellect defense roll each round to try to break the influence.    
     
   
-|  Roll &nbsp; &nbsp; &nbsp; | Shadow Elf Spell  |    
-| ------------- | :----------- |    
-| 1 | Enchant weapon to inflict 3 additional points of damage (8 total) |    
-| 2 | Enchant weapon to inflict 1 additional point of Speed damage (poison, ignores Armor), plus 2 points of Speed damage each additional round until victim succeeds on a Might defense roll |    
-| 3 | Fly a long range each round for ten minutes |    
-| 4 | Gain +2 to Armor (total of 3 Armor) for ten minutes |    
-| 5 | Long-range spell renders subject blind for ten minutes on failed Might defense roll |    
-| 6 | Long-range spell targets up to three creatures next to each other; holds them motionless in a shadow web for one minute on failed Speed defense rolls |
+| Roll &nbsp; &nbsp; &nbsp; | Shadow Elf Spell                                                                                                                                                                        |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                         | Enchant weapon to inflict 3 additional points of damage (8 total)                                                                                                                       |
+| 2                         | Enchant weapon to inflict 1 additional point of Speed damage (poison, ignores Armor), plus 2 points of Speed damage each additional round until victim succeeds on a Might defense roll |
+| 3                         | Fly a long range each round for ten minutes                                                                                                                                             |
+| 4                         | Gain +2 to Armor (total of 3 Armor) for ten minutes                                                                                                                                     |
+| 5                         | Long-range spell renders subject blind for ten minutes on failed Might defense roll                                                                                                     |
+| 6                         | Long-range spell targets up to three creatures next to each other; holds them motionless in a shadow web for one minute on failed Speed defense rolls                                   |

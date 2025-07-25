@@ -14,6 +14,7 @@ kind: NPC
 level: 3
 armor: 1
 health: 9
+id: Thug
 ---
 ## Thug    
 Thugs are usually rough, crude, and harsh individuals who prey on those who follow the rules. A thug might be a streetwise drug dealer, a bandit who hunts lone travelers in the wilds, a savage warrior adroit with ranged weapons, or a cyberbully among pacifists. Most thugs work for themselves, but they may employ gangs of guards to help them conduct their business.    

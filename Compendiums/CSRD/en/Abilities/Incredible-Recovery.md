@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Cure
+id: Incredible-Recovery
 ---
 ## Incredible Recovery    
 >**Action**    

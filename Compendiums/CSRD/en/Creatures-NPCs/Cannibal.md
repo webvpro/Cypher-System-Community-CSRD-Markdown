@@ -14,6 +14,7 @@ kind: NPC
 level: 3
 armor: 0
 health: 12
+id: Cannibal
 ---
 ## Cannibal    
 A cannibal is someone who has decided that eating other people is not only necessary but desirable. Whether this decision was forced by circumstance or made out of some secret, maladaptive urge, cannibals are dangerous because they hide in plain sight, pretending friendship and aid for strangers until their prey lowers their guard. That's when a cannibal strikes. Some cannibals like it raw; others delight in elaborate preparations.    

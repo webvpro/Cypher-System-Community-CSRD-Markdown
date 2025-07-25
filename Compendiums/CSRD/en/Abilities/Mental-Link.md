@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Senses
+id: Mental-Link
 ---
 ## Mental Link    
 >**Action**    

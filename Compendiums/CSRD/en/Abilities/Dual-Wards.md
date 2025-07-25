@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Support
+id: Dual-Wards
 ---
 ## Dual Wards    
 >**Enabler**  

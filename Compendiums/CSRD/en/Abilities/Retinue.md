@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Companion
+id: Retinue
 ---
 ## Retinue    
 >**Enabler**  

@@ -14,6 +14,7 @@ kind: Super Villain
 level: 7
 armor: 4
 health: 40
+id: Doctor-Dread
 ---
 ## Doctor Dread    
 Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, and the robotic armor she uses to enhance her otherwise normal abilities. Indeed, Doctor Dread has become the most feared terrorist on the planet. She uses her abilities to extort money, influence, and technology from the rich and powerful, whether her victims are individuals, governments, corporations, or superheroes.  

@@ -9,6 +9,7 @@ title: Hand of Glory
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Hand-of-Glory
 ---
 ## Hand of Glory    
 >[!info] Stats    

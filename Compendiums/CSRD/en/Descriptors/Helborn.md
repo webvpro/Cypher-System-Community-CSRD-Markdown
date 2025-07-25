@@ -7,6 +7,7 @@ tags:
 title: Helborn
 collection: Descriptors
 kind: Descriptor
+id: Helborn
 ---
 ## Helborn    
 Demons of the underworld sometimes escape. When they do, they can taint human bloodlines. Things like you are the result of such unnatural unions. Part human and part something else, you are an orphan of a supernatural dalliance. Thanks to your unsettling appearance, you've probably been forced to make your own way in a world that often fears and resents you. Some of your kin have large horns, tails, and pointed teeth. Others are more subtle or more obvious in their differences-a shadow of a knife-edge in their face and a touch that withers normal plants, a little too much fire in their eyes and a scent of ash in the air, a forked tongue, goatlike legs, or the inability to cast a shadow. Work with the GM on your particular helborn appearance.  

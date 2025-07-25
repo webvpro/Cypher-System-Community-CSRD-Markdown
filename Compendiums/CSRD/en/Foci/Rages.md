@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Rages
 collection: Foci
 kind: Focus
+id: Rages
+categories:
+  - Fantasy
 ---
 ## Rages    
 When you go berserk, everyone fears you.    

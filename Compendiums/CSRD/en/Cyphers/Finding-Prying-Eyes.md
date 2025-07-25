@@ -8,6 +8,7 @@ tags:
 title: Finding Prying Eyes
 collection: Cyphers
 kind: Cypher
+id: Finding-Prying-Eyes
 ---
 ## Finding Prying Eyes    
 >[!info] Stats    

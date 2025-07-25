@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Reanimator
 collection: Cyphers
 kind: Cypher
+id: Reanimator
+categories:
+  - Horror
 ---
 ## Reanimator    
 >[!info] Stats    

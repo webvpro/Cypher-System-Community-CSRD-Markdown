@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Special-Attack
+  - Content/Weird-West
 title: Knock Out
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Might
 categories:
   - Special-Attack
+  - Weird-West
+id: Knock-Out
 ---
 ## Knock Out    
 >**Action**    

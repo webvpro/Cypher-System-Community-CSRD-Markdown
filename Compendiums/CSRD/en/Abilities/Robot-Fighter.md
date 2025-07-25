@@ -20,6 +20,7 @@ pools: []
 categories:
   - Attack-Skill
   - Protection
+id: Robot-Fighter
 ---
 ## Robot Fighter    
 >**Enabler**  

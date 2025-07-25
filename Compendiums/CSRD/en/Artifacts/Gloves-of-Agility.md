@@ -9,6 +9,7 @@ title: Gloves of Agility
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Gloves-of-Agility
 ---
 ## Gloves of Agility    
 >[!info] Stats    

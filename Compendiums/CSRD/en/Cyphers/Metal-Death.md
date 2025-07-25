@@ -8,6 +8,7 @@ tags:
 title: Metal Death
 collection: Cyphers
 kind: Cypher
+id: Metal-Death
 ---
 ## Metal Death    
 >[!info] Stats    

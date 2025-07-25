@@ -9,6 +9,7 @@ tags:
 title: Ink (Flask)
 collection: Equipment
 kind: Equipment
+id: Ink-Flask
 ---
 ## Ink (Flask)    
     

@@ -9,6 +9,7 @@ title: Pack of Storage
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Pack-of-Storage
 ---
 ## Pack of Storage    
 >[!info] Stats    

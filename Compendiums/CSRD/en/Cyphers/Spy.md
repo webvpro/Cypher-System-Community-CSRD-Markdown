@@ -8,6 +8,7 @@ tags:
 title: Spy
 collection: Cyphers
 kind: Cypher
+id: Spy
 ---
 ## Spy    
 >[!info] Stats    

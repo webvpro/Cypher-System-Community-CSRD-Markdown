@@ -9,6 +9,7 @@ tags:
 title: Artisan's Outfit
 collection: Equipment
 kind: Equipment
+id: Artisan's-Outfit
 ---
 ## Artisan's Outfit    
     

@@ -9,6 +9,7 @@ title: Trap Runestone
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Trap-Runestone
 ---
 ## Trap Runestone    
 >[!info] Stats    

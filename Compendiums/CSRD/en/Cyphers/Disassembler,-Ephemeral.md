@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Disassembler, Ephemeral
+  - 'Disassembler, Ephemeral'
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
-title: Disassembler, Ephemeral
+title: 'Disassembler, Ephemeral'
 collection: Cyphers
 kind: Cypher
+id: 'Disassembler,-Ephemeral'
 ---
 ## Disassembler, Ephemeral    
 >[!info] Stats    

@@ -8,6 +8,7 @@ tags:
 title: Walking Corpse
 collection: Cyphers
 kind: Cypher
+id: Walking-Corpse
 ---
 ## Walking Corpse    
 >[!info] Stats    

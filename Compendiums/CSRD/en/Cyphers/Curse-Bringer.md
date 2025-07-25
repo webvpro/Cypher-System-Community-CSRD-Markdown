@@ -8,6 +8,7 @@ tags:
 title: Curse Bringer
 collection: Cyphers
 kind: Cypher
+id: Curse-Bringer
 ---
 ## Curse Bringer    
 >[!info] Stats    

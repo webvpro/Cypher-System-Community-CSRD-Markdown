@@ -8,6 +8,7 @@ tags:
 title: Shocker
 collection: Cyphers
 kind: Cypher
+id: Shocker
 ---
 ## Shocker    
 >[!info] Stats    

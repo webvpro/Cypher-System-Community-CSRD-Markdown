@@ -16,6 +16,7 @@ tags:
 title: Tent
 collection: Equipment
 kind: Equipment
+id: Tent
 ---
 ## Tent    
     

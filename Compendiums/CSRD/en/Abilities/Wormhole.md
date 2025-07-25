@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Movement
+id: Wormhole
 ---
 ## Wormhole    
 >**Action**    

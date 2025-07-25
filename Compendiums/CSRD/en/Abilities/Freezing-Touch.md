@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Freezing-Touch
 ---
 ## Freezing Touch    
 >**Action**    

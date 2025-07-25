@@ -13,6 +13,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 24
+id: Apocalypse-Famine
 ---
 ## Four Horsemen of the Apocalypse Famine   
   

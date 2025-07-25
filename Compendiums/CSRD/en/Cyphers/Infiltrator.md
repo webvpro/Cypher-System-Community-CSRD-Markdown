@@ -8,6 +8,7 @@ tags:
 title: Infiltrator
 collection: Cyphers
 kind: Cypher
+id: Infiltrator
 ---
 ## Infiltrator    
 >[!info] Stats    

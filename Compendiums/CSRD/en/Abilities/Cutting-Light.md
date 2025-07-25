@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Cutting-Light
 ---
 ## Cutting Light    
 >**Action**    

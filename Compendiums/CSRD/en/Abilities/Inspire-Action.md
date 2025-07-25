@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Inspire-Action
 ---
 ## Inspire Action    
 >**Action**    

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Blaster, Heavy Pulse Rifle
+  - 'Blaster, Heavy Pulse Rifle'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Very-Expensive-X2
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
-title: Blaster, Heavy Pulse Rifle
+title: 'Blaster, Heavy Pulse Rifle'
 collection: Equipment
 kind: Equipment
+id: Blaster-Heavy-Pulse-Rifle
 ---
 ## Blaster, Heavy Pulse Rifle    
     

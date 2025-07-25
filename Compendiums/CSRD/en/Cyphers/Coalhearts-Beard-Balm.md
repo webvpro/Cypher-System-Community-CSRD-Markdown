@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Coalhearts-Beard-Balm
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Coalheart's Beard Balm
 collection: Cyphers
 kind: Cypher
+id: Coalhearts-Beard-Balm
+categories:
+  - Fairytale
 ---
 ## Coalheart's Beard Balm    
 >[!info] Stats    

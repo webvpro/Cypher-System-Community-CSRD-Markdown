@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Jacks-Candlestick
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Jack's Candlestick
 collection: Cyphers
 kind: Cypher
+id: Jacks-Candlestick
+categories:
+  - Fairytale
 ---
 ## Jack's Candlestick    
 >[!info] Stats    

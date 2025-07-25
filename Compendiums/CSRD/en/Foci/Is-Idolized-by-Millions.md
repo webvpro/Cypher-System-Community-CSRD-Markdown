@@ -7,6 +7,7 @@ tags:
 title: Is Idolized by Millions
 collection: Foci
 kind: Focus
+id: Is-Idolized-by-Millions
 ---
 ## Is Idolized by Millions    
 You're a celebrity and most people adore you.    

@@ -11,6 +11,7 @@ tags:
 title: Tactile Drone
 collection: Equipment
 kind: Equipment
+id: Tactile-Drone
 ---
 ## Tactile Drone    
     

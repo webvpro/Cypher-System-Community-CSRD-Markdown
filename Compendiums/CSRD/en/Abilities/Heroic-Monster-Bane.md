@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Heroic-Monster-Bane
 ---
 ## Heroic Monster Bane    
 >**Enabler**  

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Cloak-of-Opportunity
 ---
 ## Cloak of Opportunity    
 >**Action**    

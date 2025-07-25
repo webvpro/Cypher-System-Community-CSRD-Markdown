@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Fiddle of the Fossegrim
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Fiddle-of-the-Fossegrim
 ---
 ## Fiddle of the Fossegrim    
 >[!info] Stats    

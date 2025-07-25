@@ -9,6 +9,7 @@ tags:
 title: Radiation Detector
 collection: Equipment
 kind: Equipment
+id: Radiation-Detector
 ---
 ## Radiation Detector    
     

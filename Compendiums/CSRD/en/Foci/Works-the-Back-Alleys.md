@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Movement-Expertise
+  - Content/Fantasy
 title: Works the Back Alleys
 collection: Foci
 kind: Focus
+id: Works-the-Back-Alleys
+categories:
+  - Fantasy
 ---
 ## Works the Back Alleys    
 You make your way unseen, stealing from the wealthy to achieve your ends.    

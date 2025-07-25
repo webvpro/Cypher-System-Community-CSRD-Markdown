@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 1
 health: 9
+id: Merfolk
 ---
 ## Merfolk    
 Merfolk are intelligent creatures with humanlike bodies from the waist up and scaly fish bodies from the waist down. They are able to breathe air or water but prefer the sea for its beauty and their better mobility. Merfolk have great underwater cities ruled by a king or queen, but most land-walking species interact only with the common or soldier merfolk who visit the ocean surface and coastlines. Merfolk societies are much like those of surface humans; their inability to use fire limits them in some ways (such as blacksmithing), but they have compensated for this with water magic and other skills.   

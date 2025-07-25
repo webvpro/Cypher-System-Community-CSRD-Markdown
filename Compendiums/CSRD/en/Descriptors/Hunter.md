@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors/Hunter
   - Descriptor
+  - Content/Modern-Magic
 title: Hunter
 collection: Descriptors
 kind: Descriptor
+id: Hunter
+categories:
+  - Modern-Magic
 ---
 ## Hunter    
 You once rode with the Wild Hunt: an immortal cavalry who traversed the skies in secret each night, gathering the souls of those who died in battle and carrying them to the beyond. These days, the Wild Hunt has downsized and your nights are your own. You’re mortal again, too, but it’s impossible to forget the terrifying freedom and power you once held. Maybe you’ve let nostalgia make you bitter, or maybe you don’t miss the Hunt at all, instead living in fear of being conscripted once more.  

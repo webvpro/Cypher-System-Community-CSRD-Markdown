@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/15
+  - Content/Horror
 title: Mad Scientist
 collection: Creatures-NPCs
 kind: NPC
 level: 4
 armor: 0
 health: 15
+id: Mad-Scientist
+categories:
+  - Horror
 ---
 ## Mad Scientist    
 A mad scientist is someone who delves into areas of science best left unexamined, abandoning ethics and pushing for what can be created without asking if it should be.    

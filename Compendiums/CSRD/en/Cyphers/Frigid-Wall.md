@@ -8,6 +8,7 @@ tags:
 title: Frigid Wall
 collection: Cyphers
 kind: Cypher
+id: Frigid-Wall
 ---
 ## Frigid Wall    
 >[!info] Stats    

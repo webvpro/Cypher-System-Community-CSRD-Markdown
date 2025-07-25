@@ -10,6 +10,7 @@ tags:
 title: Small Boat
 collection: Equipment
 kind: Equipment
+id: Small-Boat
 ---
 ## Small Boat    
     

@@ -8,6 +8,7 @@ tags:
 title: Blackout
 collection: Cyphers
 kind: Cypher
+id: Blackout
 ---
 ## Blackout    
 >[!info] Stats    

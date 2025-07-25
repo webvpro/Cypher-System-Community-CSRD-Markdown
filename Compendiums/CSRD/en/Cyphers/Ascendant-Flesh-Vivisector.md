@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Ascendant Flesh Vivisector
 collection: Cyphers
 kind: Cypher
+id: Ascendant-Flesh-Vivisector
+categories:
+  - Horror
 ---
 ## Ascendant Flesh Vivisector    
 >[!info] Stats    

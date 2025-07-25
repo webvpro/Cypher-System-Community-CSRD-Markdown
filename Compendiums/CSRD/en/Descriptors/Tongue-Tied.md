@@ -7,6 +7,7 @@ tags:
 title: Tongue-Tied
 collection: Descriptors
 kind: Descriptor
+id: Tongue-Tied
 ---
 ## Tongue-Tied    
 You've never been much of a talker. When forced to interact with others, you never think of the right thing to say-words fail you entirely, or they come out all wrong. You often end up saying precisely the wrong thing and insult someone unintentionally. Most of the time, you just keep mum. This makes you a listener instead-a careful observer. It also means that you're better at doing things than talking about them. You're quick to take action.  

@@ -22,6 +22,7 @@ pools:
 categories:
   - Magic
   - Fantasy
+id: Lend-a-Hand
 ---
 ## Lend a Hand  
 >**Enabler**    

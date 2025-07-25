@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Hard-to-Distract
 ---
-## Hard to Distract    
->**Enabler**  
-    
+## Hard to Distract  
+  
+>**Enabler**
+  
+  
+  
 You are trained in Intellect defense tasks. Enabler.

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Transmits-Energy
   - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
 title: Transmits Energy
 collection: Foci
 kind: Focus
+id: Transmits-Energy
+categories:
+  - Modern-Magic
 ---
 ## Transmits Energy  
 Magic is often compared to electromagnetism: it’s an invisible and ubiquitous force that holds everything together. Magic runs through every living creature, the ground, and even the air around us. You can sense—and influence—the flow of power, the way some people can hear currents running through wire. In a crisis, you attack by draining a foe’s energy. Otherwise, you focus on helping others by catalyzing and enhancing their magic abilities.  

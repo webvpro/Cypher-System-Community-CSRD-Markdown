@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Ghost Detector
 collection: Cyphers
 kind: Cypher
+id: Ghost-Detector
+categories:
+  - Horror
 ---
 ## Ghost Detector    
 >[!info] Stats    

@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Attack-Skill
+id: Specialized-Throwing
 ---
 ## Specialized Throwing    
 >**Enabler**  

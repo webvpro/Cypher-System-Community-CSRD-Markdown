@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Social
+id: Informer
 ---
 ## Informer    
 >**Enabler**  

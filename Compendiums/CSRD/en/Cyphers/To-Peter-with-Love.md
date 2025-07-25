@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: To Peter with Love
 collection: Cyphers
 kind: Cypher
+id: To-Peter-with-Love
+categories:
+  - Fairytale
 ---
 ## To Peter with Love    
 >[!info] Stats    

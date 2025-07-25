@@ -7,6 +7,7 @@ tags:
 title: Intuitive
 collection: Descriptors
 kind: Descriptor
+id: Intuitive
 ---
 ## Intuitive    
 You are often tickled by a sense of knowing what someone will say, how they will react, or how events might unfold. Maybe you have a mutant sense, maybe you can see just a few moments ahead through time, or maybe you're just good at reading people and extrapolating a situation. Whatever the case, many who look into your eyes immediately glance away, as if afraid of what you might see in their expression.  

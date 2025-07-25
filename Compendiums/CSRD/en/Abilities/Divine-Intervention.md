@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Divine-Intervention
 ---
 ## Divine Intervention    
 >**Action**    

@@ -14,6 +14,7 @@ kind: Creature
 level: 7
 armor: 1
 health: 32
+id: Cyclops
 ---
 ## Cyclops    
 Cyclopes resemble massive humans that stand 50 to 60 feet (15 to 18 m) tall and weigh about 10,000 pounds (4,500 kg). Everything about these giants is exaggerated, from the thick features of their faces to their oversized hands and lumpy, corpulent bodies. They clothe themselves in animal skins, scraps of cloth, or canvas stolen during their travels. A cyclops's most distinctive feature is the single eye positioned in the center of its forehead. Cyclopes live on the edges of civilized areas or on remote islands. For all their power and stature, they aren't especially brave, and most have a dim idea that puny humans have an advantage when they have numbers on their side.    

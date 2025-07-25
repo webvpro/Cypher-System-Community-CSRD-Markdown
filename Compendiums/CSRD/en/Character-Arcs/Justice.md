@@ -8,6 +8,7 @@ title: Justice
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Justice
 ---
 ## Justice  
 >You try to right a wrong or bring a wrongdoer to justice.   

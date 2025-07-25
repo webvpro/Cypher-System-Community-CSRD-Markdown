@@ -10,6 +10,7 @@ tags:
 title: Whip
 collection: Equipment
 kind: Equipment
+id: Whip
 ---
 ## Whip    
     

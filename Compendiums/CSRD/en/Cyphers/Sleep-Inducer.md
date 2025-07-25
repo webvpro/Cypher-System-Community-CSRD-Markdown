@@ -8,6 +8,7 @@ tags:
 title: Sleep Inducer
 collection: Cyphers
 kind: Cypher
+id: Sleep-Inducer
 ---
 ## Sleep Inducer    
 >[!info] Stats    

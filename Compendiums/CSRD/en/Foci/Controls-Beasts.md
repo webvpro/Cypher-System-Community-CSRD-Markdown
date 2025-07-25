@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Ally-Use
+  - Content/Fantasy
 title: Controls Beasts
 collection: Foci
 kind: Focus
+id: Controls-Beasts
+categories:
+  - Fantasy
 ---
 ## Controls Beasts    
 Your ability to communicate and lead beasts is uncanny.    

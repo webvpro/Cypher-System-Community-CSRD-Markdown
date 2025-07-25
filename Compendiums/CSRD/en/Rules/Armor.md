@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Armor"
+  - Armor
 tags:
-- Compendium/CSRD/en/Rules/Armor
+  - Compendium/CSRD/en/Rules/Armor
+id: Armor
+title: Armor
 ---
 ## Armor
 Characters expecting danger frequently wear armor. Even the simplest protective covering helps against stabs and cuts, and more sophisticated or heavier armor protects against graver threats.
@@ -18,6 +20,6 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 | ------ | -------------------------------------- |
 | Light  | +1                                     |
 | Medium | +2                                     |
-| Heavy  | +3                                     | 
+| Heavy  | +3                                     |
 
 ### [[Fantasy-Armor|Fantasy Armor Descriptions]]

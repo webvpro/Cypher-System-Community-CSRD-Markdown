@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Starship, Warship Class
+  - 'Starship, Warship Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/5
   - Equipment/Value/Priceless
-title: Starship, Warship Class
+title: 'Starship, Warship Class'
 collection: Equipment
 kind: Equipment
+id: Starship-Warship-Class
 ---
 ## Starship, Warship Class    
     

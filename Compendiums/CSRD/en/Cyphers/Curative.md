@@ -8,6 +8,7 @@ tags:
 title: Curative
 collection: Cyphers
 kind: Cypher
+id: Curative
 ---
 ## Curative    
 >[!info] Stats    

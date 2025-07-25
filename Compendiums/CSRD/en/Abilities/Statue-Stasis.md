@@ -10,6 +10,7 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Magic
   - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
 title: Statue Stasis
 collection: Abilities
 kind: Ability
@@ -22,6 +23,8 @@ pools:
 categories:
   - Magic
   - Fantasy
+  - Modern-Magic
+id: Statue-Stasis
 ---
 ## Statue Stasis  
 >**Action**    

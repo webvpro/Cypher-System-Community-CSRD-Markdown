@@ -7,6 +7,7 @@ tags:
 title: Fuses Flesh and Steel
 collection: Foci
 kind: Focus
+id: Fuses-Flesh-and-Steel
 ---
 ## Fuses Flesh and Steel    
 Your body is part machine.    

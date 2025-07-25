@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Noble's-Courage
 ---
 ## Noble's Courage    
 >**Enabler**    

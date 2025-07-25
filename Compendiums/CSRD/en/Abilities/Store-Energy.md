@@ -20,6 +20,7 @@ pools: []
 categories:
   - Cure
   - Meta
+id: Store-Energy
 ---
 ## Store Energy    
 >**Enabler**  

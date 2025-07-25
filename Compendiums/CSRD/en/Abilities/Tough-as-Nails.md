@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Cure
+id: Tough-as-Nails
 ---
 ## Tough As Nails    
 >**Action**  

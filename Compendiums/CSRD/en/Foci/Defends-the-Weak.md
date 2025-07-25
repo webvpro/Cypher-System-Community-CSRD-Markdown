@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Support
+  - Content/Fantasy
 title: Defends the Weak
 collection: Foci
 kind: Focus
+id: Defends-the-Weak
+categories:
+  - Fantasy
 ---
 ## Defends the Weak    
 You stand up for the helpless, the weak, and the unprotected.    

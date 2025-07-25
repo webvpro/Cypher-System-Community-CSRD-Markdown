@@ -20,6 +20,7 @@ pools: []
 categories:
   - Craft
   - Meta
+id: Natural-Crafter
 ---
 ## Natural Crafter    
 >**Enabler**  

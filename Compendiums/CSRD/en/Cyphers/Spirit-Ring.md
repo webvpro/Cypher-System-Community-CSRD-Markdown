@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Spirit Ring
 collection: Cyphers
 kind: Cypher
+id: Spirit-Ring
+categories:
+  - Fairytale
 ---
 ## Spirit Ring    
 >[!info] Stats    

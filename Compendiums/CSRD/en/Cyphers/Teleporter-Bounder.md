@@ -8,6 +8,7 @@ tags:
 title: Teleporter Bounder
 collection: Cyphers
 kind: Cypher
+id: Teleporter-Bounder
 ---
 ## Teleporter Bounder    
 >[!info] Stats    

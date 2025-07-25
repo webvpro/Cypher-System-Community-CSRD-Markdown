@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: False Grandmother
 collection: Cyphers
 kind: Cypher
+id: False-Grandmother
+categories:
+  - Fairytale
 ---
 ## False Grandmother    
 >[!info] Stats    

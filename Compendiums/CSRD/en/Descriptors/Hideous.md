@@ -7,6 +7,7 @@ tags:
 title: Hideous
 collection: Descriptors
 kind: Descriptor
+id: Hideous
 ---
 ## Hideous    
 You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.  

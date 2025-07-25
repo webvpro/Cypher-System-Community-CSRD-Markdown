@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Motorboat, Performance
+  - 'Motorboat, Performance'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/3
   - Equipment/Value/Very-Expensive
-title: Motorboat, Performance
+title: 'Motorboat, Performance'
 collection: Equipment
 kind: Equipment
+id: Motorboat-Performance
 ---
 ## Motorboat, Performance    
     

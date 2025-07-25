@@ -22,6 +22,7 @@ pools:
 categories:
   - Craft
   - Meta
+id: Modify-Device
 ---
 ## Modify Device    
 >**Action**    

@@ -7,12 +7,16 @@ tags:
   - Creature/Kind/Creature
   - Creature/Level/9
   - Creature/Armor/0
+  - Content/Fairytale
 title: Morgan Le Fay
 collection: Creatures-NPCs
 kind: Creature
 level: 9
 armor: 0
 health: NA
+id: Morgan-Le-Fay
+categories:
+  - Fairytale
 ---
 ## Morgan Le Fay  
   

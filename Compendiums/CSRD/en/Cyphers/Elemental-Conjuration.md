@@ -8,6 +8,7 @@ tags:
 title: Elemental Conjuration
 collection: Cyphers
 kind: Cypher
+id: Elemental-Conjuration
 ---
 ## Elemental Conjuration    
 >[!info] Stats    

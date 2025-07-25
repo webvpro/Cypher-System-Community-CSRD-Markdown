@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: The Key of Knowing
 collection: Cyphers
 kind: Cypher
+id: The-Key-of-Knowing
+categories:
+  - Fairytale
 ---
 ## The Key of Knowing    
 >[!info] Stats    

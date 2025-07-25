@@ -9,6 +9,7 @@ title: Mindshield Helmet
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Mindshield-Helmet
 ---
 ## Mindshield Helmet    
 >[!info] Stats    

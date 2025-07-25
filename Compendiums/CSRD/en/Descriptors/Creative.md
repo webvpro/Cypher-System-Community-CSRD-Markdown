@@ -7,6 +7,7 @@ tags:
 title: Creative
 collection: Descriptors
 kind: Descriptor
+id: Creative
 ---
 ## Creative    
 Maybe you have a notebook where you write down ideas so you can develop them later. Perhaps you email yourself ideas that strike you out of the blue so you can sort them in an electronic document. Or maybe you just sit down, stare at your screen and, by indomitable force of will, produce something from nothing. However your gift works, you're creative-you code, write, compose, sculpt, design, direct, or otherwise create narratives that enthrall other people with your vision.  

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/1
   - Creature/Health/15
+  - Content/Fairytale
 title: Satyr
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 1
 health: 15
+id: Satyr
+categories:
+  - Fairytale
 ---
 ## Satyr    
 These muscular humanoids sport long curved horns and furry, hooved legs. They are self-centered, greedy, and sybaritic creatures, dedicated to food, drink, and other pleasures. They rob and steal from others as it pleases them, often relying on tricks and lies, or alluring music they play on pipes.    

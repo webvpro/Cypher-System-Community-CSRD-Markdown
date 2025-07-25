@@ -18,8 +18,12 @@ tier: Mid
 pools: []
 categories:
   - Support
+id: Applying-Your-Knowledge
 ---
-## Applying Your Knowledge    
->**Action**  
-    
+## Applying Your Knowledge  
+  
+>**Action**
+  
+  
+  
 When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action.

@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 0
 health: 15
+id: Shining-One
 ---
 ## Shining One    
 Some alien beings abandoned their physical forms millennia ago, becoming entities of free-floating energy and pure consciousness. They travel the galaxies, exploring the endless permutations of matter, space-time, cosmic phenomena, dark energy, and life. They are endlessly fascinated with the permutations they discover. They sometimes appear as a silhouette of gently glowing light, in a form like to the alien species they wish to observe. Under circumstances where a shining one is moved to more directly interact, one can actually convert itself into matter once more, again taking on the biology and form of the species it wishes to interact with. But generally, shining ones observe and learn; they try not to interfere or interact. Every few thousand years, shining ones gather at a predetermined location on the edge of a convenient galaxy and share the most interesting and beautiful bits of imagery, music, poetry, and lore they've gleaned.    

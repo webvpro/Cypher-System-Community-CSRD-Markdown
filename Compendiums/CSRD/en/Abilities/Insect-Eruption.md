@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Insect-Eruption
 ---
 ## Insect Eruption    
 >**Action**    

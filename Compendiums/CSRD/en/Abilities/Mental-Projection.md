@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Movement
+id: Mental-Projection
 ---
 ## Mental Projection    
 >**Action**    

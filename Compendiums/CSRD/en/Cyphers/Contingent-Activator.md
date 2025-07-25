@@ -8,6 +8,7 @@ tags:
 title: Contingent Activator
 collection: Cyphers
 kind: Cypher
+id: Contingent-Activator
 ---
 ## Contingent Activator    
 >[!info] Stats    

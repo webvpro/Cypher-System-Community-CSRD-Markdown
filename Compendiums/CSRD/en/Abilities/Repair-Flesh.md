@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Repair-Flesh
 ---
 ## Repair Flesh    
 >**Action**    

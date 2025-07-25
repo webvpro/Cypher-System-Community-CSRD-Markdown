@@ -8,6 +8,7 @@ title: Join an Organization
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Join-an-Organization
 ---
 ## Join an Organization  
 >You want to join an organization. This might be a military organization, a corporation, a secret society, a religion, or something else.  

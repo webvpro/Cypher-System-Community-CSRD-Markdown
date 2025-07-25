@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Inferno-Trail
 ---
 ## Inferno Trail    
 >**Action**    

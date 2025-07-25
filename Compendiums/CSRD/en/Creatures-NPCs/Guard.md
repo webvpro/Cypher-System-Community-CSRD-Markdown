@@ -14,6 +14,7 @@ kind: NPC
 level: 2
 armor: 1
 health: 8
+id: Guard
 ---
 ## Guard    
 Guards keep the peace but don't usually show much initiative. Ultimately, they do as they're ordered by their superiors, regardless of legality. A guard might be a star trooper dressed in intimidating armor, a mall security guard, a beat police officer, or a mafia goon.  

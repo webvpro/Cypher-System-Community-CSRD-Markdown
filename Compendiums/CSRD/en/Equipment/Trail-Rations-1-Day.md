@@ -11,6 +11,7 @@ tags:
 title: Trail Rations (1 Day)
 collection: Equipment
 kind: Equipment
+id: Trail-Rations-1-Day
 ---
 ## Trail Rations (1 Day)    
     

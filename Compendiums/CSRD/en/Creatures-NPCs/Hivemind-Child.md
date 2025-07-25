@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/0
   - Creature/Health/6
+  - Content/Horror
 title: Hivemind Child
 collection: Creatures-NPCs
 kind: Creature
 level: 2
 armor: 0
 health: 6
+id: Hivemind-Child
+categories:
+  - Horror
 ---
 ## Hivemind Child    
 A hivemind family is a scouting expedition of part-alien creatures sent to study and infiltrate human society, either out of scientific curiosity or as a long-term plan for world domination or human extinction. Some entities might intercept human astronauts, reprogramming their DNA or attaching a parasite to their mind or soul. Others might send a machine to  

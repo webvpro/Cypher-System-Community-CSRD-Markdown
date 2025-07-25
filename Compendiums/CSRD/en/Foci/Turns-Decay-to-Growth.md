@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Turns-Decay-to-Growth
   - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
 title: Turns Decay to Growth
 collection: Foci
 kind: Focus
+id: Turns-Decay-to-Growth
+categories:
+  - Modern-Magic
 ---
 ## Turns Decay to Growth   
 You’re comfortable with decomposition: the bacteria and fungi that break down organic material are living creatures, and you coax magic from the interplay of life and death. To you, rot isn’t cause for revulsion—it’s an opportunity to build something new. Maggots, mushrooms, and mold are actors in your process, not unlike familiars. You probably keep a garden, nourished by your meticulously maintained compost pile. Your community might express discomfort with your methods, leading to friction. If you react to criticism by isolating yourself, you won’t be lonely for very long—what you have to offer is vital and rare, and it’s inevitable that someone will ask you for help.  

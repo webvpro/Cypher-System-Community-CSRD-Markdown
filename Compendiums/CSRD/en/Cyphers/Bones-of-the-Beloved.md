@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Bones of the Beloved
 collection: Cyphers
 kind: Cypher
+id: Bones-of-the-Beloved
+categories:
+  - Fairytale
 ---
 ## Bones of the Beloved    
 >[!info] Stats    

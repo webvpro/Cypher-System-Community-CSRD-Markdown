@@ -12,6 +12,7 @@ tags:
 title: Energy Pack (50 Shots)
 collection: Equipment
 kind: Equipment
+id: Energy-Pack-50-Shots
 ---
 ## Energy Pack (50 Shots)    
     

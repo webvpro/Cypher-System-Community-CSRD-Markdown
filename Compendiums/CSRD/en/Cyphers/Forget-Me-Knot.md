@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Forget-Me-Knot
 collection: Cyphers
 kind: Cypher
+id: Forget-Me-Knot
+categories:
+  - Fairytale
 ---
 ## Forget-Me-Knot    
 >[!info] Stats    

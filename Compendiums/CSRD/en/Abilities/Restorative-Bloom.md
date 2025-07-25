@@ -9,6 +9,7 @@ tags:
   - Ability/Tier/NA
   - Ability/Pool/Might
   - Ability/Categories/NA
+  - Content/Fantasy
 title: Restorative Bloom
 collection: Abilities
 kind: Ability
@@ -20,6 +21,8 @@ pools:
   - Might
 categories:
   - NA
+  - Fantasy
+id: Restorative-Bloom
 ---
 ## Restorative Bloom    
 >**Action**    

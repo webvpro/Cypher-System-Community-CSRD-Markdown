@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Cure
+id: Speedy-Recovery
 ---
 ## Speedy Recovery    
 >**Action**    

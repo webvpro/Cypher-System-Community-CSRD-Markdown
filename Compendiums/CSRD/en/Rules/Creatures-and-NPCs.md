@@ -1,7 +1,10 @@
 ---
-aliases: "Creatures and NPCs"
+aliases:
+  - Creatures and NPCs
 tags:
   - Compendium/CSRD/en/Rules/Creatures-and-NPCs
+id: Creatures-and-NPCs
+title: Creatures and NPCs
 ---
 
 # Creatures and NPCs

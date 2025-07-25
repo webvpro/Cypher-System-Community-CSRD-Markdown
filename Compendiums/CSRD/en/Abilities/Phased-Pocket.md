@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Transform
+id: Phased-Pocket
 ---
 ## Phased Pocket    
 >**Enabler**    

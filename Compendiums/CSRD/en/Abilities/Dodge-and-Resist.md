@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Meta
+id: Dodge-and-Resist
 ---
 ## Dodge and Resist    
 >**Enabler**    

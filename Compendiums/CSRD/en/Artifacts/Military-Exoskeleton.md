@@ -9,6 +9,7 @@ title: Military Exoskeleton
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Military-Exoskeleton
 ---
 ## Military Exoskeleton    
 >[!info] Stats    

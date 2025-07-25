@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Craft
+id: Improved-Sculpt-Light
 ---
 ## Improved Sculpt Light    
 >**Action**    

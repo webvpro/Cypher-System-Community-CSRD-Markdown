@@ -21,6 +21,7 @@ tags:
 title: Crowbar
 collection: Equipment
 kind: Equipment
+id: Crowbar
 ---
 ## Crowbar    
     

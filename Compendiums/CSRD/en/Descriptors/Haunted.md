@@ -7,6 +7,7 @@ tags:
 title: Haunted
 collection: Descriptors
 kind: Descriptor
+id: Haunted
 ---
 ## Haunted    
 The world seems more dangerous than it should. You are troubled by fearful and anxious thoughts, and can’t always discern what is a true threat and what isn’t. You might see shadows following you, be plagued by nightmares, or be filled with a general sense of unease. This constant feeling of being haunted drives you to try to make things feel safer for yourself and those around you.  

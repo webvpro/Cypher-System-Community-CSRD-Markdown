@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Unphantomed Limb
 collection: Cyphers
 kind: Cypher
+id: Unphantomed-Limb
+categories:
+  - Horror
 ---
 ## Unphantomed Limb    
 >[!info] Stats    

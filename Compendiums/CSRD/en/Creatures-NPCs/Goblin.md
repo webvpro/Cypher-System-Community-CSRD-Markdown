@@ -8,12 +8,16 @@ tags:
   - Creature/Level/1
   - Creature/Armor/0
   - Creature/Health/3
+  - Content/Fairytale
 title: Goblin
 collection: Creatures-NPCs
 kind: Creature
 level: 1
 armor: 0
 health: 3
+id: Goblin
+categories:
+  - Fairytale
 ---
 ## Goblin    
 Goblins are wicked, grasping, and perversely resourceful. Usually no larger than children, they can seem like pesky rabble, but that illusion hides something altogether more cunning. Tribe members work together to accomplish their goals of murder, kidnapping, and theft.    

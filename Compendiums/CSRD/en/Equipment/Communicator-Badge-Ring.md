@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Communicator, Badge Ring
+  - 'Communicator, Badge Ring'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/3
   - Equipment/Value/Moderate
-title: Communicator, Badge Ring
+title: 'Communicator, Badge Ring'
 collection: Equipment
 kind: Equipment
+id: Communicator-Badge-Ring
 ---
 ## Communicator, Badge Ring    
     

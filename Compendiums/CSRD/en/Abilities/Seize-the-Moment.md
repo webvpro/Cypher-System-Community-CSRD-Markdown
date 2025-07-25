@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Meta
+id: Seize-the-Moment
 ---
 ## Seize the Moment    
 >**Enabler**    

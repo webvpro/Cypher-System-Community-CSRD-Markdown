@@ -10,6 +10,7 @@ tags:
 title: Knife (Rusty and Worn)
 collection: Equipment
 kind: Equipment
+id: Knife-Rusty-and-Worn
 ---
 ## Knife (Rusty and Worn)    
     

@@ -9,6 +9,7 @@ tags:
 title: Zero Point Field
 collection: Cyphers
 kind: Cypher
+id: Zero-Point-Field
 ---
 ## Zero Point Field    
 >[!info] Stats    

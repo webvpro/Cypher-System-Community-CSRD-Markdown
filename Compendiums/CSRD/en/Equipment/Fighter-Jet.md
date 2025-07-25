@@ -11,6 +11,7 @@ tags:
 title: Fighter Jet
 collection: Equipment
 kind: Equipment
+id: Fighter-Jet
 ---
 ## Fighter Jet    
     

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: White Snake
 collection: Cyphers
 kind: Cypher
+id: White-Snake
+categories:
+  - Fairytale
 ---
 ## White Snake    
 >[!info] Stats    

@@ -22,6 +22,7 @@ pools:
 categories:
   - Cure
   - Support
+id: Inspiration
 ---
 ## Inspiration    
 >**Action**    

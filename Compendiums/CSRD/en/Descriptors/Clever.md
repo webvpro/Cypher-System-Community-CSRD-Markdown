@@ -7,6 +7,7 @@ tags:
 title: Clever
 collection: Descriptors
 kind: Descriptor
+id: Clever
 ---
 ## Clever    
 You're quick-witted, thinking well on your feet. You understand people, so you can fool them but are rarely fooled. Because you easily see things for what they are, you get the lay of the land swiftly, size up threats and allies, and assess situations with accuracy. Perhaps you're physically attractive, or maybe you use your wit to overcome any physical or mental imperfections.  

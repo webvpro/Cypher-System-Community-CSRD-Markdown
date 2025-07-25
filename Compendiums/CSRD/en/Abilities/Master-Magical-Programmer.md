@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Master-Magical-Programmer
 ---
 ## Master Magical Programmer   
 >**Enabler**  

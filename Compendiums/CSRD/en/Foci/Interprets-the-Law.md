@@ -7,6 +7,7 @@ tags:
 title: Interprets the Law
 collection: Foci
 kind: Focus
+id: Interprets-the-Law
 ---
 ## Interprets the Law    
 You excel at winning others over to your views.    

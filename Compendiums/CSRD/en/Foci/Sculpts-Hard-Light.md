@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
 title: Sculpts Hard Light
 collection: Foci
 kind: Focus
+id: Sculpts-Hard-Light
+categories:
+  - Superhero
 ---
 ## Sculpts Hard Light    
 You create physical objects out of hard light that you can use for offense and defense.    

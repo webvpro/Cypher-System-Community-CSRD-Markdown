@@ -8,6 +8,7 @@ tags:
 title: Sonic Hole
 collection: Cyphers
 kind: Cypher
+id: Sonic-Hole
 ---
 ## Sonic Hole    
 >[!info] Stats    

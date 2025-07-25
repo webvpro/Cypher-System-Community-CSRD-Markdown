@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Cure
+id: Ignore-Affliction
 ---
 ## Ignore Affliction    
 >**Action**    

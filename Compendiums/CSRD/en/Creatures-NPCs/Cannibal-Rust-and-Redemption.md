@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 12
+id: Cannibal-Rust-and-Redemption
 ---
 ## Cannibal Rust and Redemption    
 Cannibals come in a variety of different forms, depending on their situation. Some seem like normal and perhaps even charming survivors, except to their targets. These "nice" cannibals may eat human flesh when desperate or to take advantage of meat that would otherwise go to waste. Or maybe they've developed a taste for human flesh.   
@@ -45,11 +46,11 @@ In any group of four or more cannibals, there's probably one (revealed as a GM i
 > none    
     
   
-|  Roll &nbsp; &nbsp; &nbsp; | Severing Bite Effects  |    
-| ------------- | :----------- |    
-| 1 | End of nose |    
-| 2 | Little finger |    
-| 3 | Chunk from forearm |    
-| 4 | Chunk from leg |    
-| 5 | Ear; target's perception task that rely on hearing are hindered until target adapts |    
-| 6 | Throat; target descends on step on damage track each round until ally succeeds on a difficulty 5 healing task |
+| Roll &nbsp; &nbsp; &nbsp; | Severing Bite Effects                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1                         | End of nose                                                                                                   |
+| 2                         | Little finger                                                                                                 |
+| 3                         | Chunk from forearm                                                                                            |
+| 4                         | Chunk from leg                                                                                                |
+| 5                         | Ear; target's perception task that rely on hearing are hindered until target adapts                           |
+| 6                         | Throat; target descends on step on damage track each round until ally succeeds on a difficulty 5 healing task |

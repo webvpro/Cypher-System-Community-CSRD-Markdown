@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Tinderbox
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Tinderbox
 ---
 ## Tinderbox    
 >[!info] Stats    

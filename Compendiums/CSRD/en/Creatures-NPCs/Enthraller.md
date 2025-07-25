@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 18
+id: Enthraller
 ---
 ## Enthraller    
 Hundreds of thousands of years ago, enthraller ancestors psychically dominated a group of interstellar spacefarers who had the misfortune to land on the enthraller homeworld. Leapfrogging technological prowess by mentally commandeering the know-how of every new species they encountered using their stolen space vessel, the aliens fashioned the Enthraller Dominion, which stretches across vast swaths of space, cemented by the psychic control.  

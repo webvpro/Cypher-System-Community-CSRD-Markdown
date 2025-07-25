@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Trust-to-Luck
 ---
 ## Trust to Luck    
 >**Enabler**    

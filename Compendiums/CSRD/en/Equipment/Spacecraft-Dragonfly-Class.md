@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Spacecraft, Dragonfly Class
+  - 'Spacecraft, Dragonfly Class'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/3
   - Equipment/Value/Exorbitant-X2
-title: Spacecraft, Dragonfly Class
+title: 'Spacecraft, Dragonfly Class'
 collection: Equipment
 kind: Equipment
+id: Spacecraft-Dragonfly-Class
 ---
 ## Spacecraft, Dragonfly Class    
     

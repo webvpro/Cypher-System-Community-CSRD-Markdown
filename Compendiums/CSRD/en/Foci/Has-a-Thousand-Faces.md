@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Superhero
 title: Has a Thousand Faces
 collection: Foci
 kind: Focus
+id: Has-a-Thousand-Faces
+categories:
+  - Superhero
 ---
 ## Has a Thousand Faces    
 You can change your appearance to look like anyone else.    

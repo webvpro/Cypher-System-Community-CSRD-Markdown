@@ -12,6 +12,7 @@ tags:
 title: Card Tabletop Digital Game
 collection: Equipment
 kind: Equipment
+id: Card-Tabletop-Digital-Game
 ---
 ## Card Tabletop Digital Game    
     

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Camera, Surveillance
+  - 'Camera, Surveillance'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Sense-Enhancing-Tools
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Camera, Surveillance
+title: 'Camera, Surveillance'
 collection: Equipment
 kind: Equipment
+id: Camera-Surveillance
 ---
 ## Camera, Surveillance    
     

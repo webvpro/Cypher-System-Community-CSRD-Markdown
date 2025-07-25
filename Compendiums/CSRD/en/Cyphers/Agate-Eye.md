@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Agate Eye
 collection: Cyphers
 kind: Cypher
+id: Agate-Eye
+categories:
+  - Fairytale
 ---
 ## Agate Eye    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Meta
+id: Punish-the-Guilty
 ---
 ## Punish the Guilty    
 >**Action**    

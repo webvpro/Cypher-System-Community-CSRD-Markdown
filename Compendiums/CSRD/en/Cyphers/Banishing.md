@@ -8,6 +8,7 @@ tags:
 title: Banishing
 collection: Cyphers
 kind: Cypher
+id: Banishing
 ---
 ## Banishing    
 >[!info] Stats    

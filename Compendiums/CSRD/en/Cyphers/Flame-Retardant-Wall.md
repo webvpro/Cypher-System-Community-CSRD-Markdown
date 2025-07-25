@@ -8,6 +8,7 @@ tags:
 title: Flame-Retardant Wall
 collection: Cyphers
 kind: Cypher
+id: Flame-Retardant-Wall
 ---
 ## Flame-Retardant Wall    
 >[!info] Stats    

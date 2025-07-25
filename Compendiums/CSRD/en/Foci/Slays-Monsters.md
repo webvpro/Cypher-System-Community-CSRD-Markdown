@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Striker-Combat
+  - Content/Fantasy
 title: Slays Monsters
 collection: Foci
 kind: Focus
+id: Slays-Monsters
+categories:
+  - Fantasy
 ---
 ## Slays Monsters    
 You kill monsters.    

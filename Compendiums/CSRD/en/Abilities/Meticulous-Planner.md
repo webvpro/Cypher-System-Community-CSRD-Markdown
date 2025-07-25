@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Task
+id: Meticulous-Planner
 ---
 ## Meticulous Planner    
 >**Enabler**  

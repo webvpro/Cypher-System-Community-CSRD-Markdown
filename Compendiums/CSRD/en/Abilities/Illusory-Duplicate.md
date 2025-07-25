@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: Illusory-Duplicate
 ---
 ## Illusory Duplicate    
 >**Action**    

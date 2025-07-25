@@ -8,12 +8,16 @@ tags:
   - Creature/Level/5
   - Creature/Armor/2
   - Creature/Health/22
+  - Content/Fairytale
 title: Abomination
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 2
 health: 22
+id: Abomination
+categories:
+  - Fairytale
 ---
 ## Abomination    
 An abomination is a hideous bestial humanoid covered with thickened plates of scarlet flesh. Their eyes shine with the stagnant glow of toxic waste dumps. Standing at least 7 feet (2 m) tall, abominations are drawn to movement. Always famished, they consume living prey in great tearing bites.    

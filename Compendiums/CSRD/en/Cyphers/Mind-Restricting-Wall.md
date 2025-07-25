@@ -8,6 +8,7 @@ tags:
 title: Mind-Restricting Wall
 collection: Cyphers
 kind: Cypher
+id: Mind-Restricting-Wall
 ---
 ## Mind-Restricting Wall    
 >[!info] Stats    

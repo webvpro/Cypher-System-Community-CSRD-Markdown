@@ -11,6 +11,7 @@ tags:
 title: Healing Kit
 collection: Equipment
 kind: Equipment
+id: Healing-Kit
 ---
 ## Healing Kit    
     

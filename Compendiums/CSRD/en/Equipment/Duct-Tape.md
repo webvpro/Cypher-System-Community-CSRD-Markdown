@@ -9,6 +9,7 @@ tags:
 title: Duct Tape
 collection: Equipment
 kind: Equipment
+id: Duct-Tape
 ---
 ## Duct Tape    
     

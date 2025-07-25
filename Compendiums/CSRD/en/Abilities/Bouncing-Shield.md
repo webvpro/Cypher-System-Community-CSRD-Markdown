@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Special-Attack
+id: Bouncing-Shield
 ---
 ## Bouncing Shield    
 >**Action**  

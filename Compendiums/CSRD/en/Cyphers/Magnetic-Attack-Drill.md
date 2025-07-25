@@ -8,6 +8,7 @@ tags:
 title: Magnetic Attack Drill
 collection: Cyphers
 kind: Cypher
+id: Magnetic-Attack-Drill
 ---
 ## Magnetic Attack Drill    
 >[!info] Stats    

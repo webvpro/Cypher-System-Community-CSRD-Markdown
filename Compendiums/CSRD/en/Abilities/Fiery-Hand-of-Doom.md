@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Companion
+id: Fiery-Hand-of-Doom
 ---
 ## Fiery Hand of Doom    
 >**Action**    

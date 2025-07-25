@@ -9,6 +9,7 @@ title: Instant Ladder
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Instant-Ladder
 ---
 ## Instant Ladder    
 >[!info] Stats    

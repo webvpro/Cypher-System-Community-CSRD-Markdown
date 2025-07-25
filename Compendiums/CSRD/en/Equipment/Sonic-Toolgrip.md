@@ -11,6 +11,7 @@ tags:
 title: Sonic Toolgrip
 collection: Equipment
 kind: Equipment
+id: Sonic-Toolgrip
 ---
 ## Sonic Toolgrip    
     

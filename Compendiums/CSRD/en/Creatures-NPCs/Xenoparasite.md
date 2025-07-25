@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 2
 health: 28
+id: Xenoparasite
 ---
 ## Xenoparasite    
 This alien creature exists only to eat and reproduce. In doing so, it also destroys every form of life it encounters. Xenoparasites are not technological but were likely engineered by a species with advanced biological super-science. Xenoparasites don't travel between star systems on their own; they were presumably spread across an area of space by their creators to serve as a broad-spectrum bioweapon. What has become of the original maker species is unknown, but given the fecundity and ferocity of the xenoparasite, it's likely they were consumed by their own creation.  

@@ -7,6 +7,7 @@ tags:
 title: Detonation Prion
 collection: Cyphers
 kind: Cypher
+id: Detonation-Prion
 ---
 ## Detonation Prion    
 >[!info] Stats    

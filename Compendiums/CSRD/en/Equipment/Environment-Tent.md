@@ -9,6 +9,7 @@ tags:
 title: Environment Tent
 collection: Equipment
 kind: Equipment
+id: Environment-Tent
 ---
 ## Environment Tent    
     

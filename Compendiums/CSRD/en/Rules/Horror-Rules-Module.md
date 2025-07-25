@@ -1,7 +1,10 @@
 ---
-aliases: "Horror Rules Module"
-tags: 
-- Compendium/CSRD/en/Rules/Horror-Rules-Module
+aliases:
+  - Horror Rules Module
+tags:
+  - Compendium/CSRD/en/Rules/Horror-Rules-Module
+id: Horror-Rules-Module
+title: Horror Rules Module
 ---
 
 # Horror Rules Module
@@ -68,11 +71,11 @@ Horror Mode is unique among the horror modules in that the default assumption is
 
 ##### Escalation Rate
 
-| Activity               | Intrusion Range Increases by 1                                             |
-|------------------------|----------------------------------------------------------------------------|
-| Exploring a large area | Every time a new intrusion is indicated by a die roll                      |
-| Exploring              | Every ten minutes or every time a new intrusion is indicated by a die roll |
-| Combat                 | Each Round                                                                 |
+| Activity                 | Intrusion Range Increases by 1                                               |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| Exploring a large area   | Every time a new intrusion is indicated by a die roll                        |
+| Exploring                | Every ten minutes or every time a new intrusion is indicated by a die roll   |
+| Combat                   | Each Round                                                                   |
 
 #### Hysteria
 Screaming is a natural reaction when you’re frightened, but it’s also likely
@@ -196,18 +199,18 @@ Multiple shifts of identity are probably easier for the GM and players to handle
 Shock is an optional rule discussed in the Cypher System Rulebook. When using this rule, seeing something terrifying means a PC must make an Intellect defense roll. The difficulty is based on the level of the scary thing, or the GM can simply choose the level (see the Shock Levels table). Failure on the defense roll means either the character takes Intellect damage or
 the player temporarily loses control of the character (the GM decides if they scream, freeze, run, or take some other appropriate action, perhaps with input from the player).
 ##### Shock Levels 
-| Event                                                                                                   | Level          |
-|---------------------------------------------------------------------------------------------------------|----------------|
-| Something unexpected darts or jumps out                                                                 | 1              |
-| Something suddenly moves just out of the corner of the eye                                              | 2              |
-| A sudden loud noise (like a scream)                                                                     | 2              |
-| Unexpectedly seeing a corpse                                                                            | 2              |
-| Watching someone die                                                                                    | 3              |
-| Seeing something impossible (like an inanimate object sliding across the floor)                         | 4              |
-| Watching a friend die                                                                                   | 5              |
-| Seeing a monstrous creature                                                                             | Creature Level |
-| Witnessing something supernatural (like a spell)                                                        | 5              |
-| Seeing something mind-bending (like an impossible, multidimensional demigod coalescing out of thin air) | 8              |
+| Event                                                                                                     | Level            |
+| --------------------------------------------------------------------------------------------------------- | ---------------- |
+| Something unexpected darts or jumps out                                                                   | 1                |
+| Something suddenly moves just out of the corner of the eye                                                | 2                |
+| A sudden loud noise (like a scream)                                                                       | 2                |
+| Unexpectedly seeing a corpse                                                                              | 2                |
+| Watching someone die                                                                                      | 3                |
+| Seeing something impossible (like an inanimate object sliding across the floor)                           | 4                |
+| Watching a friend die                                                                                     | 5                |
+| Seeing a monstrous creature                                                                               | Creature Level   |
+| Witnessing something supernatural (like a spell)                                                          | 5                |
+| Seeing something mind-bending (like an impossible, multidimensional demigod coalescing out of thin air)   | 8                |
 
 #### Unease
 Horror isn’t always overt monstrosities trying to tear your limbs off or drag your soul into Hell. Sometimes it’s something slightly off-putting, a stretching of the norm, an itching behind your eyes, or a sinking feeling in your stomach. You can feel that something is wrong, but you don’t know exactly what, and you’re not sure what to do about it. Your body isn’t sure if it should jump into fight or flight, so you’re anticipating a spike of adrenaline and it’s very distracting.
@@ -233,41 +236,41 @@ The creatures and NPCs in this chapter are provided to help you populate your ho
 The target number is usually also its health, which is the amount of damage it can sustain before it is dead or incapacitated. For easy reference, the entries always list health, even when it’s the normal amount for a creature or NPC of its level. For more detailed information on level, health, combat, and other elements, see the Understanding the Listings section in the Cypher System Rulebook.
 
 ##### Horror Creatures and NPCs by Level and Genre
-| Level | Name                   | Genre                                                                                                                       |
-|-------|------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 2     | [[Hivemind-Child\|Hivemind Child]]         | Aliens, dark magic, science gone wrong                                                                                      |
-| 2     | [[Skeleton]]*              | Comedy horror, dark magic, demons, zombies                                                                                  |
-| 3     | [[Cannibal]]               | Comedy horror, cryptids, dark magic, degenerates, zombies                                                                   |
-| 3     | [[Nightgaunt]]             | Aliens, cryptids, Lovecraftian                                                                                              |
-| 3     | [[Vampire,-Transitional\|Vampire, Transitional]]* | Degenerates, science gone wrong, vampires                                                                                   |
-| 3     | [[Vat-Reject\|Vat Reject]]*            | Doppelgangers, science gone wrong, simulacra                                                                                |
-| 3     | [[Zombie]]*                | Degenerates, Lovecraftian, science gone wrong, zombies                                                                      |
-| 4     | [[Deep-One\|Deep One]]*              | Lovecraftian                                                                                                                |
-| 4     | [[Devil]]*                 | Dark magic, demons                                                                                                          |
-| 4     | [[Gargoyle\|Ghost]]*                 | Ghosts, dark magic, J-horror/K-horror                                                                                       |
-| 4     | [[Ghoul]]*                 | Cryptids, degenerates, Lovecraftian, zombies                                                                                |
-| 4     | [[Grey]]*                  | Aliens, doppelgangers, science gone wrong                                                                                   |
-| 4     | [[Mad-Scientist\|Mad Scientist]]          | Aliens, body horror, comedy horror, demons, doppelgangers, Lovecraftian, science gone wrong, simulacra, werewolves, zombies |
-| 4     | [[Werewolf]] *             | Degenerates, science gone wrong, slashers, survival horror, werewolves                                                      |
-| 5     | [[Cryptic-Moth\|Cryptic Moth]]           | Cryptids                                                                                                                    |
-| 5     | [[Demon]]*                 | Dark magic, demons, J-horror/K-horror                                                                                       |
-| 5     | [[Fallen-Angel\|Fallen Angel]]*          | Dark magic, demons                                                                                                          |
-| 5     | [[Ichthysian]]             | Comedy horror, cryptids, science gone wrong                                                                                 |
-| 5     | [[Killer-Clown\|Killer Clown]]*          | Clowns, comedy horror, killer toys, slashers                                                                                |
-| 5     | [[Killing-White-Light\|Killing White Light]]*   | Aliens, Lovecraftian, science gone wrong                                                                                    |
-| 5     | [[Mi-Go]]*                 | Aliens, body horror, cryptids, Lovecraftian                                                                                 |
-| 5     | [[Replicant]]*             | Doppelgangers, simulacra                                                                                                    |
-| 5     | Wendigo *               | Cryptids, degenerates                                                                                                       |
-| 5     | [[Witch]]*                 | Dark magic, degenerates, demons                                                                                             |
-| 6     | [[Mummy]]                  | Aliens, dark magic, mummies                                                                                                 |
-| 6     | [[Reanimated]]             | Cryptids, science gone wrong, simulacra                                                                                     |
-| 6     | [[Yithian]]                | Aliens, doppelgangers, Lovecraftian                                                                                         |
-| 6     | [[Vampire]]*               | Degenerates, science gone wrong, vampires                                                                                   |
-| 6     | [[Xenoparasite]]*          | Aliens, body horror, science gone wrong                                                                                     |
-| 7     | [[Fundamental-Angel\|Fundamental Angel]]      | Demons, science gone wrong                                                                                                  |
-| 7     | [[Shoggoth\|Shoggoth]]               | Aliens, body horror, Lovecraftian                                                                                           |
-| 8     | [[Blob]]                   | Aliens, body horror, Lovecraftian, science gone wrong                                                                       |
-| 8     | [[Elder-Thing\|Elder Thing]]            | Aliens, cryptids, Lovecraftian, science gone wrong                                                                          |
+| Level   | Name                     | Genre                                                                                                                         |                                                                                                                             |
+| ------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2       | [[Hivemind-Child\        | Hivemind Child]]                                                                                                              | Aliens, dark magic, science gone wrong                                                                                      |
+| 2       | [[Skeleton]]*            | Comedy horror, dark magic, demons, zombies                                                                                    |                                                                                                                             |
+| 3       | [[Cannibal]]             | Comedy horror, cryptids, dark magic, degenerates, zombies                                                                     |                                                                                                                             |
+| 3       | [[Nightgaunt]]           | Aliens, cryptids, Lovecraftian                                                                                                |                                                                                                                             |
+| 3       | [[Vampire,-Transitional\ | Vampire, Transitional]]*                                                                                                      | Degenerates, science gone wrong, vampires                                                                                   |
+| 3       | [[Vat-Reject\            | Vat Reject]]*                                                                                                                 | Doppelgangers, science gone wrong, simulacra                                                                                |
+| 3       | [[Zombie]]*              | Degenerates, Lovecraftian, science gone wrong, zombies                                                                        |                                                                                                                             |
+| 4       | [[Deep-One\              | Deep One]]*                                                                                                                   | Lovecraftian                                                                                                                |
+| 4       | [[Devil]]*               | Dark magic, demons                                                                                                            |                                                                                                                             |
+| 4       | [[Gargoyle\              | Ghost]]*                                                                                                                      | Ghosts, dark magic, J-horror/K-horror                                                                                       |
+| 4       | [[Ghoul]]*               | Cryptids, degenerates, Lovecraftian, zombies                                                                                  |                                                                                                                             |
+| 4       | [[Grey]]*                | Aliens, doppelgangers, science gone wrong                                                                                     |                                                                                                                             |
+| 4       | [[Mad-Scientist\         | Mad Scientist]]                                                                                                               | Aliens, body horror, comedy horror, demons, doppelgangers, Lovecraftian, science gone wrong, simulacra, werewolves, zombies |
+| 4       | [[Werewolf]] *           | Degenerates, science gone wrong, slashers, survival horror, werewolves                                                        |                                                                                                                             |
+| 5       | [[Cryptic-Moth\          | Cryptic Moth]]                                                                                                                | Cryptids                                                                                                                    |
+| 5       | [[Demon]]*               | Dark magic, demons, J-horror/K-horror                                                                                         |                                                                                                                             |
+| 5       | [[Fallen-Angel\          | Fallen Angel]]*                                                                                                               | Dark magic, demons                                                                                                          |
+| 5       | [[Ichthysian]]           | Comedy horror, cryptids, science gone wrong                                                                                   |                                                                                                                             |
+| 5       | [[Killer-Clown\          | Killer Clown]]*                                                                                                               | Clowns, comedy horror, killer toys, slashers                                                                                |
+| 5       | [[Killing-White-Light\   | Killing White Light]]*                                                                                                        | Aliens, Lovecraftian, science gone wrong                                                                                    |
+| 5       | [[Mi-Go]]*               | Aliens, body horror, cryptids, Lovecraftian                                                                                   |                                                                                                                             |
+| 5       | [[Replicant]]*           | Doppelgangers, simulacra                                                                                                      |                                                                                                                             |
+| 5       | Wendigo *                | Cryptids, degenerates                                                                                                         |                                                                                                                             |
+| 5       | [[Witch]]*               | Dark magic, degenerates, demons                                                                                               |                                                                                                                             |
+| 6       | [[Mummy]]                | Aliens, dark magic, mummies                                                                                                   |                                                                                                                             |
+| 6       | [[Reanimated]]           | Cryptids, science gone wrong, simulacra                                                                                       |                                                                                                                             |
+| 6       | [[Yithian]]              | Aliens, doppelgangers, Lovecraftian                                                                                           |                                                                                                                             |
+| 6       | [[Vampire]]*             | Degenerates, science gone wrong, vampires                                                                                     |                                                                                                                             |
+| 6       | [[Xenoparasite]]*        | Aliens, body horror, science gone wrong                                                                                       |                                                                                                                             |
+| 7       | [[Fundamental-Angel\     | Fundamental Angel]]                                                                                                           | Demons, science gone wrong                                                                                                  |
+| 7       | [[Shoggoth\              | Shoggoth]]                                                                                                                    | Aliens, body horror, Lovecraftian                                                                                           |
+| 8       | [[Blob]]                 | Aliens, body horror, Lovecraftian, science gone wrong                                                                         |                                                                                                                             |
+| 8       | [[Elder-Thing\           | Elder Thing]]                                                                                                                 | Aliens, cryptids, Lovecraftian, science gone wrong                                                                          |
 
 * Creature found in the Cypher System Rulebook
 ### Horror Artifacts
@@ -284,147 +287,147 @@ Most of these are marked as fantastic cyphers, although depending on the genre a
 
 For your convenience, the cyphers have been organized into lists by horror genre or theme so you can randomly roll for something appropriate to your game without getting one that doesn’t apply (such as a cypher against vampires in an alien invasion horror game). If you’re running a game that mixes several genres, switch between lists each time you need to award a new manifest cypher.
 
-| D20   | ALIEN CYPHERS               |
-|-------|-----------------------------|
-| 1-2   | [[Anathema-Siren\|Anathema siren (aliens)]]     |
-| 3-4   | Decaptitative longevity     |
-| 5-6   | [[Horrific-Arm\|Horrific Arm]]                |
-| 7-8   | [[Horrific-Eye\|Horrific Eye]]|                |
-| 9-10  | [[Horrific-Integrated-Weapon\|Horrific Integrated Weapon]] |
-| 11-12 | [[Humanity-Tester\|Humanity Tester]]             |
-| 13-14 | [[Invisibility-Revealer\|Invisibility Revealer]]      |
-| 15-16 | [[Mind-Swapper\|Mind Swapper]]                |
-| 17-18 | [[Primitive-Doppelganger\|Primitive Doppelganger]]      |
-| 19-20 | [[Visage-Scrutinizer\|Visage Scrutinizer]]          |
+| D20     | ALIEN CYPHERS                 |                              |     |
+| ------- | ----------------------------- | ---------------------------- | --- |
+| 1-2     | [[Anathema-Siren\             | Anathema siren (aliens)]]    |     |
+| 3-4     | Decaptitative longevity       |                              |     |
+| 5-6     | [[Horrific-Arm\               | Horrific Arm]]               |     |
+| 7-8     | [[Horrific-Eye\               | Horrific Eye]]               |     |
+| 9-10    | [[Horrific-Integrated-Weapon\ | Horrific Integrated Weapon]] |     |
+| 11-12   | [[Humanity-Tester\            | Humanity Tester]]            |     |
+| 13-14   | [[Invisibility-Revealer\      | Invisibility Revealer]]      |     |
+| 15-16   | [[Mind-Swapper\               | Mind Swapper]]               |     |
+| 17-18   | [[Primitive-Doppelganger\     | Primitive Doppelganger]]     |     |
+| 19-20   | [[Visage-Scrutinizer\         | Visage Scrutinizer]]         |     |
 
-| D20   | BODY HORROR CYPHERS        |
-|-------|----------------------------|
-| 1-2   | [[Anathema-Siren\| Ascendant brain vivisector]] |
-| 3-4   |  Decaptitative longevity    |
-| 5-6   | [[Horrific-Arm\|Horrific Arm]]             |
-| 7-8   | [[Horrific-Eye\|Horrific Eye]]              |
-| 9-10  | [[Horrific-Face\|Horrific Face]]              |
-| 11-12 | [[Horrific-Integrated-Weapon\|Horrific Integrated Weapon]] |
-| 13-14 | [[Horrific-Orifice\|Horrific Orifice]]           |
-| 15-16 | [[Insanity-Suppressor\|Insanity Suppressor]]        |
-| 17-18 | [[Primitive-Doppelganger\|Primitive Doppelganger]]`     |
-| 19-20 | [[Reanimator]]                 |
+| D20     | BODY HORROR CYPHERS           |                              |
+| ------- | ----------------------------- | ---------------------------- |
+| 1-2     | [[Anathema-Siren\             | Ascendant brain vivisector]] |
+| 3-4     | Decaptitative longevity       |                              |
+| 5-6     | [[Horrific-Arm\               | Horrific Arm]]               |
+| 7-8     | [[Horrific-Eye\               | Horrific Eye]]               |
+| 9-10    | [[Horrific-Face\              | Horrific Face]]              |
+| 11-12   | [[Horrific-Integrated-Weapon\ | Horrific Integrated Weapon]] |
+| 13-14   | [[Horrific-Orifice\           | Horrific Orifice]]           |
+| 15-16   | [[Insanity-Suppressor\        | Insanity Suppressor]]        |
+| 17-18   | [[Primitive-Doppelganger\     | Primitive Doppelganger]]`    |
+| 19-20   | [[Reanimator]]                |                              |
 
-| D20   | CLASSIC MONSTER CYPHERS                     |
-| ----- | ------------------------------------------- |
-| 1     | [[Anathema-Siren\|Anathema siren (cryptids)]] |
-|      | [[Anathema-Siren\|Anathema siren (mummies)]]                    |
-| 3-4   | [[Anathema-Siren\|Anathema siren (undead)]]                     |
-| 5-6   | [[Anathema-Siren\|Anathema siren (vampires)]]                   |
-| 7-8   | [[Anathema-Siren\|Anathema siren (werewolves)]]                 |
-| 9     | [[Anathema-Siren\| Ascendant brain vivisector]]                  |
-| 10    | [[Anathema-Siren\|Ascendant flesh vivisector]]                  |
-| 11    | [[Corrupted-Canopic-Jar\|Corrupted Canopic Jar]]                       |
-| 12    | Decaptitative longevity                     |
-| 13    | [[Ghost-Detector\|Ghost Detector]]                              |
-| 14-16 | [[Invisibility-Serum\|Invisibility Serum]]                          |
-| 17    | [[Reanimator]]                                   |
-| 18-19 | [[Silgarho-Infusion\|Silgarho Infusion]]                           |
-| 20    | [[Unphantomed-Limb\|Unphantomed Limb]]                            |
+| D20   | CLASSIC MONSTER CYPHERS                     |                               |
+| ----- | ------------------------------------------- | ----------------------------- |
+| 1     | [[Anathema-Siren\                           | Anathema siren (cryptids)]]   |
+|       | [[Anathema-Siren\                           | Anathema siren (mummies)]]    |
+| 3-4   | [[Anathema-Siren\                           | Anathema siren (undead)]]     |
+| 5-6   | [[Anathema-Siren\                           | Anathema siren (vampires)]]   |
+| 7-8   | [[Anathema-Siren\                           | Anathema siren (werewolves)]] |
+| 9     | [[Anathema-Siren\                           | Ascendant brain vivisector]]  |
+| 10    | [[Anathema-Siren\                           | Ascendant flesh vivisector]]  |
+| 11    | [[Corrupted-Canopic-Jar\                    | Corrupted Canopic Jar]]       |
+| 12    | Decaptitative longevity                     |                               |
+| 13    | [[Ghost-Detector\                           | Ghost Detector]]              |
+| 14-16 | [[Invisibility-Serum\                       | Invisibility Serum]]          |
+| 17    | [[Reanimator]]                              |                               |
+| 18-19 | [[Silgarho-Infusion\                        | Silgarho Infusion]]           |
+| 20    | [[Unphantomed-Limb\                         | Unphantomed Limb]]            |
 
-| D20   | DARK MAGIC AND OCCULT CYPHERS |
-|-------|-------------------------------|
-| 1-4   | [[Anathema-Siren\|Anathema Siren (demons)]]       |
-| 5-7   | Decapitative longevity        |
-| 8-11  | [[Homunculus-Flask\|Homunculus Flask]]              |
-| 12-14 | [[Mind-Swapper\|Mind Swapper]]                  |
-| 15-17 | [[Reanimator]]                    |
-| 18-20 | [[Revenant-Serum\|Revenant Serum]]                |
+| D20     | DARK MAGIC AND OCCULT CYPHERS   |                           |
+| ------- | ------------------------------- | ------------------------- |
+| 1-4     | [[Anathema-Siren\               | Anathema Siren (demons)]] |
+| 5-7     | Decapitative longevity          |                           |
+| 8-11    | [[Homunculus-Flask\             | Homunculus Flask]]        |
+| 12-14   | [[Mind-Swapper\                 | Mind Swapper]]            |
+| 15-17   | [[Reanimator]]                  |                           |
+| 18-20   | [[Revenant-Serum\               | Revenant Serum]]          |
 
-| D20   | DEMON CYPHERS           |
-|-------|-------------------------|
-| 1-4   | [[Anathema-Siren\|Anathema Siren (demons)]] |
-| 5-7   | [[Horrific-Arm\|Horrific Arm]]            |
-| 8-10  | [[Horrific-Face\|Horrific Face]]           |
-| 11-13 | [[Humanity-Tester\|Humanity Tester]]         |
-| 14-16 | [[Reanimator]]              |
-| 17-20 | [[Visage-Scrutinizer\|Visage Scrutinizer]]      |
+| D20     | DEMON CYPHERS             |                           |
+| ------- | ------------------------- | ------------------------- |
+| 1-4     | [[Anathema-Siren\         | Anathema Siren (demons)]] |
+| 5-7     | [[Horrific-Arm\           | Horrific Arm]]            |
+| 8-10    | [[Horrific-Face\          | Horrific Face]]           |
+| 11-13   | [[Humanity-Tester\        | Humanity Tester]]         |
+| 14-16   | [[Reanimator]]            |                           |
+| 17-20   | [[Visage-Scrutinizer\     | Visage Scrutinizer]]      |
 
-| D20  | GHOST CYPHERS          |
-|------|------------------------|
-| 1-8  | [[Anathema-Siren#Anathema Siren\|Anathema siren (ghost)]] |
-| 9-20 | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]         |
+| D20    | GHOST CYPHERS                    |                          |
+| ------ | -------------------------------- | ------------------------ |
+| 1-8    | [[Anathema-Siren#Anathema Siren\ | Anathema siren (ghost)]] |
+| 9-20   | [[Ghost-Detector#Ghost Detector\ | Ghost Detector]]         |
 
-| D20   | LOVECRAFTIAN CYPHERS                        |
-|-------|---------------------------------------------|
-| 1-2   | [[Anathema-Siren#Anathema Siren\|Anathema siren (aliens)]]                     |
-| 3-4   | [[Anathema-Siren#Anathema Siren\|Anathema siren (cryptids)]]                   |
-| 5-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (extradimensional creatures)]] |
-| 7     | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead)]]                     |
-| 8-9   | [[Horrific-Arm#Horrific Arm\|Horrific Arm]]                                |
-| 10-11 | [[Horrific-Eye#Horrific Eye\|Horrific Eye]]                                |
-| 12-13 | [[Horrific-Face#Horrific Face\|Horrific Face]]                               |
-| 14-15 | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\|Horrific Integrated Weapon]]                  |
-| 16-17 | [[Insanity-Suppressor#Insanity Suppressor\|Insanity Suppressor]]                         |
-| 18-19 | [[Invisibility-Revealer#Invisibility Revealer\|Invisibility Revealer]]                       |
-| 20    | [[Mind-Swapper#Mind Swapper\|Mind Swapper]]                                |
+| D20     | LOVECRAFTIAN CYPHERS                                     |                                               |
+| ------- | -------------------------------------------------------- | --------------------------------------------- |
+| 1-2     | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (aliens)]]                     |
+| 3-4     | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (cryptids)]]                   |
+| 5-6     | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (extradimensional creatures)]] |
+| 7       | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (undead)]]                     |
+| 8-9     | [[Horrific-Arm#Horrific Arm\                             | Horrific Arm]]                                |
+| 10-11   | [[Horrific-Eye#Horrific Eye\                             | Horrific Eye]]                                |
+| 12-13   | [[Horrific-Face#Horrific Face\                           | Horrific Face]]                               |
+| 14-15   | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\ | Horrific Integrated Weapon]]                  |
+| 16-17   | [[Insanity-Suppressor#Insanity Suppressor\               | Insanity Suppressor]]                         |
+| 18-19   | [[Invisibility-Revealer#Invisibility Revealer\           | Invisibility Revealer]]                       |
+| 20      | [[Mind-Swapper#Mind Swapper\                             | Mind Swapper]]                                |
 
-| D20   | MUMMY CYPHERS            |
-|-------|--------------------------|
-| 1-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (mummies)]] |
-| 7-12  | [[Corrupted-Canopic-Jar#Corrupted Canopic Jar\|Corrupted Canopic Jar]]    |
-| 13-16 | [[Reanimator#Reanimator\|Reanimator]]               |
-| 17-20 | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]           |
+| D20     | MUMMY CYPHERS                                  |                            |
+| ------- | ---------------------------------------------- | -------------------------- |
+| 1-6     | [[Anathema-Siren#Anathema Siren\               | Anathema siren (mummies)]] |
+| 7-12    | [[Corrupted-Canopic-Jar#Corrupted Canopic Jar\ | Corrupted Canopic Jar]]    |
+| 13-16   | [[Reanimator#Reanimator\                       | Reanimator]]               |
+| 17-20   | [[Revenant-Serum#Revenant Serum\               | Revenant Serum]]           |
 
-| D20 | SCIENCE GONE WRONG CYPHERS |
-|-----|----------------------------|
-| 1   | [[Anathema-Siren#Anathema Siren\|Anathema siren (simulacra)]] |
-| 2   | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\|Ascendant Brain Vivisector]] |
-| 3   | [[Ascendant-Flesh-Vivisector#Ascendant Flesh Vivisector\|Ascendant Flesh Vivisector]] |
-| 4   | Decapitative longevity     |
-| 5   | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]             |
-| 6   | [[Ghost-Trap#Ghost Trap\|Ghost Trap]]                 |
-| 7   | [[Homunculus-Flask#Homunculus Flask\|Homunculus Flask]]          |
-| 8   | [[Horrific-Arm#Horrific Arm\|Horrific Arm]]                                |
-| 10-11 | [[Horrific-Eye#Horrific Eye\|Horrific Eye]]                                |
-| 12-13 | [[Horrific-Face#Horrific Face\|Horrific Face]]                               |
-| 14-15 | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\|Horrific Integrated Weapon]] |
-| 12  | [[Humanity-Tester\|Humanity Tester]]            |
-| 13  | [[Insanity-Suppressor#Insanity Suppressor\|Insanity Suppressor]]        |
-| 14  | [[Invisibility-Revealer#Invisibility Revealer\|Invisibility Revealer]]      |
-| 15  | [[Invisibility-Serum#Invisibility Serum\|Invisibility Serum]]        |
-| 16  | [[Mind-Swapper#Mind Swapper\|Mind Swapper]]               |
-| 17  | [[Primitive-Doppelganger#Primitive Doppelganger\|Primitive Doppelganger]]     |
-| 18  | [[Reanimator#Reanimator\|Reanimator]]                 |
-| 19  | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]             |
-| 20  | [[Unphantomed-Limb#Unphantomed Limb\|Unphantomed Limb]]           |
+| D20   | SCIENCE GONE WRONG CYPHERS                               |                              |
+| ----- | -------------------------------------------------------- | ---------------------------- |
+| 1     | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (simulacra)]] |
+| 2     | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\ | Ascendant Brain Vivisector]] |
+| 3     | [[Ascendant-Flesh-Vivisector#Ascendant Flesh Vivisector\ | Ascendant Flesh Vivisector]] |
+| 4     | Decapitative longevity                                   |                              |
+| 5     | [[Ghost-Detector#Ghost Detector\                         | Ghost Detector]]             |
+| 6     | [[Ghost-Trap#Ghost Trap\                                 | Ghost Trap]]                 |
+| 7     | [[Homunculus-Flask#Homunculus Flask\                     | Homunculus Flask]]           |
+| 8     | [[Horrific-Arm#Horrific Arm\                             | Horrific Arm]]               |
+| 10-11 | [[Horrific-Eye#Horrific Eye\                             | Horrific Eye]]               |
+| 12-13 | [[Horrific-Face#Horrific Face\                           | Horrific Face]]              |
+| 14-15 | [[Horrific-Integrated-Weapon#Horrific Integrated Weapon\ | Horrific Integrated Weapon]] |
+| 12    | [[Humanity-Tester\                                       | Humanity Tester]]            |
+| 13    | [[Insanity-Suppressor#Insanity Suppressor\               | Insanity Suppressor]]        |
+| 14    | [[Invisibility-Revealer#Invisibility Revealer\           | Invisibility Revealer]]      |
+| 15    | [[Invisibility-Serum#Invisibility Serum\                 | Invisibility Serum]]         |
+| 16    | [[Mind-Swapper#Mind Swapper\                             | Mind Swapper]]               |
+| 17    | [[Primitive-Doppelganger#Primitive Doppelganger\         | Primitive Doppelganger]]     |
+| 18    | [[Reanimator#Reanimator\                                 | Reanimator]]                 |
+| 19    | [[Revenant-Serum#Revenant Serum\                         | Revenant Serum]]             |
+| 20    | [[Unphantomed-Limb#Unphantomed Limb\                     | Unphantomed Limb]]           |
 
-| D20   | UNDEAD CYPHERS            |
-|-------|---------------------------|
-| 1-3   | [[Anathema-Siren#Anathema Siren\|Anathema siren (ghosts)]]   |
-| 4-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (vampires)]] |
-| 7-9   | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead) ]]  |
-| 10    | Decapitative longevity    |
-| 11-12 | [[Ghost-Detector#Ghost Detector\|Ghost Detector]]            |
-| 13    | [[Ghost-Trap#Ghost Trap\|Ghost Trap]]                |
-| 14    | [[Reanimator#Reanimator\|Reanimator]]                 |
-| 15    |[[Revenant-Serum#Revenant Serum\|Revenant Serum]]           |
-| 16-18 | [[Silgarho-Infusion#Silgarho Infusion\|Silgarho Infusion]]         |
-| 19-20 |[[Wolfsbane-Potion#Wolfsbane Potion\|Wolfsbane Potion]]          |
+| D20     | UNDEAD CYPHERS                         |                             |
+| ------- | -------------------------------------- | --------------------------- |
+| 1-3     | [[Anathema-Siren#Anathema Siren\       | Anathema siren (ghosts)]]   |
+| 4-6     | [[Anathema-Siren#Anathema Siren\       | Anathema siren (vampires)]] |
+| 7-9     | [[Anathema-Siren#Anathema Siren\       | Anathema siren (undead) ]]  |
+| 10      | Decapitative longevity                 |                             |
+| 11-12   | [[Ghost-Detector#Ghost Detector\       | Ghost Detector]]            |
+| 13      | [[Ghost-Trap#Ghost Trap\               | Ghost Trap]]                |
+| 14      | [[Reanimator#Reanimator\               | Reanimator]]                |
+| 15      | [[Revenant-Serum#Revenant Serum\       | Revenant Serum]]            |
+| 16-18   | [[Silgarho-Infusion#Silgarho Infusion\ | Silgarho Infusion]]         |
+| 19-20   | [[Wolfsbane-Potion#Wolfsbane Potion\   | Wolfsbane Potion]]          |
 
-| D20   | VAMPIRE CYPHERS          |
-|-------|--------------------------|
-| 1-6   | [[Anathema-Siren#Anathema Siren\|Anathema siren (vampire)]] |
-| 7-12  | [[Humanity-Tester#Humanity Tester\|Humanity Tester]]          |
-| 13-20 | [[Silgarho-Infusion#Silgarho Infusion\|Silgarho Infusion]]        |
+| D20     | VAMPIRE CYPHERS                        |                            |
+| ------- | -------------------------------------- | -------------------------- |
+| 1-6     | [[Anathema-Siren#Anathema Siren\       | Anathema siren (vampire)]] |
+| 7-12    | [[Humanity-Tester#Humanity Tester\     | Humanity Tester]]          |
+| 13-20   | [[Silgarho-Infusion#Silgarho Infusion\ | Silgarho Infusion]]        |
 
-| D20   | WEREWOLF CYPHERS            |
-|-------|-----------------------------|
-| 1-5   | [[Anathema-Siren#Anathema Siren\|Anathema siren (werewolves)]] |
-| 6-10  | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\|Ascendant Brain Vivisector]]  |
-| 11-15 | [[Reanimator#Reanimator\|Reanimator]]                  |
-| 16-20 | [[Wolfsbane-Potion#Wolfsbane Potion\|Wolfsbane Potion]]            |
+| D20     | WEREWOLF CYPHERS                                         |                               |
+| ------- | -------------------------------------------------------- | ----------------------------- |
+| 1-5     | [[Anathema-Siren#Anathema Siren\                         | Anathema siren (werewolves)]] |
+| 6-10    | [[Ascendant-Brain-Vivisector#Ascendant Brain Vivisector\ | Ascendant Brain Vivisector]]  |
+| 11-15   | [[Reanimator#Reanimator\                                 | Reanimator]]                  |
+| 16-20   | [[Wolfsbane-Potion#Wolfsbane Potion\                     | Wolfsbane Potion]]            |
 
-| D20   | ZOMBIE CYPHERS          |
-|-------|-------------------------|
-| 1-8   | [[Anathema-Siren#Anathema Siren\|Anathema siren (undead)]] |
-| 9-14  | [[Reanimator#Reanimator\|Reanimator]]              |
-| 15-20 | [[Revenant-Serum#Revenant Serum\|Revenant Serum]]          |
+| D20     | ZOMBIE CYPHERS                   |                           |
+| ------- | -------------------------------- | ------------------------- |
+| 1-8     | [[Anathema-Siren#Anathema Siren\ | Anathema siren (undead)]] |
+| 9-14    | [[Reanimator#Reanimator\         | Reanimator]]              |
+| 15-20   | [[Revenant-Serum#Revenant Serum\ | Revenant Serum]]          |
 
 ### Using GM Intrusions in Horror Mode
 With the GM intrusions coming fast and furious toward the end of Horror Mode, it’s easy to run out of ideas. In combat, intrusions might just mean that the monster or villain gets a surprise extra attack or inflicts more damage. Perhaps a PC is thrown to the ground or nearer to the edge of a cliff. If the characters are running away, one might trip and fall. If the PCs are exploring, a bookcase topples, potentially hitting someone. Think of all the similar moments you’ve seen in horror films.

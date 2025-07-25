@@ -22,6 +22,7 @@ pools:
 categories:
   - Protection
   - Support
+id: Energize-Creature
 ---
 ## Energize Creature    
 >**Action**    

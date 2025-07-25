@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 1
 health: 22
+id: Manticore
 ---
 ## Manticore    
 A manticore is a fearsome predator that resembles a maned red lion with a human head and a scorpion's tail. The head is bearded and has three rows of teeth in the upper and lower jaws, like a shark. The scorpion tail is covered in multiple barbs, and the creature can flick its tail to hurl these barbs at its prey. Manticores eat all of their prey, including the bones, clothing, and equipment, leaving nothing but a bloodstain as evidence of their hunting.    

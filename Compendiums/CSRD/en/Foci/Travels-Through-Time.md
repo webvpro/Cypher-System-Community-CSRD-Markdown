@@ -7,6 +7,7 @@ tags:
 title: Travels Through Time
 collection: Foci
 kind: Focus
+id: Travels-Through-Time
 ---
 ## Travels Through Time    
 You can see through time, try to reach through it, and eventually even travel through it.    

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Fairytale
 title: Wish-Granting Pearl
 collection: Cyphers
 kind: Cypher
+id: Wish-Granting-Pearl
+categories:
+  - Fairytale
 ---
 ## Wish-Granting Pearl    
 >[!info] Stats    

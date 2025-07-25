@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact/Weapon
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Disintegration Beamer
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Disintegration-Beamer
 ---
 ## Disintegration Beamer    
 >[!info] Stats    

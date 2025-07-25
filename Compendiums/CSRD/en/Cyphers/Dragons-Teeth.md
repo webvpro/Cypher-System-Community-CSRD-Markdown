@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Dragons-Teeth
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Dragon's Teeth
 collection: Cyphers
 kind: Cypher
+id: Dragons-Teeth
+categories:
+  - Fairytale
 ---
 ## Dragon's Teeth    
 >[!info] Stats    

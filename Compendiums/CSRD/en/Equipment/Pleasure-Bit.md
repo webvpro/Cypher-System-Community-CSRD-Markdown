@@ -11,6 +11,7 @@ tags:
 title: Pleasure Bit
 collection: Equipment
 kind: Equipment
+id: Pleasure-Bit
 ---
 ## Pleasure Bit    
     

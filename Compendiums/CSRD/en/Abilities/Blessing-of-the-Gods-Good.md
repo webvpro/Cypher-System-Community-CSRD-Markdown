@@ -10,6 +10,7 @@ tags:
 title: Blessing of the Gods
 collection: Rules
 kind: Ability
+id: Blessing-of-the-Gods-Good
 ---
 # Blessing of the Gods    
   

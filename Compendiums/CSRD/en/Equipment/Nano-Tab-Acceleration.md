@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Nano Tab, Acceleration
+  - 'Nano Tab, Acceleration'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
-title: Nano Tab, Acceleration
+title: 'Nano Tab, Acceleration'
 collection: Equipment
 kind: Equipment
+id: Nano-Tab-Acceleration
 ---
 ## Nano Tab, Acceleration    
     

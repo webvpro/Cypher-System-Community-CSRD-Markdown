@@ -7,6 +7,7 @@ tags:
 title: Impulsive
 collection: Descriptors
 kind: Descriptor
+id: Impulsive
 ---
 ## Impulsive    
 You have a hard time tamping down your enthusiasm. Why wait when you can just do it (whatever it is) and get it done? You deal with problems when they arise rather than plan ahead. Putting out the small fires now prevents them from becoming one big fire later. You are the first to take risks, to jump in and lend a hand, to step into dark passages, and to find danger.  

@@ -14,6 +14,7 @@ tags:
 title: Microphone Designed to Be Concealed
 collection: Equipment
 kind: Equipment
+id: Microphone-Designed-to-Be-Concealed
 ---
 ## Microphone Designed to Be Concealed    
     

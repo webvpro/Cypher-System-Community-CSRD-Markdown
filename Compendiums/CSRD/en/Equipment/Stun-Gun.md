@@ -12,6 +12,7 @@ tags:
 title: Stun "Gun"
 collection: Equipment
 kind: Equipment
+id: Stun-Gun
 ---
 ## Stun "Gun"    
     

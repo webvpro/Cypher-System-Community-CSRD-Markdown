@@ -8,6 +8,7 @@ tags:
 title: Poppet Damage
 collection: Cyphers
 kind: Cypher
+id: Poppet-Damage
 ---
 ## Poppet Damage    
 >[!info] Stats    

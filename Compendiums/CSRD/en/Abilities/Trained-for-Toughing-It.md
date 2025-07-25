@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Trained-for-Toughing-It
 ---
 ## Trained for Toughing It    
 >**Enabler**  

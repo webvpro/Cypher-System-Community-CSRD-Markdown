@@ -7,6 +7,7 @@ tags:
 title: Doomed
 collection: Descriptors
 kind: Descriptor
+id: Doomed
 ---
 ## Doomed    
 You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.  

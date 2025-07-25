@@ -16,6 +16,7 @@ tags:
 title: Heavy Blaster
 collection: Equipment
 kind: Equipment
+id: Heavy-Blaster
 ---
 ## Heavy Blaster    
     

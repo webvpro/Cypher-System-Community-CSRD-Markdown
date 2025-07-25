@@ -8,6 +8,7 @@ tags:
 title: Phase Disruptor
 collection: Cyphers
 kind: Cypher
+id: Phase-Disruptor
 ---
 ## Phase Disruptor    
 >[!info] Stats    

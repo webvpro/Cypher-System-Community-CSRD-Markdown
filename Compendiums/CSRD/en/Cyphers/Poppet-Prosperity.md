@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Poppet Prosperity
 collection: Cyphers
 kind: Cypher
+id: Poppet-Prosperity
+categories:
+  - Fairytale
 ---
 ## Poppet Prosperity    
 >[!info] Stats    

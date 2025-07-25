@@ -9,6 +9,7 @@ tags:
 title: Ink Pen
 collection: Equipment
 kind: Equipment
+id: Ink-Pen
 ---
 ## Ink Pen    
     

@@ -14,6 +14,7 @@ kind: Creature
 level: 2
 armor: 2
 health: 6
+id: Hooked-Blossom
 ---
 ## Hooked Blossom    
 Hooked blossoms germinate almost like regular plants but can root even on constructed surfaces, including cement and sometimes metal. Rooted juveniles display pinkish flowers--which some equate to the color of an open wound--that give off an alluring perfume.   

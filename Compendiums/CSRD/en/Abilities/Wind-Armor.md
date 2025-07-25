@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Wind-Armor
 ---
 ## Wind Armor    
 >**Enabler**    

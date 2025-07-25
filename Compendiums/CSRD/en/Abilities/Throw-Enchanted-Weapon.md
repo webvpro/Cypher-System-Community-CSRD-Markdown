@@ -8,6 +8,8 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+  - Content/Superhero
+  - Content/Fantasy
 title: Throw Enchanted Weapon
 collection: Abilities
 kind: Ability
@@ -18,6 +20,9 @@ tier: NA
 pools: []
 categories:
   - NA
+  - Superhero
+  - Fantasy
+id: Throw-Enchanted-Weapon
 ---
 ## Throw Enchanted Weapon    
 >**Enabler**  

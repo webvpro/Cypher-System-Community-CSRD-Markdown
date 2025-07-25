@@ -11,6 +11,7 @@ tags:
 title: Greatsword
 collection: Equipment
 kind: Equipment
+id: Greatsword
 ---
 ## Greatsword    
     

@@ -9,6 +9,7 @@ title: Staff of Healing
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Staff-of-Healing
 ---
 ## Staff of Healing    
 >[!info] Stats    

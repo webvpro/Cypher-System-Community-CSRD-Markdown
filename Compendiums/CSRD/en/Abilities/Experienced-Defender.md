@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Protection
+id: Experienced-Defender
 ---
 ## Experienced Defender    
 >**Enabler**  

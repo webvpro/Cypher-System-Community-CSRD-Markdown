@@ -7,6 +7,7 @@ tags:
 title: Craven
 collection: Descriptors
 kind: Descriptor
+id: Craven
 ---
 ## Craven    
 Courage fails you at every turn. You lack the willpower and resolve to stand fast in the face of danger. Fear gnaws at your heart, chewing away at your mind, driving you to distraction until you cannot bear it. Most times, you back down from confrontations. You flee from threats and vacillate when faced with difficult decisions.  

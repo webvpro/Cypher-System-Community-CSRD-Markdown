@@ -22,6 +22,7 @@ pools:
 categories:
   - Environment
   - Special-Attack
+id: Grasping-Foliage
 ---
 ## Grasping Foliage    
 >**Action**    

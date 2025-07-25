@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Roaming-Third-Eye
 ---
 ## Roaming Third Eye    
 >**Enabler**    

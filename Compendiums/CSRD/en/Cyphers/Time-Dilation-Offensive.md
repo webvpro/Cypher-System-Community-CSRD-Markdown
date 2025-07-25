@@ -8,6 +8,7 @@ tags:
 title: Time Dilation Offensive
 collection: Cyphers
 kind: Cypher
+id: Time-Dilation-Offensive
 ---
 ## Time Dilation Offensive    
 >[!info] Stats    

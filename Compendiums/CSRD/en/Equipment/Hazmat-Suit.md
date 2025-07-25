@@ -10,6 +10,7 @@ tags:
 title: Hazmat Suit
 collection: Equipment
 kind: Equipment
+id: Hazmat-Suit
 ---
 ## Hazmat Suit    
     

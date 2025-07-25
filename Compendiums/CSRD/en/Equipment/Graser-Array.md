@@ -11,6 +11,7 @@ tags:
 title: Graser Array
 collection: Equipment
 kind: Equipment
+id: Graser-Array
 ---
 ## Graser Array    
     

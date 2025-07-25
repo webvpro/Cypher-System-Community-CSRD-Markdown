@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Movement
+id: Juggernaut
 ---
 ## Juggernaut    
 >**Enabler**    

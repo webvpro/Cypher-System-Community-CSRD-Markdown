@@ -18,8 +18,12 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Hardened-by-the-End
 ---
-## Hardened by the End    
->**Action**  
-    
+## Hardened by the End  
+  
+>**Action**
+  
+  
+  
 You're trained in Might defense tasks.

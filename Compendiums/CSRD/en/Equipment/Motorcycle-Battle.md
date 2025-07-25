@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Motorcycle, Battle
+  - 'Motorcycle, Battle'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Motorcycle, Battle
+title: 'Motorcycle, Battle'
 collection: Equipment
 kind: Equipment
+id: Motorcycle-Battle
 ---
 ## Motorcycle, Battle    
     

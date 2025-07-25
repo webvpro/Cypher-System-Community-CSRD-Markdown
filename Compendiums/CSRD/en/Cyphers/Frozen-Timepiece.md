@@ -8,6 +8,7 @@ tags:
 title: Frozen Timepiece
 collection: Cyphers
 kind: Cypher
+id: Frozen-Timepiece
 ---
 ## Frozen Timepiece    
 >[!info] Stats    

@@ -18,6 +18,7 @@ tags:
 title: Lightweight Body Armor
 collection: Equipment
 kind: Equipment
+id: Lightweight-Body-Armor
 ---
 ## Lightweight Body Armor    
     

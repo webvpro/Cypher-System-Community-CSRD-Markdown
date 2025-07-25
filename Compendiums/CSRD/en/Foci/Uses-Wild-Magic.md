@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/
+  - Content/Fantasy
 title: Uses Wild Magic
 collection: Foci
 kind: Focus
+id: Uses-Wild-Magic
+categories:
+  - Fantasy
 ---
 ## Uses Wild Magic    
 spellcaster who learns a variety of spells instead of focusing on just one kind of magic.    

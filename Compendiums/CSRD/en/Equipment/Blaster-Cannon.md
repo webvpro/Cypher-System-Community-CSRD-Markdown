@@ -9,6 +9,7 @@ tags:
 title: Blaster Cannon
 collection: Equipment
 kind: Equipment
+id: Blaster-Cannon
 ---
 ## Blast Cannon    
     

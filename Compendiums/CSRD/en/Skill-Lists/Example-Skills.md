@@ -8,6 +8,7 @@ tags:
 title: Example Skills
 collection: Skill-Lists
 kind: List
+id: Example-Skills
 ---
 ## Example-Skills  
 - Astronomy  

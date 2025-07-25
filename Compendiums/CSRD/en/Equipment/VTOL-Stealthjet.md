@@ -11,6 +11,7 @@ tags:
 title: VTOL Stealthjet
 collection: Equipment
 kind: Equipment
+id: VTOL-Stealthjet
 ---
 ## VTOL Stealthjet    
     

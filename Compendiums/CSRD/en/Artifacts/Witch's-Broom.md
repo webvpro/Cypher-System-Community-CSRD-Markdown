@@ -9,6 +9,7 @@ title: Witch's Broom
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Witch's-Broom
 ---
 ## Witch's Broom    
 >[!info] Stats    

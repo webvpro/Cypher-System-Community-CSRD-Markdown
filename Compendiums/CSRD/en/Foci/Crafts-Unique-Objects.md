@@ -7,6 +7,7 @@ tags:
 title: Crafts Unique Objects
 collection: Foci
 kind: Focus
+id: Crafts-Unique-Objects
 ---
 ## Crafts Unique Objects    
 You're an inventor of strange and useful objects.    

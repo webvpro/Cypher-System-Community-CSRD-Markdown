@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Spur-Effort
 ---
 ## Spur Effort    
 >**Enabler**    

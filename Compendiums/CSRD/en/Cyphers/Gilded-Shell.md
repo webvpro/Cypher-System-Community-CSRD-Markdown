@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Gilded Shell
 collection: Cyphers
 kind: Cypher
+id: Gilded-Shell
+categories:
+  - Fairytale
 ---
 ## Gilded Shell    
 >[!info] Stats    

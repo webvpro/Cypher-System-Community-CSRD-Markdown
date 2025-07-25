@@ -10,6 +10,7 @@ tags:
 title: Hand Crossbow
 collection: Equipment
 kind: Equipment
+id: Hand-Crossbow
 ---
 ## Hand Crossbow    
     

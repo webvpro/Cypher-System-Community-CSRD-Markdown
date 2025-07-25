@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Horrific Face
 collection: Cyphers
 kind: Cypher
+id: Horrific-Face
+categories:
+  - Horror
 ---
 ## Horrific Face    
 >[!info] Stats    

@@ -8,6 +8,7 @@ title: Raise a Child
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Raise-a-Child
 ---
 ## New Discovery  
 >You raise a child to adulthood. It can be your biological child or one you adopt. It can even be a child taken under your wing, more a young protégé than a son or daughter. This is obviously a very long-term arc.   

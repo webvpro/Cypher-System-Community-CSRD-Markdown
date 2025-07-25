@@ -1,13 +1,15 @@
 ---
-aliases: Fantasy Rules Module
+aliases:
+  - Fantasy Rules Module
 tags:
   - Compendium/CSRD/en/Rules/Fantasy-Rules-Module
   - Rule/Crafting/Magic-Items
   - Rule/Crafting/Cypher
   - Rule/Crafting/Artifacts
-title: F
+title: Fantasy Rules Module
 collection: Rules
 kind: Rule
+id: Fantasy-Rules-Module
 ---
 # Fantasy Rules Module  
   

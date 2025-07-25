@@ -1,14 +1,15 @@
 ---
 aliases:
-  - Caltrops, Bag
+  - 'Caltrops, Bag'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/1-Gp
-title: Caltrops, Bag
+title: 'Caltrops, Bag'
 collection: Equipment
 kind: Equipment
+id: Caltrops-Bag
 ---
 ## Caltrops, Bag    
     

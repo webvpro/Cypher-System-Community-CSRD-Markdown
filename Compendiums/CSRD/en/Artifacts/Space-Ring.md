@@ -9,6 +9,7 @@ title: Space Ring
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Space-Ring
 ---
 ## Space Ring    
 >[!info] Stats    

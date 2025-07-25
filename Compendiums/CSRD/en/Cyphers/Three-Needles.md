@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Three Needles
 collection: Cyphers
 kind: Cypher
+id: Three-Needles
+categories:
+  - Fairytale
 ---
 ## Three Needles    
 >[!info] Stats    

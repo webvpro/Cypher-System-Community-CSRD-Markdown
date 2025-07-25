@@ -18,8 +18,12 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Make-Judgment
 ---
-## Make Judgment    
->**Enabler**  
-    
+## Make Judgment  
+  
+>**Enabler**
+  
+  
+  
 You are trained in discerning the truth of a situation, seeing through lies, or otherwise overcoming deception. Enabler.

@@ -8,12 +8,18 @@ tags:
   - Creature/Level/5
   - Creature/Armor/0
   - Creature/Health/21
+  - Content/Fairytale
+  - Content/Horror
 title: Witch
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 0
 health: 21
+id: Witch
+categories:
+  - Fairytale
+  - Horror
 ---
 ## Witch    
 Witches are complex beings of myriad personalities, desires, and abilities. Sometimes they're the stuff of nightmares, with tales of their exploits keeping children safe in their beds during the darkest hours. Other times they're wise helpers--at least for a little  

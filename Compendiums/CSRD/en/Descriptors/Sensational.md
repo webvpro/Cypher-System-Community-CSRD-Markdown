@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+  - Content/Superhero
 title: Sensational
 collection: Descriptors
 kind: Descriptor
+id: Sensational
+categories:
+  - Superhero
 ---
 ## Sensational    
 The public and the press like you. Maybe you're photogenic, or you're inherently nice, or you have really good luck with journalists. Whatever the cause of it, you're the darling of the media, and whenever you're seen in public, you generate a lot of positive interest and excitement. (If you don't have a secret identity, this attention probably also carries over to your day job, which is a mixed blessing.) People know that you're a hero and that they can count on you to do the right thing--fighting crime, battling injustice, punching evil robots, that kind of stuff. Sometimes being in the public eye so much can be wearying or even a burden, but you know how to use your reputation to set a good example and make the world a better place.  

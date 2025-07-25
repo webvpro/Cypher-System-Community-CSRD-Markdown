@@ -11,6 +11,7 @@ tags:
 title: Paint-On Impact Armor
 collection: Equipment
 kind: Equipment
+id: Paint-On-Impact-Armor
 ---
 ## Paint-On Impact Armor    
     

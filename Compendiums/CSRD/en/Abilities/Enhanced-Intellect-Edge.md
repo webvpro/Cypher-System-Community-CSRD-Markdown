@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Enhanced-Intellect-Edge
 ---
 ## Enhanced Intellect Edge    
 >**Enabler**  

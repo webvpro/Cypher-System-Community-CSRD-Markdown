@@ -14,6 +14,7 @@ kind: NPC
 level: 4
 armor: 1
 health: 12
+id: Thief
 ---
 ## Thief    
 A thief takes things that don't belong to them-preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets.    

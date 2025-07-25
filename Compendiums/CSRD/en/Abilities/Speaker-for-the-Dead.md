@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Speaker-for-the-Dead
 ---
 ## Speaker for the Dead    
 >**Action**    

@@ -11,6 +11,7 @@ tags:
 title: Throwing Knife
 collection: Equipment
 kind: Equipment
+id: Throwing-Knife
 ---
 ## Throwing Knife    
     

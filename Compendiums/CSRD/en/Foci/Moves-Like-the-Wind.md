@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Movement-Expertise
+  - Content/Fantasy
 title: Moves Like the Wind
 collection: Foci
 kind: Focus
+id: Moves-Like-the-Wind
+categories:
+  - Fantasy
 ---
 ## Moves Like the Wind    
 You can move so fast that you become a blur.    

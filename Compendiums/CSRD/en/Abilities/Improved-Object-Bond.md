@@ -22,6 +22,7 @@ pools:
 categories:
   - Companion
   - Special-Attack
+id: Improved-Object-Bond
 ---
 ## Improved Object Bond    
 >**Enabler**    

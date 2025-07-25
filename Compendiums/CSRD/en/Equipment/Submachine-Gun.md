@@ -18,6 +18,7 @@ tags:
 title: Submachine Gun
 collection: Equipment
 kind: Equipment
+id: Submachine-Gun
 ---
 ## Submachine Gun    
     

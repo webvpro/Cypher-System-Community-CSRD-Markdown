@@ -22,6 +22,7 @@ pools:
 categories:
   - Support
   - Task
+id: Inspire-Aggression
 ---
 ## Inspire Aggression    
 >**Action**    

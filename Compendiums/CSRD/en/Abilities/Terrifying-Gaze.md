@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Terrifying-Gaze
 ---
 ## Terrifying Gaze    
 >**Action**    

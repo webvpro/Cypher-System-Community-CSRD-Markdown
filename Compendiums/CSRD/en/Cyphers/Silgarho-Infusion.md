@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Silgarho Infusion
 collection: Cyphers
 kind: Cypher
+id: Silgarho-Infusion
+categories:
+  - Horror
 ---
 ## Silgarho Infusion    
 >[!info] Stats    

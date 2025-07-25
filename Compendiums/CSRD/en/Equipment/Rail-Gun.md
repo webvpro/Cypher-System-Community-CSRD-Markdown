@@ -12,6 +12,7 @@ tags:
 title: Rail Gun
 collection: Equipment
 kind: Equipment
+id: Rail-Gun
 ---
 ## Rail Gun    
     

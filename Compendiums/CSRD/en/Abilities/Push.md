@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Push
 ---
 ## Push    
 >**Action**    

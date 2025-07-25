@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Cure
+id: Damage-Transference
 ---
 ## Damage Transference    
 >**Enabler**  

@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Golden Bridle
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Golden-Bridle
 ---
 ## Golden Bridle    
 >[!info] Stats    

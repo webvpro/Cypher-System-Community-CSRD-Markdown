@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Autodoc, Mobile
+  - 'Autodoc, Mobile'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Autodoc, Mobile
+title: 'Autodoc, Mobile'
 collection: Equipment
 kind: Equipment
+id: Autodoc-Mobile
 ---
 ## Autodoc, Mobile    
     

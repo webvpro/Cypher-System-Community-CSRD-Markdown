@@ -22,6 +22,7 @@ pools:
 categories:
   - Craft
   - Meta
+id: Modify-Artifact-Power
 ---
 ## Modify Artifact Power    
 >**Action**    

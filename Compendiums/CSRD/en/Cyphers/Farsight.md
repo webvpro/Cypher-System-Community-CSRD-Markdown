@@ -8,6 +8,7 @@ tags:
 title: Farsight
 collection: Cyphers
 kind: Cypher
+id: Farsight
 ---
 ## Farsight    
 >[!info] Stats    

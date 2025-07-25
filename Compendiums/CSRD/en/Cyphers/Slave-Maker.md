@@ -8,6 +8,7 @@ tags:
 title: Slave Maker
 collection: Cyphers
 kind: Cypher
+id: Slave-Maker
 ---
 ## Slave Maker    
 >[!info] Stats    

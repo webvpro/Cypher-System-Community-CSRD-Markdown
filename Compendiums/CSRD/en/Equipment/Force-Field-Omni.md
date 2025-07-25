@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Force Field, Omni
+  - 'Force Field, Omni'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Apparel-And-Armor
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
-title: Force Field, Omni
+title: 'Force Field, Omni'
 collection: Equipment
 kind: Equipment
+id: Force-Field-Omni
 ---
 ## Force Field, Omni    
     

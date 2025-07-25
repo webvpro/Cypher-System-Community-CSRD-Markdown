@@ -9,6 +9,7 @@ tags:
 title: Entertainer's Costume
 collection: Equipment
 kind: Equipment
+id: Entertainer's-Costume
 ---
 ## Entertainer's Costume    
     

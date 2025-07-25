@@ -8,6 +8,7 @@ title: New Discovery
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: New-Discovery
 ---
 ## New Discovery  
 >You want to invent a new device, process, spell, or something similar. A cure for a heretofore unknown disease? An invocation with a result you’ve never heard of before? A method for getting into an impregnable vault? Any of these and more could be your discovery. While similar to the Creation arc and the Learn arc, the New Discovery arc involves blazing a new trail. No one can teach you what you want to know. You’ve got to do it on your own.  

@@ -10,6 +10,7 @@ tags:
 title: Broadsword
 collection: Equipment
 kind: Equipment
+id: Broadsword
 ---
 ## Broadsword    
     

@@ -1,7 +1,9 @@
 ---
 aliases:
-- "Consent and Boundaries"
+  - Consent and Boundaries
 tags:
--  Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules
+id: Consent-and-Boundaries
+title: Consent and Boundaries
+---
 
-# Consent and Boundaries

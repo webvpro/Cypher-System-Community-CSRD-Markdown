@@ -14,6 +14,7 @@ kind: Creature
 level: 6
 armor: 3
 health: 33
+id: Puppet-Tree
 ---
 ## Puppet Tree    
 A puppet tree is a 25-foot (8 m) tall, spiky, orange and blue tree surrounded by a large area of red reeds that tremble and wave enticingly even when no wind is present. Humanoid figures are often gathered around it, but these rotted, overgrown corpses are the tree's victims, dead but serving as fleshy puppets to the tree's will.  

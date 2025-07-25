@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Lethal-Vibration
 ---
 ## Lethal Vibration    
 >**Action**    

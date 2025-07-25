@@ -9,6 +9,7 @@ tags:
 title: Piton
 collection: Equipment
 kind: Equipment
+id: Piton
 ---
 ## Piton    
     

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Yacht, Hydroplane
+  - 'Yacht, Hydroplane'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Exorbitant
-title: Yacht, Hydroplane
+title: 'Yacht, Hydroplane'
 collection: Equipment
 kind: Equipment
+id: Yacht-Hydroplane
 ---
 ## Yacht, Hydroplane    
     

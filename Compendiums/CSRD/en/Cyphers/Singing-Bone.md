@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Singing Bone
 collection: Cyphers
 kind: Cypher
+id: Singing-Bone
+categories:
+  - Fairytale
 ---
 ## Singing Bone    
 >[!info] Stats    

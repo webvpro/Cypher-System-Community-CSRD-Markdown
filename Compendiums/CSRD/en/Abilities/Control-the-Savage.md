@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Control-the-Savage
 ---
 ## Control the Savage    
 >**Action**    

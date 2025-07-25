@@ -8,6 +8,7 @@ tags:
 title: Tissue Regeneration
 collection: Cyphers
 kind: Cypher
+id: Tissue-Regeneration
 ---
 ## Tissue Regeneration    
 >[!info] Stats    

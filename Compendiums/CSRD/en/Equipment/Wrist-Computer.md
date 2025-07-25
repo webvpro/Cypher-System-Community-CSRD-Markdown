@@ -10,6 +10,7 @@ tags:
 title: Wrist Computer
 collection: Equipment
 kind: Equipment
+id: Wrist-Computer
 ---
 ## Wrist Computer    
     

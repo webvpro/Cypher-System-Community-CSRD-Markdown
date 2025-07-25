@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/2
   - Creature/Health/35
+  - Content/Horror
 title: Fundamental Angel
 collection: Creatures-NPCs
 kind: Creature
 level: 7
 armor: 2
 health: 35
+id: Fundamental-Angel
+categories:
+  - Horror
 ---
 ## Fundamental Angel    
 Fundamental angels are mysterious holy beings that maintain and guard fundamental concepts of the universe, such as time, gravity, and energy. They have powers and agendas deriving from higher states of reality. They are strange, terrifying, and inconstant in form, unlike the relatively benign and comprehensible winged humanoids from religion and myth.  

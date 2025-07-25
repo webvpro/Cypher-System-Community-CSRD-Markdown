@@ -14,6 +14,7 @@ kind: Creature
 level: 2
 armor: 1
 health: 8
+id: Pollution-Goblin
 ---
 ## Pollution Goblin  
 Pollution goblins are strange child-sized creatures that arise in environments where pollution or toxic waste is common. Their green skin is covered in scabs and pustules, except where it looks melted by acid, and their eyes have a wicked green glow that’s faintly visible in the dark. They don’t seem to have much of a culture or society, roaming around polluted areas like scavenging insects. They often ignore each other’s presence and never attack each other, but they immediately unite against a common foe if any of them are threatened. A pollution goblin’s semi-liquefied body can slide up or down any firm surface, allowing them to climb anywhere with ease. Pollution goblins have bones and internal organs, but they’re oddly shaped and don’t match those of any known creature. Because of this, and how they quickly melt away if killed, they might actually be artificial beings like homunculi, or inanimate matter given life like an elemental. They seem to arise  

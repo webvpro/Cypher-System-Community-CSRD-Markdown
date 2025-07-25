@@ -8,12 +8,16 @@ tags:
   - Creature/Level/8
   - Creature/Armor/0
   - Creature/Health/66
+  - Content/Horror
 title: Blob
 collection: Creatures-NPCs
 kind: Creature
 level: 8
 armor: 0
 health: 66
+id: Blob
+categories:
+  - Horror
 ---
 ## Blob    
 The huge, undulating mass of this creature is composed of a mucus-like solid. The half-amorphous blob defeats its foes by absorbing prey, integrating a victim's tissue into its own. In essence, the victim becomes the blob, and all of the victim's knowledge is available to the blob for later use.  

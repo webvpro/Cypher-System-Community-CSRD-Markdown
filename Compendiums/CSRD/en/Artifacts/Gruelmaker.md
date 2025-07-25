@@ -9,6 +9,7 @@ title: Gruelmaker
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Gruelmaker
 ---
 ## Gruelmaker    
 >[!info] Stats    

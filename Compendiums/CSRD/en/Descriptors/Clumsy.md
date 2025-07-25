@@ -7,6 +7,7 @@ tags:
 title: Clumsy
 collection: Descriptors
 kind: Descriptor
+id: Clumsy
 ---
 ## Clumsy    
 Graceless and awkward, you were told that you'd grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.  

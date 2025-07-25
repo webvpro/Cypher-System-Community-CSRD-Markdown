@@ -11,6 +11,7 @@ tags:
 title: Battleaxe
 collection: Equipment
 kind: Equipment
+id: Battleaxe
 ---
 ## Battleaxe    
     

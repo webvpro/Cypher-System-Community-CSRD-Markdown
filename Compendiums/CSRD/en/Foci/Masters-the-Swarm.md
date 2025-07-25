@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Ally-Use
+  - Content/Fantasy
 title: Masters the Swarm
 collection: Foci
 kind: Focus
+id: Masters-the-Swarm
+categories:
+  - Fantasy
 ---
 ## Masters the Swarm    
 Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.    

@@ -9,6 +9,7 @@ title: Elfblade
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Elfblade
 ---
 ## Elfblade    
 >[!info] Stats    

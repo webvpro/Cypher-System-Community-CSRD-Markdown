@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Weapon-and-Body
 ---
 ## Weapon and Body    
 >**Action**    

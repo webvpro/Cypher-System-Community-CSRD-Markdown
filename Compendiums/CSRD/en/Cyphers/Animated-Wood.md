@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers/Animated-Wood
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Animated Wood
 collection: Cyphers
 kind: Cypher
+id: Animated-Wood
+categories:
+  - Fairytale
 ---
 ## Animated Wood    
 >[!info] Stats    

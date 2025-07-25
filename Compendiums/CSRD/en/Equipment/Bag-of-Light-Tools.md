@@ -16,6 +16,7 @@ tags:
 title: Bag of Light Tools
 collection: Equipment
 kind: Equipment
+id: Bag-of-Light-Tools
 ---
 ## Bag of Light Tools    
     

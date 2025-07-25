@@ -9,6 +9,7 @@ title: Spellbook of the Amber Mage
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Spellbook-of-the-Amber-Mage
 ---
 ## Spellbook of the Amber Mage    
 >[!info] Stats    

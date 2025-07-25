@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Apple of Discord
 collection: Cyphers
 kind: Cypher
+id: Apple-of-Discord
+categories:
+  - Fairytale
 ---
 ## Apple of Discord    
 >[!info] Stats    

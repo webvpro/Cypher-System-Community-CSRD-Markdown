@@ -12,6 +12,7 @@ tags:
 title: Battlesuit
 collection: Equipment
 kind: Equipment
+id: Battlesuit
 ---
 ## Battlesuit    
     

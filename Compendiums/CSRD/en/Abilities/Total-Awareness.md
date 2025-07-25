@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Task
+  - Content/Weird-West
 title: Total Awareness
 collection: Abilities
 kind: Ability
@@ -18,6 +19,8 @@ tier: High
 pools: []
 categories:
   - Task
+  - Weird-West
+id: Total-Awareness
 ---
 ## Total Awareness    
 >**Enabler**  

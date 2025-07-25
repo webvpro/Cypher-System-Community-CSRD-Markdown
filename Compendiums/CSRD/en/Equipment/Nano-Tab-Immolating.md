@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Nano Tab, Immolating
+  - 'Nano Tab, Immolating'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Fantastic
@@ -8,9 +8,10 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/7
   - Equipment/Value/Priceless
-title: Nano Tab, Immolating
+title: 'Nano Tab, Immolating'
 collection: Equipment
 kind: Equipment
+id: Nano-Tab-Immolating
 ---
 ## Nano Tab, Immolating    
     

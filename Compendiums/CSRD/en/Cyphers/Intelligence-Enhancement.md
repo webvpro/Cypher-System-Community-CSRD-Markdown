@@ -8,6 +8,7 @@ tags:
 title: Intelligence Enhancement
 collection: Cyphers
 kind: Cypher
+id: Intelligence-Enhancement
 ---
 ## Intelligence Enhancement    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Transform
+id: Vanish
 ---
 ## Vanish    
 >**Action**    

@@ -8,6 +8,7 @@ tags:
 title: Speed Boost
 collection: Cyphers
 kind: Cypher
+id: Speed-Boost
 ---
 ## Speed Boost    
 >[!info] Stats    

@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 12
+id: Ai-Zombie
 ---
 ## Ai Zombie    
 An artificial intelligence that permanently installs itself onto the wetware (in this case, the brain) of a human or other sapient creature creates an AI zombie. The AI replaces the person's personality and motivations, turning them into a shambling creature who only does the AI's bidding, even as their body decays and falls apart (though most keep shambling because of an injection of nano repair bots).   

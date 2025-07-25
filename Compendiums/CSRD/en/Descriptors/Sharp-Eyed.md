@@ -7,6 +7,7 @@ tags:
 title: Sharp-Eyed
 collection: Descriptors
 kind: Descriptor
+id: Sharp-Eyed
 ---
 ## Sharp-Eyed    
 You're perceptive and well aware of your surroundings. You notice the little details and remember them. You can be difficult to surprise.  

@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Steal-Power
 ---
 ## Steal Power    
 >**Enabler**  

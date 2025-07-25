@@ -8,6 +8,7 @@ title: Put Down Roots
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Put-Down-Roots
 ---
 ## Put Down Roots  
 >If you choose this arc, you are hoping to create a strong support system among your friends and fellow travelers. You seek the assistance of those around you to help you through difficult times and you wish to offer assistance back. This connection might be to your fellow PCs, to a group of NPCs that you meet along the way, or as part of an already-established group or organization.  

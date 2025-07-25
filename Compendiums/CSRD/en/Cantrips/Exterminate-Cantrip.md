@@ -11,6 +11,7 @@ kind: Cantrip
 pools:
   - Intellect
 cost: '1'
+id: Exterminate-Cantrip
 ---
 ## Exterminate Cantrip  (1 Intellect point)  
 You create a bolt of energy that kills one common vermin creature (level 0) within a short distance, such as a fly, worm, cockroach, or mouse. One casting can affect multiple smaller creatures (such as ants or fleas) within 1 cubic   

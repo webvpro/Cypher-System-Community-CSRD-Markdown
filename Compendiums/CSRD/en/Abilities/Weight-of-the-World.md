@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Weight-of-the-World
 ---
 ## Weight of the World    
 >**Action**    

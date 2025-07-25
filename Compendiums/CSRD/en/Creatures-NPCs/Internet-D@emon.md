@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 1
 health: 9
+id: Internet-D@emon
 ---
 ## Internet D@emon   
 Weird apps and viruses are a frequent problem on internet-enabled devices, even more so when magic is brought into the mix. Internet d@emons are semi-sentient bits of code that live in computers and smart devices. Initially created to be harmless or even helpful (fulfilling a simple purpose such as converting files, refining data searches, or anonymizing an IP address), they’ve become aggressive and malicious, either deliberately created to cause harm or bucking the constraints of their original code to evolve and multiply. Unsuspecting sorcerers might grab a magical app that promises quicker access to difficult spells or insight on the next big crypto drop, accidentally infecting their devices with a dangerous techno-magical creature.   

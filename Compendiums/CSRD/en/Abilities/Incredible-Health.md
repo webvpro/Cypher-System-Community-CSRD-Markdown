@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Cure
+id: Incredible-Health
 ---
 ## Incredible Health    
 >**Enabler**  

@@ -10,6 +10,7 @@ tags:
 title: Communicator
 collection: Equipment
 kind: Equipment
+id: Communicator
 ---
 ## Communicator    
     

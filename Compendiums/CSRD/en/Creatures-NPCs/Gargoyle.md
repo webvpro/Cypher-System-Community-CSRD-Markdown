@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/3
   - Creature/Health/12
+  - Content/Fairytale
 title: Gargoyle
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 3
 health: 12
+id: Gargoyle
+categories:
+  - Fairytale
 ---
 ## Gargoyle    
 Sounds with no apparent origin, such as the tap of footsteps on the stair, knocking behind the walls, crying from empty rooms, and haunting music, might be signs of a ghost. If the sound is accompanied by a sudden temperature drop and the breath of living creatures begins to steam, it's a certainty.  

@@ -14,6 +14,7 @@ tags:
 title: Book
 collection: Equipment
 kind: Equipment
+id: Book
 ---
 ## Book    
     

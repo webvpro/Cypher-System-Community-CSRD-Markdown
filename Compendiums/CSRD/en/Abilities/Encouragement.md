@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Support
+id: Encouragement
 ---
 ## Encouragement    
 >**Action**    

@@ -18,8 +18,12 @@ tier: Mid
 pools: []
 categories:
   - Task
+id: Knowledge-Is-Power
 ---
-## Knowledge Is Power    
->**Enabler**  
-    
+## Knowledge Is Power  
+  
+>**Enabler**
+  
+  
+  
 Choose two noncombat skills in which you are not trained. You are trained in those skills. Enabler.

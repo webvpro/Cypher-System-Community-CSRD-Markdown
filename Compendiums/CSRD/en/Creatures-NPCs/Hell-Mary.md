@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 0
 health: 15
+id: Hell-Mary
 ---
 ## Hell Mary    
 Say her name thirteen times, but only if you dare. Over the ages, Hell Mary has been rumored to be a ghost, a witch, a demon, and a hoax, and perhaps she has been all of these over time. But now she is none of these and more—over the years of worship and wonder and whispers, she has morphed into something far greater than the sum of her parts.   

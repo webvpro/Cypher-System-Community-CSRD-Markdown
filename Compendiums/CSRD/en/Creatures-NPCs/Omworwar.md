@@ -14,6 +14,7 @@ kind: Creature
 level: 10
 armor: 10
 health: 42
+id: Omworwar
 ---
 ## Omworwar    
 Among the many stories passed down the space lanes, a few stand out for their grandiosity. Take the tales of omworwar sightings in the empty voids between stars, or even more unexpectedly, flashing through the abnormal space during FTL travel. Scientists speculate that these creatures, if actually real, might very well be extant instances of ancient ultras, not extinct as everyone believes, or at least not completely. In almost every case so far recorded, omworwars have little interest in human spacecraft. (They're called omworwar after the sound disrupted communication devices make in their presence.) Each one is several kilometers long, a dark inner slug-like core surrounded by gauzy layers of translucent, glowing, nebula-like tissue. Whale-like eyes surmount the dorsal surface, each seeming to contain a tiny galaxy all their own. Wharn interceptors have been seen accompanying single omworwars, indicating an association, and is why some people refer to these beings as wharn cogitators.    

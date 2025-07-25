@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 2
 health: 20
+id: Enchanter
 ---
 ## Enchanter    
 Enchanters include magic-users of all genders. They may choose to call themselves wizards, sorcerers, mages, or diviners, depending on their strengths, abilities, and desired reputations.  

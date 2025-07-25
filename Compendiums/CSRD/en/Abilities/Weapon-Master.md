@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Meta
+id: Weapon-Master
 ---
 ## Weapon Master    
 >**Enabler**  

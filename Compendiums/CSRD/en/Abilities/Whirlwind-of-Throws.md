@@ -20,6 +20,7 @@ pools:
   - Speed
 categories:
   - Special-Attack
+id: Whirlwind-of-Throws
 ---
 ## Whirlwind of Throws    
 >**Action**    

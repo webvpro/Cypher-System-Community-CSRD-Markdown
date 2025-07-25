@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Task
+id: Feat-of-Strength
 ---
 ## Feat of Strength    
 >**Enabler**    

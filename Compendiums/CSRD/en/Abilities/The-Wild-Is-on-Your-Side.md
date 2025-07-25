@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Environment
+id: The-Wild-Is-on-Your-Side
 ---
 ## The Wild Is on Your Side    
 >**Action**    

@@ -7,6 +7,7 @@ tags:
 title: Void Rules"
 collection: Rules
 kind: ''
+id: Void-Rules
 ---
 ## Void Rules    
 The extreme environment in space hard radiation, lack of air and pressure, wild temperature variations, and lack of gravity tends to magnify small issues into much more significant ones. While Murphy’s Law (everything that can go wrong will go wrong) is a useful reminder to keep an eye out for trouble even under regular circumstances, Finagle’s Law reigns in space, which is that anything that can go wrong, will go wrong at the worst possible moment. To evoke this law, GMs can implement Void Rules.   

@@ -14,6 +14,7 @@ kind: Creature
 level: 4
 armor: 4
 health: 15
+id: Storm-Marine
 ---
 ## Storm Marine    
 The storm marine creed is an oft-repeated mantra, "I will never quit, knowing full well that I might die in service to the cause." Wearing advanced battlesuits, hyped up on a cocktail of experimental military drugs, and able to draw on a suite of cybernetic and network-connected drone guns, few things can stand before a storm marine fireteam. Storm marines usually work for nation-states, conglomerates, and similar entities. They mercilessly conduct their mission, even if that mission is to wipe out a rival. Storm marines that question their orders are quickly dispatched by their fellows.    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Magic
+id: Library-Life
 ---
 ## Library Life  
 >**Enabler**    

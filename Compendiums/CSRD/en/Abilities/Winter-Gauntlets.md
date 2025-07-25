@@ -20,6 +20,7 @@ pools: []
 categories:
   - Meta
   - Special-Attack
+id: Winter-Gauntlets
 ---
 ## Winter Gauntlets    
 >**Action**  

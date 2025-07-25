@@ -18,6 +18,7 @@ tier: Mid
 pools: []
 categories:
   - Meta
+id: Greater-Enhanced-Intellect
 ---
 ## Greater Enhanced Intellect    
 >**Enabler**  

@@ -14,6 +14,7 @@ kind: Creature
 level: 2
 armor: 1
 health: 6
+id: Wraith
 ---
 ## Wraith    
 When a spirit of a dead creature fails to find its way to the afterworld, escapes the same, or is summoned forth by a necromancer, it may become a wraith: a bodiless spirit of rage and loss. A wraith appears as a shadowy or misty figure that can resemble the humanoid figure it once was, though wraiths tend to swarm together, making it difficult to distinguish them from each other. Wraiths are often mindless, consumed by their condition. But on occasion, a wraith not too far gone still remembers its life and may respond to questions or seek to locate its loved ones or enemies. A wraith may even attempt to finish a task it started in life. But in time, even the strongest-willed spirit's mind erodes without physical substance to renew it, and it becomes an almost mindless monster of destruction.    

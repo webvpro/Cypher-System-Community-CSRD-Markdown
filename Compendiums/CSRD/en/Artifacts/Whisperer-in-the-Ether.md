@@ -9,6 +9,7 @@ title: Whisperer in the Ether
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Whisperer-in-the-Ether
 ---
 ## Whisperer in the Ether    
 >[!info] Stats    

@@ -8,6 +8,7 @@ tags:
 title: Disarm
 collection: Cyphers
 kind: Cypher
+id: Disarm
 ---
 ## Disarm    
 >[!info] Stats    

@@ -22,6 +22,7 @@ pools:
 categories:
   - Senses
   - Task
+id: Amplify-Sounds
 ---
 ## Amplify Sounds    
 >**Action**    

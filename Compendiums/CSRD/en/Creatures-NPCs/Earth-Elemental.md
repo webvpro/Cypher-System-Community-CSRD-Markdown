@@ -14,6 +14,7 @@ kind: Creature
 level: 5
 armor: 3
 health: 30
+id: Earth-Elemental
 ---
 ## Earth Elemental    
 An excavation, a meteor fall, a still-shuddering earthquake-all these events can summon an earth elemental to take shape and expand the destruction further.    

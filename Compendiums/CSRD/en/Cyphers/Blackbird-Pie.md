@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Blackbird Pie
 collection: Cyphers
 kind: Cypher
+id: Blackbird-Pie
+categories:
+  - Fairytale
 ---
 ## Blackbird Pie    
 >[!info] Stats    

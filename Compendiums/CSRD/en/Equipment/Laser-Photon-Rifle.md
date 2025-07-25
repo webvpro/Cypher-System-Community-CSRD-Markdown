@@ -12,6 +12,7 @@ tags:
 title: Laser Photon Rifle
 collection: Equipment
 kind: Equipment
+id: Laser-Photon-Rifle
 ---
 ## Laser Photon Rifle    
     

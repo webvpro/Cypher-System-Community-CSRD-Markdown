@@ -8,6 +8,7 @@ tags:
 title: Giant Size
 collection: Cyphers
 kind: Cypher
+id: Giant-Size
 ---
 ## Giant Size    
 >[!info] Stats    

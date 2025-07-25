@@ -7,6 +7,7 @@ tags:
 title: Flies Faster than a Bullet
 collection: Foci
 kind: Focus
+id: Flies-Faster-than-a-Bullet
 ---
 ## Flies Faster than a Bullet    
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?    

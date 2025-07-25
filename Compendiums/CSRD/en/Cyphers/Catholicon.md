@@ -8,6 +8,7 @@ tags:
 title: Catholicon
 collection: Cyphers
 kind: Cypher
+id: Catholicon
 ---
 ## Catholicon    
 >[!info] Stats    

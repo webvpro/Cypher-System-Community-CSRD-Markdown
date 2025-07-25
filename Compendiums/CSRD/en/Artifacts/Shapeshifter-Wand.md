@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
   - Artifact/Fairy-Tale
+  - Content/Fairytale
 title: Shapeshifter Wand
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Fairytale
+id: Shapeshifter-Wand
 ---
 ## Shapeshifter Wand    
 >[!info] Stats    

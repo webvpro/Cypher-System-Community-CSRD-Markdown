@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 1
 health: 9
+id: Television-Thoughtform
 ---
 ## Television Thoughtform  
 A television thoughtform is a nexus of images and videos from TV programming, brought to life—usually accidentally—by unconscious or deliberate magic. Typically, the thoughtform looks like a specific television character in the real world, but objects and even locations have been known to manifest as thoughtforms. The thoughtform isn’t initially aware that they’re a manifestation of a fictional television program, but over time they usually come to realize their artificial origin and that the “world” they lived in and the people they knew there weren’t real. Most thoughtforms adapt to their new situation, but some have a traumatic response to their new reality and become dangerous.  

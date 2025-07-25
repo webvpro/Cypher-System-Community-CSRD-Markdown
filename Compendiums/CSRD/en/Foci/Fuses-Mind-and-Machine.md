@@ -7,6 +7,7 @@ tags:
 title: Fuses Mind and Machine
 collection: Foci
 kind: Focus
+id: Fuses-Mind-and-Machine
 ---
 ## Fuses Mind and Machine    
 Electronic aids implanted in your brain make you a mental powerhouse.    

@@ -8,6 +8,7 @@ title: Fairytale Character Options
 collection: Character-Options
 kind: Rule
 categories: []
+id: Fairytale-Character-Options
 ---
 ## Fairytale Character Options
   

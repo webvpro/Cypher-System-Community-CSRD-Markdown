@@ -14,6 +14,7 @@ kind: Creature
 level: 1
 armor: 0
 health: 5
+id: Space-Rat
 ---
 ## Space Rat    
 Yeah, rats made it to space. And against all expectations, one strain evolved in the harsh radiation and zero-G environments that would kill humans not protected by medical intervention. Space rats are furless, about two feet long, sport a truly prehensile tail, and can quickly change their shade of their skin to blend in to their surroundings. They can also drop into a state of extreme torpor that allows them to survive stints of vacuum exposure lasting several days.   

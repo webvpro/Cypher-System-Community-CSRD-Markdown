@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Cure
+id: Vigilant
 ---
 ## Vigilant    
 >**Enabler**    

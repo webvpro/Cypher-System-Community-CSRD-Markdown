@@ -10,6 +10,7 @@ tags:
 title: Mace
 collection: Equipment
 kind: Equipment
+id: Mace
 ---
 ## Mace    
     

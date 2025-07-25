@@ -8,6 +8,7 @@ tags:
 title: Controlled Blinking
 collection: Cyphers
 kind: Cypher
+id: Controlled-Blinking
 ---
 ## Controlled Blinking    
 >[!info] Stats    

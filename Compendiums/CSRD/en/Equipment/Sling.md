@@ -11,6 +11,7 @@ tags:
 title: Sling
 collection: Equipment
 kind: Equipment
+id: Sling
 ---
 ## Sling    
     

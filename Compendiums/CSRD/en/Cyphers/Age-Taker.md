@@ -8,6 +8,7 @@ tags:
 title: Age Taker
 collection: Cyphers
 kind: Cypher
+id: Age-Taker
 ---
 ## Age Taker    
 >[!info] Stats    

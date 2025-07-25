@@ -9,6 +9,7 @@ tags:
 title: Environment Suit
 collection: Equipment
 kind: Equipment
+id: Environment-Suit
 ---
 ## Environment Suit    
     

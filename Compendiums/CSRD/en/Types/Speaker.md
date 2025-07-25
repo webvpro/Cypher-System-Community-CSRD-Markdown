@@ -15,20 +15,21 @@ tags:
 title: Speaker
 collection: Types
 kind: Type
+id: Speaker
 ---
 ## Speaker  
   
-|Fantasy/Fairy Tale|Modern/Horror/Romance|Science Fiction|Superhero/Post-Apocalyptic|  
-|---|---|---|---|  
-|Bard|Diplomat|Diplomat|Charmer|  
-|Speaker|Charmer|Empath|Mesmerist|  
-|Skald|Face|Glam|Puppet Master|  
-|Emissary|Spinner|Consul||  
-|Priest|Manipulator|Legate||  
-|Advocate|Minister|||  
-||Mediator|||  
-||Lawyer|||  
-  
+| Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction | Superhero/Post-Apocalyptic |
+| ------------------ | --------------------- | --------------- | -------------------------- |
+| Bard               | Diplomat              | Diplomat        | Charmer                    |
+| Speaker            | Charmer               | Empath          | Mesmerist                  |
+| Skald              | Face                  | Glam            | Puppet Master              |
+| Emissary           | Spinner               | Consul          |                            |
+| Priest             | Manipulator           | Legate          |                            |
+| Advocate           | Minister              |                 |                            |
+|                    | Mediator              |                 |                            |
+|                    | Lawyer                |                 |                            |
+
 You’re good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.  
   
 >**Individual Role**: Speakers are smart and charismatic. They like people and, more important, they understand them. This helps speakers get others to do what needs to be done.  
@@ -50,41 +51,41 @@ When playing a Speaker, you can spend 1 XP to use one of the following player in
 >**Unexpected Gift**: An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.  
   
 >[!tip]+ Speaker Stat Pools    
->|Stat|Pool Starting Value|  
-|---|---|  
-|[Might](Might.md)|8|  
-|[Speed](Speed.md)|9|  
-|[Intellect](Intellect.md)|11|  
-  
+| >                         | Stat | Pool Starting Value |
+| ------------------------- | ---- | ------------------- |
+| [Might](Might.md)         | 8    |                     |
+| [Speed](Speed.md)         | 9    |                     |
+| [Intellect](Intellect.md) | 11   |                     |
+
 You get 6 additional points to divide among your stat Pools however you wish.  
   
 #### Speaker Background Connection  
   
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.  
 >[!info]- Speaker Background Connection  
-> |1d20|Background|  
-|---|---|  
-|1|One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.|  
-|2|When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over.|  
-|3|You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.|  
-|4|You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.|  
-|5|You have no memory of anything that happened to you before the age of 18.|  
-|6|Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.|  
-|7|As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.|  
-|8|You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.|  
-|9|You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.|  
-|10|You have an annoying rival who always seems to get in your way or foil your plans.|  
-|11|You’ve worked yourself into the position of spokesperson for an organization or company of some importance.|  
-|12|Your neighbors were murdered, and the mystery remains unsolved.|  
-|13|You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.|  
-|14|Your childhood sweetheart ended up with your best friend (now your ex-best friend).|  
-|15|You are part of a maligned minority, but you work to bring the injustice of your status to public attention.|  
-|16|You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.|  
-|17|You once ran a con that cheated important people out of money, and they want revenge.|  
-|18|You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).|  
-|19|You are in a close romantic relationship with someone in local politics.|  
-|20|Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|  
-  
+| >   | 1d20                                                                                                                                                       | Background |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1   | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.                                            |            |
+| 2   | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over. |            |
+| 3   | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.                                    |            |
+| 4   | You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.                                        |            |
+| 5   | You have no memory of anything that happened to you before the age of 18.                                                                                  |            |
+| 6   | Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.         |            |
+| 7   | As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.                                                                |            |
+| 8   | You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.                                                |            |
+| 9   | You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.                                         |            |
+| 10  | You have an annoying rival who always seems to get in your way or foil your plans.                                                                         |            |
+| 11  | You’ve worked yourself into the position of spokesperson for an organization or company of some importance.                                                |            |
+| 12  | Your neighbors were murdered, and the mystery remains unsolved.                                                                                            |            |
+| 13  | You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.                                               |            |
+| 14  | Your childhood sweetheart ended up with your best friend (now your ex-best friend).                                                                        |            |
+| 15  | You are part of a maligned minority, but you work to bring the injustice of your status to public attention.                                               |            |
+| 16  | You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.                                                        |            |
+| 17  | You once ran a con that cheated important people out of money, and they want revenge.                                                                      |            |
+| 18  | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).                                             |            |
+| 19  | You are in a close romantic relationship with someone in local politics.                                                                                   |            |
+| 20  | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |            |
+
 ## First-Tier Speaker  
   
 First-tier speakers have the following abilities:  

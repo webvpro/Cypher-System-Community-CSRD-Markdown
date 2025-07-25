@@ -13,6 +13,7 @@ tags:
 title: Laser Photon Pulse Rifle
 collection: Equipment
 kind: Equipment
+id: Laser-Photon-Pulse-Rifle
 ---
 ## Laser Photon Pulse Rifle    
     

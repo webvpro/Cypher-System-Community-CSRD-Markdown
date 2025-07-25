@@ -8,6 +8,7 @@ tags:
 title: Ray Emitter Command
 collection: Cyphers
 kind: Cypher
+id: Ray-Emitter-Command
 ---
 ## Ray Emitter Command    
 >[!info] Stats    

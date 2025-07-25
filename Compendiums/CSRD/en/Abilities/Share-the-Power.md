@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Cure
+id: Share-the-Power
 ---
 ## Share the Power    
 >**Enabler**  

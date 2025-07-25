@@ -22,6 +22,7 @@ pools:
 categories:
   - Information
   - Task
+id: Salvage-and-Comfort
 ---
 ## Salvage and Comfort    
 >**Action**    

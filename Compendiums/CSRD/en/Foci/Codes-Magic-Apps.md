@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci/Codes-Magic-Apps
   - Focus/Category/Magic-Tech
+  - Content/Modern-Magic
 title: Codes Magic Apps
 collection: Foci
 kind: Focus
+id: Codes-Magic-Apps
+categories:
+  - Modern-Magic
 ---
 ## Codes Magic Apps  
 You are a maker, a crafter, but you use a unique combination of code and magic instead of wood, steel, or circuit boards. Like anyone who’s spent a lot of time working on a computer, you’ve learned some strange secrets, not all of them entirely legal, and you know a lot about games, people, and how things work. More than just a computer nerd, you’re a developer and (although you might not admit it) a hacker. Most of your specialized gear is hardware or software for your computer or smart device, so you can dress however you want. You’re probably used to wearing comfortable clothes, sitting for hours at a time, and enjoying many caffeinated beverages (that have permanently discolored some of your clothing).  

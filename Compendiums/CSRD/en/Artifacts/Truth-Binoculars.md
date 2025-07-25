@@ -8,6 +8,7 @@ title: Truth Binoculars
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Truth-Binoculars
 ---
 ## Truth Binoculars   
 >[!info] Stats    

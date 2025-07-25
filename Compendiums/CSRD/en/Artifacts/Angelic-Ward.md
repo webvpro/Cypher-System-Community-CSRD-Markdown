@@ -9,6 +9,7 @@ title: Angelic Ward
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Angelic-Ward
 ---
 ## Angelic Ward    
 >[!info] Stats    

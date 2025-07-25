@@ -7,12 +7,16 @@ tags:
   - Creature/Kind/Creature
   - Creature/Level/5
   - Creature/Armor/0
+  - Content/Fairytale
 title: The Wicked Witch of the West
 collection: Creatures-NPCs
 kind: Creature
 level: 5
 armor: 0
 health: NA
+id: The-Wicked-Witch-of-the-West
+categories:
+  - Fairytale
 ---
 ## The Wicked Witch of the West  
   

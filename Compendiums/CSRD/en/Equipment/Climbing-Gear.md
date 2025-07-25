@@ -19,6 +19,7 @@ tags:
 title: Climbing Gear
 collection: Equipment
 kind: Equipment
+id: Climbing-Gear
 ---
 ## Climbing Gear    
     

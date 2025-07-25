@@ -15,6 +15,7 @@ tags:
 title: Shield
 collection: Equipment
 kind: Equipment
+id: Shield
 ---
 ## Shield    
     

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers/Birds-Nest-Coronet
   - Cypher
+  - Content/Fairytale
 title: Bird's Nest Coronet
 collection: Cyphers
 kind: Cypher
+id: Birds-Nest-Coronet
+categories:
+  - Fairytale
 ---
 ## Bird's Nest Coronet    
 >[!info] Stats    

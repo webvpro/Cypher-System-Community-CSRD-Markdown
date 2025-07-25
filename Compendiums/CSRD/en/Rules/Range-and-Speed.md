@@ -9,6 +9,7 @@ tags:
 title: Range and Speed
 collection: Rules
 kind: Rule
+id: Range-and-Speed
 ---
 # Range and Speed    
 Distance is simplified into four categories: immediate, short, long, and very long.    

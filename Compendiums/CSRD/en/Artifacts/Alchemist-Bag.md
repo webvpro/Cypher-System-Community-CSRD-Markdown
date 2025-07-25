@@ -9,6 +9,7 @@ title: Alchemist Bag
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Alchemist-Bag
 ---
 ## Alchemist Bag    
 >[!info] Stats    

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers/Crocs-Clock
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Croc's Clock
 collection: Cyphers
 kind: Cypher
+id: Crocs-Clock
+categories:
+  - Fairytale
 ---
 ## Croc's Clock    
 >[!info] Stats    

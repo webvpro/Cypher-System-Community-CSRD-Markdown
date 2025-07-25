@@ -9,6 +9,7 @@ title: Stellarex Crystal
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Stellarex-Crystal
 ---
 ## Stellarex Crystal    
 >[!info] Stats    

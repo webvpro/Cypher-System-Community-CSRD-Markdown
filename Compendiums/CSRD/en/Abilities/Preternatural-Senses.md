@@ -20,6 +20,7 @@ pools: []
 categories:
   - Cure
   - Task
+id: Preternatural-Senses
 ---
 ## Preternatural Senses    
 >**Enabler**  

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Poppet Love
 collection: Cyphers
 kind: Cypher
+id: Poppet-Love
+categories:
+  - Fairytale
 ---
 ## Poppet Love    
 >[!info] Stats    

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Special-Attack
+id: Dust-to-Dust
 ---
 ## Dust to Dust    
 >**Action**    

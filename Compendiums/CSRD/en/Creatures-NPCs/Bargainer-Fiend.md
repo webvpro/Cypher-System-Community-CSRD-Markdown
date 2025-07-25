@@ -13,6 +13,7 @@ kind: Creature
 level: 3
 armor: 2
 health: 9
+id: Bargainer-Fiend
 ---
 ## Bargainer Fiend  
   

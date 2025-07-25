@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Irregular
+  - Content/Fantasy
 title: Descends From Nobility
 collection: Foci
 kind: Focus
+id: Descends-From-Nobility
+categories:
+  - Fantasy
 ---
 ## Descends From Nobility    
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.    

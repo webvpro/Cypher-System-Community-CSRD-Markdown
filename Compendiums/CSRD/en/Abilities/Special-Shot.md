@@ -18,6 +18,7 @@ tier: High
 pools: []
 categories:
   - Special-Attack
+id: Special-Shot
 ---
 ## Special Shot    
 >**Enabler**  

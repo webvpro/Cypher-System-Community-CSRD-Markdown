@@ -8,6 +8,7 @@ tags:
 title: Gravity-Nullifying Application
 collection: Cyphers
 kind: Cypher
+id: Gravity-Nullifying-Application
 ---
 ## Gravity-Nullifying Application    
 >[!info] Stats    

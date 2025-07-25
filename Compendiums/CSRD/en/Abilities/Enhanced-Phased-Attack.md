@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: Enhanced-Phased-Attack
 ---
 ## Enhanced Phased Attack    
 >**Enabler**    

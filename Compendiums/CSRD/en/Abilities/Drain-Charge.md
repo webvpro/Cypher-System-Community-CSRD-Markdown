@@ -20,6 +20,7 @@ pools: []
 categories:
   - Cure
   - Special-Attack
+id: Drain-Charge
 ---
 ## Drain Charge    
 >**Action**  

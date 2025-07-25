@@ -8,6 +8,7 @@ tags:
 title: Acid Resistance
 collection: Cyphers
 kind: Cypher
+id: Acid-Resistance
 ---
 ## Acid Resistance    
 >[!info] Stats    

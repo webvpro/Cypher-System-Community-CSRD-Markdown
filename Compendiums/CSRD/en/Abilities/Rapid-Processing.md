@@ -24,6 +24,7 @@ categories:
   - Meta
   - Protection
   - Task
+id: Rapid-Processing
 ---
 ## Rapid Processing    
 >**Action**    

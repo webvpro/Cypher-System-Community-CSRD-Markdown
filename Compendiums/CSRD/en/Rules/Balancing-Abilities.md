@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Balancing Abilities"
+  - Balancing Abilities
 tags:
--  Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules
+id: Balancing-Abilities
+title: Balancing Abilities
 ---
 
 # Balancing Abilities  

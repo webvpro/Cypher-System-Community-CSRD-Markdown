@@ -8,6 +8,7 @@ tags:
 title: Detonation Sonic
 collection: Cyphers
 kind: Cypher
+id: Detonation-Sonic
 ---
 ## Detonation Sonic    
 >[!info] Stats    

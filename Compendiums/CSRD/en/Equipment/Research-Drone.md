@@ -11,6 +11,7 @@ tags:
 title: Research Drone
 collection: Equipment
 kind: Equipment
+id: Research-Drone
 ---
 ## Research Drone    
     

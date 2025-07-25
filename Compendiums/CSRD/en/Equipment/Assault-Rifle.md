@@ -12,6 +12,7 @@ tags:
 title: Assault Rifle
 collection: Equipment
 kind: Equipment
+id: Assault-Rifle
 ---
 ## Assault Rifle    
     

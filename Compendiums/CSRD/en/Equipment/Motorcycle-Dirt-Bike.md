@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Motorcycle, Dirt Bike
+  - 'Motorcycle, Dirt Bike'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Contemporary
@@ -8,9 +8,10 @@ tags:
   - Equipment/Planetary-Vehicle
   - Equipment/Level/2
   - Equipment/Value/Expensive
-title: Motorcycle, Dirt Bike
+title: 'Motorcycle, Dirt Bike'
 collection: Equipment
 kind: Equipment
+id: Motorcycle-Dirt-Bike
 ---
 ## Motorcycle, Dirt Bike    
     

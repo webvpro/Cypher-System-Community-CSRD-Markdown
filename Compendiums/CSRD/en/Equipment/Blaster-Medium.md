@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Blaster, Medium
+  - 'Blaster, Medium'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Armament
@@ -10,9 +10,10 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
-title: Blaster, Medium
+title: 'Blaster, Medium'
 collection: Equipment
 kind: Equipment
+id: Blaster-Medium
 ---
 ## Blaster, Medium    
     

@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Song of the Dead
 collection: Cyphers
 kind: Cypher
+id: Song-of-the-Dead
+categories:
+  - Fairytale
 ---
 ## Song of the Dead    
 >[!info] Stats    

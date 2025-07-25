@@ -18,6 +18,7 @@ tier: NA
 pools: []
 categories:
   - NA
+id: Blessing-of-the-Gods
 ---
 ## Blessing of the Gods    
   

@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Soothe-the-Savage
 ---
 ## Soothe the Savage    
 >**Action**    

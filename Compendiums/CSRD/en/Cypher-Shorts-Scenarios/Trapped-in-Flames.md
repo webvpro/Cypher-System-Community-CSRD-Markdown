@@ -8,6 +8,7 @@ tags:
 title: Trapped in Flamese
 collection: Rules
 kind: Cypher-Shorts
+id: Trapped-in-Flames
 ---
 ## Trapped in Flames   
 The Premise: The characters work in a tall skyscraper. Suddenly, there’s an explosion, and the fire alarms start ringing!  

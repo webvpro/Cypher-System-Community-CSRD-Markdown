@@ -1,7 +1,10 @@
 ---
-aliases: "Cypher Shorts"
-tags: 
-- Compendium/CSRD/en/Rules/Cypher-Shorts
+aliases:
+  - Cypher Shorts
+tags:
+  - Compendium/CSRD/en/Rules/Cypher-Shorts
+id: Cypher-Shorts
+title: Cypher Shorts
 ---
 
 # Cypher Shorts

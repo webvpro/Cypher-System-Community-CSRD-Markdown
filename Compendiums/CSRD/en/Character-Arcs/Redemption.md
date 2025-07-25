@@ -8,6 +8,7 @@ title: Redemption"
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Redemption
 ---
 ## Redemption  
 >You’ve done something very wrong, but you want to atone and make it right again. This is like the Justice arc or the Undo a Wrong arc, except you are the wrongdoer. This could be a follow-up to the Fall From Grace arc.  

@@ -9,6 +9,7 @@ tags:
 title: Lockpicks
 collection: Equipment
 kind: Equipment
+id: Lockpicks
 ---
 ## Lockpicks    
     

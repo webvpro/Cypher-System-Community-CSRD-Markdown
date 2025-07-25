@@ -22,6 +22,7 @@ pools:
 categories:
   - Cure
   - Special-Attack
+id: Drain-Machine
 ---
 ## Drain Machine    
 >**Action**    

@@ -8,6 +8,7 @@ tags:
 title: Warmth
 collection: Cyphers
 kind: Cypher
+id: Warmth
 ---
 ## Warmth    
 >[!info] Stats    

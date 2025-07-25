@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Silver Slippers
 collection: Cyphers
 kind: Cypher
+id: Silver-Slippers
+categories:
+  - Fairytale
 ---
 ## Silver Slippers    
 >[!info] Stats    

@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors/Unmagical
   - Descriptor/Species
+  - Content/Modern-Magic
 title: Unmagical
 collection: Descriptors
 kind: Descriptor
+id: Unmagical
+categories:
+  - Modern-Magic
 ---
 ## Unmagical    
 You’re not good at using magic. In fact, it’s clear that you’re inherently unmagical magic is as confusing, difficult, and awkward for you as learning lava spells would be for a frost giant. It’s not that you don’t believe in magic (though maybe you don’t) or that you don’t like magic (though maybe you don’t). It’s just that you and magic are incompatible. You’ve learned to compensate for this problem and even turn it into an advantage in some cases.  

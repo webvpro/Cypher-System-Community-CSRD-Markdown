@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Environment
+id: Hidden-Closet
 ---
 ## Hidden Closet    
 >**Enabler**  

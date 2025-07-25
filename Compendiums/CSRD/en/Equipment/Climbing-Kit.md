@@ -9,6 +9,7 @@ tags:
 title: Climbing Kit
 collection: Equipment
 kind: Equipment
+id: Climbing-Kit
 ---
 ## Climbing Kit    
     

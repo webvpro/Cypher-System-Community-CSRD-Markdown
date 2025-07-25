@@ -9,6 +9,7 @@ tags:
 title: Sunglasses
 collection: Equipment
 kind: Equipment
+id: Sunglasses
 ---
 ## Sunglasses    
     

@@ -8,6 +8,7 @@ title: Aid a Friend
 collection: Character-Arcs
 kind: Arc
 categories: []
+id: Aid-a-Friend
 ---
 ## Aid a Friend  
 >Someone needs your help.  

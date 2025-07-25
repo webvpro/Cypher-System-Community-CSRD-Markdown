@@ -9,6 +9,7 @@ title: Mastercraft Armor
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Mastercraft-Armor
 ---
 ## Mastercraft Armor    
 >[!info] Stats    

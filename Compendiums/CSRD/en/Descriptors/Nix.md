@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors/Nix
   - Descriptor/Species
+  - Content/Modern-Magic
 title: Nix
 collection: Descriptors
 kind: Descriptor
+id: Nix
+categories:
+  - Modern-Magic
 ---
 ## Nix    
 You’re a shapeshifting water spirit. You can walk on two legs and breathe air, but when you’re submerged, you gain a tail, fins, and gills. You probably live near flowing water, with no preference for salinity or temperature; you also have a general affinity for nature and a knack for identifying useful plants. Your playful and upbeat disposition doesn’t mean you’re passive or helpless. Though you may prefer to talk your way out of tough situations, you’re quick to react to threats especially in water, where you maneuver with deadly accuracy.  

@@ -9,6 +9,7 @@ tags:
 title: Draft Horse
 collection: Equipment
 kind: Equipment
+id: Draft-Horse
 ---
 ## Draft Horse    
     

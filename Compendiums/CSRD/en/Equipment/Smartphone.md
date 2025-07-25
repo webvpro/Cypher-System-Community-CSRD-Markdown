@@ -12,6 +12,7 @@ tags:
 title: Smartphone
 collection: Equipment
 kind: Equipment
+id: Smartphone
 ---
 ## Smartphone    
     

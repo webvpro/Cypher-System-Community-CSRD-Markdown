@@ -8,6 +8,7 @@ tags:
 title: Solvent
 collection: Cyphers
 kind: Cypher
+id: Solvent
 ---
 ## Solvent    
 >[!info] Stats    

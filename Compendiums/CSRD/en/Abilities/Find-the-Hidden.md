@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Find-the-Hidden
 ---
 ## Find the Hidden    
 >**Action**    

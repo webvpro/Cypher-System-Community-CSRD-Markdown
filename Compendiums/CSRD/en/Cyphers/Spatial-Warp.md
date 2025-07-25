@@ -8,6 +8,7 @@ tags:
 title: Spatial Warp
 collection: Cyphers
 kind: Cypher
+id: Spatial-Warp
 ---
 ## Spatial Warp    
 >[!info] Stats    

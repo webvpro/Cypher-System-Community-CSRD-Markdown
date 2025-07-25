@@ -11,6 +11,7 @@ tags:
 title: Medium Blaster
 collection: Equipment
 kind: Equipment
+id: Medium-Blaster
 ---
 ## Medium Blaster    
     

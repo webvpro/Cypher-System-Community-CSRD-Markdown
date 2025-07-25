@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Task
+id: Superb-Explorer
 ---
 ## Superb Explorer    
 >**Enabler**  

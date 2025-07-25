@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Craft
+id: Sculpt-Light
 ---
 ## Sculpt Light    
 >**Action**    

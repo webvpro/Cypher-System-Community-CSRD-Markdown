@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Protection
+id: Magnetic-Field
 ---
 ## Magnetic Field    
 >**Enabler**    

@@ -9,6 +9,7 @@ title: Ring of Wishes
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Ring-of-Wishes
 ---
 ## Ring of Wishes    
 >[!info] Stats    

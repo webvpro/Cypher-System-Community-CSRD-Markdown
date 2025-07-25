@@ -8,6 +8,7 @@ tags:
 title: Tiny Size
 collection: Cyphers
 kind: Cypher
+id: Tiny-Size
 ---
 ## Tiny Size    
 >[!info] Stats    

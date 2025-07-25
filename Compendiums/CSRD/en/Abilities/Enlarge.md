@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Transform
+id: Enlarge
 ---
 ## Enlarge    
 >**Action**    

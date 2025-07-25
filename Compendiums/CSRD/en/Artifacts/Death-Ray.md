@@ -5,10 +5,13 @@ tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact/Weapon
   - Artifact/Science-Fiction
+  - Content/Science-Fiction
 title: Death Ray
 collection: Artifacts
 kind: Artifact
-categories: []
+categories:
+  - Science-Fiction
+id: Death-Ray
 ---
 ## Death Ray    
 >[!info] Stats    

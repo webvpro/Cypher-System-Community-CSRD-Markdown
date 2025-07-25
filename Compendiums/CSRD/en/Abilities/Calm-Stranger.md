@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Control
+id: Calm-Stranger
 ---
 ## Calm Stranger    
 >**Action**    

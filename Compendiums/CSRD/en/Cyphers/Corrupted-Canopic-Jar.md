@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
+  - Content/Horror
 title: Corrupted Canopic Jar
 collection: Cyphers
 kind: Cypher
+id: Corrupted-Canopic-Jar
+categories:
+  - Horror
 ---
 ## Corrupted Canopic Jar    
 >[!info] Stats    

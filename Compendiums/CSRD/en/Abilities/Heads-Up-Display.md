@@ -24,6 +24,7 @@ categories:
   - Attack-Skill
   - Senses
   - Task
+id: Heads-Up-Display
 ---
 ## Heads-Up Display    
 >**Enabler**    

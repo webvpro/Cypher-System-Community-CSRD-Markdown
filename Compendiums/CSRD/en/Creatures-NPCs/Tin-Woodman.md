@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/4
   - Creature/Health/21
+  - Content/Fairytale
 title: Tin Woodman
 collection: Creatures-NPCs
 kind: NPC
 level: 7
 armor: 4
 health: 21
+id: Tin-Woodman
+categories:
+  - Fairytale
 ---
 ## Tin Woodman    
 Once an ordinary woodman of flesh and blood named Nick Chopper, the Tin Woodman's story is a sad one. His beloved axe was enchanted by a wicked witch in order to keep him from his other true love (it's a long story, but suffice it to say that witches who are wicked do wicked things). His beloved axe turned on Nick Chopper, taking off one limb after another. A tinsmith kindly replaced Nick's missing body parts (except his heart) with tin prosthetics, but eventually nothing was left of the original human and he became the Tin Woodman.  

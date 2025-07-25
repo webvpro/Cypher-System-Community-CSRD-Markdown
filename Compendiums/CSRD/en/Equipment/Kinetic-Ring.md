@@ -11,6 +11,7 @@ tags:
 title: Kinetic Ring
 collection: Equipment
 kind: Equipment
+id: Kinetic-Ring
 ---
 ## Kinetic Ring    
     

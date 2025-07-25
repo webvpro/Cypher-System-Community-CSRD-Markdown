@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Information
+id: Eye-for-Detail
 ---
 ## Eye for Detail    
 >**Action**    

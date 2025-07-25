@@ -9,6 +9,7 @@ title: Sovereign Key
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Sovereign-Key
 ---
 ## Sovereign Key    
 >[!info] Stats    

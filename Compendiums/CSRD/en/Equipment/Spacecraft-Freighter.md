@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Spacecraft, Freighter
+  - 'Spacecraft, Freighter'
 tags:
   - Compendium/CSRD/en/Equipment
   - Equipment/Advanced
@@ -8,9 +8,10 @@ tags:
   - Equipment/Spacecraft
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Spacecraft, Freighter
+title: 'Spacecraft, Freighter'
 collection: Equipment
 kind: Equipment
+id: Spacecraft-Freighter
 ---
 ## Spacecraft, Freighter    
     

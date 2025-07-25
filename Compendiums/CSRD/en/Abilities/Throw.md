@@ -20,6 +20,7 @@ pools:
   - Might
 categories:
   - Special-Attack
+id: Throw
 ---
 ## Throw    
 >**Enabler**    

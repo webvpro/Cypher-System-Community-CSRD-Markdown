@@ -7,6 +7,7 @@ tags:
 title: Armor Breach
 collection: Cyphers
 kind: Cypher
+id: Armor-Breach
 ---
 ## Armor Breach    
 >[!info] Stats    

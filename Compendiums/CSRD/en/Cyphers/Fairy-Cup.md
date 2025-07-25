@@ -5,9 +5,13 @@ tags:
   - Compendium/CSRD/en/Cyphers
   - Cypher
   - Cypher/Fairy-Tale
+  - Content/Fairytale
 title: Fairy Cup
 collection: Cyphers
 kind: Cypher
+id: Fairy-Cup
+categories:
+  - Fairytale
 ---
 ## Fairy Cup    
 >[!info] Stats    

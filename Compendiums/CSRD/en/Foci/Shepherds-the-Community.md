@@ -4,9 +4,13 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Support
+  - Content/Fantasy
 title: Shepherds the Community
 collection: Foci
 kind: Focus
+id: Shepherds-the-Community
+categories:
+  - Fantasy
 ---
 ## Shepherds the Community    
 You keep the place where you live safe from all danger.    

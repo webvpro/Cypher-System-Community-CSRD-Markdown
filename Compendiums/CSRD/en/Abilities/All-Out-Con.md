@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Meta
+id: All-Out-Con
 ---
 ## All-Out Con    
 >**Action**    

@@ -8,12 +8,16 @@ tags:
   - Creature/Level/2
   - Creature/Armor/1
   - Creature/Health/8
+  - Content/Fairytale
 title: Huntsman
 collection: Creatures-NPCs
 kind: NPC
 level: 2
 armor: 1
 health: 8
+id: Huntsman
+categories:
+  - Fairytale
 ---
 ## Huntsman    
 A huntsman may be in the employ of a powerful magic user, protecting a section of the woods they consider their own, or just trying to provide for their family by chopping wood and hunting game.    

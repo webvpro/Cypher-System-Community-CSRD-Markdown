@@ -8,6 +8,7 @@ tags:
 title: Manipulation Beam
 collection: Cyphers
 kind: Cypher
+id: Manipulation-Beam
 ---
 ## Manipulation Beam    
 >[!info] Stats    

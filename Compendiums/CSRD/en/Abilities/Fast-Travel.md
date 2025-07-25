@@ -20,6 +20,7 @@ pools:
   - Intellect
 categories:
   - Movement
+id: Fast-Travel
 ---
 ## Fast Travel    
 >**Action**    

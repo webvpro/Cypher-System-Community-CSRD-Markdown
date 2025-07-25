@@ -8,6 +8,7 @@ tags:
 title: Cold Resistance
 collection: Cyphers
 kind: Cypher
+id: Cold-Resistance
 ---
 ## Cold Resistance    
 >[!info] Stats    

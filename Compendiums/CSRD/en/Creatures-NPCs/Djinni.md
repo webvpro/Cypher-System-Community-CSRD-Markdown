@@ -8,12 +8,16 @@ tags:
   - Creature/Level/7
   - Creature/Armor/0
   - Creature/Health/35
+  - Content/Fairytale
 title: Djinni
 collection: Creatures-NPCs
 kind: Creature
 level: 7
 armor: 0
 health: 35
+id: Djinni
+categories:
+  - Fairytale
 ---
 ## Djinni    
 Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.    

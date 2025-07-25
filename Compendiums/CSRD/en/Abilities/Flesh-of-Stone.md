@@ -18,6 +18,7 @@ tier: Low
 pools: []
 categories:
   - Protection
+id: Flesh-of-Stone
 ---
 ## Flesh of Stone    
 >**Enabler**  

@@ -9,6 +9,7 @@ title: Poisoner's Touch
 collection: Artifacts
 kind: Artifact
 categories: []
+id: Poisoner's-Touch
 ---
 ## Poisoner's Touch    
 >[!info] Stats    

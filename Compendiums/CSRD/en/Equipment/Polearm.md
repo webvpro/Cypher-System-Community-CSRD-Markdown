@@ -10,6 +10,7 @@ tags:
 title: Polearm
 collection: Equipment
 kind: Equipment
+id: Polearm
 ---
 ## Polearm    
     

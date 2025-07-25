@@ -14,6 +14,7 @@ kind: Creature
 level: 8
 armor: 0
 health: 30
+id: Elder-Thing
 ---
 ## Elder Thing    
 Elder things are mostly extinct, but a few remain trapped in the Antarctic ice or rule over crumbling cities in deep trenches at the bottom of the ocean.  

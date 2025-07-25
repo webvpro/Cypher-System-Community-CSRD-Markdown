@@ -15,6 +15,7 @@ tags:
 title: Disguise Kit
 collection: Equipment
 kind: Equipment
+id: Disguise-Kit
 ---
 ## Disguise Kit    
     

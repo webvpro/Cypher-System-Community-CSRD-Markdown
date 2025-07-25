@@ -11,6 +11,7 @@ tags:
 title: Light Blaster
 collection: Equipment
 kind: Equipment
+id: Light-Blaster
 ---
 ## Light Blaster    
     

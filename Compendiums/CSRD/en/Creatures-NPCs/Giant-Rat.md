@@ -14,6 +14,7 @@ kind: Creature
 level: 3
 armor: 0
 health: 18
+id: Giant-Rat
 ---
 ## Giant Rat    
 Giant rats are as large as big attack dogs, just as vicious, and more wily. Some giant rats are the lone matriarchs of a pack of ordinary level 1 rats, and others are just one of several making up a colony of oversized rodents. Like their smaller cousins, giant rats are known for harboring virulent disease.    

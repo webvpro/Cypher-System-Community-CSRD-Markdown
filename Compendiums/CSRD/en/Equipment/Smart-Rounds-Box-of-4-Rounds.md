@@ -12,6 +12,7 @@ tags:
 title: Smart Rounds (Box of 4 Rounds)
 collection: Equipment
 kind: Equipment
+id: Smart-Rounds-Box-of-4-Rounds
 ---
 ## Smart Rounds (Box of 4 Rounds)    
     

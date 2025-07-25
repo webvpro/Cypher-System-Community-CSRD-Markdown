@@ -8,12 +8,16 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/12
+  - Content/Fairytale
 title: Wind Children
 collection: Creatures-NPCs
 kind: Creature
 level: 4
 armor: 0
 health: 12
+id: Wind-Children
+categories:
+  - Fairytale
 ---
 ## Wind Children    
 The children of the wind cannot be measured in known numbers, for they are here and there and everywhere. They are not born, so much as borne, by weather patterns, wishes, and wants. Dust devils, gales, and zephyrs are all wind children.    
