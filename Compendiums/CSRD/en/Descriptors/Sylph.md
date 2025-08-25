@@ -3,6 +3,7 @@ aliases:
 - "Sylph"
 tags:
 - Compendiums/CSRD/en/Descriptors/Sylph
+- List-Content
 - Descriptor/Species
 ---
 

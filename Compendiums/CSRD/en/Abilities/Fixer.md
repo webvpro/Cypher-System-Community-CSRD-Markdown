@@ -7,6 +7,7 @@ tags:
 - Ability/Enabler
 - Ability/Cost/NA
 - Ability/Tier/NA
+- List-Content
 - Ability/Categories/NA
 ---
 

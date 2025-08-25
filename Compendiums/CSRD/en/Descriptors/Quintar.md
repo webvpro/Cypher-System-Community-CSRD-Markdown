@@ -4,6 +4,7 @@ aliases:
 tags:
 - Compendiums/CSRD/en/Descriptors
 - Descriptor/Sci-Fi
+- List-Content
 - Descriptor/Species
 ---
 

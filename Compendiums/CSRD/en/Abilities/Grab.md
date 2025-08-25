@@ -7,6 +7,7 @@ tags:
 - Ability/Action
 - Ability/Cost/NA
 - Ability/Tier/Mid
+- List-Content
 - Ability/Categories/Special-Attack
 ---
 

@@ -8,6 +8,7 @@ tags:
   - Creature/Level/2
   - Creature/Armor/0
   - Creature/Health/6
+- List-Content
 title: Jackalope
 collection: Creatures-NPCs
 kind: Creature

@@ -3,6 +3,7 @@ aliases:
 - Skeptical
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

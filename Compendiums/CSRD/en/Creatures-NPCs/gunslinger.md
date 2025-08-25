@@ -8,6 +8,7 @@ tags:
   - Creature/Level/4
   - Creature/Armor/1
   - Creature/Health/18
+- List-Content
 title: Gunslinger
 collection: Creatures-NPCs
 kind: NPC

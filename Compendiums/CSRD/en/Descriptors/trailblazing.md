@@ -5,6 +5,7 @@ tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
   - Content/Weird-West
+- List-Content
 title: Trailblazing
 collection: Descriptors
 kind: Descriptor

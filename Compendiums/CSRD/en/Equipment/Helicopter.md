@@ -7,6 +7,7 @@ tags:
 - Equipment/Modern
 - Equipment/Planetary-Vehicle
 - Equipment/Level/3
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

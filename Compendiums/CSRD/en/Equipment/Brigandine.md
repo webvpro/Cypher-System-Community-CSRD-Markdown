@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/Expensive
 - Equipment/Value/200-Gp
+- List-Content
 - Equipment/Armor/Medium
 ---
 

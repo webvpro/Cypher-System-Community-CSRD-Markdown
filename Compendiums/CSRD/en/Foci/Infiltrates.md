@@ -3,6 +3,7 @@ aliases:
 - "Infiltrates"
 tags:
 - Compendium/CSRD/en/Foci
+- List-Content
 - Focus/Category/Exploration
 ---
 

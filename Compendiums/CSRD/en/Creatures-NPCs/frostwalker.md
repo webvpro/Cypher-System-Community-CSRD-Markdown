@@ -8,6 +8,7 @@ tags:
   - Creature/Level/3
   - Creature/Armor/1
   - Creature/Health/12
+- List-Content
 title: Frostwalker
 collection: Creatures-NPCs
 kind: Creature

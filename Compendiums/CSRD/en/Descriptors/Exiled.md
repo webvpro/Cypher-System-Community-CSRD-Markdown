@@ -3,6 +3,7 @@ aliases:
 - Exiled
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

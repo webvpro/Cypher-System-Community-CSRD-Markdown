@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Might
+- List-Content
 - Ability/Categories/Special-Attack
 ---
 

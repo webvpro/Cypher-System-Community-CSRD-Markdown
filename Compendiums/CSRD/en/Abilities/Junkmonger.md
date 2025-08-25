@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
+- List-Content
 - Ability/Categories/Craft
 ---
 

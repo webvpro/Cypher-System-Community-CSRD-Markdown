@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/1-Gp
 - Equipment/Range/Can-Be-Thrown-up-to-Long
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

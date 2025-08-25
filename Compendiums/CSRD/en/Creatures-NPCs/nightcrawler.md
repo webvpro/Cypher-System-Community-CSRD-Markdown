@@ -8,6 +8,7 @@ tags:
   - Creature/Level/4
   - Creature/Armor/0
   - Creature/Health/12
+- List-Content
 title: Nightcrawler
 collection: Creatures-NPCs
 kind: Creature

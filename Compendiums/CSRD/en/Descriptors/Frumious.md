@@ -3,6 +3,7 @@ aliases:
   - "Frumious"
 tags:
   - Compendiums/CSRD/en/Descriptors/Frumious
+- List-Content
   - Descriptor/Fairytale
 ---
 

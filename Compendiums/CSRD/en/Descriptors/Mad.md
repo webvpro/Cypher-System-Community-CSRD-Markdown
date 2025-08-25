@@ -3,6 +3,7 @@ aliases:
 - Mad
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

@@ -10,6 +10,7 @@ tags:
 - Type/Warrior/Edge/Choice/Speed/1
 - Type/Warrior/Weapon/Practiced/Light
 - Type/Warrior/Weapon/Practiced/Medium
+- List-Content
 - Type/Warrior/Weapon/Practiced/Heavy
 ---
 ## Warrior

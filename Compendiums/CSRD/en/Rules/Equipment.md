@@ -3,6 +3,7 @@ aliases:
   - Equipment
   - "Equipment in Cypher System"
 tags:
+- List-Content
   - Compendium/CSRD/en/Rules/Equipment
 ---
 

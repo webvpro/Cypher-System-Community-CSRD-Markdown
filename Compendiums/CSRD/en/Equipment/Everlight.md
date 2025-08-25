@@ -7,6 +7,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Utility-Gear
 - Equipment/Level/3
+- List-Content
 - Equipment/Value/Inexpensive
 ---
 

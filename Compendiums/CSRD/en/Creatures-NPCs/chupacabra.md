@@ -8,6 +8,7 @@ tags:
   - Creature/Level/3
   - Creature/Armor/2
   - Creature/Health/13
+- List-Content
 title: Chupacabra
 collection: Creatures-NPCs
 kind: Creature

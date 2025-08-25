@@ -4,6 +4,7 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+- List-Content
 title: Wily
 collection: Descriptors
 kind: Descriptor

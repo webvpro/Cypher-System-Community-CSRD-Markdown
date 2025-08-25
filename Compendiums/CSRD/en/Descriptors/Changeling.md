@@ -3,6 +3,7 @@ aliases:
   - "Changeling"
 tags:
   - Compendiums/CSRD/en/Descriptors/Changeling
+- List-Content
   - Descriptor/Fairytale
 ---
 

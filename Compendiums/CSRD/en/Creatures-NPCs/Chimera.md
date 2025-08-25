@@ -3,6 +3,7 @@ aliases:
 - "Chimera"
 tags:
 - Compendiums/CSRD/en/Descriptors/Chimera
+- List-Content
 - Descriptor/Species 
 ---
 

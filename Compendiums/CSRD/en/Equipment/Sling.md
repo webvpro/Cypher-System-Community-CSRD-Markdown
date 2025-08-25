@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/1-Sp
 - Equipment/Weapon/Light
+- List-Content
 - Equipment/Range/Short
 ---
 

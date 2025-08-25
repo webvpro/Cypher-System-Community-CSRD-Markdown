@@ -3,6 +3,7 @@ aliases:
 - Graceful
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

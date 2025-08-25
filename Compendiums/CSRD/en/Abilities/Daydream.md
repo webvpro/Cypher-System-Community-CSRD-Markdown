@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
 - Ability/Categories/Control
+- List-Content
 - Ability/Categories/Environment
 ---
 

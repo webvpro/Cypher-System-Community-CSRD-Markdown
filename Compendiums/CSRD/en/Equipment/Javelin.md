@@ -6,6 +6,7 @@ tags:
 - Equipment/Fantasy
 - Equipment/Utility-Gear
 - Equipment/Value/5-Sp
+- List-Content
 - Equipment/Range/Can-Be-Thrown-up-to-Long
 ---
 

@@ -7,6 +7,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Sense-Enhancing-Tools
 - Equipment/Level/5
+- List-Content
 - Equipment/Value/Very-Expensive
 ---
 

@@ -8,6 +8,7 @@ tags:
   - Creature/Level/4
   - Creature/Armor/3
   - Creature/Health/24
+- List-Content
 title: Fleshmare
 collection: Creatures-NPCs
 kind: Creature

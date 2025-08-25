@@ -7,6 +7,7 @@ tags:
 - Equipment/Robots-And-Ai
 - Equipment/Science-Fiction
 - Equipment/Level/1
+- List-Content
 - Equipment/Value/Moderate
 ---
 

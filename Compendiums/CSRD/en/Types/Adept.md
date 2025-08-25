@@ -12,6 +12,7 @@ tags:
   - Type/Adept/Edge/Intellect/1
   - Type/Adept/Weapon/Practiced/Light
   - Type/Adept/Weapon/Inability/Medium
+- List-Content
   - Type/Adept/Weapon/Inability/Heavy
 ---
 

@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/Expensive
 - Equipment/Range/Long
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

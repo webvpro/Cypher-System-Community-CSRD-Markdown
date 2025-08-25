@@ -3,6 +3,7 @@ aliases:
 - Swift
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

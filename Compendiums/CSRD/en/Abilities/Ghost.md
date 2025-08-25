@@ -3,6 +3,7 @@ aliases:
 - "Ghost"
 tags:
 - Compendiums/CSRD/en/Descriptors/Ghost
+- List-Content
 - Descriptor/Species 
 ---
 

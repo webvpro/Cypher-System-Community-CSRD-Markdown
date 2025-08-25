@@ -2,6 +2,7 @@
 aliases:
   -  "Effort"
 tags: 
+- List-Content
 - Compendium/CSRD/en/Stats/Effort
 ---
 ## Effort

@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/Low
 - Ability/Pool/Intellect
 - Ability/Categories/Protection
+- List-Content
 - Ability/Categories/Fantasy/Modern
 ---
 

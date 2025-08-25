@@ -7,6 +7,7 @@ tags:
 - Equipment/Health-Care-and-Nutrition
 - Equipment/Science-Fiction
 - Equipment/Level/5
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

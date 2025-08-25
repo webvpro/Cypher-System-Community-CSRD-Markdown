@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/Low
 - Ability/Pool/Speed
 - Ability/Categories/Movement
+- List-Content
 - Ability/Categories/Task
 ---
 

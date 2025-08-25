@@ -3,6 +3,7 @@ aliases:
 - Fantasy
 tags:
 - Compendiums/CSRD/en/Tables
+- List-Content
 - Table/Fantasy
 ---
 

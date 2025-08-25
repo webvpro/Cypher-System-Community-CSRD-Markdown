@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/High
 - Ability/Pool/Might
 - Ability/Categories/Companion
+- List-Content
 - Ability/Categories/Meta
 ---
 

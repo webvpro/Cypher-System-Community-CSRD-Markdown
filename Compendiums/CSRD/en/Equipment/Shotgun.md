@@ -19,6 +19,7 @@ tags:
 - Equipment/Level/3
 - Equipment/Value/Expensive
 - Equipment/Weapon/Heavy
+- List-Content
 - Equipment/Range/Immediate
 ---
 

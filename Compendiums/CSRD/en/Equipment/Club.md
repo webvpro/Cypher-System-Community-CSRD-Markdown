@@ -6,6 +6,7 @@ tags:
 - Equipment/Fantasy
 - Equipment/Utility-Gear
 - Equipment/Value/1-Sp
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

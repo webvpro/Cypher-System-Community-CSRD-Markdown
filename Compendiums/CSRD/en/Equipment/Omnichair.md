@@ -7,6 +7,7 @@ tags:
 - Equipment/Health-Care-and-Nutrition
 - Equipment/Science-Fiction
 - Equipment/Level/4
+- List-Content
 - Equipment/Value/Very-Expensive
 ---
 

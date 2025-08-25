@@ -6,6 +6,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Utility-Gear
 - Equipment/Level/4
+- List-Content
 - Equipment/Value/Very-Expensive
 ---
 

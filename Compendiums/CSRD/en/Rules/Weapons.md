@@ -3,6 +3,7 @@ aliases:
   - Weapons
 tags:
   - Compendium/CSRD/en/Rules/Weapons
+- List-Content
   - Rule/Weapons
 ---
 ## Weapons  

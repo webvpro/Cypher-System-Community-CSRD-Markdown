@@ -8,6 +8,7 @@ tags:
   - Creature/Level/6
   - Creature/Armor/5
   - Creature/Health/30
+- List-Content
 title: Locomotem
 collection: Creatures-NPCs
 kind: Creature

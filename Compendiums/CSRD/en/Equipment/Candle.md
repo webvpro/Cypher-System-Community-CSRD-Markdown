@@ -9,6 +9,7 @@ tags:
 - Equipment/Value/1-Sp
 - Equipment/Post-Apocalyptic
 - Equipment/Utility-Gear
+- List-Content
 - Equipment/Value/Inexpensive
 ---
 

@@ -3,6 +3,7 @@ aliases:
 - Intelligent
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

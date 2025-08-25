@@ -1,0 +1,20 @@
+---
+aliases:
+- "Starship, Solo Fighter"
+tags:
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantastic
+- Equipment/Science-Fiction
+- Equipment/Spacecraft
+- Equipment/Level/2
+- List-Content
+- Equipment/Value/Exorbitant
+---
+
+  
+## Starship, Solo Fighter  
+  
+>A small double-occupant starship with two weapon systems that fire blasters. Minimum size vehicle capable of FTL travel.  
+> **Options :** Fantastic, Science Fiction, Spacecraft  
+> **Level :** 2  
+> **Value :** Exorbitant

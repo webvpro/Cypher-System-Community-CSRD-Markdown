@@ -2,6 +2,7 @@
 aliases:
 - "Armor"
 tags:
+- List-Content
 - Compendium/CSRD/en/Rules/Armor
 ---
 ## Armor

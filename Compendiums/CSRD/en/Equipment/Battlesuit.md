@@ -8,6 +8,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Level/5
 - Equipment/Value/Very-Expensive
+- List-Content
 - Equipment/Armor/Heavy
 ---
 

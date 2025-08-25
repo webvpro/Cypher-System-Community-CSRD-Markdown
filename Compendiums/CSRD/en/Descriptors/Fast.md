@@ -3,6 +3,7 @@ aliases:
 - Fast
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

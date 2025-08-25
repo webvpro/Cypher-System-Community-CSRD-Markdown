@@ -8,6 +8,7 @@ tags:
   - Creature/Level/3
   - Creature/Armor/0
   - Creature/Health/9
+- List-Content
 title: Deathtumbler
 collection: Creatures-NPCs
 kind: Creature

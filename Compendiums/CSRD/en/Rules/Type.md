@@ -3,6 +3,7 @@ aliases:
   - "Type"
 tags:
   - Compendium/CSRD/en/Rules
+- List-Content
   - Character/Type
 ---
 

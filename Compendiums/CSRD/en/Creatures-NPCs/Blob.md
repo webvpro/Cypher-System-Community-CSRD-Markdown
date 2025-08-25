@@ -7,6 +7,7 @@ tags:
 - Creature/Kind/Creature
 - Creature/Level/8
 - Creature/Armor/0
+- List-Content
 - Creature/Health/66
 ---
 

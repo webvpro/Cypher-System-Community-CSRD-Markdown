@@ -3,6 +3,7 @@ aliases:
 - "Helborn"
 tags:
 - Compendiums/CSRD/en/Descriptors/Helborn
+- List-Content
 - Descriptor/Fantasy
 ---
 

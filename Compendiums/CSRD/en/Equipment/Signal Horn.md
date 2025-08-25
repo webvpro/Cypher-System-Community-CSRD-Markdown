@@ -1,0 +1,18 @@
+---
+aliases:
+- "Signal Horn"
+tags:
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- List-Content
+- Equipment/Value/2-Gp
+---
+
+  
+## Signal Horn  
+  
+>This horn can be heard up to a mile away.  
+> **Options :** Fantasy, Utility Gear  
+> **Value :** Moderate, 2 Gp

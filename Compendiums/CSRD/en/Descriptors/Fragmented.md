@@ -3,6 +3,7 @@ aliases:
   - "Fragmented"
 tags:
   - Compendiums/CSRD/en/Descriptors/Fragmented
+- List-Content
   - Descriptor/Fairytale
 ---
 

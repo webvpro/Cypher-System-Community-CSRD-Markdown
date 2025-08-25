@@ -4,6 +4,7 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+- List-Content
 title: Forgeborn
 collection: Descriptors
 kind: Descriptor

@@ -7,6 +7,7 @@ tags:
 - Equipment/Communication
 - Equipment/Science-Fiction
 - Equipment/Level/5
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

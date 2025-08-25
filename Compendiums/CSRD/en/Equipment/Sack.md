@@ -5,6 +5,7 @@ tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Fantasy
 - Equipment/Utility-Gear
+- List-Content
 - Equipment/Value/1-Cp
 ---
 

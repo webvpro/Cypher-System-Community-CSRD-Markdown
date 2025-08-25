@@ -7,6 +7,7 @@ tags:
 - Equipment/Modern
 - Equipment/Robots-And-Ai
 - Equipment/Level/3
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

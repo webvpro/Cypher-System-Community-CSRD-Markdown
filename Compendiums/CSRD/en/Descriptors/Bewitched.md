@@ -3,6 +3,7 @@ aliases:
   - "Bewitched"
 tags:
   - Compendiums/CSRD/en/Descriptors/Bewitched
+- List-Content
   - Descriptor/Fairytale
 ---
 

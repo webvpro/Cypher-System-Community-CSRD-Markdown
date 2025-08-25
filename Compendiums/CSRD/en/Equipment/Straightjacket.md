@@ -5,6 +5,7 @@ tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Modern
 - Equipment/Utility-Gear
+- List-Content
 - Equipment/Value/Expensive
 ---
 

@@ -3,6 +3,7 @@ aliases:
 - Kind
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

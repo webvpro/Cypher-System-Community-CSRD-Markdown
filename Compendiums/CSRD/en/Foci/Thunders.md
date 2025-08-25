@@ -3,6 +3,7 @@ aliases:
 - "Thunders"
 tags:
 - Compendium/CSRD/en/Foci
+- List-Content
 - Focus/Category/Energy-Manipulation
 ---
 

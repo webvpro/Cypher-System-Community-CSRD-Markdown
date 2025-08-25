@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/1Gp
 - Equipment/Range/Can-Be-Thrown-up-to-Short
+- List-Content
 - Equipment/Weapon/Light
 ---
 

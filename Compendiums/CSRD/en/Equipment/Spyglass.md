@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/Very-Expensive
 - Equipment/Value/1,0000-Gp
+- List-Content
 - Equipment/Range/Asset-for-Perception-Tasks-At
 ---
 

@@ -2,6 +2,7 @@
 aliases:
   -  "CSRD Rules Index"
 tags: 
+- List-Content
 - Compendium/CSRD/en/Rules/Index
 ---
 # Cypher System Rules Index

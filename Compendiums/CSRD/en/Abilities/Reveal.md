@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/Low
 - Ability/Pool/Intellect
 - Ability/Categories/Senses
+- List-Content
 - Ability/Categories/Support
 ---
 

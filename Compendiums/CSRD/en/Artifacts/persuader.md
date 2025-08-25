@@ -4,6 +4,7 @@ aliases:
 tags:
   - Compendium/CSRD/en/Artifacts
   - Artifact
+- List-Content
 title: Persuader
 collection: Artifacts
 kind: Artifact

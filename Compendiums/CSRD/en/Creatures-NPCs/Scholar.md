@@ -7,6 +7,7 @@ tags:
 - Creature/Kind/NPC
 - Creature/Level/2
 - Creature/Armor/0
+- List-Content
 - Creature/Health/6
 ---
 

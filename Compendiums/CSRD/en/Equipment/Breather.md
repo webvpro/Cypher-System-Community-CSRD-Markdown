@@ -8,6 +8,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Level/2
 - Equipment/Value/Moderate
+- List-Content
 - Equipment/Value/Expensive
 ---
 

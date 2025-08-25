@@ -15,6 +15,7 @@ tags:
 - Equipment/Modern
 - Equipment/Sense-Enhancing-Tools
 - Equipment/Level/2
+- List-Content
 - Equipment/Value/Moderate
 ---
 

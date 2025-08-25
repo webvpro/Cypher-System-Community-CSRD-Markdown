@@ -3,6 +3,7 @@ aliases:
 - "Nix"
 tags:
 - Compendiums/CSRD/en/Descriptors/Nix
+- List-Content
 - Descriptor/Species
 ---
 

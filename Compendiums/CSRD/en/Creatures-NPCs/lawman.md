@@ -8,6 +8,7 @@ tags:
   - Creature/Level/5
   - Creature/Armor/1
   - Creature/Health/20
+- List-Content
 title: Lawman
 collection: Creatures-NPCs
 kind: NPC

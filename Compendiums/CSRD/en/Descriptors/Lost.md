@@ -3,6 +3,7 @@ aliases:
   - "Lost"
 tags:
   - Compendiums/CSRD/en/Descriptors/Lost
+- List-Content
   - Descriptor/Fairytale
 ---
 

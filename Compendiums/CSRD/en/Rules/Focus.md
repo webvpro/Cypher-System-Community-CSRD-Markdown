@@ -4,6 +4,7 @@ tags:
 - Compendium/CSRD/en/Rules/Focus
 - Rule/Foci/Choosing
 - Rule/Foci/Connections
+- List-Content
 - Rule/Foci/Connections
 ---
 

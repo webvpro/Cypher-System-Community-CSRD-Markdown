@@ -6,6 +6,7 @@ tags:
 - Equipment/Fantasy
 - Equipment/Utility-Gear
 - Equipment/Value/Expensive
+- List-Content
 - Equipment/Armor/Medium
 ---
 

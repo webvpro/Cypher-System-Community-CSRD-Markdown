@@ -8,6 +8,7 @@ tags:
   - Creature/Level/4
   - Creature/Armor/1
   - Creature/Health/12
+- List-Content
 title: Risen
 collection: Creatures-NPCs
 kind: Creature

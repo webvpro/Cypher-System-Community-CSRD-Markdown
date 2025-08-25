@@ -7,6 +7,7 @@ tags:
 - Equipment/Fantastic
 - Equipment/Science-Fiction
 - Equipment/Level/6
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

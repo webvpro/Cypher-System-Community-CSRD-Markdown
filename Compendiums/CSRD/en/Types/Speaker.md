@@ -11,6 +11,7 @@ tags:
   - Type/Speaker/Edge/Intellect/Might/1
   - Type/Speaker/Weapon/Practiced/Light
   - Type/Speaker/Weapon/Inability/Medium
+- List-Content
   - Type/Speaker/Weapon/Inability/Heavy
 ---
 

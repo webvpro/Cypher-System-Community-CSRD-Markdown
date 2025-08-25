@@ -11,6 +11,7 @@ tags:
   - Type/Explorer/Edge/Choice/Might/1
   - Type/Explorer/Weapon/Practiced/Light
   - Type/Explorer/Weapon/Practiced/Medium
+- List-Content
   - Type/Explorer/Weapon/Inability/Heavy
 ---
 

@@ -4,6 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact
+- List-Content
 - Artifact/Fairy-Tale
 ---
 

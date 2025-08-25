@@ -5,6 +5,7 @@ tags:
 - Compendium/CSRD/en/Equipment
 - Equipment/Post-Apocalyptic
 - Equipment/Utility-Gear
+- List-Content
 - Equipment/Value/Very-Expensive
 ---
 

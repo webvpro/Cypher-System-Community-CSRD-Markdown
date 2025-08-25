@@ -8,6 +8,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Level/3
 - Equipment/Value/Expensive
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

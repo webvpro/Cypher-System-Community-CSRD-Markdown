@@ -10,6 +10,7 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
   - Content/Weird-West
+- List-Content
 title: Scaled
 collection: Abilities
 kind: Ability

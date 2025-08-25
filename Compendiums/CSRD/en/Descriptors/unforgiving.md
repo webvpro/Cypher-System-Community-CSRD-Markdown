@@ -4,6 +4,7 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
+- List-Content
 title: Unforgiving
 collection: Descriptors
 kind: Descriptor

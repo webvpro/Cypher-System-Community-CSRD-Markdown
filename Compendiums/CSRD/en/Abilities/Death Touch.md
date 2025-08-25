@@ -1,0 +1,20 @@
+---
+aliases:
+- "Death Touch"
+tags:
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- List-Content
+- Ability/Categories/Special-Attack
+---
+
+  
+## Death Touch  
+>**Action**  
+>6 Intellect points
+  
+You gather disrupting energy in your fingertip and touch a creature. If the target is an NPC or a creature of level 3 or lower, it dies. If the target is a PC of any tier, they move down one step on the damage track. Action.

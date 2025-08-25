@@ -3,6 +3,7 @@ aliases:
 - Mutant
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

@@ -8,6 +8,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Level/3
 - Equipment/Value/Moderate
+- List-Content
 - Equipment/Value/Expensive
 ---
 

@@ -5,6 +5,7 @@ tags:
   - Compendiums/CSRD/en/Descriptors
   - Descriptor
   - Content/Weird-West
+- List-Content
 title: Laconic
 collection: Descriptors
 kind: Descriptor

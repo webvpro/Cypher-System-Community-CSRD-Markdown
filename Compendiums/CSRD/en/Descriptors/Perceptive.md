@@ -3,6 +3,7 @@ aliases:
 - Perceptive
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

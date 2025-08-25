@@ -4,6 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Artifacts
 - Artifact/Weapon
+- List-Content
 - Artifact/Post-Apocalyptic
 ---
 

@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/High
 - Ability/Pool/Intellect
 - Ability/Categories/Cure
+- List-Content
 - Ability/Categories/Support
 ---
 

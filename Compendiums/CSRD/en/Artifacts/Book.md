@@ -10,6 +10,7 @@ tags:
 - Equipment/Modern
 - Equipment/Recreation
 - Equipment/Level/2
+- List-Content
 - Equipment/Value/Inexpensive
 ---
 

@@ -3,6 +3,7 @@ aliases:
 - Manifest
 tags:
 - Compendiums/CSRD/en/Tables
+- List-Content
 - Table/Cypher/Manifest
 ---
 

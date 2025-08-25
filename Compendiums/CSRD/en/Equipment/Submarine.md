@@ -7,6 +7,7 @@ tags:
 - Equipment/Planetary-Vehicle
 - Equipment/Science-Fiction
 - Equipment/Level/4
+- List-Content
 - Equipment/Value/Priceless
 ---
 

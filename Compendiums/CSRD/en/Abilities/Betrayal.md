@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/NA
 - Ability/Tier/Mid
 - Ability/Categories/Meta
+- List-Content
 - Ability/Categories/Social
 ---
 

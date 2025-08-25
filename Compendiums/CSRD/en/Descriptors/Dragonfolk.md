@@ -3,6 +3,7 @@ aliases:
 - Dragonfolk
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

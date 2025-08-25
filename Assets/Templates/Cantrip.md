@@ -4,6 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Cantrips/{{title}}
 - Cantrip/Pool/
+- List-Content
 - Cantrip/Cost/
 ---
 

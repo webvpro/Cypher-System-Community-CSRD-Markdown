@@ -3,6 +3,7 @@ aliases:
 - Sensational
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

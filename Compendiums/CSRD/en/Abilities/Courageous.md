@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/NA
 - Ability/Tier/Low
 - Ability/Categories/Protection
+- List-Content
 - Ability/Categories/Task
 ---
 

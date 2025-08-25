@@ -8,6 +8,7 @@ tags:
   - Creature/Level/5
   - Creature/Armor/3
   - Creature/Health/27
+- List-Content
 title: Angalith
 collection: Creatures-NPCs
 kind: Creature

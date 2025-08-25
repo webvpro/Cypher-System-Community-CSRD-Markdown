@@ -7,6 +7,7 @@ tags:
 - Creature/Kind/Super Villain
 - Creature/Level/8
 - Creature/Armor/8
+- List-Content
 - Creature/Health/50
 ---
 

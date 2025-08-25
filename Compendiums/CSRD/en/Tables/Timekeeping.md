@@ -1,3 +1,8 @@
+---
+tags:
+- List-Content
+---
+
 aliases:
 - "Timekeeping Table"
 tags:

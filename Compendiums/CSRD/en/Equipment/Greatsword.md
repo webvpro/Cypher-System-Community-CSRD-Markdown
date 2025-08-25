@@ -7,6 +7,7 @@ tags:
 - Equipment/Utility-Gear
 - Equipment/Value/Very-Expensive
 - Equipment/Value/50-Gp
+- List-Content
 - Equipment/Weapon/Heavy
 ---
 

@@ -4,6 +4,7 @@ aliases:
 tags:
   - Compendiums/CSRD/en/Tables
   - Table/Cypher/Fairy-Tale
+- List-Content
 title: Fairy Tale
 collection: Tables
 kind: Table

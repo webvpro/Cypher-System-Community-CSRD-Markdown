@@ -20,6 +20,7 @@ tags:
 - Equipment/Level/2
 - Equipment/Value/Moderate
 - Equipment/Range/Long
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

@@ -9,6 +9,7 @@ tags:
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
 - Ability/Categories/Magic
+- List-Content
 - Ability/Categories/Fantasy/Modern
 ---
 

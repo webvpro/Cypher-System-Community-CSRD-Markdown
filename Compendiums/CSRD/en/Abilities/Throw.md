@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Mid
 - Ability/Pool/Might
+- List-Content
 - Ability/Categories/Special-Attack
 ---
 

@@ -6,6 +6,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Utility-Gear
 - Equipment/Value/Moderate
+- List-Content
 - Equipment/Range/Planetary
 ---
 

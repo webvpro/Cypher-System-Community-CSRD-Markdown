@@ -4,6 +4,7 @@ aliases:
 tags:
 - Compendium/CSRD/en/Artifacts/Meatboy
 - Artifact
+- List-Content
 - Artifact/Modern-Fantasy
 ---
 

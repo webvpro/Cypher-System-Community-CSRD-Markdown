@@ -8,6 +8,7 @@ tags:
   - Creature/Level/5
   - Creature/Armor/0
   - Creature/Health/27
+- List-Content
 title: Alchehemoth
 collection: Creatures-NPCs
 kind: Creature

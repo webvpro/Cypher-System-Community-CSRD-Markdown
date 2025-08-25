@@ -6,6 +6,7 @@ tags:
 - Equipment/Post-Apocalyptic
 - Equipment/Utility-Gear
 - Equipment/Value/Inexpensive
+- List-Content
 - Equipment/Weapon/Light
 ---
 

@@ -3,6 +3,7 @@ aliases:
 - Lizardfolk
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

@@ -8,6 +8,7 @@ tags:
 - Equipment/Value/Moderate
 - Equipment/Value/5-Gp
 - Equipment/Weapon/Light
+- List-Content
 - Equipment/Range/Short
 ---
 

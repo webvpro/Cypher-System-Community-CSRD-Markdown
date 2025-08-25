@@ -7,6 +7,7 @@ tags:
 - Ability/Action
 - Ability/Cost/NA
 - Ability/Tier/Low
+- List-Content
 - Ability/Categories/Craft
 ---
 

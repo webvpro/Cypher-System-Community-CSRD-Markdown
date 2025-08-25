@@ -7,6 +7,7 @@ tags:
 - Equipment/Mechs-and-Tanks
 - Equipment/Modern
 - Equipment/Level/4
+- List-Content
 - Equipment/Value/Exorbitant
 ---
 

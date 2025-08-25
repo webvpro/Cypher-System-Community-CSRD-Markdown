@@ -7,6 +7,7 @@ tags:
 - Equipment/Science-Fiction
 - Equipment/Spacecraft
 - Equipment/Level/2
+- List-Content
 - Equipment/Value/Very-Expensive
 ---
 

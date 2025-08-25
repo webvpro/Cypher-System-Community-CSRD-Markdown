@@ -3,6 +3,7 @@ aliases:
 - Charming
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

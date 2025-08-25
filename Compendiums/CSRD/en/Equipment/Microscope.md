@@ -7,6 +7,7 @@ tags:
 - Equipment/Modern
 - Equipment/Sense-Enhancing-Tools
 - Equipment/Level/3
+- List-Content
 - Equipment/Value/Expensive
 ---
 

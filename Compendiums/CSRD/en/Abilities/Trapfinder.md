@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
+- List-Content
 - Ability/Categories/Senses
 ---
 

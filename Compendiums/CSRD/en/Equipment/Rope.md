@@ -15,6 +15,7 @@ tags:
 - Equipment/Value/Moderate
 - Equipment/Post-Apocalyptic
 - Equipment/Utility-Gear
+- List-Content
 - Equipment/Value/Moderate
 ---
 

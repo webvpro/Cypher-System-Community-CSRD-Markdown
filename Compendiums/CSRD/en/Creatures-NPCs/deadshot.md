@@ -8,6 +8,7 @@ tags:
   - Creature/Level/5
   - Creature/Armor/4
   - Creature/Health/27
+- List-Content
 title: Deadshot
 collection: Creatures-NPCs
 kind: Creature

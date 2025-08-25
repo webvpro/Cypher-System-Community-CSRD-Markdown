@@ -8,6 +8,7 @@ tags:
   - Creature/Level/5
   - Creature/Armor/0
   - Creature/Health/18
+- List-Content
 title: Alchemist
 collection: Creatures-NPCs
 kind: NPC

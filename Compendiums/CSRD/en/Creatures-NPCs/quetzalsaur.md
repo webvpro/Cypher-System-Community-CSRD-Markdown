@@ -8,6 +8,7 @@ tags:
   - Creature/Level/6
   - Creature/Armor/2
   - Creature/Health/33
+- List-Content
 title: Quetzalsaur
 collection: Creatures-NPCs
 kind: Creature

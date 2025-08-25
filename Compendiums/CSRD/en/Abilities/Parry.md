@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Speed
+- List-Content
 - Ability/Categories/Protection
 ---
 

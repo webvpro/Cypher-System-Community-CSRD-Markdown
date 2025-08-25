@@ -4,6 +4,7 @@ aliases:
 tags:
 -  Compendium/CSRD/en/Rules
 - Combat/Basics
+- List-Content
 - 
 ---
 

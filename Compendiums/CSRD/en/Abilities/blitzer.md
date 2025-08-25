@@ -8,6 +8,7 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Blitzer
+- List-Content
 title: Blitzer
 collection: Abilities
 kind: Ability

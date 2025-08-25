@@ -3,6 +3,7 @@ aliases:
 - Chaotic
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

@@ -3,6 +3,7 @@ aliases:
 - Doomed
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

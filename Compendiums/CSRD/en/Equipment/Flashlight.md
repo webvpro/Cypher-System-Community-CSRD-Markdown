@@ -10,6 +10,7 @@ tags:
 - Equipment/Modern
 - Equipment/Utility-Gear
 - Equipment/Level/1
+- List-Content
 - Equipment/Value/Inexpensive
 ---
 

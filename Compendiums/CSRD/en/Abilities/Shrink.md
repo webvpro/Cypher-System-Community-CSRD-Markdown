@@ -8,6 +8,7 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/NA
 - Ability/Pool/Might
+- List-Content
 - Ability/Categories/NA
 ---
 

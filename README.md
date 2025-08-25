@@ -1,3 +1,8 @@
+---
+tags:
+- List-Content
+---
+
 # Cypher System Community CSRD in Markdown
 
 The Cypher System Community CSRD in Markdown Project is meant to be [Obsidian](https://obsidian.md/)  ready and can be used as a vault. 

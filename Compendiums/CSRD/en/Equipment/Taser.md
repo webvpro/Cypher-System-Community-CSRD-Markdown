@@ -8,6 +8,7 @@ tags:
 - Equipment/Modern
 - Equipment/Level/3
 - Equipment/Value/Very-Expensive
+- List-Content
 - Equipment/Weapon/Medium
 ---
 

@@ -3,6 +3,7 @@ aliases:
   - Descriptor
 tags:
   - Compendium/CSRD/en/Rules/Descriptor
+- List-Content
   - Rule/Descriptor
 ---
 

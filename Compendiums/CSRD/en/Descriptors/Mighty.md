@@ -3,6 +3,7 @@ aliases:
 - Mighty
 tags:
 - Compendiums/CSRD/en/Descriptors
+- List-Content
 - Descriptor
 ---
 

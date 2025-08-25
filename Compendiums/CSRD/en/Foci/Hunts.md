@@ -3,6 +3,7 @@ aliases:
 - "Hunts"
 tags:
 - Compendium/CSRD/en/Foci
+- List-Content
 - Focus/Category/Striker-Combat
 ---
 
