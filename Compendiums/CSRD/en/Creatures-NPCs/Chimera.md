@@ -1,39 +1,36 @@
 ---
 aliases:
-- Chimera
+- "Chimera"
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/21
+- Compendiums/CSRD/en/Descriptors/Chimera
+- Descriptor/Species 
 ---
 
-  
 ## Chimera  
-Chimeras are unsettling hybrids that combine the features of many different animals, often arranged in odd formations. The fusion of animal forms is the only thing that unifies these creatures-otherwise, different chimeras often look very different from each other. They include combinations of goat and lion, lizard and bat, dragon and spider, dinosaur and giant insect. A few even display human features, such as an improbably located face or hands instead of claws. Some chimeras can fly. Others slither across the ground. 
-A chimera typically has a dominant form to which other animal parts are grafted. The base form must be large enough to support the weight of the extra heads, so lions, bears, and horses are popular as the base form.
-Chimeras kill even when not hungry and throw their victims' remains around a wide area in a wild rage. When not feeding or tormenting prey, a chimera that can fly takes to the air, beating its enormous leather wings to scour the landscape for new prey.  
+You have a blend of animal attributes; you may be a well-known mythological creature, like a satyr or minotaur, or you may have a unique combination of features. Bison horns, boar tusks, bear paws, a wolf’s tail, a lion’s mane: take your pick. Your thickened skin offers protection from attacks and the elements. Depending on your dexterity and whether you have opposable thumbs you may use adaptive weapons and tools, like a dagger modified to be held in a paw instead of a hand. You’re eager to protect the ones closest to you, and
+usually more likely to run toward conflict than away from it.
+### You gain the following characteristics:
+#### Fur and Hide 
+>+1 to Armor.
+####  Animal Strength 
+>+1 to your Might Pool.
+#### Charging Ahead
+>You’re trained in initiative.
+#### For the Gang
+>You stick up for your friends. When you draw the attack, your defense is only hindered by one step.
+#### Ham-fisted 
+>Tasks requiring fine motor skills are hindered.
+### Initial Link to the Starting Adventure: 
+From the following list of options, choose how you became involved in the first adventure.
 
-  
-> **Level :** 6  
-> **Health :** 21  
-> **Damage :** 4 points  
-> **Armor :** 0  
-> **Movement :** Short while on the ground; long while flying (if it can fly)  
-> **Modifications**  
->- Speed defense rolls as level 5 due to size >
->  
-> **Environment: ** Anywhere, usually alone  
-> **Interactions: ** Chimeras are a lot like wild animals with rabies. They're confused and violent, and they behave erratically. Savage, ferocious beasts, they hate all other creatures and seize any opportunity to kill.  
-> **Uses: **While exploring an island, the PCs find carcasses that have been torn apart, the pieces scattered in all directions. A chimera lairs nearby, and if the characters draw attention to themselves, it hunts them down, too.  
-> **Loot: **NA  
-> **GM Intrusion: ** While exploring an island, the PCs find carcasses that have been torn apart, the pieces scattered in all directions. A chimera lairs nearby, and if the characters draw attention to themselves, it hunts them down, too.  
-
-> **Combat:** 
-> All chimeras have a number of ways to kill. The exact methods vary, but most can bite, sting, and gore (three attacks) as a single action, either attacking the same opponent or attacking different foes within immediate range of each other. A chimera's sting carries a powerful toxin, and a stung target must succeed on a Might defense roll or take 4 additional points of damage. Chimeras with spikes can project them at up to three targets within long range as a single action.  
-  
-
-> **Intrusions: ** 
-> The chimera grabs a character it bites and flies off with the victim  
+>1. A herd, a pride, a pack, a flock: whatever the collective noun for chimeras is, you’re looking to build (or join) one.
+>2. You need supplies to adapt a legendary weapon perfectly to your physique.
+>3. The other PCs were in the wrong place at the wrong time, and you protected them from harm.
+>4. You were held hostage by someone running a chimera fighting ring, and the other PCs freed you.
+### Chimera Advancement:
+[[Athlete|Athlete]] 
+[[Dual-Light-Wield|Dual Light Wield]]
+[[Enhanced-Might|Enhanced Might]]
+[[Enhanced-Speed|Enhanced Speed]]
+[[Fists-of-Fury|Fists of Fury]] 
+[[Frenzy|Frenzy]]

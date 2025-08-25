@@ -1,18 +1,26 @@
 ---
 aliases:
-- Book
+- "Book"
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/25-Gp
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Recreation
+- Equipment/Level/2
+- Equipment/Value/Inexpensive
 ---
 
   
 ## Book  
->[!info] Stats  
-> **Level:** 1d6  
-> **Form:** Textbook, How-To Book, or Other Nonfiction Book of Knowledge on One Topic; May Be Moldy or Otherwise Damaged  
-> **Depletion:** 1 in 1D100  
-> **Kind:** Post-Apocalyptic
   
-This book covers a particular topic or area of knowledge determined by the GM. A reader who studies it for an hour has an asset on a related Intellect task.
+>A book with information on a particular topic, such as geography, history, magic, or religion. Provides an asset on appropriate rolls if the character reads or skims the book for at least ten minutes before attempting the task (this assumes the character has already read the book and is looking for relevant information).  
+> **Options :** Fantasy, Utility Gear  
+> **Value :** 25 Gp  
+  
+>Print, digital, or audio; once perused for at least ten minutes, grants an asset to relaxation tasks.  
+> **Options :** Contemporary, Modern, Recreation  
+> **Level :** 2  
+> **Value :** Inexpensive

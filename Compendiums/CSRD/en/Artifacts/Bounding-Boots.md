@@ -1,18 +1,19 @@
 ---
 aliases:
-- Bounding Boots
+- "Bounding Boots"
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+- Compendium/CSRD/en/Equipment
+- Equipment/Apparel-And-Armor
+- Equipment/Fantastic
+- Equipment/Science-Fiction
+- Equipment/Level/4
+- Equipment/Value/Very-Expensive
 ---
 
   
 ## Bounding Boots  
->[!info] Stats  
-> **Level:** 1d6+1  
-> **Form:** Sturdy but Flexible Boots  
-> **Depletion:** -  
-> **Kind:** Fantasy
   
-The boots assist the wearer's every step to make jumping and running easier. The boots are an asset for jumping and running (easing one of these skills by two steps if the artifact is level 6 or higher).
+>Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent.  
+> **Options :** Apparel & Armor, Fantastic, Science Fiction  
+> **Level :** 4  
+> **Value :** Very Expensive

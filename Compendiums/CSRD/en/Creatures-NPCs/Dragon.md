@@ -1,43 +1,40 @@
 ---
 aliases:
-- Dragon
+- "Dragon"
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/45
+- Compendiums/CSRD/en/Descriptors/Dragon
+- Descriptor/Species 
 ---
 
-  
 ## Dragon  
-Dragons are exceptionally territorial, vain, and greedy. Apex predators, dragons must eat large meals on a regular basis. They prefer virgins, though they will settle for whoever, or whatever-such as horses or wild pigs-is available in a pinch. They love games of all sorts, especially when they get to consume the loser. Drawn to wealth and magic, dragons accumulate hoards of golden treasure. A dragon's hoard is not only an end in itself, but part of a never-ending contest between dragons of a certain age to see which one can accumulate the largest trove.  
+You can shift at will between a dragon and humanoid form; you may choose to spend more time in one form or the other. In your dragon form you’re about 10 feet (3.5 m) long with four legs, leathery wings, and a serpentlike tail. You’re drawn to treasure and shiny things, but you’re willing to share your hoard with those you trust. Though you can speak human languages, you can’t ignore the fact that you’re a wild part of your local ecosystem—at least some of the time. You’re an apex predator, driven to fly and to hunt, and you burmite in cold temperatures like other reptiles.
+>Brumation is a state of sluggishness and inactivity entered by reptiles in response to low temperatures.
+### You gain the following characteristics:
+#### Dragon Form 
+>You have both a humanoid form and a dragon form, and you can switch forms up to four times in a 24-hour period. In dragon form, your Speed defense tasks are hindered due to your size. Enabler.
+#### Tough 
+>+2 to your Might Pool.
+#### Fireproof 
+>+2 Armor against damage inflicted by fire or heat.
+#### Wings (1 Might point) 
+>When you have wings, you can fly a long distance as your action, or a short distance as part of another action, for up to ten minutes total. Enabler.
+#### Teeth 
+>You are skilled in making unarmed bite attacks, which are a medium weapon in your dragon form and a light weapon in. your humanoid form. Enabler.
+#### Spitting Flames (1+ Might point)
+>You can breathe a ball of fire at a target within short range, inflicting 3 points of fire damage. In addition to the normal options for using Effort, you can use Effort to affect more targets; each level of Effort affects one additional target. Action.
+#### Inability
+>Cold weather makes you want to burrow somewhere cozy and go dormant. Speed tasks are hindered when the temperature falls below 50°F (10°C).
+### Initial Link to the Starting Adventure 
+From the following list of options, choose how you became involved in the first adventure.
+>1. The other PCs were hired as dragon hunters, but once they met you they realized their mission was misguided.
+>2. You’re hoping to find a specific discontinued currency to add to your hoard.
+>3. You got stuck in your dragon form while molting, and the other PCs helped remove your shed skin.
+>4. You’re gathering ingredients for a difficult spell that will increase the range and intensity of your fire-breathing attacks.
+### Dragon Advancement
+[[Danger-Sense|Danger Sense]] 
+[[Defensive-Field|Defensive Field]] 
+[[Enhanced-Might|Enhanced Might]] 
+[[Enhanced-Might-Edge|Enhanced Might Edge]] 
+[[Enlarge|Enlarge]]
+[[#Spitting Flames (1+ Might point)|Training in Spitting Flames]]
 
-  
-> **Level :** 7  
-> **Health :** 45  
-> **Damage :** 10 points  
-> **Armor :** 3  
-> **Movement :** Short; long while flying  
-> **Modifications**  
->- Perception and riddles as level 8 >
->  
->- Speed defense as level 6 due to size >
->  
-> **Environment: ** Dragons thrive where wilderness meets the civilized frontier.  
-> **Interactions: ** Like the many hues of dragon scales, dragon personalities run the gamut from beastly thug to refined connoisseur. Some dragons lie with every smoky breath, others consider the least bit of dishonesty a personal failing, and most fall somewhere in between. All of them can be flattered and even charmed by someone with courtly manners and grace.  
-> **Uses: **A dragon confronts the PCs, challenging them to a riddle game. If the characters win, they get a cypher. If the dragon wins, the PCs owe it a favor to be specified later . . . unless the dragon is hungry now.  
-> **Loot: **A dragon's hoard might contain 2d6 cyphers, hard currency equivalent to 1d6 exorbitant items, and possibly a few artifacts (but a hoard is usually well guarded).  
-> **GM Intrusion: ** A dragon confronts the PCs, challenging them to a riddle game. If the characters win, they get a cypher. If the dragon wins, the PCs owe it a favor to be specified later . . . unless the dragon is hungry now.  
-
-> **Combat:** 
-> A dragon can bite one target or claw two opponents in immediate range as a single action. When bitten, targets are also immobilized until they succeed on a Might defense roll to break free (or the dragon drops them).
-Most dragons have one or more additional magical abilities they can bring to bear in combat, including the following.
-Captivate: A dragon with this ability can psychically mesmerize a nondragon target in immediate range who fails an Intellect defense roll. A captivated target does the dragon's verbal bidding for one or more hours. Each time the target is confronted by a third party about its mental condition, the target is allowed another Intellect defense roll to break the effect.
-Change Shape: A dragon with this ability can take the form of a human or similar humanoid as its action, or return to its regular shape. When so changed, the dragon's disguise is nearly impenetrable without special knowledge. As a human, the dragon is a level 5 creature.
-Fiery Breath: A dragon can breathe a stream of fire up to long range, doing 7 points of damage to all targets within immediate range of each other. Targets who succeed on a Speed defense roll to avoid the full effect of the fire still take 3 points of damage. This ability cannot be used in consecutive rounds.  
-  
-
-> **Intrusions: ** 
-> The dragon breathes fire while the character is caught in its mouth, which automatically inflicts maximum fire damage on them.  
