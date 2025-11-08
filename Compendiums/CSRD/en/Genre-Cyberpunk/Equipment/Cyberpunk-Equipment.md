@@ -68,7 +68,7 @@ Weapons
 
   ----------------------------------------------------------------
   Light Weapons (2 points of   Price          Notes
-  damage, attack eased)                       
+  damage, attack eased)
   ---------------------------- -------------- --------------------
   CancelYou® stunner pistol    \$300          Short range,
                                               nonlethal
@@ -80,9 +80,9 @@ Weapons
                                               against wooden
                                               objects
 
-  Knife                        \$30           
+  Knife                        \$30
 
-  Light katana                 \$200--\$400   
+  Light katana                 \$200--\$400
 
   Light pistol                 \$400          Short range
 
@@ -96,9 +96,9 @@ Weapons
                                               reload
 
   Mantis blade, knife          \$7,000        Cybernetic
-  configuration                               
+  configuration
 
-  Nightstick                   \$50           
+  Nightstick                   \$50
   ----------------------------------------------------------------
 
 Technically, a light katana is something like a wakizashi and a heavy
@@ -107,9 +107,9 @@ of them "katanas".
 
   --------------------------------------------------------------
   Medium Weapons (4    Price                Notes
-  points of damage)                         
+  points of damage)
   -------------------- -------------------- --------------------
-  Basbeball bat        \$50                 
+  Basbeball bat        \$50
 
   Firefighter's axe    \$100                Attacks eased
                                             against wooden
@@ -117,10 +117,10 @@ of them "katanas".
 
   Leg blade            \$8,000              Cybernetic
 
-  Machete              \$75                 
+  Machete              \$75
 
   Mantis blade, sword  \$7,000              Cybernetic
-  configuration                             
+  configuration
 
   Medium katana                             \$500--\$1,000
 
@@ -157,7 +157,7 @@ hindered attack.
 
   --------------------------------------------------------------
   Heavy Weapons (6     Price                Notes
-  points of damage)                         
+  points of damage)
   -------------------- -------------------- --------------------
   Assault rifle        \$1,400              Long range,
                                             rapid-fire
@@ -165,7 +165,7 @@ hindered attack.
   Double-barrel        \$800                Immediate range\*,
   break-action shotgun                      rapid-fire
 
-  Heavy katana         \$1,000--\$2,000     
+  Heavy katana         \$1,000--\$2,000
 
   Heavy pistol         \$800                Long range
 
@@ -190,21 +190,21 @@ hindered attack.
   Heavy Zeerok pistol  \$350                Short range, no
                                             reload
 
-  Omega bat®           \$200                
+  Omega bat®           \$200
 
   Single-barrel        \$1,300              Immediate range\*,
   automatic shotgun                         rapid-fire,
                                             unreliable
 
   Single-barrel        \$500                Immediate range\*
-  break-action shotgun                      
+  break-action shotgun
 
   Single-barrel        \$800                Immediate range\*,
   pump-action shotgun                       rapid-fire
 
   Single-barrel        \$1,000              Immediate range\*,
   semi-automatic                            rapid-fire
-  shotgun                                   
+  shotgun
   --------------------------------------------------------------
 
 \* Although it is an immediate-range weapon, extreme range for a shotgun
@@ -218,19 +218,19 @@ Ammunition
   --------------------------------------------------------------
   Buckshot (10)              \$20           For shotguns only
   -------------------------- -------------- --------------------
-  Bullets (10)               \$20           
+  Bullets (10)               \$20
 
   Falling Blossom® darts     \$40           Hindering poison
-  (4), kayumi                               
+  (4), kayumi
 
   Falling Blossom® darts     \$60           Speed damage poison
-  (4), habu                                 
+  (4), habu
 
   Falling Blossom® darts     \$80           Might damage poison
-  (4), mamushi                              
+  (4), mamushi
 
   Falling Blossom® darts     \$160          Paralysis poison
-  (4), kanashibari                          
+  (4), kanashibari
   --------------------------------------------------------------
 
 Weapons
@@ -575,14 +575,14 @@ Armor
                                                   Cost\*
   --------------- --------------- --------------- ---------------
   Heavy leather   \$300           1               +2
-  jacket                                          
+  jacket
 
   Medium Armor    Price           Armor           Speed Effort
                                                   Additional
                                                   Cost\*
 
   Kevlar vest or  \$800           2               +3
-  jacket                                          
+  jacket
 
   Riot gear       \$1,500         2               +2
 
@@ -591,7 +591,7 @@ Armor
                                                   Cost\*
 
   Military body   \$4,000         3               +4
-  armor                                           
+  armor
 
   Riot shield\*\* \$200           ---             ---
   ---------------------------------------------------------------
@@ -623,7 +623,7 @@ Entertainment
   Brainslide                     \$200
 
   Concert or sporting event      \$50--\$1,000
-  ticket                         
+  ticket
 
   Movie rental (streaming)       \$50
 
@@ -704,13 +704,13 @@ Food, Drink, and Healthcare
   TastyKib®                      \$15
 
   Therapeutic drug cocktail,     \$100
-  "chrome balance"               
+  "chrome balance"
 
   Therapeutic drug cocktail,     \$500
-  "cyber flat"                   
+  "cyber flat"
 
   Therapeutic drug cocktail,     \$900
-  "organic nirvana"              
+  "organic nirvana"
 
   Therapy, session               \$300
 
@@ -892,71 +892,71 @@ Miscellaneous Items
   --------------------------------------------------------------
   Item                 Price                Notes
   -------------------- -------------------- --------------------
-  3D printer           \$2,000              
+  3D printer           \$2,000
 
-  Backpack             \$30                 
+  Backpack             \$30
 
   Bolt cutters         \$25                 Asset for cutting
                                             through metal bars
 
-  Burner phone         \$100                
+  Burner phone         \$100
 
-  Cardpick             \$750                
+  Cardpick             \$750
 
-  Cashcard             \$5                  
+  Cashcard             \$5
 
   Climbing gear        \$750                Asset for climbing
                                             tasks
 
-  Crowbar              \$40                 
+  Crowbar              \$40
 
-  Digital shroud       \$6,000              
+  Digital shroud       \$6,000
 
-  Drum synthesizer     \$200                
+  Drum synthesizer     \$200
 
-  Duct tape roll       \$20                 
+  Duct tape roll       \$20
 
-  Duffel bag           \$30                 
+  Duffel bag           \$30
 
-  Face scanner         \$500                
+  Face scanner         \$500
 
   Flashlight           \$25                 24 hours, cone out
                                             to short area,
                                             rechargeable
 
-  Game console         \$200--\$700         
+  Game console         \$200--\$700
 
-  Glowgrenade          \$100                
+  Glowgrenade          \$100
 
-  Glowpaint            \$25                 
+  Glowpaint            \$25
 
-  Glowstick            \$5                  
+  Glowstick            \$5
 
-  Guitar               \$200--\$1,000       
+  Guitar               \$200--\$1,000
 
   Handcuffs            \$75                 Level 5 restraint
 
-  Heavy tools          \$300                
+  Heavy tools          \$300
 
-  Holoprojector        \$2,000              
+  Holoprojector        \$2,000
 
-  Keyboard             \$200                
+  Keyboard             \$200
 
-  Kleenbot             \$250                
+  Kleenbot             \$250
 
-  Land mine            \$100                
+  Land mine            \$100
 
-  Light tools          \$100                
+  Light tools          \$100
 
-  Limb swapper         \$5,000              
+  Limb swapper         \$5,000
 
-  Loudspeaker          \$100                
+  Loudspeaker          \$100
 
-  Magnetic grapple     \$500                
+  Magnetic grapple     \$500
 
-  Parachute            \$2,500              
+  Parachute            \$2,500
 
-  Poison sniffer       \$2,000              
+  Poison sniffer       \$2,000
 
   Portable lantern     \$200                24 hours in a short
                                             area, rechargeable
@@ -964,27 +964,27 @@ Miscellaneous Items
   Rope                 \$50                 50 feet (15 m),
                                             nylon
 
-  Smartphone           \$1,000              
+  Smartphone           \$1,000
 
-  Subvocalizer         \$200                
+  Subvocalizer         \$200
 
-  Suction grapple      \$750                
+  Suction grapple      \$750
 
-  Suitcase             \$50--\$100          
+  Suitcase             \$50--\$100
 
-  Surveillance camera  \$1,000              
+  Surveillance camera  \$1,000
 
-  Tactile drone        \$3,000              
+  Tactile drone        \$3,000
 
-  Television           \$500--\$2,000       
+  Television           \$500--\$2,000
 
-  Tracking device      \$150--\$500         
+  Tracking device      \$150--\$500
 
-  Translator chip      \$3,000              
+  Translator chip      \$3,000
 
-  Wireless jammer      \$4,000              
+  Wireless jammer      \$4,000
 
-  Zeta torch           \$100                
+  Zeta torch           \$100
 
   Zip ties (10)        \$20                 Level 3 restraint
   --------------------------------------------------------------
@@ -1203,12 +1203,12 @@ or two adjacent creatures.
 Clothing and Worn Items
 
   --------------------------------------------------------------
-  Item                 Price                
+  Item                 Price
   -------------------- -------------------- --------------------
-  Advanced binoculars  \$1,500              
+  Advanced binoculars  \$1,500
 
-  Augmented reality    \$500                
-  (AR) unit                                 
+  Augmented reality    \$500
+  (AR) unit
 
   Binoculars           \$100                Asset for perception
                                             tasks at long range
@@ -1216,15 +1216,15 @@ Clothing and Worn Items
   Disguise kit         \$2,000              Asset for disguise
                                             tasks
 
-  Fancy clothes        \$1,000--\$5,000     
+  Fancy clothes        \$1,000--\$5,000
 
   Filtration mask      \$300                Filters out smoke
                                             and toxins for eight
                                             to twelve hours
 
-  Night vision goggles \$1,000              
+  Night vision goggles \$1,000
 
-  Scuba gear           \$1,500              
+  Scuba gear           \$1,500
   --------------------------------------------------------------
 
 Advanced binoculars: High-end binoculars that include night vision (see
@@ -2237,13 +2237,13 @@ clientele.
   Motorcycle, cruiser  \$3,000              level 3
 
   Motorcycle, dirt     \$500                level 2
-  bike                                      
+  bike
 
   Motorcycle,          \$75,000             level 4
-  interceptor                               
+  interceptor
 
   Motorcycle,          \$10,000             level 3
-  monowheel                                 
+  monowheel
 
   Skates, powered      \$500                level 3
 
@@ -2256,7 +2256,7 @@ clientele.
   Van, cargo           \$25,000             level 4
 
   Wheelchair,          \$3,000              level 3
-  motorized                                 
+  motorized
 
   Wheelchair, standard \$250                level 2
   --------------------------------------------------------------
@@ -2434,33 +2434,33 @@ harder to acquire.
   Customization        Price                Notes
   -------------------- -------------------- --------------------
   BioPulse® Ambulance  \$6,000              level 4
-  Sidecar                                   
+  Sidecar
 
   Cerebrox® Auto       \$5,000              level 5
-  Interface                                 
+  Interface
 
   Cryptocruise® Car    \$20,000             level 5
-  Cloak                                     
+  Cloak
 
   Evermax® Bulletproof \$10,000             level 3
-  Interior                                  
+  Interior
 
   Evermax® Bulletproof \$2,000              level 3
-  Windows                                   
+  Windows
 
   Helix® Food And      \$10,000             level 4
-  Comfort Sidecar                           
+  Comfort Sidecar
 
   Imperium® Windowless \$4,000              level 4
-  Cab                                       
+  Cab
 
   Lancer® Self-Driving \$8,000              level 3
-  Mod Chip                                  
+  Mod Chip
 
   MadMegan® Rocket Pod \$50,000             level 5
 
   Omni-Road® Wall      \$10,000             level 5
-  Wheels                                    
+  Wheels
 
   Sentinex® Anti-Theft \$4,000              level 3
 
@@ -2469,10 +2469,10 @@ harder to acquire.
   SmoothRide® tires    \$7,000              level 5
 
   Turbocore®           \$4,000              level 5
-  Acceleration                              
+  Acceleration
 
   Vigiwatch® Remote    \$7,000              level 5
-  Driving                                   
+  Driving
   --------------------------------------------------------------
 
 Aftermarket Customization Descriptions

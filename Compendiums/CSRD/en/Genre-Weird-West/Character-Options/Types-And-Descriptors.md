@@ -1152,7 +1152,7 @@ short range of the tornado's eye. Each round, creatures in the area take
 or structures with your tornado are eased by two steps. Action to
 initiate.
 
-1.  
+1.
 
 Spits Fire and Lead
 
