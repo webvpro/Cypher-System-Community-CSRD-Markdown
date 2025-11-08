@@ -1426,7 +1426,6 @@ Appropriate Cyberpunk Foci
 
 The following foci from the Cypher System Rulebook are all appropriate
 for a cyberpunk setting
-
 and can be used as is.
 
 • Battles Robots
@@ -1508,7 +1507,6 @@ and can be used as is.
 Accuracy
 
 • Wields Two Weapons
-
 at Once
 
 • Works for a Living

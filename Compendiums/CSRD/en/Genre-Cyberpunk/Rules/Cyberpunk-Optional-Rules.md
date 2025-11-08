@@ -51,48 +51,35 @@ Brainslides
 
 A brainslide is a digital recording of the subject's experience that
 plays directly into the
-
 viewer's senses. When a character plays a brainslide, they experience
 the recorded events from
-
 the perspective of the subject who recorded them. This is an immersive
 experience that
-
 includes all major senses---the character playing a brainslide truly
 feels as though they are in the
-
 position of the individual who recorded it. This means that the
 spectator is also bound by the
-
 recorder's choices: if a character has a brainslide of a murder they are
 trying to solve, but the
-
 person who recorded the brainslide was facing away from the action, then
 the character will
-
 not be able to see who the killer was. They will see, hear, smell, taste
 and feel precisely what
-
 the recorder experienced in the moment.
 
 In most cases, the medium's limitations don't matter: brainslides are
 primarily used for
-
 entertainment, allowing the masses to simulate unobtainable experiences
 like scoring the
-
 winning point in a tennis Grand Slam or BASE jumping from the Burj
 Khalifa. In these situations,
-
 consumers aren't worried about what's happening just out of frame; the
 adrenaline is the point.
 
 But what happens when PCs use brainslides for other purposes, such as
 the aforementioned
-
 murder investigation? In these cases, brainslides are an immersive way
 to provide clues without
-
 giving the whole mystery away.
 
 Exploring a Brainslide

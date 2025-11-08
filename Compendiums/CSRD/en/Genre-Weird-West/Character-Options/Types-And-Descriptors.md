@@ -212,10 +212,8 @@ Laconic
 
 You're a soul of few words---or no words at all, when a shrug or nod
 will do. Now there's some who'll flap their
-
 jaws about everything that comes into their head. Sometimes they get
 under your skin. But you don't upbraid
-
 them; nope---you just frown. You're direct and to the point, avoiding
 elaboration. You're comfortable with pauses, and when you do speak, your
 words carry extra weight. All that said---and that's a hell of a lot
@@ -491,10 +489,8 @@ Wily
 
 You're a real sly dog if ever there was one. Quick‑thinking and hard to
 cheat, folks would be plum foolish to take
-
 what you say at face value, 'cept for your friends, of course. You know
 how to work most any situation to your
-
 advantage. You're not so much a silver‑tongued devil as you are a few
 steps ahead of whatever's about to happen.
 

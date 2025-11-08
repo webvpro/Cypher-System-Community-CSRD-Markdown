@@ -45,7 +45,6 @@ each*
 horses (level 2) comes up alongside the characters. The coach is haunted
 by a spirit that demands the characters race it back to town (or other
 location); if PCs r
-
 refuse, they risk becoming cursed.
 
 13--15 Dust devil herd (level 3): A herd of dust devils blows through a

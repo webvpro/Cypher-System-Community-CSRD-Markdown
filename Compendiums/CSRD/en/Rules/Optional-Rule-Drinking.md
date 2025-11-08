@@ -317,7 +317,6 @@ a lie is exposed---which is why a Shyster's honeyed words are so potent
 that those who've been duped (call 'em marks) often refuse to believe
 anything other than the beautiful tapestry of fiction. The mark may even
 work to explain away the difference
-
 between the lie they want to believe and the cold reality of a Shyster's
 grift.
 
