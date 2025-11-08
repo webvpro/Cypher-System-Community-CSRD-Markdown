@@ -3,8 +3,9 @@ aliases:
   - "Curses Of The Weird West"
 tags:
   - Compendium/CSRD/en/Genre-Weird-West
-  - Curses
----
+  - Compendium/CSRD/en/Genre-Weird-West/Curses
+  - Genre/Weird-West
+  - Rule/Curses---
 
 # Curses Of The Weird West
 

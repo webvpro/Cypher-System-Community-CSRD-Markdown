@@ -3,6 +3,8 @@ aliases:
   - "Swindling"
 tags:
   - Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules/Optional/Swindling
+  - Rule/Optional
 ---
 
 # Swindling

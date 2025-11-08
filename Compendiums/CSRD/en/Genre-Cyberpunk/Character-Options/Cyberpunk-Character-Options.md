@@ -3,8 +3,9 @@ aliases:
   - "Cyberpunk Character Options"
 tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
+  - Compendium/CSRD/en/Genre-Cyberpunk/Character-Options
   - Character-Options
----
+  - Genre/Cyberpunk---
 
 # Cyberpunk Character Options
 

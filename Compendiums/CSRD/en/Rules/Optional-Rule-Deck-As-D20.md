@@ -3,6 +3,8 @@ aliases:
   - "Deck As D20"
 tags:
   - Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules/Optional/Deck-As-D20
+  - Rule/Optional
 ---
 
 # Deck As D20

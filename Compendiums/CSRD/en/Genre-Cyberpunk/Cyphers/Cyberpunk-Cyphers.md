@@ -3,8 +3,9 @@ aliases:
   - "Cyberpunk Cyphers And Artifacts"
 tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
+  - Compendium/CSRD/en/Genre-Cyberpunk/Cyphers
   - Cyphers
----
+  - Genre/Cyberpunk---
 
 # Cyberpunk Cyphers And Artifacts
 

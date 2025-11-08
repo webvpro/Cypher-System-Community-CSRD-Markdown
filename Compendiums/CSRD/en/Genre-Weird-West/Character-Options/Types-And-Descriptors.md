@@ -3,8 +3,9 @@ aliases:
   - "Types And Descriptors Of The Weird West"
 tags:
   - Compendium/CSRD/en/Genre-Weird-West
+  - Compendium/CSRD/en/Genre-Weird-West/Character-Options
   - Character-Options
----
+  - Genre/Weird-West---
 
 # Types And Descriptors Of The Weird West
 

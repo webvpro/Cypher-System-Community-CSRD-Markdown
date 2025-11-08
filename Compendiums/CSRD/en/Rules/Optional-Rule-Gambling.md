@@ -3,6 +3,8 @@ aliases:
   - "Gambling"
 tags:
   - Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules/Optional/Gambling
+  - Rule/Optional
 ---
 
 # Gambling

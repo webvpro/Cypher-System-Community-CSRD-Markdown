@@ -3,8 +3,9 @@ aliases:
   - "Cyberpunk Optional Rules"
 tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
+  - Compendium/CSRD/en/Genre-Cyberpunk/Rules
   - Rules
----
+  - Genre/Cyberpunk---
 
 # Cyberpunk Optional Rules
 

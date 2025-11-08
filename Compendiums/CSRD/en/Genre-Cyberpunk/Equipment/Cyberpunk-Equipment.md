@@ -3,8 +3,9 @@ aliases:
   - "Cyberpunk Equipment, Cybernetics, And Vehicles"
 tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
+  - Compendium/CSRD/en/Genre-Cyberpunk/Equipment
   - Equipment
----
+  - Genre/Cyberpunk---
 
 # Cyberpunk Equipment, Cybernetics, And Vehicles
 

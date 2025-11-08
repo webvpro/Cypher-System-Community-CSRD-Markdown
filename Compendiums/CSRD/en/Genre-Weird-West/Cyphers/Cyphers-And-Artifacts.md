@@ -3,8 +3,10 @@ aliases:
   - "Cyphers And Artifacts Of The Weird West"
 tags:
   - Compendium/CSRD/en/Genre-Weird-West
+  - Compendium/CSRD/en/Genre-Weird-West/Cyphers
   - Cyphers
----
+  - Artifacts
+  - Genre/Weird-West---
 
 # Cyphers And Artifacts Of The Weird West
 

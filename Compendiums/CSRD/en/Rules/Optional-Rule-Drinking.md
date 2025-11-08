@@ -3,6 +3,8 @@ aliases:
   - "Drinking"
 tags:
   - Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Rules/Optional/Drinking
+  - Rule/Optional
 ---
 
 # Drinking

@@ -3,8 +3,9 @@ aliases:
   - "Cursed Beasts"
 tags:
   - Compendium/CSRD/en/Genre-Weird-West
-  - Creatures
----
+  - Compendium/CSRD/en/Genre-Weird-West/Creatures
+  - Creatures-NPCs
+  - Genre/Weird-West---
 
 # Cursed Beasts
 

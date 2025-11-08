@@ -3,8 +3,9 @@ aliases:
   - "Threats And Hazards Of The Weird West"
 tags:
   - Compendium/CSRD/en/Genre-Weird-West
-  - Hazards
----
+  - Compendium/CSRD/en/Genre-Weird-West/Hazards
+  - Genre/Weird-West
+  - Hazards---
 
 # Threats And Hazards Of The Weird West
 
