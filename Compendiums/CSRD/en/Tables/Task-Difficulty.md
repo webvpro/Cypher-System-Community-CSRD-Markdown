@@ -1,7 +1,7 @@
 ## Task Difficulty
 
-| **Task Difficulty** | **Description** | **Target No.** | **Guidance**                                                                                  |
-| ------------------- | --------------- | -------------- | --------------------------------------------------------------------------------------------- |
+| Task Difficulty | Description | Target No. | Guidance                                                                                  |
+| --------------- | ----------- | ---------- | ----------------------------------------------------------------------------------------- |
 | 0                   | Routine         | 0              | Anyone can do this basically every time.                                                      |
 | 1                   | Simple          | 3              | Most people can do this most of the time.                                                     |
 | 2                   | Standard        | 6              | Typical task requiring focus, but most people can usually do this.                            |
