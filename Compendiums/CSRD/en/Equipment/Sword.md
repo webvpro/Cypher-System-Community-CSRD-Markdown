@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Sword  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+
+## Sword
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
 >> - Medium weapon

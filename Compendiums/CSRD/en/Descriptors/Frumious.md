@@ -6,7 +6,7 @@ tags:
   - Descriptor/Fairytale
 ---
 
-## Frumious  
+## Frumious
 SA furious, fuming anger waits, always, just beneath your surface, swirling under your skin like a caged beast. You might do your best to hide it or control it, or perhaps you have given up trying to tame it and you let it run wild. Either way, it seems to cause you—and those around you—grief more often than not.
 ### You gain the following characteristics:
 #### Manxome
@@ -21,7 +21,7 @@ From the following list of options, choose how you became involved in the first 
 1. You are trying to get a handle on your anger, and you’re hoping that being with the other PCs will help you do so.
 2. You let your anger get the best of you recently, and now you’re running from the fallout of that experience.
 3. You believe that this adventure will provide you with a way to channel your ire, allowing you to use it for good.
-4. One of the other PCs invited you to join, after they watched you fight. 
+4. One of the other PCs invited you to join, after they watched you fight.
 
 
 

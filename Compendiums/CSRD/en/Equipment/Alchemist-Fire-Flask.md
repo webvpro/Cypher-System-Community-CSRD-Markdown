@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/50-Gp
 ---
 
-  
-## Alchemist Fire (Flask)  
-  
->A flask of chemicals that burst into flames upon contact with air. The flames burn out after one round. Can be thrown up to short range, inflicting fire damage as a light weapon (ignores Armor).  
-> **Options :** Fantasy, Utility Gear  
+
+## Alchemist Fire (Flask)
+
+>A flask of chemicals that burst into flames upon contact with air. The flames burn out after one round. Can be thrown up to short range, inflicting fire damage as a light weapon (ignores Armor).
+> **Options :** Fantasy, Utility Gear
 > **Value :** 50 Gp

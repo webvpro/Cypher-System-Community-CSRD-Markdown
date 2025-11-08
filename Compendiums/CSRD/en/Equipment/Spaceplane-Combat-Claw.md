@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant-X2
 ---
 
-  
-## Spaceplane, Combat (Claw)  
-  
->As spaceplane, but smaller (with room for a single pilot), fitted with two weapon systems: a laser cannon and one torpedo battery. To move between planets or further, a claw usually relies on a larger carrier or more fantastic means of transport.  
-> **Options :** Advanced, Science Fiction, Spacecraft  
-> **Level :** 2  
+
+## Spaceplane, Combat (Claw)
+
+>As spaceplane, but smaller (with room for a single pilot), fitted with two weapon systems: a laser cannon and one torpedo battery. To move between planets or further, a claw usually relies on a larger carrier or more fantastic means of transport.
+> **Options :** Advanced, Science Fiction, Spacecraft
+> **Level :** 2
 > **Value :** Exorbitant X2

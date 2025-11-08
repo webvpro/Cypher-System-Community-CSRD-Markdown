@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Trident  
-  
->A three-pronged spear, often used for spear fishing.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 5 Gp  
->>[!note] Features  
+
+## Trident
+
+>A three-pronged spear, often used for spear fishing.
+> **Options :** Fantasy, Utility Gear
+> **Value :** 5 Gp
+>>[!note] Features
 >> - Medium weapon

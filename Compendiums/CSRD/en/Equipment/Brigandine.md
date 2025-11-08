@@ -10,11 +10,11 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Brigandine  
-  
->Long strips of metal attached to a cloth or leather backing. Often called "splint mail."  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 200 Gp  
->>[!note] Features  
+
+## Brigandine
+
+>Long strips of metal attached to a cloth or leather backing. Often called "splint mail."
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 200 Gp
+>>[!note] Features
 >> - Medium armor

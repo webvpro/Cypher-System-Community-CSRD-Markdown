@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Force Field  
-  
->Not armor, offers +1 to Armor;  
-> **Options :** Science Fiction, Utility Gear  
+
+## Force Field
+
+>Not armor, offers +1 to Armor;
+> **Options :** Science Fiction, Utility Gear
 > **Value :** Exorbitant

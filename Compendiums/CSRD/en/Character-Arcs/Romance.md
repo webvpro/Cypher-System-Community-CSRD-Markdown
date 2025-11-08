@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Romance"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Romance
 - Character-Arc
 ---
@@ -12,6 +12,6 @@ tags:
 ### Step(s): Courtship
 >You begin seeing the person regularly. Although not every “date” is a step in the arc, significant moments are, and there may be a few of them.
 ### Climax: Commitment
->You may or may not be interested in a monogamous relationship. Regardless, you and your love have made some kind of commitment to each other. 
+>You may or may not be interested in a monogamous relationship. Regardless, you and your love have made some kind of commitment to each other.
 ### Resolution: You think about the future
->Marriage? Children? These are only some of the possibilities. 
+>Marriage? Children? These are only some of the possibilities.

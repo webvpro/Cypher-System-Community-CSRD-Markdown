@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Large Boat  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 5  
+
+## Large Boat
+
+>
+> **Options :** Modern, Utility Gear
+> **Level :** 5
 > **Value :** Exorbitant

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/5-Sp
 ---
 
-  
-## Pouch or Other Small Rations  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Pouch or Other Small Rations
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 5 Sp

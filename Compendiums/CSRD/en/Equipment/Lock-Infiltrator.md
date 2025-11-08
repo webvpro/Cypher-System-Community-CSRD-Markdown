@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Lock Infiltrator  
-  
->Advanced tech electronic and digital locks are amazingly advanced--so is this item that provides an asset to picking them (including a surelock).  
-> **Options :** Advanced, Science Fiction, Utility Gear  
-> **Level :** 5  
+
+## Lock Infiltrator
+
+>Advanced tech electronic and digital locks are amazingly advanced--so is this item that provides an asset to picking them (including a surelock).
+> **Options :** Advanced, Science Fiction, Utility Gear
+> **Level :** 5
 > **Value :** Very Expensive

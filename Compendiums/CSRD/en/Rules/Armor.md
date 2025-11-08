@@ -18,6 +18,6 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 | ------ | -------------------------------------- |
 | Light  | +1                                     |
 | Medium | +2                                     |
-| Heavy  | +3                                     | 
+| Heavy  | +3                                     |
 
 ### [[Fantasy-Armor|Fantasy Armor Descriptions]]

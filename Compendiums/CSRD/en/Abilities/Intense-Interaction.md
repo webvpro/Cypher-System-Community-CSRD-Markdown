@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Intense Interaction  
->**Action**  
+
+## Intense Interaction
+>**Action**
 >3 Intellect points
-  
+
 You gain an asset on intimidating, persuading, and influencing people for ten minutes. Action.

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Life Lessons  
+
+## Life Lessons
 >**Enabler**
-  
+
 Choose any two noncombat skills. You are trained in those skills. Enabler.

@@ -11,13 +11,13 @@ tags:
 - Equipment/Weapon/Rapid-Fire
 ---
 
-  
-## Pulse Laser Gun  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Long range  
->> - Medium weapon  
+
+## Pulse Laser Gun
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Long range
+>> - Medium weapon
 >> - Rapid-fire weapon

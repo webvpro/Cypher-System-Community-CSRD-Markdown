@@ -9,11 +9,11 @@ tags:
 
 ---
 
-  
-## Arrows (20)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 1 Gp  
->>[!note] Features  
+
+## Arrows (20)
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** 1 Gp
+>>[!note] Features
 >> - Ammunition

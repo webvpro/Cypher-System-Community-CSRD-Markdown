@@ -11,12 +11,12 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Light Crossbow  
-  
->A bow with a handle and mechanism for drawing and holding the string. It fires crossbow bolts. You can fire it with one hand. You need two hands to load it. Action to reload.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 25 Gp  
->>[!note] Features  
->> - Long range  
+
+## Light Crossbow
+
+>A bow with a handle and mechanism for drawing and holding the string. It fires crossbow bolts. You can fire it with one hand. You need two hands to load it. Action to reload.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 25 Gp
+>>[!note] Features
+>> - Long range
 >> - Medium weapon

@@ -13,17 +13,17 @@ tags:
 - Equipment/Range/Long
 ---
 
-  
-## Microphone Designed to Be Concealed  
-  
->Transmits at long range.  
-> **Options :** Modern, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Long range  
-  
->Transmits at long range.  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+
+## Microphone Designed to Be Concealed
+
+>Transmits at long range.
+> **Options :** Modern, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Long range
+
+>Transmits at long range.
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
 >> - Long range

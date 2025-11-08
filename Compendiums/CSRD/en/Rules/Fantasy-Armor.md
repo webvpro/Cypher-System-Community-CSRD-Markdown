@@ -9,10 +9,10 @@ tags:
 ---
 
 ## Fantasy Armor
-You can wear only one kind of armor at a time (wearing more than one only gives the Armor from the best one and the Speed Effort cost of the worst one). 
+You can wear only one kind of armor at a time (wearing more than one only gives the Armor from the best one and the Speed Effort cost of the worst one).
 ```dataview
-LIST 
-FROM #Equipment/Armor AND #Equipment/Fantasy 
+LIST
+FROM #Equipment/Armor AND #Equipment/Fantasy
 ```
 
 
@@ -38,6 +38,6 @@ FROM #Equipment/Armor AND #Equipment/Fantasy
 | Scale               | 3       | 0                            | 50 gp    |
 | Shield              | asset** |                              | 10 gp    |
 
->\* Only against piercing and slashing attacks 
+>\* Only against piercing and slashing attacks
 >** Using a shield provides the wearer with an asset on Speed defense tasks If the GM prefers the simpler method of not tracking whether an attack is bashing, slashing, or stabbing, heavy cloth and padded armor should provide no Armor at all.
 

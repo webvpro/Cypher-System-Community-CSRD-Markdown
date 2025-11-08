@@ -10,26 +10,26 @@ tags:
 - Creature/Health/21
 ---
 
-  
-## Witch  
+
+## Witch
 Witches are complex beings of myriad personalities, desires, and abilities. Sometimes they're the stuff of nightmares, with tales of their exploits keeping children safe in their beds during the darkest hours. Other times they're wise helpers--at least for a little
 while, or possibly for a price. Often, they're a little of everything, taking on no end of roles throughout their lifetime. They may isolate themselves deep in the dark woods, falsify their way into a royal family, or reside in the middle of town, hiding their identity.
 But one thing they are, always, is dangerous, for they carry within their hearts and heads knowledge, power, and magic--and a willingness to use all of them when necessary. Motive: Domination of others, power, knowledge, eternal life or beauty, hunger, revenge Environment: Almost anywhere, although most often alone in unique dwellings in the
-forest, in civilization as healers, or having infiltrated royal families  
+forest, in civilization as healers, or having infiltrated royal families
 
-  
-> **Level :** 5  
-> **Health :** 21  
-> **Damage :** 5 points  
-> **Armor :** 0  
-> **Movement :** Short; long if flying  
-> **Environment: ** Almost anywhere, usually alone, but sometimes as part of a coven of three to seven witches  
-> **Interactions: ** Most witches are deceptive and conniving, though a few work against the stereotype. All witches are willing to negotiate, though the devious ones usually do so in bad faith.  
-> **Uses: **The PCs need an old book to continue their investigation. Word is that the old woman who lives on the edge of the woods has the only copy.  
-> **Loot: **A witch usually has an artifact or two on their person, possibly including a flying broom (which has a depletion roll of 1 in 1d10).  
-> **GM Intrusion: ** The PCs need an old book to continue their investigation. Word is that the old woman who lives on the edge of the woods has the only copy.  
 
-> **Combat:** 
+> **Level :** 5
+> **Health :** 21
+> **Damage :** 5 points
+> **Armor :** 0
+> **Movement :** Short; long if flying
+> **Environment: ** Almost anywhere, usually alone, but sometimes as part of a coven of three to seven witches
+> **Interactions: ** Most witches are deceptive and conniving, though a few work against the stereotype. All witches are willing to negotiate, though the devious ones usually do so in bad faith.
+> **Uses: **The PCs need an old book to continue their investigation. Word is that the old woman who lives on the edge of the woods has the only copy.
+> **Loot: **A witch usually has an artifact or two on their person, possibly including a flying broom (which has a depletion roll of 1 in 1d10).
+> **GM Intrusion: ** The PCs need an old book to continue their investigation. Word is that the old woman who lives on the edge of the woods has the only copy.
+
+> **Combat:**
 > In addition to inflicting damage with their weapon of choice (often a staff or long, curved blade), witches can curse their enemies. They also have a number of spells and abilities at their disposal. These include the Following:
 Familiar: When attacked, a witch relies on the aid of their familiar to improve their Speed defense. The familiar could be a large black cat, an owl, a big snake, or some other creature. Killing a witch's familiar is so shocking to a witch that their attacks and Speed defense are hindered for a few days. It's also a way to ensure that the witch never forgives their foe or grants mercy. (Familiar: level 3; health 9; Armor 1)
 Glamour: Glamour is an illusion that the witch creates. It may let them look like someone else, appear to be a tree or a bird, or even make them invisible. Seeing through the glamour is a level 8 Intellect task. A failed attempt inflicts 2 points of Intellect damage. Once a character sees through the glamour, they cannot unsee it.
@@ -43,8 +43,8 @@ Charm: Victims within short range who fail an Intellect defense roll are enslave
 Hexbolt: A victim within long range is attacked with fire, cold, or psychic
 bolts, as the witch chooses. Psychic bolts deal 3 points of Intellect damage (ignores Armor).
 Shrivel: A victim within long range and up to two creatures next to the victim must succeed on a Might defense roll or take 3 points of Speed damage (ignores Armor). In each subsequent round, a victim who failed the previous roll must make another Might defense roll with the same outcome on failure.
-Vitality: The witch regains 11 points of health and gains +3 to Armor for one minute. Multiple uses don't further improve Armor.  
-  
+Vitality: The witch regains 11 points of health and gains +3 to Armor for one minute. Multiple uses don't further improve Armor.
 
-> **Intrusions: ** 
-> The witch's familiar joins the fray, tripping up characters and hindering their actions. Something startles the witch and they cast a curse or spell as an automatic response. The witch pulls out an artifact or cypher and prepares to use it. After a character succeeds on a defense roll against one of the witch's ongoing curse effects, the witch immediately tosses a hexbolt at them. If the character is hit, the ongoing curse effect also continues.  
+
+> **Intrusions: **
+> The witch's familiar joins the fray, tripping up characters and hindering their actions. Something startles the witch and they cast a curse or spell as an automatic response. The witch pulls out an artifact or cypher and prepares to use it. After a character succeeds on a defense roll against one of the witch's ongoing curse effects, the witch immediately tosses a hexbolt at them. If the character is hit, the ongoing curse effect also continues.

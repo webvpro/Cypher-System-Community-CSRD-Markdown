@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Rider  
+
+## Rider
 >**Enabler**
-  
+
 You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler.

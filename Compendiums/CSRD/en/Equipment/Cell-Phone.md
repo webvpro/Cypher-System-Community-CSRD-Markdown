@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Cell Phone  
-  
->  
-> **Options :** Modern, Utility Gear  
+
+## Cell Phone
+
+>
+> **Options :** Modern, Utility Gear
 > **Value :** Moderate

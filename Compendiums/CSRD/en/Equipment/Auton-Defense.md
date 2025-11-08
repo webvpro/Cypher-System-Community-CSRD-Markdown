@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Auton, Defense  
-  
->As auton, but one modification is always Speed defense, which means when helping to defend a target from a physical attack, the target eases the task by two steps. A defense auton also has 3 Armor.  
-> **Options :** Advanced, Robots & Ai, Science Fiction  
-> **Level :** 2  
+
+## Auton, Defense
+
+>As auton, but one modification is always Speed defense, which means when helping to defend a target from a physical attack, the target eases the task by two steps. A defense auton also has 3 Armor.
+> **Options :** Advanced, Robots & Ai, Science Fiction
+> **Level :** 2
 > **Value :** Exorbitant

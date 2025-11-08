@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Support
 ---
 
-  
-## Able Assistance  
+
+## Able Assistance
 >**Enabler**
-  
+
 When you help someone with a task and they apply a level of Effort, they get a free level of Effort on that task. Enabler.

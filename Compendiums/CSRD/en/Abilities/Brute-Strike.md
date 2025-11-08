@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Brute Strike  
->**Enabler**  
+
+## Brute Strike
+>**Enabler**
 >4 Might points
-  
+
 You deal 4 additional points of damage with all melee attacks until the end of the next round. Enabler.

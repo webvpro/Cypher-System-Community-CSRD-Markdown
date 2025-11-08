@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Surging Confidence  
->**Enabler**  
+
+## Surging Confidence
+>**Enabler**
 >1 Might point
-  
+
 When you use an action to make your first recovery roll of the day, you immediately gain another action. Enabler.

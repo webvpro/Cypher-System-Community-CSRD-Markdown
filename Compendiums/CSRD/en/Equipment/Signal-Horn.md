@@ -9,9 +9,9 @@ tags:
 - Equipment/Value/2-Gp
 ---
 
-  
-## Signal Horn  
-  
->This horn can be heard up to a mile away.  
-> **Options :** Fantasy, Utility Gear  
+
+## Signal Horn
+
+>This horn can be heard up to a mile away.
+> **Options :** Fantasy, Utility Gear
 > **Value :** Moderate, 2 Gp

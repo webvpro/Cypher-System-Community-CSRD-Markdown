@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Trained Excavator  
+
+## Trained Excavator
 >**Enabler**
-  
+
 You are trained in perception, climbing, and salvaging tasks. Enabler.

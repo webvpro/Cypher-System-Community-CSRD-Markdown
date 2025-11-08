@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Crafter  
+
+## Crafter
 >**Enabler**
-  
+
 You are trained in the crafting of two kinds of items. Enabler.

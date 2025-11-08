@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Magic/Modern
 ---
 
-  
+
 ## Ritual Guidance
->**Enabler**  
+>**Enabler**
 When you participate in a magical ritual with two or more members of your coven, ritual tasks for all participants are eased by two steps. Enabler
 
 

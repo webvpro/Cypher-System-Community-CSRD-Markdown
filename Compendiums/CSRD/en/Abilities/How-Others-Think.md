@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## How Others Think  
+
+## How Others Think
 >**Enabler**
-  
+
 You have a sense of how people think. You're trained in one of the following tasks: persuasion, deception, or detecting falsehoods. Enabler.

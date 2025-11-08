@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Ammo (Box of 50 Rounds)  
-  
->Caliber varies by specific firearm, used in most contemporary ranged weapons  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 1  
+
+## Ammo (Box of 50 Rounds)
+
+>Caliber varies by specific firearm, used in most contemporary ranged weapons
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 1
 > **Value :** Inexpensive

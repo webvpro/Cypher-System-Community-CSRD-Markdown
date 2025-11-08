@@ -10,12 +10,12 @@ tags:
 - Equipment/Range/Long
 ---
 
-  
-## Needler  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+
+## Needler
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Light weapon
 >> - Long range

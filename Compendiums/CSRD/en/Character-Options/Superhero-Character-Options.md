@@ -16,7 +16,7 @@ tags:
 ### New Foci
 >This section presents new superhero foci that can be used as is in most superhero campaigns. The foci introduced here are as follows:
 > #### [[Copies-Superpowers|Copies Superpowers]]
-> #### [[Has-a-Thousand-Faces|Has a Thousand Faces]] 
+> #### [[Has-a-Thousand-Faces|Has a Thousand Faces]]
 > #### [[Ignores-Physical-Distance|Ignores Physical Distance]]
 > #### [[Sculpts-Hard-Light|Sculpts Hard Light]]
 > #### [[Shrinks-to-Minute-Size|Shrinks to Minute Size]]
@@ -27,7 +27,7 @@ tags:
 > #### [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon]]
 > #### [[Wields-Invisible-Force|Wields Invisible Force]]
 
-### New Abilities 
+### New Abilities
 >The following are new abilities for the Cypher System, most of which are associated with the new foci in this book.
 > #### [[Advantages-of-Being-Small|Advantages of Being Small]]
 > #### [[Ageless]]
@@ -78,7 +78,7 @@ tags:
 
 
 ### Gaming With Superpowers
-#### Building a Superhero 
+#### Building a Superhero
 ##### Popular Heroes in the Cypher System
 
 | Character       | Summary                                 | Sentence                                           | Archetype             |
@@ -111,7 +111,7 @@ tags:
 
 The archetypes suggest how to assign your power shifts. This is an important aspect of designing your hero because power shifts are what make your characters exceptional in a “supers” way. Superheroes are known for being faster, tougher, stronger, or smarter than regular people, and that sort of comparison isn’t always part of the abilities you get from your type or focus. A regular person might be very skilled at martial arts, but a superhero martial artist might punch through an iron door, dodge a burst of bullets from a machine gun at close range, or quickly recover from a mortal wound, all thanks to power shifts. This part of each archetype writeup assumes your hero starts with five power shifts, but most archetype descriptions give only two or three suggestions, allowing you some flexibility to customize your superhero. For example, a master athlete with two power shifts in healing is a very different character than one with two power shifts in resilience.
 
->In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character. 
+>In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character.
 
 ##### Power Source
 As you’re figuring out what type, descriptor, focus, and power shifts you want for

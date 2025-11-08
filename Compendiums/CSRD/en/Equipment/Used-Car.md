@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Used Car  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 3  
+
+## Used Car
+
+>
+> **Options :** Modern, Utility Gear
+> **Level :** 3
 > **Value :** Very Expensive

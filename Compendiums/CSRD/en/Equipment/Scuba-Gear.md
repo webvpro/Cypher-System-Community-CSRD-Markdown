@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Scuba Gear  
-  
->  
-> **Options :** Modern, Utility Gear  
+
+## Scuba Gear
+
+>
+> **Options :** Modern, Utility Gear
 > **Value :** Expensive

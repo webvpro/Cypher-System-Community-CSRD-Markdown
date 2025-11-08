@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Straightjacket  
-  
->  
-> **Options :** Modern, Utility Gear  
+
+## Straightjacket
+
+>
+> **Options :** Modern, Utility Gear
 > **Value :** Expensive

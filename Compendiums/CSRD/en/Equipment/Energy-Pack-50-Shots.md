@@ -11,10 +11,10 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Energy Pack (50 Shots)  
-  
->Watt-hours (Wh) varies by specific energy weapon, used in most advanced and fantastic ranged weapons.  
-> **Options :** Advanced, Armament, Fantastic, Science Fiction  
-> **Level :** 1  
+
+## Energy Pack (50 Shots)
+
+>Watt-hours (Wh) varies by specific energy weapon, used in most advanced and fantastic ranged weapons.
+> **Options :** Advanced, Armament, Fantastic, Science Fiction
+> **Level :** 1
 > **Value :** Inexpensive

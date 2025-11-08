@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Enveloping Shield  
+
+## Enveloping Shield
 >**Enabler**
-  
+
 Your Force Field Shield ability produces an envelope of force that enfolds you while you are holding the shield, granting you +1 to Armor. Enabler.

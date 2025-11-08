@@ -3,10 +3,10 @@ aliases:
 - Understanding, Identifying, Or Remembering"
 tags:
 - Compendium/CSRD/en/Rules
-- Difficulty/table/ 
+- Difficulty/table/
 ---
 
-# Understanding, Identifying, Or Remembering  
+# Understanding, Identifying, Or Remembering
 
 
 | Difficulty | Knowledge                                |

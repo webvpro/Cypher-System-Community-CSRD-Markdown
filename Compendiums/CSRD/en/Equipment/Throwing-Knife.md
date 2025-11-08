@@ -10,12 +10,12 @@ tags:
 - Equipment/Range/Short
 ---
 
-  
-## Throwing Knife  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Light weapon  
+
+## Throwing Knife
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Light weapon
 >> - Short range

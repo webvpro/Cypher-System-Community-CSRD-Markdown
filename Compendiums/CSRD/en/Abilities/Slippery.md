@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Slippery  
+
+## Slippery
 >**Enabler**
-  
+
 You are trained in escaping any kind of bond or grasp. Enabler.

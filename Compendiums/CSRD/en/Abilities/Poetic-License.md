@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Poetic License  
+
+## Poetic License
 >**Enabler**
-  
+
 You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. Enabler.

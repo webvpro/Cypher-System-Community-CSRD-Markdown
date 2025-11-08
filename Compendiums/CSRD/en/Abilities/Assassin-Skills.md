@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Assassin Skills  
+
+## Assassin Skills
 >**Enabler**
-  
+
 You are trained in stealth and disguise tasks. Enabler.

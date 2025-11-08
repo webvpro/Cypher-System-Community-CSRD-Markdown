@@ -7,10 +7,10 @@ tags:
 - Cypher/Manifest
 ---
 
-  
-## Remote Viewer  
->[!info] Stats  
-> **Level:** 1d6  
+
+## Remote Viewer
+>[!info] Stats
+> **Level:** 1d6
 > **Kind:** Manifest
-  
+
 For one hour per cypher level, the user can see everything going on in the vicinity of the cypher, regardless of the distance between them.

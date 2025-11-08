@@ -15,17 +15,17 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Bag of Light Tools  
-  
->Contains a small hammer, small tongs, pliers, small pry bar, awl, lockpicks, 10 feet (3 m) of string, 3 feet (1 m) of metal wire, and a handful of nails.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 10 Gp  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Value :** Moderate  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+
+## Bag of Light Tools
+
+>Contains a small hammer, small tongs, pliers, small pry bar, awl, lockpicks, 10 feet (3 m) of string, 3 feet (1 m) of metal wire, and a handful of nails.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 10 Gp
+
+>
+> **Options :** Modern, Utility Gear
+> **Value :** Moderate
+
+>
+> **Options :** Science Fiction, Utility Gear
 > **Value :** Moderate

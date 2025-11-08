@@ -12,9 +12,9 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Dodge and Respond  
->**Enabler**  
+
+## Dodge and Respond
+>**Enabler**
 >3 Might points
-  
+
 If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. Enabler.

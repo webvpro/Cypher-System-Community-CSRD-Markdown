@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Movement
 ---
 
-  
-## Blink of an Eye  
->**Action**  
+
+## Blink of an Eye
+>**Action**
 >4 Speed points
-  
+
 You move up to 1,000 feet (300 m) in one round. Action.

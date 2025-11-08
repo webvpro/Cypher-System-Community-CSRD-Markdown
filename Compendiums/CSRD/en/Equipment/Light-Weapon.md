@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Light Weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Light Weapon
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Light weapon

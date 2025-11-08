@@ -10,11 +10,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Quarterstaff  
-  
->A wooden pole about 4 to 5 feet (1.2 to 1.5 m) long.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 2 Sp  
->>[!note] Features  
+
+## Quarterstaff
+
+>A wooden pole about 4 to 5 feet (1.2 to 1.5 m) long.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 2 Sp
+>>[!note] Features
 >> - Medium weapon

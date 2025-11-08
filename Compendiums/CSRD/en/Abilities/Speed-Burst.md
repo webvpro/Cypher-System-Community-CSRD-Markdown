@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Speed Burst  
->**Enabler**  
+
+## Speed Burst
+>**Enabler**
 >4 Speed points
-  
+
 You can take two separate actions in this round. In the following round, all actions are hindered. You cannot use this ability two rounds in a row. Enabler.

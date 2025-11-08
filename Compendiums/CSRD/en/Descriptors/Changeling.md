@@ -6,7 +6,7 @@ tags:
   - Descriptor/Fairytale
 ---
 
-## Changeling  
+## Changeling
 Early on you discovered—or perhaps you knew all along—that you weren’t really who everyone thought you were. Perhaps when you were still very young, the child whose name you have now was stolen, and you were put in their place. Or perhaps you are the same person you’ve always been, but you’ve never felt like yourself, and you know that the real you is nothing like the one that everyone else knows. More than once in your life, you’ve been abandoned, distrusted, and rejected by those you loved most, which means that sometimes you fall into deep funks. However, you are just as adept at pulling yourself out of them when the situation demands it. If nothing else, you’re supremely adaptable.
 ### You gain the following characteristics:
 #### Innovator
@@ -16,7 +16,7 @@ Early on you discovered—or perhaps you knew all along—that you weren’t rea
 appearance unless you have the same components at hand for that appearance to initiate the change. Action to initiate, one minute to complete.
 #### Changeable (2 Intellect points)
 >When you fail at a task and try again using a different method, you roll twice on the second attempt and use the higher result. For example, if guards catch you in the queen’s chamber after dark and you fail to convince them that you’re there on legitimate business, you can instead decide to flee, rolling twice on your roll to get away and taking the higher result. Enabler.
-#### Skill 
+#### Skill
 >People never know what to think about you. You are trained in deception.
 Inability: Your fluid nature leaves you less resistant to physical threats. Your Might defense tasks are hindered.
 #### Fragile

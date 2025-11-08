@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Elegant Clothes  
-  
->Clothing suitable for moving in elite circles; provides an asset to interaction checks in some situations.  
-> **Options :** Apparel & Armor, Contemporary, Modern  
-> **Level :** 3  
+
+## Elegant Clothes
+
+>Clothing suitable for moving in elite circles; provides an asset to interaction checks in some situations.
+> **Options :** Apparel & Armor, Contemporary, Modern
+> **Level :** 3
 > **Value :** Expensive

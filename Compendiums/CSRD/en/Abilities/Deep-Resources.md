@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Deep Resources  
+
+## Deep Resources
 >**Enabler**
-  
+
 You gain an additional 6 points to your Speed Pool. Enabler.

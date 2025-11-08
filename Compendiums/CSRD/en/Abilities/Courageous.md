@@ -11,8 +11,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Courageous  
+
+## Courageous
 >**Enabler**
-  
+
 You are trained in Intellect defense tasks and initiative tasks. Enabler.

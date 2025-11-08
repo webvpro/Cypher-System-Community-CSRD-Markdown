@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Lockpick Set  
-  
->Asset to picking mechanical locks.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+
+## Lockpick Set
+
+>Asset to picking mechanical locks.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 3
 > **Value :** Moderate

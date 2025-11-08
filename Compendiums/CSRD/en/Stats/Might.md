@@ -1,7 +1,7 @@
 ---
 aliases:
   -  "Might"
-tags: 
+tags:
 - Compendium/CSRD/en/Stats/Pool/Might
 ---
 ## Might
@@ -9,6 +9,5 @@ Might defines how strong and durable your character is. The concepts of strength
 
 Might governs actions from forcing doors open to walking for days without food to resisting disease. It’s also the primary means of determining how much damage your character can sustain in a dangerous situation. Physical characters, tough characters, and characters interested in fighting should focus on Might.
 
->[!info]  
+>[!info]
 >Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.
- 

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Precise Cut  
+
+## Precise Cut
 >**Enabler**
-  
+
 You inflict 1 additional point of damage with light weapons. Enabler.

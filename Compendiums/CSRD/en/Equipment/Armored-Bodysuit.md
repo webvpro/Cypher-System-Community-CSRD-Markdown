@@ -11,12 +11,12 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Armored Bodysuit  
-  
->Functions as medium armor (+2 Armor), encumbers as if not wearing any armor.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
-> **Value :** Expensive  
->>[!note] Features  
+
+## Armored Bodysuit
+
+>Functions as medium armor (+2 Armor), encumbers as if not wearing any armor.
+> **Options :** Advanced, Apparel & Armor, Science Fiction
+> **Level :** 4
+> **Value :** Expensive
+>>[!note] Features
 >> - Medium armor

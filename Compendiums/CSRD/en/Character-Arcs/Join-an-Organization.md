@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Join an Organization"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Join-an-Organization
 - Character-Arc
 ---

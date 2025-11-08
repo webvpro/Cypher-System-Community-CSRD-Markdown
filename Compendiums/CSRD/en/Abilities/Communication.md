@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Information
 ---
 
-  
-## Communication  
->**Action**  
+
+## Communication
+>**Action**
 >2 Intellect points
-  
+
 You can convey a basic concept to a creature that normally can't speak or understand speech. The creature can also give you a very basic answer to a simple question. Action.

@@ -7,7 +7,7 @@ tags:
 - Artifact/Modern-Fantasy
 ---
 
-  
+
 ## Ecosensitive Fridge Magnets
 >1d6 +2
 #### Form
@@ -18,5 +18,5 @@ tags:
 
 
 
-#### Depletion 
+#### Depletion
 >--

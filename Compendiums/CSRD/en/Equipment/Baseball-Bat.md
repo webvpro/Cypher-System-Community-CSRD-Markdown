@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Baseball Bat  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Baseball Bat
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Medium weapon

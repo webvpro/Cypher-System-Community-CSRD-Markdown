@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/5Gp
 ---
 
-  
-## Mirror  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Mirror
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 5Gp

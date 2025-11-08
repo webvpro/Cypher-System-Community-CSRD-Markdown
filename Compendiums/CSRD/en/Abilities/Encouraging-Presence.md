@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Support
 ---
 
-  
-## Encouraging Presence  
->**Action**  
+
+## Encouraging Presence
+>**Action**
 >2 Intellect points
-  
+
 For one minute, allies within short range gain an asset on defense rolls. Action.

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Cold Weather Camping Gear  
-  
->  
-> **Options :** Modern, Utility Gear  
+
+## Cold Weather Camping Gear
+
+>
+> **Options :** Modern, Utility Gear
 > **Value :** Expensive

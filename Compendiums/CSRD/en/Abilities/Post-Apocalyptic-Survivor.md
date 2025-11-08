@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Post-Apocalyptic Survivor  
+
+## Post-Apocalyptic Survivor
 >**Enabler**
-  
+
 You are trained in stealth and Might defense tasks. Enabler.

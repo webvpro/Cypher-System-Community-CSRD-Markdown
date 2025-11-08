@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Scimitar  
-  
->A medium-length sword with a strongly curved blade.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 25 Gp  
->>[!note] Features  
+
+## Scimitar
+
+>A medium-length sword with a strongly curved blade.
+> **Options :** Fantasy, Utility Gear
+> **Value :** 25 Gp
+>>[!note] Features
 >> - Medium weapon

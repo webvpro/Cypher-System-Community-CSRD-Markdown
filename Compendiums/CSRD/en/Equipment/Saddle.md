@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/10-Gp
 ---
 
-  
-## Saddle  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Saddle
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 10 Gp

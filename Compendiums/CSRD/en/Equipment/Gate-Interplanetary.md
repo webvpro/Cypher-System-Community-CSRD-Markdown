@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Priceless
 ---
 
-  
-## Gate, Interplanetary  
-  
->As planetary gate, but twice as large and connects gate structures that lie between locations within a single solar system.  
-> **Options :** Fantastic, Science Fiction, Stellar Gate  
-> **Level :** 4  
+
+## Gate, Interplanetary
+
+>As planetary gate, but twice as large and connects gate structures that lie between locations within a single solar system.
+> **Options :** Fantastic, Science Fiction, Stellar Gate
+> **Level :** 4
 > **Value :** Priceless

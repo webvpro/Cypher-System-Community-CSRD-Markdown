@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Textbook, "How To"  
-  
->Asset to one knowledge task such as plumbing, electronics, gardening, etc  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Textbook, "How To"
+
+>Asset to one knowledge task such as plumbing, electronics, gardening, etc
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

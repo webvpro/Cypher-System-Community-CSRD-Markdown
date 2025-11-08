@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Yacht, Hydroplane  
-  
->As yacht, but can cut through the sea at speeds of up to 480 km/h (300 mph) in calm or stormy weather without risk of capsizing.  
-> **Options :** Advanced, Planetary Vehicle, Science Fiction  
-> **Level :** 4  
+
+## Yacht, Hydroplane
+
+>As yacht, but can cut through the sea at speeds of up to 480 km/h (300 mph) in calm or stormy weather without risk of capsizing.
+> **Options :** Advanced, Planetary Vehicle, Science Fiction
+> **Level :** 4
 > **Value :** Exorbitant

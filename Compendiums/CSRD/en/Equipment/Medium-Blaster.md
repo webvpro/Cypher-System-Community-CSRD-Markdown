@@ -10,12 +10,12 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Medium Blaster  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Long range  
+
+## Medium Blaster
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Long range
 >> - Medium weapon

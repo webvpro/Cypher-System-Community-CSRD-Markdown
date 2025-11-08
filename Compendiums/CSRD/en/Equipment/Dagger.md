@@ -11,12 +11,12 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Dagger  
-  
->A very short blade for stabbing or slicing.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate, 2 Gp  
->>[!note] Features  
->> - Can be thrown up to short range  
+
+## Dagger
+
+>A very short blade for stabbing or slicing.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Moderate, 2 Gp
+>>[!note] Features
+>> - Can be thrown up to short range
 >> - Light weapon

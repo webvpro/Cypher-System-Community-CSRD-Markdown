@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Exoskin, Grav-Assist  
-  
->Powered anthropomorphic exoskeleton allows completely normal function in high gravity environments of up to 5 G. Exoskins are related to loader mechs. Increase the cost category by one to grant +1 Armor.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 3  
+
+## Exoskin, Grav-Assist
+
+>Powered anthropomorphic exoskeleton allows completely normal function in high gravity environments of up to 5 G. Exoskins are related to loader mechs. Increase the cost category by one to grant +1 Armor.
+> **Options :** Advanced, Apparel & Armor, Science Fiction
+> **Level :** 3
 > **Value :** Expensive

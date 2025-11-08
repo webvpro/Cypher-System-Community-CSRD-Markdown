@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Enlightened  
+
+## Enlightened
 >**Enabler**
-  
+
 You are trained in any perception task that involves sight. Enabler.

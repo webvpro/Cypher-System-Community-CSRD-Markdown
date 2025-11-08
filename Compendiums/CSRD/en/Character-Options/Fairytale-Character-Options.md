@@ -23,7 +23,7 @@ Below the description of each focus, you’ll find its abilities. The details of
 [[Made-a-Deal-With-Death|Made a Deal With Death]]
 [[Sheds-Their-Skin|Sheds Their Skin]]
 
-### Heartwood Character Arcs 
+### Heartwood Character Arcs
 Characters in the Heartwood should choose a starting character arc, something that they hope to accomplish for their character through time and experience. This can be a Heartwood-specific arc or one from the list of character arcs in the Cypher System Rulebook.
 
 #### Suggested Heartwood Arcs
@@ -40,39 +40,39 @@ Because the form that you choose doesn’t typically offer you something in addi
 
 
 ### Skills
-As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include: 
+As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include:
 • Talking animals*
 • Talking nature*
 • Trickery
-• Using magic 
+• Using magic
 • Weather
 • Baking
-• Cobbling 
+• Cobbling
 • Curses
-• Dancing 
+• Dancing
 • Death
 • Magic
-• Playing an instrument 
+• Playing an instrument
 • Puzzles
 • Riddles
 • Sailing
-• Sensing magic 
+• Sensing magic
 • Singing
 Remember that only skills gained through character type abilities or in other rare instances allow you to become skilled with attack or defense tasks. Thus, all magic skills are noncombat skills only.
 
 >* These skills could be used in a number of different ways, depending on the setting. If the setting has talking animals that the players can’t understand, the talking animals skill could help a PC communicate with them in other ways. If there are talking animals that the characters can understand, the skill could provide an asset in social interactions.
 
 ### Type
-Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter. 
+Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter.
 
 #### Suggested Types for a Fairy Tale Game
 Type Name and Flavor Suggestions
 
 ##### [[Warrior]]
 >Huntsman, Skills and knowledge, stealth
->Knight 
->Woodcutter 
->Guard 
+>Knight
+>Woodcutter
+>Guard
 >Archer, Stealth
 
 ##### [[Adept]]
@@ -83,18 +83,18 @@ Type Name and Flavor Suggestions
 >- Magical being (genie, spirit, faerie, and so on)
 
 ##### [[Explorer]]
->Adventurer 
->Dreamer Seeker 
+>Adventurer
+>Dreamer Seeker
 >Sailor/seafarer, Combat
->Wanderer 
+>Wanderer
 >Outlaw, Combat Stealth
 >Thief, Stealth
 >Wolf, Combat Stealth
 
 ##### [[Speaker|Speaker]]
->Aristocrat 
->Princess/prince 
->Entertainer 
+>Aristocrat
+>Princess/prince
+>Entertainer
 >Helper, Magic
 >Trickster, Skills and Knowledge
 
@@ -112,16 +112,16 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - [[Clever]]
 - [[Craven]]
 - [[Creative|Creative]]
-- [[Dishonorable]] 
+- [[Dishonorable]]
 - [[Doomed]]
 - [[Empathic]]
 - [[Exiled]]
 - [[Foolish|Foolish]]
 - [[Guarded]]
-- [[Honorable]] 
-- [[Impulsive]] 
-- [[Inquisitive]] 
-- [[Intelligent]] 
+- [[Honorable]]
+- [[Impulsive]]
+- [[Inquisitive]]
+- [[Intelligent]]
 - [[Intuitive]]
 - [[Jovial]]
 - [[Kind]]
@@ -133,17 +133,17 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - [[Risk-Taking|Risk Taking]]
 - [[Skeptical]]
 - [[Strong|Strong]]
-- [[Strong-Willed|Strong-Willed]] 
-- [[Tongue-Tied|Tongue-Tied]] 
+- [[Strong-Willed|Strong-Willed]]
+- [[Tongue-Tied|Tongue-Tied]]
 - [[Vicious]]
 - [[Virtuous]]
 - [[Weird]]
 ##### Heartwood Descriptors
-• [[Bewitched]] 
+• [[Bewitched]]
 • [[Changeling]]
-• [[Fragmented]] 
+• [[Fragmented]]
 • [[Frumious]]
-• [[Haunted]] 
+• [[Haunted]]
 • [[Lost]]
 
 ### Focus
@@ -175,16 +175,16 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Entertains|Entertains]]
 - [[Exists-in-Two-Places-at-Once|Exists in Two Places at Once]]
 - [[Exists-Partially-Out-of-Phase|Exists Partially Out of Phase]]
-- [[Explores-Dark-Places|Explores Dark Places]] 
+- [[Explores-Dark-Places|Explores Dark Places]]
 - [[Fights-Dirty|Fights Dirty]]
-- [[Fights-with-Panache|Fights with Panache]] 
+- [[Fights-with-Panache|Fights with Panache]]
 - [[Focuses-Mind-over-Matter|Focuses Mind over Matter]]
-- [[Grows-to-Towering-Heights|Grows to Towering Heights]] 
+- [[Grows-to-Towering-Heights|Grows to Towering Heights]]
 - [[Helps-Their-Friends|Helps Their Friends]]
 - [[Howls-at-the-Moon|Howls at the Moon]]\
 - [[Hunts|Hunts]]
 - [[Infiltrates|Infiltrates]]
-- [[Is-Wanted-by-the-Law|Is Wanted by the Law]] 
+- [[Is-Wanted-by-the-Law|Is Wanted by the Law]]
 - [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
 - [[Leads]]
 - [[Learns-Quickly|Learns Quickly]]
@@ -196,7 +196,7 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Masters-Weaponry|Masters Weaponry]]
 - [[Metes-Out-Justice|Metes Out Justice]]
 - [[Moves-Like-a-Cat|Moves Like a Cat]]
-- [[Moves-Like-the-Wind|Moves Like the Wind]] 
+- [[Moves-Like-the-Wind|Moves Like the Wind]]
 - [[Murders]]
 - [[Needs-No-Weapon|Needs No Weapon]]
 - [[Never-Says-Die|Never Says Die]]
@@ -222,7 +222,7 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Works-Miracles|Works Miracles]]
 - [[Would-Rather-Be-Reading|Would Rather Be Reading]]
 #### Heartwood Foci
-• [[Befriends-the-Black-Dog|Befriends the Black Dog]]  
+• [[Befriends-the-Black-Dog|Befriends the Black Dog]]
 • [[Curses-the-World]]
 • [[Feigns-No-Fear|Feigns No Fear]]
 • [[Lived-Among-the-Fey|Lived Among the Fey]]
@@ -238,7 +238,7 @@ Best for modern settings or those where traditional fairy tale vehicles such as 
 Best for steampunk or weird science mashups. Edward Scissorhands and the Tin Man are probably characters who Fuse Flesh and Steel. Alternatively, renaming the foci to Fuses Flesh and Magic or Wants to Become a Real Boy can provide characters with the same benefits from a more magical-sounding source.
 
 [[Is-Licensed-to-Carry|Is Licensed to Carry]]
-With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon. 
+With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon.
 
 [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]]
 With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
@@ -267,12 +267,12 @@ they may have names or stories that go with them, and because characters tend to
 In most cases, characters start out by wearing any type of clothing they choose. Typically (unless the GM decides otherwise or unless it is designated as armor),
 this clothing is purely for decorative and roleplaying purposes and offers no additional benefits.
 
-However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks. 
+However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks.
 ### Optional Rule: I Have That!
 >In fairy tales, characters often have exactly the right mundane piece of equipment
-that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified 
+that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified
 > “Pocket Item” in that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
-> 
+>
 >Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
 >
 >The GM has veto power over items that they don’t think you could have found or carried.
@@ -302,9 +302,9 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 • Paper
 • Plait of hair
 • Pot of fat
-• Pot of grease 
+• Pot of grease
 • Ribbon
-• Rice (handful) 
+• Rice (handful)
 • Straw
 • Tacks
 • Wax
@@ -327,13 +327,13 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 > Suit or ballgown
 ###### Exorbitant
 > - Elegant, bespoke clothing suitable for moving in elite circles (provides an asset in interaction tasks)
-### Weapons and Protective Gear 
+### Weapons and Protective Gear
 #### Inexpensive
 > - Ammunition (12 arrows, 12 crossbow bolts, and so on)
-#### Moderately Priced 
+#### Moderately Priced
 >- Light weapons (knives, handaxe, hairpin, darts, wand, slingshot, and so on)
 >- Light armor (hides and furs, thieves’ armor, leather jerkin, padded coat, and so on)
-#### Expensive 
+#### Expensive
 >- Medium weapon (club, sword, battleaxe, mace, crossbow, spear, staff, and so on)
 >- Medium armor (breastplate, brigade, chainmail, and so on)
 #### Very Expensive
@@ -345,7 +345,7 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 
 >Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
 ### Basic Equipment
-#### Inexpensive 
+#### Inexpensive
 >- [[Candle]]
 >-  Chalk (3)
 >- Day’s rations
@@ -378,22 +378,22 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 >- Bag of heavy tools
 >- Bag of light tools
 >- Box, medium
-#### Very Expensive 
->- Charon’s obol. Imbued coin. 
+#### Very Expensive
+>- Charon’s obol. Imbued coin.
 >>Placed in the mouth of a dead person prior to burial as payment to Charon, the ferryman, for conveying the soul to its proper resting place.
 >- Disguise kit/potion. Asset for disguise tasks.
 >- Healing kit/potion. Asset for healing tasks.
 >- Protective charm. Church bell, four-leaf clover, rabbit’s foot, and so on. Asset on defense rolls against fairies and other fey-like creatures.
 >- Handheld scrying mirror. Asset for initiative tasks when held in hand or worn.
 ### Travel
-#### Moderately Priced 
+#### Moderately Priced
 >- Common transportation, rental (horse-drawn carriage, boat, mount, and so on)
 >- Lodging, shared room or shed, meager
 #### Expensive
 >- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, renting magic transportation includes a guide, driver, or other person who can power and operate the vehicle. For example, a levitating mortar can only be driven by a witch of a certain age.
 >- Common transportation, purchase (horse-drawn carriage, boat, mount, and so on)
 >- Lodging, solo room, decent
-#### Very Expensive 
+#### Very Expensive
 >- Lodging, whole building or large room
-##### Exorbitant 
+##### Exorbitant
 >- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, it’s also necessary to hire a guide, driver, or other person who can control and power the vehicle. Alternatively, characters must take a class, learn a spell, or meet other magic requirements in order to operate the vehicle.

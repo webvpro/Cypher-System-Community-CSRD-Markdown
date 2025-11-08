@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/5-Cp
 ---
 
-  
-## Piton  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Piton
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 5 Cp

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Cast Illusion  
+
+## Cast Illusion
 >**Enabler**
-  
+
 You can increase the range at which you create and maintain your immediate-range illusions (such as from Minor Illusion) to anywhere within short range that you can perceive. Enabler.

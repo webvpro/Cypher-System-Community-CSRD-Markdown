@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Magic Shield  
->**Action**  
+
+## Magic Shield
+>**Action**
 >1 Intellect point
-  
+
 You gain +1 to Armor for an hour. Action to initiate.

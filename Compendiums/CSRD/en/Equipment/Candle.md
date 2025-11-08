@@ -12,13 +12,13 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Candle  
-  
->A candle burns for one hour and creates dim light in an immediate area.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive, 1 Sp  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Candle
+
+>A candle burns for one hour and creates dim light in an immediate area.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Inexpensive, 1 Sp
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

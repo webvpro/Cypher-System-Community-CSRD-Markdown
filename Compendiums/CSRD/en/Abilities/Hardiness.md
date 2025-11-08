@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Hardiness  
+
+## Hardiness
 >**Enabler**
-  
+
 You are trained in Might defense tasks. Enabler.

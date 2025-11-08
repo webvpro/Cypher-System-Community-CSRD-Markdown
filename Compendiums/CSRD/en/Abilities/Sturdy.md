@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Sturdy  
+
+## Sturdy
 >**Enabler**
-  
+
 You are trained in Might defense tasks. Enabler.

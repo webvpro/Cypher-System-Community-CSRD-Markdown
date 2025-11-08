@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Wilderness Encouragement  
->**Action**  
+
+## Wilderness Encouragement
+>**Action**
 >3 Intellect points
-  
+
 While in the wilderness, or when talking about your time in the wilderness, your stirring words of encouragement grant a target within short range that can understand you 1d6 points to one Pool. You can't use this ability on the same creature again until they've made a recovery roll. Action.

@@ -9,9 +9,9 @@ tags:
 - Equipment/Explosive
 ---
 
-  
-## Acid (Flask)  
-  
->A flask of strong acid. Can be thrown up to short range, inflicting acid damage as a light weapon (ignores Armor). If poured carefully, it can damage or destroy a small item or areas made of stone or metal.  
-> **Options :** Fantasy, Utility Gear  
+
+## Acid (Flask)
+
+>A flask of strong acid. Can be thrown up to short range, inflicting acid damage as a light weapon (ignores Armor). If poured carefully, it can damage or destroy a small item or areas made of stone or metal.
+> **Options :** Fantasy, Utility Gear
 > **Value :** 25 Gp

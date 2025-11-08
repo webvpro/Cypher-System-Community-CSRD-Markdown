@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Duct Tape  
-  
->Useful and ubiquitous  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Duct Tape
+
+>Useful and ubiquitous
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

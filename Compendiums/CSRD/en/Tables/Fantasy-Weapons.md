@@ -8,8 +8,8 @@ tags:
 
 ## Fantasy Weapons
 
-```dataview 
-  LIST FROM #Equipment/Fantasy and #Equipment/Weapon  
+```dataview
+  LIST FROM #Equipment/Fantasy and #Equipment/Weapon
   ```
 
 

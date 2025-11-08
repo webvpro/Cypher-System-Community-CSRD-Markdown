@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Magic/Modern
 ---
 
-  
+
 ## Deer in the Headlights
->**Enabler**  
+>**Enabler**
 When you cast an attack spell while driving, you can modify the spell as if you had applied two levels of Intellect Effort to it. Enabler.
 
 

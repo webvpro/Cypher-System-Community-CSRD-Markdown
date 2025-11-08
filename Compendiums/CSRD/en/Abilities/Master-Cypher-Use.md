@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Master Cypher Use  
+
+## Master Cypher Use
 >**Enabler**
-  
+
 You can bear five cyphers at a time. Enabler.

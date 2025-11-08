@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Sleuth  
+
+## Sleuth
 >**Enabler**
-  
+
 Finding the clues is the first step in solving a mystery. You are trained in perception. Enabler.

@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## White Noise Generator  
-  
->Fist-sized device that fuzzes frequencies all across the spectrum, hindering all electronic perception and surveillance tasks within short range by five steps.  
-> **Options :** Advanced, Science Fiction, Sense-Enhancing Tools  
-> **Level :** 5  
+
+## White Noise Generator
+
+>Fist-sized device that fuzzes frequencies all across the spectrum, hindering all electronic perception and surveillance tasks within short range by five steps.
+> **Options :** Advanced, Science Fiction, Sense-Enhancing Tools
+> **Level :** 5
 > **Value :** Expensive

@@ -7,17 +7,17 @@ tags:
 - Artifact/Modern-Fantasy
 ---
 
-  
+
 ## Your Mama’s Biker Jacket
 
 >1d6 + 4
 #### Form
->Well-loved and well-worn leather jacket with the patch of a large winged creature on the back 
+>Well-loved and well-worn leather jacket with the patch of a large winged creature on the back
 #### Effect
 >When worn, it makes the user appear tough and badass, providing an asset to all interactions involving coercion, persuasion, fear, and intimidation. Roll a d6 to determine the jacket’s secondary ability.
 
 
-#### Depletion 
+#### Depletion
 >— for the main effect, 1 in 1d10 for the secondary ability (check each use)
 
 | D6  | Ability                                                                                                                                                                                                                                                                                                                                   |

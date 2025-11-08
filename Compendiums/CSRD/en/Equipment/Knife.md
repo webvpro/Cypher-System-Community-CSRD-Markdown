@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Knife  
-  
->Rusty and worn  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+
+## Knife
+
+>Rusty and worn
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
 >> - Light weapon

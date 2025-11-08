@@ -1,6 +1,6 @@
 v---
 aliases: "Superhero Rules Module"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Superhero-Rules-Module
 ---
 
@@ -188,9 +188,9 @@ It’s common for technically savvy superheroes to fiddle with machines to make 
 
 A character who expects to modify many devices should consider learning abilities such as Innovator, Jury-Rig, Modify Artifact Power, Modify Device, and Quick Work. A character who only wants to dabble in this sort of activity can do so, but it takes longer and is less efficient.
 
-Small modifications are things like changing a device’s target, range, or duration. “Small” is subjective and up to the GM, but generally, it means adding another target (although for some high-level devices, adding a target isn’t a small change), increasing the range by one step (immediate to short, short to long, long to very long), or increasing the duration by one step (one minute to one hour, one hour to ten hours). The task difficulty for making a small modification is generally equal to the device’s level minus 1, which also determines how much time it takes to complete the modifications. 
+Small modifications are things like changing a device’s target, range, or duration. “Small” is subjective and up to the GM, but generally, it means adding another target (although for some high-level devices, adding a target isn’t a small change), increasing the range by one step (immediate to short, short to long, long to very long), or increasing the duration by one step (one minute to one hour, one hour to ten hours). The task difficulty for making a small modification is generally equal to the device’s level minus 1, which also determines how much time it takes to complete the modifications.
 
-Big changes are modifying a laser rifle to shoot cold or electricity, turning a communication device into a telepathic shield, or turning a jetpack into a force field device. These modifications are like repairs; they use the device’s level for the difficulty and creation time, but take half as long as the time listed. 
+Big changes are modifying a laser rifle to shoot cold or electricity, turning a communication device into a telepathic shield, or turning a jetpack into a force field device. These modifications are like repairs; they use the device’s level for the difficulty and creation time, but take half as long as the time listed.
 
 A character modifying their own device eases the task. This applies whether the character built the device themselves or they’ve been repairing and tinkering with it long enough that they fully understand its workings.
 
@@ -224,7 +224,7 @@ This section introduces two new power boost cyphers, and consolidates the two ef
 ### Artifacts
 
 >```dataview
->LIST 
->FROM #Artifact/Superhero 
+>LIST
+>FROM #Artifact/Superhero
 >SORT file.name
 >```

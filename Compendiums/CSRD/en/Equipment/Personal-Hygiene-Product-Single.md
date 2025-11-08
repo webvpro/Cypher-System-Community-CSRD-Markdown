@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Personal Hygiene Product, Single  
-  
->Toilet paper roll, menstrual supply, soap, etc.  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Personal Hygiene Product, Single
+
+>Toilet paper roll, menstrual supply, soap, etc.
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Investigate  
+
+## Investigate
 >**Enabler**
-  
+
 You are trained in perception, cryptography, deceiving, and breaking into computers. Enabler.

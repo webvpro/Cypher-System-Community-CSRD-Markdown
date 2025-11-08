@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Greater Enhanced Speed  
+
+## Greater Enhanced Speed
 >**Enabler**
-  
+
 You gain 6 points to your Speed Pool. Enabler.

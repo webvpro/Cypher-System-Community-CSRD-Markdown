@@ -17,22 +17,22 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## First Aid Kit  
-  
->  
->   
-> 
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Asset for healing tasks  
-  
->Asset for twenty healing tasks before contents used up  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
-  
->Kit of bandages, antibiotics, and similar supplies; provides an asset to healing tasks.  
-> **Options :** Contemporary, Health Care and Nutrition, Modern  
-> **Level :** 2  
+
+## First Aid Kit
+
+>
+>
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Asset for healing tasks
+
+>Asset for twenty healing tasks before contents used up
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+
+>Kit of bandages, antibiotics, and similar supplies; provides an asset to healing tasks.
+> **Options :** Contemporary, Health Care and Nutrition, Modern
+> **Level :** 2
 > **Value :** Moderate

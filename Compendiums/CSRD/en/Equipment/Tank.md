@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Tank  
-  
->Rugged caterpillar track supports a completely enclosed frame, contains seats for a driver and up to four other crew; treat as having superior armor. Armed with a central cannon. Moves a short distance each round, or on extended trips, up to 40 km/h (25 mph) on relatively flat terrain, or twice that on paved surfaces.  
-> **Options :** Contemporary, Mechs and Tanks, Modern  
-> **Level :** 4  
+
+## Tank
+
+>Rugged caterpillar track supports a completely enclosed frame, contains seats for a driver and up to four other crew; treat as having superior armor. Armed with a central cannon. Moves a short distance each round, or on extended trips, up to 40 km/h (25 mph) on relatively flat terrain, or twice that on paved surfaces.
+> **Options :** Contemporary, Mechs and Tanks, Modern
+> **Level :** 4
 > **Value :** Exorbitant

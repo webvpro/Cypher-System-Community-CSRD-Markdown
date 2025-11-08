@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Fusion Battery  
-  
->This mobile fusion power source (with metal handles for easy transport) masses about 30 kg (70 pounds); it generates power through fusion. Provides power to nearly any device short of a spacecraft for a variable period depending on power requirements.  
-> **Options :** Advanced, Science Fiction, Utility Gear  
-> **Level :** 5  
+
+## Fusion Battery
+
+>This mobile fusion power source (with metal handles for easy transport) masses about 30 kg (70 pounds); it generates power through fusion. Provides power to nearly any device short of a spacecraft for a variable period depending on power requirements.
+> **Options :** Advanced, Science Fiction, Utility Gear
+> **Level :** 5
 > **Value :** Very Expensive

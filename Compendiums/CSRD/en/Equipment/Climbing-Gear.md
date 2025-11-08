@@ -18,22 +18,22 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Climbing Gear  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Asset for climbing tasks  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Asset for climbing tasks  
-  
->Enables and eases tasks to climb buildings or cliffs. Includes 15 m (50 feet) of nylon rope.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+
+## Climbing Gear
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Asset for climbing tasks
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Asset for climbing tasks
+
+>Enables and eases tasks to climb buildings or cliffs. Includes 15 m (50 feet) of nylon rope.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 3
 > **Value :** Moderate

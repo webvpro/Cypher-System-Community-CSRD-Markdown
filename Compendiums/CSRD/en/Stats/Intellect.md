@@ -2,7 +2,7 @@
 ---
 aliases:
   -  "Intellect"
-tags: 
+tags:
 - Compendium/CSRD/en/Stats/Pool/Intellect
 ---
 ## Intellect

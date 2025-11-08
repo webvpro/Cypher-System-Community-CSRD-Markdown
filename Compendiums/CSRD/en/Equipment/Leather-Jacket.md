@@ -15,18 +15,18 @@ tags:
 - Equipment/Armor/Light
 ---
 
-  
-## Leather Jacket  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Light armor  
-  
->Functions as light armor (+1 Armor).  
-> **Options :** Apparel & Armor, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Leather Jacket
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Light armor
+
+>Functions as light armor (+1 Armor).
+> **Options :** Apparel & Armor, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
 >> - Light armor

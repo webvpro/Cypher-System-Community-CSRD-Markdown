@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Wardroid  
-  
->As free synth, but outfitted for war, including modifications in attack and defense. A wardroid often has many additional customizations and abilities.  
-> **Options :** Fantastic, Robots & Ai, Science Fiction  
-> **Level :** 6  
+
+## Wardroid
+
+>As free synth, but outfitted for war, including modifications in attack and defense. A wardroid often has many additional customizations and abilities.
+> **Options :** Fantastic, Robots & Ai, Science Fiction
+> **Level :** 6
 > **Value :** Exorbitant

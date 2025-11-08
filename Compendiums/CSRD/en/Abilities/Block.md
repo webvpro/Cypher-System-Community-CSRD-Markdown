@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Block  
->**Action**  
+
+## Block
+>**Action**
 >3 Speed points
-  
+
 You automatically block the next melee attack made against you within the next minute. Action to initiate.

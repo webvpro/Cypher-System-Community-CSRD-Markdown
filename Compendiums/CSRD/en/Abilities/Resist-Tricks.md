@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Resist Tricks  
+
+## Resist Tricks
 >**Enabler**
-  
+
 You're trained in solving puzzles and recognizing tricks from years of game playing. Enabler.

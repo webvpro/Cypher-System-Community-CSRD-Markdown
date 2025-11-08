@@ -11,13 +11,13 @@ tags:
 - Equipment/Weapon/Rapid-Fire
 ---
 
-  
-## Assault Rifle  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
->> - Long range  
+
+## Assault Rifle
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Heavy weapon
+>> - Long range
 >> - rapid-fire weapon

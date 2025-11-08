@@ -16,19 +16,19 @@ tags:
 - Equipment/Range/Very-Long
 ---
 
-  
-## Rifle, Heavy  
-  
->300-foot (90 m) range  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 3  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
+
+## Rifle, Heavy
+
+>300-foot (90 m) range
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Heavy weapon
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 3
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Heavy weapon
 >> - Very long range

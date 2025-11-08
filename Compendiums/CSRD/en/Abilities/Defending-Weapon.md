@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Defending Weapon  
+
+## Defending Weapon
 >**Enabler**
-  
+
 When using your enchanted weapon, you are trained in Speed defense tasks. Enabler.

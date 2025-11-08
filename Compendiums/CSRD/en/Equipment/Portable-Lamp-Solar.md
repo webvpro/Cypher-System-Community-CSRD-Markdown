@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Portable Lamp, Solar  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Portable Lamp, Solar
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

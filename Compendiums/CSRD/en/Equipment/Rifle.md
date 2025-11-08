@@ -10,12 +10,12 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Rifle  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Long range  
+
+## Rifle
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Long range
 >> - Medium weapon

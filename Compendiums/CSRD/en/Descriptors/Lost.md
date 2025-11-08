@@ -6,7 +6,7 @@ tags:
   - Descriptor/Fairytale
 ---
 
-## Lost  
+## Lost
 You can’t remember exactly when it happened or why, but you have lost your way. The path through life, or even through your own mind, no longer seems to exist. Once you had a reason and a goal, but now you find yourself wandering aimlessly, without clear purpose or drive.
 ### You gain the following characteristics
 #### Skill
@@ -26,7 +26,7 @@ From the following list of options, choose how you became involved in the first 
 1. The PCs came upon you while you were wandering and lost, and invited you to join them.
 2. You happened to be in the right place at the right time.
 3. You wish to find your path again, and you hope that the PCs will help you do that.
-4. The PCs are heading somewhere specific, and it feels good to be surrounded by people who know where they’re going. 
+4. The PCs are heading somewhere specific, and it feels good to be surrounded by people who know where they’re going.
 
 
 

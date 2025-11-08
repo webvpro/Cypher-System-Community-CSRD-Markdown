@@ -1,7 +1,7 @@
 ---
 aliases:
   -  "Edge"
-tags: 
+tags:
 - Compendium/CSRD/en/Stats/Edge
 ---
 ## Edge

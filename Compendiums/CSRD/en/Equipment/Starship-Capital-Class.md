@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Priceless
 ---
 
-  
-## Starship, Capital Class  
-  
->As warship class starship, but over a hundred times larger, with room for over a few hundred crew. Ten weapon stations include five blaster cannons and five torpedo batteries. Four of these are superior weapons. Includes bays for two squadrons of fifteen dagger fighter starships.  
-> **Options :** Fantastic, Science Fiction, Spacecraft  
-> **Level :** 7  
+
+## Starship, Capital Class
+
+>As warship class starship, but over a hundred times larger, with room for over a few hundred crew. Ten weapon stations include five blaster cannons and five torpedo batteries. Four of these are superior weapons. Includes bays for two squadrons of fifteen dagger fighter starships.
+> **Options :** Fantastic, Science Fiction, Spacecraft
+> **Level :** 7
 > **Value :** Priceless

@@ -1,6 +1,6 @@
 ---
 aliases: "Sample Character Arcs"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Character-Arcs
 ---
 
@@ -10,13 +10,13 @@ The rest of this chapter presents sample character arcs for PCs. The writeup of 
 ### Opening
 >This sets the stage for the rest of the arc. It involves some action, although that might just be the PC agreeing to do the task or undertake the mission. It usually has no reward.
 
-### Step(s) 
+### Step(s)
 >This is the action required to move toward the climax. In story terms, this is the movement through the bulk of the arc. It’s the journey. The rising tension. Although there might be just one step, there might also be many, depending on the story told. Each results in a reward of 2 XP.
 
-### Climax 
+### Climax
 >This is the finale—the point at which the PC likely succeeds or fails at what they’ve set out to do. Not every arc ends with victory. If the character is successful, they earn a reward of 4 XP. If they fail, they still earn a reward of 2 XP. If a character fails the climax, they very likely ignore the resolution.
 
->**Resolution:** This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward. 
+>**Resolution:** This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward.
 
 
 Within the arc, most of the time a part is probably optional, depending on the situation—although it’s hard to envision most arcs without some kind of opening, climax, or resolution. Steps other than the opening, the climax, and the resolution can be done in any order.
@@ -29,6 +29,6 @@ This chapter has a selection of sample character arcs, but you can create your o
 >Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
 
 >```dataview
->LIST 
->FROM #Character-Arc  
+>LIST
+>FROM #Character-Arc
 >```

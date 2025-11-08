@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Microscope  
-  
->Provides an asset to any research task where small-scale perception could provide additional information, though analysis requires several hours or more.  
-> **Options :** Contemporary, Modern, Sense-Enhancing Tools  
-> **Level :** 3  
+
+## Microscope
+
+>Provides an asset to any research task where small-scale perception could provide additional information, though analysis requires several hours or more.
+> **Options :** Contemporary, Modern, Sense-Enhancing Tools
+> **Level :** 3
 > **Value :** Expensive

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Opening Statement  
+
+## Opening Statement
 >**Enabler**
-  
+
 You're trained in tasks related to persuasion, deception, and detecting the falsehoods of others. Enabler.

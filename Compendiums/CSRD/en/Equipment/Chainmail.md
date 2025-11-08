@@ -10,11 +10,11 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Chainmail  
-  
->Mail armor made from hundreds of interlocking metal rings or links. Often called "chain" or "chain armor."  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 75 Gp  
->>[!note] Features  
+
+## Chainmail
+
+>Mail armor made from hundreds of interlocking metal rings or links. Often called "chain" or "chain armor."
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 75 Gp
+>>[!note] Features
 >> - Medium armor

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Hardened by the End  
+
+## Hardened by the End
 >**Action**
-  
+
 You're trained in Might defense tasks.

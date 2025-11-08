@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Stealthsuit  
-  
->Provides two assets to stealth tasks.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
+
+## Stealthsuit
+
+>Provides two assets to stealth tasks.
+> **Options :** Advanced, Apparel & Armor, Science Fiction
+> **Level :** 4
 > **Value :** Very Expensive

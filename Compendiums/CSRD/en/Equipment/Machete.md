@@ -19,24 +19,24 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Machete  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Medium weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Medium weapon  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Machete
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Medium weapon
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Medium weapon
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
 >> - Medium weapon

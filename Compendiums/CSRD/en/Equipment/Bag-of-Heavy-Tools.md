@@ -15,17 +15,17 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Bag of Heavy Tools  
-  
->Contains a hammer, six spikes, crowbar, large tongs, chisel, and 10 feet (3 m) of strong rope.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 25 Gp  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Value :** Moderate  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+
+## Bag of Heavy Tools
+
+>Contains a hammer, six spikes, crowbar, large tongs, chisel, and 10 feet (3 m) of strong rope.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 25 Gp
+
+>
+> **Options :** Modern, Utility Gear
+> **Value :** Moderate
+
+>
+> **Options :** Science Fiction, Utility Gear
 > **Value :** Moderate

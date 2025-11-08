@@ -13,14 +13,14 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Flashlight  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Inexpensive  
-  
->Provides light where pointed within short range for a few hours before requiring new batteries/a charge.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 1  
+
+## Flashlight
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Inexpensive
+
+>Provides light where pointed within short range for a few hours before requiring new batteries/a charge.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 1
 > **Value :** Inexpensive

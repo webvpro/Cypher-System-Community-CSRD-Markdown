@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/25-Gp
 ---
 
-  
-## Guard Dog  
-  
->A dog specially trained to guard. Better suited for watching or patrolling an area against thieves and intruders than it is for accompanying adventurers into dangerous locations.  
-> **Options :** Fantasy, Utility Gear  
+
+## Guard Dog
+
+>A dog specially trained to guard. Better suited for watching or patrolling an area against thieves and intruders than it is for accompanying adventurers into dangerous locations.
+> **Options :** Fantasy, Utility Gear
 > **Value :** 25 Gp

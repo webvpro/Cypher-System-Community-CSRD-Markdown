@@ -12,13 +12,13 @@ tags:
 - Equipment/Range/Long
 ---
 
-  
-## Laser Photon Pistol  
-  
->Handgun fires coherent light beams;  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 3  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+
+## Laser Photon Pistol
+
+>Handgun fires coherent light beams;
+> **Options :** Advanced, Armament, Science Fiction
+> **Level :** 3
+> **Value :** Expensive
+>>[!note] Features
+>> - Light weapon
 >> - Long range

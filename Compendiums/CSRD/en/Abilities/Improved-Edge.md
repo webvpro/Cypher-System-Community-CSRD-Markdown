@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Improved Edge  
+
+## Improved Edge
 >**Enabler**
-  
+
 Choose one of your Edge stats that is 0. It increases to 1. Enabler.

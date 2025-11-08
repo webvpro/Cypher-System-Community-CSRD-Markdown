@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Capable Warrior  
+
+## Capable Warrior
 >**Enabler**
-  
+
 Your attacks deal 1 additional point of damage. Enabler.

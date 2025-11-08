@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Priceless
 ---
 
-  
-## Gate, Intergalactic  
-  
->As planetary gate, but six times as large and connects gate structures that lie between locations in different galaxies across the entire breadth of the universe.  
-> **Options :** Fantastic, Science Fiction, Stellar Gate  
-> **Level :** 7  
+
+## Gate, Intergalactic
+
+>As planetary gate, but six times as large and connects gate structures that lie between locations in different galaxies across the entire breadth of the universe.
+> **Options :** Fantastic, Science Fiction, Stellar Gate
+> **Level :** 7
 > **Value :** Priceless

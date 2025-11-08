@@ -10,12 +10,12 @@ tags:
 - Equipment/Range/Short
 ---
 
-  
-## Light Blaster  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+
+## Light Blaster
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Light weapon
 >> - Short range

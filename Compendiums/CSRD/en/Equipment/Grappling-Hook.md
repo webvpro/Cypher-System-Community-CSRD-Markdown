@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/2-Gp
 ---
 
-  
-## Grappling Hook  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Grappling Hook
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 2 Gp

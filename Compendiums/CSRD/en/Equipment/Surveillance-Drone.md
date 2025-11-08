@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Surveillance Drone  
-  
->An autonomous flying robot, which can also be remote controlled. Can record or relay its environment to distant controllers. An upgrade into the priceless category allows one to carry two or more self-guiding missiles that inflict 12 points of damage and drop unprotected targets two steps on the damage track.  
-> **Options :** Contemporary, Modern, Robots & Ai  
-> **Level :** 3  
+
+## Surveillance Drone
+
+>An autonomous flying robot, which can also be remote controlled. Can record or relay its environment to distant controllers. An upgrade into the priceless category allows one to carry two or more self-guiding missiles that inflict 12 points of damage and drop unprotected targets two steps on the damage track.
+> **Options :** Contemporary, Modern, Robots & Ai
+> **Level :** 3
 > **Value :** Exorbitant

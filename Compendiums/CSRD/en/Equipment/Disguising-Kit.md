@@ -10,11 +10,11 @@ tags:
 - Equipment/Asset
 ---
 
-  
-## Disguising Kit  
-  
->Makeup, simple prosthetics, and a wig or two, suitable for disguises for a theatrical production. Provides an asset on disguise tasks. Some parts are reusable, but the kit runs out after about five uses.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Very Expensive, 25 Gp  
->>[!note] Features  
+
+## Disguising Kit
+
+>Makeup, simple prosthetics, and a wig or two, suitable for disguises for a theatrical production. Provides an asset on disguise tasks. Some parts are reusable, but the kit runs out after about five uses.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Very Expensive, 25 Gp
+>>[!note] Features
 >> - Asset for disguise tasks

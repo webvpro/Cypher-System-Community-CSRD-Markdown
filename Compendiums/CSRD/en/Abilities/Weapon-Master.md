@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Weapon Master  
+
+## Weapon Master
 >**Enabler**
-  
+
 You inflict an additional 1 point of damage with your chosen weapon. Enabler.

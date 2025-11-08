@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Machine Affinity  
+
+## Machine Affinity
 >**Enabler**
-  
+
 You are trained in tasks involving electrical machines. Enabler.

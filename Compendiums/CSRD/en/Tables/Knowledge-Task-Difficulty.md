@@ -6,7 +6,7 @@ tags:
 - Table/Task/Difficulty/Knowledge
 - Table/Task/Difficulty/Understanding
 - Table/Task/Difficulty/Identifying
-- Table/Task/Difficulty/Remembering 
+- Table/Task/Difficulty/Remembering
 ---
 
 ## Knowledge Task Difficulty

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Ambusher  
+
+## Ambusher
 >**Enabler**
-  
+
 When you attack a creature that has not yet acted during the first round of combat, your attack is eased. Enabler.

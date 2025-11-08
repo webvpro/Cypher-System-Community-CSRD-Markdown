@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Trained Basher  
+
+## Trained Basher
 >**Enabler**
-  
+
 You are trained in using the stone fists from your Golem Body as a medium weapon. Enabler.

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Precision  
+
+## Precision
 >**Enabler**
-  
+
 You deal 2 additional points of damage with attacks using weapons that you throw. Enabler.

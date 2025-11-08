@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Priceless
 ---
 
-  
-## Nano Tab, Immolating  
-  
->As general nano tab, but explosively distributes nano-threads deep into the body, turning it into mostly weaponry, effectively granting five posthuman upgrade power shifts. However, this quickly burns out the user, who dies within a solar standard month.  
-> **Options :** Fantastic, Health Care and Nutrition, Science Fiction  
-> **Level :** 7  
+
+## Nano Tab, Immolating
+
+>As general nano tab, but explosively distributes nano-threads deep into the body, turning it into mostly weaponry, effectively granting five posthuman upgrade power shifts. However, this quickly burns out the user, who dies within a solar standard month.
+> **Options :** Fantastic, Health Care and Nutrition, Science Fiction
+> **Level :** 7
 > **Value :** Priceless

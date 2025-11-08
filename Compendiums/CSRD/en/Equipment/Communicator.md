@@ -9,11 +9,11 @@ tags:
 - Equipment/Range/Planetary
 ---
 
-  
-## Communicator  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Communicator
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Planetary range

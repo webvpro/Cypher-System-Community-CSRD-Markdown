@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Twisting the Knife  
->**Action**  
+
+## Twisting the Knife
+>**Action**
 >4 Speed points
-  
+
 In a round after successfully striking a foe with a melee weapon, you can opt to automatically deal standard damage to the foe with that same weapon without any modifiers (2 points for a light weapon, 4 points for a medium weapon, or 6 points for a heavy weapon). Action.

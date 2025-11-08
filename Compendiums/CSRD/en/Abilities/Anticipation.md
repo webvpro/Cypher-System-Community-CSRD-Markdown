@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Anticipation  
->**Action**  
+
+## Anticipation
+>**Action**
 >1 Intellect point
-  
+
 You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. Action.

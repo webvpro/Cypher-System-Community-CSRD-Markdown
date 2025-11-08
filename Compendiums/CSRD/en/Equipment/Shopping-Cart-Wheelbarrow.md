@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Shopping Cart Wheelbarrow  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Shopping Cart Wheelbarrow
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

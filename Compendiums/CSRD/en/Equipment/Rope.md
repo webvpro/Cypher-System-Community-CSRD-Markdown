@@ -18,21 +18,21 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Rope  
-  
->Hemp, 50 feet  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate, 1 Gp  
-  
->Nylon, 50 feet  
-> **Options :** Modern, Utility Gear  
-> **Value :** Moderate  
-  
->Nylon, 50 feet  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
-  
->Nylon, 50 ft (16m)  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Rope
+
+>Hemp, 50 feet
+> **Options :** Fantasy, Utility Gear
+> **Value :** Moderate, 1 Gp
+
+>Nylon, 50 feet
+> **Options :** Modern, Utility Gear
+> **Value :** Moderate
+
+>Nylon, 50 feet
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+
+>Nylon, 50 ft (16m)
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

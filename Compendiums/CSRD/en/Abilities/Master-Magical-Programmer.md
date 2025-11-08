@@ -10,10 +10,10 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Master Magical Programmer 
+
+## Master Magical Programmer
 >**Enabler**
-  
+
 You are specialized in crafting magical apps and in using (and exploiting) computer software. Enabler.
 
 

@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 - "Recover From a Wound (or Trauma)"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Recover-From-a-Wound-or-Trauma
 - Character-Arc
 ---
 ## Recover From a Wound (or Trauma)
->You need to heal. This isn’t just for healing simple damage. This involves recovering from a major debilitating injury, illness, or shock. Severe damage, the loss of a body part, and emotional trauma all fall into this category. 
+>You need to heal. This isn’t just for healing simple damage. This involves recovering from a major debilitating injury, illness, or shock. Severe damage, the loss of a body part, and emotional trauma all fall into this category.
 ### Opening: Rest
 >The first thing you need to do is rest.
 ### Step: Self Care
@@ -18,6 +18,6 @@ tags:
 ### Step: Therapy
 >With the help of someone else, you exercise your injury or cope with your trauma.
 ### Climax: Acceptance or Recovery
->You try to move on and use what has been damaged (or learn how to function without it). 
+>You try to move on and use what has been damaged (or learn how to function without it).
 ### Resolution
 >You get on with your life.

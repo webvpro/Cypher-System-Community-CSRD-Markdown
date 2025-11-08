@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## VTOL Stealthjet  
-  
->As VTOL hyperjet, but with superior stealth instead of superior weapons.  
-> **Options :** Advanced, Planetary Vehicle, Science Fiction  
-> **Level :** 3  
+
+## VTOL Stealthjet
+
+>As VTOL hyperjet, but with superior stealth instead of superior weapons.
+> **Options :** Advanced, Planetary Vehicle, Science Fiction
+> **Level :** 3
 > **Value :** Exorbitant

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Environment Tent  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+
+## Environment Tent
+
+>
+> **Options :** Science Fiction, Utility Gear
 > **Value :** Moderate

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Movement Skills  
+
+## Movement Skills
 >**Enabler**
-  
+
 You are trained in climbing and jumping. Enabler.

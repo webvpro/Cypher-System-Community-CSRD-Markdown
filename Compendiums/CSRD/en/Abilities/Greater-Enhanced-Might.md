@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Greater Enhanced Might  
+
+## Greater Enhanced Might
 >**Enabler**
-  
+
 You gain 6 points to your Might Pool. Enabler.

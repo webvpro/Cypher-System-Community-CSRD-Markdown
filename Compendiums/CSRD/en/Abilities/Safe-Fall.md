@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Safe Fall  
+
+## Safe Fall
 >**Enabler**
-  
+
 You reduce the damage from a fall by 5 points. Enabler.

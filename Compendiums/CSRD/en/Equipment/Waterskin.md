@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/2-Sp
 ---
 
-  
-## Waterskin  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Waterskin
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 2 Sp

@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Elusive  
->**Enabler**  
+
+## Elusive
+>**Enabler**
 >2 Speed points
-  
+
 When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. Enabler.

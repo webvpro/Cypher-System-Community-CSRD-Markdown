@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Mega Bar  
-  
->As trail rations, but bar either provides enough nutrition for one day of food or one free recovery roll.  
-> **Options :** Advanced, Health Care and Nutrition, Science Fiction  
-> **Level :** 3  
+
+## Mega Bar
+
+>As trail rations, but bar either provides enough nutrition for one day of food or one free recovery roll.
+> **Options :** Advanced, Health Care and Nutrition, Science Fiction
+> **Level :** 3
 > **Value :** Moderate

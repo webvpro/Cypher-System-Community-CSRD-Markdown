@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Club  
-  
->A simple bludgeon, such as a sturdy tree branch, board, or improvised weapon.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 1 Sp  
->>[!note] Features  
+
+## Club
+
+>A simple bludgeon, such as a sturdy tree branch, board, or improvised weapon.
+> **Options :** Fantasy, Utility Gear
+> **Value :** 1 Sp
+>>[!note] Features
 >> - Medium weapon

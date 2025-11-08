@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/10-Gp
 ---
 
-  
-## Banquet (1 Person)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Banquet (1 Person)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 10 Gp

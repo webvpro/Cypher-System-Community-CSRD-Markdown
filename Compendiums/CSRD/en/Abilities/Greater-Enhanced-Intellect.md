@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Greater Enhanced Intellect  
+
+## Greater Enhanced Intellect
 >**Enabler**
-  
+
 You gain 6 points to your Intellect Pool. Enabler.

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Medication, One Bottle  
-  
->Pain relief, allergy, antacid, antibiotic, anti-nausea, or another drug in a bottle  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Medication, One Bottle
+
+>Pain relief, allergy, antacid, antibiotic, anti-nausea, or another drug in a bottle
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

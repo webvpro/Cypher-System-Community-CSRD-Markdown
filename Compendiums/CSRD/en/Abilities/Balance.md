@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Balance  
+
+## Balance
 >**Enabler**
-  
+
 You are trained in balancing. Enabler.

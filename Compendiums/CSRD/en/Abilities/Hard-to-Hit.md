@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Hard to Hit  
+
+## Hard to Hit
 >**Enabler**
-  
+
 You are trained in Speed defense tasks. Enabler.

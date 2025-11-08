@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Attack-Skill
 ---
 
-  
-## Practiced With All Weapons  
+
+## Practiced With All Weapons
 >**Enabler**
-  
+
 You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.

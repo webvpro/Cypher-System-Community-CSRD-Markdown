@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Information
 ---
 
-  
-## Serv-0 Scanner  
->**Enabler**  
+
+## Serv-0 Scanner
+>**Enabler**
 >2 Intellect points
-  
+
 Your Serv-0 gains the Scan ability. Enabler.

@@ -11,10 +11,10 @@ tags:
 - Ability/Categories/Magic/Modern
 ---
 
-  
+
 ## Moon Adaptation
->**Enabler**  
-You can survive indefinitely in a vacuum environment (such as the moon or space).	
+>**Enabler**
+You can survive indefinitely in a vacuum environment (such as the moon or space).
 Although Moon Adaptation protects you from the airless environment of the moon, people traveling with you aren’t so lucky—unless you teleport directly to a pressurized location such as a moon base or an abandoned NASA vehicle.
 
 

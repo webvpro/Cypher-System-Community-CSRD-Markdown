@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/1-Cp
 ---
 
-  
-## Sack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Sack
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 1 Cp

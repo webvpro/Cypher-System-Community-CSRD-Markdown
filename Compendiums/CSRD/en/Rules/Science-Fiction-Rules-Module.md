@@ -12,7 +12,7 @@ Science fiction is an incredibly broad category. It covers UFOs, space opera, ne
 For our purposes, we’ll treat fantastic science fiction as the default: aliens, spaceships that allow travel to other stars, energy weapons and shields, and so on. It’s a familiar setting to almost everyone interested in science fiction. That said, we’ve also got some additional guidance for hard science fiction, where what’s possible is more grounded in what we currently scientifically extrapolate. But your science fiction setting can be anything you can imagine.
 ## Assembling a Sci-fi Setting
 ### Establishing a Technology Rating
-Every science fiction setting has an implicit level of advancement, which is the average degree of technological sophistication available to most characters. This sophistication lies along a spectrum, from contemporary, to advanced, all the way to fantastic. Each of these terms specifies a particular “technology rating” (or “tech rating” for short). 
+Every science fiction setting has an implicit level of advancement, which is the average degree of technological sophistication available to most characters. This sophistication lies along a spectrum, from contemporary, to advanced, all the way to fantastic. Each of these terms specifies a particular “technology rating” (or “tech rating” for short).
 
 A tech rating is a handy way of helping you select what equipment your characters can use, which optional rules you’d like to include, and maybe even help guide your creature choice.
 On the other hand, you could choose to make all options available, regardless of tech rating. No technology police will cite you if you don’t stick inside a previously declared lane. The setting is your background for telling a compelling story. Does your setting have faster-than-light travel? Great. Unless it’s integral to the story (or fun for you), don’t worry about justifying it if you’ve generally settled on an advanced rating for your hard science fiction game (which doesn’t normally include FTL capability). In fact, the surprising and unexpected are where excitement is usually found in a setting; breaking the established rules (for a good reason) often leads to interesting results.
@@ -21,43 +21,43 @@ On the other hand, you could choose to make all options available, regardless of
 This chapter contains a variety of subsystems and set pieces that you can choose to incorporate in your game, depending on the kind of setting you’d like to run. Options here run the gamut from making your science fiction setting more realistic to making your fantastic games even wilder by introducing rules for posthuman advancement and psionics.
 
 #### Quick Descriptions for Common Sci-fi Situations
-##### Weightlessness (zero G) feels like, first time: 
+##### Weightlessness (zero G) feels like, first time:
 >The sensation of falling jerks through the body; instincts scream to reach out and catch yourself.
->Weightlessness (zero G) feels like, once acclimated: A feeling of lightness, evanescence, like floating in a pool of water, if the water were clear air. A little push sends you gliding. 
+>Weightlessness (zero G) feels like, once acclimated: A feeling of lightness, evanescence, like floating in a pool of water, if the water were clear air. A little push sends you gliding.
 
 ##### High acceleration feels like (if strapped in)
->A massive kick in the back, followed by the sensation of tremendous weights sitting on your chest. Any movement is a struggle against an overwhelming weight holding you down. 
+>A massive kick in the back, followed by the sensation of tremendous weights sitting on your chest. Any movement is a struggle against an overwhelming weight holding you down.
 
-##### Blacking out from high acceleration feels like 
->Lightheaded and hard to think, a sensation of a slowing pulse. Noises soften as if heard through a drainpipe. Color fades from vision, then everything goes either to black, or possibly to white, as consciousness lapses. 
+##### Blacking out from high acceleration feels like
+>Lightheaded and hard to think, a sensation of a slowing pulse. Noises soften as if heard through a drainpipe. Color fades from vision, then everything goes either to black, or possibly to white, as consciousness lapses.
 
-##### Exposure to hard radiation feels like 
->Heat. (The more dangerous the radiation, the hotter it feels, and may be accompanied by blue light; radiation excites electrons in the air that then slip back into an unexcited state, emitting high-energy photons that glow blue.) 
+##### Exposure to hard radiation feels like
+>Heat. (The more dangerous the radiation, the hotter it feels, and may be accompanied by blue light; radiation excites electrons in the air that then slip back into an unexcited state, emitting high-energy photons that glow blue.)
 
-##### Exposure to vacuum feels like 
+##### Exposure to vacuum feels like
 >Breath explodes out of lungs, cold slashes the body like a knife carved from a glacier. Tears freeze in the corners of eyes, ice forms on teeth and tongue. Moisture boils out of ears, scalp, freezing on exposed skin, lips, and eyelids. (As this happens, the Effects of Vacuum also take their mechanical toll on the character.)
 
 ###                                                  Optional Rules: Harder Science Fiction
-Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions. 
+Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions.
 
-In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion. 
+In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion.
 
 The Cypher System Rulebook describes some hard science fiction considerations regarding the effects of gravity, which are summarized here for ease of reference.
-##### Long-Term Microgravity Exposure 
->Long-term penalties (such as inabilities in physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs. 
-##### Low Gravity 
->Weapons that rely on weight, such as all heavy weapons, inflict 2 fewer points of damage (dealing a minimum of 1 point) unless user is trained in low-gravity maneuvering. Short-range weapons can reach to long range, and long-range weapons can reach to very long range. 
-##### High Gravity 
->All physical tasks are hindered. Ranges in high gravity are reduced by one category (very long-range weapons reach only to long range, long-range weapons reach only to short range, and short-range weapons reach only to immediate range). Those trained in highgravity maneuvering ignore the change in difficulty but not the range decreases. 
-##### Zero Gravity 
+##### Long-Term Microgravity Exposure
+>Long-term penalties (such as inabilities in physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs.
+##### Low Gravity
+>Weapons that rely on weight, such as all heavy weapons, inflict 2 fewer points of damage (dealing a minimum of 1 point) unless user is trained in low-gravity maneuvering. Short-range weapons can reach to long range, and long-range weapons can reach to very long range.
+##### High Gravity
+>All physical tasks are hindered. Ranges in high gravity are reduced by one category (very long-range weapons reach only to long range, long-range weapons reach only to short range, and short-range weapons reach only to immediate range). Those trained in highgravity maneuvering ignore the change in difficulty but not the range decreases.
+##### Zero Gravity
 >All physical tasks are hindered. Short-range weapons can reach to long range, and long-range weapons can reach to very-long range.
-##### Void Rules 
-The extreme environment in space hard radiation, lack of air and pressure, wild temperature variations, and lack of gravity—tends to magnify small issues into much more significant ones. While Murphy’s Law (everything that can go wrong will go wrong) is a useful reminder to keep an eye out for trouble even under regular circumstances, Finagle’s Law reigns in space, which is that anything that can go wrong, will go wrong—at the worst possible moment. To evoke this law, GMs can implement Void Rules. 
+##### Void Rules
+The extreme environment in space hard radiation, lack of air and pressure, wild temperature variations, and lack of gravity—tends to magnify small issues into much more significant ones. While Murphy’s Law (everything that can go wrong will go wrong) is a useful reminder to keep an eye out for trouble even under regular circumstances, Finagle’s Law reigns in space, which is that anything that can go wrong, will go wrong—at the worst possible moment. To evoke this law, GMs can implement Void Rules.
 
-The idea is to create a feeling of increased repercussions by changing one die roll mechanic. In the game, activities on a planet’s surface—and within a functioning air-filled spacecraft, habitat, or space suit when everything is going well—remain normal. The PCs interact with each other and the NPCs, investigate, research, repair an external sensor module, travel, and so on. 
+The idea is to create a feeling of increased repercussions by changing one die roll mechanic. In the game, activities on a planet’s surface—and within a functioning air-filled spacecraft, habitat, or space suit when everything is going well—remain normal. The PCs interact with each other and the NPCs, investigate, research, repair an external sensor module, travel, and so on.
 
-But that could change the moment something goes wrong—maybe a fault is recognized in the spacecraft’s computer or shipmind. A minor leak is detected in the cargo bay. An enemy spacecraft has fired on and damaged the PC’s spacecraft. The spacecraft’s orbit is deteriorating. Whatever. The point is, the situation has suddenly become complicated. In space, when a situation becomes complicated, it also becomes potentially deadly. That’s when you have the option to announce you’ve instituted Void Rules. 
-While using Void Rules, GM intrusions governed by die rolls change. Normally this happens only on a roll of 1, but when Void Rules apply, it becomes a roll of 1 or a 2. Void Rules are similar in many ways to Horror Mode, though the threat range doesn’t normally continue to escalate. 
+But that could change the moment something goes wrong—maybe a fault is recognized in the spacecraft’s computer or shipmind. A minor leak is detected in the cargo bay. An enemy spacecraft has fired on and damaged the PC’s spacecraft. The spacecraft’s orbit is deteriorating. Whatever. The point is, the situation has suddenly become complicated. In space, when a situation becomes complicated, it also becomes potentially deadly. That’s when you have the option to announce you’ve instituted Void Rules.
+While using Void Rules, GM intrusions governed by die rolls change. Normally this happens only on a roll of 1, but when Void Rules apply, it becomes a roll of 1 or a 2. Void Rules are similar in many ways to Horror Mode, though the threat range doesn’t normally continue to escalate.
 
 While Void Rules are in effect, the GM intrusions automatically triggered should play off the situation, influenced as much as possible by the realistic dangers space travel has on the human body and the situation at hand
 
@@ -77,7 +77,7 @@ In a fantastic tech setting where gravitic control usually cancels inertia, spac
 ##### Long-term Exposure to Zero G and Radiation
 In a setting with contemporary tech, a variety of issues related to long-term exposure to micro-gravity and high radiation beset astronauts, including bone and muscle loss, less circulating blood and red cell mass, less ability to constrict and dilate in vessels, irregular hormones, diminished immune system, inability of mitochondria to initiate wound healing, and even shortened telomeres. The inability to heal even minor wounds and nicks until a space-farer returns to stronger gravity will eventually prove lethal, though a snapped bone or normally inconsequential virus or parasite could also do them in.
 ##### [[Space-Health-Hazard-Gm-Intrusions|Space Health Hazard Gm Intrusions]]
-##### Moving in Microgravity  
+##### Moving in Microgravity
 Long-term zero G is dangerous, but there are issues associated with moving around in microgravity. Those who have spent at least a little time in microgravity can move as part of a routine action. It’s only when something else distracting or dangerous is happening simultaneously that routine movements through a ship or station become potentially problematic.
 ###### [[Moving-in-Microgravity-Gm-Intrusions|Moving in Microgravity Gm Intrusions]]
 
@@ -86,30 +86,30 @@ Long-term zero G is dangerous, but there are issues associated with moving aroun
 ### [[Optional-Rule-Posthuman-Upgrades|Optional Rule: Posthuman Upgrades]]
 ### [[Salvage-From-A-Spacecraft|Salvage From A Spacecraft]]
 ### [[Ship-Collision-Damage-Track|Ship Collision Damage Track]]
-### FTL Instability  
+### FTL Instability
 Even though many different kinds of faster-than-light options are available, any use of FTL in a setting faces similar sorts of hazards at three different points: when first entering FTL, while in FTL transit, and when exiting FTL.
 
-#### Entering FT  
->Whether engaging warp drive or passing into the mouth of a wormhole gate, complicating factors might require a piloting roll, with the difficulty determined by the situation. On a failed roll, any number of bad outcomes are possible, though the least dramatic is that the craft simply fails to enter FTL and cannot do so until the PCs determine the reason and rectify it.	
+#### Entering FT
+>Whether engaging warp drive or passing into the mouth of a wormhole gate, complicating factors might require a piloting roll, with the difficulty determined by the situation. On a failed roll, any number of bad outcomes are possible, though the least dramatic is that the craft simply fails to enter FTL and cannot do so until the PCs determine the reason and rectify it.
 
-#### In FTL Transit  
->A dark drive failure or some weird instability in a wormhole throat, or some other issue during FTL transit could occur. Usually, these instabilities are not something a pilot can avoid, because they should be presented as a GM intrusion, at which point the PCs can attempt to avoid or deal with the situation.  
+#### In FTL Transit
+>A dark drive failure or some weird instability in a wormhole throat, or some other issue during FTL transit could occur. Usually, these instabilities are not something a pilot can avoid, because they should be presented as a GM intrusion, at which point the PCs can attempt to avoid or deal with the situation.
 >
->Instability could result in a spacecraft dropping out of FTL only partway to the destination, dropping out in some completely unrecognized part of space, dropping out at the right place but months or years late, or failing to drop out at all and thus continue to move through the abnormal spaces that FTL transit posits.   
->  
->  Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).   
-#### Exiting FTL  
+>Instability could result in a spacecraft dropping out of FTL only partway to the destination, dropping out in some completely unrecognized part of space, dropping out at the right place but months or years late, or failing to drop out at all and thus continue to move through the abnormal spaces that FTL transit posits.
+>
+>  Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).
+#### Exiting FTL
 >The same sorts of complications could bedevil a craft exiting FTL as when entering. If so, a piloting roll is required. However, on a failed roll, results include a collision (use the Ship Collision Damage Track provided under the Asteroid Belt/Debris Field space hazard), an inadvertent spray of high-energy particles from abnormal space acting as a particle cannon accidentally aimed at some other craft or space station at the destination location, or creating/falling into a spatial anomaly.
 
 ### Spatial Anomaly
-Finally, hard-to-categorize irregularities in space-time go by the broad term of “spatial anomaly.” Most of the time, spatial anomalies are hazards found in fantastically-themed settings, but not always. Because these things are anomalous, no one set of guidelines can fit them all. That said, spatial anomalies are usually a side-effect of some other factor at play, such as a hidden black hole, a dimensional rift, or the distortion field surrounding a range of post-singularity AIsestivating in the gravity wall of a magnetar.  
->[!note]  
+Finally, hard-to-categorize irregularities in space-time go by the broad term of “spatial anomaly.” Most of the time, spatial anomalies are hazards found in fantastically-themed settings, but not always. Because these things are anomalous, no one set of guidelines can fit them all. That said, spatial anomalies are usually a side-effect of some other factor at play, such as a hidden black hole, a dimensional rift, or the distortion field surrounding a range of post-singularity AIsestivating in the gravity wall of a magnetar.
+>[!note]
 >Generally speaking, spatial anomalies are a few light-seconds up to a few light-years across. It’s difficult for spacecraft to navigate within spatial anomalies, and they face many challenges if they attempt to (or are forced to) do so
 
 ### [[Weak-Sim-Strong-And Post-Singularity-AI|Weak, Sim, Strong And Post-Singularity AI]]
 
-### Kardashev Scale  
-Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).   
+### Kardashev Scale
+Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).
 
 ### [[Types-For-A-Science-Fiction-Game|Suggested Types For A Science Fiction Game]]
 
@@ -117,23 +117,23 @@ Even in the realm of hard science fiction, the fantastic can sometimes creep in,
 
 >**Innocuous rodent:** level 1
 >
->**Guard beast:** level 3, perception as level 4  
+>**Guard beast:** level 3, perception as level 4
 >
->**Corporate drone:** level 2 
-> 
+>**Corporate drone:** level 2
+>
 >**Physical laborer:** level 2; health 8
 
 
 ![[Science-Fiction-Creatures-And-NPCs-By-Level And-Tech|Science Fiction Creatures And NPCs By Level And Tech]]
 
-### Additional Science Fiction Equipment  
+### Additional Science Fiction Equipment
 In a science fiction setting, the following items (and anything else appropriate to the setting) are usually available.
 
-#### Equipment  
+#### Equipment
 >Equipment includes apparel, armor, cybernetic implants, personal drone assistants, and other items that, for the most part, can be easily transported. Technically speaking, armaments are also equipment. Unless it’s important to make a distinction, assume all guidance regarding “equipment” also applies to armaments. But when it is important to make a distinction, the term “armaments” is used for equipment that is also a weapon.
 
 
-#### Armaments  
+#### Armaments
 >From contemporary bullet-firing pistols to fantastically advanced handheld disintegration guns, the weapons presented in this chapter are dedicated to those that a single character can carry and use.
 
 #### Variable Cost by Tech Rating
@@ -141,10 +141,10 @@ Equipment costs assume the setting is predominantly of same tech rating as the o
 Note, however, that inexpensive items do not become free; they remain inexpensive.
 #### Weapon Options Granted by Type or Focus
 When a player makes up their character, their type likely indicates that they can choose one or more weapons of their choice. When choosing such weapons and equipment, the following restrictions apply to that choice:
-> • Characters must choose weapons within, or less than, the average tech rating of the setting. 
+> • Characters must choose weapons within, or less than, the average tech rating of the setting.
 > • Characters may not choose weapons in the exorbitant or priceless price category.
 #### Contemporary Styling in Advanced or Fantastic Settings
-Equipment listed as contemporary can often be had in hard science fiction or fantastic genres, possibly at a lower price. Note that such equipment available in these future worlds are not necessarily antiques (though they could be), but rather cheaply made objects. 
+Equipment listed as contemporary can often be had in hard science fiction or fantastic genres, possibly at a lower price. Note that such equipment available in these future worlds are not necessarily antiques (though they could be), but rather cheaply made objects.
 #### Equipment Power
 For the most part, assume that equipment is either self-powered, or easily powered by charging fields or other ubiquitous and freely available sources. That is, unless a piece of equipment losing power makes a good GM intrusion in a clutch situation.
 #### Customizing Equipment
@@ -273,7 +273,7 @@ For ease of reference, the light delay table provides the time it takes light fr
 >- [[Smartphone|Smartphone]]
 >- [[Computer-Laptop|Computer/Laptop]]
 >- [[Satellite-Phone|Satellite Phone]]
-##### Advanced 
+##### Advanced
 > - [[Communicator|Communicator, badge/ring ]]
 > - [[AR-Glasses|AR Glasses]]
 > - [[AR-Contacts|AR Contacts]]
@@ -284,14 +284,14 @@ For ease of reference, the light delay table provides the time it takes light fr
 > - [[Minds-Eye|Mind's Eye]]
 > - [[Ansible]]
 #### Sense-enhancing Tools
-Some communication devices also provide sense-enhancing abilities, such as the smartphone, AR glasses and contacts, and the mind’s eye implant. 
+Some communication devices also provide sense-enhancing abilities, such as the smartphone, AR glasses and contacts, and the mind’s eye implant.
 ##### Contemporary
 >- [[Binoculars]]
 >- [[Camera-Surveillance|Camera, Surveillance]]
 >- [[Microscope]]
 >- [[Nightvision-Goggles|Nightvision Goggles]]
 >- [[Analysis-Apparatus|Analysis Apparatus]]
-##### Advanced 
+##### Advanced
 >- [[Hand-Scanner|Hand Scanner]]
 >- [[Lab-on-a-Chip|Lab on a Chip]]
 >- [[Research-Drone|Research Drone]]
@@ -299,16 +299,16 @@ Some communication devices also provide sense-enhancing abilities, such as the s
 > - [[Multicorder]]
 > - [[Sonic-Toolgrip|Sonic Toolgrip]]
 #### Apparel & Armor
-Unless the GM is running some kind of survival-related scenario, characters can be presumed to have basic clothing and footwear suitable to their environment. 
+Unless the GM is running some kind of survival-related scenario, characters can be presumed to have basic clothing and footwear suitable to their environment.
 ##### Contemporary
 > - [[Cold-Weather-Gear|Cold Weather Gear]]
 > - [[Scuba-Gear|SCUBA Gear]]
-##### Contemporary Armor 
+##### Contemporary Armor
 >- [[Leather-Jacket|Leather Jacket]]
 >- [[Kevlar-Vest]]
 >- [[Military-Body-Armor-Light|Military Body Armor, Light]]
 >- [[Military-Body-Armor|Military Body Armor]]
-##### Advanced 
+##### Advanced
 >- [[Safesuit-Space|Safesuit, Space]]
 >- [[Breather]]
 >- [[Exoskin-Grav-Assist]]
@@ -326,7 +326,7 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 >- [[Body-Armor-Lightweight|Body Armor, Lightweight]]
 >- [[Paint-On-Impact-Armor|Paint-On Impact Armor]]
 >- [[Battlesuit]]
->- [[Holobit]] 
+>- [[Holobit]]
 >- [[Battlesuit-Deluxe|Battlesuit, Deluxe]]
 ##### Fantastic
 >- [[Breather-Vacuum|Breather, Vacuum]]
@@ -354,7 +354,7 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 >- [[Tent]]
 >- [[Tools-General|Tools, General]]
 >- [[Disguise-Kit|Disguise Kit]]
-##### Advanced 
+##### Advanced
 >- [[Everlight]]
 >- [[Tent-Environment|Tent, Environment]]
 >- [[Repair-Tape-Roll|Repair Tape Roll]]
@@ -375,7 +375,7 @@ Health care is too broad a topic to cover in depth. However, for purposes of on-
 >- [[Trail-Rations-1-Day|Trail Rations (1 Day)]]
 >- [[First-Aid-Kit|First Aid Kit]]
 >- [[Military-Grade-Field-Dressing|Military-Grade Field Dressing]]
-##### Advanced 
+##### Advanced
 >- [[Cold-Sober|Cold Sober]]
 >- [[Mega-Bar|Mega Bar]]
 >- [[Serum-Remedial|Serum, Remedial]]
@@ -399,7 +399,7 @@ Health care is too broad a topic to cover in depth. However, for purposes of on-
 >- [[House-Robot|House Robot]]
 >- [[PackBot]]
 >- [[Surveillance-Drone|Surveillance Drone]]
-##### Advanced 
+##### Advanced
 >- [[Auton|Auton]]
 >- [[Auton-Medical|Auton, Medical]]
 >- [[Auton-Defense|Auton, Defense]]
@@ -418,7 +418,7 @@ Occasional recreation is absolutely necessary to maintain stable relationships a
 >- [[Compendiums/CSRD/en/Equipment/Book|Book]]
 >- [[Card-Tabletop-Digital-Game|Card Tabletop Digital Game]]
 >- [[Alcohol-and-Drugs|Alcohol and Drugs]]
-##### Advanced 
+##### Advanced
 >- [[Sidekick-Sphere|Sidekick Sphere]]
 >- [[Tattoo-Programmable|Tattoo, Programmable]]
 ##### Fantastic
@@ -429,9 +429,9 @@ A selection of weapons for your sci-fi setting rated by level, price, function, 
 ##### Armament Ammunition & Charge
 Weapons require ammunition (“ammo”), whether that’s rounds of a particular caliber, energy packs, or something even more exotic. You can handle ammo requirements for weapons in one of three ways: exact tracking, abstracted monthly upkeep cost, or not worrying about it.
 
-Exact tracking means asking the character to track their available and used rounds/shots after (and possibly during) a fight. 
+Exact tracking means asking the character to track their available and used rounds/shots after (and possibly during) a fight.
 
-Abstracted monthly upkeep cost assumes that the characters go through ammo at an average rate, and obtaining more ammo or energy packs is something they do in their “off-camera” time. The monthly upkeep cost for ammo should equal about two steps less in price category than the weapon in question. 
+Abstracted monthly upkeep cost assumes that the characters go through ammo at an average rate, and obtaining more ammo or energy packs is something they do in their “off-camera” time. The monthly upkeep cost for ammo should equal about two steps less in price category than the weapon in question.
 
 Or you can just not worry about keeping track of ammunition, especially in games where gunplay isn’t common.
 ###### Contemporary
@@ -448,13 +448,13 @@ Any weapon that a character must use by swinging or stabbing at a target within 
 >- [[Nightstick]]
 >- [[Broad-Sword-Replica|Broad Sword, Replica]]
 >- [[Stun-Gun|Stun "Gun"]]
-###### Advanced 
+###### Advanced
 >-  [[Power-Fist|Power Fist]]
 >- [[Stunstick]]
 ###### Fantastic
 >- [[Plasma-Saber|Plasma Saber]]
 ##### Ranged Weapons
-Any weapon that fires a projectile or other destructive force at a target within short or longer range is considered a ranged weapon. 
+Any weapon that fires a projectile or other destructive force at a target within short or longer range is considered a ranged weapon.
 ###### Contemporary
 >- [[Bow]]
 >- [[Hand-Grenade|Hand Grenade]]
@@ -466,7 +466,7 @@ Any weapon that fires a projectile or other destructive force at a target within
 >- [[Rifle-Heavy|Rifle, Heavy]]
 >- [[Submachine-Gun|Submachine Gun]]
 >- [[Taser]]
-###### Advanced 
+###### Advanced
 >- [[Grenade-Sonic|Grenade, Sonic]]
 >- [[Grenade-Thermite|Grenade, Thermite]]
 >- [[Needler-Syringer|Needler Syringer]]
@@ -486,34 +486,34 @@ Any weapon that fires a projectile or other destructive force at a target within
 >- [[Blaster-Cannon|Blaster Cannon]]
 
 >[!note] Blaster Weapons
->**Optional Blaster Rule as the Default** 
+>**Optional Blaster Rule as the Default**
 >
 >The advantage that blaster weapons have over other projectile and coherent light weapons is their ability to penetrate targets, which renders Armor less effective. This optional rule is presented as the default rule in The Stars Are Fire to demonstrate their superior tech level even over advanced tech weapons.
 
 ### Equipment and Weapons as Artifacts
-Cypher System artifacts in a science fiction setting could potentially be any one of the items presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially unusual devices are everywhere. 
-> ```dataview 
-> LIST 
-> FROM #Compendium/CSRD/en/Artifacts AND #Artifact/Science-Fiction 
-> 
-> SORT file.name 
-> 
+Cypher System artifacts in a science fiction setting could potentially be any one of the items presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially unusual devices are everywhere.
+> ```dataview
+> LIST
+> FROM #Compendium/CSRD/en/Artifacts AND #Artifact/Science-Fiction
+>
+> SORT file.name
+>
 > ```
 
 ## Vehicles & Spacecraft
 >**Vehicle**
->Technically speaking, spacecraft are also vehicles. Unless it’s important to make a distinction, assume all guidance here regarding “vehicles” also applies to spacecraft. 
+>Technically speaking, spacecraft are also vehicles. Unless it’s important to make a distinction, assume all guidance here regarding “vehicles” also applies to spacecraft.
 
->**Spacecraft (and Starship)** 
+>**Spacecraft (and Starship)**
 >When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term “spacecraft” is used for vehicles that travel beyond a single planet’s atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
 #### Variable Cost by Tech Rating
-Vehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating. 
+Vehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating.
 #### Contemporary Styling in Advanced or Fantastic Settings
 As previously indicated, vehicles listed as contemporary might be found in settings using advanced or fantastic tech, possibly at a lower price. However, the vehicles available in these future worlds are not (necessarily) antiques, but rather cheaply made objects, possibly with the veneer and stylings of vehicles suitable to the setting, and possibly the power source, too.
 #### Priceless Price Category
 A priceless item is something that even the very rich can’t afford, requiring the resources of a nation-state, or similar entity appropriate to the setting, to acquire or build.
 #### Fighting in a Vehicle
-If PCs are involved in combat in which they are only partly or lightly enclosed (or not at all enclosed, as in the case of most cycles, boards, and similar conveyances), use normal rules of combat, as modified by vehicular movement. However, if PCs are involved in a combat where they are completely enclosed in a vehicle with no possibility of openness to the environment through which they can fire weapons (so that it’s not really the characters fighting, but the vehicles), use the vehicular combat rules from the CSR. 
+If PCs are involved in combat in which they are only partly or lightly enclosed (or not at all enclosed, as in the case of most cycles, boards, and similar conveyances), use normal rules of combat, as modified by vehicular movement. However, if PCs are involved in a combat where they are completely enclosed in a vehicle with no possibility of openness to the environment through which they can fire weapons (so that it’s not really the characters fighting, but the vehicles), use the vehicular combat rules from the CSR.
 If PCs are involved in space combat, see the [[Optional-Rules-Extended-Vehicular-Combat|extended vehicular combat rules]] described in this book, which provide all kinds of additional options.
 #### Driverless Vehicles
 If the rider, driver, or pilot activates self-driving as part of another action, riding, driving, and piloting tasks are automatically completed (or failed) according to the vehicle’s level, though all such self-driving tasks are hindered. However, the pilot is free to engage in other actions as the vehicle maneuvers to the best of its ability.
@@ -527,25 +527,25 @@ A representative cross section of vehicles is provided. If you’re looking for 
 #### Customizing Vehicles
 Assuming the facilities are available, characters can pay for the customization of their vehicle to add a weapon system, add even more weapon systems, add superior weapon systems, or some other significant option. In most cases, the cost for such an upgrade is very expensive to exorbitant.
 ### Planetary Vehicle Listing
-#### Cycles 
-##### Contemporary 
+#### Cycles
+##### Contemporary
 > - [[Motorcycle-Dirt-Bike|Motorcycle, Dirt Bike]]
 > - [[Motorcycle-Cruiser|Motorcycle, Cruiser]]
 ##### Advanced
 > - [[Motorcycle-Battle|Motorcycle, Battle]]
 > - [[Motorcycle-Omni-Terrain|Motorcycle, Omni-Terrain]]
-> - [[Vacuum-Cycle|Vacuum Cycle]] 
+> - [[Vacuum-Cycle|Vacuum Cycle]]
 ##### Fantastic
->- [[Hover-Speedster|Hover Speedster]] 
+>- [[Hover-Speedster|Hover Speedster]]
 >- [[Hard-Light-Cycle|Hard-Light Cycle]]
 >- [[Hover-Speedster-Battle|Hover Speedster, Battle]]
- 
+
 #### Cars
 Buying a car at the bottom of its price range usually means the car isn’t top quality. Such vehicles have a depletion of 1 in 1d100 (check per day used)
 ##### [[Wheeled-Vehicle-Gm-Intrusions|Wheeled Vehicle Gm Intrusions]]
-##### Contemporary 
+##### Contemporary
 >- [[Car-Used|Car, Used]]
->- [[Car-Sedan|Car, Sedan]] 
+>- [[Car-Sedan|Car, Sedan]]
 >-  [[Car-Sports|Car, Sports]]
 >- [[Car-Utility|Car, Utility]]
 ##### Advanced
@@ -554,11 +554,11 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 >- [[Land-Ark-Battle|Land Ark, Battle]]
 >- [[Moon-Buggy|Moon Buggy]]
 ##### Fantastic
->- [[Car-Flying|Car, Flying]] 
+>- [[Car-Flying|Car, Flying]]
 >- [[Car-Smart|Car, Smart]]
 #### Aircraft
 ##### [[Hovering-and-Flying-Vehicle-Gm-Intrusions|Hovering and Flying Vehicle Gm Intrusions]]
-##### Contemporary 
+##### Contemporary
 >- [[Airplane-Basic|Airplane, Basic]]
 >- [[Helicopter]]
 >- [[Fighter-Jet|Fighter Jet]]
@@ -568,7 +568,7 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 >- [[VTOL-Hyperjet|VTOL Hyperjet]]
 >- [[VTOL-Stealthjet|VTOL Stealthjet]]
 >- [[VTOL-Seawing|VTOL Seawing]]
->- [[Zeppelin-Yacht|Zeppelin, Yacht]] 
+>- [[Zeppelin-Yacht|Zeppelin, Yacht]]
 ##### Fantastic
 >- [[Hoverboard]]
 >- [[Orb-Personal|Orb, Personal]]
@@ -576,7 +576,7 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 >- [[Teleportation-Disc|Teleportation Disc]]
 #### Seacraft
 ##### [[Seacraft-Gm-Intrusions|Seacraft Gm Intrusions]]
-##### Contemporary 
+##### Contemporary
 >- [[Jet-Ski|Jet Ski]]
 >- [[Motorboat]]
 >- [[Motorboat-Performance|Motorboat, Performance]]
@@ -592,22 +592,22 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 ##### Fantastic
 >- [[Manta]]
 #### Mechs and Tanks
-##### Contemporary 
+##### Contemporary
 >- [[Tank]]
-##### Advanced 
+##### Advanced
 >- [[Mech-Loader|Mech, Loader]]
 >- [[Mech-Infantry|Mech, Infantry]]
->- [[Mech-Interceptor|Mech, Interceptor]] 
-##### Fantastic 
->- [[Colossal-Battle-Mech|Colossal Battle Mech]] 
+>- [[Mech-Interceptor|Mech, Interceptor]]
+##### Fantastic
+>- [[Colossal-Battle-Mech|Colossal Battle Mech]]
 ### Spacecraft Listing
-Most spacecraft have the capacity to reach orbit from the surface of the planet, if not radically more advanced capabilities. All spacecraft completely enclose their crew in a sealed cabin (or series of chambers) with life support suitable for days, weeks, or much longer. Most spacecraft also come with one or more spare space suits, tools, a few spare parts, and so on. Advanced and fantastic spacecraft also have sensors that provide enough astronavigation information to plot and fly to their destinations. 
+Most spacecraft have the capacity to reach orbit from the surface of the planet, if not radically more advanced capabilities. All spacecraft completely enclose their crew in a sealed cabin (or series of chambers) with life support suitable for days, weeks, or much longer. Most spacecraft also come with one or more spare space suits, tools, a few spare parts, and so on. Advanced and fantastic spacecraft also have sensors that provide enough astronavigation information to plot and fly to their destinations.
 
 PCs in spacecraft can travel to other moons, planets, space stations, and perhaps even other solar systems. PCs in spacecraft may also get caught up in space combat (see the [[Optional-Rules-Extended-Vehicular-Combat|Extended Vehicular Combat (Spacecraft Combat)]]) and run across space hazards.
 
 ##### [[Spacecraft-Gm-Intrusions|Spacecraft Gm Intrusions]]
 ##### Spacecraft Upkeep
-Each month of spacecraft operation usually requires that the PCs pay for fuel, feedstocks, and other upkeep. The level of the spacecraft determines upkeep. 
+Each month of spacecraft operation usually requires that the PCs pay for fuel, feedstocks, and other upkeep. The level of the spacecraft determines upkeep.
 
 | Level | Upkeep Cost    |
 |-------|----------------|
@@ -617,7 +617,7 @@ Each month of spacecraft operation usually requires that the PCs pay for fuel, f
 | 8-9   | Exorbitant     |
 | 10    | Priceless      |
 
-##### Solar System Travel Times 
+##### Solar System Travel Times
 
 | Origin        | Destination           | Travel Time– Nuclear Plasma |
 |---------------|-----------------------|-----------------------------|
@@ -635,40 +635,40 @@ Each month of spacecraft operation usually requires that the PCs pay for fuel, f
 Older spacecraft and starships are often retrofitted with more advanced power sources, and more importantly, FTL drives, in order to give them the ability to move further. The main reason to do this is that such ships cost much less, especially if retrofitted advanced ships are available in a fantastic setting, but even for craft within the same tech rating. During vehicular combat, retrofitted ships are treated as if 1 level lower than their actual level for purposes of level comparison in combat if they are fighting FTL-capable fantastic-rated starships.
 ##### Contemporary Power
 ###### Solar Panels
->Usually flat panels that convert sunlight to electricity, which can be used for a variety of onboard systems, including powering ion drives. 
+>Usually flat panels that convert sunlight to electricity, which can be used for a variety of onboard systems, including powering ion drives.
 ###### RTGs
->When solar panels are not an option, as is often the case for spacecraft that operate far from the sun or on a planetary surface with lots of dust or shadow, RTGs (radioisotope thermoelectric generators) are good long-term power sources for electric power, which can be used for a variety of onboard systems, including powering ion drives. The heart of an RTG is an embedded mass of atomic isotope, such as plutonium-238. 
-##### Contemporary Drives 
-###### Rocket 
->A rocket engine produces thrust by expelling reaction mass, usually in thundering expanding white clouds from the rocket’s base propulsion nozzle. Most contemporary spacecraft use a mix of several rockets and fuel types. Rockets are the primary constituent of a heavy-lift launch spacecraft. 
+>When solar panels are not an option, as is often the case for spacecraft that operate far from the sun or on a planetary surface with lots of dust or shadow, RTGs (radioisotope thermoelectric generators) are good long-term power sources for electric power, which can be used for a variety of onboard systems, including powering ion drives. The heart of an RTG is an embedded mass of atomic isotope, such as plutonium-238.
+##### Contemporary Drives
+###### Rocket
+>A rocket engine produces thrust by expelling reaction mass, usually in thundering expanding white clouds from the rocket’s base propulsion nozzle. Most contemporary spacecraft use a mix of several rockets and fuel types. Rockets are the primary constituent of a heavy-lift launch spacecraft.
 ###### Ion Thruster
 > on thrusters can use solar panels or RTGs (or both) to expel ions (or cations) to produce thrust over long periods, which allows a spacecraft to build up speed over large periods of time. The bleeding edge of contemporary ion thruster is VASIMR (Variable Specific Impulse Magnetoplasma Rocket), which could drastically reduce travel times around the solar system, if perfected.
-##### Advanced Power 
+##### Advanced Power
 ######  Fusion Power
->Electrical generation by using heat from nuclear fusion reactions, requiring relatively small fuel input for much higher-power output. Fuel sources include helium-3 (abundant on the Moon and other locations in the solar system without an atmosphere). 
-##### Advanced Drives 
+>Electrical generation by using heat from nuclear fusion reactions, requiring relatively small fuel input for much higher-power output. Fuel sources include helium-3 (abundant on the Moon and other locations in the solar system without an atmosphere).
+##### Advanced Drives
 ######  Nuclear Plasma
-.Essentially, nuclear plasma drives are just very advanced ion thrusters, the promised “perfected” version. These are great, unless the setting has fusion drives, in which case nuclear plasma drives may seem quaint. 
+.Essentially, nuclear plasma drives are just very advanced ion thrusters, the promised “perfected” version. These are great, unless the setting has fusion drives, in which case nuclear plasma drives may seem quaint.
 ##### Fusion Drive
 >Relying on fusion power, a fusion drive is an order of magnitude more efficient than a contemporary ion thruster. A fusion drive does not require the creation of electricity to ionize propellent, but instead directly uses the fusion product as an exhaust to provide thrust.
-##### Fantastic Power 
+##### Fantastic Power
 ###### Antimatter Power
->Antimatter particles have opposite charge from their matter counterparts, giving them potentially explosive properties when combined, producing energy an order of magnitude more than a fusion power system. Fuel sources include both antimatter as well as Li2 (an atom with 2 lithium ions), important for controlled matter-antimatter reaction so it can be harnessed for power. 
+>Antimatter particles have opposite charge from their matter counterparts, giving them potentially explosive properties when combined, producing energy an order of magnitude more than a fusion power system. Fuel sources include both antimatter as well as Li2 (an atom with 2 lithium ions), important for controlled matter-antimatter reaction so it can be harnessed for power.
 ###### Singularity Power
->Taps energy from Hawking radiation and rotational energy of a spinning micro-black hole to generate energy an order of magnitude more than nuclear power. Fuel source is a micro-black hole. 
+>Taps energy from Hawking radiation and rotational energy of a spinning micro-black hole to generate energy an order of magnitude more than nuclear power. Fuel source is a micro-black hole.
 ###### Zero-Point Generator
->Vacuum energy is created by normal fluctuation in the quantum field of normal space-time. This zero-point radiation of the vacuum provides arbitrary (possibly limitless) amounts of energy with no fuel other than the initial resources required to build the generator. 
-##### Fantastic Drives 
+>Vacuum energy is created by normal fluctuation in the quantum field of normal space-time. This zero-point radiation of the vacuum provides arbitrary (possibly limitless) amounts of energy with no fuel other than the initial resources required to build the generator.
+##### Fantastic Drives
 ###### Warp Drive
 >A warp drive uses enormous power to distort the fabric of space-time to create a bubble surrounding the starship. The bubble moves by compressing space-time in front of it and expanding space-time behind it, moving independently of the rest of the universe to achieve apparent FTL travel. Warp drives can achieve objective speeds of up to 500 times the speed of light at maximum power.
 ###### Hyperdrive
->Similar to warp drive in some ways, but pushes the ship into a different realm of existence, often called hyperspace, where laws of physics differ significantly and many more dimensions are accessible, allowing a ship to greatly surpass the speed of light before returning to normal space. Hyperdrives can achieve objective speeds of up to 1000 times the speed of light at maximum power. 
+>Similar to warp drive in some ways, but pushes the ship into a different realm of existence, often called hyperspace, where laws of physics differ significantly and many more dimensions are accessible, allowing a ship to greatly surpass the speed of light before returning to normal space. Hyperdrives can achieve objective speeds of up to 1000 times the speed of light at maximum power.
 ###### Wormhole Drive
->A wormhole drive uses enormous power to open a shortcut between two locations in space-time and travel between those points in a matter of seconds. Most wormhole drives rely on regions of space where wormholes can be formed, or on previously established networks of wormhole tunnels that the wormhole drive accesses. Which means that while travel between two points might be almost instantaneous, travel to and from wormhole-viable locations could greatly increase travel times. Likewise, wormholes can normally only bridge locations up to 200 or so light-years at a time (which means it would take about 500 jumps to cross the Milky Way galaxy from end to end). 
+>A wormhole drive uses enormous power to open a shortcut between two locations in space-time and travel between those points in a matter of seconds. Most wormhole drives rely on regions of space where wormholes can be formed, or on previously established networks of wormhole tunnels that the wormhole drive accesses. Which means that while travel between two points might be almost instantaneous, travel to and from wormhole-viable locations could greatly increase travel times. Likewise, wormholes can normally only bridge locations up to 200 or so light-years at a time (which means it would take about 500 jumps to cross the Milky Way galaxy from end to end).
 ###### Dark Drive
 >A dark drive (short for “dark matter quantum drive”) uses enormous power to enable point-to-point transitions between other locations in the galaxy (or universe) using previously unrealized entanglement between normal matter and dark matter. However, objective travel time is variable and somewhat arbitrary; sometimes a trip may take minutes, other times days or months. For those aboard, relative travel time seems constant at about four solar hours, no matter the distance traveled, or the objective time noted by external observers.
 #### Pioneer-era Spacecraft
-Though extremely complex, pioneer-era spacecraft are not robust vehicles. Technology allowing re-use of components is still in its infancy in these contemporary tech spacecraft, and small problems have a way of becoming major catastrophes if not caught and quickly dealt with. In fact, that very complexity exacts a toll. 
+Though extremely complex, pioneer-era spacecraft are not robust vehicles. Technology allowing re-use of components is still in its infancy in these contemporary tech spacecraft, and small problems have a way of becoming major catastrophes if not caught and quickly dealt with. In fact, that very complexity exacts a toll.
 
 Generally speaking, all tasks for operating a pioneer-era spacecraft are hindered by two steps. Only the very well trained (or the very lucky) should even consider trying to operate such a craft. Finally, pioneer-era spacecraft usually don’t have weapon systems.
 ##### Contemporary
@@ -691,7 +691,7 @@ Advanced spacecraft have advanced propulsion technologies, allowing them to move
 >- [[Spacecraft-Dragonfly-Class|Spacecraft, Dragonfly Class]]
 >- [[Spacecraft-Exploration-Class|Spacecraft, Exploration Class]]
 >- [[Spacecraft-Corvette-Class|Spacecraft, Corvette Class]]
->- [[Spacecraft-Destroyer-Class|Spacecraft, Destroyer Class]] 
+>- [[Spacecraft-Destroyer-Class|Spacecraft, Destroyer Class]]
 >- [[Spacecraft-Dreadnought|Spacecraft, Dreadnought]]
 >- [[Skyhook]]
 >- [[Space-Elevator|Space Elevator]]
@@ -720,12 +720,12 @@ Stellar gates open wormholes between two fixed points at different locations wit
 #### Space-Time Vehicles
 Space-time vehicles allow for movement between different points in both space and time. Such vehicles are vanishingly rare, and timelines in which they are active tend to eventually snuff themselves out due to accidental paradox events, limiting their availability even further. As with stellar gates, space-time vehicles are so complex that it’s likely they are the product of ancient ultras or post-singularity AIs, and could be treated as artifacts with a depletion of 1 in 1d20.
 ##### Fantastic
->- [[Car-Temporal-or-Dimensional|Car, Temporal or Dimensional]] 
+>- [[Car-Temporal-or-Dimensional|Car, Temporal or Dimensional]]
 >- [[Matrix-Temporal|Matrix, Temporal]]
 ### Vehicles as Artifacts
-Cypher System artifacts in a science fiction setting could potentially be any one of the vehicles presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially weird and hard-to-grok objects are everywhere. 
+Cypher System artifacts in a science fiction setting could potentially be any one of the vehicles presented in this chapter, if found by characters in a less advanced setting than its tech rating. That said, even in advanced or fantastic settings, opportunities to find especially weird and hard-to-grok objects are everywhere.
 
-A couple of examples of such artifacts are presented here. 
+A couple of examples of such artifacts are presented here.
 >- [[Gate-Ring|Gate Ring]]
 >- [[Fractal-Traveler|Fractal Traveler]]
 ### Starships

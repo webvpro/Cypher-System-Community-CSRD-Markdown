@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Extra Recovery  
+
+## Extra Recovery
 >**Enabler**
-  
+
 You gain an additional one-action recovery each day. Enabler.

@@ -9,11 +9,11 @@ tags:
 
 ---
 
-  
-## Arrows (12)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+
+## Arrows (12)
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
 >> - Ammunition

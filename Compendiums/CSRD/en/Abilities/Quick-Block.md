@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Quick Block  
+
+## Quick Block
 >**Enabler**
-  
+
 If you use a light or medium weapon, you are trained in Speed defense tasks. Enabler.

@@ -1,14 +1,14 @@
 ---
-aliases: 
+aliases:
 - "Rules of the Game"
 - "This is How You Play the Cypher System"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Rules-of-the-Game
 - Rules/Basic
 - Rule/Damge-From-Hazards
 - Rule
 ---
-# Rules of the Game  
+# Rules of the Game
 Cypher System games are played in the joint imagination of all the players, including the GM. The GM sets the scene, the players state what their characters attempt to do, and the GM determines what happens next. The rules and the dice help make the game run smoothly, but it’s the people, not the rules or the dice, that direct the action and determine the story—and the fun. If a rule gets in the way or detracts from the game, the players and the GM should work together to change it.
 
 ## This is How You Play the Cypher System
@@ -17,114 +17,114 @@ Cypher System games are played in the joint imagination of all the players, incl
 >2. The GM determines if that action is routine (and therefore works without needing a roll) or if there’s a chance of failure.
 
 >3.  If there is a chance of failure, the GM determines which stat the task uses (Might, Speed, or Intellect) and the task’s difficulty—how hard it will be on a scale from 1 (really easy) to 10 (basically impossible).
- 
+
 >4. The player and the GM determine if anything about the character—such as training, equipment, special abilities, or various actions—can modify the difficulty up or down by one or more steps. If these modifications reduce the difficulty to less than 1, the action is routine (and therefore works with no roll needed).
 
->5. If the action still isn’t routine, the GM uses its difficulty to determine the target number how high the player must roll to succeed at the action (see the [[Task-Difficulty| Task Difficulty table]]). The GM doesn’t have to tell the player what the target number is, but they can give the player a hint, especially if the character would reasonably know if the action was easy, average, difficult, or impossible.  
+>5. If the action still isn’t routine, the GM uses its difficulty to determine the target number how high the player must roll to succeed at the action (see the [[Task-Difficulty| Task Difficulty table]]). The GM doesn’t have to tell the player what the target number is, but they can give the player a hint, especially if the character would reasonably know if the action was easy, average, difficult, or impossible.
 
 >6.  The player rolls a d20. If they roll equal to or higher than the target number, the character succeeds.
 
 That’s it. That’s how to do anything, whether it’s identifying an unknown device, calming a raging drunk, climbing a treacherous cliff, or battling a demigod. Even if you ignored all the other rules, you could still play the Cypher System with just this information. The key features here are: character actions, determining task difficulty, and determining modifications.
 ## Key Concepts
->**Action:** Anything a character does that is significant—punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.  
+>**Action:** Anything a character does that is significant—punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.
 
 >**Character:** Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be “characters.”
 
->**Difficulty:** A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called “hindering.” Altering it to make a task easier is called “easing.” All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.  
+>**Difficulty:** A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called “hindering.” Altering it to make a task easier is called “easing.” All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.
 
->**Ease:** A decrease in a task’s difficulty, usually by one step. If something doesn’t say how many steps it eases a task, then it reduces the difficulty by one step.  
+>**Ease:** A decrease in a task’s difficulty, usually by one step. If something doesn’t say how many steps it eases a task, then it reduces the difficulty by one step.
 
->Effort: Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.  
+>Effort: Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.
 
->**Hinder:** An increase in a task’s difficulty, usually by one step. If something doesn’t say how many steps it hinders a task, then it increases the difficulty by one step.  
+>**Hinder:** An increase in a task’s difficulty, usually by one step. If something doesn’t say how many steps it hinders a task, then it increases the difficulty by one step.
 
->**Inability:** The opposite of trained—you’re hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.  
+>**Inability:** The opposite of trained—you’re hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.
 
->**Level:** A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent’s level determines how hard they are to hit or avoid in combat. A door’s level indicates how hard it is to break down. A lock’s level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels—for example, a PC’s tier does not determine a task’s difficulty.  
+>**Level:** A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent’s level determines how hard they are to hit or avoid in combat. A door’s level indicates how hard it is to break down. A lock’s level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels—for example, a PC’s tier does not determine a task’s difficulty.
 
->**Practiced:** The normal, unmodified ability to use a skill—not trained, specialized, or an inability. Your type determines what weapon skills you’re practiced in; if you aren’t practiced with a type of weapon, you have an inability in it.  
+>**Practiced:** The normal, unmodified ability to use a skill—not trained, specialized, or an inability. Your type determines what weapon skills you’re practiced in; if you aren’t practiced with a type of weapon, you have an inability in it.
 
->**Roll:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to “a roll,” it always means a d20 roll.  
+>**Roll:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to “a roll,” it always means a d20 roll.
 
-> **Round:** A length of time about five to ten seconds long. There are about ten rounds in  a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.  
+> **Round:** A length of time about five to ten seconds long. There are about ten rounds in  a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
 
- >**Specialized:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.  
- 
-> **Stat:** One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play—for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat’s Pool.  
- 
-> **Task:** Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.  
- 
-> **Trained:** Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task. 
+ >**Specialized:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.
+
+> **Stat:** One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play—for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat’s Pool.
+
+> **Task:** Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.
+
+> **Trained:** Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.
 
 >**Turn:** The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.
 
 
-### Tacking Action 
-Each character gets one turn each round. On a character’s turn, they can do one thing—an action. All actions fall into one of three categories: Might, Speed, or Intellect (just like the three stats). Many actions require die rolls rolling a d20.  
+### Tacking Action
+Each character gets one turn each round. On a character’s turn, they can do one thing—an action. All actions fall into one of three categories: Might, Speed, or Intellect (just like the three stats). Many actions require die rolls rolling a d20.
 
-Every action performs a task, and every task has a difficulty that determines what number a character must reach or surpass with a die roll to succeed.  
+Every action performs a task, and every task has a difficulty that determines what number a character must reach or surpass with a die roll to succeed.
 
-Most tasks have a difficulty of 0, which means the character succeeds automatically. For example, walking across a room, opening a door, and throwing a stone into a nearby bucket are all actions, but none of them requires a roll. Actions that are usually difficult or that become difficult due to the situation (such as shooting at a target in a blizzard) have a higher difficulty. These actions usually require a roll.  
+Most tasks have a difficulty of 0, which means the character succeeds automatically. For example, walking across a room, opening a door, and throwing a stone into a nearby bucket are all actions, but none of them requires a roll. Actions that are usually difficult or that become difficult due to the situation (such as shooting at a target in a blizzard) have a higher difficulty. These actions usually require a roll.
 
-Some actions require a minimum expenditure of Might, Speed, or Intellect points. If a character cannot spend the minimum number of points needed to complete the action, they automatically fail at the task.  
+Some actions require a minimum expenditure of Might, Speed, or Intellect points. If a character cannot spend the minimum number of points needed to complete the action, they automatically fail at the task.
 
 ### Determining Task Stat
-Every task relates to one of a character’s three stats: Might, Speed, or Intellect. Physical activities that require strength, power, or endurance relate to Might. Physical activities that require agility, flexibility, or fast reflexes relate to Speed. Mental activities that require force of will, memory, or mental power relate to Intellect. This means you can generalize tasks into three categories: Might tasks, Speed tasks, and Intellect tasks. You can also generalize rolls into three categories: Might rolls, Speed rolls, and Intellect rolls.  
+Every task relates to one of a character’s three stats: Might, Speed, or Intellect. Physical activities that require strength, power, or endurance relate to Might. Physical activities that require agility, flexibility, or fast reflexes relate to Speed. Mental activities that require force of will, memory, or mental power relate to Intellect. This means you can generalize tasks into three categories: Might tasks, Speed tasks, and Intellect tasks. You can also generalize rolls into three categories: Might rolls, Speed rolls, and Intellect rolls.
 
-The category of the task or roll determines what kind of Effort you can apply to the roll and may determine how a character’s other abilities affect the roll. For example, an Adept may have an ability that makes them better at Intellect rolls, and a Warrior may have an ability that makes them better at Speed rolls.  
+The category of the task or roll determines what kind of Effort you can apply to the roll and may determine how a character’s other abilities affect the roll. For example, an Adept may have an ability that makes them better at Intellect rolls, and a Warrior may have an ability that makes them better at Speed rolls.
 
 ### Determining Task Difficulty
-The most frequent thing a GM does during the game—and probably the most important thing is set a task’s difficulty. To make the job easier, use the Task Difficulty table, which associates a difficulty rating with a descriptive name, a target number, and general guidance about the difficulty.  
+The most frequent thing a GM does during the game—and probably the most important thing is set a task’s difficulty. To make the job easier, use the Task Difficulty table, which associates a difficulty rating with a descriptive name, a target number, and general guidance about the difficulty.
 
-Every difficulty from 1 to 10 has a target number associated with it. The target number is easy to remember: it’s always three times the difficulty. The target number is the minimum number a player needs to roll on a d20 to succeed at the task. Moving up or down on the table is called hindering or easing, which is measured in steps.  
+Every difficulty from 1 to 10 has a target number associated with it. The target number is easy to remember: it’s always three times the difficulty. The target number is the minimum number a player needs to roll on a d20 to succeed at the task. Moving up or down on the table is called hindering or easing, which is measured in steps.
 
->[!example] For example  
->Reducing a difficulty 5 task to a difficulty 4 task is “easing the difficulty by one step” or just “easing the difficulty” or “easing the task.” Most modifiers affect the difficulty rather than the player’s roll. This has two consequences:  
->>Low target numbers such as 3 or 6, which would be boring in most games that use a d20, are not boring in the Cypher System. For example, if you need to roll a 6 or higher, you still have a 25% chance to fail.  
+>[!example] For example
+>Reducing a difficulty 5 task to a difficulty 4 task is “easing the difficulty by one step” or just “easing the difficulty” or “easing the task.” Most modifiers affect the difficulty rather than the player’s roll. This has two consequences:
+>>Low target numbers such as 3 or 6, which would be boring in most games that use a d20, are not boring in the Cypher System. For example, if you need to roll a 6 or higher, you still have a 25% chance to fail.
 >
->>The upper levels of difficulty (7, 8, 9, and 10) are all but impossible because the target numbers are 21 or higher, which you can’t roll on a d20. However, it’s common for PCs to have abilities or equipment that ease a task and thus lower the target number to something they can roll on a d20. 
+>>The upper levels of difficulty (7, 8, 9, and 10) are all but impossible because the target numbers are 21 or higher, which you can’t roll on a d20. However, it’s common for PCs to have abilities or equipment that ease a task and thus lower the target number to something they can roll on a d20.
 
 A character’s tier does not determine a task’s level. Things don’t get more difficult just because a character’s tier increases the world doesn’t instantly become a more difficult place. Fourth-tier characters don’t deal only with level 4 creatures or difficulty 4 tasks (although a fourth-tier character probably has a better shot at success than a first-tier character does). Just because something is level 4 doesn’t necessarily mean it’s meant only for fourth-tier characters. Similarly, depending on the situation, a fifth-tier character could find a difficulty 2 task just as challenging as a second-tier character does.
-Therefore, when setting the difficulty of a task, the GM should rate the task on its own merits, not on the power of the characters.  
+Therefore, when setting the difficulty of a task, the GM should rate the task on its own merits, not on the power of the characters.
 
 ### Modifying the Difficulty
-After the GM sets the difficulty for a task, the player can try to modify it for their character. Any such modification applies only to this particular attempt at the task. In other words, rewiring an electronic door lock normally might be difficulty 6, but since the character doing the work is skilled in such tasks, has the right tools, and has another character assisting them, the difficulty in this instance might be much lower. That’s why it’s important for the GM to set a task’s difficulty without taking the character into account. The character comes in at this step.  
+After the GM sets the difficulty for a task, the player can try to modify it for their character. Any such modification applies only to this particular attempt at the task. In other words, rewiring an electronic door lock normally might be difficulty 6, but since the character doing the work is skilled in such tasks, has the right tools, and has another character assisting them, the difficulty in this instance might be much lower. That’s why it’s important for the GM to set a task’s difficulty without taking the character into account. The character comes in at this step.
 
 By using skills and assets, working together, and perhaps most important applying Effort, a character can ease a task by multiple steps to make it easier. Rather than adding bonuses to the player’s roll, reducing the difficulty lowers the target number. If they can reduce the difficulty of a task to 0, no roll is needed; success is automatic. (An exception is if the GM decides to use a GM intrusion on the task, in which case the player would have to make a roll at the original difficulty.)
 
 There are three basic ways in which a character can ease a task: skills, assets, and Effort. Each method eases the task by at least one step never in smaller increments.
 
->[!tip]  
+>[!tip]
 >By using skills, assets, and Effort, a character can ease a task by a maximum of ten steps: one or two steps from skills, one or two steps from assets, and one to six steps from Effort.
 
 >**Skills**
 >Characters may be skilled at performing a specific task. A skill can vary from character to character. For example, one character might be skilled at lying, another might be skilled at trickery, and a third might be skilled in all interpersonal interactions. The first level of being skilled is called being trained, and it eases that task by one step. More rarely, a character can be incredibly skilled at performing a task. This is called being specialized, and it eases the task by two steps instead of one. Skills can never decrease a task by more than two steps any more than two steps from being trained and specialized don’t count.
 
->**Assets**  
->An asset is anything that helps a character with a task, such as having a really good crowbar when trying to force open a door or being in a rainstorm when trying to put out a fire. Appropriate assets vary from task to task. The perfect awl might help when woodworking, but it won’t make a dance performance much better. An asset usually eases a task by one step. Assets can never ease a task by more than two steps—any more than two steps from assets don’t count.  
->>[!note]  
->>The important thing to remember is that a skill can reduce the difficulty by no more than two steps, and assets can reduce the difficulty by no more than two steps, regardless of the situation. Thus, no task’s difficulty will ever be reduced by more than four steps without 
+>**Assets**
+>An asset is anything that helps a character with a task, such as having a really good crowbar when trying to force open a door or being in a rainstorm when trying to put out a fire. Appropriate assets vary from task to task. The perfect awl might help when woodworking, but it won’t make a dance performance much better. An asset usually eases a task by one step. Assets can never ease a task by more than two steps—any more than two steps from assets don’t count.
+>>[!note]
+>>The important thing to remember is that a skill can reduce the difficulty by no more than two steps, and assets can reduce the difficulty by no more than two steps, regardless of the situation. Thus, no task’s difficulty will ever be reduced by more than four steps without
 
->**Effort**  
->A player can apply Effort to ease a task. To do this, the player spends points from the stat Pool that’s most appropriate to the task. For example, applying Effort to push a heavy rock off a cliff requires a player to spend points from the character’s Might Pool; applying Effort to activate an unusual machine interface requires them to spend points from the character’s Intellect Pool. For every level of Effort spent on a task, the task is eased. It costs 3 points from a stat Pool to apply one level of Effort, and it costs 2 additional points for every level thereafter (so it costs 5 points for two levels of Effort, 7 points for three levels of Effort, and so on). A character must spend points from the same stat Pool as the type of task or roll Might points for a Might roll, Speed points for a Speed roll, or Intellect points for an Intellect roll.  
+>**Effort**
+>A player can apply Effort to ease a task. To do this, the player spends points from the stat Pool that’s most appropriate to the task. For example, applying Effort to push a heavy rock off a cliff requires a player to spend points from the character’s Might Pool; applying Effort to activate an unusual machine interface requires them to spend points from the character’s Intellect Pool. For every level of Effort spent on a task, the task is eased. It costs 3 points from a stat Pool to apply one level of Effort, and it costs 2 additional points for every level thereafter (so it costs 5 points for two levels of Effort, 7 points for three levels of Effort, and so on). A character must spend points from the same stat Pool as the type of task or roll Might points for a Might roll, Speed points for a Speed roll, or Intellect points for an Intellect roll.
 >
->Every character has a maximum level of Effort they can apply to a single task. Effort can never ease a task by more than six steps any more than six steps from applying Effort doesn’t count.  
+>Every character has a maximum level of Effort they can apply to a single task. Effort can never ease a task by more than six steps any more than six steps from applying Effort doesn’t count.
 >
 >Free Level of Effort: A few abilities give you a free level of Effort (these usually require you to apply at least one level of Effort to a task). In effect, you’re getting one more level of Effort than what you paid for. This free level of Effort can exceed the Effort limit for your character, but not the six-step limit for easing a task.
 
 ## [[Rolling-Dice#Rolling the Dice|Rolling Dice]]
 
-## Retrying a Task After Failure  
+## Retrying a Task After Failure
 If a character fails a task (whether it’s climbing a wall, picking a lock, trying to figure out a mysterious device, or something else) they can attempt it again, but they must apply at least one level of Effort when retrying that task. A retry is a new action, not part of the same action that failed, and it takes the same amount of time as the first attempt did.
 
-Sometimes the GM might rule that retries are impossible. Perhaps a character has one chance to convince the leader of a group of thugs not to attack, and after that, no amount of talking will stop them.  
+Sometimes the GM might rule that retries are impossible. Perhaps a character has one chance to convince the leader of a group of thugs not to attack, and after that, no amount of talking will stop them.
 
  This rule doesn’t apply to something like attacking a foe in combat because combat is always changing and fluid. Each round’s situation is new, not a repeat of a previous situation, so a missed attack can’t be retried.
 
-## Initial Cost  
-The GM can assign a point cost to a task just for trying it. Called an initial cost, it’s simply an indication that the task is particularly taxing. For example, let’s say a character wants to try a Might action to open a heavy cellar door that is partially rusted shut. The GM says that forcing the door open is a difficulty 5 task, and there’s an initial cost of 3 Might points simply to try. This initial cost is in addition to any points the character chooses to spend on the roll (such as when applying Effort), and the initial cost points do not affect the difficulty of the task. In other words, the character must spend 3 Might points to attempt the task at all, but that doesn’t help them open the door. If they want to apply Effort to ease the task, they have to spend more points from their Might Pool.  
+## Initial Cost
+The GM can assign a point cost to a task just for trying it. Called an initial cost, it’s simply an indication that the task is particularly taxing. For example, let’s say a character wants to try a Might action to open a heavy cellar door that is partially rusted shut. The GM says that forcing the door open is a difficulty 5 task, and there’s an initial cost of 3 Might points simply to try. This initial cost is in addition to any points the character chooses to spend on the roll (such as when applying Effort), and the initial cost points do not affect the difficulty of the task. In other words, the character must spend 3 Might points to attempt the task at all, but that doesn’t help them open the door. If they want to apply Effort to ease the task, they have to spend more points from their Might Pool.
 
-Edge helps with the initial cost of a task, just as it does with any expenditure from a character’s Pool. In the previous example, if the character had a Might Edge of 2, they would have to spend only 1 point (3 points minus 2 from their Might Edge) for the initial cost to attempt the task. If they also applied a level of Effort to open the door, they couldn’t use their Edge again—Edge applies only once per action—so using the Effort would cost the full 3 points. Thus, they’d spend a total of 4 points (1 for the initial cost plus 3 for the Effort) from their Might Pool.  
+Edge helps with the initial cost of a task, just as it does with any expenditure from a character’s Pool. In the previous example, if the character had a Might Edge of 2, they would have to spend only 1 point (3 points minus 2 from their Might Edge) for the initial cost to attempt the task. If they also applied a level of Effort to open the door, they couldn’t use their Edge again—Edge applies only once per action—so using the Effort would cost the full 3 points. Thus, they’d spend a total of 4 points (1 for the initial cost plus 3 for the Effort) from their Might Pool.
 
 The rationale of the initial cost rule is that even in the Cypher System, where things like Effort can help a character succeed on an action, logic still suggests that some actions are very difficult and taxing, particularly for some PCs more than others.
 
@@ -133,33 +133,33 @@ Distance is simplified into four basic categories: immediate, short, long, and v
 
 >Immediate distance from a character is within reach or within a few steps; if a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m). Immediate distance is sometimes referred to as close, or even point-blank, particularly when referring to ranges.
 
->[!note]  
+>[!note]
 >The words “immediate” and “close” can be used interchangeably to talk about distance. If a creature or object is within arm’s reach of the character, it can be considered both immediate and close.
 
->Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so. 
+>Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so.
 
->Long distance is anything greater than short distance but less than 100 feet (30 m) or so. 
+>Long distance is anything greater than short distance but less than 100 feet (30 m) or so.
 
->Very long distance is anything greater than long distance but less than 500 feet (150 m) or so.  
+>Very long distance is anything greater than long distance but less than 500 feet (150 m) or so.
 
 >Beyond that range, distances are always specified—1,000 feet (300 m), 1 mile (1.5 km), and so on.
 
 All weapons and special abilities use these terms for ranges. For example, all melee weapons have immediate range—they are close-combat weapons, and you can use them to attack anyone within immediate distance. A thrown knife (and most other thrown weapons) has short range. A small handgun also has short range. A rifle has long range.
 A character can move an immediate distance as a part of another action. In other words, they can take a few steps to the light switch and flip it on. They can lunge across a small room to attack a foe. They can open a door and step through.
 
-A character can move a short distance as their entire action for a turn. They can also try to move a long distance as their entire action, but the player might have to roll to see if the character slips, trips, or stumbles for moving so far so quickly.  
+A character can move a short distance as their entire action for a turn. They can also try to move a long distance as their entire action, but the player might have to roll to see if the character slips, trips, or stumbles for moving so far so quickly.
 
 GMs and players don’t need to determine exact distances. For example, if the PCs are fighting a group of guards, any character can likely attack any foe in the general melee—they’re all within immediate range. However, if one trooper stays back to fire a blaster, a character might have to use their entire action to move the short distance required to attack that foe. It doesn’t matter if the trooper is 20 feet (6 m) or 40 feet (12 m) away—it’s simply considered short distance. It does matter if the trooper is more than 50 feet (15 m) away because that distance would require a long move.
 
->[!example] Other Distances  
->In rare cases where distances beyond very long are needed, real-world distances are best (1 mile, 100 kilometers, and so on). However, the following shorthand distances can be useful in some settings:   
->>Planetary: On the same planet.  
+>[!example] Other Distances
+>In rare cases where distances beyond very long are needed, real-world distances are best (1 mile, 100 kilometers, and so on). However, the following shorthand distances can be useful in some settings:
+>>Planetary: On the same planet.
 >
->>Interplanetary: Within the same solar system. 
+>>Interplanetary: Within the same solar system.
 >
->>Interstellar: Within the same galaxy.  
+>>Interstellar: Within the same galaxy.
 >
->>Intergalactic: Anywhere in the same universe. 
+>>Intergalactic: Anywhere in the same universe.
 >
 >>Interdimensional: Anywhere.
 
@@ -170,7 +170,7 @@ This is true even when a special ability has a specific duration. In an encounte
 
 ### [[Timekeeping|Timekeeping Table]]
 
-### Encounters, Rounds, and Initiative 
+### Encounters, Rounds, and Initiative
 Sometimes in the course of the game, the GM or players will refer to an “encounter.” Encounters are not so much measurements of time as they are events or instances in which something happens, like a scene of a movie or a chapter in a book. An encounter might be a fight with a foe, a dramatic crossing of a raging river, or a stressful negotiation with an important official. It’s useful to use the word when referring to a specific scene, as in “My Might Pool is low after that encounter with the soul sorcerer yesterday.”
 
 A round is about five to ten seconds. The length of time is variable because sometimes one round might be a bit longer than another. You don’t need to measure time more precisely than that. You can estimate that on average there are about ten rounds in a minute. In a round, everyone each character and NPC gets to take one action.
@@ -181,7 +181,7 @@ To determine who goes first, second, and so on in a round, each player makes a S
 
 The order in which the characters act usually isn’t important. If the players want to go in a precise order, they can act in initiative order (highest to lowest), by going around the table, by going oldest to youngest, and so on.
 
->[!example] 
+>[!example]
 >Charles, Tammie, and Shanna’s characters are in combat with two level 2 security guards. The GM has the players make Speed rolls to determine initiative. Charles rolls an 8, Shanna rolls a 15, and Tammie rolls a 4. The target number for a level 2 creature is 6, so each round Charles and Shanna act before the guards, then the guards act, and finally Tammie acts. It doesn’t matter whether Charles acts before or after Shanna, as long as they think it’s fair.
 
 After everyone all PCs and NPCs in the combat has had a turn, the round ends and a new round begins. In all rounds after the first, everyone acts in the same order as they did in the first round. The characters cycle through this order until the logical end of the encounter (the end of the fight or the completion of the event) or until the GM asks them to make new initiative rolls. The GM can call for new initiative rolls at the beginning of any new round when conditions drastically change. For example, if the NPCs gain reinforcements, the environment changes (perhaps the lights go out), the terrain changes (maybe part of the balcony collapses under the PCs), or something similar occurs, the GM can call for new initiative rolls.
@@ -198,13 +198,13 @@ Opening a door and attacking a security guard on the other side are two actions.
 If the action you want to accomplish is not within reach, you can move a little bit. Essentially, you can move up to an immediate distance to perform your action. For example, you can move an immediate distance and attack a foe, open a door and move an immediate distance into the hallway beyond, or grab your hurt friend lying on the ground and pull them back a few steps. This movement can occur before or after your action, so you can move to a door and open it, or you can open a door and move through it.
 The most common actions are:
 > - Attack
-> - Activate a special ability (one that isn’t an attack)  
-> - Move 
-> - Wait  
-> - Defend  
+> - Activate a special ability (one that isn’t an attack)
+> - Move
+> - Wait
+> - Defend
 > - Do something else
 ### Action: Attack
-An attack is anything that you do to someone that they don’t want you to do. Slashing a foe with a curved dagger is an attack, blasting a foe with a lightning artifact is an attack, wrapping a foe in magnetically controlled metal cables is an attack, and controlling someone’s mind is an attack. An attack almost always requires a roll to see if you hit or otherwise affect your target. 
+An attack is anything that you do to someone that they don’t want you to do. Slashing a foe with a curved dagger is an attack, blasting a foe with a lightning artifact is an attack, wrapping a foe in magnetically controlled metal cables is an attack, and controlling someone’s mind is an attack. An attack almost always requires a roll to see if you hit or otherwise affect your target.
 
 In the simplest kind of attack, such as a PC trying to stab a thug with a knife, the player rolls and compares their result to the opponent’s target number. If their roll is equal to or greater than the target number, the attack hits. Just as with any kind of task, the GM might modify the difficulty based on the situation, and the player might have a bonus to the roll or might try to ease the task using skills, assets, or Effort.
 
@@ -228,16 +228,16 @@ Objects don’t have stat Pools or health. They have an object damage track, jus
 
 Damage is always a specific amount determined by the attack. For example, a slash with a broadsword or a blast with a spike thrower deals 4 points of damage. An Adept’s [[Onslaught|Onslaught]] deals 4 points of damage. Often, there are ways for the attacker to increase the damage. For example, a PC can apply Effort to deal 3 additional points of damage, and rolling a natural 17 on the attack roll deals 1 additional point of damage.
 
-#### Armor 
-Pieces of equipment and special abilities protect a character from damage by giving them Armor. Each time a character takes damage, subtract their Armor value from the damage before reducing their stat Pool or health. For example, if a Warrior with 2 Armor is hit by a gunshot that deals 4 points of damage, they take only 2 points of damage (4 minus 2 from their Armor). If Armor reduces the incoming damage to 0 or lower, the character takes no damage from the attack. For example, the Warrior’s 2 Armor protects them from all physical attacks that deal 1 or 2 points of damage.  
+#### Armor
+Pieces of equipment and special abilities protect a character from damage by giving them Armor. Each time a character takes damage, subtract their Armor value from the damage before reducing their stat Pool or health. For example, if a Warrior with 2 Armor is hit by a gunshot that deals 4 points of damage, they take only 2 points of damage (4 minus 2 from their Armor). If Armor reduces the incoming damage to 0 or lower, the character takes no damage from the attack. For example, the Warrior’s 2 Armor protects them from all physical attacks that deal 1 or 2 points of damage.
 
-The most common way to get Armor is to wear physical armor, such as a leather jacket, a bulletproof vest, a chainmail hauberk, bioengineered carapace grafts, or something else, depending on the setting. All physical armor comes in one of three categories: light, medium, or heavy. Light armor gives the wearer 1 point of Armor, medium gives 2 points of Armor, and heavy gives 3 points of Armor.  
+The most common way to get Armor is to wear physical armor, such as a leather jacket, a bulletproof vest, a chainmail hauberk, bioengineered carapace grafts, or something else, depending on the setting. All physical armor comes in one of three categories: light, medium, or heavy. Light armor gives the wearer 1 point of Armor, medium gives 2 points of Armor, and heavy gives 3 points of Armor.
 
-When you see the word “Armor” capitalized in the game rules (other than in the name of a special ability), it refers to your Armor characteristic—the number you subtract from incoming damage. When you see the word “armor” in lowercase, it refers to any physical armor you might wear.  
+When you see the word “Armor” capitalized in the game rules (other than in the name of a special ability), it refers to your Armor characteristic—the number you subtract from incoming damage. When you see the word “armor” in lowercase, it refers to any physical armor you might wear.
 
-Other effects can add to a character’s Armor. If a character is wearing chainmail (+2 to Armor) and has an ability that covers them in a protective force field that grants +1 to Armor, their total is 3 Armor. If they also use a cypher that hardens their flesh temporarily for +1 to Armor, their total is 4 Armor. 
+Other effects can add to a character’s Armor. If a character is wearing chainmail (+2 to Armor) and has an ability that covers them in a protective force field that grants +1 to Armor, their total is 3 Armor. If they also use a cypher that hardens their flesh temporarily for +1 to Armor, their total is 4 Armor.
 
-Some types of damage ignore physical armor. Attacks that specifically deal Speed damage or Intellect damage ignore Armor; the creature takes the listed amount of damage without any reduction from Armor. Ambient damage (see below) usually ignores Armor as well.  
+Some types of damage ignore physical armor. Attacks that specifically deal Speed damage or Intellect damage ignore Armor; the creature takes the listed amount of damage without any reduction from Armor. Ambient damage (see below) usually ignores Armor as well.
 
 A creature may have a special bonus to Armor against certain kinds of attacks. For example, a protective suit made of a sturdy, fire-resistant material might normally give its wearer +1 to Armor but count as +3 to Armor against fire attacks. An artifact worn as a helmet might grant +2 to Armor only against mental attacks.
 
@@ -250,35 +250,35 @@ Attacks aren’t the only way to inflict damage on a character. Experiences such
 
 #### Space Hazards
 A few specific hazards that you can include as part of an encounter involving a spacecraft follow. These hazards are more site specific than the general threats presented in Chapter 5: Conflicts of the Future.
- 
-##### Gravity Well  
-> All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play). 
-> 
-> Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen. 
-> >   Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation. 
->  
-> > Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)  
 
-##### Black Hole 
-> Black holes are just extreme gravity wells. All the dangers associated with a gravity well also apply to black holes. A couple of additional hazards are also associated with black holes, notably tidal destruction (“spaghettification”), time dilation, and being swallowed. 
-> > **Tidal Destructions:** Mechanically speaking, while a spacecraft feels tidal forces by passing too close to a black hole’s event horizon, all tasks aboard the craft are hindered, Void Rules are in effect, and if a GM intrusion is triggered thereby, the ship sustains major damage and risks coming apart. Meanwhile, PCs in the ship (assuming some sort of fantastic tech-rated gravity nullifier isn’t in use) suffer 1 point of ambient damage each round.  
-> >A ship near a very large black hole (like Sagittarius A*, the supermassive black hole at the center of the Milky Way Galaxy) can avoid tidal effects because the gravity gradient is so much wider, but still feel relativistic time dilation.  
->  
-> > **Relativistic Time Dealation:** From a mechanical perspective, spacecraft that survive close encounters with black holes and return to normal space discover that more time has passed than expected, which could range from fairly inconsequential minutes or hours, to far more serious days, months, years, centuries, or more.  
+##### Gravity Well
+> All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play).
+>
+> Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen.
+> >   Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
+>
+> > Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)
+
+##### Black Hole
+> Black holes are just extreme gravity wells. All the dangers associated with a gravity well also apply to black holes. A couple of additional hazards are also associated with black holes, notably tidal destruction (“spaghettification”), time dilation, and being swallowed.
+> > **Tidal Destructions:** Mechanically speaking, while a spacecraft feels tidal forces by passing too close to a black hole’s event horizon, all tasks aboard the craft are hindered, Void Rules are in effect, and if a GM intrusion is triggered thereby, the ship sustains major damage and risks coming apart. Meanwhile, PCs in the ship (assuming some sort of fantastic tech-rated gravity nullifier isn’t in use) suffer 1 point of ambient damage each round.
+> >A ship near a very large black hole (like Sagittarius A*, the supermassive black hole at the center of the Milky Way Galaxy) can avoid tidal effects because the gravity gradient is so much wider, but still feel relativistic time dilation.
+>
+> > **Relativistic Time Dealation:** From a mechanical perspective, spacecraft that survive close encounters with black holes and return to normal space discover that more time has passed than expected, which could range from fairly inconsequential minutes or hours, to far more serious days, months, years, centuries, or more.
 >
 >> **Past the Event Horizon:** The event horizon is the point of no return, where not even light can escape the clutch of gravity. If a spacecraft falls into a black hole, assuming it is not spaghettified by tidal forces, it is still lost from the universe of its origin. At least, it’s lost assuming no intervention from a fantastic tech-rated post-singularity AI or ancient ultra.
->  
+>
 >> **Radiation Belt/Solar Flare**
-> > Radiation belts of intensely charged particles trapped by magnetic fields around some planets and moons can surge, causing radiation exposure. An unexpected solar flare, or the drive plume of a massive spacecraft, can cause the same unexpected exposure.  
+> > Radiation belts of intensely charged particles trapped by magnetic fields around some planets and moons can surge, causing radiation exposure. An unexpected solar flare, or the drive plume of a massive spacecraft, can cause the same unexpected exposure.
 >
-> > **Ship Damage:** The ship suffers minor or major damage, requiring repair and perhaps even replacement of parts. This damage is as serious as you require for the purposes of creating an interesting story.  
-> 
+> > **Ship Damage:** The ship suffers minor or major damage, requiring repair and perhaps even replacement of parts. This damage is as serious as you require for the purposes of creating an interesting story.
+>
 > >**Radiation Sickness:** When PCs are exposed to intense radiation, they suffer 3 points of ambient radiation damage for each minute the character fails a difficulty 3 Might defense task. If the character fails three such defense rolls during any single period of radiation exposure, they suffer acute radiation sickness, a level 8 disease that drops them one step on the damage track for each day they fail a Might defense roll until they expire.
- 
-> ##### Asteroid/Debris Field  
-> Movies often depict asteroid belts as densely packed fields of tumbling rock that ships must constantly swerve through to avoid a collision. Such locations are not easy to find in the solar system. But such situations can occur in fantastic settings, or possibly in solar systems other than Earth’s. 	
+
+> ##### Asteroid/Debris Field
+> Movies often depict asteroid belts as densely packed fields of tumbling rock that ships must constantly swerve through to avoid a collision. Such locations are not easy to find in the solar system. But such situations can occur in fantastic settings, or possibly in solar systems other than Earth’s.
 >
-> > **Evasive Asteroid Piloting:** During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.  
+> > **Evasive Asteroid Piloting:** During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.
 >
 > >**Finding Shelter:** The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
 ####  The Effects of Taking Damage
@@ -286,7 +286,7 @@ When an NPC reaches 0 health, it is either dead or (if the attacker wishes) inca
 
 As previously mentioned, damage from most sources is applied to a character’s Might Pool. Otherwise, stat damage always reduces the Pool of the stat it affects.
 
-If damage reduces a character’s stat Pool to 0, any further damage to that stat (including excess damage from the attack that reduced the stat to 0) is applied to another stat Pool. 
+If damage reduces a character’s stat Pool to 0, any further damage to that stat (including excess damage from the attack that reduced the stat to 0) is applied to another stat Pool.
 >**Damage is applied to Pools in this order:**
 >1. Might (unless the Pool is 0)
 >2. Speed (unless the Pool is 0)
@@ -298,27 +298,27 @@ In addition to taking damage from their Might Pool, Speed Pool, or Intellect Poo
 Some effects can immediately shift a PC one or more steps on the damage track. These include rare poisons, cellular disruption attacks, and massive traumas (such as falls from very great heights, being run over by a speeding vehicle, and so on, as determined by the GM).
 
 Some attacks, like a serpent’s poisonous bite or a Speaker’s Enthrall, have effects other than damage to a stat Pool or shifting the PC on the damage track. These attacks can cause unconsciousness, paralysis, and so on.
->[!note] 
+>[!note]
 >When NPCs (who have only health) suffer Speed or Intellect damage, normally this is treated the same as Might damage. However, the GM or the player has the option to suggest an appropriate alternate effect the NPC suffers a penalty, moves more slowly, is stunned, and so on.
 
 #### The Damage Track
 As noted above, the damage track has four states: hale, impaired, debilitated, and dead.
 Hale is the normal state for a character: all three stat Pools are at 1 or higher, and the PC has no penalties from harmful conditions. When a hale PC takes enough damage to reduce one of their stat Pools to 0, they become impaired. Note that a character whose stat Pools are much lower than normal can still be hale.
 ##### Impaired
->is a wounded or injured state. When an impaired character applies Effort, it costs 1 extra point per level applied. For example, applying one level of Effort costs 4 points instead of 3, and applying two levels of Effort costs 7 points instead of 5.  
+>is a wounded or injured state. When an impaired character applies Effort, it costs 1 extra point per level applied. For example, applying one level of Effort costs 4 points instead of 3, and applying two levels of Effort costs 7 points instead of 5.
 >
 >An impaired character ignores minor and major effect results on their rolls, and they don’t deal as much extra damage in combat with a special roll. In combat, a roll of 17 or higher deals only 1 additional point of damage. When an impaired PC takes enough damage to reduce one of their stat Pools to 0, they become debilitated.
 
-##### Debilitated  
+##### Debilitated
  >Debilitated is a critically injured state. A debilitated character may not take any actions other than to move (probably crawl) no more than an immediate distance. If a debilitated character’s Speed Pool is 0, they can’t move at all. When a debilitated PC takes enough damage to reduce a stat Pool to 0, they are dead.
 
 >>[!warning] Dead is dead.
 >>The damage track allows you to know how far from death you are. If you’re hale, you’re three steps from death. If you’re impaired, you’re two steps from death. If you’re debilitated, you are only one small step from death’s door.
 
-####  Recovering Points in a Pool  
-After losing or spending points in a Pool, you recover those points by resting. You can’t increase a Pool past its maximum by resting—just back to its normal level. Any extra points gained go away with no effect. The amount of points you recover from a rest, and how long each rest takes, depends on how many times you have rested so far that day.  
+####  Recovering Points in a Pool
+After losing or spending points in a Pool, you recover those points by resting. You can’t increase a Pool past its maximum by resting—just back to its normal level. Any extra points gained go away with no effect. The amount of points you recover from a rest, and how long each rest takes, depends on how many times you have rested so far that day.
 
-When you rest, make a recovery roll. To do this, roll a d6 and add your tier. You recover that many points, and you can divide them among your stat Pools however you wish. For example, if your recovery roll is 4 and you’ve lost 4 points of Might and 2 points of Speed, you can recover 4 points of Might, or 2 points of Might and 2 points of Speed, or any other combination adding up to 4 points. 
+When you rest, make a recovery roll. To do this, roll a d6 and add your tier. You recover that many points, and you can divide them among your stat Pools however you wish. For example, if your recovery roll is 4 and you’ve lost 4 points of Might and 2 points of Speed, you can recover 4 points of Might, or 2 points of Might and 2 points of Speed, or any other combination adding up to 4 points.
 
 >The first time you rest each day, it takes only a few seconds to catch your breath. If you rest this way in the middle of an encounter, it takes one action on your turn.
 
@@ -337,40 +337,40 @@ When you rest, make a recovery roll. To do this, roll a d6 and add your tier. Yo
 >| Third recovery roll  | One hour         |
 >| Fourth recovery roll | Ten hours        |
 
-#### Restoring the Damage Track 
+#### Restoring the Damage Track
 Using points from a recovery roll to raise a stat Pool from 0 to 1 or higher also automatically moves the character up one step on the damage track.
 
 If all of a PC’s stat Pools are above 0 and the character has taken special damage that moved them down the damage track, they can use a recovery roll to move up one step on the damage track instead of recovering points. For example, a character who is debilitated from a hit with a cell disrupting biotech device can rest and move up to impaired rather than recover points in a Pool. v
 
-#### Special Damage 
+#### Special Damage
 >In the course of playing the game, characters face all manner of threats and dangers that can harm them in a variety of ways, only some of which are easily represented by points of damage.
 #### Dazed and Stunned
->Dazed and Stunned Characters can be dazed when struck hard on the head, exposed to extremely loud sounds, or affected by a mental attack. When this happens, for the duration of the daze effect (usually one round), all of the character’s tasks are hindered. Similar but more severe attacks can stun characters. Stunned characters lose their turn (but can still defend against attacks normally).  
+>Dazed and Stunned Characters can be dazed when struck hard on the head, exposed to extremely loud sounds, or affected by a mental attack. When this happens, for the duration of the daze effect (usually one round), all of the character’s tasks are hindered. Similar but more severe attacks can stun characters. Stunned characters lose their turn (but can still defend against attacks normally).
 
-#### Poison and Disease  
->When characters encounter poison—whether the venom of a serpent, rat poison slipped into a burrito, cyanide dissolved in wine, or an overdose of acetaminophen—they make a Might defense roll to resist it. Failure to resist can result in points of damage, moving down the damage track, or a specific effect such as paralysis, unconsciousness, disability, or something stranger. For example, some poisons affect the brain, making it impossible to say certain words, take certain actions, resist certain effects, or recover points to a stat Pool. 
+#### Poison and Disease
+>When characters encounter poison—whether the venom of a serpent, rat poison slipped into a burrito, cyanide dissolved in wine, or an overdose of acetaminophen—they make a Might defense roll to resist it. Failure to resist can result in points of damage, moving down the damage track, or a specific effect such as paralysis, unconsciousness, disability, or something stranger. For example, some poisons affect the brain, making it impossible to say certain words, take certain actions, resist certain effects, or recover points to a stat Pool.
 >
 >Diseases work like poisons, but their effect occurs every day, so the victim must make a Might defense roll each day or suffer the effects. Disease effects are as varied as poisons: points of damage, moving down the damage track, disability, and so on. Many diseases inflict damage that cannot be restored through conventional means.
 
-##### Paralysis 
->Paralytic effects cause a character to drop to the ground, unable to move. Unless otherwise specified, the character can still take actions that require no physical movement. 
+##### Paralysis
+>Paralytic effects cause a character to drop to the ground, unable to move. Unless otherwise specified, the character can still take actions that require no physical movement.
 
-#### Other Effects  
+#### Other Effects
 >Other special effects can render a character blind or deaf, unable to stand without falling over, or unable to breathe. Stranger effects might negate gravity for the character (or increase it a hundredfold), transport them to another place, render them out of phase, mutate their physical form, implant false memories or senses, alter the way their brain processes information, or inflame their nerves so they are in constant, excruciating pain. Each special effect must be handled on a case-by-case basis. The GM adjudicates how the character is affected and how the condition can be alleviated (if possible).
 
->[!note] NPCs and Special Damage  
->The GM always has final say over what special damage will affect an NPC. Human NPCs usually react like characters, but nonhuman creatures might react very differently. For example, a tiny bit of venom is unlikely to hurt a gigantic dragon, and it won’t affect an android or a demon at all.  
+>[!note] NPCs and Special Damage
+>The GM always has final say over what special damage will affect an NPC. Human NPCs usually react like characters, but nonhuman creatures might react very differently. For example, a tiny bit of venom is unlikely to hurt a gigantic dragon, and it won’t affect an android or a demon at all.
 >
 >If an NPC is susceptible to an attack that would shift a character down the damage track, using that attack on the NPC usually renders it unconscious or dead. Alternatively, the GM could apply the debilitated condition to the NPC, with the same effect as it would have on a PC.
-#### Attack Modifiers and Special Situations 
+#### Attack Modifiers and Special Situations
 In combat situations, many modifiers might come into play. Although the GM is at liberty to assess whatever modifiers they think are appropriate to the situation (that’s their role in the game), the following suggestions and guidelines might make that easier. Often the modifier is applied as a step in difficulty. So if a situation hinders attacks, that means if a PC attacks an NPC, the difficulty of the attack roll is increased by one step, and if an NPC attacks a PC, the difficulty of the defense roll is decreased by one step. This is because players make all rolls, whether they are attacking or defending—NPCs never make attack or defense rolls.
 
 When in doubt, if it seems like it should be harder to attack in a situation, hinder the attack rolls. If it seems like attacks should gain an advantage or be easier in some way, hinder the defense rolls.
 
->[!tip] 
+>[!tip]
 >Precise ranges are not important in the Cypher System. The broadly defined “immediate,” “short,” “long,” and “very long” ranges let the GM quickly make a judgment call and keep things moving. Basically, the idea is: your target is right there, your target is close, your target is pretty far away, or your target is extremely far away.
 
-##### Cover 
+##### Cover
 >If a character is behind cover so that a significant portion of their body is behind something sturdy, attacks against the character are hindered.
 >
 >If a character is entirely behind cover (their entire body is behind something sturdy), they can’t be attacked unless the attack can go through the cover. For example, if a character hides behind a thin wooden screen and their opponent shoots the screen with a rifle that can penetrate the wood, the character can be attacked. However, because the attacker can’t see the character clearly, this still counts as cover (attacks against the character are hindered).
@@ -397,46 +397,46 @@ Higher Ground: In either ranged or melee combat, attacks by an opponent on highe
 >
 >>**Extreme Range:** Targets just at the limit of a weapon’s range are at extreme range. Attacks against such targets are hindered.
 >
->[!example]  
+>[!example]
 >The GM might allow a character with a ranged weapon to attack beyond extreme range, but the attack would be hindered by two steps for each range category beyond the normal limit. Attacks with hard limits, such as the blast radius of a bomb, can’t be modified.
 >
 >In certain situations, such as a PC on top of a building looking across an open field, the GM should allow ranged attacks to exceed their maximum range. For example, in perfect conditions, a good archer can hit a large target with a bow and arrow at 500 feet (150 m), much farther than a bow’s typical long range
 ##### Illumination
 What characters can see (and how well they can see) plays a huge factor in combat.
-###### Dim Light 
+###### Dim Light
 >Dim light is approximately the amount of light on a night with a bright full moon or the illumination provided by a torch, flashlight, or desk lamp. Dim light allows you to see out to short range. Targets in dim light are harder to hit. Attacks against such targets are hindered. Attackers trained in low-light spotting negate this modifier.
 
-###### Very dim light 
+###### Very dim light
 >Very dim light is approximately the amount of light on a starry night with no visible moon, or the glow provided by a candle or an illuminated control panel. Very dim light allows you to see clearly only within immediate range and perceive vague shapes to short range. Targets in very dim light are harder to hit. Attacks against targets within immediate range are hindered, and attacks against those in short range are hindered by two steps. Attackers trained in low-light spotting modify these difficulties by one step in their favor. Attackers specialized in low-light spotting modify these difficulties by two steps in their favor.
-##### Darkness  
+##### Darkness
 >Darkness is an area with no illumination at all, such as a moonless night with cloud cover or a room with no lights. Targets in complete darkness are nearly impossible to hit. If an attacker can use other senses (such as hearing) to get an idea of where the opponent might be, attacks against such targets are hindered by four steps. Otherwise, attacks in complete darkness fail without the need for a roll unless the player spends 1 XP to “make a lucky shot” or the GM uses GM intrusion. Attackers trained in low-light spotting ease the task. Attackers specialized in low-light spotting ease the task by two steps.
 ##### Visibility
 Similar to illumination, factors that obscure vision affect combat.
 ###### Mist
 >A target in mist is similar to one in dim light. Ranged attacks against such targets are hindered. Particularly dense mist makes ranged attacks nearly impossible (treat as darkness), and even melee attacks are hindered.
-###### Hiding Target 
+###### Hiding Target
 >A target in dense foliage, behind a screen, or crawling amid the rubble in a ruin is hard to hit because they’re hard to see. Ranged attacks against such targets are hindered.
-###### Invisible Target 
+###### Invisible Target
 >If an attacker can use other senses (such as hearing) to get an idea of where the opponent might be, attacks against such targets are hindered by four steps. Otherwise, attacks against an invisible creature fail without the need for a roll unless the player spends 1 XP to “make a lucky shot” or the GM uses GM intrusion.
 ##### Water
 Being in shallow water can make it hard to move, but it doesn’t affect combat. Being in deep water can make things difficult, and being underwater entirely can seem as different as being on another world.
-###### Deep Water 
+###### Deep Water
 >Being in water up to your chest (or the equivalent thereof) hinders your attacks. Aquatic creatures ignore this modifier.
-###### Underwater Melee Combat 
+###### Underwater Melee Combat
 >For nonaquatic creatures, being completely underwater makes attacking very difficult. Attacks with stabbing weapons are hindered, and melee attacks with slashing or bashing weapons are hindered by two steps. Aquatic creatures ignore these penalties.
-###### Underwater Ranged Combat 
+###### Underwater Ranged Combat
 >As with melee combat, nonaquatic creatures have problems fighting underwater. Some ranged attacks are impossible underwater—you can’t throw things, fire a bow or crossbow, or use a blowgun. Many firearms also do not work underwater. Attacks with weapons that do work underwater are hindered. Ranges underwater are reduced by one category; very-long-range weapons work only to long range, long-range weapons work only to short range, and short-range weapons work only to immediate range.
 ##### Moving Targets
 Moving targets are harder to hit, and moving attackers have a difficult time as well.
-Target Is Moving: Attackers trying to hit a foe who is moving very fast are hindered. 
->>[!note] 
+Target Is Moving: Attackers trying to hit a foe who is moving very fast are hindered.
+>>[!note]
 >>A foe moving very fast is one who is doing nothing but running, mounted on a moving creature, riding on a vehicle or moving conveyance, and so on
 
-###### Attacker Is Moving 
+###### Attacker Is Moving
 >An attacker trying to make an attack while moving under their own power (walking, running, swimming, and so on) takes no penalties. Attacks from a moving mount or moving vehicle are hindered; an attacker trained in riding or driving ignores this penalty.
-###### Attacker Is Jostled 
+###### Attacker Is Jostled
 >Being jostled, such as while standing on a listing ship or a vibrating platform, makes attacking difficult. Such attacks are hindered. Characters trained in balancing or sailing would ignore penalties for being on a ship.
-##### Special Situation: Combat Between NPCs 
+##### Special Situation: Combat Between NPCs
 When an NPC ally of the PCs attacks another NPC, the GM can designate a player to roll and handle it like a PC attacking. Often, the choice is obvious. For example, a character who has a trained attack animal should roll when their pet attacks enemies. If an NPC ally accompanying the party leaps into the fray, that ally’s favorite PC rolls for them. NPCs cannot apply Effort. Of course, it’s perfectly fitting (and easier) to have the NPC ally use the cooperative action rules to aid a PC instead of making direct attacks, or to compare the levels of the two NPCs (higher wins).
 ##### Special Situation: Combat Between PCs
 When one PC attacks another PC, the attacking character makes an attack roll, and the other character makes a defense roll, adding any appropriate modifiers. If the attacking PC has a skill, ability, asset, or other effect that would ease the attack if it were made against an NPC, the character adds 3 to the roll for each step reduction (+3 for one step, +6 for two steps, and so on). If the attacker’s final result is higher, the attack hits. If the defender’s result is higher, the attack misses. Damage is resolved normally. The GM mediates all special effects.
@@ -449,24 +449,24 @@ Some area attacks always deal at least a minimum amount of damage, even if the a
 
 >[!example] For example
 >Consider a character who uses Shatter to attack six cultists (level 2; target number 6) and their leader (level 4; target number 12). The PC applies Effort to increase the damage and rolls an 11 for the attack roll. This hits the six cultists, but not the leader, so the ability deals 3 points of damage to each of the cultists. The description of Shatter says that applying Effort to increase the damage also means that targets take 1 point of damage if the PC fails the attack roll, so the leader takes 1 point of damage. In terms of what happens in the story, the cultists are caught flat-footed by the sudden detonation of one of their knives, but the leader ducks and is shielded from the blast. Despite the leader’s quick moves, the blast is so intense that a few bits of metal slice them.
-##### Special Situation: Attacking Objects 
+##### Special Situation: Attacking Objects
 Attacking an object is rarely a matter of hitting it. Sure, you can hit the broad side of a barn, but can you damage it? Attacking inanimate objects with a melee weapon is a Might action. Objects have levels and thus target numbers. Objects have a damage track that works like the damage track for PCs.
-###### Intact  
->Intact is the default state for an object. 
+###### Intact
+>Intact is the default state for an object.
 ###### Minor Damage
 Minor Damage is a slightly damaged state. An object with minor damage reduces its level by 1.
-###### Major Damage 
->Major Damage is a critically damaged state. An object with major damage is broken and no longer functions. 
-###### Destroyed  
->Destroyed is destroyed. The object is ruined, no longer functions, and cannot be repaired. 
+###### Major Damage
+>Major Damage is a critically damaged state. An object with major damage is broken and no longer functions.
+###### Destroyed
+>Destroyed is destroyed. The object is ruined, no longer functions, and cannot be repaired.
 
 If the Might action to damage an object is a success, the object moves one step down the object damage track. If the Might roll exceeded the difficulty by 2 levels, the object instead moves two steps down the object damage track. If the Might roll exceeded the difficulty by 4 levels, the object instead moves three steps down the object damage track. Objects with minor or major damage can be repaired, moving them one or more steps up the object damage track.
 
 Brittle or fragile objects, like paper or glass, decrease the effective level of the object for the purposes of determining if it is damaged. Hard objects, like those made of wood or stone, add 1 to the effective level. Very hard objects, like those made of metal, add 2. (The GM may rule that some exotic materials add 3.)
 
  The tool or weapon used to attack the object must be at least as hard as the object itself. Further, if the amount of damage the attack could inflict—not modified by a special die roll does not equal or exceed the effective level of the object, the attack cannot damage the object no matter what the roll.
- 
-### Action: Activate a Special Ability 
+
+### Action: Activate a Special Ability
 Special abilities are granted by foci, types, and flavors, or provided by cyphers or other devices. If a special ability affects another character in any kind of unwanted manner, it’s handled as an attack. This is true even if the ability is normally not considered an attack. For example, if a character has a healing touch, and their friend doesn’t want to be healed for some reason, an attempt to heal their unwilling friend is handled as an attack.
 
 Plenty of special abilities do not affect another character in an unwanted manner. For example, a PC might use Hover on themselves to float into the air. A character with a matter-reorganizing device might change a stone wall into glass. A character who activates a phase changer cypher might walk through a wall. None of these requires an attack roll (although when turning a stone wall to glass, the character must still make a roll to successfully affect the wall).
@@ -490,17 +490,17 @@ When talking about movement in terms of traveling rather than round-by-round act
 ##### Movement Modifiers
 Different environments affect movement in different ways.
 Rough Terrain: A surface that’s considered rough terrain is covered in loose stones or other material, uneven or with unsure footing, unsteady, or a surface that requires movement across a narrow space, such as a cramped corridor or a slender ledge. Stairs are also considered rough terrain. Rough terrain does not slow normal movement on a round-by-round basis, but hinders move rolls. Rough terrain cuts long-term movement rates in half.
-###### Difficult Terrain 
+###### Difficult Terrain
 >Difficult terrain is an area filled with challenging obstacles—water up to waist height, a very steep slope, an especially narrow ledge, slippery ice, a foot or more of snow, a space so small that one must crawl through it, and so on. Difficult terrain hinders move rolls and halves movement on a round-by-round basis. This means that a short move is about 25 feet (8 m), and a long move is about 50 feet (15 m). Difficult terrain reduces long-term movement to a third of its normal rate.
-###### Water 
+###### Water
 >Deep water, in which a character is mostly or entirely submerged, hinders move rolls
 and reduces round-by-round and long-term movement to one quarter its normal rate. This means that a short move is about 12 feet(4 m), and a long move is about 25 feet (7.5 m). Characters trained in swimming halve their movement only while in deep water.
-###### Low Gravity 
->Movement in low gravity is easier but not much faster. All move rolls are eased. 
-###### High Gravity  
+###### Low Gravity
+>Movement in low gravity is easier but not much faster. All move rolls are eased.
+###### High Gravity
 >In an environment of high gravity, treat all moving characters as if they were in difficult terrain. Characters trained in high-gravity maneuvering negate this penalty. High gravity reduces long-term movement to a third of its normal rate.
-###### Zero Gravity  
->In an environment without gravity, characters cannot move normally. Instead, they must push off from a surface and succeed at a Might roll to move (the difficulty is equal to one-quarter the distance traveled in feet). Without a surface to push off from, a character cannot move. Unless the character’s movement takes them to a stable object that they can grab or land against, they continue to drift in that direction each round, traveling half the distance of the initial push. 
+###### Zero Gravity
+>In an environment without gravity, characters cannot move normally. Instead, they must push off from a surface and succeed at a Might roll to move (the difficulty is equal to one-quarter the distance traveled in feet). Without a surface to push off from, a character cannot move. Unless the character’s movement takes them to a stable object that they can grab or land against, they continue to drift in that direction each round, traveling half the distance of the initial push.
 #### Special Situation: A Chase
 When a PC is chasing an NPC or vice versa, the player should attempt a Speed action, with the difficulty based on the NPC’s level. If the PC succeeds at the roll, they catch the NPC (if chasing), or they get away (if chased). In terms of the story, this one-roll mechanic can be the result of a long chase over many rounds.
 
@@ -534,7 +534,7 @@ As further guidance, the following are some of the more common actions a player 
 > Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That’s why there is a “do something else” action. PCs are not pieces on a game board—they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.
 
 #### Climbing
-When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties. 
+When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties.
 
 | Difficulty | Surface                                             |
 |------------|-----------------------------------------------------|
@@ -549,20 +549,20 @@ When a character climbs, the GM sets a difficulty based on the surface being cli
 #### Cooperative Actions
 There are many ways multiple characters can work together. None of these options, however, can be used at the same time by the same characters.
 
-##### Helping 
+##### Helping
 >If you use your action to help someone with a task, you ease the task. If you have an inability in a task, your help has no effect. If you use your action to help someone with a task that you are trained or specialized in, the task is eased by two steps. Help is considered an asset, and someone receiving help usually can’t gain more than two assets on a single task if that help is provided by another character.
 > >For example, if Scott is trying to climb a steep incline and Sarah (who is trained in climbing) spends her turn helping him, Scott’s task is eased by two steps.
 > Sometimes you can help by performing a task that complements what another person is attempting. If your complementary action succeeds, you ease the other person’s task. For example, if Scott tries to persuade a ship captain to let him on board, Sarah could try to supplement Scott’s words with a flattering lie about the captain (a deception action), a display of knowledge about the region where the ship is headed (a geography action), or a direct threat to the captain (an intimidation action). If Sarah’s roll is a success, Scott’s persuasion task is eased.
-##### Distraction 
+##### Distraction
 >When a character uses their turn to distract a foe, that foe’s attacks are hindered for one round. Multiple characters distracting a foe have no greater effect than a single character doing so—a foe is either distracted or not. A distraction might be yelling a challenge, firing a warning shot, or a similar activity that doesn’t harm the foe.
-##### Draw the Attack 
+##### Draw the Attack
 >When an NPC attacks a character, another PC can prominently present themselves, shout taunts, and move to try to get the foe to attack them instead. In most cases, this action succeeds without a roll—the opponent attacks the prominent PC instead of their companions. In other cases, such as with intelligent or determined foes, the prominent character must succeed at an Intellect action to draw the attack. If that Intellect action is successful, the foe attacks the prominent character, whose defenses are hindered by two steps. Two characters attempting to draw an attack at the same time cancel each other out.
 >>Two characters attempting to draw an attack at the same time cancel each other out.
-##### Take the Attack 
+##### Take the Attack
 >A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.
 
 #### Crafting, Building, and Repairing
-Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it. 
+Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it.
 
 Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.
 
@@ -576,22 +576,22 @@ The time required to create an item is up to the GM, but the guidelines in the c
 
 Sometimes a GM will allow a rush job if the circumstances warrant it. This is different than using skill to reduce the time required. In this case, the quality of the item is affected. Let’s say that a character needs to create a tool that will cut through solid steel with a laser (a level 7 item), but they have to do it in one day. The GM might allow it, but the device might be extremely volatile, inflicting damage on the user, or it might work only once. The device is still considered a level 7 item to create in all other respects. Sometimes the GM will rule that reducing the time is not possible. For example, a single human can’t make a chainmail vest in one hour without some kind of machine to help.
 #### Possible crafting skills include
->- Armoring  
->- Bowyering/fletching  
->- Chemistry  
->- Computer science  
->- Electronics  
->- Engines  
->- Genetic engineering 
->- Glassblowing  
->- Gunsmithing  
->- Leatherworking  
->- Metalworking  
->- Neural engineering  
->- Weaponsmithing  
+>- Armoring
+>- Bowyering/fletching
+>- Chemistry
+>- Computer science
+>- Electronics
+>- Engines
+>- Genetic engineering
+>- Glassblowing
+>- Gunsmithing
+>- Leatherworking
+>- Metalworking
+>- Neural engineering
+>- Weaponsmithing
 >- Woodcrafting
 
-Characters might try to make a cypher, an artifact, or an alien psionic starship do something other than its intended function. Sometimes, the GM will simply declare the task impossible. You can’t turn a vial of healing elixir into a two-way communicator. But most of the time, there is a chance of success. 
+Characters might try to make a cypher, an artifact, or an alien psionic starship do something other than its intended function. Sometimes, the GM will simply declare the task impossible. You can’t turn a vial of healing elixir into a two-way communicator. But most of the time, there is a chance of success.
 
 That said, tinkering with weird stuff is not easy. Obviously, the difficulty varies from situation to situation, but difficulties starting at 7 are not unreasonable. The time, tools, and training required would be similar to the time, tools, and training needed to repair a device. If the tinkering results in a long-term benefit for the character—such as creating an artifact that they can use the GM should require them to spend XP to make it.
 >Circumstances really matter. For example, sewing a dress by hand might take five times as long (or more) as using a sewing machine.
@@ -606,7 +606,7 @@ In a combat situation, a character can stand guard as their action. They do not 
 If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.
 
 #### Healing
-You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9. 
+You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9.
 #### Interacting With Creatures
 The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.
 #### Jumping
@@ -625,7 +625,7 @@ Generally, the GM will describe any sight or sound that’s not purposefully dif
 You can push or pull something very heavy and move it an immediate distance as your action.
 
 The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.
-#### Operating or Disabling a Device, or Picking a Lock 
+#### Operating or Disabling a Device, or Picking a Lock
 As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.
 Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who is attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)
 #### Riding or Piloting
@@ -636,7 +636,7 @@ If you’re riding an animal that’s trained to be a mount, or driving or pilot
 The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.
 #### Swimming
 If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.
-#### Understanding, Identifying, or Remembering 
+#### Understanding, Identifying, or Remembering
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
 ##### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
 ###  Vehicular Movement
@@ -663,7 +663,7 @@ It’s important to remember that a failed attack doesn’t always mean a miss. 
 This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they’re trying to defend.
 (During a vehicular battle, particularly a space battle, there’s a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they’re all flavor, so they’re represented in the rules generally, rather than specifically.)
 
->[!tip ] 
+>[!tip ]
 >For more details about vehicles, refer to the Genre chapter.
 >
 >Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
@@ -686,29 +686,29 @@ Player characters have the option to gain followers as they advance in tier, as 
 
 The PC generally makes rolls for their follower when the follower takes actions, though usually a follower’s modifications provide an asset to a specific action taken by the PC they follow.
 
->[!note] 
+>[!note]
 >If a follower dies, the character gains a new one after at least two weeks and proper recruitment
 
 ### Modifications
-> A follower can help a PC in one or more tasks, granting the PC an asset to that task. The level of the follower indicates the number of different tasks they can help with. The tasks that the follower is able to help with are predetermined, usually chosen by the PC when they gain the follower. A level 2 follower who the player determines is a spy could grant a PC an asset on two different tasks, such as stealth and deception. Followers cannot help with tasks that they don’t have modifications for; for the purpose of helping, treat the follower as if they had inabilities in all nonmodified tasks.  
-> 
+> A follower can help a PC in one or more tasks, granting the PC an asset to that task. The level of the follower indicates the number of different tasks they can help with. The tasks that the follower is able to help with are predetermined, usually chosen by the PC when they gain the follower. A level 2 follower who the player determines is a spy could grant a PC an asset on two different tasks, such as stealth and deception. Followers cannot help with tasks that they don’t have modifications for; for the purpose of helping, treat the follower as if they had inabilities in all nonmodified tasks.
+>
 > When the follower acts autonomously rather than helping the PC, they act like a normal NPC that has modifications. Thus, the modification increases their effective level for the associated task by one step. For example, the level 2 spy follower with modifications for stealth and deception attempts stealth and deception tasks as if they were level 3 and all other tasks as level 2.
 
    #### Follower Assets to Combat and Defense
 > A follower cannot grant an asset to a character’s attacks or defense until the follower is level 3 or higher. Even then, the follower can help with attacks and defense only if they have a modification for that kind of task.
-> 
+>
 > Some abilities may grant a special exception to this rule. For instance, the Serv-0 Defender ability gives your level 1 Serv-0 follower (a machine companion) a modification for Speed defense.
 
- #### Follower Level Progression  
+ #### Follower Level Progression
 >A follower increases in level by 1 each time a PC advances two tiers after gaining that follower. When the follower gains a level, the PC also chooses the task that the follower gains a modification for.
 
 ### Exceptional Follower
 > When a character gains a follower, there’s a small chance that the follower will be exceptional in some way, a cut above other followers of their kind. The GM determines when an exceptional follower is found, possibly as an additional reward for smart or engaging roleplaying where the PCs impress or otherwise positively interact with one or more NPCs, some of whom may later go on to become one of their followers. An exceptional follower has the same qualities as a regular follower but is 1 level higher.
 
-### Pet  
+### Pet
 >Any PC can potentially gain a pet, though a pet typically doesn’t provide modifications. If a character wants a pet that can do this, they must gain the pet through an an ability or focus that grants followers. On the other hand, a well-cared-for pet grants an asset to a PC’s tasks related to achieving peace of mind, finding comfort, and resisting loneliness.
 
-### Breathing Life Into Followers 
+### Breathing Life Into Followers
 The modifications provided by followers could come across as fairly dry and mechanical. To avoid that, you could present each follower in a way that makes them more compelling and interesting. Here are a few examples of how to describe a follower, depending on their mix of modifications.
 >- A firebrand diplomat able to convince an enemy horde to back down.
 >- A veteran commander whose presence bolsters the entire community’s military might.
@@ -721,20 +721,20 @@ Character arcs are the means by which players can invest themselves more in grea
 
 Just like in a book or a television show, characters progress through their own personal story and change over time. A PC with a character arc decides for themselves what they do and why. Character arcs are like stated goals for a character, and by progressing toward that goal, the character advances. The key word there is progressing. A PC doesn’t have to succeed at achieving the goal to earn advancement—it’s not an all-or-nothing prospect. Each arc is keyed to a single character, but just like in a book or show, characters can take part in the larger story arc that the whole group participates in, while also progressing in their own personal arc.
 
-Character arcs have different steps that mark the character’s progress through the arc. Each arc eventually reaches a climax, and then finishes with a step that is a final resolution. Each step reached earns the character 2 XP. Character arcs are the most straightforward way that a character earns XP. 
->[!note] 
+Character arcs have different steps that mark the character’s progress through the arc. Each arc eventually reaches a climax, and then finishes with a step that is a final resolution. Each step reached earns the character 2 XP. Character arcs are the most straightforward way that a character earns XP.
+>[!note]
 >Typically, PCs will earn about half their total experience points from arcs or other GM awards.
 
-At character creation, a player can choose one character arc for their PC at no cost. Players have the option to not choose one, but it’s probably a good idea to do so. First and foremost, it is a character-defining factor. If they begin the campaign with a desire to find the woman who killed their brother, that says a lot about the character: they had a brother, he was likely close to them, he had been in at least one dangerous situation, and the character is probably motivated by anger and hate, at least somewhat. Even after the character finishes this first arc, they’ll undoubtedly have (at least one) more because they can gain new arcs as the campaign progresses. 
+At character creation, a player can choose one character arc for their PC at no cost. Players have the option to not choose one, but it’s probably a good idea to do so. First and foremost, it is a character-defining factor. If they begin the campaign with a desire to find the woman who killed their brother, that says a lot about the character: they had a brother, he was likely close to them, he had been in at least one dangerous situation, and the character is probably motivated by anger and hate, at least somewhat. Even after the character finishes this first arc, they’ll undoubtedly have (at least one) more because they can gain new arcs as the campaign progresses.
 
 Once play begins, players can take on a new arc whenever they wish, as fits the character’s ongoing story. Taking a new arc has a cost of 1 XP. While there’s no hard limit on how many arcs a character can have at one time, realistically most PCs couldn’t reasonably have more than three or four.
 
-However, as mentioned above, arcs have a beginning cost that must be paid, reflecting the character’s devotion to the goal. The character will earn this investment back (probably many times over) if the arc is completed. 
+However, as mentioned above, arcs have a beginning cost that must be paid, reflecting the character’s devotion to the goal. The character will earn this investment back (probably many times over) if the arc is completed.
 
 Character arcs are always player-driven. A GM cannot force one on a character. That said, the events in the narrative often present story arc opportunities and inspire character arcs for the PCs. It’s certainly in the GM’s purview to suggest possible arcs related to the events going on. For example, if the GM presents an encounter in which an NPC wishes to learn from the PC, it might make sense to suggest taking the Instruction arc. Whether or not the PC takes on the student, the player doesn’t have to adopt the Instruction arc unless they want to.
 
 At the end of a session, review the actions you took and describe how they might equate to the completion of a step (or possibly more than one step) in their character arc. If the GM agrees, the character gets their reward.
->[!note]  
+>[!note]
 >When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.
 
 This chapter presents many sample character arcs (see below).
@@ -745,60 +745,60 @@ Sometimes, a group will have an adventure that doesn’t deal primarily with a P
 It can also mean finding a new procedure or device (something too big to be considered a piece of equipment) or even previously unknown information. This could include a source of magical power, a unique teleportation device, or the cure for a plague. These are all discoveries. The common thread is that the PCs discover something that they can understand and put to use.
 
 Last, depending on the GM’s outlook and the kind of campaign the group wants to play, a discovery could be a secret, an ethical idea, an adage, or even a truth.
->[!note]  
+>[!note]
 >It’s a fine line, but ultimately the GM decides what constitutes a discovery as opposed to just something weird in the course of an adventure. Usually, the difference is, did the PCs successfully interact with it and learn something about it? If so, it’s probably a discovery.
 
-> **Artifacts**  
-> When the group gains an artifact, award XP equal to the artifact’s level and divide it among the PCs (minimum 1 XP for each character). Round down if necessary. For example, if four PCs discover a level 5 artifact, they each get 1 XP. Money, standard equipment, and cyphers are not worth XP. 
+> **Artifacts**
+> When the group gains an artifact, award XP equal to the artifact’s level and divide it among the PCs (minimum 1 XP for each character). Round down if necessary. For example, if four PCs discover a level 5 artifact, they each get 1 XP. Money, standard equipment, and cyphers are not worth XP.
 > >[!tip]
 > Experience point awards for artifacts should usually apply even if the artifact was given to the PCs rather than found, because often such gifts are the rewards for success.
 
-> **Miscellaneous Discoveries**  
+> **Miscellaneous Discoveries**
 > Various other discoveries might grant 1 XP to each PC involved.
 
-> **Other Awards**  
+> **Other Awards**
 > If a character is focused on activities that don’t relate to a character arc or a discovery, as a general rule, a mission should be worth at least 1 XP per game session involved in accomplishing it. For example, saving a family on an isolated farm beset by raiding cultists might be worth 1 XP for each character. Of course, saving the family doesn’t always mean killing the bad guys; it might mean relocating them, parlaying with the cultists, or chasing off the raiders.
 
 #### Spending Experience Points
 Experience points are meant to be used. Hoarding them is not a good idea; if a player accumulates more than 10 XP, the GM can require them to spend some.
 Generally, experience points can be spent in four ways: immediate benefits, short- and medium-term benefits, long-term benefits, and character advancement.
 
->[!note]  
->Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how through experience, time, toil, travail, and so on, characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character’s capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn’t a waste of XP it’s what XP are for.  
+>[!note]
+>Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how through experience, time, toil, travail, and so on, characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character’s capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn’t a waste of XP it’s what XP are for.
 
 ##### Immediate Benefits
 >The most straightforward way for a player to use XP is to reroll any roll in the game even one that they didn’t make. This costs 1 XP per reroll, and the player chooses the best result. They can continue to spend XP on rerolls, but this can quickly become an expensive proposition. It’s a fine way to try to prevent disaster, but it’s not a good idea to use a lot of XP to reroll a single action over and over.
 >A player can also spend 1 XP to refuse a GM intrusion.
 
-##### Short and Medium-Term Benefits  
->By spending 2 XP, a character can gain a skill—or, more rarely, an ability that provides a short-term benefit. Let’s say a character notices that the computer terminals in the facility they’re infiltrating are similar to those used by the company they once worked for. They spend 2 XP and say that they have a great deal of experience in using these. As a result, they are trained in operating (and breaking into) these computers. This is just like being trained in computer use or hacking, but it applies only to computers found in that particular location. The skill is extremely useful in the facility, but nowhere else.  
+##### Short and Medium-Term Benefits
+>By spending 2 XP, a character can gain a skill—or, more rarely, an ability that provides a short-term benefit. Let’s say a character notices that the computer terminals in the facility they’re infiltrating are similar to those used by the company they once worked for. They spend 2 XP and say that they have a great deal of experience in using these. As a result, they are trained in operating (and breaking into) these computers. This is just like being trained in computer use or hacking, but it applies only to computers found in that particular location. The skill is extremely useful in the facility, but nowhere else.
 
 ##### Medium-term benefits
-> are usually story based. For example, a character can spend 2 XP while climbing through mountains and say that they have experience with climbing in regions like these, or perhaps they spend the XP after they’ve been in the mountains for a while and say that they’ve picked up the feel for climbing there. Either way, from now on, they’re trained in climbing in those mountains. This helps them now and any time they return to the area, but they’re not trained in climbing everywhere.  
-> 
-> This method allows a character to get immediate training in a skill for half the normal cost. (Normally, it costs 4 XP to become trained in a skill.) It’s also a way to gain a new skill even if the PC has already gained a new skill as a step toward attaining the next tier.  
-> In rare cases, a GM might allow a character to spend 2 XP to gain an entirely new ability such as a device, a special ability, or a special mental power—for a short time, usually no longer than the course of one scenario. The player and the GM should agree on a story-based explanation for the benefit. Perhaps the ability has a specific rare requirement, such as a tool, a battery, a drug, or some kind of treatment. For example, a character who wants to explore a submerged location has several biotech enhancements, and they spend 2 XP to cobble together a device that lets them breathe underwater. This gives them the ability for a considerable length of time, but not permanently the device might work for only eight hours. Again, the story and the logic of the situation dictate the parameters.  
+> are usually story based. For example, a character can spend 2 XP while climbing through mountains and say that they have experience with climbing in regions like these, or perhaps they spend the XP after they’ve been in the mountains for a while and say that they’ve picked up the feel for climbing there. Either way, from now on, they’re trained in climbing in those mountains. This helps them now and any time they return to the area, but they’re not trained in climbing everywhere.
+>
+> This method allows a character to get immediate training in a skill for half the normal cost. (Normally, it costs 4 XP to become trained in a skill.) It’s also a way to gain a new skill even if the PC has already gained a new skill as a step toward attaining the next tier.
+> In rare cases, a GM might allow a character to spend 2 XP to gain an entirely new ability such as a device, a special ability, or a special mental power—for a short time, usually no longer than the course of one scenario. The player and the GM should agree on a story-based explanation for the benefit. Perhaps the ability has a specific rare requirement, such as a tool, a battery, a drug, or some kind of treatment. For example, a character who wants to explore a submerged location has several biotech enhancements, and they spend 2 XP to cobble together a device that lets them breathe underwater. This gives them the ability for a considerable length of time, but not permanently the device might work for only eight hours. Again, the story and the logic of the situation dictate the parameters.
 
-##### Long-Term Benefits  
-> In many ways, the long-term benefits a PC can gain by spending XP are a means of integrating the mechanics of the game with the story. Players can codify things that happen to their characters by talking to the GM and spending 3 XP.  
-> Things that a PC can acquire as a long-term benefit can be thought of as being story based, and they allow the player to have some narrative control over the story. In the course of play, a player might decide that their character gains a friend (a contact) or builds a log cabin (a home). Because a player spent XP, however, they should have some agency over what they’ve gained, and it shouldn’t be easily taken away. The player should help come up with the details of the contact or the design of their home.  
-> It’s also possible to gain these benefits through events in the story, without spending XP. The new contact comes to the PC and starts the relationship. The new home is granted to them as a reward for service to a powerful or wealthy patron, or maybe the character inherits the home from a relative. However, because these came from the GM and not the player (and no XP were spent), the player has no narrative control over them and the GM makes up the details. 
-> 
+##### Long-Term Benefits
+> In many ways, the long-term benefits a PC can gain by spending XP are a means of integrating the mechanics of the game with the story. Players can codify things that happen to their characters by talking to the GM and spending 3 XP.
+> Things that a PC can acquire as a long-term benefit can be thought of as being story based, and they allow the player to have some narrative control over the story. In the course of play, a player might decide that their character gains a friend (a contact) or builds a log cabin (a home). Because a player spent XP, however, they should have some agency over what they’ve gained, and it shouldn’t be easily taken away. The player should help come up with the details of the contact or the design of their home.
+> It’s also possible to gain these benefits through events in the story, without spending XP. The new contact comes to the PC and starts the relationship. The new home is granted to them as a reward for service to a powerful or wealthy patron, or maybe the character inherits the home from a relative. However, because these came from the GM and not the player (and no XP were spent), the player has no narrative control over them and the GM makes up the details.
+>
 > Long-term benefits can include the following.
-> - **Contact:** The character gains a long-term NPC contact of importance—someone who will help them with information, equipment, or physical tasks. The player and GM should work out the details of the relationship.  
-> - **Home:** The PC acquires a full-time residence. This can be an apartment in a city, a cabin in the wilderness, a base in an ancient complex, or whatever fits the situation. It should be a secure place where the PC can leave their belongings and sleep soundly. Several characters could combine their XP and buy a home together.  
-> - **Title or job:** The PC is granted a position of importance or authority. It might come with responsibilities, prestige, and rewards, or it might be an honorary title.  
+> - **Contact:** The character gains a long-term NPC contact of importance—someone who will help them with information, equipment, or physical tasks. The player and GM should work out the details of the relationship.
+> - **Home:** The PC acquires a full-time residence. This can be an apartment in a city, a cabin in the wilderness, a base in an ancient complex, or whatever fits the situation. It should be a secure place where the PC can leave their belongings and sleep soundly. Several characters could combine their XP and buy a home together.
+> - **Title or job:** The PC is granted a position of importance or authority. It might come with responsibilities, prestige, and rewards, or it might be an honorary title.
 > - **Wealth:** The PC comes into a considerable amount of wealth, whether it’s a windfall, an inheritance, or a gift. It might be enough to buy a home or a title, but that’s not really the point. The main benefit is that the PC no longer needs to worry about the cost of simple equipment, lodging, food, and so on. This wealth could mean a set amount—perhaps 50,000 dollars (or whatever is appropriate in the setting)—or it could bestow the ability to ignore minor costs, as decided by the player and GM.
 
->[!note]  
->GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants’ unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.  
+>[!note]
+>GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants’ unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.
 
-#### Character Advancement 
- Progressing to the next tier involves four steps. When a PC has spent 4 XP on each of the steps, they advance to the next tier and gain all the type and focus benefits of that tier. The four steps can be purchased in any order, but each can be purchased only once per tier. In other words, a PC must buy all four steps and advance to the next tier before they can buy the same steps again.  
+#### Character Advancement
+ Progressing to the next tier involves four steps. When a PC has spent 4 XP on each of the steps, they advance to the next tier and gain all the type and focus benefits of that tier. The four steps can be purchased in any order, but each can be purchased only once per tier. In other words, a PC must buy all four steps and advance to the next tier before they can buy the same steps again.
 
-##### Increasing Capabilities 
+##### Increasing Capabilities
 >You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.
-##### Moving Toward Perfection 
+##### Moving Toward Perfection
 >You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
 ##### Extra Effort
 >Your Effort score increases by 1.
@@ -808,9 +808,9 @@ Generally, experience points can be spent in four ways: immediate benefits, shor
 >If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren’t eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.
 >>[!note]
 >>Once you’re specialized in a skill, you can’t improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don’t count as an asset or training.
-##### Other Options 
+##### Other Options
 >Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier.
-> 
+>
 > The other three need to be from the other categories. The special options are as follows:
 > - Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.
 > - Add 2 to your recovery rolls.
@@ -830,14 +830,14 @@ The rest of this chapter presents sample character arcs for PCs. The writeup of 
 ###### Opening
 >This sets the stage for the rest of the arc. It involves some action, although that might just be the PC agreeing to do the task or undertake the mission. It usually has no reward.
 
-###### Step(s) 
+###### Step(s)
 >This is the action required to move toward the climax. In story terms, this is the movement through the bulk of the arc. It’s the journey. The rising tension. Although there might be just one step, there might also be many, depending on the story told. Each results in a reward of 2 XP.
 
-###### Climax 
+###### Climax
 >This is the finale—the point at which the PC likely succeeds or fails at what they’ve set out to do. Not every arc ends with victory. If the character is successful, they earn a reward of 4 XP. If they fail, they still earn a reward of 2 XP. If a character fails the climax, they very likely ignore the resolution.
 
 ###### Resolution
->This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward. 
+>This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward.
 
 
 Within the arc, most of the time a part is probably optional, depending on the situation—although it’s hard to envision most arcs without some kind of opening, climax, or resolution. Steps other than the opening, the climax, and the resolution can be done in any order.
@@ -850,8 +850,8 @@ This chapter has a selection of sample character arcs, but you can create your o
 >Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
 
 >```dataview
->LIST 
->FROM #Character-Arc 
+>LIST
+>FROM #Character-Arc
 >SORT file.name
 >```
 

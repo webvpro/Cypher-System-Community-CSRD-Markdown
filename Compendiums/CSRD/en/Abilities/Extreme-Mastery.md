@@ -12,9 +12,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Extreme Mastery  
->**Enabler**  
+
+## Extreme Mastery
+>**Enabler**
 >6 Might or 6 Speed points
-  
+
 When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. Enabler.

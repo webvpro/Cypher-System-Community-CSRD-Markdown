@@ -11,12 +11,12 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Nightstick  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Nightstick
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
 >> - Medium weapon

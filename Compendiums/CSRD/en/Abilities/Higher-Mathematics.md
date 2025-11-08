@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Higher Mathematics  
+
+## Higher Mathematics
 >**Enabler**
-  
+
 You are trained in standard and higher mathematics. Enabler.

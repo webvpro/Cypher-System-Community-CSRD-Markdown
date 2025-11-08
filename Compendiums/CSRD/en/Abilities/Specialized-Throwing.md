@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Attack-Skill
 ---
 
-  
-## Specialized Throwing  
+
+## Specialized Throwing
 >**Enabler**
-  
+
 You are specialized in attacks with all weapons that you throw. Enabler.

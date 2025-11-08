@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Experienced Defender  
+
+## Experienced Defender
 >**Enabler**
-  
+
 When wearing armor, you gain +1 to Armor. Enabler.

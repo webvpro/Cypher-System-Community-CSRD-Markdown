@@ -9,9 +9,9 @@ tags:
 - Equipment/Value/25-Gp
 ---
 
-  
-## Hourglass  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Hourglass
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** Moderate, 25 Gp

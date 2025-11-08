@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Develop Coping Strategies"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Develop-Coping-Strategies
 - Character-Arc
 ---
@@ -18,5 +18,5 @@ tags:
 ### Climax: Deal With It
 >You’re put into a situation that tests your coping strategies. They don’t have to work perfectly in order for you to succeed.
 
-### Resolution 
+### Resolution
 >You reflect on what you’ve learned and decide where you want to go from here.

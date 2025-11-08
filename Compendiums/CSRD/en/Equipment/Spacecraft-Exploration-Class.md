@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant-X3
 ---
 
-  
-## Spacecraft, Exploration Class  
-  
->As dragonfly class spacecraft, but larger and able to house a crew of about twenty-five people. Customized for exploration with extended range-sensing capabilities and onboard biological and geological labs (among others) for in situ analysis.  
-> **Options :** Advanced, Science Fiction, Spacecraft  
-> **Level :** 4  
+
+## Spacecraft, Exploration Class
+
+>As dragonfly class spacecraft, but larger and able to house a crew of about twenty-five people. Customized for exploration with extended range-sensing capabilities and onboard biological and geological labs (among others) for in situ analysis.
+> **Options :** Advanced, Science Fiction, Spacecraft
+> **Level :** 4
 > **Value :** Exorbitant X3

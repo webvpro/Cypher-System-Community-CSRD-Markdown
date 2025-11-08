@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Plastic Bag  
-  
->Useful and ubiquitous (won't last long)  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Plastic Bag
+
+>Useful and ubiquitous (won't last long)
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

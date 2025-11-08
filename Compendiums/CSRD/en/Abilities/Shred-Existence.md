@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Shred Existence  
+
+## Shred Existence
 >**Enabler**
-  
+
 When you use Disrupting Touch, Scratch Existence, or Phase Detonation, you inflict an additional 5 points of damage that ignores Armor. Enabler.

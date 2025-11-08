@@ -9,11 +9,11 @@ tags:
 
 ---
 
-  
-## Crossbow Bolts (20)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 1 Gp  
->>[!note] Features  
+
+## Crossbow Bolts (20)
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** 1 Gp
+>>[!note] Features
 >> - Ammunition

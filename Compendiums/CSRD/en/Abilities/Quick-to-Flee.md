@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Quick to Flee  
+
+## Quick to Flee
 >**Enabler**
-  
+
 You are trained in stealth and movement tasks. Enabler.

@@ -10,7 +10,7 @@ tags:
 - Creature/Health/20
 ---
 
-  
+
 ## Death 10 (infinite)
 Death goes by many names, takes many forms, and has only one purpose: to make all equal in the end. Death is often an unwanted visitor—taking the life of someone who is not ready to go—but just as often, they come to those who are ready. To them, Death is a most welcome, the most welcome, guest of all.
 
@@ -27,7 +27,7 @@ Death is ancient, but not old. Wise, but not all-knowing. Brilliant, but not per
 >**Movement:** Variable depending on their form, but Death can move instantaneously almost anywhere that they desire
 >**Modifications:** Seeing through trickery, deception, or bargaining as level 8
 >
->**Combat:** Death kills. They kill any number of ways, depending on their mood, what’s at hand, and how they believe the person should leave their life. Thankfully, death only comes for someone when their time is up. 
+>**Combat:** Death kills. They kill any number of ways, depending on their mood, what’s at hand, and how they believe the person should leave their life. Thankfully, death only comes for someone when their time is up.
 >
 >Still, it’s not considered wise to provoke or challenge Death to physical combat, for there is only one outcome: a single attack from Death kills the victim (except in the rare case where the victim has protection against death, such as with one of Death’s candles).
 >

@@ -47,7 +47,7 @@ When playing a Speaker, you can spend 1 XP to use one of the following player in
 
 >**Unexpected Gift**: An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
 
->[!tip]+ Speaker Stat Pools  
+>[!tip]+ Speaker Stat Pools
 >|Stat|Pool Starting Value|
 |---|---|
 |[[Might]]|8|
@@ -107,8 +107,8 @@ You can use light weapons without penalty. You have an inability with medium and
 
 Appropriate clothing and a light weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.
 
-**Special Abilities**:  
-Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. 
+**Special Abilities**:
+Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
  >[!Info]
  >Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.
@@ -138,7 +138,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
    [[Impart-Ideal|Impart Ideal]]
    [[Inspiring-Ease|Inspiring Ease]]
    [[Interaction-Skills|Interaction Skills]]
-   [[Practiced-in-Armor|Practiced in Armor]] 
+   [[Practiced-in-Armor|Practiced in Armor]]
    [[Skill-With-Defense|Skill With Defense]]
    [[Speedy-Recovery|Speedy Recovery]]
    [[Unexpected-Betrayal|Unexpected Betrayal]]

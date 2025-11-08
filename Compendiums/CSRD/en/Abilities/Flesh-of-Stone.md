@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Flesh of Stone  
+
+## Flesh of Stone
 >**Enabler**
-  
+
 You have +1 to Armor if you do not wear physical armor. Enabler.

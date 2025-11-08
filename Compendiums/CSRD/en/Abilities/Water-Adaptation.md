@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Water Adaptation  
+
+## Water Adaptation
 >**Enabler**
-  
+
 You can breathe water as easily as you breathe air. Enabler.

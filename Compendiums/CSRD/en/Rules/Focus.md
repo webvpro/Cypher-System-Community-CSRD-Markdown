@@ -1,6 +1,6 @@
 ---
 aliases: [Focus, Focus in Cypher]
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Focus
 - Rule/Foci/Choosing
 - Rule/Foci/Connections
@@ -63,10 +63,10 @@ If you want to go even further, you could determine where a character’s focus 
 ## Foci
 
 The full description for each focus ability listed in this section is found in the Abilities chapter, which has descriptions for type, flavor, and focus abilities in a single vast catalog.
-```dataview 
+```dataview
 LIST  WITHOUT ID link(file.link, aliases[0])
-FROM "Compendiums/CSRD/en/Foci" 
-SORT file.name ASC 
+FROM "Compendiums/CSRD/en/Foci"
+SORT file.name ASC
 
 ```
 
@@ -74,7 +74,7 @@ SORT file.name ASC
 This section provides everything you need to create your own foci.
 Every focus has an overarching style, whether that’s exploration, energy manipulation, or simply dealing a lot of damage in combat. These broad classifications are called focus categories.
 
-Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each tier from the Abilities chapter, from tier 1 to tier 6. 
+Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each tier from the Abilities chapter, from tier 1 to tier 6.
 The newly created focus should be named in the form of a verb, like Controls Beasts or Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse or Lights Fires With a Thought.
 
 ####  Focus Categories
@@ -88,7 +88,7 @@ The newly created focus should be named in the form of a verb, like Controls Bea
  > - Movement expertise
  > - Striker combat
  > - Support
- > - Tank combat 
+ > - Tank combat
 
 
 #### Choosing Abilities By Relative Power
@@ -117,7 +117,7 @@ Choosing to create a focus that uses a particular concept—say, creating illusi
 In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn’t mean the focus should automatically be built using the energy manipulation category guidelines (though of course it could, if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
 
  Here’s another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
-The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support). 
+The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
 
 If you’re looking for an ability and can’t seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you’re creating a new earth-moving focus but can’t find enough earth-related abilities to meet your need. It’s easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
 Abilities That Reference Other Abilities
@@ -135,15 +135,15 @@ Think about the kinds of things that might surprise, alarm, or go catastrophical
 #### Ally Use
 Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character’s actions.
 
-Multiple potential themes exist within the ally use category, from abilities that allow a character to summon or craft allies to those that allow them to attract allies through fame, magic, or essential authority or charisma. 
+Multiple potential themes exist within the ally use category, from abilities that allow a character to summon or craft allies to those that allow them to attract allies through fame, magic, or essential authority or charisma.
 
 ##### Connection:
->Choose four relevant connections from the[[Focus-Connections|Focus Connections List]]. 
-##### Additional Equipment 
+>Choose four relevant connections from the[[Focus-Connections|Focus Connections List]].
+##### Additional Equipment
 >Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don’t require anything to gain or retain their benefits.
 ##### Minor Effect Suggestions
 >The NPC ally’s tasks are eased on its next turn.
-##### Major Effect Suggestions 
+##### Major Effect Suggestions
 >The NPC ally gains an immediate extra action.
 ##### The following are examples and not meant to provide a complete list of all possible foci in this category.
 > • [[Builds-Robots|Builds Robots]]
@@ -156,18 +156,18 @@ Multiple potential themes exist within the ally use category, from abilities tha
 
 #####  Ability Selection Guidelines
 ###### Tier 1
-> Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others. 
-> 
+> Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
+>
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. For instance, training in a skill related to the kind of NPC follower the character gains would be appropriate.
-###### Tier 2 
->Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now. 
+###### Tier 2
+>Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now.
 >
 >Sometimes a secondary ability might be appropriate in addition to the ability provided above, perhaps a low-power ability that grants 2 or 3 points to a Pool.
-###### Tier 3 
+###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
 >The other option should be something that benefits the character perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
-###### Tier 4 
+###### Tier 4
 >Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven’t previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
 >
 >Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
@@ -179,11 +179,11 @@ Multiple potential themes exist within the ally use category, from abilities tha
 >Finally, this ability might improve a previously gained follower to level 5.
 ###### Tier 6
 > Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-> 
+>
 > One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided in addition to two other related abilities.
-> 
+>
 > Another high-tier option could provide a handful of level 3 followers to the character.
-> 
+>
 > The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
 #### Basic
 Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
@@ -192,11 +192,11 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 
 ##### Connection
 >Choose four relevant connections from the [[Focus-Connections|Focus Connections List]].
-##### Additional Equipment 
+##### Additional Equipment
 >Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Would Rather Be Reading should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
-##### Minor Effect Suggestions 
+##### Minor Effect Suggestions
 >Next action is eased.
-##### Major Effect Suggestions 
+##### Major Effect Suggestions
 >Make a free, no-action recovery roll that doesn’t count against daily recovery rolls.
 ##### The following are examples and not meant to provide a complete list of all possible foci in this category.
 >• [[Doesnt-Do-Much]]
@@ -206,10 +206,10 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 >• [[Would-Rather-Be-Reading|Would Rather Be Reading]]
 #####  Ability Selection Guidelines
 ###### Tier 1
->Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool. 
+>Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
 Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
 ###### Tier 2
->Choose whichever kind of ability wasn’t chosen at tier 1. 
+>Choose whichever kind of ability wasn’t chosen at tier 1.
 ###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >One option should be a non-fantastic ability that improves the character’s abilities within the focus’s theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
@@ -224,7 +224,7 @@ Alternatively, choose an ability that grants only 2 or 3 points to a particular 
 >Choose an ability that allows the character to branch out slightly—perhaps one like Expert Skill that allows them to automatically succeed on a task they’re trained in.
 >
 >Alternatively, if a nonstandard benefit was provided at tier 4, provide the benefits suggested at tier 4 here.
-###### Tier 6: 
+###### Tier 6:
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >One option should be an ability that provides another 5 or 6 points to a particular Pool best suited to the focus, or that the character can divide up as they wish. Alternatively, training in offense or defense would also be appropriate.
 >
@@ -233,11 +233,11 @@ Alternatively, choose an ability that grants only 2 or 3 points to a particular 
 #### Energy Manipulation
 Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like “void” or “shadow.” These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
 ##### Connection
->Choose four relevant connections from the [[Focus-Connections|Focus Connections List]]. 
+>Choose four relevant connections from the [[Focus-Connections|Focus Connections List]].
 ##### Additional Equipment
 >One or more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don’t require additional equipment.
 ##### Energy Abilities
->If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems). 
+>If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
 ##### Minor Effect Suggestions
 >The target or something near the target is hindered because of residual energy.
 ##### Major Effect Suggestions
@@ -255,7 +255,7 @@ Energy manipulation foci offer abilities that can call fire, electricity, force,
 >
 >Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact or have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
 ###### Tier 2
->Choose whichever kind of ability wasn’t chosen at tier 1. 
+>Choose whichever kind of ability wasn’t chosen at tier 1.
 ###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
@@ -263,13 +263,13 @@ Energy manipulation foci offer abilities that can call fire, electricity, force,
 >
 The other should grant enhanced movement by use of the appropriate energy type, give additional protection provided by the preferred energy, or use the energy in a completely new way, such as by draining the energy from a machine (if using electricity), entombing a victim in a layer of ice (if using cold), creating perfect silence (if using sound), creating a dazzling blast of illumination (if using light), and so on.
 ###### Tier 4
->Choose whichever kind of ability wasn’t chosen at tier 3. 
+>Choose whichever kind of ability wasn’t chosen at tier 3.
 ###### Tier 5
 >Choose a high-tier ability that inflicts damage (and possibly a related effect) that can affect more than one target using the appropriate energy type, or an ability that uses the energy in some fashion not previously used, as described in tiers 3 and 6.
 ###### Tier 6
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several. 
+>One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several.
 >
 >The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
 ####  Environment Manipulation
@@ -277,7 +277,7 @@ Foci that allow a character to move objects, affect gravity, create objects (or 
 
 For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, or lower gravity in a particular area or even on a particular object.
 ##### Connection
->Choose four relevant connections from the [[Focus-Connections|Focus Connections List]]. 
+>Choose four relevant connections from the [[Focus-Connections|Focus Connections List]].
 ##### Additional Equipment
 >Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don’t require anything to gain or retain their benefits.
 ##### Environment Manipulation Abilities
@@ -301,7 +301,7 @@ For example, rather than blasting a foe with a gravity pulse that does damage, a
 >
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
 ###### Tier 2
->Choose a low-tier ability that provides a new defensive or offensive capability related to the focus’s theme. 
+>Choose a low-tier ability that provides a new defensive or offensive capability related to the focus’s theme.
 >
 >Alternatively, this ability might provide an additional or brand-new capability to manipulate the environment related to the focus’s theme.
 ###### Tier 3
@@ -320,10 +320,10 @@ The other mid-tier option should provide an offensive or defensive ability relat
 >
 >The other option should be something that further explores the use of the basic environment manipulation capability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 #### Exploration
-Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations or track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized. 
+Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations or track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized.
 Exploration foci rely on a variety of methods, though training and expertise are the mainstays. Some methods require specific tools (such as a vehicle) to grant the benefits provided, while others might rely on the supernatural or super-science to learn new things and explore strange places from afar.
 ##### Connection
->Choose four relevant connections from the [[Focus-Connections|Focus Connections List]]. 
+>Choose four relevant connections from the [[Focus-Connections|Focus Connections List]].
 ##### Additional Equipment
 >Any object necessary to explore. For instance, starting maps and/or
 a compass would be basic equipment, while someone who uses psychic abilities might require a mirror or crystal sphere to gaze into. Equipment might also include access to a vehicle required for exploration, as previously noted.
@@ -351,7 +351,7 @@ a compass would be basic equipment, while someone who uses psychic abilities mig
 >
 >One option should further improve the basic exploration ability granted, or give a new exploratory, survival, or information-gathering ability.
 >
->The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn’t already granted that) or something that further broadens the character’s ability to explore in the focus’s chosen realm. 
+>The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn’t already granted that) or something that further broadens the character’s ability to explore in the focus’s chosen realm.
 ###### Tier 4
 >Choose a mid-tier offensive or defensive ability (whichever wasn’t offered at tier 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-tier ability that broadens the character’s ability to explore, survive, or gather information.
 ###### Tier 5
@@ -361,17 +361,17 @@ a compass would be basic equipment, while someone who uses psychic abilities mig
 >
 >One option should further improve the basic exploration-themed ability previously granted, or give a brand-new exploratory, survival, or information-gathering ability.
 >
->The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm. 
+>The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
 #### Influence
-Foci that prioritize authority and influence—whether that’s to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position fall within the influence category. 
+Foci that prioritize authority and influence—whether that’s to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position fall within the influence category.
 
 These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people’s attention and influence their actions, or simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
 ##### Connection
->Choose four relevant connections from the [[Focus-Connections|Focus Connections List]]. 
+>Choose four relevant connections from the [[Focus-Connections|Focus Connections List]].
 ##### Additional Equipment
 >Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don’t require anything to gain or retain their benefits.
 ##### Minor Effect Suggestions
->The range or duration of the influencing ability is doubled. 
+>The range or duration of the influencing ability is doubled.
 ##### Major Effect Suggestions
 >An ally or indicated target can take an additional action.
 ##### The following are examples and not meant to provide a complete list of all possible foci in this category.
@@ -399,8 +399,8 @@ These foci grant influence through training and persuasion, by direct mental man
 >Choose a mid-tier ability that is either an offensive or a defensive use of the influence ability, whichever one wasn’t chosen as an option in the previous tier.
 Alternatively, this ability could grant an additional capability related to the kind of influence the focus provides.
 ###### Tier 5
->Choose a high-tier penultimate use of the specific influence ability granted at lower tiers. 
-Alternatively, choose an ability not previously gained at a lower tier, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the tier 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies). 
+>Choose a high-tier penultimate use of the specific influence ability granted at lower tiers.
+Alternatively, choose an ability not previously gained at a lower tier, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the tier 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies).
 ###### Tier 6
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
@@ -412,7 +412,7 @@ Most foci have a basic theme, a “character story” that logically leads to a 
 
 Irregular foci provide a basket of disparate abilities. Usually that’s because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
 ##### Connection
->Choose four relevant connections from the Focus Connections list. 
+>Choose four relevant connections from the Focus Connections list.
 ##### Additional Equipment
 >Any object necessary to the focus’s theme. For instance, a
 superhero-themed focus might grant a superhero costume.
@@ -441,7 +441,7 @@ superhero-themed focus might grant a superhero costume.
 >
 >The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-tier abilities don’t quite get the character where they need to be, this option might further increase a capability unlocked at a lower tier.
 ###### Tier 4
->Choose a mid-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. 
+>Choose a mid-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 ###### Tier 5
 >Choose a high-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 ###### Tier 6
@@ -453,13 +453,13 @@ superhero-themed focus might grant a superhero costume.
 #### Movement Expertise
 Foci that prioritize novel forms of movement—in order to excel in combat, escape situations most others can’t, move with stealth for purposes of theft or escape, or move into locations normally inaccessible fall within the movement expertise category. These foci usually have methods of granting either offense or defense through movement, though they may provide some means of doing both.
 
-The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water or air, or to instantly move via teleportation. 
+The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water or air, or to instantly move via teleportation.
 ##### Connection
->Choose four relevant connections from the Focus Connections list. 
+>Choose four relevant connections from the Focus Connections list.
 ##### Additional Equipment
 >Any object necessary to achieve great speeds, change state, or otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don’t require anything to gain or retain their benefits.
 ##### Minor Effect Suggestions
->The target is dazed, and their next action is hindered. 
+>The target is dazed, and their next action is hindered.
 ##### Major Effect Suggestions
 >The target is stunned and loses their next action.
 ##### The following are examples and not meant to provide a complete list of all possible foci in this category.
@@ -476,7 +476,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 >
 >Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding or training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive or defensive benefit (relying on the use of the initial basic ability), append it as well.
 ###### Tier 2
->Choose a low-tier ability that provides a new offensive or defensive capability related to the focus’s theme. 
+>Choose a low-tier ability that provides a new offensive or defensive capability related to the focus’s theme.
 >
 >Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
 ###### Tier 3
@@ -484,7 +484,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 >
 >One option should provide an additional movement capacity or further improve the basic movement capacity, related to the focus’s theme. This isn’t directly offensive or defensive, but provides the character with a new level of ability or an all-new ability related to their basic movement ability.
 >
->The other option should provide either an offensive or a defensive capability related to the specific form of movement the focus provides. 
+>The other option should provide either an offensive or a defensive capability related to the specific form of movement the focus provides.
 ###### Tier 4
 >Choose a mid-tier ability that further enhances the advantages provided by focus’s movement-enhancing paradigm. This could provide a new or better form of defense (directly, or indirectly if moving to a location or time where danger doesn’t threaten), or a new or better form of offense.
 ###### Tier 5
@@ -503,7 +503,7 @@ Striker combat foci prioritize dealing damage in battle over other concerns. Foc
 
 To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon or martial art, or the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, or something much broader, such as adopting a particularly vicious or unsporting style. A striker combatant might use fire, force, or magnetism as their preferred method of spiking damage.
 ##### Connection
->Choose four relevant connections from the Focus Connections list. 
+>Choose four relevant connections from the Focus Connections list.
 ##### Additional Equipment: The weapon, tool, or other special item or substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Fights Dirty or Murders, a trophy from a previously defeated foe for Battles Robots, or stylish clothes for Fights With Panache.
 ##### Minor Effect Suggestions: The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
 ##### Major Effect Suggestions: Make an immediate additional attack using an attack provided by the focus as part of your turn.
@@ -545,7 +545,7 @@ Foci that allow a character to help others succeed, defend others, heal others w
 
 Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural or sci-fi means of providing healing, or simply easing the cares of others through entertainment.
 
-##### Connection: Choose four relevant connections from the Focus Connections list. 
+##### Connection: Choose four relevant connections from the Focus Connections list.
 ##### Additional Equipment: Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument or similar object in aid of their craft. Some foci in this category don’t require anything to gain or retain their benefits.
 ##### Minor Effect Suggestions: You can draw an attack without having to use an action at any point before the end of the next round.
 ##### Major Effect Suggestions: You can take an extra action in aid of an ally.
@@ -577,15 +577,15 @@ Support foci rely on a variety of methods to provide their help, including marti
 ###### Tier 6
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->One of the options should provide an ultimate method of helping another in the theme of the focus. 
+>One of the options should provide an ultimate method of helping another in the theme of the focus.
 >
 >The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-tier offense or defense is also completely reasonable.
 #### Tank Combat
 Foci that prioritize being able to take a lot of punishment and soak up excess damage from foes fall within the tank combat category. These foci provide offensive abilities too, as well as additional abilities related to the particular method by which improved protection is achieved, but defensive abilities are most pronounced.
 
-Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character’s skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on. 
+Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character’s skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
 ##### Connection
->Choose four relevant connections from the Focus Connections list. 
+>Choose four relevant connections from the Focus Connections list.
 ##### Additional Equipment
 >Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield or other defensive tool used if skilled, or possibly some kind of amulet or serum). Some tank combat foci don’t require anything to gain or retain their benefits.
 ##### Minor Effect Suggestions
@@ -609,13 +609,13 @@ Some tank combat foci involve a physical transformation that grants additional p
 >
 >Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
 ###### Tier 2
->If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks. 
+>If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
 >
 >If the theme of the focus is physical transformation, choose a low-tier ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, or otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 ###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->One option should provide an additional form of protection in keeping with the focus’s theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing. 
+>One option should provide an additional form of protection in keeping with the focus’s theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing.
 >
 >The other option should provide an offensive capability, especially if creating a non-transformation focus that doesn’t already have offensive benefits. That capability could be an enhanced attack or provide some other benefit useful in combat, such as quickly evading or (on the other end of the continuum) becoming immovable.
 ###### Tier 4
@@ -625,7 +625,7 @@ Some tank combat foci involve a physical transformation that grants additional p
 ###### Tier 6
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage. 
+>One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage.
 >
 >The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus’s theme, whether that’s a straight-up damage boost on attacks or better control of an unstable physical transformation.
 

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/2-50-Gp
 ---
 
-  
-## Musical Instrument  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Musical Instrument
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 2-50 Gp

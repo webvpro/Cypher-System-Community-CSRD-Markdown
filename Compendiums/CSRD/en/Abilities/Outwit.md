@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Outwit  
+
+## Outwit
 >**Enabler**
-  
+
 When you make a Speed defense roll, you can use your Intellect in place of your Speed. Enabler.

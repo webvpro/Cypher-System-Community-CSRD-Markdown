@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Ammo Handloading Tools  
-  
->Asset (and needed supplies) for creating ammunition  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Ammo Handloading Tools
+
+>Asset (and needed supplies) for creating ammunition
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Expensive

@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Dark Matter Shroud  
->**Action**  
+
+## Dark Matter Shroud
+>**Action**
 >4 Intellect points
-  
+
 Ribbons of dark matter condense and swirl about you for up to one minute. This shroud eases your Speed defense tasks, inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack, and gives you +1 Armor. Action to initiate.

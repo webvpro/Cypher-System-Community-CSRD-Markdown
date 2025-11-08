@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Make Judgment  
+
+## Make Judgment
 >**Enabler**
-  
+
 You are trained in discerning the truth of a situation, seeing through lies, or otherwise overcoming deception. Enabler.

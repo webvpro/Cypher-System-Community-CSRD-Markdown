@@ -6,12 +6,12 @@ tags:
   - Descriptor/Fairytale
 ---
 
-## Bewitched  
+## Bewitched
 You’re not sure that your thoughts are always your own. You often hear a voice or voices, guiding you and attempting to force your hand. Sometimes these voices are helpful and kind. Other times, not so much. Where do they come from, and are you cursed or blessed by them?
 ### You gain the following characteristics:
 #### Enchanted
 >+4 to your Intellect Pool.
-#### Skill 
+#### Skill
 >You are trained in all tasks involving listening and hearing.
 #### Insight
 >The voices have many things to tell you and some of them are beneficial. Once after each ten-hour recovery roll, you can use a player intrusion without spending an XP.

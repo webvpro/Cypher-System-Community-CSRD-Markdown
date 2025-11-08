@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Sunglasses  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Sunglasses
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

@@ -13,17 +13,17 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Hunting Knife  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Light weapon  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Hunting Knife
+
+>
+> **Options :** Modern, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Light weapon
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Light weapon

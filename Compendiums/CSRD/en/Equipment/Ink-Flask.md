@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/10-Gp
 ---
 
-  
-## Ink (Flask)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Ink (Flask)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 10 Gp

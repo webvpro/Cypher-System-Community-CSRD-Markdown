@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Lead From the Front  
+
+## Lead From the Front
 >**Enabler**
-  
+
 You gain 3 new points to divide among your stat Pools however you wish. Enabler.

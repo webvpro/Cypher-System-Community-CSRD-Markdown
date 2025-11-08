@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/1Gp
 ---
 
-  
-## Blowgun Darts (20)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Blowgun Darts (20)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 1Gp

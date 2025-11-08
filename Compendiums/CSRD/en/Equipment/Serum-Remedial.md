@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Serum, Remedial  
-  
->"Serum" is an often-used term for an ampule of artificially engineered blood and plasma that provides some kind of benefit. Serums of all types are generally dispensed from an autodoc, but may also be obtained as individual units, or in packs or cases. An ampule of remedial serum grants the user 3 points they can add to any Pool. It also has the benefit of relieving hangover symptoms.  
-> **Options :** Advanced, Health Care and Nutrition, Science Fiction  
-> **Level :** 3  
+
+## Serum, Remedial
+
+>"Serum" is an often-used term for an ampule of artificially engineered blood and plasma that provides some kind of benefit. Serums of all types are generally dispensed from an autodoc, but may also be obtained as individual units, or in packs or cases. An ampule of remedial serum grants the user 3 points they can add to any Pool. It also has the benefit of relieving hangover symptoms.
+> **Options :** Advanced, Health Care and Nutrition, Science Fiction
+> **Level :** 3
 > **Value :** Moderate

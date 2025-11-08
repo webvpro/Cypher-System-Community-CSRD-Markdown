@@ -11,13 +11,13 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Radiation Tent  
-  
->Prevents radiation damage for three days  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
-  
->Prevents damage from environmental radiation  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Radiation Tent
+
+>Prevents radiation damage for three days
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Expensive
+
+>Prevents damage from environmental radiation
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Expensive

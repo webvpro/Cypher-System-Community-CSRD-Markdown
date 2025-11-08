@@ -9,11 +9,11 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Riot Gear  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+
+## Riot Gear
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
 >> - Medium armor

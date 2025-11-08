@@ -9,11 +9,11 @@ tags:
 - Equipment/Asset
 ---
 
-  
-## Handheld Scanner  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
+
+## Handheld Scanner
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
 >> - Asset for identifying tasks

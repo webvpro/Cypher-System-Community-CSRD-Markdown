@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Everlight  
-  
->As flashlight, but radioisotope power cell allows the light to shine a bright light up to a very long distance for arbitrary lengths of time.  
-> **Options :** Advanced, Science Fiction, Utility Gear  
-> **Level :** 3  
+
+## Everlight
+
+>As flashlight, but radioisotope power cell allows the light to shine a bright light up to a very long distance for arbitrary lengths of time.
+> **Options :** Advanced, Science Fiction, Utility Gear
+> **Level :** 3
 > **Value :** Inexpensive

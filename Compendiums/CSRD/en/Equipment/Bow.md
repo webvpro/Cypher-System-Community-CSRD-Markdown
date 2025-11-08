@@ -23,36 +23,36 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Bow  
-  
->  
->A bent piece of flexible wood with a taut string connected to each end. It fires arrows. You need two hands to fire it.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive, 30 Gp  
->>[!note] Features  
->> - Long range  
->> - Medium weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Long range  
->> - Medium weapon  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
->> - Long range  
->> - Medium weapon  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
->> - Long range  
+
+## Bow
+
+>
+>A bent piece of flexible wood with a taut string connected to each end. It fires arrows. You need two hands to fire it.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive, 30 Gp
+>>[!note] Features
+>> - Long range
+>> - Medium weapon
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Long range
+>> - Medium weapon
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
+>> - Long range
+>> - Medium weapon
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
+>> - Long range
 >> - Medium weapon

@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Assassin Strike  
->**Enabler**  
+
+## Assassin Strike
+>**Enabler**
 >5 Intellect points
-  
+
 If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler.

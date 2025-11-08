@@ -12,13 +12,13 @@ tags:
 
 ---
 
-  
-## Plasma Saber  
-  
->Produces a 1 m (3 foot) blade of sun-hot plasma that cuts through any material of up to level 7. Can be wielded as either a medium weapon in one hand or as a heavy weapon in two hands (4 damage or 6 damage). It ignores 3 points of a target's Armor (except from force fields).  
-> **Options :** Armament, Fantastic, Science Fiction  
-> **Level :** 5  
-> **Value :** Exorbitant  
->>[!note] Features  
->> - Heavy Weapon  
+
+## Plasma Saber
+
+>Produces a 1 m (3 foot) blade of sun-hot plasma that cuts through any material of up to level 7. Can be wielded as either a medium weapon in one hand or as a heavy weapon in two hands (4 damage or 6 damage). It ignores 3 points of a target's Armor (except from force fields).
+> **Options :** Armament, Fantastic, Science Fiction
+> **Level :** 5
+> **Value :** Exorbitant
+>>[!note] Features
+>> - Heavy Weapon
 >> - Medium Weapon

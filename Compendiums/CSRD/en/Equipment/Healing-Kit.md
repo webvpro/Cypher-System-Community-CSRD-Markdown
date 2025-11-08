@@ -10,11 +10,11 @@ tags:
 - Equipment/Asset
 ---
 
-  
-## Healing Kit  
-  
->A collection of bandages, needles, thread, and basic medicines. Provides an asset on healing tasks. Some parts are reusable, but the kit runs out after about five uses.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Very Expensive, 5 Gp  
->>[!note] Features  
+
+## Healing Kit
+
+>A collection of bandages, needles, thread, and basic medicines. Provides an asset on healing tasks. Some parts are reusable, but the kit runs out after about five uses.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Very Expensive, 5 Gp
+>>[!note] Features
 >> - Asset for healing tasks

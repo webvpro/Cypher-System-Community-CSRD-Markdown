@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Tool Set, Hand Tools  
-  
->Includes hammer, tape measure, screwdriver, pliers, etc  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Tool Set, Hand Tools
+
+>Includes hammer, tape measure, screwdriver, pliers, etc
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

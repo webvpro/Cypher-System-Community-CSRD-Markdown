@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Sneak  
+
+## Sneak
 >**Enabler**
-  
+
 You are trained in stealth and initiative tasks. Enabler.

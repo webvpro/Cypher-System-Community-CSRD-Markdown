@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Run and Fight  
->**Action**  
+
+## Run and Fight
+>**Action**
 >4 Might points
-  
+
 You can move a short distance and make a melee attack that inflicts 2 additional points of damage. Action.

@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Bounding Boots  
-  
->Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent.  
-> **Options :** Apparel & Armor, Fantastic, Science Fiction  
-> **Level :** 4  
+
+## Bounding Boots
+
+>Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent.
+> **Options :** Apparel & Armor, Fantastic, Science Fiction
+> **Level :** 4
 > **Value :** Very Expensive

@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Hand Axe  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Hand Axe
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Light weapon

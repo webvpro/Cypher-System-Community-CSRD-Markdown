@@ -4,7 +4,7 @@ aliases:
 - "Optional Rule: Two Descriptors"
 tags:
 - Compendium/CSRD/en/Rules/Variant-Rule-Two-Descriptors
-- Rule/Optional/Character/Descriptors                      
+- Rule/Optional/Character/Descriptors
 ---
 ## Variant Rule: Two Descriptors
 By having dwarf, elf, or other species take the place of a character’s descriptor, it creates a situation where only human characters have the variability of choosing a descriptor that suits their personality. The GM might instead allow all human characters to have two descriptors, and nonhuman characters to have a standard descriptor in addition to their species descriptor.

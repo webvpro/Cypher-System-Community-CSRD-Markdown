@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Rapier  
-  
->A light sword with a thin blade used for stabbing and slashing.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 25 Gp  
->>[!note] Features  
+
+## Rapier
+
+>A light sword with a thin blade used for stabbing and slashing.
+> **Options :** Fantasy, Utility Gear
+> **Value :** 25 Gp
+>>[!note] Features
 >> - Light weapon

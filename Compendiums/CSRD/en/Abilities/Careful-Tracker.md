@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Careful Tracker  
+
+## Careful Tracker
 >**Enabler**
-  
+
 You are trained in stealth and tracking tasks. Enabler.

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Hold Breath  
+
+## Hold Breath
 >**Enabler**
-  
+
 You can hold your breath for up to five minutes. Enabler.

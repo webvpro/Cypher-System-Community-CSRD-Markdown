@@ -13,9 +13,9 @@ tags:
 - Equipment/Sense-Enhancing-Tools
 ---
 
-  
-## Magic Detector  
->This full-body protective suit is cumbersome and clumsy, not unlike a hazmat suit. However, all of the wearer’s tasks to resist magical effects are eased. If the wearer takes even 1 point of physical damage, the suit rips and no longer functions until it is repaired and resealed. 
-  
-> **Options :** Magical Technology  
-> **Value :** Very Expensive  
+
+## Magic Detector
+>This full-body protective suit is cumbersome and clumsy, not unlike a hazmat suit. However, all of the wearer’s tasks to resist magical effects are eased. If the wearer takes even 1 point of physical damage, the suit rips and no longer functions until it is repaired and resealed.
+
+> **Options :** Magical Technology
+> **Value :** Very Expensive

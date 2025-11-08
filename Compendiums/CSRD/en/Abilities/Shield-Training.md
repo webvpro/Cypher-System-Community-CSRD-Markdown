@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Shield Training  
+
+## Shield Training
 >**Enabler**
-  
+
 If you use a shield, Speed defense tasks are eased by two steps instead of one. Enabler.

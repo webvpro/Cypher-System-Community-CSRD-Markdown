@@ -11,8 +11,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Tower of Will  
+
+## Tower of Will
 >**Enabler**
-  
+
 You are trained in Intellect defense tasks and gain +3 points to your Intellect Pool. Enabler.

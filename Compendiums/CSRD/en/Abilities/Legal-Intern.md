@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Companion
 ---
 
-  
-## Legal Intern  
+
+## Legal Intern
 >**Enabler**
-  
+
 You gain a level 4 follower who is mostly interested in helping with your law-related tasks, but who might also help you in other areas. Enabler.

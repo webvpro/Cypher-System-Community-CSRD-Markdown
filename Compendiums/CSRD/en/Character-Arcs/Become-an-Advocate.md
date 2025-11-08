@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Become an Advocate"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Become-an-Advocate
 - Character-Arc
 ---
@@ -10,11 +10,11 @@ tags:
 
 ### Opening: Sizing up Your Skills
 >You decide what best enables you to be a good advocate, and create a plan.
-### Step: Training and Research 
+### Step: Training and Research
 >Building Your Skills. You practice the skills you’ve learned, and review the successes and failures to continue to improve.
-### Step(s): Building a Relationship 
+### Step(s): Building a Relationship
 >You assist one or more people through a difficult time using your training, skills, and experience.
-### Climax: Lean on Me 
->You succeed or fail at forging the bond. 
-### Resolution 
+### Climax: Lean on Me
+>You succeed or fail at forging the bond.
+### Resolution
 >You reflect on everything you’ve learned and decide what to do next.

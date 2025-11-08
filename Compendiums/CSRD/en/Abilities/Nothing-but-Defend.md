@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Nothing but Defend  
+
+## Nothing but Defend
 >**Action**
-  
+
 If you do nothing on your turn but defend, you are specialized in all defense tasks for one round. Action.

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Tracker  
+
+## Tracker
 >**Enabler**
-  
+
 You are trained in following and identifying tracks. Enabler.

@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Cutlass  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+
+## Cutlass
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
 >> - Medium weapon

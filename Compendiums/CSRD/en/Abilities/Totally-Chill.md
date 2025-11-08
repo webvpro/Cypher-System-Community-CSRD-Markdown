@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Totally Chill  
+
+## Totally Chill
 >**Enabler**
-  
+
 Your ten-minute recovery roll takes you only one round. Enabler.

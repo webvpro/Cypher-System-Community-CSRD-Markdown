@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Auton, Aide  
-  
->Treat as a level 2 follower, which allows the auton modifications in up to two tasks, depending on the particular aide.  
-> **Options :** Advanced, Robots & Ai, Science Fiction  
-> **Level :** 2  
+
+## Auton, Aide
+
+>Treat as a level 2 follower, which allows the auton modifications in up to two tasks, depending on the particular aide.
+> **Options :** Advanced, Robots & Ai, Science Fiction
+> **Level :** 2
 > **Value :** Expensive

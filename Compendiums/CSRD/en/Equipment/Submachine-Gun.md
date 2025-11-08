@@ -19,22 +19,22 @@ tags:
 
 ---
 
-  
-## Submachine Gun  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Medium weapon  
->> - Short range  
->> - rapid-fire weapon  
-  
->Medium weapon (4 damage), short range.  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 3  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Medium Weapon  
->> - Rapid-fire weapon  
+
+## Submachine Gun
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Medium weapon
+>> - Short range
+>> - rapid-fire weapon
+
+>Medium weapon (4 damage), short range.
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 3
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Medium Weapon
+>> - Rapid-fire weapon
 >> - Short Range

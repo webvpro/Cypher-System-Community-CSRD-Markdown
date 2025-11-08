@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Tumbling Moves  
->**Enabler**  
+
+## Tumbling Moves
+>**Enabler**
 >5 Speed points
-  
+
 When you use an action to move, Speed defense rolls are eased until the end of your next turn. Enabler.

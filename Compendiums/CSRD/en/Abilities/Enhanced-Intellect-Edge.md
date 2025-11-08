@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Enhanced Intellect Edge  
+
+## Enhanced Intellect Edge
 >**Enabler**
-  
+
 You gain +1 to your Intellect Edge. Enabler.

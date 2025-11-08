@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Enhanced Might Edge  
+
+## Enhanced Might Edge
 >**Enabler**
-  
+
 You gain +1 to your Might Edge. Enabler.

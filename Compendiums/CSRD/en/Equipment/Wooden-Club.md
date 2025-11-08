@@ -13,17 +13,17 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Wooden Club  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
->> - Light weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+
+## Wooden Club
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
+>> - Light weapon
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
 >> - Light weapon

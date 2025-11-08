@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Iron Rations (1 Day)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Iron Rations (1 Day)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** Inexpensive

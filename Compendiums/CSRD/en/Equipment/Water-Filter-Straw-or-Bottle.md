@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Water Filter Straw or Bottle  
-  
->Filters water while drinking  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Water Filter Straw or Bottle
+
+>Filters water while drinking
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

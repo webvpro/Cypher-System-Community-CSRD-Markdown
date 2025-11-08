@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/1-Gp
 ---
 
-  
-## Iron Spikes (10)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Iron Spikes (10)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 1 Gp

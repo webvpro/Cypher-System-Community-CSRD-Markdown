@@ -11,8 +11,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Robot Fighter  
+
+## Robot Fighter
 >**Enabler**
-  
+
 When fighting a robot or intelligent machine, you are trained in attacks and defense. Enabler.

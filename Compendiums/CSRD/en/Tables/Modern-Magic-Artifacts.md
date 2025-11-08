@@ -7,11 +7,11 @@ tags:
 ---
 
 ## Modern Magic Artifacts
-If cyphers are the expendable magic that is ever-present in fantasy, artifacts are the more durable magic items that can be used over and over again—tomes of weird magic, magical vehicles, and so on. Unlike cyphers, there is no limit to how many artifacts a character can bear. 
-### Artifact Rules 
-Artifacts are more powerful than common equipment or cyphers. 
+If cyphers are the expendable magic that is ever-present in fantasy, artifacts are the more durable magic items that can be used over and over again—tomes of weird magic, magical vehicles, and so on. Unlike cyphers, there is no limit to how many artifacts a character can bear.
+### Artifact Rules
+Artifacts are more powerful than common equipment or cyphers.
 
-Each artifact has a level and a rate of power depletion. When an artifact is used or activated, the player rolls the designated die (1d6, 1d10, 1d20, or 1d00). If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of “—” means that the artifact never depletes, and an entry of “automatic” means that it can be used only once. 
+Each artifact has a level and a rate of power depletion. When an artifact is used or activated, the player rolls the designated die (1d6, 1d10, 1d20, or 1d00). If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of “—” means that the artifact never depletes, and an entry of “automatic” means that it can be used only once.
 
 Depowered artifacts can sometimes be recharged using the repair rules, depending on the item’s nature. Other special abilities can also repower an expended item, but probably for only one use. Powerful magical creatures might be able to recharge artifacts, at least temporarily
 
@@ -30,7 +30,7 @@ Depowered artifacts can sometimes be recharged using the repair rules, depending
 | 17-18 | [[Busy-Box\|Busy Box]]                              |
 | 19-20 | [[Cats-Hide-Their-Paws\|Cats Hide Their Paws]]                  |
 | 21-22 | [[Cloud-Storage\|Cloud Storage]]                         |
-| 23-24 | [[Cloud-Thief\|Cloud Thief]]                           |                                                        
+| 23-24 | [[Cloud-Thief\|Cloud Thief]]                           |
 | 25-26 | [[Color-Cannon\|Color Cannon]]                          |
 | 27-28 | [[Combat-Glasses\|Combat Glasses]]                        |
 | 29-31 | [[Crow-Friend\|Crow Friend]]                           |

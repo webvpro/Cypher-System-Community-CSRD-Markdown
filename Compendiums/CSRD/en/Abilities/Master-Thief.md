@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Master Thief  
+
+## Master Thief
 >**Enabler**
-  
+
 You are trained in climbing, escaping from bonds, slipping through narrow places, and other contortionist moves. Enabler.

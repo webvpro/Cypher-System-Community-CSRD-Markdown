@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Will of Legend  
+
+## Will of Legend
 >**Enabler**
-  
+
 You are immune to attacks that would captivate, mesmerize, charm, or otherwise influence your mind. Enabler.

@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Spaceplane  
-  
->As launch shuttle (contemporary), but fulfills the promise of launch (without boosters), operations and maneuverability in orbit, and reentry and landing on a planetary surface, all without need for massive refurbishment or colossal external network of controllers.  
-> **Options :** Advanced, Science Fiction, Spacecraft  
-> **Level :** 2  
+
+## Spaceplane
+
+>As launch shuttle (contemporary), but fulfills the promise of launch (without boosters), operations and maneuverability in orbit, and reentry and landing on a planetary surface, all without need for massive refurbishment or colossal external network of controllers.
+> **Options :** Advanced, Science Fiction, Spacecraft
+> **Level :** 2
 > **Value :** Exorbitant

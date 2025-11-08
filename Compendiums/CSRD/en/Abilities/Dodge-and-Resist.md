@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Dodge and Resist  
->**Enabler**  
+
+## Dodge and Resist
+>**Enabler**
 >3 Speed points
-  
+
 You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. Enabler.

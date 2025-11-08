@@ -7,10 +7,10 @@ tags:
 - Cypher/Manifest
 ---
 
-  
-## Solvent  
->[!info] Stats  
-> **Level:** 1d10  
+
+## Solvent
+>[!info] Stats
+> **Level:** 1d10
 > **Kind:** Manifest
-  
+
 Dissolves 1 cubic foot of material each round. After one round per cypher level, the cypher becomes inert.

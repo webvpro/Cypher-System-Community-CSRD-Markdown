@@ -15,19 +15,19 @@ tags:
 - Equipment/Weapon/Heavy
 ---
 
-  
-## Heavy Blaster  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
->> - Long range  
-  
->rifle  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Long range  
+
+## Heavy Blaster
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Heavy weapon
+>> - Long range
+
+>rifle
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Long range
 >> - Heavy weapon

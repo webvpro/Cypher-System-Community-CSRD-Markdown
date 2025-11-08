@@ -4,10 +4,10 @@ aliases:
 tags:
 - Compendium/CSRD/en/Rules/Vehicles/Basic
 - Vehicle/Movement
-- Vehicle/Combat 
+- Vehicle/Combat
 ---
 
-## Vehicular Movement  
+## Vehicular Movement
 
 
 Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.
@@ -33,7 +33,7 @@ It’s important to remember that a failed attack doesn’t always mean a miss. 
 This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they’re trying to defend.
 (During a vehicular battle, particularly a space battle, there’s a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they’re all flavor, so they’re represented in the rules generally, rather than specifically.)
 
->[!tip ] 
+>[!tip ]
 >For more details about vehicles, refer to the Genre chapter.
 >
 >Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.

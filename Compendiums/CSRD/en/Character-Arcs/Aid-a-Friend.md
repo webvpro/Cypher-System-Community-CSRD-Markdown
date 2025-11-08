@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Aid a Friend"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Aid-a-Friend
 - Character-Arc
 ---
@@ -15,11 +15,11 @@ tags:
 >The cost and rewards for a character with this arc are the same as those described in the original character arc.
 >
 >The cost and rewards for a character with this arc are the same as those described in the original character arc.
-### Opening: Answering the Call  
+### Opening: Answering the Call
 >Offering to help (or responding to a request for help).
 ### Step(s) and Climax
 >Depends on the friend’s arc. Rewards are the same for you as for the friend.
-### Resolution  
+### Resolution
 >You speak with your friend and learn if they are satisfied. Together, you share what you’ve learned (if anything) and where you will go from here.
 
 

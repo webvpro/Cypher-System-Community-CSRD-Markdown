@@ -10,11 +10,11 @@ tags:
 - Equipment/Weapon/Heavy
 ---
 
-  
-## Greatsword  
-  
->A two-handed version of the broadsword.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Very Expensive, 50 Gp  
->>[!note] Features  
+
+## Greatsword
+
+>A two-handed version of the broadsword.
+> **Options :** Fantasy, Utility Gear
+> **Value :** Very Expensive, 50 Gp
+>>[!note] Features
 >> - Heavy weapon

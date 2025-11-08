@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Modern Rules Module
-The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well. 
+The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well.
 But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.
 ### Molding Characters for a Modern Game
 If you’re trying to portray a psychic with a few basic powers, you might not want to use the Adept character type. Instead, choose a different type (perhaps a Speaker) and encourage foci such as [[Commands-Mental-Powers|Commands Mental Powers]] or [[Focuses-Mind-over-Matter|Focuses Mind over Matter]]. Some of the Adept’s powers might be too over the top for the genre.
@@ -36,21 +36,21 @@ Last, don’t forget foci such as [[Doesnt-Do-Much|Doesn't Do Much]] or [[Would-
 | Mystic/Psychic                          | Adept                                     |
 
 ### Basic Creatures and NPCs for a Modern Game
-#### Businessperson 
+#### Businessperson
 >level 2, business tasks as level 3
-#### Cat 
+#### Cat
 >level 1, Speed defense as level 3
-#### Clerk 
+#### Clerk
 >level 2
-#### Dog 
+#### Dog
 >level 2, perception as level 3
-##### Dog, guard 
+##### Dog, guard
 >level 3, attacks and perception as level 4
-##### Horse: 
->level 3; moves a long distance each round 
-##### Rat 
+##### Horse:
+>level 3; moves a long distance each round
+##### Rat
 >level 1
-##### Worker 
+##### Worker
 >level 2; health 8
 ### Additional Modern Equipment
 In a modern setting, the following items (and anything else appropriate to the real world) are usually available.

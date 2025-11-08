@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Stone Breaker  
+
+## Stone Breaker
 >**Enabler**
-  
+
 Your attacks against objects inflict 4 additional points of damage when you use a melee weapon that you wield in two hands. Enabler.

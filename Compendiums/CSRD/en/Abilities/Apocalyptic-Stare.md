@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Apocalyptic Stare  
+
+## Apocalyptic Stare
 >**Enabler**
-  
+
 Your demeanor is of someone who shouldn't be trifled with. You are trained in intimidation. Enabler.

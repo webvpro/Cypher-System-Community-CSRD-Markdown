@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Tools, General  
-  
->All-purpose tools include a utility knife, tape measure, pliers, small hammer, variable screwdriver, and level.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+
+## Tools, General
+
+>All-purpose tools include a utility knife, tape measure, pliers, small hammer, variable screwdriver, and level.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 3
 > **Value :** Moderate

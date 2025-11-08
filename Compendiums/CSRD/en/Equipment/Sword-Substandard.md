@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Medium
 ---
 
-  
-## Sword (Substandard)  
-  
->won't last long  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Sword (Substandard)
+
+>won't last long
+> **Options :** Fantasy, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
 >> - Medium weapon

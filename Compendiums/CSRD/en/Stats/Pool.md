@@ -1,7 +1,7 @@
 ---
 aliases:
   -  "Pool"
-tags: 
+tags:
 - Compendium/CSRD/en/Stats/Pool
 ---
 ## Pool

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/25-Gp
 ---
 
-  
-## Climbing Kit  
-  
->A set of crampons, pitons, ropes, and tools. Provides an asset on climbing tasks.  
-> **Options :** Fantasy, Utility Gear  
+
+## Climbing Kit
+
+>A set of crampons, pitons, ropes, and tools. Provides an asset on climbing tasks.
+> **Options :** Fantasy, Utility Gear
 > **Value :** 25 Gp

@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Hand Scanner  
-  
->Smartphone-like device customized for analysis; provides an asset for identifying tasks.  
-> **Options :** Advanced, Science Fiction, Sense-Enhancing Tools  
-> **Level :** 4  
+
+## Hand Scanner
+
+>Smartphone-like device customized for analysis; provides an asset for identifying tasks.
+> **Options :** Advanced, Science Fiction, Sense-Enhancing Tools
+> **Level :** 4
 > **Value :** Expensive

@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Restorative Bloom  
->**Action**  
+
+## Restorative Bloom
+>**Action**
 >5 Might points
-  
+
 When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils. Action to produce, action to eat.

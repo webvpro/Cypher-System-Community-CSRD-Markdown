@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Trail Rations (1 Day)  
-  
->  
-> **Options :** Contemporary, Health Care and Nutrition, Modern  
-> **Level :** 1  
+
+## Trail Rations (1 Day)
+
+>
+> **Options :** Contemporary, Health Care and Nutrition, Modern
+> **Level :** 1
 > **Value :** Inexpensive

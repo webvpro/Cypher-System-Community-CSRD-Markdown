@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Trained Without Armor  
+
+## Trained Without Armor
 >**Enabler**
-  
+
 You are trained in Speed defense tasks when not wearing armor. Enabler.

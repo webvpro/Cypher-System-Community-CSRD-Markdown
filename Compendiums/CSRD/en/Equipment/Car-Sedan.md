@@ -11,10 +11,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Car, Sedan  
-  
->As used car, but in better shape. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.  
-> **Options :** Contemporary, Modern, Planetary Vehicle  
-> **Level :** 4  
+
+## Car, Sedan
+
+>As used car, but in better shape. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.
+> **Options :** Contemporary, Modern, Planetary Vehicle
+> **Level :** 4
 > **Value :** Expensive, Very Expensive

@@ -6,7 +6,7 @@ tags:
 - Focus/Category/Fairytale
 ---
 
-  
+
 ## Feigns No Fear
 Everyone thinks you’re brave, intrepid— fearless, even. They tell stories about you, the person who’s never felt fear, how you went out to seek what you see as an elusive emotion and never found it. But you know the truth. You may present yourself as someone who is fearless and courageous, but deep down, you are terrified of everything. Fear drives you, and in its face, you stand tall and shout the loudest. Because you are also afraid of being seen for who you truly are.
 
@@ -16,28 +16,28 @@ Everyone thinks you’re brave, intrepid— fearless, even. They tell stories ab
 
 
 
-### Tier 1 Abilities  
-> [[Surging-Confidence|Surging Confidence]]  
+### Tier 1 Abilities
+> [[Surging-Confidence|Surging Confidence]]
 
-### Tier 2 Abilities  
-> [[Impressive-Display|Impressive Display]]  
-
-
-### Tier 3 Abilities  
-> **Choose One**  
->- [[Flamboyant-Boast|Flamboyant Boast]]  
->- [[Outlaw-Reputation|Outlaw Reputation]]  
+### Tier 2 Abilities
+> [[Impressive-Display|Impressive Display]]
 
 
-### Tier 4 Abilities  
-> [[Combat-Challenge|Combat Challenge]]  
+### Tier 3 Abilities
+> **Choose One**
+>- [[Flamboyant-Boast|Flamboyant Boast]]
+>- [[Outlaw-Reputation|Outlaw Reputation]]
 
 
-### Tier 5 Abilities  
-> [[Band-of-Desperados|Band of Desperados]]  
+### Tier 4 Abilities
+> [[Combat-Challenge|Combat Challenge]]
 
 
-### Tier 6 Abilities  
-> **Choose One**  
->- [[Finishing-Blow|Finishing Blow]]  
+### Tier 5 Abilities
+> [[Band-of-Desperados|Band of Desperados]]
+
+
+### Tier 6 Abilities
+> **Choose One**
+>- [[Finishing-Blow|Finishing Blow]]
 >- [[Heroic-Monster-Bane|Heroic Monster Bane]]

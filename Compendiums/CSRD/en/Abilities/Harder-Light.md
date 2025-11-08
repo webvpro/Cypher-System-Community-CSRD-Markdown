@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Harder Light  
+
+## Harder Light
 >**Enabler**
-  
+
 When you create an object out of hard light, the object is one level higher than normal. Enabler.

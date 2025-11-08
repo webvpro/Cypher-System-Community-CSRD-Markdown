@@ -11,12 +11,12 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Military Body Armor, Light  
-  
->Functions as medium armor (+2 Armor), encumbers as light armor.  
-> **Options :** Apparel & Armor, Contemporary, Modern  
-> **Level :** 4  
-> **Value :** Very Expensive  
->>[!note] Features  
+
+## Military Body Armor, Light
+
+>Functions as medium armor (+2 Armor), encumbers as light armor.
+> **Options :** Apparel & Armor, Contemporary, Modern
+> **Level :** 4
+> **Value :** Very Expensive
+>>[!note] Features
 >> - Medium armor

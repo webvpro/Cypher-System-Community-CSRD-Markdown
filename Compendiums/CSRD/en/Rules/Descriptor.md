@@ -21,10 +21,10 @@ This section details fifty descriptors. Choose one of them for your character. Y
 ## List of Descriptors
 
 The descriptors available are:
-```dataview 
+```dataview
 TABLE WITHOUT ID
 file.link AS "Descriptor"
-FROM #Compendiums/CSRD/en/Descriptors 
+FROM #Compendiums/CSRD/en/Descriptors
 SORT file.name
 ```
 

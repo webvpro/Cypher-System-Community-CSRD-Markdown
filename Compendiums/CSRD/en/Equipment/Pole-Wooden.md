@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/5-Cp
 ---
 
-  
-## Pole, Wooden  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Pole, Wooden
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 5 Cp

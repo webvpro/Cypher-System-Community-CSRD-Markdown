@@ -10,12 +10,12 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Knife, Multipurpose  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Asset to minor repair tasks  
+
+## Knife, Multipurpose
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+>>[!note] Features
+>> - Asset to minor repair tasks
 >> - Light weapon

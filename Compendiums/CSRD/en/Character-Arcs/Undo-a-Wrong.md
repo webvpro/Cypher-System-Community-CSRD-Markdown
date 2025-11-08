@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Undo a Wrong"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Undo-a-Wrong
 - Character-Arc
 ---

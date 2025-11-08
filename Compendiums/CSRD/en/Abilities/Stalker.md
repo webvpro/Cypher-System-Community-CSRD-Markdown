@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Stalker  
+
+## Stalker
 >**Enabler**
-  
+
 You gain an asset to all types of movement tasks (including climbing, swimming, jumping, and balancing). Enabler.

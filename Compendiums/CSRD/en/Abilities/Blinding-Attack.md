@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Special-Attack
 ---
 
-  
-## Blinding Attack  
->**Action**  
+
+## Blinding Attack
+>**Action**
 >3 Speed points
-  
+
 If you have a source of light, you can use it to make a melee attack against a target. If successful, the attack deals no damage, but the target is blinded for one minute. Action.

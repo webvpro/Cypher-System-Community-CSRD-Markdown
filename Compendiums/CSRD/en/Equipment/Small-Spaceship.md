@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Small Spaceship  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Level :** 4  
+
+## Small Spaceship
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Level :** 4
 > **Value :** Exorbitant

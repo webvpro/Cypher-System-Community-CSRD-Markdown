@@ -6,22 +6,22 @@ tags:
   - Descriptor/Fairytale
 ---
 
-## Fragmented  
+## Fragmented
 Sometimes you feel like you are a single being, and other times you think you mightbe more. You feel torn into pieces, unsure which elements are you and which belong to someone else. Or perhaps they’re all you, and you want to find a way to embrace all of your selves.
 ### You gain the following characteristics:
 #### Two Minds
 >+2 to your Intellect Pool.
 #### Skill
 >You’re trained in defense rolls to resist mental effects.
-#### Skill 
+#### Skill
 >You’re trained in all interactions involving lies or trickery.
 #### Adaptable
 >At the beginning of a conversation, choose a specific type of interaction skill, such as persuasion, lying, or intimidation. While the conversation lasts, you have an asset in that skill. You cannot choose the same type of interaction skill again until after you make a ten-hour recovery roll. Enabler.
-#### Inability 
+#### Inability
 >Your memory of events and experiences is spotty. You have an inability in memory-related tasks, such as recalling information, memorizing names, and so on.
-#### Inability 
+#### Inability
 >Staying centered on a single task is difficult for you. You have an inability in tasks requiring focus or concentration.
-#### Additional Equipment 
+#### Additional Equipment
 >You have a journal that you use to keep notes of your experiences and selves.
 #### Initial Link to the Starting Adventure:
 From the following list of options, choose how you became involved in the first adventure.

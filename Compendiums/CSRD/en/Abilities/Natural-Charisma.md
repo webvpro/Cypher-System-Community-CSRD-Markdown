@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Natural Charisma  
+
+## Natural Charisma
 >**Enabler**
-  
+
 You are trained in all social interactions, whether they involve charm, learning a person's secrets, or intimidating others. Enabler.

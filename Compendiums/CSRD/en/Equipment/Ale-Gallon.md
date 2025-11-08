@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/2-Sp
 ---
 
-  
-## Ale, Gallon  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Ale, Gallon
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 2 Sp

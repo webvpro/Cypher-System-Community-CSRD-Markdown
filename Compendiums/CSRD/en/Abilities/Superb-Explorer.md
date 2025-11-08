@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Superb Explorer  
+
+## Superb Explorer
 >**Enabler**
-  
+
 You are trained in searching, listening, climbing, balancing, and jumping tasks. Enabler.

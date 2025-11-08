@@ -15,18 +15,18 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Handcuffs  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Value :** Moderate  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Level :** 5  
+
+## Handcuffs
+
+>
+> **Options :** Modern, Utility Gear
+> **Value :** Moderate
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Level :** 5
 > **Value :** Moderate

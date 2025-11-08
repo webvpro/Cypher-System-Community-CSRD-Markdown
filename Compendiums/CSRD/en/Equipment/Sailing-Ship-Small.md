@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Sailing Ship (Small)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Sailing Ship (Small)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** Very Expensive

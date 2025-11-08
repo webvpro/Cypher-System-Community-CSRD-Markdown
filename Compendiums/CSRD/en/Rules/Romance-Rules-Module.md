@@ -1,6 +1,6 @@
 ---
 aliases: "Romance Rules Module"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Romance-Rules-Module
 ---
 
@@ -15,7 +15,7 @@ Obviously, all of this is doubly important if age is a consideration. If there a
 
 Lastly, recognize that there needs to be a clear boundary between the story and real life. Two characters having a relationship has no impact on real-life feelings of the players. Two characters in a game might be in a relationship while each player is in a relationship in the real world with someone else. And maybe they’re gaming at the same table! If a player can’t distinguish between in-game flirtation or words of endearment and real-world feelings, they shouldn’t be in a romance-focused game.
 
-For more information and advice on safe ways to address consent issues in your game, read the free Consent in Gaming PDF at myMCG.info/consent 
+For more information and advice on safe ways to address consent issues in your game, read the free Consent in Gaming PDF at myMCG.info/consent
 ### The Check-In
 It’s vital that the GM and the players all check in with each other to make sure everyone’s still comfortable with what’s going on in the game. This is particularly important to maintain the boundary between emotions expressed in the story and how people feel in real life.
 ## Basic Creatures and NPCs for a Romance Game
@@ -36,7 +36,7 @@ As play progresses, the PC can attempt to improve the level of the relationship,
 
 Second, the player must make an Intellect-based roll with the desired level of relationship as the difficulty (modified as the GM sees fit).
 
-A relationship can be improved only one level at a time, and the GM and the player should work out an appropriate time interval. For relationships of levels 5 and above, multiple story-based actions and multiple rolls are almost certainly required. 
+A relationship can be improved only one level at a time, and the GM and the player should work out an appropriate time interval. For relationships of levels 5 and above, multiple story-based actions and multiple rolls are almost certainly required.
 >It’s possible for relationship levels to be lopsided, such that the relationship from the point of view of one person is a different level than from the point of view of the other. This should be used sparingly, because it makes things far more complicated. In the case of polyamory, it is possible to have more than two people in a relationship, but even in these situations the connection between any two individuals should have its own level.
 
 ### Romantic Relationship Levels

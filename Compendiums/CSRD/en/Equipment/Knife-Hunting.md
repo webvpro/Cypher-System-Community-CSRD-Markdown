@@ -11,12 +11,12 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Knife, Hunting  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
+
+## Knife, Hunting
+
+>
+> **Options :** Armament, Contemporary, Modern
+> **Level :** 2
+> **Value :** Moderate
+>>[!note] Features
 >> - Light weapon

@@ -20,22 +20,22 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Backpack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 2 Gp, Moderate  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Moderate  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
-  
->A quality, well-packed backpack can carry a surprising amount of gear, including a sleeping bag.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 2  
+
+## Backpack
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** 2 Gp, Moderate
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Moderate
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Moderate
+
+>A quality, well-packed backpack can carry a surprising amount of gear, including a sleeping bag.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 2
 > **Value :** Moderate

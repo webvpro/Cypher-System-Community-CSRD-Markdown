@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Ship Footing  
->**Action**  
+
+## Ship Footing
+>**Action**
 >3 Speed points
-  
+
 For ten minutes, all tasks you attempt while on a spaceship are eased. Action to initiate.

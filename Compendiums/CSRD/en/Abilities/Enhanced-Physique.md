@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Enhanced Physique  
+
+## Enhanced Physique
 >**Enabler**
-  
+
 You gain 3 points to divide among your Might and Speed Pools however you wish. Enabler.

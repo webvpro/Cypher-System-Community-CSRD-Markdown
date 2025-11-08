@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Learned a Few Things  
+
+## Learned a Few Things
 >**Enabler**
-  
+
 You are trained in two areas of knowledge of your choice, or specialized in one area of knowledge of your choice. Enabler.

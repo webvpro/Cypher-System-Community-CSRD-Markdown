@@ -12,9 +12,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Drain Creature  
->**Action**  
+
+## Drain Creature
+>**Action**
 >3+ Intellect points
-  
+
 You can drain energy from a living creature you touch, inflicting 3 points of damage and restoring 3 points to your Might or Speed Pool. Action.

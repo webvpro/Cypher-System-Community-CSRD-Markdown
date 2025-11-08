@@ -15,18 +15,18 @@ tags:
 - Equipment/Armor/Heavy
 ---
 
-  
-## Military Body Armor  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy armor  
-  
->Functions as heavy armor (+3 Armor).  
-> **Options :** Apparel & Armor, Contemporary, Modern  
-> **Level :** 4  
-> **Value :** Very Expensive  
->>[!note] Features  
+
+## Military Body Armor
+
+>
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Heavy armor
+
+>Functions as heavy armor (+3 Armor).
+> **Options :** Apparel & Armor, Contemporary, Modern
+> **Level :** 4
+> **Value :** Very Expensive
+>>[!note] Features
 >> - Heavy armor

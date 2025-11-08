@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Attack-Skill
 ---
 
-  
-## Practiced With Swords  
+
+## Practiced With Swords
 >**Enabler**
-  
+
 You are practiced with swords and can use them without penalty. Enabler.

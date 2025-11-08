@@ -1,6 +1,6 @@
 ---
 aliases: "Fairytale Rules Module"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Fairytale-Rules-Module
 - Rule/Crafting/Magic-Items
 - Rule/Crafting/Cypher
@@ -18,23 +18,23 @@ Potentially, this will also be true in a fairy tale game. Thankfully, death does
 
 Typically, though, if a character dies and chooses to stay dead (or is unable to find a way to return to life), they are dead—they no longer have bodies, abilities, Pools, and so on. They can communicate to the living only through magic. Someone may stay dead for up to about a year (in game time) and still return to life. After that time elapses, death is permanent.
 ### Curses
-In fairy tale games, curses are likely to be common. Most witches can cast curses of one form or another, as can many fey beings, queens, and sea creatures. Even objects and places can cause a character to become cursed. Characters might have multiple curses on them at the same time. 
+In fairy tale games, curses are likely to be common. Most witches can cast curses of one form or another, as can many fey beings, queens, and sea creatures. Even objects and places can cause a character to become cursed. Characters might have multiple curses on them at the same time.
 
 All curses have a level, from 1 to 10. The level affects how hard it is to resist the curse, as well as how severe the effects are and how difficult it is to remove the curse.
 
 Curses work slightly differently than regular damage. Curses can have an impact on the game and the game mechanics (a character is turned into a fish or becomes invisible, all of their interactions are hindered, they take ongoing damage, and so on), or they can have more of a roleplaying impact (a character looks much older, they forget the word “apple,” their skin turns golden). See the Curse table for a list of example curses.
-#### Preventing Curses 
+#### Preventing Curses
 When a character attempts to resist being cursed, they must make an Intellect defense roll against the level of the curse being cast. Being trained in Intellect defense eases
 this task, as does having a skill in curses or resisting curses.
 Often, part of a curse’s effects is hindering curse resistance; thus, a character who already has one curse on them will find defending against a second curse is more difficult (their task is hindered).
-#### Removing Curses 
+#### Removing Curses
 Similar to poison and disease, curses aren’t automatically removed when a character makes a regular recovery roll. Instead, they stick around, continuing to affect the PC long after the curse is cast. In order to rid themselves of a curse, the character must take actions to remove it. The actions required depend on the nature and level of the curse.
 The easiest way to remove a curse is to find, buy, steal, borrow, or otherwise acquire an object that removes curses (such as the blood pearl blossom cypher). Alternatively, the character might be able to pay someone who is skilled in curse removal to do the deed.
-#### Curse Intrusions and Curse Mode 
+#### Curse Intrusions and Curse Mode
 In addition to dealing with the original effect of the curse, a cursed character is more likely to have bad things happen to them. There are two ways for the GM to work this into the game: curse intrusions and Curse Mode. Ideally, you’ll want to use both of these, as they each add something unique to the experience of being cursed.
 >Curse intrusions work like regular GM intrusions, and the cursed character gets XP. However, they only get 1 XP instead of the usual 2, and they must decide whether to keep it or give it to another player. Introduce additional curse intrusions from the Curse Intrusions table when it feels appropriate. This might be anytime the character has a big success, when they’re in a particularly risky position, or when they start to feel like they’ve forgotten about the curse.
 
-##### Curse Mode 
+##### Curse Mode
 When using this rule, the GM increases the range of numbers that trigger a GM intrusion. As soon as a character is cursed, every time they roll a 1 or a 2 (instead of just a 1), they trigger a GM intrusion. As time passes, GM intrusions happen on a roll of 1 to 3, then a roll of 1 to 4, and so on. This potentially means that a die roll in Curse Mode can indicate success i a task and still trigger a GM intrusion. Curse Mode is similar to the Horror Mode optional rule in the Cypher System Rulebook, with one exception: the escalation works at a much slower pace. This is because Curse Mode is not designed to heighten immediate tension, but rather to create a long-term sense of being saddled with an unwanted and unpredictable negative effect.
 
  ###### Typically, the intrusion range is increased by 1 when
@@ -55,7 +55,7 @@ While not all regular GM intrusions are necessarily bad for the character, curse
 | 5  | The character feels an overwhelming urge to start dancing.              |
 | 6  | The character’s clothes are suddenly much too large.                    |
 
-###### Curse Table 
+###### Curse Table
 Roll 1d20 on the Curse table to determine the effect of the curse, or choose one that feels appropriate to the situation and the characters.
 
 Typically, curses that have simple roleplaying effects (such as the character’s inability to speak their own name) are lower-level curses, while those that affect gameplay (such as decreasing recovery roll points) are higher level. Curses that have multiple effects are likely the highest level of all. However, sometimes an incredibly simple curse is still very high level because the caster wants to make it very hard to get rid of.
@@ -83,7 +83,7 @@ Typically, curses that have simple roleplaying effects (such as the character’
 | 19  | Can no longer say, write, or spell their own name                |
 | 20  | No one else remembers or recognizes the character                |
 
-###### Curse Removal Table 
+###### Curse Removal Table
 Some curses have a specific way that they must be removed. Others can be removed in a variety of ways. You can use the table as a reference for ways to remove or undo a curse, or you can roll 1d10 to give a curse a specific method of removal.
 There are also many artifacts, cyphers, and other objects in the world that will remove (or prevent) curses.
 
@@ -101,9 +101,9 @@ There are also many artifacts, cyphers, and other objects in the world that will
 | 10  | Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written.                                     |
 
 
-###### Blessings 
+###### Blessings
 When someone is blessed, it typically means that they are more likely to receive a beneficial GM intrusion when they roll a 1 (or when the GM deems it appropriate to give them an intrusion). The Blessing Intrusions table provides examples of positive GM intrusions that a blessed character might receive.
-###### Blessing Intrusions 
+###### Blessing Intrusions
 | d6 | Blessing                                                           |
 |----|--------------------------------------------------------------------|
 | 1  | Someone randomly gives the character a small gift.                 |
@@ -113,7 +113,7 @@ When someone is blessed, it typically means that they are more likely to receive
 | 5  | Someone nearby just happens to have the thing the character needs. |
 | 6  | A cypher or artifact works even better than expected.              |
 
-### Wishes 
+### Wishes
 Wishes can be granted via objects, creatures such as genies, or as part of a bargain. When the character asks for a wish, the GM assigns it a level. The larger and more difficult the wish, the higher the level. Generally, a wish such as gaining an asset or inexpensive item is level 1, and a wish for an expensive item or for a foe to vanish is level 7.
 
 In order for a wish to be granted, the character must succeed on an Intellect-related task (usually persuasion or possibly intimidation) equal to the wish’s level. On a failed roll, the wish is either not granted at all or is partially granted, depending on the wish and the creature or object that is granting it.
@@ -197,17 +197,17 @@ A player intrusion occurs when a player chooses to alter something in the story,
 >Through the power of your love for another, you use magic to protect someone you care for. They are able to sidestep an attack that would normally do them grave damage.
 
 If a player has no XP to spend, they can’t use a player intrusion.
-#### Minor and Major Special Effect Options 
+#### Minor and Major Special Effect Options
 Any time a PC attempts an action and rolls a natural 19 or 20, they have the option
 of triggering a minor special effect or major special effect, respectively. In fairy tales, almost anything goes, which can be overwhelming to a player trying to decide what their character’s special effect might be. Here are a few special effect options for players to use or be inspired by.
-##### Minor Effect Suggestions 
+##### Minor Effect Suggestions
 >- A weapon comes alive at the perfect moment and does a bit more damage to a foe.
 >- A fluctuation in magic hinders all of the foe’s tasks for one minute.
 >- A curse, spell, or ability has additional force behind it, and lasts a round longer than expected.
 >- The foe’s magical armor begins to dissipate, decreasing the amount of protection it offers on the next attack.
 >- A shapeshifting or disguise spell or ability dazzles the target, easing all tasks related to it.
 >- A magical attack hits the target and something they were holding, causing damage to both.
-##### Major Effect Suggestions 
+##### Major Effect Suggestions
 >- A weapon comes alive at the perfect moment and does a lot more damage to a foe.
 >- A fluctuation in magic prevents a foe from taking their next action.
 >- A curse that was cast upon you by the foe you’re attacking is removed.
@@ -221,39 +221,39 @@ of triggering a minor special effect or major special effect, respectively. In f
 >
 >Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
 ##### Skills
-As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include: 
+As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include:
 • Talking animals*
 • Talking nature*
 • Trickery
-• Using magic 
+• Using magic
 • Weather
 • Baking
-• Cobbling 
+• Cobbling
 • Curses
-• Dancing 
+• Dancing
 • Death
 • Magic
-• Playing an instrument 
+• Playing an instrument
 • Puzzles
 • Riddles
 • Sailing
-• Sensing magic 
+• Sensing magic
 • Singing
 Remember that only skills gained through character type abilities or in other rare instances allow you to become skilled with attack or defense tasks. Thus, all magic skills are noncombat skills only.
 
 >* These skills could be used in a number of different ways, depending on the setting. If the setting has talking animals that the players can’t understand, the talking animals skill could help a PC communicate with them in other ways. If there are talking animals that the characters can understand, the skill could provide an asset in social interactions.
 
 ##### Type
-Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter. 
+Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter.
 
 ###### Suggested Types for a Fairy Tale Game
 Type Name and Flavor Suggestions
 
 ####### [[Warrior]]
 >Huntsman, Skills and knowledge, stealth
->Knight 
->Woodcutter 
->Guard 
+>Knight
+>Woodcutter
+>Guard
 >Archer, Stealth
 
 ####### [[Adept]]
@@ -264,18 +264,18 @@ Type Name and Flavor Suggestions
 >- Magical being (genie, spirit, faerie, and so on)
 
 ####### [[Explorer]]
->Adventurer 
->Dreamer Seeker 
+>Adventurer
+>Dreamer Seeker
 >Sailor/seafarer, Combat
->Wanderer 
+>Wanderer
 >Outlaw, Combat Stealth
 >Thief, Stealth
 >Wolf, Combat Stealth
 
 ####### [[Speaker|Speaker]]
->Aristocrat 
->Princess/prince 
->Entertainer 
+>Aristocrat
+>Princess/prince
+>Entertainer
 >Helper, Magic
 >Trickster, Skills and Knowledge
 
@@ -293,16 +293,16 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - [[Clever]]
 - [[Craven]]
 - [[Creative|Creative]]
-- [[Dishonorable]] 
+- [[Dishonorable]]
 - [[Doomed]]
 - [[Empathic]]
 - [[Exiled]]
 - [[Foolish|Foolish]]
 - [[Guarded]]
-- [[Honorable]] 
-- [[Impulsive]] 
-- [[Inquisitive]] 
-- [[Intelligent]] 
+- [[Honorable]]
+- [[Impulsive]]
+- [[Inquisitive]]
+- [[Intelligent]]
 - [[Intuitive]]
 - [[Jovial]]
 - [[Kind]]
@@ -314,17 +314,17 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - [[Risk-Taking|Risk Taking]]
 - [[Skeptical]]
 - [[Strong|Strong]]
-- [[Strong-Willed|Strong-Willed]] 
-- [[Tongue-Tied|Tongue-Tied]] 
+- [[Strong-Willed|Strong-Willed]]
+- [[Tongue-Tied|Tongue-Tied]]
 - [[Vicious]]
 - [[Virtuous]]
 - [[Weird]]
 ###### Heartwood Descriptors
-• [[Bewitched]] 
+• [[Bewitched]]
 • [[Changeling]]
-• [[Fragmented]] 
+• [[Fragmented]]
 • [[Frumious]]
-• [[Haunted]] 
+• [[Haunted]]
 • [[Lost]]
 
 ##### Focus
@@ -356,16 +356,16 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Entertains|Entertains]]
 - [[Exists-in-Two-Places-at-Once|Exists in Two Places at Once]]
 - [[Exists-Partially-Out-of-Phase|Exists Partially Out of Phase]]
-- [[Explores-Dark-Places|Explores Dark Places]] 
+- [[Explores-Dark-Places|Explores Dark Places]]
 - [[Fights-Dirty|Fights Dirty]]
-- [[Fights-with-Panache|Fights with Panache]] 
+- [[Fights-with-Panache|Fights with Panache]]
 - [[Focuses-Mind-over-Matter|Focuses Mind over Matter]]
-- [[Grows-to-Towering-Heights|Grows to Towering Heights]] 
+- [[Grows-to-Towering-Heights|Grows to Towering Heights]]
 - [[Helps-Their-Friends|Helps Their Friends]]
 - [[Howls-at-the-Moon|Howls at the Moon]]\
 - [[Hunts|Hunts]]
 - [[Infiltrates|Infiltrates]]
-- [[Is-Wanted-by-the-Law|Is Wanted by the Law]] 
+- [[Is-Wanted-by-the-Law|Is Wanted by the Law]]
 - [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
 - [[Leads]]
 - [[Learns-Quickly|Learns Quickly]]
@@ -377,7 +377,7 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Masters-Weaponry|Masters Weaponry]]
 - [[Metes-Out-Justice|Metes Out Justice]]
 - [[Moves-Like-a-Cat|Moves Like a Cat]]
-- [[Moves-Like-the-Wind|Moves Like the Wind]] 
+- [[Moves-Like-the-Wind|Moves Like the Wind]]
 - [[Murders]]
 - [[Needs-No-Weapon|Needs No Weapon]]
 - [[Never-Says-Die|Never Says Die]]
@@ -403,7 +403,7 @@ It gives you benefits when you create your character and each time you ascend to
 - [[Works-Miracles|Works Miracles]]
 - [[Would-Rather-Be-Reading|Would Rather Be Reading]]
 ###### Heartwood Foci
-• [[Befriends-the-Black-Dog|Befriends the Black Dog]]  
+• [[Befriends-the-Black-Dog|Befriends the Black Dog]]
 • [[Curses-the-World]]
 • [[Feigns-No-Fear|Feigns No Fear]]
 • [[Lived-Among-the-Fey|Lived Among the Fey]]
@@ -419,7 +419,7 @@ Best for modern settings or those where traditional fairy tale vehicles such as 
 Best for steampunk or weird science mashups. Edward Scissorhands and the Tin Man are probably characters who Fuse Flesh and Steel. Alternatively, renaming the foci to Fuses Flesh and Magic or Wants to Become a Real Boy can provide characters with the same benefits from a more magical-sounding source.
 
 [[Is-Licensed-to-Carry|Is Licensed to Carry]]
-With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon. 
+With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon.
 
 [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]]
 With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
@@ -448,12 +448,12 @@ they may have names or stories that go with them, and because characters tend to
 In most cases, characters start out by wearing any type of clothing they choose. Typically (unless the GM decides otherwise or unless it is designated as armor),
 this clothing is purely for decorative and roleplaying purposes and offers no additional benefits.
 
-However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks. 
+However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks.
 ##### Optional Rule: I Have That!
 >In fairy tales, characters often have exactly the right mundane piece of equipment
-that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified 
+that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified
 > “Pocket Item” in that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
-> 
+>
 >Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
 >
 >The GM has veto power over items that they don’t think you could have found or carried.
@@ -483,9 +483,9 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 • Paper
 • Plait of hair
 • Pot of fat
-• Pot of grease 
+• Pot of grease
 • Ribbon
-• Rice (handful) 
+• Rice (handful)
 • Straw
 • Tacks
 • Wax
@@ -508,13 +508,13 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 > Suit or ballgown
 ###### Exorbitant
 > - Elegant, bespoke clothing suitable for moving in elite circles (provides an asset in interaction tasks)
-##### Weapons and Protective Gear 
+##### Weapons and Protective Gear
 ###### Inexpensive
 > - Ammunition (12 arrows, 12 crossbow bolts, and so on)
-###### Moderately Priced 
+###### Moderately Priced
 >- Light weapons (knives, handaxe, hairpin, darts, wand, slingshot, and so on)
 >- Light armor (hides and furs, thieves’ armor, leather jerkin, padded coat, and so on)
-###### Expensive 
+###### Expensive
 >- Medium weapon (club, sword, battleaxe, mace, crossbow, spear, staff, and so on)
 >- Medium armor (breastplate, brigade, chainmail, and so on)
 ###### Very Expensive
@@ -526,7 +526,7 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 
 >Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
 ##### Basic Equipment
-###### Inexpensive 
+###### Inexpensive
 >- Candle
 >- Chalk (3)
 >- Day’s rations
@@ -559,24 +559,24 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 >- Bag of heavy tools
 >- Bag of light tools
 >- Box, medium
-###### Very Expensive 
->- Charon’s obol. Imbued coin. 
+###### Very Expensive
+>- Charon’s obol. Imbued coin.
 >>Placed in the mouth of a dead person prior to burial as payment to Charon, the ferryman, for conveying the soul to its proper resting place.
 >- Disguise kit/potion. Asset for disguise tasks.
 >- Healing kit/potion. Asset for healing tasks.
 >- Protective charm. Church bell, four-leaf clover, rabbit’s foot, and so on. Asset on defense rolls against fairies and other fey-like creatures.
 >- Handheld scrying mirror. Asset for initiative tasks when held in hand or worn.
 ##### Travel
-###### Moderately Priced 
+###### Moderately Priced
 >- Common transportation, rental (horse-drawn carriage, boat, mount, and so on)
 >- Lodging, shared room or shed, meager
 ###### Expensive
 >- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, renting magic transportation includes a guide, driver, or other person who can power and operate the vehicle. For example, a levitating mortar can only be driven by a witch of a certain age.
 >- Common transportation, purchase (horse-drawn carriage, boat, mount, and so on)
 >- Lodging, solo room, decent
-###### Very Expensive 
+###### Very Expensive
 >- Lodging, whole building or large room
-###### Exorbitant 
+###### Exorbitant
 >- Magic transportation, rental (chicken-legged hut, levitating mortar, magic carpet, talking mount, flying ship, and so on). In most cases, it’s also necessary to hire a guide, driver, or other person who can control and power the vehicle. Alternatively, characters must take a class, learn a spell, or meet other magic requirements in order to operate the vehicle.
 
 ### Cyphers and Artifacts
@@ -585,12 +585,12 @@ Because magic and thus magic items are so prevalent in most fairy tales, cyphers
 Manifest cyphers should be readily available too—likely they can be found for cheap at a local market, stashed in hollow tree trunks or bird nests, or scattered about the forest floor. Manifest cyphers may also be integrated into people’s clothing or furnishings as unique adornments.
 
 Artifacts are typically more valuable and less common. Therefore, player characters are less likely to encounter them at random and more likely to find them in the hands of NPCs, locked or hidden in chests, or for sale by high-end and specialized vendors. Acquiring an artifact should almost always require a sacrifice, trial, or difficult task.
-#### Cypher Limits 
+#### Cypher Limits
 All characters have a maximum number of cyphers they can have at any one time, determined by their type. If a character ever attempts to carry more cyphers than their limit, the magic within the cyphers quickly begins to attract fey beings. Fey beings may react by stealing one or more cyphers, cursing the character, or even stealing the character away to a fey realm.
 
 >Obviously, having a fey being steal a character away to their realm is a story-changer. If you’re using this as an option, figure out ahead of time what type of fey is attracted, what their realm is like, and how to play out the character’s disappearance and possible retrieval.
 
-##### Fey Being Table 
+##### Fey Being Table
 | d6 | Effect     |
 |----|------------|
 | 1  | Faerie     |
@@ -642,7 +642,7 @@ While characters can find or purchase many of these items in the world, only mag
 | 19  | Spell or hand fan             |
 | 20  | Fallen star or playing card   |
 
-##### Fairy Tale Cypher Table 
+##### Fairy Tale Cypher Table
 | d100 | Cypher                                                  |
 |------|---------------------------------------------------------|
 | 01   | [[Adderstone]]                                              |
@@ -820,7 +820,7 @@ When giving artifacts to characters, either choose from this table or roll d100 
 | 99-00 | [[Vicious-Tankard\|Vicious Tankard]]                 |
 
 ### Beasts and Beings
-The following creatures and characters are provided to help populate your fairy tale game. 
+The following creatures and characters are provided to help populate your fairy tale game.
 Generally, the listings in this book work much the same way as they do for all Cypher System creature listings—the standard template includes the level, description, motive, environment, and so on.
 
 The most important element of each creature is its level. You use the level to determine the target number a PC must reach to attack, defend against, or otherwise interact with a creature or NPC. In each entry, the difficulty number for the creature is listed in parentheses after its level.
@@ -833,7 +833,7 @@ Due to the dual and complex nature of many creatures in fairy tales, along with 
 
 #### Suggested Additional Creatures for Use in Fairy Tale Settings
 The Cypher System Rulebook provides a short list of creatures and NPCs that work well in fairy tale games. The following creatures from that book can also be used, although some may need small tweaks to their appearance or motives to make them more fairy-tale in nature.
-• [[Abomination]] 
+• [[Abomination]]
 • [[Compendiums/CSRD/en/Descriptors/Chimera|Chimera]]
 • [[Demigod]]
 • [[Demon
@@ -853,11 +853,11 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 • [[Nuppeppo]]
 • [[Ogre]]
 • [[Orc]]
-• [[Princess-of-Summer|Prince(ss) of Summer]] 
+• [[Princess-of-Summer|Prince(ss) of Summer]]
 • [[Statue-Animate|Statue, Animate]]
 • [[Witch]]
 • [[Wizard,-Mighty|Wizard, Mighty]]
-##### Beasts and Beings by Archetype 
+##### Beasts and Beings by Archetype
 ###### Animals
 | Animal |
 | ---------------------- |
@@ -902,7 +902,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 | [[Satyr]]                         |
 | [[Troll]]                         |
 
-###### Fey Beings 
+###### Fey Beings
 | Fey                                    |
 | --------------------------------------------- |
 | [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]         |
@@ -925,7 +925,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 | Tunnel bog                                    |
 | Will-o-wisp                                   |
 
-###### Of the Grave   
+###### Of the Grave
 | |
 |---------------------------------------|
 | Death                                 |
@@ -959,7 +959,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 | Snow White       |
 | Toby  the turtle  |
 
-######  Royalty          
+######  Royalty
 |                                 |
 |---------------------------------------------------|
 | [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]                |
@@ -1012,7 +1012,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 | Ghost of the arbella |
 | Grundylow            |
 | Isonade              |
-| Mermaid misery       | 
+| Mermaid misery       |
 | The Sea Herself      |
 | Siren                |
 
@@ -1040,7 +1040,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 
 
 ##### Magical Animals
- **Bear** 
+ **Bear**
 > level 5; health 20; Armor 1; two magical abilities
 
 **Cat**
@@ -1052,12 +1052,12 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 **Fox/Rabbit/Monkey**
 >level 3, cunning and trickery as level 5; two magical abilities
 
-**Horse/Donkey** 
+**Horse/Donkey**
 >level 4; two magical abilities
 
 **Mouse/Rat**
 >level 2; one magical ability
-**Raven/Owl** 
+**Raven/Owl**
 >level 3, intelligence and cunning as level 4; one magical ability
 
 **Snake/Serpent**
@@ -1066,7 +1066,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 **Songbird**
 >level 1; offer sage advice to those they choose; one magical ability
 
-**Stag/Hart** 
+**Stag/Hart**
 >level 4; Armor 1; horns inflict 3 points of damage; two magical abilities
 
 ###### Suggested Magical Abilities for Animals
@@ -1092,7 +1092,7 @@ Some abilities in the game work only on objects, or only on creatures, or only o
 
 The creatures in this section all appear to be animal in their nature, from black dogs and big bad wolves to horses and snarks.
 
-##### Bagheera 
+##### Bagheera
 >This cunning, bold, and brilliant black panther can be someone’s worst enemy or their most loyal friend, protector, and mentor.
 >Level 7; stalking, hunting, sneaking, and chasing prey as level 8; persuasion and positive social interactions as level 8; inflicts 6 points of damage with teeth and claws; can pounce on a victim from a long distance away to inflict 7 points of damage and knock the victim prone.
 
@@ -1198,11 +1198,11 @@ Creatures of water and waves are those that inhabit or are deeply tied to the ri
 >There are many types of creatures known as “drowning fairies,” including Peg Powler, the Water Leaper, Fossegrim, and Jenny Greenteeth. These creatures typically dwell below or next to water and tempt, pull, or trick passersby into the water.
 >Level 6, persuasion and creating illusions as level 7; can grab a creature in short range and pull them into and under the water and attempt to drown them (level 6 Might or Speed defense task to break free)
 
-##### Fuath 
+##### Fuath
 >Fuathan are intangible spirits that dwell deep in the seas and oceans. They consider themselves protectors of these realms, particularly against fishermen and others who would damage the environment or creatures there. Fuathan have the power to make themselves visible, most often taking the form of humanoid creatures with green skin and the flowing mane and tail of a golden horse.
 >Level 5, defense as level 7 due to intangibility; if they know a person’s name, they can gain control over the person, forcing them to do their bidding for a short time
 
-##### Naiad 
+##### Naiad
 >These water nymphs inhabit rivers, springs, waterfalls, and other bodies of fresh water. Typically appearing as beautiful young women with long limbs and flowing hair, naiads are considered protectors, for they guard their land fiercely. However, they are easily provoked and their wrath is fierce.
 >Level 4; can cause water to boil, inflicting 3 points of heat damage on foes; can unleash flash floods that sweep all foes back a very long distance and inflict 2 points of ambient damage (ignores Armor)
 
@@ -1228,7 +1228,7 @@ Health, Not Pools: Remember that NPCs don’t have stat Pools. Instead, they hav
 is subtracted from their health. Unless described otherwise, an NPC’s health
 is always equal to their target number. Some NPCs might have special reactions to or defenses against attacks that would normally deal Speed damage or Intellect damage, but unless the NPC’s description specifically explains this, assume that all damage is subtracted from the NPC’s health.
 
-Naming Your NPCs: You might have noticed that in fairy tales, many characters —especially those of the lower or working classes—don’t have a name beyond their title, position, or profession (or sometimes their marriage status). “The Woodcutter,” “the Tailor,” “the Baker’s wife,” and so on. While you could follow suit and just call your NPC “the Woodcutter,” most player characters are going to ask that person their name. It’s likely to break immersion if you throw in a modern name, or if the NPC tries to explain that they don’t have one, they’re just called “the Woodcutter.” And if you call them all Jack, then no one (including you) will remember which one is which. Consider coming up with a list of names ahead of time so that you’re always ready to give players something to call a new walk-on character. 
+Naming Your NPCs: You might have noticed that in fairy tales, many characters —especially those of the lower or working classes—don’t have a name beyond their title, position, or profession (or sometimes their marriage status). “The Woodcutter,” “the Tailor,” “the Baker’s wife,” and so on. While you could follow suit and just call your NPC “the Woodcutter,” most player characters are going to ask that person their name. It’s likely to break immersion if you throw in a modern name, or if the NPC tries to explain that they don’t have one, they’re just called “the Woodcutter.” And if you call them all Jack, then no one (including you) will remember which one is which. Consider coming up with a list of names ahead of time so that you’re always ready to give players something to call a new walk-on character.
 
 [[Aristocrat]]
 [[Child]]

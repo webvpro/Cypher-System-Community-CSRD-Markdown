@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Knife (Rusty and Worn)  
-  
->won't last long  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+
+## Knife (Rusty and Worn)
+
+>won't last long
+> **Options :** Fantasy, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
 >> - Light weapon

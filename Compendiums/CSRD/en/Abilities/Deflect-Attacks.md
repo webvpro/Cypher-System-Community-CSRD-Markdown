@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Deflect Attacks  
->**Action**  
+
+## Deflect Attacks
+>**Action**
 >1 Intellect point
-  
+
 Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks. Action to initiate.

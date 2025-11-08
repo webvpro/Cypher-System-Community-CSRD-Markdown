@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Satellite Phone  
-  
->As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.  
-> **Options :** Communication, Contemporary, Modern  
-> **Level :** 4  
+
+## Satellite Phone
+
+>As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.
+> **Options :** Communication, Contemporary, Modern
+> **Level :** 4
 > **Value :** Very Expensive

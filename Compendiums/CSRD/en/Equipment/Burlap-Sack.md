@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Burlap Sack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Burlap Sack
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** Inexpensive

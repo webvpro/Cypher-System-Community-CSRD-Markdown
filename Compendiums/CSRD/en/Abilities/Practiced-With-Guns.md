@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Attack-Skill
 ---
 
-  
-## Practiced With Guns  
+
+## Practiced With Guns
 >**Enabler**
-  
+
 You are practiced with guns and suffer no penalty when using one. Enabler.

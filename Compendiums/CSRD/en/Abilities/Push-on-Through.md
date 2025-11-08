@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Push on Through  
->**Enabler**  
+
+## Push on Through
+>**Enabler**
 >2 Might points
-  
+
 You ignore the effects of terrain while moving for one hour. Enabler.

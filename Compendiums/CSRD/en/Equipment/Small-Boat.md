@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Small Boat  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 3  
+
+## Small Boat
+
+>
+> **Options :** Modern, Utility Gear
+> **Level :** 3
 > **Value :** Very Expensive

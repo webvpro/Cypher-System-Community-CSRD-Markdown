@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Cure
 ---
 
-  
-## Quick Recovery  
+
+## Quick Recovery
 >**Enabler**
-  
+
 Your second recovery roll (usually requiring ten minutes) is only a single action. Enabler.

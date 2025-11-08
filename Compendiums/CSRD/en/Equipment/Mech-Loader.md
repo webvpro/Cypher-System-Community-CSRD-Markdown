@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Mech, Loader  
-  
->Powered anthropomorphic exoskeleton frame partially open to the environment. Grants three free levels of Effort to all lifting and hauling tasks. Moves an immediate distance each round. Attacks in the mech (using its loading arms) are hindered, but inflict 10 points of damage. Moves up to a short distance or up to 24 km/h (15 mph) on extended trips.  
-> **Options :** Advanced, Mechs and Tanks, Science Fiction  
-> **Level :** 4  
+
+## Mech, Loader
+
+>Powered anthropomorphic exoskeleton frame partially open to the environment. Grants three free levels of Effort to all lifting and hauling tasks. Moves an immediate distance each round. Attacks in the mech (using its loading arms) are hindered, but inflict 10 points of damage. Moves up to a short distance or up to 24 km/h (15 mph) on extended trips.
+> **Options :** Advanced, Mechs and Tanks, Science Fiction
+> **Level :** 4
 > **Value :** Very Expensive

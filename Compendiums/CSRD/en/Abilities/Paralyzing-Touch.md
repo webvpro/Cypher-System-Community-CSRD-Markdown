@@ -12,12 +12,12 @@ tags:
 - Ability/Categories/Fantasy/Modern
 ---
 
-  
+
 ## Paralyzing Touch
->**Action**  
+>**Action**
 >4 Intellect point
 
-You gather necromantic energy in your fingertip and touch a creature. A target of level 3 or lower is paralyzed and helpless for an hour. Each level of Effort applied increases the level cap of the target by 1. Action. 
+You gather necromantic energy in your fingertip and touch a creature. A target of level 3 or lower is paralyzed and helpless for an hour. Each level of Effort applied increases the level cap of the target by 1. Action.
 
 
 

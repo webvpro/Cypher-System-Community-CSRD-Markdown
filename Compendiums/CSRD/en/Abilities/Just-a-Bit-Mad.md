@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Just a Bit Mad  
+
+## Just a Bit Mad
 >**Enabler**
-  
+
 You are trained in Intellect defense tasks. Enabler.

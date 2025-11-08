@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Information
 ---
 
-  
-## Mechanical Telepathy  
->**Action**  
+
+## Mechanical Telepathy
+>**Action**
 >3 Intellect points
-  
+
 By touching a thinking machine, you gain access to its surface "thoughts." Action.

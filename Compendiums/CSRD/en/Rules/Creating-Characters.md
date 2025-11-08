@@ -5,7 +5,7 @@ aliases:
 tags:
   - Compendium/CSRD/en/Rules/Character-Creation
   - Create/Character
-  - 
+  -
 ---
 
 # Creating Your Character
@@ -20,13 +20,13 @@ Every player character has three defining characteristics, which are typically c
 >
 >Might governs actions from forcing doors open to walking for days without food to resisting disease. It’s also the primary means of determining how much damage your character can sustain in a dangerous situation. Physical characters, tough characters, and characters interested in fighting should focus on Might.
 >
->>[!info]  
+>>[!info]
 >>Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.
- 
+
 ### Speed
 >Speed describes how fast and physically coordinated your character is. The stat embodies quickness, movement, dexterity, and reflexes. Speed governs such divergent actions as dodging attacks, sneaking around quietly, and throwing a ball accurately. It helps determine whether you can move farther on your turn. Nimble, fast, or sneaky characters will want good Speed stats, as will those interested in ranged combat.
 >
->>[!info]  
+>>[!info]
 >>Speed could be thought of as Speed/Agility because it governs your overall swiftness and reflexes.
 
 ### Intellect
@@ -35,16 +35,16 @@ Every player character has three defining characteristics, which are typically c
 >>[!note]
 >Intellect could be thought of as Intellect/Personality because it governs both intelligence and charisma.
 
-### Pool, Edge, Effort  
-Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept: Effort. When your character really needs to accomplish a task, you apply Effort.  
->[!info] 
->Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character. 
+### Pool, Edge, Effort
+Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept: Effort. When your character really needs to accomplish a task, you apply Effort.
+>[!info]
+>Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.
 
 ####  Pool
 >Your Pool is the most basic measurement of a stat. Comparing the Pools of two creatures will give you a general sense of which creature is superior in that stat. For example, a character who has a Might Pool of 16 is stronger (in a basic sense) than a character who has a Might Pool of 12. Most characters start with a Pool of 9 to 12 in most stats—that’s the average range.
 >
 >When your character is injured, sickened, or attacked, you temporarily lose points from one of your stat Pools. The nature of the attack determines which Pool loses points. For example, physical damage from a sword reduces your Might Pool, a poison that makes you clumsy reduces your Speed Pool, and a psionic blast reduces your Intellect Pool. You can also spend points from one of your stat Pools to decrease a task’s difficulty (see Effort, below). You can rest to recover lost points from a stat Pool, and some special abilities or cyphers might allow you to recover lost points quickly.
-#### Edge 
+#### Edge
 >Although your Pool is the basic measurement of a stat, your Edge is also important. When something requires you to spend points from a stat Pool, your Edge for that stat reduces the cost. It also reduces the cost of applying Effort to a roll.
 >
 >For example, let’s say you have a mental blast ability, and activating it costs 1 point from your Intellect Pool. Subtract your Intellect Edge from the activation cost, and the result is how many points you must spend to use the mental blast. If using your Edge reduces the cost to 0, you can use the ability for free.
@@ -88,37 +88,37 @@ Each of the three stats has two components: Pool and Edge. Your Pool represents 
 >Another character is attempting to convince a guard to let them into a private office to speak to an influential noble. The GM rules that this is an Intellect action. The character is third tier and has an Effort of 3, an Intellect Pool of 13, and an Intellect Edge of 1. Before making the roll, they must decide whether to apply Effort. They can choose to apply one, two, or three levels of Effort, or apply none at all. This action is important to them, so they decide to apply two levels of Effort, easing the task by two steps. Thanks to their Intellect Edge, applying the Effort costs only 4 points from their Intellect Pool (3 points for the first level of Effort plus 2 points for the second level minus 1 point for their Edge). Spending those points reduces their Intellect Pool to 9. The GM decides that convincing the guard is a difficulty 3 (demanding) task with a target number of 9; applying two levels of Effort reduces the difficulty to 1 (simple) and the target number to 3. The player rolls a d20 and gets an 8. Because this result is at least equal to the target number of the task, they succeed. However, if they had not applied some Effort, they would have failed because their roll (8) would have been less than the task’s original target number (9).
 
 ## Character Tiers
-Every character starts the game at the first tier. Tier is a measurement of power, toughness, and ability. Characters can advance up to the sixth tier. As your character advances to higher tiers, you gain more abilities, increase your Effort, and can improve a stat’s Edge or increase a stat. Generally speaking, even first-tier characters are already quite capable. It’s safe to assume that they’ve already got some experience under their belt. This is not a “zero to hero” progression, but rather an instance of competent people refining and honing their capabilities and knowledge. Advancing to higher tiers is not really the goal of Cypher System characters, but rather a representation of how characters progress in a story.  
+Every character starts the game at the first tier. Tier is a measurement of power, toughness, and ability. Characters can advance up to the sixth tier. As your character advances to higher tiers, you gain more abilities, increase your Effort, and can improve a stat’s Edge or increase a stat. Generally speaking, even first-tier characters are already quite capable. It’s safe to assume that they’ve already got some experience under their belt. This is not a “zero to hero” progression, but rather an instance of competent people refining and honing their capabilities and knowledge. Advancing to higher tiers is not really the goal of Cypher System characters, but rather a representation of how characters progress in a story.
 
 To progress to the next tier, characters earn experience points (XP) by pursuing character arcs, going on adventures, and discovering new things—the system is about both discovery and exploration, as well as achieving personal goals. Experience points have many uses, and one use is to purchase character benefits. After your character purchases four character benefits, they advance to the next tier. Each benefit costs 4 XP, and you can purchase them in any order, but you must purchase one of each kind of benefit (and then advance to the next tier) before you can purchase the same benefit again. The four character benefits are as follows.
 
 ### Increasing Capabilities
 >You gain 4 points to add to your stat [[Pool|Pools]]. You can allocate the points among the Pools however you wish.
 
-### Moving Toward Perfection  
+### Moving Toward Perfection
 > You add 1 to your [[Might]] [[Edge]], your [[Speed]] [[Edge]], or your [[Intellect]] [[Edge]] (your choice).
 
 ### Extra Effort
->Your [[Effort]] score increases by 1.  
+>Your [[Effort]] score increases by 1.
 
 ###  Skill
 >You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
-> 
-> >[!note]  
+>
+> >[!note]
 > >Skills are a broad category of things your character can learn and accomplish. For a list of sample skills, [[Example-Skills|see here]].
 
-### Other Options  
+### Other Options
 >Players can also spend 4 XP to purchase other special options in lieu of gaining a new skill. Selecting any of these options counts as the skill benefit necessary to advance to the next tier. The special options are as follows:
-> - Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1. 
+> - Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1.
 > - Add 2 to your recovery rolls.
 > - Select a new type-based ability from your tier or a lower tier.
 
 ## Character Descriptor, Type, And Focus
-To create your character, you build a simple statement that describes them. The statement takes this form: “I am a \[fill in an adjective here] \[fill in a noun here] who \[fill in a verb here].” 
+To create your character, you build a simple statement that describes them. The statement takes this form: “I am a \[fill in an adjective here] \[fill in a noun here] who \[fill in a verb here].”
 
 **Thus:** “I am an adjective noun who verbs.” For example, you might say, “I am a [[Rugged|Rugged]] [[Warrior|Warrior]] who [[Controls-Beasts|Controls Beasts]]” or “I am a [[Charming|Charming]] [[Explorer|Explorer]] who [[Focuses-Mind-over-Matter|Focuses Mind over Matter]].”
 
-In this sentence, 
+In this sentence,
 >the adjective is called your descriptor.
 
 >The noun is your character type.
@@ -136,16 +136,16 @@ Even though character type is in the middle of the sentence, that’s where we�
 >[!tip]
 >Unless your GM says otherwise, you can choose from any of the character descriptors.
 
-> [[Focus]] is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence 
+> [[Focus]] is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence
 >“I am an adjective noun who verbs.”
 >There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
 
->[!tip]  
+>[!tip]
 >You can use the Flavors chapter to slightly modify character types to customize them for different genres.
 
 ## Special Abilities
 Character [[Type-x|type]] and [[Focus|foci]]  grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
->[!note] 
+>[!note]
 >1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge.
 
 Sometimes the point cost for an ability has a + sign after the number. For example, the cost might be given as “2+ Intellect points.” That means you can spend more points or more levels of Effort to improve the ability further, as explained in the ability description.
@@ -161,7 +161,7 @@ Some abilities specify a duration, but you can always end one of your own abilit
 Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.
 
 #### Example List
->The Cypher System has no definitive list of skills. However, the following list offers ideas, 
+>The Cypher System has no definitive list of skills. However, the following list offers ideas,
 >- Astronomy
 >- Balancing
 >- Biology
@@ -207,15 +207,15 @@ Only skills gained through character type abilities or other rare instances allo
 
 If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it’s time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can’t select “all mind powers” or “all spells” as one skill and become trained or specialized in such a broad category.
 
->[!tip] In most campaigns  
+>[!tip] In most campaigns
 >fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
 >
 ## Type
 Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 
->In some roleplaying games, your character type might be called your character class.  
+>In some roleplaying games, your character type might be called your character class.
 
-You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish.  
+You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish.
 >Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.
 
 Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
@@ -229,7 +229,7 @@ Finally, more fundamental options for further customization are provided at the 
 >A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
 >
 >Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
->>[!note]  
+>>[!note]
 >>Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
 >>
 >>Player intrusions should be limited to no more than one per player per session.
@@ -258,24 +258,24 @@ Finally, more fundamental options for further customization are provided at the 
 The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
 ### Modifying Type Aspects
 The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.
-#### Stat Pools 
+#### Stat Pools
 >Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.
-#### Edge 
+#### Edge
 >A player can start with an Edge of 1 in whichever stat they wish.
-#### Cypher Use 
+#### Cypher Use
 >If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.
-#### Weapons 
+#### Weapons
 >Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
 ### Drawbacks and Penalties
 In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.
-#### Weakness 
+#### Weakness
 >A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.
 >
 >Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
-#### Inabilities 
+#### Inabilities
 >Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game)
 
-### Flavor 
+### Flavor
 Flavors are groups of special abilities the GM and players can use to alter a character type to make it more to their liking or more appropriate to the genre or setting. For example, if a player wants to create a magic-using thief character, she could play an Adept with stealth flavoring. In a science fiction setting, a Warrior might also have knowledge of machinery, so the character could be flavored with technology.
 
 At a given tier, abilities from a flavor are traded one for one with standard abilities from a type. So to add the Danger Sense stealth flavor ability to a Warrior, something else—perhaps Bash—must be sacrificed. Now that character can choose Danger Sense as they would any other first-tier warrior ability, but they can never choose Bash.
@@ -283,19 +283,19 @@ The GM should always be involved in flavoring a type. For example, they might kn
 
 In the end, flavor is mostly a tool for the GM to easily create campaign-specific types by making a few slight alterations to the four base types. Although players may wish to use flavors to get the characters they want, remember that they can also shape their PCs with descriptors and foci very nicely.
 
-The flavors available are stealth, technology, magic, combat, and skills and knowledge. 
+The flavors available are stealth, technology, magic, combat, and skills and knowledge.
 The full description for each listed ability can be found in the Abilities chapter, which also contains descriptions for type and focus abilities in a single vast catalog.
 
-####  Flavors 
-> - [[Stealth-Flavor|Stealth Flavor]]  
-> - [[Technology-Flavor|Technology Flavor]]  
-> - [[Magic-Flavor|Magic Flavor]] 
-> - [[Combat-Flavor|Combat Flavor]]  
+####  Flavors
+> - [[Stealth-Flavor|Stealth Flavor]]
+> - [[Technology-Flavor|Technology Flavor]]
+> - [[Magic-Flavor|Magic Flavor]]
+> - [[Combat-Flavor|Combat Flavor]]
 > - [[Skills-and-Knowledge-Flavor|Skills and Knowledge Flavor]].
 
 The full description for each listed ability can be found in the [[Abilities|Abilities]] chapter, which also contains descriptions for [[Type|Type]] and [[Focus|Focus]] abilities in a single vast catalog.
 ## ![[Descriptor#Descriptor|Descriptor]]
-## ![[Focus#Focus|Focus]] 
+## ![[Focus#Focus|Focus]]
 ## ![[Abilities#Abilities]]
 ## ![[Equipment#Equipment]]
 

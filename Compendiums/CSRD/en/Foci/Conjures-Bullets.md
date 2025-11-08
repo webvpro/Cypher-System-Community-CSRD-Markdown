@@ -6,10 +6,10 @@ tags:
 - Focus/Category/Magic-Tech
 ---
 
-  
+
 ## Conjures Bullets
 You blend sorcery and firearms into an amazing mix of magic and technology. Bullets and spells are almost interchangeable to you; your magic has a firearm motif and you cast using your gun. You might be a trick-shot sorcerer, a magical member of the armed forces, or an outlaw with a flair for arcane power. Gun nuts and wizard purists might look down on your blended technique, but you can do things that nobody else can do. You might call yourself a guncaster, spellshooter, or triggermage. You wear clothing that leaves your arms and hands free to use your weapon and cast spells, preferring something more flashy than a gunslinger’s long coat and more intimidating than typical magician or witch clothing.
-  
+
 
 ### Connection
 >1. Pick one other PC. You once grazed this character with one of your spell bullets; it’s up to them whether they’ve forgiven you or still resent you for it.
@@ -18,13 +18,13 @@ You blend sorcery and firearms into an amazing mix of magic and technology. Bull
 >4. Pick one other PC. This character can barely hear your gunshots (magical or otherwise), which are no louder than a whisper to them.
 #### Additional Equipment
 >Medium or heavy handgun.
-#### Minor Effect Suggestion 
+#### Minor Effect Suggestion
 >The attack hits the side of the foe’s head, deafening them for a few minutes.
-#### Major Effect Suggestion 
+#### Major Effect Suggestion
 >The foe’s major blood vessel is hit, causing them to bleed 1 point of damage each round until someone succeeds at a difficulty 3 Intellect or Speed task to bind the wound.
 
 #### Tier 1
-##### [[Practiced-With-Guns|Practiced With Guns]] 
+##### [[Practiced-With-Guns|Practiced With Guns]]
 ##### [[Spell-Bullet|Spell Bullet]]
 #### Tier 2
 ##### [[Gun-Jammer|Gun Jammer]]

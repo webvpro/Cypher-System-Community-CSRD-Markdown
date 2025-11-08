@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Bolt Cutters  
-  
->Enables and eases tasks to cut through metal bars.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+
+## Bolt Cutters
+
+>Enables and eases tasks to cut through metal bars.
+> **Options :** Contemporary, Modern, Utility Gear
+> **Level :** 3
 > **Value :** Moderate

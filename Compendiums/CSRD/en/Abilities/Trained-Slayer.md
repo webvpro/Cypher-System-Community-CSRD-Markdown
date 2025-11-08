@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Trained Slayer  
+
+## Trained Slayer
 >**Enabler**
-  
+
 You are trained in using swords. Enabler.

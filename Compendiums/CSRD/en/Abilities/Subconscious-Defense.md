@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Subconscious Defense  
+
+## Subconscious Defense
 >**Enabler**
-  
+
 Your subconscious constantly runs predictive models for avoiding danger. You gain an asset on your Speed defense tasks. Enabler.

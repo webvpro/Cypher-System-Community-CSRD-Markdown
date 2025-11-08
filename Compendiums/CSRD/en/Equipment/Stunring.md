@@ -11,12 +11,12 @@ tags:
 - Equipment/Weapon/Light
 ---
 
-  
-## Stunring  
-  
->As stunstick, but light weapon (difficulty of attack is eased) worn as a set of two rings on the same hand; punch target to use.  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 4  
-> **Value :** Very Expensive  
->>[!note] Features  
+
+## Stunring
+
+>As stunstick, but light weapon (difficulty of attack is eased) worn as a set of two rings on the same hand; punch target to use.
+> **Options :** Advanced, Armament, Science Fiction
+> **Level :** 4
+> **Value :** Very Expensive
+>>[!note] Features
 >> - Light weapon

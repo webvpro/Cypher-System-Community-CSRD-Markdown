@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Hover Speedster, Battle  
-  
->As hover speedster, with the addition of reinforced cowling providing the rider Armor 2. Built-in weapons include deployable swivel long-range energy weapons that inflict 9 points of damage.  
-> **Options :** Fantastic, Planetary Vehicle, Science Fiction  
-> **Level :** 6  
+
+## Hover Speedster, Battle
+
+>As hover speedster, with the addition of reinforced cowling providing the rider Armor 2. Built-in weapons include deployable swivel long-range energy weapons that inflict 9 points of damage.
+> **Options :** Fantastic, Planetary Vehicle, Science Fiction
+> **Level :** 6
 > **Value :** Very Expensive

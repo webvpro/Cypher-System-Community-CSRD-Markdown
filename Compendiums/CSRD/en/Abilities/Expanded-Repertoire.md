@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Expanded Repertoire  
+
+## Expanded Repertoire
 >**Enabler**
-  
+
 The number of subtle cyphers you can bear at the same time increases by one. Enabler.

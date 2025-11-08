@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Portable Lamp  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+
+## Portable Lamp
+
+>
+> **Options :** Science Fiction, Utility Gear
 > **Value :** Moderate

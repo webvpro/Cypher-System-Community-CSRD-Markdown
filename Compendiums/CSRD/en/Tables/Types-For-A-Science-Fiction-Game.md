@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 - "Suggested Types For A Science Fiction Game"
 ---
 ## Suggested Types For A Science Fiction Game

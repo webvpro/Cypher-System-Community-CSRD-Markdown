@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Fists of Fury  
+
+## Fists of Fury
 >**Enabler**
-  
+
 You inflict 2 additional points of damage with unarmed attacks. Enabler.

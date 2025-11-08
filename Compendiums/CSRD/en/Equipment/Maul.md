@@ -9,11 +9,11 @@ tags:
 - Equipment/Weapon/Heavy
 ---
 
-  
-## Maul  
-  
->A larger version of the hammer, such as a sledgehammer.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 10 Gp  
->>[!note] Features  
+
+## Maul
+
+>A larger version of the hammer, such as a sledgehammer.
+> **Options :** Fantasy, Utility Gear
+> **Value :** 10 Gp
+>>[!note] Features
 >> - Heavy weapon

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Enhanced Speed Edge  
+
+## Enhanced Speed Edge
 >**Enabler**
-  
+
 You gain +1 to your Speed Edge. Enabler.

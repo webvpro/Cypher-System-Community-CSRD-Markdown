@@ -9,14 +9,14 @@ tags:
 Most of these descriptors are for characters who are or become significantly nonhuman
 nonhuman; for example, the Dragon descriptor means you’re a four-legged, winged dragon who can breathe flame. These descriptors include suggestions for how to advance or improve your inherent nature as that sort of creature (becoming even more dragonish if you are a Dragon, for example). The GM should allow a character with such a descriptor to choose any of these abilities (and any others the GM feels are appropriate for the descriptor) in place of a type ability, either upon advancing to a new tier or selecting them as an other option of character advancement by spending 4 XP.
 
-#### It’s Only Magic Descriptors  
+#### It’s Only Magic Descriptors
 ##### [[Compendiums/CSRD/en/Descriptors/Chimera|Chimera]], [[Compendiums/CSRD/en/Descriptors/Dragon|Dragon]] , [[Compendiums/CSRD/en/Descriptors/Ghost|Ghost]], [[Hunter|Hunter]], [[Nix|Nix]], [[Sylph|Sylph]], [[Unmagical|Unmagical]]
 
 #### Foci and Character Abilities
 This section presents new foci that can be used as-is in most modern fantasy campaigns. Each of them has an expanded description with more story details than the foci in the Cypher System Rulebook (which have short, broad descriptions suitable for other genres). The GM and player should adjust these details to suit the specific campaign they’ll be playing.
 
 ##### [[Codes-Magic-Apps|Codes Magic Apps]]
-##### [[Conjures-Bullets|Conjures Bullets]] 
+##### [[Conjures-Bullets|Conjures Bullets]]
 ##### [[Practiced-With-Guns|Practiced With Guns]]
 ##### [[Hunts-Witches|Hunts Witches]]
 ##### [[Inks-Spells-on-Skin|Inks Spells on Skin]]
@@ -46,7 +46,7 @@ This section presents new foci that can be used as-is in most modern fantasy cam
 ##### [[Statue-Stasis|Statue Stasis]]
 
 ### Gaming With Superpowers
-#### Building a Superhero 
+#### Building a Superhero
 #### Popular Heroes in the Cypher System
 
 | Character       | Summary                                 | Sentence                                           | Archetype             |
@@ -79,7 +79,7 @@ This section presents new foci that can be used as-is in most modern fantasy cam
 
 The archetypes suggest how to assign your power shifts. This is an important aspect of designing your hero because power shifts are what make your characters exceptional in a “supers” way. Superheroes are known for being faster, tougher, stronger, or smarter than regular people, and that sort of comparison isn’t always part of the abilities you get from your type or focus. A regular person might be very skilled at martial arts, but a superhero martial artist might punch through an iron door, dodge a burst of bullets from a machine gun at close range, or quickly recover from a mortal wound, all thanks to power shifts. This part of each archetype writeup assumes your hero starts with five power shifts, but most archetype descriptions give only two or three suggestions, allowing you some flexibility to customize your superhero. For example, a master athlete with two power shifts in healing is a very different character than one with two power shifts in resilience.
 
->In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character. 
+>In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character.
 
 #### Power Source
 As you’re figuring out what type, descriptor, focus, and power shifts you want for

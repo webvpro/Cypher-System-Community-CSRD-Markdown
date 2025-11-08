@@ -11,8 +11,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Experienced in Armor  
+
+## Experienced in Armor
 >**Enabler**
-  
+
 The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. Enabler.

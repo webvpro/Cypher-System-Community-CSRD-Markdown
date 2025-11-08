@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Expensive
 ---
 
-  
-## Radiation Detector, Handheld  
-  
->Immediate range  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Radiation Detector, Handheld
+
+>Immediate range
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Expensive

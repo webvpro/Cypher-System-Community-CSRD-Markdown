@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Unarmored Fighter  
+
+## Unarmored Fighter
 >**Enabler**
-  
+
 While unarmored, you are trained in Speed defense tasks. Enabler.

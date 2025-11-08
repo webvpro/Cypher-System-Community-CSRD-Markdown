@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Luxury Car  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 5  
+
+## Luxury Car
+
+>
+> **Options :** Modern, Utility Gear
+> **Level :** 5
 > **Value :** Exorbitant

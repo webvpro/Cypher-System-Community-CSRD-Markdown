@@ -17,23 +17,23 @@ tags:
 - Equipment/Armor/Medium
 ---
 
-  
-## Lightweight Body Armor  
-  
->encumbers as Light armor  
-> **Options :** Modern, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Medium armor  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Medium armor  
-  
->encumbers as light armor  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
+
+## Lightweight Body Armor
+
+>encumbers as Light armor
+> **Options :** Modern, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
+>> - Medium armor
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Value :** Expensive
+>>[!note] Features
+>> - Medium armor
+
+>encumbers as light armor
+> **Options :** Post-Apocalyptic, Utility Gear
+> **Value :** Very Expensive
+>>[!note] Features
 >> - Medium armor

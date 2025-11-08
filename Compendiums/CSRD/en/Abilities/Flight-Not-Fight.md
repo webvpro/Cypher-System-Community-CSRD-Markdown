@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Flight Not Fight  
+
+## Flight Not Fight
 >**Enabler**
-  
+
 If you use your action only to move, all Speed defense tasks are eased. Enabler.

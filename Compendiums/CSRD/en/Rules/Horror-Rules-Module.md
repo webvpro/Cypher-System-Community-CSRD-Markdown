@@ -1,6 +1,6 @@
 ---
 aliases: "Horror Rules Module"
-tags: 
+tags:
 - Compendium/CSRD/en/Rules/Horror-Rules-Module
 ---
 
@@ -22,7 +22,7 @@ The following GM intrusions work for most horror genres.
 - Something foils a character’s attempt to escape: a getaway car won’t start, they drop the keys that unlock the exit door or lock up the villain, or the shotgun they’re using to clear a path jams or runs out of shells.
 -  The antagonist enters a secure or sealed room by an unexpected method: crashing through a door or wall, crawling out of a ventilation shaft, jumping out of a trap door, manifesting electronically through a Wi-Fi signal, or teleporting.
 - A mysterious noise nearby amplifies the tension, and when investigated reveals itself to
-be . . . a cat, either perfectly calm or hissing and leaping. This often allows for a momentary de-escalation followed by a real scare, such as the antagonist reaching out of the darkness to grab a character. 
+be . . . a cat, either perfectly calm or hissing and leaping. This often allows for a momentary de-escalation followed by a real scare, such as the antagonist reaching out of the darkness to grab a character.
 - A dramatic and/or ridiculous amount of blood and gore from something that just got killed splashes on a character, blinding them until they take an action to wipe their eyes clean.
 #### Bad Penny
 An unwanted or dangerous object (such as a cursed artifact) keeps turning up, no matter how many times the PCs try to discard or destroy it. In many cases, there might be only one way to rid themselves of the item (such as dousing it with holy water or burying it in a graveyard) or only one way to destroy it (such as burning it in a church or stabbing it with a magical dagger). The item might slowly repair itself—and depending on the item, it might be more frightening if it shows up fully intact or still bearing damage from how the PCs tried to destroy it.
@@ -35,11 +35,11 @@ Every player is given at least two characters to run, each with about the same a
 #### Dead All Along
 A handful of people are forced to stick together under unusual circumstances—they’re survivors of a shipwreck, quarantined to avoid an outbreak of a deadly disease, waiting for a riot to leave their neighborhood, or locked away from an approaching zombie horde. They hear strange noises, glimpse shadowy figures, and find that things move about or disappear when nobody is looking. The PCs begin to suspect they’re being haunted by ghosts or observed by mysterious aliens; one or more of them disappear or are found dead. Eventually the PCs realize that they are ghosts of people who haven’t come to terms with their own deaths, and the weird experiences are their limited interactions with the real world and the living people trying to bury their bodies or put their souls at peace.
 In these stories, the emotional journey of the ghosts is about understanding their situation and coming to terms with their deaths. In normal play, GM intrusions are complications that the characters have to deal with, but to represent the secret and inverted expectation of this module, GM intrusions are used to simplify what the characters experience, but with a spooky twist. When a PC crosses over and disappears, that player can still participate in the game by using the Ghostly Helpers module.
-#### Fragility 
+#### Fragility
 Whenever a character selects the Increasing Capabilities option for advancement or gains an ability that permanently increases their Pools, they can add a maximum of 1 point to their Might Pool and 1 point to their Speed Pool; other points left over (if any) must go to their Intellect Pool, even if that’s not normally an option for the ability. This does not apply to the extra points the player can divide among their Pools at character creation. This creates a more “realistic” game scenario where the PCs are more like normal people who don’t get much more powerful physically over the course of a campaign, but still can learn new skills, advance their minds, and so on.
 
 This module does not affect abilities like Enlarge (which temporarily adds 4 points to your Might Pool), but it does affect abilities like Enhanced Might, Enhanced Speed, and Lead From the Front (which permanently increase one or more Pools).
-#### Ghostly Helpers 
+#### Ghostly Helpers
 In a horror story, it’s common for major characters to be killed or incapacitated, but in a horror RPG, that means the player of a dead character doesn’t have much to do. The Ghostly Helpers module gives players whose characters are out of the game two ways to have an active role in the scenario.
 
 First, the dead character is still able to spend their XP to give a living character a reroll. To facilitate this, the GM should allow players to award the second 1 XP from a GM intrusion to a dead character (although this would come up only if there is one character left alive and the second XP would be wasted) and give dead characters 1 XP whenever there is a group intrusion.
@@ -149,7 +149,7 @@ A character investigates a strange noise on their own. (“It’ll be fine!”)
 - A character runs straight down the road to get away from a pursuing vehicle (instead of onto the sidewalk, behind a big tree, or around a tight corner).
 - A prone or supine character crawls away from approaching danger instead of getting up and running.
 - A character doesn’t call the local authorities for help when they hear something dangerous.
-- A character ignores or rationalizes a weird noise. 
+- A character ignores or rationalizes a weird noise.
 - A character jumps into the water—a lake, swimming pool, sacred fountain, and so on.
 - A character goes into the cave, mine shaft, or creepy house. (“I’m just going to look around for a second.”)
 - A character insists on staying behind while everyone else goes on ahead. (“Someone should be here when the sheriff shows up!”)
@@ -159,7 +159,7 @@ A character investigates a strange noise on their own. (“It’ll be fine!”)
 - A character tries to pet an unknown lifeform.
 - A character tries to make peaceful contact with an obviously hostile entity. (“It’s as frightened of us as we are of it!”)
 - A character unlocks a door or disables a security system to let a scared stranger into a safe area.
-- A character doesn’t bother to turn on the lights. 
+- A character doesn’t bother to turn on the lights.
 - A character uses an action taunting their foe.
 - A character follows a trail of blood.
 - A character ignores good advice from a helpful and knowledgeable NPC. (“That old lady was a superstitious kook.”)
@@ -172,7 +172,7 @@ A character investigates a strange noise on their own. (“It’ll be fine!”)
 - A character tries to help a child who has no reason for being there.
 
 
-#### Possession  
+#### Possession
 Some demons have the ability to possess a living creature, taking over a character’s body as if it were the demon’s own. The demon must touch the character to attempt possession (even if the demon’s touch normally inflicts damage, the possession attempt doesn’t inflict damage). The character must make an Intellect defense roll or become possessed, whereupon the demon’s immaterial form disappears into the character.
 The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing demon can try to control the actions of the host, but the character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. When the demon isn’t trying to control its host, the character can act as they choose. A possessing demon’s actions are limited to controlling its host and leaving the host (the demon can’t use its own abilities while in someone else’s body).
 
@@ -188,14 +188,14 @@ To use a secret twist, the GM first needs to decide three things:
 - The best time to reveal the secret to the other characters. The GM might choose to push it out into the open (perhaps with a GM intrusion) or let the player decide when to reveal it. For example, the GM decides that walking into a dark room with a black light is how all the human PCs realize that one character is really a shapeshifting alien with UV-fluorescing skin, but the GM allows the PC whose family fortune was stolen by another character to bring that up on their own (perhaps when they’re alone with the thief).
 
  If revealing the secret to the players is supposed to happen during the game, it would be suspicious if only one player was pulled aside for a conversation about it—the other players would know something unusual was going on. Instead, the GM can call a quick break in the game and send that player a text. Even better, the GM could send every player a secret text so that nobody is singled out by having to read a text. Alternatively, the GM can give a physical note to every player (perhaps using the secret twist Special Cards); some of these notes might be secrets and some innocuous, but the fact that everyone gets a note disguises who might be getting a secret twist. By making sure that each note has some kind of value (such as by letting a player trade it in later for an asset or a subtle cypher), players who don’t receive a special secret still spend a reasonable amount of time reading the note and keeping it safe.
- 
+
 If the players are especially skilled at roleplaying, there may be opportunities for multiple secret twists, especially those that change a character’s identity. For example, in a scenario where there are duplicates of the PCs walking around in their city (evil twins, clones, aliens, or the like), the identity of individual characters might switch from the originals to duplicates and back again several times during the game.
 
 Multiple shifts of identity are probably easier for the GM and players to handle if they take place over several game sessions and each session starts with players knowing exactly who they’re playing. It also helps if the players take separate notes about what the original and the duplicate know.
 #### Shock
 Shock is an optional rule discussed in the Cypher System Rulebook. When using this rule, seeing something terrifying means a PC must make an Intellect defense roll. The difficulty is based on the level of the scary thing, or the GM can simply choose the level (see the Shock Levels table). Failure on the defense roll means either the character takes Intellect damage or
 the player temporarily loses control of the character (the GM decides if they scream, freeze, run, or take some other appropriate action, perhaps with input from the player).
-##### Shock Levels 
+##### Shock Levels
 | Event                                                                                                   | Level          |
 |---------------------------------------------------------------------------------------------------------|----------------|
 | Something unexpected darts or jumps out                                                                 | 1              |
@@ -225,7 +225,7 @@ Consider the age and maturity of everyone in the game, perhaps in terms of the m
 
 The different ratings suggest different kinds of content for your game. Finding a dead body is horrible, but watching someone get decapitated is something else entirely. Getting chased around by an alien that wants to eat you is one thing, but having it gestate and burst out of your own intestines is another. You need to know where the line is for everyone participating, and you need to know it right from the beginning.
 
-For more information and advice on safe ways to address consent issues in your game, read the free Consent in Gaming PDF at myMCG.info/consent 
+For more information and advice on safe ways to address consent issues in your game, read the free Consent in Gaming PDF at myMCG.info/consent
 
 #### Horror Creatures and NPCs
 The creatures and NPCs in this chapter are provided to help you populate your horror game. The most important element of each creature or NPC is its level. You use the level to determine the target number a PC must reach to attack or defend against the opponent. In each entry, the difficulty number for the creature or NPC is listed in parentheses after its level. The target number is three times the level.

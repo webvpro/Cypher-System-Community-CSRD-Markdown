@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Athlete  
+
+## Athlete
 >**Enabler**
-  
+
 You are trained in carrying, climbing, jumping, and smashing. Enabler.

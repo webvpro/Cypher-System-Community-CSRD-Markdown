@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Inexpensive
 ---
 
-  
-## Food, Perishable  
-  
->Single helping of fruit, vegetable, recently slaughtered animal, etc  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Food, Perishable
+
+>Single helping of fruit, vegetable, recently slaughtered animal, etc
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Inexpensive

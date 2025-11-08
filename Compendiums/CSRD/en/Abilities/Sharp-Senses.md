@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Sharp Senses  
+
+## Sharp Senses
 >**Enabler**
-  
+
 You are trained in all tasks involving perception. Enabler.

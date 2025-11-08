@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Motorboat, Performance  
-  
->As motorboat, but can reach speeds over 128 km/h (80 mph).  
-> **Options :** Fantastic, Planetary Vehicle, Science Fiction  
-> **Level :** 3  
+
+## Motorboat, Performance
+
+>As motorboat, but can reach speeds over 128 km/h (80 mph).
+> **Options :** Fantastic, Planetary Vehicle, Science Fiction
+> **Level :** 3
 > **Value :** Very Expensive

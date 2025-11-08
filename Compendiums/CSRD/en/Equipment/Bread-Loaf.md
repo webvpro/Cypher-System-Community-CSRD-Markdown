@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/2-Cp
 ---
 
-  
-## Bread, Loaf  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Bread, Loaf
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 2 Cp

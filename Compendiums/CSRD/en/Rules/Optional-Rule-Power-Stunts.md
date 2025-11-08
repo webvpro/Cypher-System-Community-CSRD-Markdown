@@ -6,7 +6,7 @@ tags:
 ---
 ### Optional Rule: Power Stunts
 
-A power stunt is pushing a superpower beyond its normal limits or using it to do something it normally can’t do. 
+A power stunt is pushing a superpower beyond its normal limits or using it to do something it normally can’t do.
 #### Examples:
 > • A lightning-blaster hero shooting their electricity farther than normal
 > • A fire-creating hero absorbing fire from a burning building
@@ -18,16 +18,16 @@ The Cypher System Rulebook explains modifying abilities on the fly, describing
 a method of altering the range, area, or other aspects of an Intellect-based ability by spending more Intellect points. In a superhero game, these modifications aren’t limited to Intellect-based abilities—it’s reasonable that a strong hero could affect a larger area with Golem Stomp or an agile hero could disarm more than one opponent using Advantage to Disadvantage. The cost for making these changes works just like modifying an Intellect-based ability. The additional cost uses the same Pool as the ability’s normal cost; if an ability doesn’t have a cost, the GM should choose an appropriate ability for the points to come from.
 
 > - Increasing range costs 1 Pool point per range step increased (immediate to short, short to long, long to very long).
-> 
+>
 > - Increasing duration costs 1 Pool point for one step (one minute to ten minutes, ten minutes to an hour). Durations cannot be increased more than one step in this way. Abilities that last for only an action or a round (such as an Onslaught attack) cannot have their duration increased.
 
 Abilities that don’t have a Pool cost, like Eyes Adjusted, can be modified as well. If modifying the range or duration, the GM decides what Pool the point cost is paid from. However, most abilities like this don’t have ranges or durations, so modifying them requires a difficult, formidable, or impossible task roll.
 
  Modifying the area or other aspects of an ability is more difficult. Instead of increasing the Pool point cost, the character decides how they want to modify their ability, and the GM sets a difficulty of the task to successfully modify it, according to the following guidelines:
 
-#### Difficult (4) 
+#### Difficult (4)
 >Something within the spirit and general idea of the ability, using a self- only ability on another character, or using a single-target ability in a weakened form on two targets. Examples: Using a self-only ability like Hover to give another creature the power to fly. Using Teleportation to go to another dimension instead of somewhere in the same dimension. Splitting Frost Touch or Onslaught into hindered attacks against two opponents.
-#### Formidable (7) 
+#### Formidable (7)
 >Something similar to the description or intent of the ability, but changing its nature, or having a single-target ability affect an area. Examples: Using Hover to make an opponent crash into the ceiling. Using Shroud of Flame to absorb fire. Using Telepathic to talk to a machine or Machine Telepathy to talk to a living person.
 #### Impossible (10)
 >An effect that has nothing to do with the ability’s description or intent. Examples: Using Hover to blast an opponent with fire. Using Foil Danger to copy an opponent’s attack. Using an attack like Thunder Beam to heal someone.

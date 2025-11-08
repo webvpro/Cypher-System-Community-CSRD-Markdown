@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Magic/Modern
 ---
 
-  
+
 ## Library Life
->**Enabler**  
+>**Enabler**
 When a problem needs solving, you may not know the solution, but you know where to look. You are trained in research. Enabler.
 
 

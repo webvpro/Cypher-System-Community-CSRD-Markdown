@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Overcharge Energy  
+
+## Overcharge Energy
 >**Enabler**
-  
+
 When you use Release Energy, it inflicts an additional 2 points of damage. Enabler.

@@ -9,14 +9,14 @@ The regular character creation process makes fully competent, adult characters. 
 ### Age 9 to 13
 #### Slight:
 >–4 to your Might Pool.
-#### Vulnerable 
+#### Vulnerable
 >Adults look out for you. You are trained in all pleasant social interactions with adults.
 #### Inability
 >Might-based tasks are hindered.
-#### Inability 
+#### Inability
 >Tasks involving knowledge are hindered.
 ### Age 14 to 17
-#### Youthful 
+#### Youthful
 >–2 to your Might Pool.
-#### Inability 
+#### Inability
 Tasks involving knowledge are hindered.

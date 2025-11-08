@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 - "Take the Wrong Path"
-tags: 
+tags:
 - Compendium/CSRD/en/Character-Arcs/Take-the-Wrong-Path
 - Character-Arc
 ---
@@ -15,7 +15,7 @@ tags:
 >Things continue to get worse because of your actions. This may play out over any number of steps.
 ### Step(s): Briars and Thorns
 >Your actions hurt yourself and those around you.
-### Climax: Dead End 
+### Climax: Dead End
 >There is no chance for success here. Only failure.
-### Resolution 
+### Resolution
 >You wallow in your own misery.

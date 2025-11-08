@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Divine Knowledge  
+
+## Divine Knowledge
 >**Enabler**
-  
+
 You are trained in all tasks related to knowledge of godly beings. Enabler.

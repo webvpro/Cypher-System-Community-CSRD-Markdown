@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Silent As Space  
+
+## Silent As Space
 >**Enabler**
-  
+
 By taking advantage of microgravity conditions, you gain an asset to stealth and initiative tasks while in zero-gravity or low-gravity conditions. Enabler.

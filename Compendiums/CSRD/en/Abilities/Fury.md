@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Fury  
->**Action**  
+
+## Fury
+>**Action**
 >3 Might points
-  
+
 For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.

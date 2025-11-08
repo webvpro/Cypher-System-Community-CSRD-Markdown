@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Spikes and Hammer  
-  
->10 spikes  
-> **Options :** Fantasy, Utility Gear  
+
+## Spikes and Hammer
+
+>10 spikes
+> **Options :** Fantasy, Utility Gear
 > **Value :** Moderate

@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Wound Tender  
+
+## Wound Tender
 >**Enabler**
-  
+
 You are trained in healing. Enabler.

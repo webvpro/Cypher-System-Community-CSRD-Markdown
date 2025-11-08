@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/NA
 ---
 
-  
-## Beneath Notice  
+
+## Beneath Notice
 >**Enabler**
-  
+
 Your decreased size makes it difficult to find you. While Shrink is active on you, all stealth tasks you attempt are eased. Enabler.

@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/5-Sp
 ---
 
-  
-## Rations (1 Day)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Rations (1 Day)
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** 5 Sp

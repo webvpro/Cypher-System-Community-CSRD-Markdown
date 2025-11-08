@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Nimble Swimmer  
+
+## Nimble Swimmer
 >**Enabler**
-  
+
 You are trained in all defense actions while underwater. Enabler.

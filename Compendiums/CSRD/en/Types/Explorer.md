@@ -37,7 +37,7 @@ You are a person of action and physical ability, fearlessly facing the unknown. 
 
 >**Advanced Explorers**: Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
 
-### Explorer Player Intrusions  
+### Explorer Player Intrusions
 When playing an Explorer, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
 >**Fortuitous Malfunction**: A trap or a dangerous device malfunctions before it can affect you.
@@ -112,7 +112,7 @@ Appropriate clothing and a weapon of your choice, plus two expensive items, two 
 You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.
 
 >**Special Abilities**:
->Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.  
+>Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 >- [[Block|Block]]
 >- [[Danger-Sense|Danger Sense]]
 >- [[Decipher|Decipher]]
@@ -145,8 +145,8 @@ You can use light and medium weapons without penalty. You have an inability with
 >- Skill With Defense
 >- Stand Watch
 >- Travel Skills
->- Wreck  
-### Third-Tier Explorer  
+>- Wreck
+### Third-Tier Explorer
 >Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >- [[Compendium/Abilities/Controlled-Fall|Controlled Fall]]
 - [[Compendium/Abilities/Experienced-in-Armor|Experienced in Armor]]

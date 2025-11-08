@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Movement
 ---
 
-  
-## Bolt Rider  
->**Action**  
+
+## Bolt Rider
+>**Action**
 >4 Intellect points
-  
+
 You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action.

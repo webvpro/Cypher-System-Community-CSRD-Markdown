@@ -9,9 +9,9 @@ tags:
 - Equipment/Value/1-Gp
 ---
 
-  
-## Bedroll  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+
+## Bedroll
+
+>
+> **Options :** Fantasy, Utility Gear
 > **Value :** Moderate, 1 Gp

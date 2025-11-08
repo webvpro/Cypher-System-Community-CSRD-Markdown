@@ -8,9 +8,9 @@ tags:
 - Equipment/Value/Moderate
 ---
 
-  
-## Portable Lamp or Flashlight  
-  
->Requires batteries (expensive version recharges with sunlight or crank)  
-> **Options :** Post-Apocalyptic, Utility Gear  
+
+## Portable Lamp or Flashlight
+
+>Requires batteries (expensive version recharges with sunlight or crank)
+> **Options :** Post-Apocalyptic, Utility Gear
 > **Value :** Moderate

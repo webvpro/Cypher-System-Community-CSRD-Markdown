@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Knowing  
+
+## Knowing
 >**Enabler**
-  
+
 You are trained in one area of knowledge of your choice. Enabler.

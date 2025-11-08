@@ -11,9 +11,9 @@ tags:
 - Ability/Categories/Meta
 ---
 
-  
-## Two Things at Once  
->**Enabler**  
+
+## Two Things at Once
+>**Enabler**
 >6 Intellect points
-  
+
 The ultimate test: you divide your attention and take two separate actions this round. Enabler.

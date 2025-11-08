@@ -9,10 +9,10 @@ tags:
 - Equipment/Value/Exorbitant
 ---
 
-  
-## Luxury Hovercar  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Level :** 5  
+
+## Luxury Hovercar
+
+>
+> **Options :** Science Fiction, Utility Gear
+> **Level :** 5
 > **Value :** Exorbitant

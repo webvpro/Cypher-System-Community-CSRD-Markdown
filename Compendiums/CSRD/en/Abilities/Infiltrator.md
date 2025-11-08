@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Task
 ---
 
-  
-## Infiltrator  
+
+## Infiltrator
 >**Enabler**
-  
+
 You are trained in interactions involving lies or trickery. Enabler.

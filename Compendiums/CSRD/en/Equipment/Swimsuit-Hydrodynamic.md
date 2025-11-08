@@ -10,10 +10,10 @@ tags:
 - Equipment/Value/Very-Expensive
 ---
 
-  
-## Swimsuit, Hydrodynamic  
-  
->Next-generation materials repel water, increase oxygen consumption, and shape swimmer's body to better swimming ideal; provides two free levels of Effort to swimming tasks.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
+
+## Swimsuit, Hydrodynamic
+
+>Next-generation materials repel water, increase oxygen consumption, and shape swimmer's body to better swimming ideal; provides two free levels of Effort to swimming tasks.
+> **Options :** Advanced, Apparel & Armor, Science Fiction
+> **Level :** 4
 > **Value :** Very Expensive

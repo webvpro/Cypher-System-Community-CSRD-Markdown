@@ -10,8 +10,8 @@ tags:
 - Ability/Categories/Protection
 ---
 
-  
-## Versatile Mind  
+
+## Versatile Mind
 >**Enabler**
-  
+
 When you make a Speed defense roll, you can use your Intellect in place of your Speed. Enabler.

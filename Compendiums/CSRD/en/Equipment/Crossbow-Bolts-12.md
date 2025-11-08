@@ -9,11 +9,11 @@ tags:
 
 ---
 
-  
-## Crossbow Bolts (12)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+
+## Crossbow Bolts (12)
+
+>
+> **Options :** Fantasy, Utility Gear
+> **Value :** Inexpensive
+>>[!note] Features
 >> - Ammunition
