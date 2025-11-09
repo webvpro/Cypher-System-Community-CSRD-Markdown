@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Swindling"
+  - "Optional Rule: Swindling"
 tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Swindling
   - Rule/Optional
 ---
 
-# Swindling
+## Optional Rule: Swindling
 
 A person with this vice is called a Shyster. They're tricksters, but who
 doesn't love a good trick? Shysters are mirage merchants who tell others

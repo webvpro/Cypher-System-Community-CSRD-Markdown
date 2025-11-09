@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Drinking"
+  - "Optional Rule: Drinking"
 tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Drinking
   - Rule/Optional
 ---
 
-# Drinking
+## Optional Rule: Drinking
 
 A person with this vice is called an Inebriate.
 

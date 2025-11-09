@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Gambling"
+  - "Optional Rule: Gambling"
 tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Gambling
   - Rule/Optional
 ---
 
-# Gambling
+## Optional Rule: Gambling
 
 A person with this vice is called a Cardsharp.
 

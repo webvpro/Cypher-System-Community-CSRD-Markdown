@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Deck As D20"
+  - "Optional Rule: Deck As D20"
 tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Deck-As-D20
   - Rule/Optional
 ---
 
-# Deck As D20
+## Optional Rule: Deck As D20
 
 Rolling a d20 offers a consistent 5% chance to produce any number from 1
 to 20.
