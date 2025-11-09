@@ -1,82 +1,58 @@
----
-aliases: [Cypher SRD Changelog]
-tags: [Cypher/Changelog]
----
+# Cypher SRD Changelog
 
-## Cypher SRD Changelog
+## August 22, 2025
 
-## 2025-08-22
+This update is a big one — about 107,000 new words spread across 47 brand-new sections. Nearly all of it is additive: two full genre modules, a batch of new creatures, a handful of optional rules, and some behind-the-scenes cleanup. Only three existing sections changed at all, and those were just table-format tweaks.
 
-The 2025-08-22 update is primarily additive, adding ~107,000 words of new content across 47 new sections. Only 3 existing sections had minor table formatting changes. This update adds two complete genre modules (Cyberpunk and Weird West), 17 new creatures, 5 optional rules, and various supporting content.
+### What’s New
 
-### New Content Added
+**Cyberpunk Genre Module** (~57k words, 4 files)  
+- New character types (Solo, Hotshot, Broker, Tech) with matching abilities and descriptors  
+- Expanded lists for weapons, armor, cybernetics, vehicles, and other gear  
+- Technology-focused cyphers and temporary abilities  
+- Full rules for AI, hacking, cybernetic integration, and genre-specific play mechanics  
 
-**Cyberpunk Genre Module** (4 files, ~57,000 words)
-- Character types (Solo, Hotshot, Broker, Tech), abilities, and descriptors
-- Weapons, armor, cybernetics, vehicles, and gear
-- Technology-themed cyphers and temporary abilities
-- AI systems, hacking, cybernetics integration, and genre-specific mechanics
+**Weird West Genre Module** (~20k words, 7 files)  
+- Western-flavored character types and descriptors  
+- Alchemical rounds, artifacts, and magical items  
+- Old-West gear and currency systems  
+- Rules for curses, vices, and addiction  
+- A lineup of supernatural creatures and frontier threats  
 
-**Weird West Genre Module** (7 files, ~20,000 words)
-- Frontier character types and descriptors
-- Alchemical rounds, western artifacts, and magical items
-- Western-era equipment and currency systems
-- Curse mechanics for western horror
-- Supernatural creatures, environmental dangers, and threats
-- Character vices and addiction mechanics
+**New Creatures (17 total)**  
+- *Weird West:* Dire Coyote, Hellfire Steed, Hex Gunner, Hollowed Ranger, Inkubus, Risen, Shade of the Tomb, Sulfur Stalker, Tombdrift  
+- *Fantasy/Horror:* Alchemist, Angalith, Deathbinder, Frostwalker  
+- *Generic NPCs:* Forgeborn, Necrovore, Gunfighters, and Animals  
 
-**New Creatures** (17 files)
-- 9 Weird West creatures: Dire Coyote, Hellfire Steed, Hex Gunner, Hollowed Ranger, Inkubus, Risen, Shade of the Tomb, Sulfur Stalker, Tombdrift
-- 4 Fantasy/Horror creatures: Alchemist, Angalith, Deathbinder, Frostwalker
-- 4 Generic/Multi-variant NPCs: Forgeborn, Necrovore, Gunfighters, Animals
+**New Optional Rules (5 total)**  
+Drinking, Gambling, Swindling, Survival, and Deck-as-D20 mechanics.
 
-**New Optional Rules** (5 files)
-- Drinking, Gambling, Swindling, Survival, and Deck-As-D20 mechanics
-
-**Other New Content**
-- Post-apocalyptic threats and hazards
-- Cypher Shorts scenarios (Tall Tales, Hands of Fate)
+**Other Additions**  
+Post-apocalyptic hazards, plus two short adventure seeds — *Tall Tales* and *Hands of Fate.*
 
 ### Changes to Existing Content
 
-**Table Formatting Updates**
-- Updated Task Difficulty table headers from bold to plain format to match 2025 source
+- Task Difficulty tables had their header formatting simplified (bold → plain) to stay consistent with newer source materials.
 
-### Repository Improvements
+### Repository Cleanup and Quality Pass
 
-As part of this update, the following repository-wide improvements were made:
+- Stripped trailing whitespace from nearly 2,800 files  
+- Converted 13 creature entries to the new blockquote layout  
+- Fixed paragraph breaks caused by bad conversions in 10 files  
+- Added or corrected frontmatter tags across 16 files  
+- Removed a few duplicate or extraction-artifact files  
+- Standardized filenames (17 creature files now match Title-Case convention)  
+- Linked genre modules to related creature entries for easier browsing  
+- Corrected typos (e.g. “Surival” → “Survival”)  
+- Updated headings and frontmatter to follow the repo’s current style guide
 
-1. **Trailing Whitespace Removal** - Cleaned up 2,749 files across the entire repository
-2. **Creature Blockquote Conversion** - Converted 13 single-creature files to use repository's blockquote format convention
-3. **Broken Paragraph Fixes** - Fixed pandoc conversion artifacts in 10 files (8 new files, 2 existing files)
-4. **Frontmatter Tag Enhancement** - Added comprehensive tagging to 16 files to match repository conventions
-5. **Duplicate File Removal** - Removed 4 extraction artifact files
-6. **Filename Standardization** - Renamed 17 creature files to match repository Title-Case naming convention
-7. **Wiki-Link Cross-References** - Added navigation links from genre content to new creature files for improved discoverability
-8. **Duplicate Content Removal** - Removed duplicate sections from Optional Rule files (Drinking.md and Gambling.md had duplicate content from other files)
-9. **Typo Corrections** - Fixed "Surival" → "Survival" in Optional-Rule-Survival.md
-10. **Frontmatter Consistency** - Fixed tags and aliases in 8 Optional Rule files (wrong aliases, missing tags, incorrect spacing)
-11. **Heading Standardization** - Changed 5 new Optional Rule files from H1 to H2 with "Optional Rule:" prefix to match existing repository pattern
+---
 
-## 2024-02-29
+## February 29, 2024
+Minor fixes for issues introduced in the previous update.
 
-Fixes to minor errors introduced in the 2024-02-27 version.
+## February 27, 2024
+Major reorganization to integrate post-apocalyptic rules content (from *Rust and Redemption*) and improve document navigation. No material was removed.
 
-## 2024-02-27
-
-Changes include:
-
-- Addition of rules content related to the post-apocalyptic genre, derived from the MCG title _Rust and Redemption_.
-- Significant changes to the organization of the document, to better integrate mechanics into cohesive sections. No content has been removed, but some has been relocated within the CSRD to make the overall navigation of the document easier.
-
-# 2023-04-18
-
-**Changes include**:
-
-- Addition of rules content related to the fairy-tale genre, derived from the MCG title _We Are All Mad Here_.
-- Addition of rules content related to the horror genre, derived from the MCG title _Stay Alive!_.
-- Addition of rules content related to the superheroes genre, derived from the MCG title _Claim the Sky_.
-- Minor rules errata reflecting similar changes to appear in future printings of the _Cypher System Rulebook_.
-- Minor formatting changes.
-
-## Repository Changelog
+## April 18, 2023
+Added genre material from *We Are All Mad Here* (fairy tales), *Stay Alive!* (horror), and *Claim the Sky* (superheroes), plus minor errata and formatting updates.
