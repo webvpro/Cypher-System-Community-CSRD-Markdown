@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Creatures-NPCs
 ---
 
-# Gunfighters
+## Gunfighters
 
 Gunfighters live and die by their six‑chambered peacemakers using a
 threatened---or actual---lightning‑quick draw to accomplish their aims.

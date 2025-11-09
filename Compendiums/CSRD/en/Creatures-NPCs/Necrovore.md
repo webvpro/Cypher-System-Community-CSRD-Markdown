@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Creatures-NPCs
 ---
 
-# Necrovore
+## Necrovore
 
 Necrovores---otherwise known as undead---are what some call those that
 feed on death, those that are dead but still move, those that feed on

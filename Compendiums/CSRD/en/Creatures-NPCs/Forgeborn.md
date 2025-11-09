@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Creatures-NPCs
 ---
 
-# Forgeborn
+## Forgeborn
 
 Forgeborn---also called golems---are animate figures of metal,
 reanimated flesh, or other normally inert materials. They are

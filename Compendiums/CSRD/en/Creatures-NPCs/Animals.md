@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Creatures-NPCs
 ---
 
-# Animals
+## Animals
 
 Bat: level 1
 
