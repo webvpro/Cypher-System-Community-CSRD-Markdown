@@ -26,27 +26,27 @@ The 2025-08-22 update is primarily additive, adding ~107,000 words of new conten
 ### New Creatures (17 files)
 
 #### Weird West Creatures (9):
-- `Compendiums/CSRD/en/Creatures-NPCs/DIRE-COYOTE-4-(12).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/HELLFIRE-STEED-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/HEX-GUNNER-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/HOLLOWED-RANGER-4-(12).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/INKUBUS-4-(12).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/RISEN-4-(12).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/SHADE-OF-THE-TOMB-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/SULFUR-STALKER-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/TOMBDRIFT-5-(15).md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Dire-Coyote.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Hellfire-Steed.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Hex-Gunner.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Hollowed-Ranger.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Inkubus.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Risen.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Shade-Of-The-Tomb.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Sulfur-Stalker.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Tombdrift.md`
 
 #### Fantasy/Horror Creatures (4):
-- `Compendiums/CSRD/en/Creatures-NPCs/ALCHEMIST-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/ANGALITH-5-(15).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/DEATHBINDER-7(21).md`
-- `Compendiums/CSRD/en/Creatures-NPCs/FROSTWALKER-3-(9).md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Alchemist.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Angalith.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Deathbinder.md`
+- `Compendiums/CSRD/en/Creatures-NPCs/Frostwalker.md`
 
 #### Generic/Multi-Variant NPCs (4):
-- `Compendiums/CSRD/en/Creatures-NPCs/FORGEBORN.md` - Multiple golem variants
-- `Compendiums/CSRD/en/Creatures-NPCs/NECROVORE.md` - Multiple undead variants
-- `Compendiums/CSRD/en/Creatures-NPCs/GUNFIGHTERS.md` - Multiple gunfighter variants
-- `Compendiums/CSRD/en/Creatures-NPCs/ANIMALS.md` - Animal stats and NPC templates
+- `Compendiums/CSRD/en/Creatures-NPCs/Forgeborn.md` - Multiple golem variants
+- `Compendiums/CSRD/en/Creatures-NPCs/Necrovore.md` - Multiple undead variants
+- `Compendiums/CSRD/en/Creatures-NPCs/Gunfighters.md` - Multiple gunfighter variants
+- `Compendiums/CSRD/en/Creatures-NPCs/Animals.md` - Animal stats and NPC templates
 
 ### New Optional Rules (5 files)
 - `Compendiums/CSRD/en/Rules/Optional-Rule-Drinking.md` - Drinking vice mechanics
@@ -90,6 +90,11 @@ The 2025-08-22 update is primarily additive, adding ~107,000 words of new conten
 5. **Duplicate File Removal** (4 files) - Removed files that were extraction artifacts:
    - `WATCHER-SLUG.md`, `WANTED-SLUG.md`, `WASHING-ROUND.md` - Alchemical round cyphers that are already listed in Weird West Cyphers table
    - `CELEBRITIES.md` - Content already included in `ANIMALS.md`
+
+6. **Filename Standardization** (17 files) - Renamed creature files to match repository conventions:
+   - Changed from ALL-CAPS with level info (e.g., `DIRE-COYOTE-4-(12).md`) to Title-Case without stats (e.g., `Dire-Coyote.md`)
+   - Removed level and stats from filenames as this information is already in frontmatter and file content
+   - Ensures consistency with existing creature file naming pattern
 
 ## Technical Notes
 
