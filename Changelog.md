@@ -1,3 +1,8 @@
+---
+aliases: [Cypher SRD Changelog]
+tags: [Cypher/Changelog]
+---
+
 # Cypher SRD Changelog
 
 ## August 22, 2025
