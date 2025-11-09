@@ -5,6 +5,10 @@ tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Survival
   - Rule/Optional
+title: Optional Rule: Survival
+collection: Rules
+kind: Optional-Rule
+id: Optional-Rule-Survival
 ---
 
 ## Optional Rule: Survival

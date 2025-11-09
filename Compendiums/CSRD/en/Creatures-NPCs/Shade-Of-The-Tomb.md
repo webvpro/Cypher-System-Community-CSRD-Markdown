@@ -8,6 +8,10 @@ tags:
 - Creature/Level/5
 - Creature/Armor/0
 - Creature/Health/20
+title: Shade Of The Tomb
+collection: Creatures-NPCs
+kind: Creature
+id: Shade-Of-The-Tomb
 ---
 
 

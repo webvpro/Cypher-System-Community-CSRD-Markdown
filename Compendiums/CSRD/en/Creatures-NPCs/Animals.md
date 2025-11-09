@@ -3,6 +3,10 @@ aliases:
   - "Animals"
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
+title: Animals
+collection: Creatures-NPCs
+kind: Creature
+id: Animals
 ---
 
 ## Animals

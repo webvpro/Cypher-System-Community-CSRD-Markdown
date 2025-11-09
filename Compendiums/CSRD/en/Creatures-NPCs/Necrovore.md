@@ -3,6 +3,10 @@ aliases:
   - "Necrovore"
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
+title: Necrovore
+collection: Creatures-NPCs
+kind: Creature
+id: Necrovore
 ---
 
 ## Necrovore

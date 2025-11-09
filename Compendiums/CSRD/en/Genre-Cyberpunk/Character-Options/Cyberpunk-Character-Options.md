@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
   - Compendium/CSRD/en/Genre-Cyberpunk/Character-Options
   - Character-Options
-  - Genre/Cyberpunk---
+  - Genre/Cyberpunk
+title: Cyberpunk Character Options
+collection: Genre-Cyberpunk
+kind: Character-Options
+id: Cyberpunk-Character-Options
+---
 
 # Cyberpunk Character Options
 

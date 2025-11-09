@@ -8,6 +8,10 @@ tags:
 - Creature/Level/4
 - Creature/Armor/0
 - Creature/Health/21
+title: Inkubus
+collection: Creatures-NPCs
+kind: Creature
+id: Inkubus
 ---
 
 

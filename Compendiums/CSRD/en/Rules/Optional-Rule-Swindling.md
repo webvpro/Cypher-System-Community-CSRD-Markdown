@@ -5,6 +5,10 @@ tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Swindling
   - Rule/Optional
+title: Optional Rule: Swindling
+collection: Rules
+kind: Optional-Rule
+id: Optional-Rule-Swindling
 ---
 
 ## Optional Rule: Swindling

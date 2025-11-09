@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
   - Compendium/CSRD/en/Genre-Cyberpunk/Rules
   - Rules
-  - Genre/Cyberpunk---
+  - Genre/Cyberpunk
+title: Cyberpunk Optional Rules
+collection: Genre-Cyberpunk
+kind: Rules
+id: Cyberpunk-Optional-Rules
+---
 
 # Cyberpunk Optional Rules
 

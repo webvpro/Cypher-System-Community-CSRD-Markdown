@@ -8,6 +8,10 @@ tags:
 - Creature/Level/5
 - Creature/Armor/0
 - Creature/Health/21
+title: Hellfire Steed
+collection: Creatures-NPCs
+kind: Creature
+id: Hellfire-Steed
 ---
 
 

@@ -8,6 +8,10 @@ tags:
 - Creature/Level/5
 - Creature/Armor/2
 - Creature/Health/23
+title: Hex Gunner
+collection: Creatures-NPCs
+kind: Creature
+id: Hex-Gunner
 ---
 
 

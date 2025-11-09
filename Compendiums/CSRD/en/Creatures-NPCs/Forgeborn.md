@@ -3,6 +3,10 @@ aliases:
   - "Forgeborn"
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
+title: Forgeborn
+collection: Creatures-NPCs
+kind: Creature
+id: Forgeborn
 ---
 
 ## Forgeborn

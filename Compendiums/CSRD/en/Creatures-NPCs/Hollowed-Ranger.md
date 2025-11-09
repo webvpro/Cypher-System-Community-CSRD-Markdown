@@ -8,6 +8,10 @@ tags:
 - Creature/Level/4
 - Creature/Armor/0
 - Creature/Health/18
+title: Hollowed Ranger
+collection: Creatures-NPCs
+kind: Creature
+id: Hollowed-Ranger
 ---
 
 

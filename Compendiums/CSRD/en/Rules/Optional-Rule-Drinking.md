@@ -5,6 +5,10 @@ tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Drinking
   - Rule/Optional
+title: Optional Rule: Drinking
+collection: Rules
+kind: Optional-Rule
+id: Optional-Rule-Drinking
 ---
 
 ## Optional Rule: Drinking

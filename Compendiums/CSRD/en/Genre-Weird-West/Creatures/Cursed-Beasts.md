@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West
   - Compendium/CSRD/en/Genre-Weird-West/Creatures
   - Creatures-NPCs
-  - Genre/Weird-West---
+  - Genre/Weird-West
+title: Cursed Beasts
+collection: Genre-Weird-West
+kind: Creatures
+id: Cursed-Beasts
+---
 
 # Cursed Beasts
 

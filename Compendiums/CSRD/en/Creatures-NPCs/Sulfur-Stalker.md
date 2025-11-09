@@ -8,6 +8,10 @@ tags:
 - Creature/Level/5
 - Creature/Armor/0
 - Creature/Health/21
+title: Sulfur Stalker
+collection: Creatures-NPCs
+kind: Creature
+id: Sulfur-Stalker
 ---
 
 

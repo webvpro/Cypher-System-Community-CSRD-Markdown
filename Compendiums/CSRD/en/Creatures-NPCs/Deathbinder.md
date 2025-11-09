@@ -8,6 +8,10 @@ tags:
 - Creature/Level/7
 - Creature/Armor/2
 - Creature/Health/27
+title: Deathbinder
+collection: Creatures-NPCs
+kind: Creature
+id: Deathbinder
 ---
 
 

@@ -5,6 +5,10 @@ tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Gambling
   - Rule/Optional
+title: Optional Rule: Gambling
+collection: Rules
+kind: Optional-Rule
+id: Optional-Rule-Gambling
 ---
 
 ## Optional Rule: Gambling

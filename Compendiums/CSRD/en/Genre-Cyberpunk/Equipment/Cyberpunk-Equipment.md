@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
   - Compendium/CSRD/en/Genre-Cyberpunk/Equipment
   - Equipment
-  - Genre/Cyberpunk---
+  - Genre/Cyberpunk
+title: Cyberpunk Equipment, Cybernetics, And Vehicles
+collection: Genre-Cyberpunk
+kind: Equipment
+id: Cyberpunk-Equipment
+---
 
 # Cyberpunk Equipment, Cybernetics, And Vehicles
 

@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West
   - Compendium/CSRD/en/Genre-Weird-West/Hazards
   - Genre/Weird-West
-  - Hazards---
+  - Hazards
+title: Threats And Hazards Of The Weird West
+collection: Genre-Weird-West
+kind: Hazards
+id: Threats-And-Hazards
+---
 
 # Threats And Hazards Of The Weird West
 

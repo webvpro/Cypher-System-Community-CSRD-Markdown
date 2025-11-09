@@ -6,7 +6,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West/Cyphers
   - Cyphers
   - Artifacts
-  - Genre/Weird-West---
+  - Genre/Weird-West
+title: Cyphers And Artifacts Of The Weird West
+collection: Genre-Weird-West
+kind: Cyphers
+id: Cyphers-And-Artifacts
+---
 
 # Cyphers And Artifacts Of The Weird West
 

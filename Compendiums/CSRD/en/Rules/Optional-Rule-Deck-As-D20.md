@@ -5,6 +5,10 @@ tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Deck-As-D20
   - Rule/Optional
+title: Optional Rule: Deck As D20
+collection: Rules
+kind: Optional-Rule
+id: Optional-Rule-Deck-As-D20
 ---
 
 ## Optional Rule: Deck As D20

@@ -8,6 +8,10 @@ tags:
 - Creature/Level/4
 - Creature/Armor/1
 - Creature/Health/15
+title: Dire Coyote
+collection: Creatures-NPCs
+kind: Creature
+id: Dire-Coyote
 ---
 
 

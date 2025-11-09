@@ -8,6 +8,10 @@ tags:
 - Creature/Level/5
 - Creature/Armor/0
 - Creature/Health/23
+title: Tombdrift
+collection: Creatures-NPCs
+kind: Creature
+id: Tombdrift
 ---
 
 

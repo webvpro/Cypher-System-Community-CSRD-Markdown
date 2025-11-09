@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West
   - Compendium/CSRD/en/Genre-Weird-West/Character-Options
   - Character-Options
-  - Genre/Weird-West---
+  - Genre/Weird-West
+title: Types And Descriptors Of The Weird West
+collection: Genre-Weird-West
+kind: Character-Options
+id: Types-And-Descriptors
+---
 
 # Types And Descriptors Of The Weird West
 

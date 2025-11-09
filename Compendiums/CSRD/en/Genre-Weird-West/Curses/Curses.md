@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West
   - Compendium/CSRD/en/Genre-Weird-West/Curses
   - Genre/Weird-West
-  - Rule/Curses---
+  - Rule/Curses
+title: Curses Of The Weird West
+collection: Genre-Weird-West
+kind: Curses
+id: Curses
+---
 
 # Curses Of The Weird West
 

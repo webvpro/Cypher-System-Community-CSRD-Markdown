@@ -1,0 +1,29 @@
+---
+aliases:
+  - Bloodlust
+tags:
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Bloodlust
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: Low
+pools:
+  - Might
+categories:
+  - Special-Attack
+id: Bloodlust
+---
+## Bloodlust    
+>**Enabler**    
+>3 Might points  
+    
+If you take down a foe, you can move a short distance, but only if you move toward another foe. You don't need to spend the points until you know that the first foe is down. Enabler.

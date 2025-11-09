@@ -3,6 +3,10 @@ aliases:
   - "Gunfighters"
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
+title: Gunfighters
+collection: Creatures-NPCs
+kind: Creature
+id: Gunfighters
 ---
 
 ## Gunfighters

@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Weird-West
   - Compendium/CSRD/en/Genre-Weird-West/Equipment
   - Equipment
-  - Genre/Weird-West---
+  - Genre/Weird-West
+title: Currency And Equipment Of The Weird West
+collection: Genre-Weird-West
+kind: Equipment
+id: Currency-And-Equipment
+---
 
 # Currency And Equipment Of The Weird West
 

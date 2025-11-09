@@ -5,7 +5,12 @@ tags:
   - Compendium/CSRD/en/Genre-Cyberpunk
   - Compendium/CSRD/en/Genre-Cyberpunk/Cyphers
   - Cyphers
-  - Genre/Cyberpunk---
+  - Genre/Cyberpunk
+title: Cyberpunk Cyphers And Artifacts
+collection: Genre-Cyberpunk
+kind: Cyphers
+id: Cyberpunk-Cyphers
+---
 
 # Cyberpunk Cyphers And Artifacts
 
