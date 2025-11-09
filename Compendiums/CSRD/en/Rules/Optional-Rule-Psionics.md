@@ -2,7 +2,9 @@
 aliases:
   - "Optional Rule: Psionics"
 tags:
--  Compendium/CSRD/en/Rules/Optional/Psionics
+  - Compendium/CSRD/en/Rules/Optional/Psionics
+  - Compendium/CSRD/en/Rules
+  - Rule/Optional
 ---
 ## Optional Rule: Psionics
 

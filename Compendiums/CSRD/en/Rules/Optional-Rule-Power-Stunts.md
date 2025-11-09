@@ -2,7 +2,9 @@
 aliases:
   - "Optional Rule: Power Stunts"
 tags:
--  Compendium/CSRD/en/Rules/Optional/Power-Stunts
+  - Compendium/CSRD/en/Rules/Optional/Power-Stunts
+  - Compendium/CSRD/en/Rules
+  - Rule/Optional
 ---
 ### Optional Rule: Power Stunts
 
