@@ -9,7 +9,7 @@ tags:
 
 # Cyberpunk Character Options
 
-Cyberpunk Types
+## Cyberpunk Types
 
 The standard character types are meant to be generic enough to allow you
 to create most characters in any genre, especially with the use of
@@ -37,7 +37,7 @@ Tech: A variant of the Adept, without overtly supernatural abilities,
 and with technological options and additional abilities relating to
 guns.
 
-Standard Cyberpunk Abilities
+## Standard Cyberpunk Abilities
 
 In a cyberpunk world, easy access to computers, hacking, and cybernetics
 means that all characters (regardless of type) can choose the following
@@ -46,7 +46,7 @@ isn't required to permanently give up access to one of their type's
 abilities---all of these options are in addition to the possible choices
 from their type's ability list.
 
-Tier 1
+### Tier 1
 
 Optical Hack (2+ Intellect points): You reboot the technological optical
 sensors of a target within short range (such as a robot, surveillance
@@ -94,7 +94,7 @@ gives you enough of a lead to perform an internet search to find more
 information. Many materials (such as lead shielding, a Faraday cage, or
 concrete) prevent or hinder scanning. Action.
 
-Tier 2
+### Tier 2
 
 Armored Chrome: You have +1 to Armor if you do not wear physical armor.
 You can only select this ability if you have at least three significant
@@ -107,7 +107,7 @@ When you advance to a tier where you can select Expert Cypher Use,
 Adroit Cypher Use, or Master Cypher Use, you can replace this ability
 with the cypher ability you qualify for.
 
-Hacks
+## Hacks
 
 A hack is an attempt to control, override, shut down, or influence a
 computer system, usually performed by exploiting a weakness in the
@@ -143,12 +143,13 @@ without these options, the PC can't use a hack.
 Netrunning is a more intensive form of hacking, requiring a deeper
 connection and often an immersive virtual reality interface.
 
-Solo\
+## Solo
+
 The Solo type is a cyberpunk variant of the Warrior. Mercenaries,
 soldiers, security guards, assassins, brawlers, and police officers are
 usually Solos.
 
-Solo Stat Pools
+### Solo Stat Pools
 
 Stat Pool Starting Value
 
@@ -161,7 +162,7 @@ Intellect 8
 You get 6 additional points to divide among your stat pools however you
 wish.
 
-First-Tier Solo
+### First-Tier Solo
 
 First-tier Solos have the following abilities:
 
@@ -227,7 +228,7 @@ Tinker
 
 Trained Without Armor
 
-Second-Tier Solo
+### Second-Tier Solo
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -258,7 +259,7 @@ Skill With Defense
 
 Successive Attack
 
-Third-Tier Solo
+### Third-Tier Solo
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -288,7 +289,7 @@ Trick Shot
 
 Vigilance
 
-Fourth-Tier Solo
+### Fourth-Tier Solo
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -314,7 +315,7 @@ Snipe
 
 Tough As Nails
 
-Fifth-Tier Solo
+### Fifth-Tier Solo
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -340,7 +341,7 @@ Mastery With Defense
 
 Parry
 
-Sixth-Tier Solo
+### Sixth-Tier Solo
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -358,13 +359,13 @@ Spin Attack
 
 Weapon and Body
 
-Hotshot
+## Hotshot
 
 The Hotshot type is a cyberpunk variant of the Explorer with a knack for
 using technology. Burglars, drivers, and scouts are usually Hotshots, as
 are some hackers and soldiers.
 
-Hotshot Stat Pools
+### Hotshot Stat Pools
 
 Stat Pool Starting Value
 
@@ -377,7 +378,7 @@ Intellect 9
 You get 6 additional points to divide among your stat pools however you
 wish.
 
-First-Tier Hotshot
+### First-Tier Hotshot
 
 First-tier Hotshots have the following abilities:
 
@@ -452,7 +453,7 @@ Tinker
 
 Trained Without Armor
 
-Second-Tier Hotshot
+### Second-Tier Hotshot
 
 Choose four of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -499,7 +500,7 @@ Travel Skills
 
 Wreck
 
-Third-Tier Hotshot
+### Third-Tier Hotshot
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -531,7 +532,7 @@ Trapfinder
 
 Wrest From Chance
 
-Fourth-Tier Hotshot
+### Fourth-Tier Hotshot
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -553,7 +554,7 @@ Tough As Nails
 
 Robot Fighter
 
-Fifth-Tier Hotshot
+### Fifth-Tier Hotshot
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -581,7 +582,7 @@ Take Command
 
 Vigilant
 
-Sixth-Tier Hotshot
+### Sixth-Tier Hotshot
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -601,13 +602,13 @@ Share Defense
 
 Spin Attack
 
-Broker
+## Broker
 
 The Broker type is a cyberpunk variant of the Speaker without the
 overtly supernatural abilities. Fixers, journalists, media stars,
 corpos, and public relations specialists are usually Brokers.
 
-Broker Stat Pools
+### Broker Stat Pools
 
 Stat Pool Starting Value
 
@@ -620,7 +621,7 @@ Intellect 11
 You get 6 additional points to divide among your stat pools however you
 wish.
 
-First-Tier Broker
+### First-Tier Broker
 
 First-tier Brokers have the following abilities:
 
@@ -694,7 +695,7 @@ language, picking up idioms and slang after a few hours. Enabler.
 
 Understanding
 
-Second-Tier Broker
+### Second-Tier Broker
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -729,7 +730,7 @@ Skill With Defense
 
 Unexpected Betrayal
 
-Third-Tier Broker
+### Third-Tier Broker
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -775,7 +776,7 @@ Spray
 
 Telling
 
-Fourth-Tier Broker
+### Fourth-Tier Broker
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -801,7 +802,7 @@ Suggestion
 
 Robot Fighter
 
-Fifth-Tier Broker
+### Fifth-Tier Broker
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -841,7 +842,7 @@ Skill With Attacks
 
 Stimulate
 
-Sixth-Tier Broker
+### Sixth-Tier Broker
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -859,7 +860,7 @@ Shatter Mind
 
 True Senses
 
-Tech
+## Tech
 
 The Tech type is a cyberpunk variant of the Adept without any overtly
 supernatural abilities. Hackers, medics, netrunners, choppers, and
@@ -871,7 +872,7 @@ a character with the Tech type, feel free to write a more specific name
 (like "hacker" or "chopper") on your character sheet if that's your
 preference.
 
-Tech Stat Pools
+### Tech Stat Pools
 
 Stat Pool Starting Value
 
@@ -884,7 +885,7 @@ Intellect 12
 You get 6 additional points to divide among your stat pools however you
 wish.
 
-First-Tier Tech
+### First-Tier Tech
 
 First-tier Techs have the following abilities:
 
@@ -937,7 +938,7 @@ Tech Skills
 
 Tinker
 
-Second-Tier Tech
+### Second-Tier Tech
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -988,7 +989,7 @@ creature that doesn't have any brain implants. Action.
 
 Understanding
 
-Third-Tier Tech
+### Third-Tier Tech
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -1036,7 +1037,7 @@ Spray
 
 Targeting Eye
 
-Fourth-Tier Tech
+### Fourth-Tier Tech
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -1083,7 +1084,7 @@ Robot Fighter
 
 Task Specialization
 
-Fifth-Tier Tech
+### Fifth-Tier Tech
 
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -1114,7 +1115,7 @@ Zeerosh products are low-quality and tend to break quickly, but their
 custom 3D-printing and rapid delivery service for important customers
 are top notch.
 
-Sixth-Tier Tech
+### Sixth-Tier Tech
 
 Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
@@ -1152,9 +1153,9 @@ Skill With Defense
 
 Total Awareness
 
-Cyberpunk Descriptors
+## Cyberpunk Descriptors
 
-Addicted
+### Addicted
 
 You are addicted to a drug, probably something illegal, expensive, or
 both. You are usually in control enough to be a functional adult,
@@ -1211,7 +1212,7 @@ encounter with a dealer), and now you're trying to repay them.
 4\. One PC has been your friend since before you became an addict, and
 you want to keep them around.
 
-Corpo
+### Corpo
 
 You have (or had) a successful career working for a megacorporation,
 climbing your way up through the ranks. You've kissed ass and
@@ -1267,7 +1268,7 @@ they're repaying it.
 4\. You suspect that assisting the other PCs might give you a long-term
 advantage towards your goals or against your enemies.
 
-Engram
+### Engram
 
 A common refrain within this uncommon demographic. You've got some
 chrome---who doesn't?---but you thought you were human at the core. As
@@ -1315,7 +1316,7 @@ closure, or to express gratitude.
 4\. You overheard the PCs discussing something interesting and warned
 them of a potential flaw in their plan.
 
-Furious
+### Furious
 
 You always feel like you're a hair-trigger away from giving in to an
 unthinking rage. You may have a mild case of SHITS, or suffer an illness
@@ -1366,7 +1367,7 @@ channel your ire, allowing you to use it for good.
 
 4\. After seeing you fight, one of the other PCs invited you to join.
 
-Luddite
+### Luddite
 
 You've made it this far without having any cybernetic implants---an
 extreme outlier in a world where they're as common as eyeglasses. You
@@ -1421,9 +1422,9 @@ any basic chrome.
 4\. A chromed PC helped you overcome a bad situation; now you're trying
 to make it up to them.
 
-Cyberpunk Foci
+## Cyberpunk Foci
 
-Appropriate Cyberpunk Foci
+### Appropriate Cyberpunk Foci
 
 The following foci from the Cypher System Rulebook are all appropriate
 for a cyberpunk setting
@@ -1518,7 +1519,7 @@ at Once
 
 • Would Rather Be Reading
 
-Cyberware-Derived Abilities
+## Cyberware-Derived Abilities
 
 Various character abilities mentioned or described in this book are
 accompanied by this symbol. In a typical cyberpunk setting, these
@@ -1552,7 +1553,7 @@ require "special effects" if shown in a film or television show should
 require cyberware, which (like the foci presented here) happens
 automatically when the character selects that ability.
 
-Making Foci Cyberpunk
+## Making Foci Cyberpunk
 
 The Cypher System Rulebook has nearly one hundred character foci to
 choose from, but some of them aren't particularly suited for a cyberpunk
@@ -1635,7 +1636,7 @@ even in a world where cybernetics are common. A character with this
 focus will have quite a reputation, and various fixers and job brokers
 will want them as an asset.
 
-Fuses Flesh and Steel
+### Fuses Flesh and Steel
 
 This focus in the Cypher System Rulebook assumes a setting where
 cybernetics are rare or experimental. In particular, the Enhanced Body
@@ -1652,8 +1653,6 @@ older character with obsolete or "retro" technology, but most players
 who want a heavily-chromed character focus should instead select one of
 the new foci presented here.
 
-Cyberpunk Foci
-
 Some foci presented in this section provide a "type swap option" that
 allows a player to swap an ability that would otherwise be gained from
 their type for the indicated ability instead. A player doesn't have to
@@ -1661,7 +1660,7 @@ make the swap; they merely have the option. For instance, the Is a
 Walking Tank focus provides the option to gain the ability Hidden Shield
 instead of a type ability.
 
-Embeds Stealthtech
+### Embeds Stealthtech
 
 Some of your organic parts have been replaced with artificial
 components. Like most people in the city, you are a cyborg, but your
@@ -1743,7 +1742,7 @@ Embeds Stealthtech GM intrusions: The character's overconfidence leads
 to a clumsy outcome. An overzealous maneuver places the character in
 harm's way.
 
-Explores Cyberspace
+### Explores Cyberspace
 
 You've always been fascinated by cyberspace, its architecture, and the
 wealth of data it contains. You may have started out as a hacker,
@@ -1843,7 +1842,7 @@ datajack causes an unstable connection. Netrunning requires a working
 console or computer. Prolific data thieves may catch the attention of
 rivals and adversaries
 
-Hacks the Network
+### Hacks the Network
 
 AI and the countless networks integrated into every part of life are as
 ubiquitous as air and, to most people, about as noticeable. Not you.
@@ -1946,7 +1945,7 @@ code on the first try. Hackers who make a name for themselves can become
 targets of other hackers. Hacking requires a working computer, hand
 terminal, or other device.
 
-Has a Custom Drone
+### Has a Custom Drone
 
 You're a genius with drones---building them, controlling them, and
 repairing them. You've created a unique drone with a limited artificial
@@ -2096,7 +2095,7 @@ Has a Custom Drone GM intrusions: The drone gets hacked. The drone acts
 erratically. The drone runs out of power. The drone thinks an ally is a
 foe.
 
-Has Eyes Everywhere
+### Has Eyes Everywhere
 
 Let's be honest: you live in a surveillance state. Security cameras on
 every corner, smartphones that track the user's activity, cybernetics
@@ -2209,7 +2208,7 @@ Has Eyes Everywhere GM Intrusions: Security cameras malfunction. Video
 data is corrupted or deleted. Subjects of surveillance may attempt to
 retaliate.
 
-Is a Walking Tank
+### Is a Walking Tank
 
 Some of your organic parts have been replaced with artificial
 components. Like most people in the city, you are a cyborg, but your
@@ -2323,7 +2322,7 @@ Is a Walking Tank GM intrusions: Armor or a defensive system is damaged.
 Cybernetics suffer a temporary power loss. The chrome acts under its own
 power.
 
-Knows Everything
+### Knows Everything
 
 You're a know-it-all. You've always been curious, likely to be found
 with your nose in a book and several wiki articles pulled up on your
@@ -2402,7 +2401,7 @@ Knows Everything GM Intrusions: Research leads to dead ends or
 falsehoods. Some people don't trust a person with such powerful mental
 enhancements.
 
-Packs Chromed Heat
+### Packs Chromed Heat
 
 Some of your organic parts have been replaced with artificial
 components. Like most people in the city, you are a cyborg, but your
@@ -2495,7 +2494,7 @@ be used for a couple of rounds (perhaps requiring the character to take
 an action to correct the problem). A software error makes the character
 attack the wrong foe.
 
-Weaponizes Chrome
+### Weaponizes Chrome
 
 Some of your organic parts have been replaced with artificial
 components. Like most people in the city, you are a cyborg, but your
