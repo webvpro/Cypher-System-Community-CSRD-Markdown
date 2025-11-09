@@ -16,8 +16,8 @@ they're ancient creatures time would've been better off forgetting.
 
 Mysterious things, cursed beasts are often capable of coming and going
 as they please. In some times and places, they are called "cryptids"
-because at their core, they seem unknowable. Cursed beasts include dire
-coyotes, frostwalkers, hellfire steeds, and sulfur stalkers.
+because at their core, they seem unknowable. Cursed beasts include [[Dire-Coyote|dire
+coyotes]], [[Frostwalker|frostwalkers]], [[Hellfire-Steed|hellfire steeds]], and [[Sulfur-Stalker|sulfur stalkers]].
 
 Chupacabra: Part huge dog, part crocodile; quilled like a porcupine.
 

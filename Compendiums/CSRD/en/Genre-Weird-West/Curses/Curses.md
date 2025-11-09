@@ -18,7 +18,7 @@ to deal with them. Other times, a PC might be cursed. Either way, PCs
 are probably interested in finding a way to break the curse.
 
 Some curses are conferred by an individual, object, or location. For
-example, a deathbinder may curse a target they shoot with their soul
+example, [[Deathbinder|a deathbinder]] may curse a target they shoot with their soul
 pistol.
 
 Other times, evil deeds sour and rot the world, resulting in an
@@ -42,7 +42,7 @@ more complex.
 - Simple Curse Breaking: Breaking a curse could be as straightforward as
   smashing, killing, dispelling, demolishing, or otherwise dealing with
   a physical object or creature that cursed the targeted character. For
-  instance, if cursed by a deathbinder, breaking the curse means
+  instance, if cursed by [[Deathbinder|a deathbinder]], breaking the curse means
   destroying the creature permanently.
 
 - Complex Curse Breaking: Some curses are more convoluted and require a
