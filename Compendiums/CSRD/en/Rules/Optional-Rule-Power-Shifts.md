@@ -6,7 +6,7 @@ tags:
   - Compendium/CSRD/en/Rules
   - Rule/Optional
 ---
-### Optional Rule: Power Shifts
+## Optional Rule: Power Shifts
 
 Power shifts are an optional rule in the Cypher System Rulebook that represent many of the exceptional things that superheroes can do, like throwing cars, blasting through brick walls, leaping onto speeding trains, and cobbling together interdimensional gateway devices in a few hours.
 

@@ -6,7 +6,7 @@ tags:
   - Compendium/CSRD/en/Rules
   - Rule/Optional
 ---
-### Optional Rule: Power Stunts
+## Optional Rule: Power Stunts
 
 A power stunt is pushing a superpower beyond its normal limits or using it to do something it normally can’t do.
 #### Examples:
