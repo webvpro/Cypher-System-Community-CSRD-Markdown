@@ -48,11 +48,14 @@ As part of this update, the following repository-wide improvements were made:
 
 1. **Trailing Whitespace Removal** - Cleaned up 2,749 files across the entire repository
 2. **Creature Blockquote Conversion** - Converted 13 single-creature files to use repository's blockquote format convention
-3. **Broken Paragraph Fixes** - Fixed pandoc conversion artifacts in 8 files
+3. **Broken Paragraph Fixes** - Fixed pandoc conversion artifacts in 10 files (8 new files, 2 existing files)
 4. **Frontmatter Tag Enhancement** - Added comprehensive tagging to 16 files to match repository conventions
 5. **Duplicate File Removal** - Removed 4 extraction artifact files
 6. **Filename Standardization** - Renamed 17 creature files to match repository Title-Case naming convention
 7. **Wiki-Link Cross-References** - Added navigation links from genre content to new creature files for improved discoverability
+8. **Duplicate Content Removal** - Removed duplicate sections from Optional Rule files (Drinking.md and Gambling.md had duplicate content from other files)
+9. **Typo Corrections** - Fixed "Surival" → "Survival" in Optional-Rule-Survival.md
+10. **Frontmatter Consistency** - Fixed tags and aliases in 8 Optional Rule files (wrong aliases, missing tags, incorrect spacing)
 
 ## 2024-02-29
 
