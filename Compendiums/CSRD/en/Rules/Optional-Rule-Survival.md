@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Surival"
+  - "Survival"
 tags:
   - Compendium/CSRD/en/Rules
   - Compendium/CSRD/en/Rules/Optional/Survival
   - Rule/Optional
 ---
 
-# Surival
+# Survival
 
 Survival GM Intrusions
 
