@@ -9,7 +9,7 @@ tags:
 
 # Types And Descriptors Of The Weird West
 
-Suggested Types for a Weird West Game
+## Suggested Types for a Weird West Game
 
   -------------------- ---------------
           Role         Type
@@ -42,7 +42,7 @@ Suggested Types for a Weird West Game
                        flavor
   -------------------- ---------------
 
-Alternate Character Roles
+## Alternate Character Roles
 
 If your setting is better described with a comparison "like the shows
 Firefly or Westworld but with X," you might consider an alternate slate
@@ -51,7 +51,7 @@ can be pilots, scientists, technicians, and so on. Alternatively, a mix
 of both the roles noted here and those indicated for a science fiction
 game might work best for your game.
 
-Weird West Descriptors
+## Weird West Descriptors
 
 In a weird west setting, as elsewhere, descriptors are designed to
 provide additional information about how and why characters take

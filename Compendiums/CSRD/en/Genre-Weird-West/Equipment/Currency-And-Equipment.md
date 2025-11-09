@@ -9,7 +9,7 @@ tags:
 
 # Currency And Equipment Of The Weird West
 
-Currency
+## Currency
 
 All kinds of currencies could be used simultaneously in your weird west
 game on account of the scarcity of officially issued coins and paper

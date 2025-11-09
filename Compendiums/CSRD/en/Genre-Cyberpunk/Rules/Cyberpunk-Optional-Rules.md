@@ -9,7 +9,7 @@ tags:
 
 # Cyberpunk Optional Rules
 
-Artificial Intelligence
+## Artificial Intelligence
 
 Artificial intelligence (AI) generally means machine intelligence or
 computer intelligence---the ability of a nonhuman system to think and
@@ -48,7 +48,7 @@ worst or their captors at best, and are kept locked behind multiple
 firewalls (perhaps in an older, sealed‑off internet) to protect the
 megacorporations' interests.
 
-Brainslides
+## Brainslides
 
 A brainslide is a digital recording of the subject's experience that
 plays directly into the
@@ -83,7 +83,7 @@ murder investigation? In these cases, brainslides are an immersive way
 to provide clues without
 giving the whole mystery away.
 
-Exploring a Brainslide
+### Exploring a Brainslide
 
 Playing a brainslide is a level 0 task---players do not have to roll to
 experience the events in real time, noticing any details that stood out
@@ -120,7 +120,7 @@ extreme violence, they take damage commensurate to the recording's
 subject; because brainslides are a VR experience, this damage comes out
 of the character's Intellect pool.
 
-Engrams
+## Engrams
 
 Engrams are AI personalities based on a real or fictitious person (as
 opposed to one created entirely from scratch, such as a generic customer
@@ -228,7 +228,7 @@ in a humanlike form, tricking someone into believing an engram is
 actually the person it emulates requires subterfuge, such as
 communicating with the engram through a voicemail or holophone call.
 
-Netrunning
+### Netrunning
 
 The matrix is a three-dimensional hallucination: the net translated into
 a navigable space. This virtualized realm serves as playground and

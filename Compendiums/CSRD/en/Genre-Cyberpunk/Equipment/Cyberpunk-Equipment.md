@@ -9,7 +9,7 @@ tags:
 
 # Cyberpunk Equipment, Cybernetics, And Vehicles
 
-Cyberpunk Equipment
+## Cyberpunk Equipment
 
 In a cyberpunk campaign, use the following currency amounts for starting
 characters and allow them to purchase items normally from this section.
@@ -26,7 +26,7 @@ characters and allow them to purchase items normally from this section.
 • Tech (Adept): Appropriate clothing, a communicator implant, and
 \$5,200.
 
-Selling Equipment
+## Selling Equipment
 
 If you're in need of cash or credit, you can sell unwanted equipment,
 such as the little gun you no longer need now that you have a bigger
@@ -55,7 +55,7 @@ Preferably one who is trustworthy, or at least not going to rip you off.
 At best, you might get 75% of the item's value instead of just 30--50%,
 but these kinds of transactions often have strings attached.
 
-Weapon Variations
+## Weapon Variations
 
 Although most weapons you'll find in shops (or the hands of foes) are
 mass-produced and essentially identical to all the others of that make
@@ -241,7 +241,7 @@ the potential for extra effects, or additional options in the hands of
 specially trained or cybernetically enhanced characters. Such weapons
 include suggestions for minor effects, major effects, and GM intrusions.
 
-Obsolete Firearms
+## Obsolete Firearms
 
 Humans have been inventing and using firearms for hundreds of years. The
 weapons section of this artif provides game stats for the most commonly
@@ -253,7 +253,7 @@ don't work at all. The ones maintained by skilled hands are still
 reliable, but lack most of the features that modern users rely on, or
 are too valuable to be used in the streets.
 
-Firearms Clip Size
+## Firearms Clip Size
 
 Unless otherwise stated, a firearm holds ten bullets. Reloading a weapon
 (either with individual bullets or swapping in a new clip) is an action.
@@ -442,7 +442,7 @@ make it harder to trace expended bullets back to the weapon that fired
 it. GM intrusion suggestion: The gun jams, rendering it completely
 useless (because it can't be opened or adjusted to clear the jam).
 
-Weapon Attachments
+## Weapon Attachments
 
 Any pistol or rifle can be outfitted with one weapon attachment that
 modifies its shots, such as a Ghost® (reduces the noise of gunfire) or a
@@ -870,7 +870,7 @@ cream. Microwaveable, refrigerable, freezable.
 Vape: A small atomizer for inhaling tobacco or similar products. For
 double the price, you can get one installed in your cybernetic finger.
 
-Therapeutic Drugs and SHITS
+## Therapeutic Drugs and SHITS
 
 Several megacorps produce anti-SHITS cocktails, with Kaisha and Oleg
 NutriCorp having the best brand recognition.
@@ -888,7 +888,7 @@ character---and some cocktails might not help your character at all. Be
 on the lookout for GM intrusions that reveal unexpected side effects for
 your pills, or surprise you by worsening your symptoms.
 
-Miscellaneous Items
+## Miscellaneous Items
 
   --------------------------------------------------------------
   Item                 Price                Notes
@@ -1526,7 +1526,7 @@ A reputable chopper who keeps a clean house and does good work is worth
 the extra money. They know the insides and outsides of their client's
 body better than the client knows themself.
 
-Cybernetic Weapon Variations
+## Cybernetic Weapon Variations
 
 As with conventional weapons, some weapons have a quirk that makes them
 unusual---sometimes good, sometimes bad, sometimes a little of both. The
@@ -1542,7 +1542,7 @@ In some cases, the question of whether cyberware is an addition or a
 replacement affects whether two different items can be used together,
 although the GM is the final arbiter of what combinations are allowed.
 
-Losing Your Organics
+## Losing Your Organics
 
 In many cases, cyberware is a replacement for an existing organic body
 part---a leg, arm, eye, heart, and so on. Obviously, this means that
@@ -1579,9 +1579,9 @@ regardless of its size or damage. For example, a mantis blade in sword
 mode is a medium bladed weapon, and you are practiced with using it even
 if you aren't practiced with other medium weapons.
 
-Cybernetics Descriptions
+## Cybernetics Descriptions
 
-Arm Cybernetics
+### Arm Cybernetics
 
 Arm cybernetics are sold singly. Every arm cybernetic includes a hand,
 although if you already have a hand cybernetic you can swap out the
@@ -1680,7 +1680,7 @@ Strong arm: Replaces one of your forearms and its upper arm. Looks like
 a muscular human arm. You gain an asset on strength-based tasks
 involving the arm.
 
-Brain Cybernetics\
+### Brain Cybernetics
 Most people's brains only have the capacity for two cybernetic implants;
 exceeding this limit tends to cause hallucinations, aggression, and
 brain damage.
@@ -1732,7 +1732,7 @@ memory and cognitive functions. Adds +1 to your Intellect Edge.
 ShadyICE: Implant modifies your outgoing hacks to make them more
 stealthy. Hinders attempts to detect or redirect your hacks.
 
-Eye Cybernetics
+### Eye Cybernetics
 
 Standard optics are sold in pairs (like shoes), so you don't get a
 discount if you only need one. Eye cybernetics that work with your
@@ -1774,7 +1774,7 @@ Zoomz: Implant works with your eyes or optics. Allows you to zoom in
 like you're using binoculars, granting you an asset on perception tasks
 at long range or longer.
 
-Face Cybernetics
+### Face Cybernetics
 
 Limit one facial cybernetic per person.
 
@@ -1801,7 +1801,7 @@ that?"); although the police find this suspicious, it's not technically
 illegal (but that won't stop them from harassing you). You can activate
 or deactivate the device as part of another action.
 
-Foot Cybernetics
+### Foot Cybernetics
 
   -------------------------------------------------------------
   Item                           Price
@@ -1881,7 +1881,7 @@ of ongoing coma-sedation, soothing holoprograms transmitted directly
 into their cybersenses, or a CRaVAC® (Cybernetic Roaming Voice-Activated
 Crab) unit to carry them around.
 
-Genitalia Cybernetics
+### Genitalia Cybernetics
 
   -------------------------------------------------------------
   Item                           Price
@@ -1903,7 +1903,7 @@ includes software allowing the owner to adjust the device's
 configuration on the fly, taking less than a minute to transform to its
 new shape.
 
-Gut Cybernetics
+### Gut Cybernetics
 
 Most people only have room for two or three devices of this category.
 You can get additional ones beyond that limit, but they either become
@@ -1947,7 +1947,7 @@ example, a human could gestate a human or perhaps a chimpanzee, but not
 a dog, and vice versa. MuxCom PR says they're working on better
 cross-species compatibility.
 
-Hand Cybernetics
+### Hand Cybernetics
 
 Hand cybernetics are sold singly.
 
@@ -1989,7 +1989,7 @@ Even if both of your hands have witchclaws, you still can only make one
 attack per round---unless you have a special ability that enables two
 attacks per round.
 
-Heart Cybernetics
+### Heart Cybernetics
 
 Most people can only tolerate having two heart cybernetics at the same
 time; more than that tends to cause glitches and false triggers that can
@@ -2031,7 +2031,7 @@ Pools are reduced to zero points, granting you an immediate free
 recovery roll. Once activated, it won't do so again until after your
 next ten-hour recovery roll.
 
-Leg Cybernetics
+### Leg Cybernetics
 
 Leg cybernetics are sold singly.
 
@@ -2068,7 +2068,7 @@ the existence of the compartment (and its contents) are eased by two
 steps. Includes an swappable holster bracket for holding two large
 knives.
 
-Muscle Cybernetics
+### Muscle Cybernetics
 
 Most people can manage two muscle cybernetics at once.
 
@@ -2083,7 +2083,7 @@ Myomanager: Implanted strong synthetic muscle fibers all over your body.
 Adds +1 to your Might Edge. You can have multiple simultaneous instances
 of this implant.
 
-Nervous System Cybernetics
+### Nervous System Cybernetics
 
 You can have up to two nervous system cybernetics.
 
@@ -2107,7 +2107,7 @@ Twitch fiber: Implant calculates and anticipates optimal movement when
 defending. Grants an asset on one Speed defense task of your choice each
 turn.
 
-Skeleton Cybernetics
+### Skeleton Cybernetics
 
 Most people can only tolerate up to three skeleton cybernetics at once;
 exceeding this limit causes incompatible errors and deterioration.
@@ -2138,7 +2138,7 @@ multiple simultaneous instances of this implant.
 Skeletal reinforcement: Implant adds +1 your Armor. You can have
 multiple simultaneous instances of this implant.
 
-Skin Cybernetics
+### Skin Cybernetics
 
 You can have up to two skin cybernetics at the same time. DermaChrome,
 LiveTats, and NuSkin don't count toward this limit (but you can't have
