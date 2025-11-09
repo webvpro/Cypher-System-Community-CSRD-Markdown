@@ -9,7 +9,7 @@ tags:
 
 # Cyberpunk Cyphers And Artifacts
 
-Cyberpunk Cyphers
+## Cyberpunk Cyphers
 
 A typical cyberpunk campaign uses a mix of subtle cyphers and manifest
 cyphers. In most cases, it doesn't matter if a cypher is subtle or
@@ -21,7 +21,7 @@ might call an Intellect booster cypher "digital coffee," a mind
 stabilizer "personal ICE," and an Intellect defense skill boost
 "countermeasures."
 
-Manifest Cypher Forms
+## Manifest Cypher Forms
 
 Circuit board
 
@@ -33,7 +33,7 @@ Inhaler (nebulizer or vape)
 
 Pill
 
-Pharmaceutical Cyphers
+## Pharmaceutical Cyphers
 
 Many cyphers in a cyberpunk setting are some kind of drug---perhaps a
 street drug, designer drug, or megacorporation-crafted combat drug.
@@ -43,7 +43,7 @@ game mechanics that affect poisons have a similar effect on
 pharmaceutical cyphers (although these shouldn't prevent a character
 from intentionally using a pharmaceutical cypher).
 
-Apps As Cyphers
+## Apps As Cyphers
 
 Cyberpunk also allows for cyphers in the form of software apps, which
 can be downloaded onto any device that can store data, such as a laptop,
@@ -67,7 +67,7 @@ PCs to shop from a list of specific app cyphers (for example, if they
 know they're facing an enemy hacker in an upcoming job and want to load
 up on anti-hacking cyphers).
 
-Malware Cyphers
+## Malware Cyphers
 
 Any cypher that has a software component (including app cyphers, chips,
 and circuit boards) has a risk of being infected with malware. The
@@ -92,7 +92,7 @@ activates when the character uses the cypher.
 
 - Resets the user's passwords, locking them out of other devices
 
-Random Cyberpunk Cyphers
+## Random Cyberpunk Cyphers
 
   -------------------------------------------------------------
   d00                            Cypher
@@ -119,7 +119,7 @@ Random Cyberpunk Cyphers
   91--00                         Vigilance
   -------------------------------------------------------------
 
-Danger Daemon
+### Danger Daemon
 
 Level: 1d6 + 1
 
@@ -128,7 +128,7 @@ connected to. The daemon moves to intercept and attack an entity within
 the system that the user is aware of. This daemon's level is equal to
 the cypher's. After about one minute, the daemon vanishes.
 
-Death by a Thousand Cuts
+### Death by a Thousand Cuts
 
 Level: 1d6 + 2
 
@@ -145,7 +145,7 @@ Death by a thousand cuts is only available as a manifest cypher, never
 as a subtle cypher ... unless the GM wants a digital version for use
 within a computer system.
 
-Drug Blocker
+### Drug Blocker
 
 Level: 1d6
 
@@ -157,7 +157,7 @@ counteract the drug's effects. Countering the drug also negates its side
 effects and prevents overdose or addiction from that specific dose.
 Lasts one hour per cypher level.
 
-Fastest Keys
+### Fastest Keys
 
 Level: 1d6
 
@@ -169,7 +169,7 @@ as downloading a very large file) are not sped up. While the character
 is netrunning, their movement is doubled and their Speed-based attacks
 and Speed defense are eased.
 
-Ghost Defense
+### Ghost Defense
 
 Level: 1d6 + 1
 
@@ -190,7 +190,7 @@ The effects of a ghost defense cypher might vary depending on the
 structure of the hacking environment; see the Seventeenth Floor
 adventure for an example.
 
-Knowledge Enhancement (Hacking)
+### Knowledge Enhancement (Hacking)
 
 Level: 1d6
 
@@ -198,7 +198,7 @@ Effect: For the next day, the character has training in hacking (or
 hacking and defense against hacking, if the cypher is level 5 or
 higher).
 
-Lockout Hack
+### Lockout Hack
 
 Level: 1d6 + 2
 
@@ -215,7 +215,7 @@ Think of a lockout hack as an endless cascade of pop-up windows
 affecting the entity's screen, each with a "prove you're not a robot"
 test.
 
-Logic Bomb
+### Logic Bomb
 
 Level: 1d6 + 2
 
@@ -227,7 +227,7 @@ cypher's level (ignores Armor), and creatures adjacent to the entity
 (relatively speaking within the system) take 1 point of Intellect
 damage.
 
-Skill Boost (Hacking)
+### Skill Boost (Hacking)
 
 Level: 1d6
 
@@ -238,7 +238,7 @@ within a twenty-four-hour period. The boost takes effect each time the
 action is performed. For example, a level 3 cypher boosts the first
 three hacks the character attempts.
 
-Vigilance
+### Vigilance
 
 Level: 1d6
 
@@ -247,7 +247,7 @@ digital presence of hackers and bots in a system, and resist hacks and
 digital attacks from hackers and bots. These tasks are eased (by two
 steps for cypher level 5 and higher) for ten minutes per cypher level.
 
-Cyberpunk Artifacts
+## Cyberpunk Artifacts
 
 Artifacts are prototype, experimental, highly regulated, or otherwise
 rare devices that aren't generally for sale. They usually only end up in
@@ -269,7 +269,7 @@ with none of its benefits; depending on the cyberware, it might even be
 a liability (such as hindering tasks using that part of the body) until
 it is repaired or removed.
 
-Zeerosh Artifacts
+## Zeerosh Artifacts
 
 Zeerosh is known for its "disposable," cheap, and somewhat-unreliable
 products. To make a Zeerosh equivalent of any of the artifacts presented
@@ -277,7 +277,7 @@ in this section, double the item's depletion rate (such as from 1--9 in
 1d20 to 1--18 in 1d20), increase the GM intrusion range for using it by
 4, or both.
 
-Making Artifacts Common
+## Making Artifacts Common
 
 The idea of these artifacts is that they're rare, unusual, and not
 generally available because they're prototypes or one-offs. However, if
@@ -288,7 +288,7 @@ Cybernetics sections. If that is the case, you should decide the prices
 for these items (generally at least as much as comparable equipment and
 cybernetics, if not more) and if they still have a depletion stat.
 
-Example Artifacts
+## Example Artifacts
 
 The rest of this section is examples of artifacts suitable for a
 cyberpunk game. As with the items in the Equipment section, some of
@@ -363,7 +363,7 @@ depletion).
   99--00   Tri-Arm™ (cyberware)
   --------------------------------------------------------------
 
-Augmentive Warframe (cyberware)
+### Augmentive Warframe (cyberware)
 
 Level: 1d6 + 1
 
@@ -397,7 +397,7 @@ repaired.
 
 Depletion: 1 in 1d20 (check each use)
 
-Blue Shift™ Implant (cyberware)
+### Blue Shift™ Implant (cyberware)
 
 Level: 1d6 + 3
 
@@ -437,7 +437,7 @@ as effective as the Kaisha model, perhaps granting only one or two
 additional actions per use, and only one asset on Speed defense and
 stealth.
 
-Bugdrone™
+### Bugdrone™
 
 Level: 1d6 + 1
 
@@ -469,7 +469,7 @@ Cybernetic Insect: level 1, Speed defense and stealth as level 3 due to
 size and speed; moves a short distance each round (roach) or flies a
 long distance each round (dragonfly)
 
-EMP Weapon
+### EMP Weapon
 
 Level: 1d6 + 2
 
@@ -508,7 +508,7 @@ EMP weapon GM intrusion: The device misfires and explodes, inflicting
 damage (half electrical, half fire) equal to the artifact's level in an
 immediate radius.
 
-Fiery Mantis™ (cyberware)
+### Fiery Mantis™ (cyberware)
 
 Level: 1d6
 
@@ -541,7 +541,7 @@ meals to supply certain fuel-precursor molecules).
 Depletion: 1 in 1d20 (depletion usually just means the artifact is out
 of fuel, and can still be used as a standard mantis blade implant)
 
-Focusing Modules
+### Focusing Modules
 
 A focusing module is an especially rare artifact that augments certain
 abilities from a character's focus. It has wired and wireless
@@ -593,7 +593,7 @@ This section includes entries for three focusing modules. The GM is free
 to create modules for other foci in the campaign, or use modules
 described in other sourcebooks.
 
-Focusing Module (Fuses Mind and Machine)
+### Focusing Module (Fuses Mind and Machine)
 
 Level: 1d6 + 3
 
@@ -621,7 +621,7 @@ adds +2 to the Intellect Pool recovery roll from this ability.
 
 Depletion: 1 in 1d20 (check each month it is used)
 
-Focusing Module (Moves Like a Cat)
+### Focusing Module (Moves Like a Cat)
 
 Level: 1d6 + 3
 
@@ -648,7 +648,7 @@ hindered by two steps.
 
 Depletion: 1 in 1d20 (check each month it is used)
 
-Focusing Module (Works the Back Alleys)
+### Focusing Module (Works the Back Alleys)
 
 Level: 1d6 + 3
 
@@ -679,7 +679,7 @@ Level 9: Alley Rat is eased. All-Out Con also adds an asset to the task.
 
 Depletion: 1 in 1d20 (check each month it is used)
 
-GasLight™ Projector
+### GasLight™ Projector
 
 Level: 1d6 + 2
 
@@ -704,7 +704,7 @@ how long and/or complex the original memory is.
 
 Depletion: 1 in 1d20
 
-Gatekeeper™
+### Gatekeeper™
 
 Level: 1d6
 
@@ -726,7 +726,7 @@ entered on the control panel.
 Depletion: 1 in 1d20 (check each month); when the artifact depletes, the
 person inside wakes up and the door opens
 
-Gladys™ Pistol
+### Gladys™ Pistol
 
 Level: 1d6
 
@@ -761,7 +761,7 @@ Gladys AI: level 2, interaction and general knowledge as level 3
 Depletion: 1 in 1d00 (check each day); if the artifact depletes, all the
 AI functionality stops, but it continues to work as a medium pistol
 
-Hover Bike
+### Hover Bike
 
 Level: 1d6 + 2
 
@@ -786,7 +786,7 @@ driving the bike.
 
 Depletion: 1 in 1d20 (check each day of use)
 
-Iridescent Shadow™ Suit
+### Iridescent Shadow™ Suit
 
 Level: 1d6 + 2
 
@@ -801,7 +801,7 @@ until a round or two after the disruptive movement.
 
 Depletion: 1 in 1d00
 
-LifeBlood™
+### LifeBlood™
 
 Level: 1d6
 
@@ -854,7 +854,7 @@ fluid. Roll d00 or choose one of the following benefits.
 
 Depletion: 1 in 1d20 (check each day)
 
-MagMaster™ Railgun
+### MagMaster™ Railgun
 
 Level: 1d6 + 3
 
@@ -877,7 +877,7 @@ GM intrusion: The magnetic field causes an electronic device or
 cyberware (belonging to the character or an ally within immediate range)
 to shut down or spend a few rounds rebooting.
 
-Magnoshield™
+### Magnoshield™
 
 Level: 1d6 + 1
 
@@ -895,7 +895,7 @@ Depletion: 1 in 1d20 (if the artifact depletes, there is a 50% chance it
 explodes in an immediate area, inflicting electrical damage equal to the
 artifact level)
 
-Maser Pistol
+### Maser Pistol
 
 Level: 1d6 + 1
 
@@ -912,7 +912,7 @@ The maser pistol can burn through solid objects of its level or lower.
 
 Depletion: 1 in 1d20
 
-MaxTranq™ Rifle
+### MaxTranq™ Rifle
 
 Level: 1d6 + 2
 
@@ -944,7 +944,7 @@ Depletion: 1 in 1d20 (check each needle, or week of inactivity)
 Any character can use the MaxTranq to fire two darts on their turn; they
 don't need to have a special ability to use this feature.
 
-Molotok™ Rocket Hammer
+### Molotok™ Rocket Hammer
 
 Level: 1d6
 
@@ -963,7 +963,7 @@ until their next turn.
 
 Depletion: 1--2 in 1d00
 
-NewU™
+### NewU™
 
 Level: 1d6 + 4
 
@@ -984,7 +984,7 @@ to stimuli.
 Depletion: 1--9 in 1d20 (depletion might mean the device breaks, or the
 artifact might be fine but the clone is malformed or dead)
 
-Nightblade™
+### Nightblade™
 
 Level: 1d6
 
@@ -1013,7 +1013,7 @@ object as a minor or major effect on an attack roll.)
 Depletion: 1 in 1d20 (if the artifact depletes, it can still be used as
 a normal medium katana)
 
-OmniDoc
+### OmniDoc
 
 Level: 1d6 + 2
 
@@ -1039,7 +1039,7 @@ Depletion: 1 in 1d10; if the artifact depletes, it's usually (75%)
 because its supplies of drugs and other medical supplies are exhausted
 and must be refilled (costing \$2,500)
 
-PlantSkin™ (cyberware)
+### PlantSkin™ (cyberware)
 
 Level: 1d6 + 1
 
@@ -1062,7 +1062,7 @@ needed.
 
 Depletion: 1 in 1d00 (check each day)
 
-Power Warframe
+### Power Warframe
 
 Level: 1d6 + 1
 
@@ -1100,7 +1100,7 @@ their physical tasks are hindered.
 
 Depletion: 1 in 1d10 (check each use)
 
-Puppetmaster
+### Puppetmaster
 
 Level: 1d6
 
@@ -1135,7 +1135,7 @@ hindered).
 Depletion: 1 in 1d6 (check each ten minutes for a willing person, or
 each minute for an unwilling one)
 
-Red Haze™ Implant (cyberware)
+### Red Haze™ Implant (cyberware)
 
 Level: 1d6 + 3
 
@@ -1168,7 +1168,7 @@ how the artifact enhances character stats, such as adding +3 to Might
 Edge but only +1 to Speed Edge, or +2 to Armor but only +1 to Might
 Edge.
 
-Relentless™ Pistol
+### Relentless™ Pistol
 
 Level: 1d6 + 1
 
@@ -1199,7 +1199,7 @@ Using the AI requires the user to have Smart Link cyberware installed
 
 Depletion: 1 in 1d10 (check each flight)
 
-Scarab Door™
+### Scarab Door™
 
 Level: 1d6 + 2
 
@@ -1239,7 +1239,7 @@ used to create a realistic engram of the scanned person.
 
 Depletion: 1 in 1d6
 
-Skill Chip
+### Skill Chip
 
 Level: 1d6
 
@@ -1316,7 +1316,7 @@ causing brain damage or memory loss.)
 
 Depletion: ---
 
-Suitcase Nuke
+### Suitcase Nuke
 
 Level: 7
 
@@ -1361,7 +1361,7 @@ drives up the black market price for a suitcase nuke; in the rare times
 they become available---usually due to high-level espionage or
 terrorism---they typically cost \$250,000.
 
-Tri-Arm™ (cyberware)
+### Tri-Arm™ (cyberware)
 
 Level: 1d6
 
