@@ -56,6 +56,7 @@ As part of this update, the following repository-wide improvements were made:
 8. **Duplicate Content Removal** - Removed duplicate sections from Optional Rule files (Drinking.md and Gambling.md had duplicate content from other files)
 9. **Typo Corrections** - Fixed "Surival" → "Survival" in Optional-Rule-Survival.md
 10. **Frontmatter Consistency** - Fixed tags and aliases in 8 Optional Rule files (wrong aliases, missing tags, incorrect spacing)
+11. **Heading Standardization** - Changed 5 new Optional Rule files from H1 to H2 with "Optional Rule:" prefix to match existing repository pattern
 
 ## 2024-02-29
 
