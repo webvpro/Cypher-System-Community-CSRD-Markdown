@@ -41,15 +41,20 @@ Post-apocalyptic hazards, plus two short adventure seeds — *Tall Tales* and *H
 
 ### Repository Cleanup and Quality Pass
 
-- Stripped trailing whitespace from nearly 2,800 files  
-- Converted 13 creature entries to the new blockquote layout  
-- Fixed paragraph breaks caused by bad conversions in 10 files  
-- Added or corrected frontmatter tags across 16 files  
-- Removed a few duplicate or extraction-artifact files  
-- Standardized filenames (17 creature files now match Title-Case convention)  
-- Linked genre modules to related creature entries for easier browsing  
-- Corrected typos (e.g. “Surival” → “Survival”)  
-- Updated headings and frontmatter to follow the repo’s current style guide
+- Stripped trailing whitespace from nearly 2,800 files
+- Converted 13 creature entries to the new blockquote layout
+- Fixed paragraph breaks caused by bad conversions in 10 files
+- Added or corrected frontmatter tags across 16 files
+- Removed a few duplicate or extraction-artifact files
+- Standardized filenames (17 creature files now match Title-Case convention)
+- Linked genre modules to related creature entries for easier browsing
+- Corrected typos (e.g. "Surival" → "Survival")
+- Updated headings and frontmatter to follow the repo's current style guide
+- Added proper H2/H3 heading hierarchy to all new content files:
+  - 4 Cyberpunk genre files with full semantic structure
+  - 7 Weird West genre files with proper section headings
+  - 4 multi-variant creature files corrected to use H2 (matching existing convention)
+  - Total: ~200 new headings added for better document navigation and consistency
 
 ---
 
