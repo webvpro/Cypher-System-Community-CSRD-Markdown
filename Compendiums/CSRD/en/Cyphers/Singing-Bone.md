@@ -1,10 +1,17 @@
 ---
 aliases:
-- Singing Bone
+  - Singing Bone
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Singing Bone
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Singing-Bone
 ---
 
 

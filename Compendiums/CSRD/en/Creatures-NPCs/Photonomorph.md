@@ -1,13 +1,17 @@
 ---
 aliases:
-- Photonomorph
+  - Photonomorph
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/3
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/22
+title: Photonomorph
+collection: Creatures-NPCs
+kind: Creature
+id: Photonomorph
 ---
 
 

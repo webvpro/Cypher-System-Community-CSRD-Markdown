@@ -1,13 +1,17 @@
 ---
 aliases:
-- Tyrannosaurus Rex
+  - Tyrannosaurus Rex
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/50
+title: Tyrannosaurus Rex
+collection: Creatures-NPCs
+kind: Creature
+id: Tyrannosaurus-Rex
 ---
 
 

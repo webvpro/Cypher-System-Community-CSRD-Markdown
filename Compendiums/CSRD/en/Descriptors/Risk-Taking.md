@@ -1,9 +1,13 @@
 ---
 aliases:
-- Risk Taking
+  - Risk Taking
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Risk Taking
+collection: Descriptors
+kind: Descriptor
+id: Risk-Taking
 ---
 
 ## Risk-Taking

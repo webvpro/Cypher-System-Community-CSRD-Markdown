@@ -1,13 +1,20 @@
 ---
 aliases:
-- Vampire
+  - Vampire
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/24
+  - Content/Horror
+title: Vampire
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Vampire
 ---
 
 

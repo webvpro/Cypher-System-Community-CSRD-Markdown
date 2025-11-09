@@ -1,10 +1,15 @@
 ---
 aliases:
-- Lightning Hammer
+  - Lightning Hammer
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Lightning Hammer
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Lightning-Hammer
 ---
 
 

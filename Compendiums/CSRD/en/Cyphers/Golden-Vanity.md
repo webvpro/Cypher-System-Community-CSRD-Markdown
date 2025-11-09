@@ -1,10 +1,17 @@
 ---
 aliases:
-- Golden Vanity
+  - Golden Vanity
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Golden Vanity
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Golden-Vanity
 ---
 
 

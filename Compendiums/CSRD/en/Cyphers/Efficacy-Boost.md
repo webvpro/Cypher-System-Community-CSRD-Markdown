@@ -1,10 +1,14 @@
 ---
 aliases:
-- Efficacy Boost
+  - Efficacy Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Efficacy Boost
+collection: Cyphers
+kind: Cypher
+id: Efficacy-Boost
 ---
 
 

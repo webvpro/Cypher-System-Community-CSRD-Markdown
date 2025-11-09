@@ -1,13 +1,17 @@
 ---
 aliases:
-- Evil Priest
+  - Evil Priest
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/28
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/28
+title: Evil Priest
+collection: Creatures-NPCs
+kind: Creature
+id: Evil-Priest
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Thunders"
+  - Thunders
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Thunders
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Thunders
 ---
 
 

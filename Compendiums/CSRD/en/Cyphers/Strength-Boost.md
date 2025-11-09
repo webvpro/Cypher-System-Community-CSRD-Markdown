@@ -1,10 +1,14 @@
 ---
 aliases:
-- Strength Boost
+  - Strength Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Strength Boost
+collection: Cyphers
+kind: Cypher
+id: Strength-Boost
 ---
 
 

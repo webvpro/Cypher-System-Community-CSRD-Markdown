@@ -1,10 +1,15 @@
 ---
 aliases:
-- Dragontongue Weapon
+  - Dragontongue Weapon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Dragontongue Weapon
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Dragontongue-Weapon
 ---
 
 

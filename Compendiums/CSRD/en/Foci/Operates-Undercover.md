@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Operates Undercover"
+  - Operates Undercover
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+  - Content/Fantasy
+title: Operates Undercover
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Operates-Undercover
 ---
 
 

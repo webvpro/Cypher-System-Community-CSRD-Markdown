@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Black Dog"
+  - Black Dog
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/20
+  - Content/Fairytale
+title: Black Dog
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Black-Dog
 ---
 
 

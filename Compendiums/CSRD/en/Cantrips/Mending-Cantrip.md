@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Mending Cantrip"
+  - Mending Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Mending-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Mending-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Mending Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Mending-Cantrip
 ---
 
 ## Mending Cantrip  (1 Intellect point)

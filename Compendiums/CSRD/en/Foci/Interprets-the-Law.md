@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Interprets the Law"
+  - Interprets the Law
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Basic
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Basic
+title: Interprets the Law
+collection: Foci
+kind: Focus
+id: Interprets-the-Law
 ---
 
 

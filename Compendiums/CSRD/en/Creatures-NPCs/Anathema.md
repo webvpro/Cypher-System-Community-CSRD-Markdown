@@ -1,13 +1,17 @@
 ---
 aliases:
-- Anathema
+  - Anathema
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super Villain
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/70
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super Villain
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/70
+title: Anathema
+collection: Creatures-NPCs
+kind: Super Villain
+id: Anathema
 ---
 
 

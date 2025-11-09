@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Auton"
+  - Auton
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/1
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/1
+  - Equipment/Value/Moderate
+title: Auton
+collection: Equipment
+kind: Equipment
+id: Auton
 ---
 
 

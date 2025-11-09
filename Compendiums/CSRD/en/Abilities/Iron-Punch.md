@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Iron Punch"
+  - Iron Punch
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Iron Punch
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Special-Attack
+id: Iron-Punch
 ---
 
 

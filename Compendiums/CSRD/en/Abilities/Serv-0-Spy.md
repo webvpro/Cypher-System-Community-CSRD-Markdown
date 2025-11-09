@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Serv-0 Spy"
+  - Serv-0 Spy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Serv-0 Spy
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Senses
+id: Serv-0-Spy
 ---
 
 

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Staff of the Prophet
+  - Staff of the Prophet
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Staff of the Prophet
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Staff-of-the-Prophet
 ---
 
 

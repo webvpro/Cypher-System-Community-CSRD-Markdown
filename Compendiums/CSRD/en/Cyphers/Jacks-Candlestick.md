@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Jack's Candlestick"
+  - Jack's Candlestick
 tags:
-- Compendium/CSRD/en/Cyphers/Jacks-Candlestick
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Jacks-Candlestick
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Jack's Candlestick
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Jacks-Candlestick
 ---
 
 

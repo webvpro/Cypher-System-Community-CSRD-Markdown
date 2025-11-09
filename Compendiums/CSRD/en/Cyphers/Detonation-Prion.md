@@ -1,9 +1,13 @@
 ---
 aliases:
-- Detonation Prion
+  - Detonation Prion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Detonation Prion
+collection: Cyphers
+kind: Cypher
+id: Detonation-Prion
 ---
 
 

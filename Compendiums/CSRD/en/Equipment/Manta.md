@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Manta"
+  - Manta
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Manta
+collection: Equipment
+kind: Equipment
+id: Manta
 ---
 
 

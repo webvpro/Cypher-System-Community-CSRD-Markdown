@@ -1,10 +1,17 @@
 ---
 aliases:
-- Knave of Hearts
+  - Knave of Hearts
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Knave of Hearts
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Knave-of-Hearts
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Worm that Walks
+  - Worm that Walks
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/30
+title: Worm that Walks
+collection: Creatures-NPCs
+kind: Creature
+id: Worm-that-Walks
 ---
 
 

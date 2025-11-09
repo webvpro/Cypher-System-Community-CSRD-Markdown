@@ -1,10 +1,14 @@
 ---
 aliases:
-- Darksight
+  - Darksight
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Darksight
+collection: Cyphers
+kind: Cypher
+id: Darksight
 ---
 
 

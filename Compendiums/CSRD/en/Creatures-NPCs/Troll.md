@@ -1,13 +1,20 @@
 ---
 aliases:
-- Troll
+  - Troll
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/30
+  - Content/Fairytale
+title: Troll
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Troll
 ---
 
 

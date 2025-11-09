@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Drawing on Life's Experiences"
+  - Drawing on Life's Experiences
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Drawing on Life's Experiences
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Information
+id: Drawing-on-Life's-Experiences
 ---
 
 

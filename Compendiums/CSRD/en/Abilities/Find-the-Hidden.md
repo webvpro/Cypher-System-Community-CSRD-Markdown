@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Find the Hidden"
+  - Find the Hidden
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Find the Hidden
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Information
+id: Find-the-Hidden
 ---
 
 

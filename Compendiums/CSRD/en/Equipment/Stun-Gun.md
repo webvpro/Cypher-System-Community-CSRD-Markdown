@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Stun \"Gun\""
+  - Stun "Gun"
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Light
+title: Stun "Gun"
+collection: Equipment
+kind: Equipment
+id: Stun-Gun
 ---
 
 

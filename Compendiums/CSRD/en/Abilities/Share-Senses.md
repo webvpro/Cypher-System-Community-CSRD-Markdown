@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Share Senses"
+  - Share Senses
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Senses
+title: Share Senses
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Senses
+id: Share-Senses
 ---
 
 

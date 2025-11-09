@@ -1,9 +1,13 @@
 ---
 aliases:
-- Impulsive
+  - Impulsive
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Impulsive
+collection: Descriptors
+kind: Descriptor
+id: Impulsive
 ---
 
 ## Impulsive

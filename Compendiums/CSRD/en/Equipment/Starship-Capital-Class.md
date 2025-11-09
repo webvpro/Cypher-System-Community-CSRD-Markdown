@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Starship, Capital Class"
+  - 'Starship, Capital Class'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/7
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/7
+  - Equipment/Value/Priceless
+title: 'Starship, Capital Class'
+collection: Equipment
+kind: Equipment
+id: Starship-Capital-Class
 ---
 
 

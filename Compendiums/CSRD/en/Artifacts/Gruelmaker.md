@@ -1,10 +1,15 @@
 ---
 aliases:
-- Gruelmaker
+  - Gruelmaker
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Gruelmaker
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Gruelmaker
 ---
 
 

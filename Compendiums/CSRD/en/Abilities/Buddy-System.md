@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Buddy System"
+  - Buddy System
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Buddy System
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Support
+id: Buddy-System
 ---
 
 

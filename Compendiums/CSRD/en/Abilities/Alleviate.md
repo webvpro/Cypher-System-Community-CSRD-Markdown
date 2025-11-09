@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Alleviate"
+  - Alleviate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Alleviate
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Alleviate
 ---
 
 

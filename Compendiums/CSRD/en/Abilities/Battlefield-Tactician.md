@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Battlefield Tactician"
+  - Battlefield Tactician
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Battlefield Tactician
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Senses
+id: Battlefield-Tactician
 ---
 
 

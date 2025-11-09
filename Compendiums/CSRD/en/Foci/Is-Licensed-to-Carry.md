@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Is Licensed to Carry"
+  - Is Licensed to Carry
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Is Licensed to Carry
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Is-Licensed-to-Carry
 ---
 
 

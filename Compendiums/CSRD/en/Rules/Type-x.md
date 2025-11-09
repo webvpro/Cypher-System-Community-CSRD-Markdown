@@ -1,9 +1,12 @@
 ---
 aliases:
-  - "Type"
+  - Type
 tags:
   - Compendium/CSRD/en/Rules/Type
   - Character/Type
+title: Type
+collection: Rules
+kind: Character
 ---
 
 # Type

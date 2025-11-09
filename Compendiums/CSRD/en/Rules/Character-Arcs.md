@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Character Arcs"
+  - Character Arcs
 tags:
-- Compendium/CSRD/en/Rules
-- Character/Arcs
-- Character/Advancement
+  - Compendium/CSRD/en/Rules
+  - Character/Arcs
+  - Character/Advancement
+title: Character Arcs
+collection: Rules
+kind: Character
+id: Character-Arcs
 ---
 ## Character Arcs
 Character arcs are the means by which players can invest themselves more in great stories and character depth and development.

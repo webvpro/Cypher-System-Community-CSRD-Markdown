@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Light Switch Cantrip"
+  - Light Switch Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Light-Switch-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Light-Switch-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Light Switch Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Light-Switch-Cantrip
 ---
 
 ## Light Switch Cantrip (1 Intellect point)

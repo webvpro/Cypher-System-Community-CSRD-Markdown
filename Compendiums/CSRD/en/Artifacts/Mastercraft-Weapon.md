@@ -1,10 +1,15 @@
 ---
 aliases:
-- Mastercraft Weapon
+  - Mastercraft Weapon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Mastercraft Weapon
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Mastercraft-Weapon
 ---
 
 

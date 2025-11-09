@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Junkmonger"
+  - Junkmonger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+title: Junkmonger
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Craft
+id: Junkmonger
 ---
 
 

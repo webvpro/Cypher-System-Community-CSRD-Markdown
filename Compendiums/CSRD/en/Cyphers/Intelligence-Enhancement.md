@@ -1,10 +1,14 @@
 ---
 aliases:
-- Intelligence Enhancement
+  - Intelligence Enhancement
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Intelligence Enhancement
+collection: Cyphers
+kind: Cypher
+id: Intelligence-Enhancement
 ---
 
 

@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Always Tinkering"
+  - Always Tinkering
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Always Tinkering
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Superhero
+id: Always-Tinkering
 ---
 
 

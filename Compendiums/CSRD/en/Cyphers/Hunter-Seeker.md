@@ -1,10 +1,14 @@
 ---
 aliases:
-- Hunter/Seeker
+  - Hunter/Seeker
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Hunter/Seeker
+collection: Cyphers
+kind: Cypher
+id: Hunter-Seeker
 ---
 
 

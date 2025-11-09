@@ -1,9 +1,13 @@
 ---
 aliases:
-- Ai Instance
+  - Ai Instance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Ai Instance
+collection: Cyphers
+kind: Cypher
+id: Ai-Instance
 ---
 
 

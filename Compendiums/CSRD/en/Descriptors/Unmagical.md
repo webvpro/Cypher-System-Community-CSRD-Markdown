@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Unmagical"
+  - Unmagical
 tags:
-- Compendiums/CSRD/en/Descriptors/Unmagical
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Unmagical
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Unmagical
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Unmagical
 ---
 
 ## Unmagical

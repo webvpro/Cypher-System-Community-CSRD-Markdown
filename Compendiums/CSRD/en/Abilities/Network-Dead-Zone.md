@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Network Dead Zone"
+  - Network Dead Zone
 tags:
-- Compendium/CSRD/en/Abilities/Network-Dead-Zone
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Network-Dead-Zone
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Network Dead Zone
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Network-Dead-Zone
 ---
 
 

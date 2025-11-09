@@ -1,13 +1,17 @@
 ---
 aliases:
-- Shadow Elf
+  - Shadow Elf
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Shadow Elf
+collection: Creatures-NPCs
+kind: Creature
+id: Shadow-Elf
 ---
 
 

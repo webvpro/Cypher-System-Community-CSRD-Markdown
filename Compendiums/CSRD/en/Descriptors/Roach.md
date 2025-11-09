@@ -1,9 +1,13 @@
 ---
 aliases:
-- Roach
+  - Roach
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Roach
+collection: Descriptors
+kind: Descriptor
+id: Roach
 ---
 
 ## Roach

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Hot Cross Buns
+  - Hot Cross Buns
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Hot Cross Buns
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Hot-Cross-Buns
 ---
 
 

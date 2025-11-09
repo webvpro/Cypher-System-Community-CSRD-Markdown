@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Wild Insight"
+  - Wild Insight
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Fantasy
+title: Wild Insight
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Fantasy
+id: Wild-Insight
 ---
 
 

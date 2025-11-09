@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Autodoc, Mobile"
+  - 'Autodoc, Mobile'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: 'Autodoc, Mobile'
+collection: Equipment
+kind: Equipment
+id: Autodoc-Mobile
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Rapunzel Leaf
+  - Rapunzel Leaf
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Rapunzel Leaf
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Rapunzel-Leaf
 ---
 
 

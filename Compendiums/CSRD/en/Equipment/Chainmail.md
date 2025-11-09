@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Chainmail"
+  - Chainmail
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/75-Gp
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/75-Gp
+  - Equipment/Armor/Medium
+title: Chainmail
+collection: Equipment
+kind: Equipment
+id: Chainmail
 ---
 
 

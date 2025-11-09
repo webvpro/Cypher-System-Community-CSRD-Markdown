@@ -1,10 +1,15 @@
 ---
 aliases:
-- Spellbook of Elemental Summoning
+  - Spellbook of Elemental Summoning
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Spellbook of Elemental Summoning
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Spellbook-of-Elemental-Summoning
 ---
 
 

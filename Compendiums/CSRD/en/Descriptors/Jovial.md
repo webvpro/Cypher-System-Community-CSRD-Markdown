@@ -1,9 +1,13 @@
 ---
 aliases:
-- Jovial
+  - Jovial
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Jovial
+collection: Descriptors
+kind: Descriptor
+id: Jovial
 ---
 
 ## Jovial

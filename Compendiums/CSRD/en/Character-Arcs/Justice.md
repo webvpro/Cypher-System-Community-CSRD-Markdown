@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Justice"
+  - Justice
 tags:
-- Compendium/CSRD/en/Character-Arcs/Justice
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Justice
+  - Character-Arc
+title: Justice
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Justice
 ---
 ## Justice
 >You try to right a wrong or bring a wrongdoer to justice.

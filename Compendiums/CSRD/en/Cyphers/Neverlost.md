@@ -1,10 +1,17 @@
 ---
 aliases:
-- Neverlost
+  - Neverlost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Neverlost
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Neverlost
 ---
 
 

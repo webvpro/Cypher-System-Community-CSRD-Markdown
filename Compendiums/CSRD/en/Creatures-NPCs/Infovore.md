@@ -1,13 +1,17 @@
 ---
 aliases:
-- Infovore
+  - Infovore
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/3
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/3
+  - Creature/Health/9
+title: Infovore
+collection: Creatures-NPCs
+kind: Creature
+id: Infovore
 ---
 
 

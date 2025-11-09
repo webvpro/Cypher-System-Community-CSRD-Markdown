@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Entertains"
+  - Entertains
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+  - Content/Fantasy
+title: Entertains
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Entertains
 ---
 
 

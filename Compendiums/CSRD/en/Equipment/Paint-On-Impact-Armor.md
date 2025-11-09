@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Paint-On Impact Armor"
+  - Paint-On Impact Armor
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: Paint-On Impact Armor
+collection: Equipment
+kind: Equipment
+id: Paint-On-Impact-Armor
 ---
 
 

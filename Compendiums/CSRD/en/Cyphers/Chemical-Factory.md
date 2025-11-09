@@ -1,10 +1,14 @@
 ---
 aliases:
-- Chemical Factory
+  - Chemical Factory
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Chemical Factory
+collection: Cyphers
+kind: Cypher
+id: Chemical-Factory
 ---
 
 

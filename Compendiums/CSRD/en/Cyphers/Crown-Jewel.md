@@ -1,10 +1,17 @@
 ---
 aliases:
-- Crown Jewel
+  - Crown Jewel
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Crown Jewel
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Crown-Jewel
 ---
 
 

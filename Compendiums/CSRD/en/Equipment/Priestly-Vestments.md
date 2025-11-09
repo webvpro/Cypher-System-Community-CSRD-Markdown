@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Priestly Vestments"
+  - Priestly Vestments
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Gp
+title: Priestly Vestments
+collection: Equipment
+kind: Equipment
+id: Priestly-Vestments
 ---
 
 

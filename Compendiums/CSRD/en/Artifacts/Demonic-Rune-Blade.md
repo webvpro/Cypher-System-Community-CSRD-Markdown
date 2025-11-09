@@ -1,10 +1,15 @@
 ---
 aliases:
-- Demonic Rune Blade
+  - Demonic Rune Blade
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Demonic Rune Blade
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Demonic-Rune-Blade
 ---
 
 

@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Gamer's Fortitude"
+  - Gamer's Fortitude
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+title: Gamer's Fortitude
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: High
+pools: []
+categories:
+  - Cure
+id: Gamer's-Fortitude
 ---
 
 

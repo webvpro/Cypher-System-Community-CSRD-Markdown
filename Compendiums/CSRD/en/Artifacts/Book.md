@@ -1,10 +1,17 @@
 ---
 aliases:
-- Book
+  - Book
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+  - Content/Science-Fiction
+title: Book
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Book
 ---
 
 

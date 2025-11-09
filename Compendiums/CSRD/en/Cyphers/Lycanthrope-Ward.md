@@ -1,10 +1,14 @@
 ---
 aliases:
-- Lycanthrope Ward
+  - Lycanthrope Ward
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Lycanthrope Ward
+collection: Cyphers
+kind: Cypher
+id: Lycanthrope-Ward
 ---
 
 

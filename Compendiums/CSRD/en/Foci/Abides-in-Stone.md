@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Abides in Stone"
+  - Abides in Stone
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Abides in Stone
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Abides-in-Stone
 ---
 
 

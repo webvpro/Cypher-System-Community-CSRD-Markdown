@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Hart's Heart"
+  - Hart's Heart
 tags:
-- Compendium/CSRD/en/Cyphers/Harts-Heart
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Harts-Heart
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Hart's Heart
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Harts-Heart
 ---
 
 

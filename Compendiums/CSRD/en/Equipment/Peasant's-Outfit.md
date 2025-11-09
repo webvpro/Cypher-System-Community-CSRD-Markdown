@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Peasant's Outfit"
+  - Peasant's Outfit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Sp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Sp
+title: Peasant's Outfit
+collection: Equipment
+kind: Equipment
+id: Peasant's-Outfit
 ---
 
 

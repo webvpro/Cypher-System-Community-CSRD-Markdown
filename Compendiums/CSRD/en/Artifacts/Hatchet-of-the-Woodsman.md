@@ -1,10 +1,17 @@
 ---
 aliases:
-- Hatchet of the Woodsman
+  - Hatchet of the Woodsman
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Hatchet of the Woodsman
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Hatchet-of-the-Woodsman
 ---
 
 

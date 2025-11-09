@@ -1,13 +1,17 @@
 ---
 aliases:
-- Deinonychus
+  - Deinonychus
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Deinonychus
+collection: Creatures-NPCs
+kind: Creature
+id: Deinonychus
 ---
 
 

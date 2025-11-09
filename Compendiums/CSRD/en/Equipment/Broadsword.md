@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Broadsword"
+  - Broadsword
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/15-Gp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/15-Gp
+  - Equipment/Weapon/Medium
+title: Broadsword
+collection: Equipment
+kind: Equipment
+id: Broadsword
 ---
 
 

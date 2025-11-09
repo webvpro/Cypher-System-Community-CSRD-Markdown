@@ -1,10 +1,15 @@
 ---
 aliases:
-- Storm Shack
+  - Storm Shack
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Storm Shack
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Storm-Shack
 ---
 
 

@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Spot Weakness"
+  - Spot Weakness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Information
+title: Spot Weakness
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Information
+id: Spot-Weakness
 ---
 
 

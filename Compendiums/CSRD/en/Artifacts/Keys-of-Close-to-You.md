@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Keys of Close to You"
+  - Keys of Close to You
 tags:
-- Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Keys of Close to You
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Keys-of-Close-to-You
 ---
 
 

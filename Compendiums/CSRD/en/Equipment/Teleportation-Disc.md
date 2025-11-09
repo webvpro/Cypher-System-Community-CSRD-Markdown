@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Teleportation Disc"
+  - Teleportation Disc
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Teleportation Disc
+collection: Equipment
+kind: Equipment
+id: Teleportation-Disc
 ---
 
 

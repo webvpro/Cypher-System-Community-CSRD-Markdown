@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Elemental, Air"
+  - 'Elemental, Air'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/24
+  - Content/Fairytale
+title: 'Elemental, Air'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Elemental-Air
 ---
 
 

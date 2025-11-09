@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Dazing Attack"
+  - Dazing Attack
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Dazing Attack
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Might
+categories:
+  - Special-Attack
+id: Dazing-Attack
 ---
 
 

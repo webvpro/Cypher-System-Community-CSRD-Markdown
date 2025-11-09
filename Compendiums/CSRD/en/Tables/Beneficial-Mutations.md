@@ -1,9 +1,13 @@
 ---
 aliases:
-- 'Beneficial Mutations Table'
+  - Beneficial Mutations Table
 tags:
-- Compendium/CSRD/en/Tables
-- Table/Mutation/Beneficial
+  - Compendium/CSRD/en/Tables
+  - Table/Mutation/Beneficial
+title: Beneficial Mutations Table
+collection: Tables
+kind: Table
+id: Beneficial-Mutations
 ---
 
 # D100 Beneficial Mutations

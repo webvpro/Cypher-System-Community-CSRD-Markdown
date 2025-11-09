@@ -1,10 +1,14 @@
 ---
 aliases:
-- Condition Remover
+  - Condition Remover
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Condition Remover
+collection: Cyphers
+kind: Cypher
+id: Condition-Remover
 ---
 
 

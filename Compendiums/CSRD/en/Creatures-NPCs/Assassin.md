@@ -1,13 +1,17 @@
 ---
 aliases:
-- Assassin
+  - Assassin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Assassin
+collection: Creatures-NPCs
+kind: NPC
+id: Assassin
 ---
 
 

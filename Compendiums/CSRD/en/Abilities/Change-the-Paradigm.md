@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Change the Paradigm"
+  - Change the Paradigm
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Change the Paradigm
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Control
+id: Change-the-Paradigm
 ---
 
 

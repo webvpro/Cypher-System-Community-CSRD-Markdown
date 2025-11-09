@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Improved Sculpt Light"
+  - Improved Sculpt Light
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+title: Improved Sculpt Light
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '7'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Craft
+id: Improved-Sculpt-Light
 ---
 
 

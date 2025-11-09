@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Modern Rules Module"
+  - Modern Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Optional/Modern-Rules-Module
+  - Compendium/CSRD/en/Rules/Optional/Modern-Rules-Module
+title: Modern Rules Module
+id: Modern-Rules-Module
 ---
 
 ## Modern Rules Module

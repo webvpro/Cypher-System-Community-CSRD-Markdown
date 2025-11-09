@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Jetpack"
+  - Jetpack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Very-Expensive
+title: Jetpack
+collection: Equipment
+kind: Equipment
+id: Jetpack
 ---
 
 

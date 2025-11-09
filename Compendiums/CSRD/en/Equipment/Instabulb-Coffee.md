@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Instabulb, Coffee"
+  - 'Instabulb, Coffee'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Inexpensive
+title: 'Instabulb, Coffee'
+collection: Equipment
+kind: Equipment
+id: Instabulb-Coffee
 ---
 
 

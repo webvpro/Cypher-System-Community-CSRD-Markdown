@@ -1,13 +1,19 @@
 ---
 aliases:
-- Morgan Le Fay
+  - Morgan Le Fay
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/0
+  - Content/Fairytale
+title: Morgan Le Fay
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Morgan-Le-Fay
 ---
 
 

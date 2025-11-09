@@ -1,10 +1,17 @@
 ---
 aliases:
-- Diadem of Death
+  - Diadem of Death
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Diadem of Death
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Diadem-of-Death
 ---
 
 

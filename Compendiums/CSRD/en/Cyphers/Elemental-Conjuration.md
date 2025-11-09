@@ -1,10 +1,14 @@
 ---
 aliases:
-- Elemental Conjuration
+  - Elemental Conjuration
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Elemental Conjuration
+collection: Cyphers
+kind: Cypher
+id: Elemental-Conjuration
 ---
 
 

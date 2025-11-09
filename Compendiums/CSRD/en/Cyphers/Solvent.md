@@ -1,10 +1,14 @@
 ---
 aliases:
-- Solvent
+  - Solvent
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Solvent
+collection: Cyphers
+kind: Cypher
+id: Solvent
 ---
 
 

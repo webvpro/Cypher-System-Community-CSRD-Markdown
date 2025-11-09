@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Cloud Surfing Board"
+  - Cloud Surfing Board
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/1
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/1
+  - Equipment/Value/Very-Expensive
+title: Cloud Surfing Board
+collection: Equipment
+kind: Equipment
+id: Cloud-Surfing-Board
 ---
 
 

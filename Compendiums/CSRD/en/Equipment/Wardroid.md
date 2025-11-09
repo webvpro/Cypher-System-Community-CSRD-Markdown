@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Wardroid"
+  - Wardroid
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Wardroid
+collection: Equipment
+kind: Equipment
+id: Wardroid
 ---
 
 

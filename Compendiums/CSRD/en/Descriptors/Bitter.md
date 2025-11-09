@@ -1,9 +1,16 @@
 ---
 aliases:
-- Bitter
+  - Bitter
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Post-Apocalyptic
+title: Bitter
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Post-Apocalyptic
+id: Bitter
 ---
 
 ## Bitter

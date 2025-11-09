@@ -1,14 +1,28 @@
 ---
 aliases:
-- "Mist Cloud"
+  - Mist Cloud
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Mist Cloud
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '1'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+  - Superhero
+id: Mist-Cloud
 ---
 
 

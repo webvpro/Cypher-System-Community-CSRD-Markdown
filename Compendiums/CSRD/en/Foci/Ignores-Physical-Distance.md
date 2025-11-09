@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Ignores Physical Distance"
+  - Ignores Physical Distance
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Ignores Physical Distance
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Ignores-Physical-Distance
 ---
 
 

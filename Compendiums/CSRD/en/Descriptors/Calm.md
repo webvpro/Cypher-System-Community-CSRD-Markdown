@@ -1,9 +1,13 @@
 ---
 aliases:
-- Calm
+  - Calm
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Calm
+collection: Descriptors
+kind: Descriptor
+id: Calm
 ---
 
 ## Calm

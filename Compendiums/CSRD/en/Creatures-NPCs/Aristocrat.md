@@ -1,13 +1,20 @@
 ---
 aliases:
-- Aristocrat
+  - Aristocrat
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/12
+  - Content/Fairytale
+title: Aristocrat
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Aristocrat
 ---
 
 

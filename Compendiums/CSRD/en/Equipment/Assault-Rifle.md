@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Assault Rifle"
+  - Assault Rifle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Long
-- Equipment/Weapon/Rapid-Fire
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Long
+  - Equipment/Weapon/Rapid-Fire
+title: Assault Rifle
+collection: Equipment
+kind: Equipment
+id: Assault-Rifle
 ---
 
 

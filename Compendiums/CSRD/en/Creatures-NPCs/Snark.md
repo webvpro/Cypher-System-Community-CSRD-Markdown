@@ -1,13 +1,20 @@
 ---
 aliases:
-- Snark
+  - Snark
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/2
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/2
+  - Creature/Health/21
+  - Content/Fairytale
+title: Snark
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Snark
 ---
 
 

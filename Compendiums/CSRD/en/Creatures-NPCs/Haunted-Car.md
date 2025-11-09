@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Haunted Car"
+  - Haunted Car
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Haunted-Car
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Armor/3
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs/Haunted-Car
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Armor/3
+  - Creature/Health/20
+title: Haunted Car
+collection: Creatures-NPCs
+kind: Creature
+id: Haunted-Car
 ---
 
 

@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Smart Rounds (Box of 4 Rounds)"
+  - Smart Rounds (Box of 4 Rounds)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Smart Rounds (Box of 4 Rounds)
+collection: Equipment
+kind: Equipment
+id: Smart-Rounds-Box-of-4-Rounds
 ---
 
 

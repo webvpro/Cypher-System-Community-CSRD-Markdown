@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Curses the World"
+  - Curses the World
 tags:
-- Compendium/CSRD/en/Foci/Curses-the-World
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Curses-the-World
+  - Focus/Category/Fairytale
+title: Curses the World
+collection: Foci
+kind: Focus
+id: Curses-the-World
 ---
 
 

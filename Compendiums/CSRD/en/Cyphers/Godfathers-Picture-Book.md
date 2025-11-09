@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Godfather's Picture Book"
+  - Godfather's Picture Book
 tags:
-- Compendium/CSRD/en/Cyphers/Godfathers-Picture-Book
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Godfathers-Picture-Book
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Godfather's Picture Book
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Godfathers-Picture-Book
 ---
 
 

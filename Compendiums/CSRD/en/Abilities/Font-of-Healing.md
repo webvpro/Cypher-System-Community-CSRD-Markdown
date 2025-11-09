@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Font of Healing"
+  - Font of Healing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Font of Healing
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Cure
+id: Font-of-Healing
 ---
 
 

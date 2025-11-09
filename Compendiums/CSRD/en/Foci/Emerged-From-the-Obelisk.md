@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Emerged From the Obelisk"
+  - Emerged From the Obelisk
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+title: Emerged From the Obelisk
+collection: Foci
+kind: Focus
+id: Emerged-From-the-Obelisk
 ---
 
 

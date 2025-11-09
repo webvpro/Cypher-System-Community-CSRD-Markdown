@@ -1,13 +1,17 @@
 ---
 aliases:
-- Synthetic Person
+  - Synthetic Person
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/24
+title: Synthetic Person
+collection: Creatures-NPCs
+kind: Creature
+id: Synthetic-Person
 ---
 
 

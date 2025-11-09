@@ -1,10 +1,14 @@
 ---
 aliases:
-- Burst of Speed
+  - Burst of Speed
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Burst of Speed
+collection: Cyphers
+kind: Cypher
+id: Burst-of-Speed
 ---
 
 

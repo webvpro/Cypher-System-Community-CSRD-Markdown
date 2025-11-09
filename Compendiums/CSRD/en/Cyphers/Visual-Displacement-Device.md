@@ -1,10 +1,14 @@
 ---
 aliases:
-- Visual Displacement Device
+  - Visual Displacement Device
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Visual Displacement Device
+collection: Cyphers
+kind: Cypher
+id: Visual-Displacement-Device
 ---
 
 

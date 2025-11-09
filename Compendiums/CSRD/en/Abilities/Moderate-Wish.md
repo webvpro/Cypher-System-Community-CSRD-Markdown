@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Moderate Wish"
+  - Moderate Wish
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
-- Ability/Categories/Protection
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+  - Ability/Categories/Protection
+  - Ability/Categories/Transform
+title: Moderate Wish
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: High
+pools: []
+categories:
+  - Meta
+  - Protection
+  - Transform
+id: Moderate-Wish
 ---
 
 

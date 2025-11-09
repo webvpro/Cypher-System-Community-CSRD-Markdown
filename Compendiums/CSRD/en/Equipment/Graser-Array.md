@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Graser Array"
+  - Graser Array
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Graser Array
+collection: Equipment
+kind: Equipment
+id: Graser-Array
 ---
 
 

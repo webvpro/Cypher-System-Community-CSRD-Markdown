@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Traverse the Worlds"
+  - Traverse the Worlds
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/8
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/8
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Traverse the Worlds
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '8'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Movement
+id: Traverse-the-Worlds
 ---
 
 

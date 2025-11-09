@@ -1,10 +1,17 @@
 ---
 aliases:
-- Poppet Silence
+  - Poppet Silence
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Poppet Silence
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Poppet-Silence
 ---
 
 

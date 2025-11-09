@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Facsimile of Life"
+  - Facsimile of Life
 tags:
-- Compendium/CSRD/en/Abilities/Facsimile-of-Life
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Facsimile-of-Life
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Facsimile of Life
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Facsimile-of-Life
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Tank"
+  - Tank
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Mechs-and-Tanks
-- Equipment/Modern
-- Equipment/Level/4
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Mechs-and-Tanks
+  - Equipment/Modern
+  - Equipment/Level/4
+  - Equipment/Value/Exorbitant
+title: Tank
+collection: Equipment
+kind: Equipment
+id: Tank
 ---
 
 

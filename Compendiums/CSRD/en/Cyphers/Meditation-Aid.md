@@ -1,10 +1,14 @@
 ---
 aliases:
-- Meditation Aid
+  - Meditation Aid
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Meditation Aid
+collection: Cyphers
+kind: Cypher
+id: Meditation-Aid
 ---
 
 

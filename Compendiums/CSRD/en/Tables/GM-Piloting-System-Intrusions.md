@@ -1,9 +1,13 @@
 ---
 aliases:
-- "PC Piloting System Options"
+  - PC Piloting System Options
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Piloting-System-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Piloting-System-Gm-Intrusions
+title: PC Piloting System Options
+collection: Tables
+kind: Table
+id: GM-Piloting-System-Intrusions
 ---
 
 ## Piloting System Gm Intrusions Table

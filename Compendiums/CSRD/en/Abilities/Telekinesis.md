@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Telekinesis"
+  - Telekinesis
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Telekinesis
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Environment
+id: Telekinesis
 ---
 
 

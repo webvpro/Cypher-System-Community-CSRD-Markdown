@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Alchemist Fire (Flask)"
+  - Alchemist Fire (Flask)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/50-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/50-Gp
+title: Alchemist Fire (Flask)
+collection: Equipment
+kind: Equipment
+id: Alchemist-Fire-Flask
 ---
 
 

@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Gain Unusual Companion"
+  - Gain Unusual Companion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Companion
+title: Gain Unusual Companion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Companion
+id: Gain-Unusual-Companion
 ---
 
 

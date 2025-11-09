@@ -1,10 +1,14 @@
 ---
 aliases:
-- Detonation
+  - Detonation
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation
+collection: Cyphers
+kind: Cypher
+id: Detonation
 ---
 
 

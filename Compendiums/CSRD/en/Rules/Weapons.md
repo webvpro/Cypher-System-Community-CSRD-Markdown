@@ -4,6 +4,10 @@ aliases:
 tags:
   - Compendium/CSRD/en/Rules/Weapons
   - Rule/Weapons
+title: Weapons
+collection: Rules
+kind: Rule
+id: Weapons
 ---
 ## Weapons
 Not all characters are familiar with all weapons. Warriors know their way around most types, but Explorers prefer light or medium weapons, and Adepts and Speakers usually stick to light weapons. If you wield a weapon that you have no experience with, an attack with that weapon is hindered. Having experience with a weapon is called being practiced with the weapon.

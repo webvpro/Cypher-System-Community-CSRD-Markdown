@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Knife, Hunting"
+  - 'Knife, Hunting'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/2
-- Equipment/Value/Moderate
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+  - Equipment/Weapon/Light
+title: 'Knife, Hunting'
+collection: Equipment
+kind: Equipment
+id: Knife-Hunting
 ---
 
 

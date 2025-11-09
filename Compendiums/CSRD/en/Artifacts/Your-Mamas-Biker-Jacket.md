@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Your Mama’s Biker Jacket"
+  - Your Mama’s Biker Jacket
 tags:
-- Compendium/CSRD/en/Artifacts/Your-Mamas-Biker-Jacket
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Your-Mamas-Biker-Jacket
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Your Mama’s Biker Jacket
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Your-Mamas-Biker-Jacket
 ---
 
 

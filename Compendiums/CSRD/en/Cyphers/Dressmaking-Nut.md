@@ -1,10 +1,17 @@
 ---
 aliases:
-- Dressmaking Nut
+  - Dressmaking Nut
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dressmaking Nut
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dressmaking-Nut
 ---
 
 

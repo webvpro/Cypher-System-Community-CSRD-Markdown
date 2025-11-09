@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Metes Out Justice"
+  - Metes Out Justice
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+  - Content/Fantasy
+title: Metes Out Justice
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Metes-Out-Justice
 ---
 
 

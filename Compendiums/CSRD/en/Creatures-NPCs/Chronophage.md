@@ -1,13 +1,17 @@
 ---
 aliases:
-- Chronophage
+  - Chronophage
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Chronophage
+collection: Creatures-NPCs
+kind: Creature
+id: Chronophage
 ---
 
 

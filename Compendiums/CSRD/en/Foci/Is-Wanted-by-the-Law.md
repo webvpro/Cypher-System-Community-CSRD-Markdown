@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Is Wanted by the Law"
+  - Is Wanted by the Law
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Is Wanted by the Law
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Is-Wanted-by-the-Law
 ---
 
 

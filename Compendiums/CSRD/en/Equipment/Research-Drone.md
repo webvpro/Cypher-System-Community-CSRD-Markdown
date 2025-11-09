@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Research Drone"
+  - Research Drone
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Research Drone
+collection: Equipment
+kind: Equipment
+id: Research-Drone
 ---
 
 

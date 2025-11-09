@@ -1,13 +1,20 @@
 ---
 aliases:
-- Blob
+  - Blob
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/0
-- Creature/Health/66
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/0
+  - Creature/Health/66
+  - Content/Horror
+title: Blob
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Blob
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Red Riding Hood
+  - Red Riding Hood
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Red Riding Hood
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Red-Riding-Hood
 ---
 
 

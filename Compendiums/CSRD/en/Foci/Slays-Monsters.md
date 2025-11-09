@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Slays Monsters"
+  - Slays Monsters
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Slays Monsters
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Slays-Monsters
 ---
 
 

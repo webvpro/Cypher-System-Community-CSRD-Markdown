@@ -1,10 +1,14 @@
 ---
 aliases:
-- Sound Dampener
+  - Sound Dampener
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Sound Dampener
+collection: Cyphers
+kind: Cypher
+id: Sound-Dampener
 ---
 
 

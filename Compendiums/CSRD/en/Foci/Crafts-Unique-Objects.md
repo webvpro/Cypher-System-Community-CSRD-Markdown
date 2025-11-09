@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Crafts Unique Objects"
+  - Crafts Unique Objects
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Crafts Unique Objects
+collection: Foci
+kind: Focus
+id: Crafts-Unique-Objects
 ---
 
 

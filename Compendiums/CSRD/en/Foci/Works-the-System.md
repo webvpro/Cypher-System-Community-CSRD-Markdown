@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Works the System"
+  - Works the System
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Works the System
+collection: Foci
+kind: Focus
+id: Works-the-System
 ---
 
 

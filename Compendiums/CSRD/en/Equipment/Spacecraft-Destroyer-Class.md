@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Spacecraft, Destroyer Class"
+  - 'Spacecraft, Destroyer Class'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/4
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/4
+  - Equipment/Value/Priceless
+title: 'Spacecraft, Destroyer Class'
+collection: Equipment
+kind: Equipment
+id: Spacecraft-Destroyer-Class
 ---
 
 

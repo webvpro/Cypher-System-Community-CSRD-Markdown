@@ -1,10 +1,14 @@
 ---
 aliases:
-- Rejuvenator
+  - Rejuvenator
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Rejuvenator
+collection: Cyphers
+kind: Cypher
+id: Rejuvenator
 ---
 
 

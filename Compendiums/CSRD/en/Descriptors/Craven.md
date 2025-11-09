@@ -1,9 +1,13 @@
 ---
 aliases:
-- Craven
+  - Craven
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Craven
+collection: Descriptors
+kind: Descriptor
+id: Craven
 ---
 
 ## Craven

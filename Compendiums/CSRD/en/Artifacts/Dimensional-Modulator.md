@@ -1,10 +1,17 @@
 ---
 aliases:
-- Dimensional Modulator
+  - Dimensional Modulator
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Dimensional Modulator
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Dimensional-Modulator
 ---
 
 

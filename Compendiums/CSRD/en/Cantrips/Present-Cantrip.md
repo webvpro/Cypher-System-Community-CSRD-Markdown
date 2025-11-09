@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Present Cantrip"
+  - Present Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Present-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Present-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Present Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Present-Cantrip
 ---
 
 ## Present Cantrip  (1 Intellect point)

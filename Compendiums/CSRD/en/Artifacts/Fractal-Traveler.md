@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Fractal Traveler"
+  - Fractal Traveler
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Fractal Traveler
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Fractal-Traveler
 ---
 
 

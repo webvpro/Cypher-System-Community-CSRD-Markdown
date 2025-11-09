@@ -1,14 +1,26 @@
 ---
 aliases:
-- "In Harm's Way"
+  - In Harm's Way
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: In Harm's Way
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Support
+id: In-Harm's-Way
 ---
 
 

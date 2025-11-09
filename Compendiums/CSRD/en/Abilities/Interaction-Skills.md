@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Interaction Skills"
+  - Interaction Skills
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+  - Content/Weird-West
+title: Interaction Skills
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Task
+  - Weird-West
+id: Interaction-Skills
 ---
 
 

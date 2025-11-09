@@ -1,10 +1,17 @@
 ---
 aliases:
-- Dame Trot's Cat
+  - Dame Trot's Cat
 tags:
-- Compendium/CSRD/en/Cyphers/Dame-Trots-Cat
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Dame-Trots-Cat
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dame Trot's Cat
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dame-Trots-Cat
 ---
 
 

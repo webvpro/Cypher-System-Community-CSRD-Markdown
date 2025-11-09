@@ -1,13 +1,17 @@
 ---
 aliases:
-- Vampire, Transitional
+  - 'Vampire, Transitional'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: 'Vampire, Transitional'
+collection: Creatures-NPCs
+kind: Creature
+id: 'Vampire,-Transitional'
 ---
 
 

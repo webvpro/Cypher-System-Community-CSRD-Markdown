@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Call Through Time"
+  - Call Through Time
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Call Through Time
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Companion
+id: Call-Through-Time
 ---
 
 

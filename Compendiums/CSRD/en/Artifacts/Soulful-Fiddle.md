@@ -1,10 +1,17 @@
 ---
 aliases:
-- Soulful Fiddle
+  - Soulful Fiddle
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Soulful Fiddle
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Soulful-Fiddle
 ---
 
 

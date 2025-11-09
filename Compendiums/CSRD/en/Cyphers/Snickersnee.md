@@ -1,10 +1,17 @@
 ---
 aliases:
-- Snickersnee
+  - Snickersnee
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Snickersnee
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Snickersnee
 ---
 
 

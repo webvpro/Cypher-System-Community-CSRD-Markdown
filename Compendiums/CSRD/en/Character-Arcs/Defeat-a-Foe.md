@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Defeat a Foe"
+  - Defeat a Foe
 tags:
-- Compendium/CSRD/en/Character-Arcs/Defeat-a-Foe
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Defeat-a-Foe
+  - Character-Arc
+title: Defeat a Foe
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Defeat-a-Foe
 ---
 ## Defeat a Foe
 >Someone stands in your way or is threatening you. You must overcome the challenge they represent. Defeat doesn’t always mean kill or even fight. Defeating a foe could mean beating them in a chess match or in competition for a desired mentor.

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Two Things at Once"
+  - Two Things at Once
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Two Things at Once
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '6'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Two-Things-at-Once
 ---
 
 

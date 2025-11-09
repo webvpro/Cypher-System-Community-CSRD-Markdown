@@ -1,13 +1,17 @@
 ---
 aliases:
-- "4D Printer"
+  - 4D Printer
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: '4D Printer'
+collection: Equipment
+kind: Equipment
+id: '4D-Printer'
 ---
 
 

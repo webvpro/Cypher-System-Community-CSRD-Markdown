@@ -1,13 +1,20 @@
 ---
 aliases:
-- Golem
+  - Golem
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/5
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/5
+  - Creature/Health/30
+  - Content/Fairytale
+title: Golem
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Golem
 ---
 
 

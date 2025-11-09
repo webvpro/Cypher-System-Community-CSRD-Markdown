@@ -1,10 +1,15 @@
 ---
 aliases:
-- Space Ring
+  - Space Ring
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Space Ring
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Space-Ring
 ---
 
 

@@ -1,11 +1,16 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Famine"
+  - Four Horsemen of the Apocalypse Famine
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/level/6
-- Creature/Heath/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/24
+title: Four Horsemen of the Apocalypse Famine
+collection: Creatures-NPCs
+kind: Creature
+id: Apocalypse-Famine
 ---
 
 ## Four Horsemen of the Apocalypse Famine

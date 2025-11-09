@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Omnichair"
+  - Omnichair
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Omnichair
+collection: Equipment
+kind: Equipment
+id: Omnichair
 ---
 
 

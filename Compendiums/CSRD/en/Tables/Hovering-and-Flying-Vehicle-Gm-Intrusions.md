@@ -1,9 +1,13 @@
 ---
 aliases:
-- Hovering and Flying Vehicle Gm Intrusions
+  - Hovering and Flying Vehicle Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Hovering-and-Flying-Vehicle-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Hovering-and-Flying-Vehicle-Gm-Intrusions
+title: Hovering and Flying Vehicle Gm Intrusions
+collection: Tables
+kind: Table
+id: Hovering-and-Flying-Vehicle-Gm-Intrusions
 ---
 
 ## Hovering and Flying Vehicle Gm Intrusions Table

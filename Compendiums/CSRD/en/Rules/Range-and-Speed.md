@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Range and Speed"
+  - Range and Speed
 tags:
-- Compendium/CSRD/en/Rules/Range-and-Speed
-- Rule/Movement
-- Rule/Range
-- Rule/Speed
+  - Compendium/CSRD/en/Rules/Range-and-Speed
+  - Rule/Movement
+  - Rule/Range
+  - Rule/Speed
+title: Range and Speed
+collection: Rules
+kind: Rule
+id: Range-and-Speed
 ---
 
 # Range and Speed

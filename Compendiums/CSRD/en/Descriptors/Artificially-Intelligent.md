@@ -1,10 +1,14 @@
 ---
 aliases:
-- Artificially Intelligent
+  - Artificially Intelligent
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor/Sci-Fi
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor/Sci-Fi
+  - Descriptor/Species
+title: Artificially Intelligent
+collection: Descriptors
+kind: Descriptor
+id: Artificially-Intelligent
 ---
 
 ## Artificially Intelligent

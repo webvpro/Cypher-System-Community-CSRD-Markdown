@@ -1,13 +1,17 @@
 ---
 aliases:
-- Killer Clown
+  - Killer Clown
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/25
+title: Killer Clown
+collection: Creatures-NPCs
+kind: Creature
+id: Killer-Clown
 ---
 
 

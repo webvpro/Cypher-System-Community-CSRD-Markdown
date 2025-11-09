@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Awakens Dreams"
+  - Awakens Dreams
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
+title: Awakens Dreams
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Awakens-Dreams
 ---
 
 

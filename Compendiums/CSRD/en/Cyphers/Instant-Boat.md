@@ -1,10 +1,14 @@
 ---
 aliases:
-- Instant Boat
+  - Instant Boat
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Instant Boat
+collection: Cyphers
+kind: Cypher
+id: Instant-Boat
 ---
 
 

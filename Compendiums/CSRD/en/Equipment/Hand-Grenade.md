@@ -1,15 +1,18 @@
 ---
 aliases:
-- "Hand Grenade"
+  - Hand Grenade
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Moderate
-- Equipment/Weapon/Thrown
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+  - Equipment/Weapon/Thrown
+title: Hand Grenade
+collection: Equipment
+kind: Equipment
+id: Hand-Grenade
 ---
 
 

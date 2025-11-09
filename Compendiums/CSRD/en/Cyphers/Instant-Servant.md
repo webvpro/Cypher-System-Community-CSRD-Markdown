@@ -1,10 +1,14 @@
 ---
 aliases:
-- Instant Servant
+  - Instant Servant
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Instant Servant
+collection: Cyphers
+kind: Cypher
+id: Instant-Servant
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Evanesce"
+  - Evanesce
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Transform
+title: Evanesce
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Speed
+categories:
+  - Transform
+id: Evanesce
 ---
 
 

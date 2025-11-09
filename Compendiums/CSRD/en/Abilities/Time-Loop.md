@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Time Loop"
+  - Time Loop
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Time Loop
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Companion
+id: Time-Loop
 ---
 
 

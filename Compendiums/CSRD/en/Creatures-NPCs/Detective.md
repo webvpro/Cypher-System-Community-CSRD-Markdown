@@ -1,13 +1,17 @@
 ---
 aliases:
-- Detective
+  - Detective
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Detective
+collection: Creatures-NPCs
+kind: NPC
+id: Detective
 ---
 
 

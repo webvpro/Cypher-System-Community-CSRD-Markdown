@@ -1,10 +1,17 @@
 ---
 aliases:
-- Beloved's Kiss
+  - Beloved's Kiss
 tags:
-- Compendium/CSRD/en/Cyphers/Beloveds-Kiss
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Beloveds-Kiss
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Beloved's Kiss
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Beloveds-Kiss
 ---
 
 

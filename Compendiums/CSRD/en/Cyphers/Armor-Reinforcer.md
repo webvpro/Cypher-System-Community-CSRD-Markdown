@@ -1,10 +1,14 @@
 ---
 aliases:
-- Armor Reinforcer
+  - Armor Reinforcer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Armor Reinforcer
+collection: Cyphers
+kind: Cypher
+id: Armor-Reinforcer
 ---
 
 

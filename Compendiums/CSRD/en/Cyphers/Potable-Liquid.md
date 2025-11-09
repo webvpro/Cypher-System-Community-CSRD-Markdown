@@ -1,10 +1,14 @@
 ---
 aliases:
-- Potable Liquid
+  - Potable Liquid
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Potable Liquid
+collection: Cyphers
+kind: Cypher
+id: Potable-Liquid
 ---
 
 

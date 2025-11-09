@@ -1,10 +1,15 @@
 ---
 aliases:
-- Skill Ring
+  - Skill Ring
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Skill Ring
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Skill-Ring
 ---
 
 

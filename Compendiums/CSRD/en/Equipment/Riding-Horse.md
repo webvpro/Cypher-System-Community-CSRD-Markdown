@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Riding Horse"
+  - Riding Horse
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/75-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/75-Gp
+title: Riding Horse
+collection: Equipment
+kind: Equipment
+id: Riding-Horse
 ---
 
 

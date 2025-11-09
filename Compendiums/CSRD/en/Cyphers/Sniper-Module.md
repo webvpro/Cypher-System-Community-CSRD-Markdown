@@ -1,10 +1,14 @@
 ---
 aliases:
-- Sniper Module
+  - Sniper Module
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Sniper Module
+collection: Cyphers
+kind: Cypher
+id: Sniper-Module
 ---
 
 

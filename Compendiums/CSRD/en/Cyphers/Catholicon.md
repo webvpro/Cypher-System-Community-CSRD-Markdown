@@ -1,10 +1,14 @@
 ---
 aliases:
-- Catholicon
+  - Catholicon
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Catholicon
+collection: Cyphers
+kind: Cypher
+id: Catholicon
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Darkness Cantrip"
+  - Darkness Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Darkness-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Darkness-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Darkness Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Darkness-Cantrip
 ---
 
 ## Darkness Cantrip   (1 Intellect point)

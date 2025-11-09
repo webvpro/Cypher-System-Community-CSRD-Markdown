@@ -1,10 +1,15 @@
 ---
 aliases:
-- Staff of Healing
+  - Staff of Healing
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Staff of Healing
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Staff-of-Healing
 ---
 
 

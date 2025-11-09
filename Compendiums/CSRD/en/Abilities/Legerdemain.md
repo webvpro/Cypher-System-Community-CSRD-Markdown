@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Legerdemain"
+  - Legerdemain
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Environment
+title: Legerdemain
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '1'
+tier: Low
+pools:
+  - Speed
+categories:
+  - Environment
+id: Legerdemain
 ---
 
 

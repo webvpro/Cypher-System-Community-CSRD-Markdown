@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Mega Bar"
+  - Mega Bar
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+title: Mega Bar
+collection: Equipment
+kind: Equipment
+id: Mega-Bar
 ---
 
 

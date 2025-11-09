@@ -1,10 +1,14 @@
 ---
 aliases:
-- Inferno Wall
+  - Inferno Wall
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Inferno Wall
+collection: Cyphers
+kind: Cypher
+id: Inferno-Wall
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Wears a Sheen of Ice"
+  - Wears a Sheen of Ice
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Wears a Sheen of Ice
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Wears-a-Sheen-of-Ice
 ---
 
 

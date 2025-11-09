@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Synth, Infiltrator"
+  - 'Synth, Infiltrator'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/7
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/7
+  - Equipment/Value/Priceless
+title: 'Synth, Infiltrator'
+collection: Equipment
+kind: Equipment
+id: Synth-Infiltrator
 ---
 
 

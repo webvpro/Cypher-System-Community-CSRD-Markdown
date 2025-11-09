@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Motorboat"
+  - Motorboat
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Expensive
+title: Motorboat
+collection: Equipment
+kind: Equipment
+id: Motorboat
 ---
 
 

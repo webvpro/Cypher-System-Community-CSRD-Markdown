@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Cypher Crafting Materials Table"
+  - Cypher Crafting Materials Table
 tags:
-- Compendiums/CSRD/en/Tables/Cypher-Crafting-Materials
-- Table
+  - Compendiums/CSRD/en/Tables/Cypher-Crafting-Materials
+  - Table
+title: Cypher Crafting Materials Table
+collection: Tables
+kind: Table
+id: Cypher-Crafting-Materials-Table
 ---
 
 ## Cypher Crafting Materials Table

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Faraday Cake
+  - Faraday Cake
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Faraday Cake
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Faraday-Cake
 ---
 
 

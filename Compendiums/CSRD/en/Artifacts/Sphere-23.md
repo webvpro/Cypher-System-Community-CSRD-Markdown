@@ -1,10 +1,17 @@
 ---
 aliases:
-- Sphere 23
+  - Sphere 23
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Horror
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Horror
+  - Content/Horror
+title: Sphere 23
+collection: Artifacts
+kind: Artifact
+categories:
+  - Horror
+id: Sphere-23
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Lab on a Chip"
+  - Lab on a Chip
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Lab on a Chip
+collection: Equipment
+kind: Equipment
+id: Lab-on-a-Chip
 ---
 
 

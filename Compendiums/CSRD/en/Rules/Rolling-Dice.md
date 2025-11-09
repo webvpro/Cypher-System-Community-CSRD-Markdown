@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Rolling Dice"
-- "Rolling the Dice"
+  - Rolling Dice
+  - Rolling the Dice
 tags:
-- Compendium/CSRD/en/Rules/Rolling-Dice
-- Roll/Special
+  - Compendium/CSRD/en/Rules/Rolling-Dice
+  - Roll/Special
+title: Rolling Dice
+collection: Rules
+kind: Roll
+id: Rolling-Dice
 ---
 
 ## Rolling the Dice

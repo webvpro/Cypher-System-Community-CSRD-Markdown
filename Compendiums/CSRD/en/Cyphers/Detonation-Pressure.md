@@ -1,10 +1,14 @@
 ---
 aliases:
-- Detonation Pressure
+  - Detonation Pressure
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation Pressure
+collection: Cyphers
+kind: Cypher
+id: Detonation-Pressure
 ---
 
 

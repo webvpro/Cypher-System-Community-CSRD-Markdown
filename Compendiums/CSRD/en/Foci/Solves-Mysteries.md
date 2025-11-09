@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Solves Mysteries"
+  - Solves Mysteries
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+  - Content/Fantasy
+title: Solves Mysteries
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Solves-Mysteries
 ---
 
 

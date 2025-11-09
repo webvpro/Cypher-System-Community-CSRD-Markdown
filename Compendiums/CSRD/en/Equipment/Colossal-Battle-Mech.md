@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Colossal Battle Mech"
+  - Colossal Battle Mech
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Mechs-and-Tanks
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Mechs-and-Tanks
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Priceless
+title: Colossal Battle Mech
+collection: Equipment
+kind: Equipment
+id: Colossal-Battle-Mech
 ---
 
 

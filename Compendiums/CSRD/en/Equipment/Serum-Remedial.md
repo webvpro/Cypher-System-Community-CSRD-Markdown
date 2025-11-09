@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Serum, Remedial"
+  - 'Serum, Remedial'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+title: 'Serum, Remedial'
+collection: Equipment
+kind: Equipment
+id: Serum-Remedial
 ---
 
 

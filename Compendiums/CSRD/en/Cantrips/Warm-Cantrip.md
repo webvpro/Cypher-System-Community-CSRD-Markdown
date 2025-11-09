@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Warm Cantrip"
+  - Warm Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Warm-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Warm-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Warm Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Warm-Cantrip
 ---
 
 ## Warm Cantrip  (1 Intellect point)

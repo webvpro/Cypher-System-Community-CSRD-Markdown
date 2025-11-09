@@ -1,13 +1,17 @@
 ---
 aliases:
-- Jotunn, Frost
+  - 'Jotunn, Frost'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/30
+title: 'Jotunn, Frost'
+collection: Creatures-NPCs
+kind: Creature
+id: 'Jotunn,-Frost'
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Urban Brownie"
+  - Urban Brownie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Urban-Brownie
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs/Urban-Brownie
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Urban Brownie
+collection: Creatures-NPCs
+kind: Creature
+id: Urban-Brownie
 ---
 
 

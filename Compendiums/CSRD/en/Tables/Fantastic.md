@@ -1,9 +1,13 @@
 ---
 aliases:
-- Fantastic
+  - Fantastic
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Cypher/Fantastic
+  - Compendiums/CSRD/en/Tables
+  - Table/Cypher/Fantastic
+title: Fantastic
+collection: Tables
+kind: Table
+id: Fantastic
 ---
 
 ## Fantastic Table

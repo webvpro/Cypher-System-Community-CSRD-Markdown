@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Invisible Phasing"
+  - Invisible Phasing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Transform
+title: Invisible Phasing
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '4'
+tier: Mid
+pools:
+  - Might
+categories:
+  - Transform
+id: Invisible-Phasing
 ---
 
 

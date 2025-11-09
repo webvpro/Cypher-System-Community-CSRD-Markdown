@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Helicopter"
+  - Helicopter
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/3
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/3
+  - Equipment/Value/Exorbitant
+title: Helicopter
+collection: Equipment
+kind: Equipment
+id: Helicopter
 ---
 
 

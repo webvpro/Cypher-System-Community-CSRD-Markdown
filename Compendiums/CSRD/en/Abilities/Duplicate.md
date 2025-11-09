@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Duplicate"
+  - Duplicate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Companion
+title: Duplicate
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Might
+categories:
+  - Companion
+id: Duplicate
 ---
 
 

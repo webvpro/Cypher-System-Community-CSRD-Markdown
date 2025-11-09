@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Distance Viewing"
+  - Distance Viewing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Distance Viewing
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Senses
+id: Distance-Viewing
 ---
 
 

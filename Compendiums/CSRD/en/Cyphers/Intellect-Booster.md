@@ -1,10 +1,14 @@
 ---
 aliases:
-- Intellect Booster
+  - Intellect Booster
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Intellect Booster
+collection: Cyphers
+kind: Cypher
+id: Intellect-Booster
 ---
 
 

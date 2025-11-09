@@ -1,13 +1,17 @@
 ---
 aliases:
-- Gamma Worm
+  - Gamma Worm
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/6
+title: Gamma Worm
+collection: Creatures-NPCs
+kind: Creature
+id: Gamma-Worm
 ---
 
 

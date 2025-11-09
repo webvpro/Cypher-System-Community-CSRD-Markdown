@@ -12,6 +12,10 @@ tags:
   - Type/Explorer/Weapon/Practiced/Light
   - Type/Explorer/Weapon/Practiced/Medium
   - Type/Explorer/Weapon/Inability/Heavy
+title: Explorer
+collection: Types
+kind: Type
+id: Explorer
 ---
 
 ## Explorer

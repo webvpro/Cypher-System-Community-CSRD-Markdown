@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Stay the Course"
+  - Stay the Course
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Stay the Course
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Stay-the-Course
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Commands Mental Powers"
+  - Commands Mental Powers
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+  - Content/Fantasy
+title: Commands Mental Powers
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Commands-Mental-Powers
 ---
 
 

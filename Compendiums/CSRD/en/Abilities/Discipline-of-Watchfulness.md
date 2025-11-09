@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Discipline of Watchfulness"
+  - Discipline of Watchfulness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Discipline of Watchfulness
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '7'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Discipline-of-Watchfulness
 ---
 
 

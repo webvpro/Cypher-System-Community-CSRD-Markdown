@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Beastskin"
+  - Beastskin
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/10-Gp
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/10-Gp
+  - Equipment/Armor/Medium
+title: Beastskin
+collection: Equipment
+kind: Equipment
+id: Beastskin
 ---
 
 

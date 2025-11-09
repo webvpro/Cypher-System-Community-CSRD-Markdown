@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Needler Syringer"
+  - Needler Syringer
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Weapon/Light
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Light
+  - Equipment/Range/Long
+title: Needler Syringer
+collection: Equipment
+kind: Equipment
+id: Needler-Syringer
 ---
 
 

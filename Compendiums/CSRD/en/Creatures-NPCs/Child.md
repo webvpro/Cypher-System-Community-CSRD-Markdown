@@ -1,13 +1,20 @@
 ---
 aliases:
-- Child
+  - Child
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/1
-- Creature/Armor/0
-- Creature/Health/3
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/1
+  - Creature/Armor/0
+  - Creature/Health/3
+  - Content/Fairytale
+title: Child
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Child
 ---
 
 

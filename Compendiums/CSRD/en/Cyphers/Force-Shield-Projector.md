@@ -1,10 +1,14 @@
 ---
 aliases:
-- Force Shield Projector
+  - Force Shield Projector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Force Shield Projector
+collection: Cyphers
+kind: Cypher
+id: Force-Shield-Projector
 ---
 
 

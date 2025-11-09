@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Subsonic Rumble"
+  - Subsonic Rumble
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Subsonic Rumble
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Task
+id: Subsonic-Rumble
 ---
 
 

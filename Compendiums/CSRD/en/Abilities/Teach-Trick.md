@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Teach Trick"
+  - Teach Trick
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Teach Trick
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Support
+id: Teach-Trick
 ---
 
 

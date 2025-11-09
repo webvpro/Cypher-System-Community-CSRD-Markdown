@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Frumious"
+  - Frumious
 tags:
   - Compendiums/CSRD/en/Descriptors/Frumious
   - Descriptor/Fairytale
+title: Frumious
+collection: Descriptors
+kind: Descriptor
+id: Frumious
 ---
 
 ## Frumious

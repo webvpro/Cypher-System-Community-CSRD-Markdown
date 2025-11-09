@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Death 10 (infinite)"
+  - Death 10 (infinite)
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/20
+  - Content/Fairytale
+title: Death 10 (infinite)
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Death-10
 ---
 
 

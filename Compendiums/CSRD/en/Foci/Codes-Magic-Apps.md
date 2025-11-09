@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Codes Magic Apps"
+  - Codes Magic Apps
 tags:
-- Compendium/CSRD/en/Foci/Codes-Magic-Apps
-- Focus/Category/Magic-Tech
+  - Compendium/CSRD/en/Foci/Codes-Magic-Apps
+  - Focus/Category/Magic-Tech
+  - Content/Modern-Magic
+title: Codes Magic Apps
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Codes-Magic-Apps
 ---
 
 

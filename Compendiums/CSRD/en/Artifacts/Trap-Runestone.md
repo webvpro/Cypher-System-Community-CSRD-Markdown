@@ -1,10 +1,15 @@
 ---
 aliases:
-- Trap Runestone
+  - Trap Runestone
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Trap Runestone
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Trap-Runestone
 ---
 
 

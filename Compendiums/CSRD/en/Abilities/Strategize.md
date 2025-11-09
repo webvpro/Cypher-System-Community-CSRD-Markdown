@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Strategize"
+  - Strategize
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Strategize
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Strategize
 ---
 
 

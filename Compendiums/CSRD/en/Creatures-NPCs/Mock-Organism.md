@@ -1,13 +1,17 @@
 ---
 aliases:
-- Mock Organism
+  - Mock Organism
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/2
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/2
+  - Creature/Health/18
+title: Mock Organism
+collection: Creatures-NPCs
+kind: Creature
+id: Mock-Organism
 ---
 
 

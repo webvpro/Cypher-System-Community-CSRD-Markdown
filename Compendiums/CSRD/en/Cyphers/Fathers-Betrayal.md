@@ -1,10 +1,17 @@
 ---
 aliases:
-- Father's Betrayal
+  - Father's Betrayal
 tags:
-- Compendium/CSRD/en/Cyphers/Fathers-Betrayal
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Fathers-Betrayal
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Father's Betrayal
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Fathers-Betrayal
 ---
 
 

@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Inspiring Ease"
+  - Inspiring Ease
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Support
+title: Inspiring Ease
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Support
+id: Inspiring-Ease
 ---
 
 

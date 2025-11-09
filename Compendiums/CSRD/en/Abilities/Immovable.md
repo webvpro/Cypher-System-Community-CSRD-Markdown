@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Immovable"
+  - Immovable
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+  - Ability/Categories/Meta
+title: Immovable
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Cure
+  - Meta
+id: Immovable
 ---
 
 

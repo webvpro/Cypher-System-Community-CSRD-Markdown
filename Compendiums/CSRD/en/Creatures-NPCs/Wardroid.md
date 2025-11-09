@@ -1,13 +1,17 @@
 ---
 aliases:
-- Wardroid
+  - Wardroid
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/3
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/30
+title: Wardroid
+collection: Creatures-NPCs
+kind: Creature
+id: Wardroid
 ---
 
 

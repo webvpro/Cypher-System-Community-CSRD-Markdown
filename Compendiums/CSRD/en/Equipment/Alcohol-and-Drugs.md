@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Alcohol and Drugs"
+  - Alcohol and Drugs
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Recreation
-- Equipment/Level/2
-- Equipment/Value/Inexpensive
-- Equipment/Value/Moderate
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Recreation
+  - Equipment/Level/2
+  - Equipment/Value/Inexpensive
+  - Equipment/Value/Moderate
+  - Equipment/Value/Expensive
+title: Alcohol and Drugs
+collection: Equipment
+kind: Equipment
+id: Alcohol-and-Drugs
 ---
 
 

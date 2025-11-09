@@ -1,9 +1,13 @@
 ---
 aliases:
-- Strong-Willed
+  - Strong-Willed
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Strong-Willed
+collection: Descriptors
+kind: Descriptor
+id: Strong-Willed
 ---
 
 ## Strong-Willed

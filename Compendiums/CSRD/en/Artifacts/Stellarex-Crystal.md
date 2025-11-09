@@ -1,10 +1,15 @@
 ---
 aliases:
-- Stellarex Crystal
+  - Stellarex Crystal
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Stellarex Crystal
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Stellarex-Crystal
 ---
 
 

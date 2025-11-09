@@ -1,9 +1,13 @@
 ---
 aliases:
-- Magic Flavor
+  - Magic Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Magic-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Magic-Flavor
+title: Magic Flavor
+collection: Flavors
+kind: Flavor
+id: Magic-Flavor
 ---
 
 

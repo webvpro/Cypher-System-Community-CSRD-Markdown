@@ -1,9 +1,13 @@
 ---
 aliases:
-- Hideous
+  - Hideous
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Hideous
+collection: Descriptors
+kind: Descriptor
+id: Hideous
 ---
 
 ## Hideous

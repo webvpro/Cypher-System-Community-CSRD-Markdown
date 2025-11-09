@@ -1,10 +1,17 @@
 ---
 aliases:
-- Alpha Beam Projector
+  - Alpha Beam Projector
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact/Weapon
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact/Weapon
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Alpha Beam Projector
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Alpha-Beam-Projector
 ---
 
 

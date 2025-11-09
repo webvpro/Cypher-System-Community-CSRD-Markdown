@@ -1,10 +1,15 @@
 ---
 aliases:
-- Doctor Dread's Time Portal
+  - Doctor Dread's Time Portal
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Doctor Dread's Time Portal
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Doctor-Dread's-Time-Portal
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Knowledge-Task-Difficulty"
+  - Knowledge-Task-Difficulty
 tags:
-- Compendium/CSRD/en/Tables
-- Table/Task/Difficulty/Knowledge
-- Table/Task/Difficulty/Understanding
-- Table/Task/Difficulty/Identifying
-- Table/Task/Difficulty/Remembering
+  - Compendium/CSRD/en/Tables
+  - Table/Task/Difficulty/Knowledge
+  - Table/Task/Difficulty/Understanding
+  - Table/Task/Difficulty/Identifying
+  - Table/Task/Difficulty/Remembering
+title: Knowledge-Task-Difficulty
+collection: Tables
+kind: Table
+id: Knowledge-Task-Difficulty
 ---
 
 ## Knowledge Task Difficulty

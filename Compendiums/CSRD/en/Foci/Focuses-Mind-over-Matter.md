@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Focuses Mind over Matter"
+  - Focuses Mind over Matter
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
+title: Focuses Mind over Matter
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Focuses-Mind-over-Matter
 ---
 
 

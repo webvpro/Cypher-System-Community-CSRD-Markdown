@@ -1,9 +1,13 @@
 ---
 aliases:
-- Fey Cypher Attraction
+  - Fey Cypher Attraction
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Fey Cypher Attraction
+collection: Tables
+kind: Table
+id: Fey-Cypher-Attraction
 ---
 
 ## Fey Cypher Attraction Table

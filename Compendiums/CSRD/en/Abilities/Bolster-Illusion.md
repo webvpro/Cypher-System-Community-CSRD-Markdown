@@ -1,14 +1,28 @@
 ---
 aliases:
-- "Bolster Illusion"
+  - Bolster Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Bolster Illusion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+  - Superhero
+id: Bolster-Illusion
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Blackbird Pie
+  - Blackbird Pie
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Blackbird Pie
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Blackbird-Pie
 ---
 
 

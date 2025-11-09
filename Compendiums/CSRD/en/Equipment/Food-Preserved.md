@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Food, Preserved"
+  - 'Food, Preserved'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+title: 'Food, Preserved'
+collection: Equipment
+kind: Equipment
+id: Food-Preserved
 ---
 
 

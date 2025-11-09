@@ -1,13 +1,17 @@
 ---
 aliases:
-- Melted
+  - Melted
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Melted
+collection: Creatures-NPCs
+kind: Creature
+id: Melted
 ---
 
 

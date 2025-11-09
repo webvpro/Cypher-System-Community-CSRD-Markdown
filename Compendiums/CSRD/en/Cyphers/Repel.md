@@ -1,10 +1,14 @@
 ---
 aliases:
-- Repel
+  - Repel
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Repel
+collection: Cyphers
+kind: Cypher
+id: Repel
 ---
 
 

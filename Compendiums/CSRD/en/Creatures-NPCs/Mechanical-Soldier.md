@@ -1,13 +1,17 @@
 ---
 aliases:
-- Mechanical Soldier
+  - Mechanical Soldier
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/3
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/3
+  - Creature/Health/15
+title: Mechanical Soldier
+collection: Creatures-NPCs
+kind: Creature
+id: Mechanical-Soldier
 ---
 
 

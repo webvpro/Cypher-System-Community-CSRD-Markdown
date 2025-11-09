@@ -1,13 +1,17 @@
 ---
 aliases:
-- Supernal
+  - Supernal
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/23
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/23
+title: Supernal
+collection: Creatures-NPCs
+kind: Creature
+id: Supernal
 ---
 
 

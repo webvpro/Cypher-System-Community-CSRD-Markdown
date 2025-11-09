@@ -1,10 +1,15 @@
 ---
 aliases:
-- Smooth-Stepping Boots
+  - Smooth-Stepping Boots
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Smooth-Stepping Boots
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Smooth-Stepping-Boots
 ---
 
 

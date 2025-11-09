@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Science Fiction Rules Module"
+  - Science Fiction Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Optional/Science-Fiction-Rules-Module
-- -Genere/Sci-Fi
+  - Compendium/CSRD/en/Rules/Optional/Science-Fiction-Rules-Module
+  - Genere/Sci-Fi
+title: Science Fiction Rules Module
+collection: Rules
+kind: Rules
+id: Science-Fiction-Rules-Module
 ---
 
 # Science Fiction Rules Module

@@ -1,13 +1,20 @@
 ---
 aliases:
-- The West Wind
+  - The West Wind
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/0
-- Creature/Health/40
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/0
+  - Creature/Health/40
+  - Content/Fairytale
+title: The West Wind
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: The-West-Wind
 ---
 
 

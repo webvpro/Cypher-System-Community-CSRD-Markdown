@@ -1,10 +1,17 @@
 ---
 aliases:
-- Snake Leaves
+  - Snake Leaves
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Snake Leaves
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Snake-Leaves
 ---
 
 

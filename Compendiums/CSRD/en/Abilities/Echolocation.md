@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Echolocation"
+  - Echolocation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Senses
+title: Echolocation
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Senses
+id: Echolocation
 ---
 
 

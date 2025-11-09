@@ -1,14 +1,17 @@
 ---
 aliases:
-- "Battle Armor"
+  - Battle Armor
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Apparel-And-Armor
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Apparel-And-Armor
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Battle Armor
+collection: Equipment
+kind: Equipment
+id: Battle-Armor
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Table Be Set"
+  - Table Be Set
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Table Be Set
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Table-Be-Set
 ---
 
 

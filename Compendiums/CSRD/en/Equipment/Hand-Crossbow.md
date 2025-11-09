@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Hand Crossbow"
+  - Hand Crossbow
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/75-Gp
-- Equipment/Range/Short
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/75-Gp
+  - Equipment/Range/Short
+title: Hand Crossbow
+collection: Equipment
+kind: Equipment
+id: Hand-Crossbow
 ---
 
 

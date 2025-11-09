@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Terrifying Presence"
+  - Terrifying Presence
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Terrifying Presence
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Control
+id: Terrifying-Presence
 ---
 
 

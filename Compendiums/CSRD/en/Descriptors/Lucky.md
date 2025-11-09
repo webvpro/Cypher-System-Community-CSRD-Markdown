@@ -1,9 +1,13 @@
 ---
 aliases:
-- Lucky
+  - Lucky
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Lucky
+collection: Descriptors
+kind: Descriptor
+id: Lucky
 ---
 
 ## Lucky

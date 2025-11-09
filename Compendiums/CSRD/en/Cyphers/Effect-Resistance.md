@@ -1,10 +1,14 @@
 ---
 aliases:
-- Effect Resistance
+  - Effect Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Effect Resistance
+collection: Cyphers
+kind: Cypher
+id: Effect-Resistance
 ---
 
 

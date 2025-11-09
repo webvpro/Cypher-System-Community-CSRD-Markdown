@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Howls at the Moon"
+  - Howls at the Moon
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Howls at the Moon
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Howls-at-the-Moon
 ---
 
 

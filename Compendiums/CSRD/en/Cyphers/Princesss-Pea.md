@@ -1,10 +1,17 @@
 ---
 aliases:
-- Princess's Pea
+  - Princess's Pea
 tags:
-- Compendium/CSRD/en/Cyphers/Princesss
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Princesss
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Princess's Pea
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Princesss-Pea
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Sickle"
+  - Sickle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Gp
-- Equipment/Weapon/Light
-- Equipment/Range/Short
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Gp
+  - Equipment/Weapon/Light
+  - Equipment/Range/Short
+title: Sickle
+collection: Equipment
+kind: Equipment
+id: Sickle
 ---
 
 

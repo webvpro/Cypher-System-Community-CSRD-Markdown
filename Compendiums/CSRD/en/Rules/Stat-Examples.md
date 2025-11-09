@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Stat Examples"
+  - Stat Examples
 tags:
-- Compendium/CSRD/en/Rules
-- Stats
+  - Compendium/CSRD/en/Rules
+  - Stats
+title: Stat Examples
+collection: Rules
+kind: Stats
+id: Stat-Examples
 ---
 ## Stat Examples
 

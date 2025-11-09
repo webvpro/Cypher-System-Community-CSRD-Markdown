@@ -1,13 +1,17 @@
 ---
 aliases:
-- Ecophagic Swarm
+  - Ecophagic Swarm
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Ecophagic Swarm
+collection: Creatures-NPCs
+kind: Creature
+id: Ecophagic-Swarm
 ---
 
 

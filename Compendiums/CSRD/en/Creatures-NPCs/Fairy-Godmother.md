@@ -1,13 +1,20 @@
 ---
 aliases:
-- Fairy Godmother
+  - Fairy Godmother
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/24
+  - Content/Fairytale
+title: Fairy Godmother
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Fairy-Godmother
 ---
 
 

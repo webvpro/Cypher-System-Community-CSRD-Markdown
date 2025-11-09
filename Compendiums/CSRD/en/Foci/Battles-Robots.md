@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Battles Robots"
+  - Battles Robots
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+title: Battles Robots
+collection: Foci
+kind: Focus
+id: Battles-Robots
 ---
 
 

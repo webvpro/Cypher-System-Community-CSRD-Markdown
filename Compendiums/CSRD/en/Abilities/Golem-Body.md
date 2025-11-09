@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Golem Body"
+  - Golem Body
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+  - Ability/Categories/Protection
+title: Golem Body
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Meta
+  - Protection
+id: Golem-Body
 ---
 
 

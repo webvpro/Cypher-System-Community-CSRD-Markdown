@@ -1,13 +1,17 @@
 ---
 aliases:
-- Magnetar
+  - Magnetar
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super Villain
-- Creature/Level/8
-- Creature/Armor/8
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super Villain
+  - Creature/Level/8
+  - Creature/Armor/8
+  - Creature/Health/50
+title: Magnetar
+collection: Creatures-NPCs
+kind: Super Villain
+id: Magnetar
 ---
 
 

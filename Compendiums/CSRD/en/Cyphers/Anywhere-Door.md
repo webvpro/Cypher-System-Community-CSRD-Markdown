@@ -1,10 +1,17 @@
 ---
 aliases:
-- Anywhere Door
+  - Anywhere Door
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Anywhere Door
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Anywhere-Door
 ---
 
 

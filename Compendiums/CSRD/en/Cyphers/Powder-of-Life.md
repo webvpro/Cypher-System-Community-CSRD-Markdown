@@ -1,10 +1,17 @@
 ---
 aliases:
-- Powder of Life
+  - Powder of Life
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Powder of Life
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Powder-of-Life
 ---
 
 

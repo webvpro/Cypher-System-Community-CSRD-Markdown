@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Dwarven Breastplate"
+  - Dwarven Breastplate
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/8,000-Gp
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - 'Equipment/Value/8,000-Gp'
+  - Equipment/Armor/Medium
+title: Dwarven Breastplate
+collection: Equipment
+kind: Equipment
+id: Dwarven-Breastplate
 ---
 
 

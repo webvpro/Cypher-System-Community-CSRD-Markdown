@@ -1,9 +1,13 @@
 ---
 aliases:
-- Power Boost
+  - Power Boost
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Cypher/Power-Boost
+  - Compendiums/CSRD/en/Tables
+  - Table/Cypher/Power-Boost
+title: Power Boost
+collection: Tables
+kind: Table
+id: Power-Boost
 ---
 
 ## Power Boost Table

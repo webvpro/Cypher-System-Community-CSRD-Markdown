@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Television Thoughtform"
+  - Television Thoughtform
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Television-Thoughtform
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs/Television-Thoughtform
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/9
+title: Television Thoughtform
+collection: Creatures-NPCs
+kind: Creature
+id: Television-Thoughtform
 ---
 
 

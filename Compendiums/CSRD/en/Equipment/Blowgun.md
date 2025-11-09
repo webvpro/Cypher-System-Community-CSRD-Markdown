@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Blowgun"
+  - Blowgun
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/5-Gp
-- Equipment/Weapon/Light
-- Equipment/Range/Short
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/5-Gp
+  - Equipment/Weapon/Light
+  - Equipment/Range/Short
+title: Blowgun
+collection: Equipment
+kind: Equipment
+id: Blowgun
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Object Bond Mastery"
+  - Object Bond Mastery
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Object Bond Mastery
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '7'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Companion
+id: Object-Bond-Mastery
 ---
 
 

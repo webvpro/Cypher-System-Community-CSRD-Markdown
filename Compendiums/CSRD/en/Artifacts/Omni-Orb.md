@@ -1,10 +1,15 @@
 ---
 aliases:
-- Omni Orb
+  - Omni Orb
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Omni Orb
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Omni-Orb
 ---
 
 

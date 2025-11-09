@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Acid (Flask)"
+  - Acid (Flask)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
-- Equipment/Explosive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+  - Equipment/Explosive
+title: Acid (Flask)
+collection: Equipment
+kind: Equipment
+id: Acid-Flask
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Cruel
+  - Cruel
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Cruel
+collection: Descriptors
+kind: Descriptor
+id: Cruel
 ---
 
 ## Cruel

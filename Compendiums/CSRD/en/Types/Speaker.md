@@ -12,6 +12,10 @@ tags:
   - Type/Speaker/Weapon/Practiced/Light
   - Type/Speaker/Weapon/Inability/Medium
   - Type/Speaker/Weapon/Inability/Heavy
+title: Speaker
+collection: Types
+kind: Type
+id: Speaker
 ---
 
 ## Speaker

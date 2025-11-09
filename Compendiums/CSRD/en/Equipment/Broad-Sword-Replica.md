@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Broad Sword, Replica"
+  - 'Broad Sword, Replica'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/2
-- Equipment/Value/Expensive
-- Equipment/Weapon/Heavy
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/2
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Heavy
+title: 'Broad Sword, Replica'
+collection: Equipment
+kind: Equipment
+id: Broad-Sword-Replica
 ---
 
 

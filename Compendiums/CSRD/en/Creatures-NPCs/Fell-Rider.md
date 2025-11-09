@@ -1,13 +1,17 @@
 ---
 aliases:
-- Fell Rider
+  - Fell Rider
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/3
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/3
+  - Creature/Health/25
+title: Fell Rider
+collection: Creatures-NPCs
+kind: Creature
+id: Fell-Rider
 ---
 
 

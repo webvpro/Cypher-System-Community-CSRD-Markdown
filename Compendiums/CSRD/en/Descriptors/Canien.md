@@ -1,9 +1,13 @@
 ---
 aliases:
-- Canien
+  - Canien
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Canien
+collection: Descriptors
+kind: Descriptor
+id: Canien
 ---
 
 ## Canien

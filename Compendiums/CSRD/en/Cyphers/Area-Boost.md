@@ -1,10 +1,14 @@
 ---
 aliases:
-- Area Boost
+  - Area Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Area Boost
+collection: Cyphers
+kind: Cypher
+id: Area-Boost
 ---
 
 

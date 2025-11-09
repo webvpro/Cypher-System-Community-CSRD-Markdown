@@ -1,10 +1,14 @@
 ---
 aliases:
-- Sonic Hole
+  - Sonic Hole
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Sonic Hole
+collection: Cyphers
+kind: Cypher
+id: Sonic-Hole
 ---
 
 

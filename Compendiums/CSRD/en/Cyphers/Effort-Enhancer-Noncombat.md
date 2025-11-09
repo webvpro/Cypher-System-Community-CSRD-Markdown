@@ -1,10 +1,14 @@
 ---
 aliases:
-- Effort Enhancer Noncombat
+  - Effort Enhancer Noncombat
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Effort Enhancer Noncombat
+collection: Cyphers
+kind: Cypher
+id: Effort-Enhancer-Noncombat
 ---
 
 

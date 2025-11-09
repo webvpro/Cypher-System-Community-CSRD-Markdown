@@ -1,10 +1,14 @@
 ---
 aliases:
-- Useful Clothing
+  - Useful Clothing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Useful Clothing
+collection: Cyphers
+kind: Cypher
+id: Useful-Clothing
 ---
 
 

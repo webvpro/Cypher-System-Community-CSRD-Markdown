@@ -1,9 +1,16 @@
 ---
 aliases:
-- Bird's Nest Coronet
+  - Bird's Nest Coronet
 tags:
-- Compendium/CSRD/en/Cyphers/Birds-Nest-Coronet
-- Cypher
+  - Compendium/CSRD/en/Cyphers/Birds-Nest-Coronet
+  - Cypher
+  - Content/Fairytale
+title: Bird's Nest Coronet
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Birds-Nest-Coronet
 ---
 
 

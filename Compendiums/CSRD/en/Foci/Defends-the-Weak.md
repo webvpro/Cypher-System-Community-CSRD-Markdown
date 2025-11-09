@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Defends the Weak"
+  - Defends the Weak
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+  - Content/Fantasy
+title: Defends the Weak
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Defends-the-Weak
 ---
 
 

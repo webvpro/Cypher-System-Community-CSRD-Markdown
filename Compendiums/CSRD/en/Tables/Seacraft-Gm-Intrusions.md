@@ -1,9 +1,13 @@
 ---
 aliases:
-- Seacraft Gm Intrusions
+  - Seacraft Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Seacraft-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Seacraft-Gm-Intrusions
+title: Seacraft Gm Intrusions
+collection: Tables
+kind: Table
+id: Seacraft-Gm-Intrusions
 ---
 
 ## Seacraft Gm Intrusions Table

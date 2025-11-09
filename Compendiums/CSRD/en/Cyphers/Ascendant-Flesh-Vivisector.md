@@ -1,9 +1,16 @@
 ---
 aliases:
-- Ascendant Flesh Vivisector
+  - Ascendant Flesh Vivisector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Ascendant Flesh Vivisector
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Ascendant-Flesh-Vivisector
 ---
 
 

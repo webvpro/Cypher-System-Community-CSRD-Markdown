@@ -1,9 +1,18 @@
 ---
 aliases:
-- "Wields an Enchanted Weapon"
+  - Wields an Enchanted Weapon
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+  - Content/Fantasy
+title: Wields an Enchanted Weapon
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+  - Fantasy
+id: Wields-an-Enchanted-Weapon
 ---
 
 

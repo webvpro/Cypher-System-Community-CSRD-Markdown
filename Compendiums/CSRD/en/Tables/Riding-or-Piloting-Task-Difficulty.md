@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Riding or Piloting"
+  - Riding or Piloting
 tags:
--  Compendium/CSRD/en/Tables
-- Table/Task/Difficulty/Riding
-- Table/Task/Difficulty/Piloting
-- Table/Task/Difficulty/Driving
+  - Compendium/CSRD/en/Tables
+  - Table/Task/Difficulty/Riding
+  - Table/Task/Difficulty/Piloting
+  - Table/Task/Difficulty/Driving
+title: Riding or Piloting
+collection: Tables
+kind: Table
+id: Riding-or-Piloting-Task-Difficulty
 ---
 
 ## Riding or Piloting Task-Difficulty

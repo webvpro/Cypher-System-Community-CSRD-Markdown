@@ -1,9 +1,16 @@
 ---
 aliases:
-- Yonder Yarn
+  - Yonder Yarn
 tags:
-- Compendium/CSRD/en/Cyphers/Yonder-Yarn
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Yonder-Yarn
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Yonder Yarn
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Yonder-Yarn
 ---
 
 

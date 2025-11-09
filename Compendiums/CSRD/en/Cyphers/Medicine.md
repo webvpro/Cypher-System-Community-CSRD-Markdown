@@ -1,10 +1,14 @@
 ---
 aliases:
-- Medicine
+  - Medicine
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Medicine
+collection: Cyphers
+kind: Cypher
+id: Medicine
 ---
 
 

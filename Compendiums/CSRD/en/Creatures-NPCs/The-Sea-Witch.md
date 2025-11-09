@@ -1,13 +1,19 @@
 ---
 aliases:
-- The Sea Witch
+  - The Sea Witch
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Content/Fairytale
+title: The Sea Witch
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: The-Sea-Witch
 ---
 
 

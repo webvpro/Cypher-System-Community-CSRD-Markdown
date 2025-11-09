@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Car Magic"
+  - Car Magic
 tags:
-- Compendium/CSRD/en/Abilities/Car-Magic
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Car-Magic
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: Car Magic
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Car-Magic
 ---
 
 

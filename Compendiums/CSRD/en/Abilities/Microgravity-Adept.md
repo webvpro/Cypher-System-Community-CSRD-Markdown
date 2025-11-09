@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Microgravity Adept"
+  - Microgravity Adept
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Microgravity Adept
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Task
+id: Microgravity-Adept
 ---
 
 

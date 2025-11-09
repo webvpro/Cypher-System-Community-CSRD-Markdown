@@ -1,13 +1,17 @@
 ---
 aliases:
-- Sentinel Tree
+  - Sentinel Tree
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Sentinel Tree
+collection: Creatures-NPCs
+kind: Creature
+id: Sentinel-Tree
 ---
 
 

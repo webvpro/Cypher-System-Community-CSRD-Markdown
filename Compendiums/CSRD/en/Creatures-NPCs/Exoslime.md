@@ -1,13 +1,17 @@
 ---
 aliases:
-- Exoslime
+  - Exoslime
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/33
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/33
+title: Exoslime
+collection: Creatures-NPCs
+kind: Creature
+id: Exoslime
 ---
 
 

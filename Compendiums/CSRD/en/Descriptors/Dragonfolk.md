@@ -1,9 +1,16 @@
 ---
 aliases:
-- Dragonfolk
+  - Dragonfolk
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Fantasy
+title: Dragonfolk
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Fantasy
+id: Dragonfolk
 ---
 
 ## Dragonfolk

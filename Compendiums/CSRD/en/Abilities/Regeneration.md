@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Regeneration"
+  - Regeneration
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Regeneration
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Regeneration
 ---
 
 

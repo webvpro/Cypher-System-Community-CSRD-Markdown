@@ -1,9 +1,13 @@
 ---
 aliases:
-- Learned
+  - Learned
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Learned
+collection: Descriptors
+kind: Descriptor
+id: Learned
 ---
 
 ## Learned

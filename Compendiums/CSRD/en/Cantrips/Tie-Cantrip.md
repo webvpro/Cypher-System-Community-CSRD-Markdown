@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Tie Cantrip"
+  - Tie Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Tie-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Tie-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Tie Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Tie-Cantrip
 ---
 
 ## Tie Cantrip  (1 Intellect point)

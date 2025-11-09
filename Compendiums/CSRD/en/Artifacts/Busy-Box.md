@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Busy Box"
+  - Busy Box
 tags:
-- Compendium/CSRD/en/Artifacts/Busy-Box
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Busy-Box
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Busy Box
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Busy-Box
 ---
 
 

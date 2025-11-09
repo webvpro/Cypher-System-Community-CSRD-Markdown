@@ -1,7 +1,10 @@
 ---
-aliases: Glossary
+aliases:
+  - Glossary
 tags:
-- Compendium/CSRD/en/Rules/Glossary
+  - Compendium/CSRD/en/Rules/Glossary
+title: Glossary
+id: Glossary
 ---
 
 

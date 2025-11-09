@@ -1,10 +1,17 @@
 ---
 aliases:
-- Gingerbread Man
+  - Gingerbread Man
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Gingerbread Man
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Gingerbread-Man
 ---
 
 

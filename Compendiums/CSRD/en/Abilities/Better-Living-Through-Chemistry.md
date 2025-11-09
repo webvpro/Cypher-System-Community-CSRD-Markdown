@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Better Living Through Chemistry"
+  - Better Living Through Chemistry
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Better Living Through Chemistry
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Better-Living-Through-Chemistry
 ---
 
 

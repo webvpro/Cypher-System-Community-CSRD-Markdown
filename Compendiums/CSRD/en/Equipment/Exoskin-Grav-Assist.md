@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Exoskin, Grav-Assist"
+  - 'Exoskin, Grav-Assist'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: 'Exoskin, Grav-Assist'
+collection: Equipment
+kind: Equipment
+id: Exoskin-Grav-Assist
 ---
 
 

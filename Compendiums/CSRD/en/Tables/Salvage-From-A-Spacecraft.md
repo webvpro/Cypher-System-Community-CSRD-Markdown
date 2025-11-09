@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Salvage From A Spacecraft"
+  - Salvage From A Spacecraft
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Salvage/Spacecraft
+  - Compendiums/CSRD/en/Tables
+  - Table/Salvage/Spacecraft
+title: Salvage From A Spacecraft
+collection: Tables
+kind: Table
+id: Salvage-From-A-Spacecraft
 ---
 ## Salvage From A Spacecraft
 If the derelict ship was subject to vacuum, partly destroyed in combat, or damaged by some other disaster or close encounter with a space hazard, salvaged items are usually degraded, and are valued at one price category less than noted. The GM may decide an object is completely unrecoverable (worthless) or works fine.

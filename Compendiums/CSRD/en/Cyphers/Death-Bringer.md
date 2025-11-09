@@ -1,10 +1,14 @@
 ---
 aliases:
-- Death Bringer
+  - Death Bringer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Death Bringer
+collection: Cyphers
+kind: Cypher
+id: Death-Bringer
 ---
 
 

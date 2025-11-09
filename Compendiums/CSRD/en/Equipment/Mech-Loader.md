@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Mech, Loader"
+  - 'Mech, Loader'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Mechs-and-Tanks
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Mechs-and-Tanks
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: 'Mech, Loader'
+collection: Equipment
+kind: Equipment
+id: Mech-Loader
 ---
 
 

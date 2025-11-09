@@ -1,13 +1,17 @@
 ---
 aliases:
-- Posthuman
+  - Posthuman
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/50
+title: Posthuman
+collection: Creatures-NPCs
+kind: Creature
+id: Posthuman
 ---
 
 

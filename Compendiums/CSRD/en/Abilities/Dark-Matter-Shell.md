@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Dark Matter Shell"
+  - Dark Matter Shell
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+  - Ability/Categories/Task
+title: Dark Matter Shell
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Protection
+  - Task
+id: Dark-Matter-Shell
 ---
 
 

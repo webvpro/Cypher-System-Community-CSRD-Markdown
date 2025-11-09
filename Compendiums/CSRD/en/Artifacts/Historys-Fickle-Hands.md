@@ -1,10 +1,18 @@
 ---
 aliases:
-- "History’s Fickle Hands"
+  - History’s Fickle Hands
 tags:
-- Compendium/CSRD/en/Artifacts/Historys-Fickle-Hands
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Historys-Fickle-Hands
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: History’s Fickle Hands
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Historys-Fickle-Hands
 ---
 
 

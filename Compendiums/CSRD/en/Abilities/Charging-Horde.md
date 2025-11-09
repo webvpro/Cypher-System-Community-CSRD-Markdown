@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Charging Horde"
+  - Charging Horde
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Meta
+title: Charging Horde
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '7'
+tier: High
+pools:
+  - Might
+categories:
+  - Meta
+id: Charging-Horde
 ---
 
 

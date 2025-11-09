@@ -1,15 +1,30 @@
-----
+---
 aliases:
-- "Bound Magic Familiar"
+  - Bound Magic Familiar
 tags:
-- Compendium/CSRD/en/Abilities/Bound-Magic-Familiar
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Bound-Magic-Familiar
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Bound Magic Familiar
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Bound-Magic-Familiar
 ---
 
 

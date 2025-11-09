@@ -1,15 +1,18 @@
 ---
 aliases:
-- "Rail Gun"
+  - Rail Gun
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
-
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+  - Equipment/Range/Long
+title: Rail Gun
+collection: Equipment
+kind: Equipment
+id: Rail-Gun
 ---
 
 

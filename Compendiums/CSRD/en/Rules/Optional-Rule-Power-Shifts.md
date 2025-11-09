@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "Optional Rule: Power Shifts"
+  - 'Optional Rule: Power Shifts'
 tags:
   - Compendium/CSRD/en/Rules/Optional/Power-Shifts
-  - Compendium/CSRD/en/Rules
-  - Rule/Optional
+title: 'Optional Rule: Power Shifts'
+id: Optional-Rule-Power-Shifts
 ---
 ### Optional Rule: Power Shifts
 

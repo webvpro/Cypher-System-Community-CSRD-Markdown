@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Stasis Pod"
+  - Stasis Pod
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Stasis Pod
+collection: Equipment
+kind: Equipment
+id: Stasis-Pod
 ---
 
 

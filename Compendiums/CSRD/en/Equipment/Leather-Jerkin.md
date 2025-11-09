@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Leather Jerkin"
+  - Leather Jerkin
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/10-Gp
-- Equipment/Armor/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/10-Gp
+  - Equipment/Armor/Light
+title: Leather Jerkin
+collection: Equipment
+kind: Equipment
+id: Leather-Jerkin
 ---
 
 

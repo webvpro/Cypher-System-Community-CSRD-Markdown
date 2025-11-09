@@ -1,9 +1,13 @@
 ---
 aliases:
-- Chaotic
+  - Chaotic
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Chaotic
+collection: Descriptors
+kind: Descriptor
+id: Chaotic
 ---
 
 ## Chaotic

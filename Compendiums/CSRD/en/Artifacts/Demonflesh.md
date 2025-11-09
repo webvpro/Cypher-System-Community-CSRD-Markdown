@@ -1,10 +1,15 @@
 ---
 aliases:
-- Demonflesh
+  - Demonflesh
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Demonflesh
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Demonflesh
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Cailleach
+  - Cailleach
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/30
+  - Content/Fairytale
+title: Cailleach
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Cailleach
 ---
 
 

@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Minor Wish"
+  - Minor Wish
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
-- Ability/Categories/Protection
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+  - Ability/Categories/Protection
+  - Ability/Categories/Task
+title: Minor Wish
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Meta
+  - Protection
+  - Task
+id: Minor-Wish
 ---
 
 

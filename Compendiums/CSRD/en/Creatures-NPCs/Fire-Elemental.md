@@ -1,13 +1,20 @@
 ---
 aliases:
-- Fire Elemental
+  - Fire Elemental
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/24
+  - Content/Fairytale
+title: Fire Elemental
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Fire-Elemental
 ---
 
 

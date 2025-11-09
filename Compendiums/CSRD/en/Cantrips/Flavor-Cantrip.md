@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Flavor Cantrip"
+  - Flavor Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Flavor-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Flavor-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Flavor Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Flavor-Cantrip
 ---
 
 ## Flavor Cantrip (1 Intellect point)

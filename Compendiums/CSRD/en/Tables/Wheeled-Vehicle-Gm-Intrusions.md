@@ -1,9 +1,13 @@
 ---
 aliases:
-- Wheeled Vehicle Gm Intrusions
+  - Wheeled Vehicle Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Wheeled-Vehicle-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Wheeled-Vehicle-Gm-Intrusions
+title: Wheeled Vehicle Gm Intrusions
+collection: Tables
+kind: Table
+id: Wheeled-Vehicle-Gm-Intrusions
 ---
 
 ## Wheeled Vehicle Gm Intrusions Table

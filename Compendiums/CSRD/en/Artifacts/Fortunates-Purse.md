@@ -1,10 +1,17 @@
 ---
 aliases:
-- Fortunate's Purse
+  - Fortunate's Purse
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Fortunate's Purse
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Fortunates-Purse
 ---
 
 

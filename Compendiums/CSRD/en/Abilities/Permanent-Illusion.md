@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Permanent Illusion"
+  - Permanent Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Permanent Illusion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '9'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Environment
+id: Permanent-Illusion
 ---
 
 

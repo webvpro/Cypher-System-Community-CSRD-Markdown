@@ -1,9 +1,13 @@
 ---
 aliases:
-- Brash
+  - Brash
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Brash
+collection: Descriptors
+kind: Descriptor
+id: Brash
 ---
 
 ## Brash

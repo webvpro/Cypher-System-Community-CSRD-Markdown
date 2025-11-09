@@ -1,10 +1,17 @@
 ---
 aliases:
-- Darning Needle
+  - Darning Needle
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Darning Needle
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Darning-Needle
 ---
 
 

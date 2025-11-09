@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Hazmat Suit"
+  - Hazmat Suit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Armor/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Armor/Light
+title: Hazmat Suit
+collection: Equipment
+kind: Equipment
+id: Hazmat-Suit
 ---
 
 

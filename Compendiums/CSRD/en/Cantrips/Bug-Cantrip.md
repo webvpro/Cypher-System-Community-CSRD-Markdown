@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Bug Cantrip"
+  - Bug Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Bug Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Bug-Cantrip
 ---
 
 ## Bug Cantrip (1 Intellect point)

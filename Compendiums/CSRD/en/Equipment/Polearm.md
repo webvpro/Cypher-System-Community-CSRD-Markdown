@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Polearm"
+  - Polearm
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/10-Gp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/10-Gp
+  - Equipment/Weapon/Medium
+title: Polearm
+collection: Equipment
+kind: Equipment
+id: Polearm
 ---
 
 

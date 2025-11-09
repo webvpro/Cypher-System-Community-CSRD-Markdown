@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Entombment"
+  - Entombment
 tags:
--  Compendium/CSRD/en/Rituals/Entombment
-- Ritual
+  - Compendium/CSRD/en/Rituals/Entombment
+  - Ritual
+title: Entombment
+collection: Rituals
+kind: Ritual
+id: Entombment
 ---
 ## Entombment
 container, but it might be a gem, the heart of a tree, or another atypical object) for as long as the vessel remains closed and undamaged. The ritual forces the creature into the vessel, either in a spiritual form or by shrinking it to a size that will fit within the vessel.

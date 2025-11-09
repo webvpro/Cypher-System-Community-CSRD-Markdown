@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Aggression"
+  - Aggression
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Aggression
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: Low
+pools:
+  - Might
+categories:
+  - Special-Attack
+id: Aggression
 ---
 
 

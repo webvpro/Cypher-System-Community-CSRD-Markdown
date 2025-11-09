@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Stretches"
+  - Stretches
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Stretches
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Stretches
 ---
 
 

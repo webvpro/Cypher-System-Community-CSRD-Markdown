@@ -1,10 +1,14 @@
 ---
 aliases:
-- Tracer
+  - Tracer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Tracer
+collection: Cyphers
+kind: Cypher
+id: Tracer
 ---
 
 

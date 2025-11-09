@@ -1,9 +1,13 @@
 ---
 aliases:
-- Vicious
+  - Vicious
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Vicious
+collection: Descriptors
+kind: Descriptor
+id: Vicious
 ---
 
 ## Vicious

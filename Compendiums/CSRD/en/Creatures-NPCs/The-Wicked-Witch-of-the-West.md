@@ -1,13 +1,19 @@
 ---
 aliases:
-- The Wicked Witch of the West
+  - The Wicked Witch of the West
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Content/Fairytale
+title: The Wicked Witch of the West
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: The-Wicked-Witch-of-the-West
 ---
 
 

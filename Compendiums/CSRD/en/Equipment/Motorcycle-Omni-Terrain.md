@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Motorcycle, Omni-Terrain"
+  - 'Motorcycle, Omni-Terrain'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: 'Motorcycle, Omni-Terrain'
+collection: Equipment
+kind: Equipment
+id: Motorcycle-Omni-Terrain
 ---
 
 

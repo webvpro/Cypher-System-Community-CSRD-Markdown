@@ -1,10 +1,19 @@
 ---
 aliases:
-- Bounding Boots
+  - Bounding Boots
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+  - Content/Fairytale
+  - Content/Science-Fiction
+title: Bounding Boots
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+  - Science-Fiction
+id: Bounding-Boots
 ---
 
 

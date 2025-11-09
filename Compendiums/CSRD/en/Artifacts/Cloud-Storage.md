@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Cloud Storage"
+  - Cloud Storage
 tags:
-- Compendium/CSRD/en/Artifacts/Cloud-Storage
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Cloud-Storage
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Cloud Storage
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Cloud-Storage
 ---
 
 

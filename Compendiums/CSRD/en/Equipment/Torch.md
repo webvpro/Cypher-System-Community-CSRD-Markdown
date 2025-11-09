@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Torch"
+  - Torch
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
-- Equipment/Value/1-Cp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+  - Equipment/Value/1-Cp
+title: Torch
+collection: Equipment
+kind: Equipment
+id: Torch
 ---
 
 

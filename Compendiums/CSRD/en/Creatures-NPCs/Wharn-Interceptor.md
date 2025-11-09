@@ -1,13 +1,17 @@
 ---
 aliases:
-- Wharn Interceptor
+  - Wharn Interceptor
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/5
-- Creature/Health/53
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/5
+  - Creature/Health/53
+title: Wharn Interceptor
+collection: Creatures-NPCs
+kind: Creature
+id: Wharn-Interceptor
 ---
 
 

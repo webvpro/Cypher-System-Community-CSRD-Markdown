@@ -1,13 +1,28 @@
 ---
 aliases:
-- "Innate Power"
+  - Innate Power
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Superhero
+  - Content/Fantasy
+title: Innate Power
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Superhero
+  - Fantasy
+id: Innate-Power
 ---
 
 

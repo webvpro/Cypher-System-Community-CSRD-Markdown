@@ -1,10 +1,15 @@
 ---
 aliases:
-- Crown of the Mind
+  - Crown of the Mind
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Crown of the Mind
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Crown-of-the-Mind
 ---
 
 

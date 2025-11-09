@@ -1,13 +1,17 @@
 ---
 aliases:
-- Hollow Knight
+  - Hollow Knight
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/3
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/3
+  - Creature/Health/12
+title: Hollow Knight
+collection: Creatures-NPCs
+kind: Creature
+id: Hollow-Knight
 ---
 
 

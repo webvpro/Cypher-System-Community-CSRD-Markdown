@@ -1,13 +1,17 @@
 ---
 aliases:
-- Famine
+  - Famine
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/24
+title: Famine
+collection: Creatures-NPCs
+kind: Creature
+id: Famine
 ---
 
 

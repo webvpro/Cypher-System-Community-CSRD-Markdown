@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hides and Furs"
+  - Hides and Furs
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/10-Gp
-- Equipment/Armor/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/10-Gp
+  - Equipment/Armor/Light
+title: Hides and Furs
+collection: Equipment
+kind: Equipment
+id: Hides-and-Furs
 ---
 
 

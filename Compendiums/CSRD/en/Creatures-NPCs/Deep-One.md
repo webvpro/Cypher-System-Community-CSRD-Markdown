@@ -1,13 +1,17 @@
 ---
 aliases:
-- Deep One
+  - Deep One
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/15
+title: Deep One
+collection: Creatures-NPCs
+kind: Creature
+id: Deep-One
 ---
 
 

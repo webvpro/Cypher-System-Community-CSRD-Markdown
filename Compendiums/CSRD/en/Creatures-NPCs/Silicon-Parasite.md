@@ -1,13 +1,17 @@
 ---
 aliases:
-- Silicon Parasite
+  - Silicon Parasite
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/1
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/1
+  - Creature/Health/6
+title: Silicon Parasite
+collection: Creatures-NPCs
+kind: Creature
+id: Silicon-Parasite
 ---
 
 

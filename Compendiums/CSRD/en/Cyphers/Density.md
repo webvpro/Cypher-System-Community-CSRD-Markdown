@@ -1,10 +1,14 @@
 ---
 aliases:
-- Density
+  - Density
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Density
+collection: Cyphers
+kind: Cypher
+id: Density
 ---
 
 

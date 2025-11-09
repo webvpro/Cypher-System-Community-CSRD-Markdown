@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Works Miracles"
+  - Works Miracles
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Works Miracles
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Works-Miracles
 ---
 
 

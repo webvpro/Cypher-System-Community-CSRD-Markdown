@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Rally to Me"
+  - Rally to Me
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Rally to Me
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Support
+id: Rally-to-Me
 ---
 
 

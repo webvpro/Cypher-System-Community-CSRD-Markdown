@@ -1,9 +1,13 @@
 ---
 aliases:
-- Mad
+  - Mad
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Mad
+collection: Descriptors
+kind: Descriptor
+id: Mad
 ---
 
 ## Mad

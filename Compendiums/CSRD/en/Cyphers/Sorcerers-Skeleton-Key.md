@@ -1,9 +1,16 @@
 ---
 aliases:
-- Sorcerer's Skeleton Key
+  - Sorcerer's Skeleton Key
 tags:
-- Compendium/CSRD/en/Cyphers/Sorcerers-Skeleton-Key
-- Cypher
+  - Compendium/CSRD/en/Cyphers/Sorcerers-Skeleton-Key
+  - Cypher
+  - Content/Fairytale
+title: Sorcerer's Skeleton Key
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Sorcerers-Skeleton-Key
 ---
 
 

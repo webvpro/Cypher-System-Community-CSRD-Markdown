@@ -1,10 +1,17 @@
 ---
 aliases:
-- Pixie Dust
+  - Pixie Dust
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Pixie Dust
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Pixie-Dust
 ---
 
 

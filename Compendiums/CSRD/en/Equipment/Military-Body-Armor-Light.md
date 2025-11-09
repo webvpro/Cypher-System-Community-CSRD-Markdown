@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Military Body Armor, Light"
+  - 'Military Body Armor, Light'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Apparel-And-Armor
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Apparel-And-Armor
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+  - Equipment/Armor/Medium
+title: 'Military Body Armor, Light'
+collection: Equipment
+kind: Equipment
+id: Military-Body-Armor-Light
 ---
 
 

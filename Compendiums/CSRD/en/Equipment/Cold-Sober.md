@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Cold Sober"
+  - Cold Sober
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Inexpensive
+title: Cold Sober
+collection: Equipment
+kind: Equipment
+id: Cold-Sober
 ---
 
 

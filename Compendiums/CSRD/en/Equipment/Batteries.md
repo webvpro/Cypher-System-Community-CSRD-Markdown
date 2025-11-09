@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Batteries"
+  - Batteries
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+title: Batteries
+collection: Equipment
+kind: Equipment
+id: Batteries
 ---
 
 

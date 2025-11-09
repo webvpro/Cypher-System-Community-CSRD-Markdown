@@ -1,11 +1,16 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Sword"
+  - Four Horsemen of the Apocalypse Sword
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/level/6
-- Creature/Heath/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/24
+title: Four Horsemen of the Apocalypse Sword
+collection: Creatures-NPCs
+kind: Creature
+id: Apocalypse-Sword
 ---
 
 ## Four Horsemen of the Apocalypse Sword

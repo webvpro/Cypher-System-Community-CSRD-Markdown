@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Illuminating Touch"
+  - Illuminating Touch
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Illuminating Touch
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '1'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Environment
+id: Illuminating-Touch
 ---
 
 

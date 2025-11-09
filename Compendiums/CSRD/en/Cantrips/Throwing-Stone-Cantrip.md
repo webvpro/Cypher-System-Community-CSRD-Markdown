@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Throwing Stone Cantrip"
+  - Throwing Stone Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Throwing-Stone-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Throwing-Stone-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Throwing Stone Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Throwing-Stone-Cantrip
 ---
 
 ## Throwing Stone Cantrip  (1 Intellect point)

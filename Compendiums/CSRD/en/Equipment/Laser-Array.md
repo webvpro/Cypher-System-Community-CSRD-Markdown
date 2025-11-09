@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Laser Array"
+  - Laser Array
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant-a-Bulky-Piece-of-Equipment-that-Takes-a-Few-Days
-- Equipment/Value/Set-up-and-Calibrate.-Useful-for-Ship-to-Ship-Communication-for-"tight"-Beaming-Information
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant-a-Bulky-Piece-of-Equipment-that-Takes-a-Few-Days
+  - Equipment/Value/Set-up-and-Calibrate.-Useful-for-Ship-to-Ship-Communication-for-"tight"-Beaming-Information
+title: Laser Array
+collection: Equipment
+kind: Equipment
+id: Laser-Array
 ---
 
 

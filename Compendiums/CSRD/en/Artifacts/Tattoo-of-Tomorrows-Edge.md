@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Tattoo of Tomorrow’s Edge"
+  - Tattoo of Tomorrow’s Edge
 tags:
-- Compendium/CSRD/en/Artifacts/Tattoo-of-Tomorrows-Edge
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Tattoo-of-Tomorrows-Edge
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Tattoo of Tomorrow’s Edge
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Tattoo-of-Tomorrows-Edge
 ---
 
 

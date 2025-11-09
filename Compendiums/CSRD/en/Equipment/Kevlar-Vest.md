@@ -1,18 +1,22 @@
 ---
 aliases:
-- "Kevlar Vest"
+  - Kevlar Vest
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Armor/Medium
-- Equipment/Apparel-And-Armor
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Armor/Medium
+  - Equipment/Apparel-And-Armor
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Armor/Medium
+title: Kevlar Vest
+collection: Equipment
+kind: Equipment
+id: Kevlar-Vest
 ---
 
 

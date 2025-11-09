@@ -1,13 +1,17 @@
 ---
 aliases:
-- Enchanter
+  - Enchanter
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/20
+title: Enchanter
+collection: Creatures-NPCs
+kind: Creature
+id: Enchanter
 ---
 
 

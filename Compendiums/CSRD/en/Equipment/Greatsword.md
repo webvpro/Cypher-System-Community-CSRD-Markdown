@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Greatsword"
+  - Greatsword
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/50-Gp
-- Equipment/Weapon/Heavy
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Value/50-Gp
+  - Equipment/Weapon/Heavy
+title: Greatsword
+collection: Equipment
+kind: Equipment
+id: Greatsword
 ---
 
 

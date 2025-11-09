@@ -1,10 +1,17 @@
 ---
 aliases:
-- To Peter with Love
+  - To Peter with Love
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: To Peter with Love
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: To-Peter-with-Love
 ---
 
 

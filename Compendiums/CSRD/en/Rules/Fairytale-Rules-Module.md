@@ -1,10 +1,15 @@
 ---
-aliases: "Fairytale Rules Module"
+aliases:
+  - Fairytale Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Fairytale-Rules-Module
-- Rule/Crafting/Magic-Items
-- Rule/Crafting/Cypher
-- Rule/Crafting/Artifacts
+  - Compendium/CSRD/en/Rules/Fairytale-Rules-Module
+  - Rule/Crafting/Magic-Items
+  - Rule/Crafting/Cypher
+  - Rule/Crafting/Artifacts
+title: Fairytale Rules Module
+collection: Rules
+kind: Rule
+id: Fairytale-Rules-Module
 ---
 
 # Fairytale Rules Module

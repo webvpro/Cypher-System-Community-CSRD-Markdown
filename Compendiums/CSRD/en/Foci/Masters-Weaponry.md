@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Masters Weaponry"
+  - Masters Weaponry
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Masters Weaponry
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Masters-Weaponry
 ---
 
 

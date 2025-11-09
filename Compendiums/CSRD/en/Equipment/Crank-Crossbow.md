@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Crank Crossbow"
+  - Crank Crossbow
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/250-Gp
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/250-Gp
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+title: Crank Crossbow
+collection: Equipment
+kind: Equipment
+id: Crank-Crossbow
 ---
 
 

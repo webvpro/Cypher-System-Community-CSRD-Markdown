@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Screen Control"
+  - Screen Control
 tags:
-- Compendium/CSRD/en/Cyphers/Screen-Control
-- Cypher
-- Cypher/Magical-Technology
+  - Compendium/CSRD/en/Cyphers/Screen-Control
+  - Cypher
+  - Cypher/Magical-Technology
+title: Screen Control
+collection: Cyphers
+kind: Cypher
+id: Screen-Control
 ---
 
 ## Screen Control

@@ -1,9 +1,16 @@
 ---
 aliases:
-- Catfolk
+  - Catfolk
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Fantasy
+title: Catfolk
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Fantasy
+id: Catfolk
 ---
 
 ## Catfolk

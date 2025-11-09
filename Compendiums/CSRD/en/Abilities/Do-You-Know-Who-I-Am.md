@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Do You Know Who I Am?"
+  - Do You Know Who I Am?
 tags:
-- Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Do You Know Who I Am?
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Special-Attack
+id: Do-You-Know-Who-I-Am
 ---
 
 

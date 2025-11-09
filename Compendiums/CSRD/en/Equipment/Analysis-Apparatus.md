@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Analysis Apparatus"
+  - Analysis Apparatus
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/4
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/4
+  - Equipment/Value/Exorbitant
+title: Analysis Apparatus
+collection: Equipment
+kind: Equipment
+id: Analysis-Apparatus
 ---
 
 

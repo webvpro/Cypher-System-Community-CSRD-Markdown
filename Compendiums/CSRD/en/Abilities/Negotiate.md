@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Negotiate"
+  - Negotiate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
+title: Negotiate
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Social
+id: Negotiate
 ---
 
 

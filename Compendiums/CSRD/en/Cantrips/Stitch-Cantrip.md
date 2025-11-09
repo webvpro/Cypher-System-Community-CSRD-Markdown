@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Stitch Cantrip"
+  - Stitch Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Stitch-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Stitch-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Stitch Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Stitch-Cantrip
 ---
 
 ## Stitch Cantrip  (1 Intellect point)

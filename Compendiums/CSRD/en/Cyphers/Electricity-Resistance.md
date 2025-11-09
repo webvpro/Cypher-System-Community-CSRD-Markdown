@@ -1,10 +1,14 @@
 ---
 aliases:
-- Electricity Resistance
+  - Electricity Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Electricity Resistance
+collection: Cyphers
+kind: Cypher
+id: Electricity-Resistance
 ---
 
 

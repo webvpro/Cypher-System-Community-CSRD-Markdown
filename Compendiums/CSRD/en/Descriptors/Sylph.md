@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Sylph"
+  - Sylph
 tags:
-- Compendiums/CSRD/en/Descriptors/Sylph
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Sylph
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Sylph
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Sylph
 ---
 
 ## Sylph

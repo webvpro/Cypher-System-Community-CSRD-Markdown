@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Sonic Toolgrip"
+  - Sonic Toolgrip
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Sonic Toolgrip
+collection: Equipment
+kind: Equipment
+id: Sonic-Toolgrip
 ---
 
 

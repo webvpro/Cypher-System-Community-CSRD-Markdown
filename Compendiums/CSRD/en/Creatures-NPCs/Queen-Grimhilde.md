@@ -1,13 +1,20 @@
 ---
 aliases:
-- Queen Grimhilde
+  - Queen Grimhilde
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/2
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/2
+  - Creature/Health/18
+  - Content/Fairytale
+title: Queen Grimhilde
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Queen-Grimhilde
 ---
 
 

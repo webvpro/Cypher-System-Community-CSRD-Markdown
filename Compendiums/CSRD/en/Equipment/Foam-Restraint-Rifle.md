@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Foam Restraint Rifle"
+  - Foam Restraint Rifle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
-- Equipment/Range/Short
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+  - Equipment/Range/Short
+title: Foam Restraint Rifle
+collection: Equipment
+kind: Equipment
+id: Foam-Restraint-Rifle
 ---
 
 

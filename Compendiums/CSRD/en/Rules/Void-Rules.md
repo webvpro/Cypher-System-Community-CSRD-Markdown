@@ -1,9 +1,13 @@
 ---
 aliases:
-- Void Rules"
+  - Void Rules"
 tags:
-- Compendium/CSRD/en/Rules/Optional/Science-Fiction
-- /Rules/Void
+  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
+  - /Rules/Void
+title: Void Rules"
+collection: Rules
+kind: ''
+id: Void-Rules
 ---
 
 ## Void Rules

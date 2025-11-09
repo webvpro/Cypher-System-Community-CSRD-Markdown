@@ -1,10 +1,18 @@
 ---
 aliases:
-- Flying Carpet
+  - Flying Carpet
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Flying Carpet
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Flying-Carpet
 ---
 
 

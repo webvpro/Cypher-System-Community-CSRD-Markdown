@@ -1,10 +1,14 @@
 ---
 aliases:
-- Phase Disruptor
+  - Phase Disruptor
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Phase Disruptor
+collection: Cyphers
+kind: Cypher
+id: Phase-Disruptor
 ---
 
 

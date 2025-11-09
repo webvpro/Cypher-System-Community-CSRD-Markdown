@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Disarming Strike"
+  - Disarming Strike
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Meta
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+  - Ability/Categories/Special-Attack
+title: Disarming Strike
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Speed
+categories:
+  - Meta
+  - Special-Attack
+id: Disarming-Strike
 ---
 
 

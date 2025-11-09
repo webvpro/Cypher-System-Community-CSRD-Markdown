@@ -1,13 +1,17 @@
 ---
 aliases:
-- Enthraller
+  - Enthraller
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Enthraller
+collection: Creatures-NPCs
+kind: Creature
+id: Enthraller
 ---
 
 

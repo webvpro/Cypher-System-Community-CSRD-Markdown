@@ -1,13 +1,17 @@
 ---
 aliases:
-- Wyvern
+  - Wyvern
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/35
+title: Wyvern
+collection: Creatures-NPCs
+kind: Creature
+id: Wyvern
 ---
 
 

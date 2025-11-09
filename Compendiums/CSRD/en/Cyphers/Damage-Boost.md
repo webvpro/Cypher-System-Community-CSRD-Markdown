@@ -1,10 +1,14 @@
 ---
 aliases:
-- Damage Boost
+  - Damage Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Damage Boost
+collection: Cyphers
+kind: Cypher
+id: Damage-Boost
 ---
 
 

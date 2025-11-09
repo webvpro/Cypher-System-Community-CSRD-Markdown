@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Ring of Reflected Bullets"
+  - Ring of Reflected Bullets
 tags:
-- Compendium/CSRD/en/Artifacts/Ring-of-Reflected-Bullets
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Ring-of-Reflected-Bullets
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Ring of Reflected Bullets
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Ring-of-Reflected-Bullets
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Gate, Interplanetary"
+  - 'Gate, Interplanetary'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Stellar-Gate
-- Equipment/Level/4
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Stellar-Gate
+  - Equipment/Level/4
+  - Equipment/Value/Priceless
+title: 'Gate, Interplanetary'
+collection: Equipment
+kind: Equipment
+id: Gate-Interplanetary
 ---
 
 

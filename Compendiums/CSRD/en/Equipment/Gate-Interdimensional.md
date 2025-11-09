@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Gate, Interdimensional"
+  - 'Gate, Interdimensional'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Stellar-Gate
-- Equipment/Level/7
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Stellar-Gate
+  - Equipment/Level/7
+  - Equipment/Value/Priceless
+title: 'Gate, Interdimensional'
+collection: Equipment
+kind: Equipment
+id: Gate-Interdimensional
 ---
 
 

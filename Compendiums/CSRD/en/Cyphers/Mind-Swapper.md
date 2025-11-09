@@ -1,9 +1,16 @@
 ---
 aliases:
-- Mind Swapper
+  - Mind Swapper
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Mind Swapper
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Mind-Swapper
 ---
 
 

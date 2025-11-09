@@ -1,13 +1,17 @@
 ---
 aliases:
-- "AR Contacts"
+  - AR Contacts
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive-X2
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive-X2
+title: AR Contacts
+collection: Equipment
+kind: Equipment
+id: AR-Contacts
 ---
 
 

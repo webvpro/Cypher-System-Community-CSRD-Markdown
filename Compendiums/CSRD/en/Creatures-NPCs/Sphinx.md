@@ -1,13 +1,17 @@
 ---
 aliases:
-- Sphinx
+  - Sphinx
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/2
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/2
+  - Creature/Health/25
+title: Sphinx
+collection: Creatures-NPCs
+kind: Creature
+id: Sphinx
 ---
 
 

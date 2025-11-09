@@ -1,13 +1,17 @@
 ---
 aliases:
-- Storm Marine
+  - Storm Marine
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/4
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/4
+  - Creature/Health/15
+title: Storm Marine
+collection: Creatures-NPCs
+kind: Creature
+id: Storm-Marine
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Three Needles
+  - Three Needles
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Three Needles
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Three-Needles
 ---
 
 

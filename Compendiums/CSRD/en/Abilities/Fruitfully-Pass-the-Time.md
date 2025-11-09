@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Fruitfully Pass the Time"
+  - Fruitfully Pass the Time
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Fruitfully Pass the Time
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+id: Fruitfully-Pass-the-Time
 ---
 
 

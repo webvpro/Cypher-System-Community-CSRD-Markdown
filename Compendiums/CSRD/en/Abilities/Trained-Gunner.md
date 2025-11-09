@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Trained Gunner"
+  - Trained Gunner
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Trained Gunner
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Task
+id: Trained-Gunner
 ---
 
 

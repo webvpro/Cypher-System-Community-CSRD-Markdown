@@ -1,10 +1,15 @@
 ---
 aliases:
-- Necromantic Wand
+  - Necromantic Wand
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Necromantic Wand
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Necromantic-Wand
 ---
 
 

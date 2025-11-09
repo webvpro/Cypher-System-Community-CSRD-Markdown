@@ -1,10 +1,14 @@
 ---
 aliases:
-- Eagleseye
+  - Eagleseye
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Eagleseye
+collection: Cyphers
+kind: Cypher
+id: Eagleseye
 ---
 
 

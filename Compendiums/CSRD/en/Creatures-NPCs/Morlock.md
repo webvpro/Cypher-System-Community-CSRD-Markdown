@@ -1,13 +1,17 @@
 ---
 aliases:
-- Morlock
+  - Morlock
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/0
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/0
+  - Creature/Health/6
+title: Morlock
+collection: Creatures-NPCs
+kind: Creature
+id: Morlock
 ---
 
 

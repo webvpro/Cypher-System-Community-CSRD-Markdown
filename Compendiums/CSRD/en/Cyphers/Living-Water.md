@@ -1,10 +1,17 @@
 ---
 aliases:
-- Living Water
+  - Living Water
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Living Water
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Living-Water
 ---
 
 

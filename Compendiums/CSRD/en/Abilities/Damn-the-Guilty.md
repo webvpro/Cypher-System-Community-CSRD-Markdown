@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Damn the Guilty"
+  - Damn the Guilty
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Damn the Guilty
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Damn-the-Guilty
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Juggernaut"
+  - Juggernaut
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Movement
+title: Juggernaut
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '5'
+tier: High
+pools:
+  - Might
+categories:
+  - Movement
+id: Juggernaut
 ---
 
 

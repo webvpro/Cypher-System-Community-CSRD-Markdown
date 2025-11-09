@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Harrowing Blade"
+  - Harrowing Blade
 tags:
-- Compendium/CSRD/en/Artifacts/Harrowing-Blade
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Harrowing-Blade
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Harrowing Blade
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Harrowing-Blade
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Tongue-Tied
+  - Tongue-Tied
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Tongue-Tied
+collection: Descriptors
+kind: Descriptor
+id: Tongue-Tied
 ---
 
 ## Tongue-Tied

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Noble Knight
+  - Noble Knight
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/50
+title: Noble Knight
+collection: Creatures-NPCs
+kind: Creature
+id: Noble-Knight
 ---
 
 

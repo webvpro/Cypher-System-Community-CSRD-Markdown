@@ -1,10 +1,15 @@
 ---
 aliases:
-- Cloak of Elfkind
+  - Cloak of Elfkind
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cloak of Elfkind
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Cloak-of-Elfkind
 ---
 
 

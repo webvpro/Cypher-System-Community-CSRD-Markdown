@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Precognition"
+  - Precognition
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+  - Ability/Categories/Task
+title: Precognition
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '6'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Protection
+  - Task
+id: Precognition
 ---
 
 

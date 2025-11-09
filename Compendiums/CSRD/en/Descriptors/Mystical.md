@@ -1,9 +1,13 @@
 ---
 aliases:
-- Mystical
+  - Mystical
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Mystical
+collection: Descriptors
+kind: Descriptor
+id: Mystical
 ---
 
 ## Mystical

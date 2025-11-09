@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Dark Matter Strike"
+  - Dark Matter Strike
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Dark Matter Strike
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Special-Attack
+id: Dark-Matter-Strike
 ---
 
 

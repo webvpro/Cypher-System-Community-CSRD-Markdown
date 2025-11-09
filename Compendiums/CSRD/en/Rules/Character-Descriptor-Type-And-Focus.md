@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Character Descriptor, Type, And Focus "
+  - 'Character Descriptor, Type, And Focus '
 tags:
-- Compendium/CSRD/en/Rules
-- Character/Type
-- Character/Descriptor
-- Character/Focus
+  - Compendium/CSRD/en/Rules
+  - Character/Type
+  - Character/Descriptor
+  - Character/Focus
+title: 'Character Descriptor, Type, And Focus '
+collection: Rules
+kind: Character
+id: Character-Descriptor-Type-And-Focus
 ---
 ## Character Descriptor, Type, And Focus
 

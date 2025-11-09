@@ -1,9 +1,13 @@
 ---
 aliases:
-- Mysterious
+  - Mysterious
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Mysterious
+collection: Descriptors
+kind: Descriptor
+id: Mysterious
 ---
 
 ## Mysterious

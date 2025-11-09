@@ -1,10 +1,17 @@
 ---
 aliases:
-- Horn of Destruction
+  - Horn of Destruction
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Horn of Destruction
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Horn-of-Destruction
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- Mighty
+  - Mighty
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Superhero
+title: Mighty
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Superhero
+id: Mighty
 ---
 
 ## Mighty

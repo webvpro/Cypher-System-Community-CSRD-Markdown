@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Erase Cantrip"
+  - Erase Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Erase-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Erase-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Erase Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Erase-Cantrip
 ---
 
 ## Erase Cantrip  (1 Intellect point)

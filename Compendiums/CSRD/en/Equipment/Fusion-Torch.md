@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Fusion Torch"
+  - Fusion Torch
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Fusion Torch
+collection: Equipment
+kind: Equipment
+id: Fusion-Torch
 ---
 
 

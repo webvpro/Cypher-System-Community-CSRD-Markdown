@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Prepped for the End"
+  - Prepped for the End
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Post-Apocalyptic
+title: Prepped for the End
+collection: Foci
+kind: Focus
+categories:
+  - Post-Apocalyptic
+id: Prepped-for-the-End
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Bones of the Beloved
+  - Bones of the Beloved
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Bones of the Beloved
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Bones-of-the-Beloved
 ---
 
 

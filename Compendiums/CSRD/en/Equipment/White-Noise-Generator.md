@@ -1,13 +1,17 @@
 ---
 aliases:
-- "White Noise Generator"
+  - White Noise Generator
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: White Noise Generator
+collection: Equipment
+kind: Equipment
+id: White-Noise-Generator
 ---
 
 

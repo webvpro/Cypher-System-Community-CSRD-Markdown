@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Conjures Bullets"
+  - Conjures Bullets
 tags:
-- Compendium/CSRD/en/Foci/Conjures-Bullets
-- Focus/Category/Magic-Tech
+  - Compendium/CSRD/en/Foci/Conjures-Bullets
+  - Focus/Category/Magic-Tech
+  - Content/Modern-Magic
+title: Conjures Bullets
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Conjures-Bullets
 ---
 
 

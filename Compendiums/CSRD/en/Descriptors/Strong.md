@@ -1,9 +1,13 @@
 ---
 aliases:
-- Strong
+  - Strong
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Strong
+collection: Descriptors
+kind: Descriptor
+id: Strong
 ---
 
 ## Strong

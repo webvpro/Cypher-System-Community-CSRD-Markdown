@@ -1,13 +1,20 @@
 ---
 aliases:
-- Zombie
+  - Zombie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+  - Content/Horror
+title: Zombie
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Zombie
 ---
 
 

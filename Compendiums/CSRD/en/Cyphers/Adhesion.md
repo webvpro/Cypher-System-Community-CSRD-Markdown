@@ -1,10 +1,14 @@
 ---
 aliases:
-- Adhesion
+  - Adhesion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Adhesion
+collection: Cyphers
+kind: Cypher
+id: Adhesion
 ---
 
 

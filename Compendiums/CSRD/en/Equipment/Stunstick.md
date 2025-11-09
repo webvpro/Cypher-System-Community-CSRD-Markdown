@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Stunstick"
+  - Stunstick
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Medium
+title: Stunstick
+collection: Equipment
+kind: Equipment
+id: Stunstick
 ---
 
 

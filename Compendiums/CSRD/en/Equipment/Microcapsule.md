@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Microcapsule"
+  - Microcapsule
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/2
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/2
+  - Equipment/Value/Very-Expensive
+title: Microcapsule
+collection: Equipment
+kind: Equipment
+id: Microcapsule
 ---
 
 

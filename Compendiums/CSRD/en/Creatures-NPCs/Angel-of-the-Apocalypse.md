@@ -1,13 +1,17 @@
 ---
 aliases:
-- Angel of the Apocalypse
+  - Angel of the Apocalypse
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/27
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/27
+title: Angel of the Apocalypse
+collection: Creatures-NPCs
+kind: Creature
+id: Angel-of-the-Apocalypse
 ---
 
 

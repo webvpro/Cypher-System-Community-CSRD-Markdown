@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Car, Sports"
+  - 'Car, Sports'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/6
-- Equipment/Value/Very-Expensive
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/6
+  - Equipment/Value/Very-Expensive
+  - Equipment/Value/Exorbitant
+title: 'Car, Sports'
+collection: Equipment
+kind: Equipment
+id: Car-Sports
 ---
 
 

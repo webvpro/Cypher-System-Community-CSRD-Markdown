@@ -1,9 +1,13 @@
 ---
 aliases:
-- Piloting System Gm Intrusions
+  - Piloting System Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Piloting-System-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Piloting-System-Gm-Intrusions
+title: Piloting System Gm Intrusions
+collection: Tables
+kind: Table
+id: Piloting-System-Gm-Intrusions
 ---
 
 ## Piloting System Gm Intrusions Table

@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Bewitched"
+  - Bewitched
 tags:
   - Compendiums/CSRD/en/Descriptors/Bewitched
   - Descriptor/Fairytale
+title: Bewitched
+collection: Descriptors
+kind: Descriptor
+id: Bewitched
 ---
 
 ## Bewitched

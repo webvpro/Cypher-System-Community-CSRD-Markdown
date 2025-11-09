@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Optional Rules: Extended Vehicular Combat (Spacecraft Combat)"
-- "Spacecraft Combat"
+  - 'Optional Rules: Extended Vehicular Combat (Spacecraft Combat)'
+  - Spacecraft Combat
 tags:
-- Compendium/CSRD/en/Rules/Optional/Vehicular/Combat
-- Spacecraft
+  - Compendium/CSRD/en/Rules/Optional/Vehicular/Combat
+  - Spacecraft
+title: 'Optional Rules: Extended Vehicular Combat (Spacecraft Combat)'
+collection: Rules
+kind: Spacecraft
+id: Optional-Rules-Extended-Vehicular-Combat
 ---
 
 ##  Optional Rules: Extended Vehicular Combat (Spacecraft Combat)

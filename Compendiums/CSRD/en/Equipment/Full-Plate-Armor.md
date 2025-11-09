@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Full Plate Armor"
+  - Full Plate Armor
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/1,500-Gp
-- Equipment/Armor/Heavy
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - 'Equipment/Value/1,500-Gp'
+  - Equipment/Armor/Heavy
+title: Full Plate Armor
+collection: Equipment
+kind: Equipment
+id: Full-Plate-Armor
 ---
 
 

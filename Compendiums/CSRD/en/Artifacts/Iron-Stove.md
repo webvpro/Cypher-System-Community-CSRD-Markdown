@@ -1,10 +1,17 @@
 ---
 aliases:
-- Iron Stove
+  - Iron Stove
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Iron Stove
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Iron-Stove
 ---
 
 

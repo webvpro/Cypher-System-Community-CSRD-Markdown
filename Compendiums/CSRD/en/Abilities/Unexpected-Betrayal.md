@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Unexpected Betrayal"
+  - Unexpected Betrayal
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Social
+title: Unexpected Betrayal
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Social
+id: Unexpected-Betrayal
 ---
 
 

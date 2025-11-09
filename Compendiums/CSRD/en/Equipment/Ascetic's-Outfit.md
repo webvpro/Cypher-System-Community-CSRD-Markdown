@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Ascetic's Outfit"
+  - Ascetic's Outfit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Gp
+title: Ascetic's Outfit
+collection: Equipment
+kind: Equipment
+id: Ascetic's-Outfit
 ---
 
 

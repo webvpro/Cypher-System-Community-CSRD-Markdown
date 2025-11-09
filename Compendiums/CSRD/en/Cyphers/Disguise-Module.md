@@ -1,10 +1,14 @@
 ---
 aliases:
-- Disguise Module
+  - Disguise Module
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Disguise Module
+collection: Cyphers
+kind: Cypher
+id: Disguise-Module
 ---
 
 

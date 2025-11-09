@@ -1,13 +1,20 @@
 ---
 aliases:
-- Nuppeppo
+  - Nuppeppo
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/1
+  - Creature/Health/12
+  - Content/Fairytale
+title: Nuppeppo
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Nuppeppo
 ---
 
 

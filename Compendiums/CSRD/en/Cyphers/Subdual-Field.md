@@ -1,10 +1,14 @@
 ---
 aliases:
-- Subdual Field
+  - Subdual Field
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Subdual Field
+collection: Cyphers
+kind: Cypher
+id: Subdual-Field
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Spin Attack"
+  - Spin Attack
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
+title: Spin Attack
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: High
+pools:
+  - Speed
+categories:
+  - Special-Attack
+id: Spin-Attack
 ---
 
 

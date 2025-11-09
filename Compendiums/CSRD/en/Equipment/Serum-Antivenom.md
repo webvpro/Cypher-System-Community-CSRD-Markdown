@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Serum, Antivenom"
+  - 'Serum, Antivenom'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: 'Serum, Antivenom'
+collection: Equipment
+kind: Equipment
+id: Serum-Antivenom
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Bears a Halo of Fire"
+  - Bears a Halo of Fire
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Bears a Halo of Fire
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Bears-a-Halo-of-Fire
 ---
 
 

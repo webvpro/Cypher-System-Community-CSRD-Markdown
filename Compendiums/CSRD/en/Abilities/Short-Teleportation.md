@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Short Teleportation"
+  - Short Teleportation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Short Teleportation
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+id: Short-Teleportation
 ---
 
 

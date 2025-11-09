@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Dark Matter Shroud"
+  - Dark Matter Shroud
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Dark Matter Shroud
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Dark-Matter-Shroud
 ---
 
 

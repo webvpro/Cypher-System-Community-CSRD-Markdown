@@ -1,10 +1,14 @@
 ---
 aliases:
-- Curative
+  - Curative
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Curative
+collection: Cyphers
+kind: Cypher
+id: Curative
 ---
 
 

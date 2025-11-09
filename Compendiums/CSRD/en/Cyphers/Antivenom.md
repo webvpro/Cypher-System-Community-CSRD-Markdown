@@ -1,10 +1,14 @@
 ---
 aliases:
-- Antivenom
+  - Antivenom
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Antivenom
+collection: Cyphers
+kind: Cypher
+id: Antivenom
 ---
 
 

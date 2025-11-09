@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Murderer"
+  - Murderer
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/8
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/8
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
+title: Murderer
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '8'
+tier: High
+pools:
+  - Speed
+categories:
+  - Special-Attack
+id: Murderer
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Signal Horn"
+  - Signal Horn
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/2-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/2-Gp
+title: Signal Horn
+collection: Equipment
+kind: Equipment
+id: Signal-Horn
 ---
 
 

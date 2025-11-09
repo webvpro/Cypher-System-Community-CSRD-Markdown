@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Spellscrambler"
+  - Spellscrambler
 tags:
-- Compendium/CSRD/en/Equipment/Spellscrambler
-- Equipment/Magical-Technology
-- Equipment/Value/Very-Expensive
-- Equipment/Exposive
-- Equipment/Asset
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Sense-Enhancing-Tools
+  - Compendium/CSRD/en/Equipment/Spellscrambler
+  - Equipment/Magical-Technology
+  - Equipment/Value/Very-Expensive
+  - Equipment/Exposive
+  - Equipment/Asset
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Sense-Enhancing-Tools
+title: Spellscrambler
+collection: Equipment
+kind: Equipment
+id: Spellscrambler
 ---
 
 

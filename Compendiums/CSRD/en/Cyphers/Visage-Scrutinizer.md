@@ -1,9 +1,16 @@
 ---
 aliases:
-- Visage Scrutinizer
+  - Visage Scrutinizer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Visage Scrutinizer
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Visage-Scrutinizer
 ---
 
 

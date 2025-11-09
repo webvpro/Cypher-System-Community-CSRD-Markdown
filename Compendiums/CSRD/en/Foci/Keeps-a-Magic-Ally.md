@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Keeps a Magic Ally"
+  - Keeps a Magic Ally
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Keeps a Magic Ally
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Keeps-a-Magic-Ally
 ---
 
 

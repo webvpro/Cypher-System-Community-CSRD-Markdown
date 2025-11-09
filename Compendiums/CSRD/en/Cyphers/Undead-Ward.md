@@ -1,10 +1,14 @@
 ---
 aliases:
-- Undead Ward
+  - Undead Ward
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Undead Ward
+collection: Cyphers
+kind: Cypher
+id: Undead-Ward
 ---
 
 

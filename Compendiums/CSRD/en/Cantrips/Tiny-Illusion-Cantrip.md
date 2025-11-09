@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Tiny Illusion Cantrip"
+  - Tiny Illusion Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Tiny-Illusion-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Tiny-Illusion-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Tiny Illusion Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Tiny-Illusion-Cantrip
 ---
 
 ## Tiny Illusion Cantrip  (1 Intellect point)

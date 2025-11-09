@@ -1,10 +1,17 @@
 ---
 aliases:
-- Eat Me
+  - Eat Me
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Eat Me
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Eat-Me
 ---
 
 

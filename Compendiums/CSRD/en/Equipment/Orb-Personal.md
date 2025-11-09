@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Orb, Personal"
+  - 'Orb, Personal'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Expensive
+title: 'Orb, Personal'
+collection: Equipment
+kind: Equipment
+id: Orb-Personal
 ---
 
 

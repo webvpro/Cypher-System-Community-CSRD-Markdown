@@ -1,9 +1,18 @@
 ---
 aliases:
-- "Takes Animal Shape"
+  - Takes Animal Shape
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+  - Content/Fantasy
+title: Takes Animal Shape
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+  - Fantasy
+id: Takes-Animal-Shape
 ---
 
 

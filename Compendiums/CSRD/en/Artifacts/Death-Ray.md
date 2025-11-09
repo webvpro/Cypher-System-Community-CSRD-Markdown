@@ -1,10 +1,17 @@
 ---
 aliases:
-- Death Ray
+  - Death Ray
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact/Weapon
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact/Weapon
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Death Ray
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Death-Ray
 ---
 
 

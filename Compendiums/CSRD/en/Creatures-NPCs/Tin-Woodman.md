@@ -1,13 +1,20 @@
 ---
 aliases:
-- Tin Woodman
+  - Tin Woodman
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/21
+  - Content/Fairytale
+title: Tin Woodman
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Tin-Woodman
 ---
 
 

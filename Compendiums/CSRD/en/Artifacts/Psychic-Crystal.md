@@ -1,10 +1,17 @@
 ---
 aliases:
-- Psychic Crystal
+  - Psychic Crystal
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Psychic Crystal
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Psychic-Crystal
 ---
 
 

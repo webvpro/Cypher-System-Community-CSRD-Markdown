@@ -1,10 +1,14 @@
 ---
 aliases:
-- Enduring Shield
+  - Enduring Shield
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Enduring Shield
+collection: Cyphers
+kind: Cypher
+id: Enduring-Shield
 ---
 
 

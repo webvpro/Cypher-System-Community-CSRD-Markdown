@@ -1,10 +1,17 @@
 ---
 aliases:
-- Mirror Mirror
+  - Mirror Mirror
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Mirror Mirror
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Mirror-Mirror
 ---
 
 

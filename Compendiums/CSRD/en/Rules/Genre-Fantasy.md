@@ -1,8 +1,13 @@
 ---
-aliases: "Fantasy Genre"
+aliases:
+  - Genre Fantasy
 tags:
-- Compendium/CSRD/en/Rules/Genre-Fantasy
-- Genre/Fantasy
+  - Compendium/CSRD/en/Rules/Genre-Fantasy
+  - Genre/Fantasy
+title: Genre Fantasy
+collection: Rules
+kind: Genre
+id: Genre-Fantasy
 ---
 
 ## Fantasy Types

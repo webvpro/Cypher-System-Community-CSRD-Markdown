@@ -1,10 +1,17 @@
 ---
 aliases:
-- Forget-Me-Knot
+  - Forget-Me-Knot
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Forget-Me-Knot
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Forget-Me-Knot
 ---
 
 

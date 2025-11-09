@@ -1,9 +1,16 @@
 ---
 aliases:
-- Invisibility Revealer
+  - Invisibility Revealer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Invisibility Revealer
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Invisibility-Revealer
 ---
 
 

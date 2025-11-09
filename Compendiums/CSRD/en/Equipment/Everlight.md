@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Everlight"
+  - Everlight
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Inexpensive
+title: Everlight
+collection: Equipment
+kind: Equipment
+id: Everlight
 ---
 
 

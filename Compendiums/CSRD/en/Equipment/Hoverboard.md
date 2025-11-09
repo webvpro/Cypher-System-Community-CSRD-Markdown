@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hoverboard"
+  - Hoverboard
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+title: Hoverboard
+collection: Equipment
+kind: Equipment
+id: Hoverboard
 ---
 
 

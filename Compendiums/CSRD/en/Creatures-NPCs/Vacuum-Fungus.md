@@ -1,13 +1,17 @@
 ---
 aliases:
-- Vacuum Fungus
+  - Vacuum Fungus
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/22
+title: Vacuum Fungus
+collection: Creatures-NPCs
+kind: Creature
+id: Vacuum-Fungus
 ---
 
 

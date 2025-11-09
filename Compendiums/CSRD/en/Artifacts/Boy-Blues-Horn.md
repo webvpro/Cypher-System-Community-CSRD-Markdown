@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Boy Blue's Horn"
+  - Boy Blue's Horn
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Boy Blue's Horn
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Boy-Blues-Horn
 ---
 
 

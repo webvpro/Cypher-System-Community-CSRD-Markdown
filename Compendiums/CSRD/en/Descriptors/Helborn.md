@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Helborn"
+  - Helborn
 tags:
-- Compendiums/CSRD/en/Descriptors/Helborn
-- Descriptor/Fantasy
+  - Compendiums/CSRD/en/Descriptors/Helborn
+  - Descriptor/Fantasy
+title: Helborn
+collection: Descriptors
+kind: Descriptor
+id: Helborn
 ---
 
 ## Helborn

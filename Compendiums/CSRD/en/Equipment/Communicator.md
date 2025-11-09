@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Communicator"
+  - Communicator
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Range/Planetary
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Range/Planetary
+title: Communicator
+collection: Equipment
+kind: Equipment
+id: Communicator
 ---
 
 

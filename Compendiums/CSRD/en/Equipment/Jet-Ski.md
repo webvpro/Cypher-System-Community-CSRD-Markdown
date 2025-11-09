@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Jet Ski"
+  - Jet Ski
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Expensive
+title: Jet Ski
+collection: Equipment
+kind: Equipment
+id: Jet-Ski
 ---
 
 

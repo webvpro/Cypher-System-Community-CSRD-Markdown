@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Ghost Car"
+  - Ghost Car
 tags:
-- Compendium/CSRD/en/Abilities/Ghost-Car
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Ghost-Car
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Ghost Car
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Ghost-Car
 ---
 
 

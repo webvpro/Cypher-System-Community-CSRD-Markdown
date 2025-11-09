@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Speaks for the Land"
+  - Speaks for the Land
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Speaks for the Land
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Speaks-for-the-Land
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Aine, Fairy Queen of Light an Love"
+  - 'Aine, Fairy Queen of Light an Love'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/99
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/99
+  - Content/Fairytale
+title: 'Aine, Fairy Queen of Light an Love'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Aine-Fairy-Queen-of-Light-an-Love
 ---
 
 

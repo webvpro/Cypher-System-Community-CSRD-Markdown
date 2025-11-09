@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Doesn't Do Much"
+  - Doesn't Do Much
 tags:
-- Compendium/CSRD/en/Foci/Doesnt-Do-Much
-- Focus/Category/Basic
+  - Compendium/CSRD/en/Foci/Doesnt-Do-Much
+  - Focus/Category/Basic
+title: Doesn't Do Much
+collection: Foci
+kind: Focus
+id: Doesnt-Do-Much
 ---
 
 

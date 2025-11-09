@@ -1,9 +1,13 @@
 ---
 aliases:
-- Doomed
+  - Doomed
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Doomed
+collection: Descriptors
+kind: Descriptor
+id: Doomed
 ---
 
 ## Doomed

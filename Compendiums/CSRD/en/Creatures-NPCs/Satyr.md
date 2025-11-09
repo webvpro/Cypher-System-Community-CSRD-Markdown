@@ -1,13 +1,20 @@
 ---
 aliases:
-- Satyr
+  - Satyr
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+  - Content/Fairytale
+title: Satyr
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Satyr
 ---
 
 

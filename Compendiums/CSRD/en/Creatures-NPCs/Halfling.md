@@ -1,13 +1,17 @@
 ---
 aliases:
-- Halfling
+  - Halfling
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Halfling
+collection: Creatures-NPCs
+kind: NPC
+id: Halfling
 ---
 
 

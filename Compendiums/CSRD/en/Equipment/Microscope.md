@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Microscope"
+  - Microscope
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: Microscope
+collection: Equipment
+kind: Equipment
+id: Microscope
 ---
 
 

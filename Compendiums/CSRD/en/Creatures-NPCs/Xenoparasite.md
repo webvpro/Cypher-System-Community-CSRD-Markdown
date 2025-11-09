@@ -1,13 +1,17 @@
 ---
 aliases:
-- Xenoparasite
+  - Xenoparasite
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/28
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/28
+title: Xenoparasite
+collection: Creatures-NPCs
+kind: Creature
+id: Xenoparasite
 ---
 
 

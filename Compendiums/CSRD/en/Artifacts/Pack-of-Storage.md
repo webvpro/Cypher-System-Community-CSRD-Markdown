@@ -1,10 +1,15 @@
 ---
 aliases:
-- Pack of Storage
+  - Pack of Storage
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Pack of Storage
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Pack-of-Storage
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Apple of Discord
+  - Apple of Discord
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Apple of Discord
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Apple-of-Discord
 ---
 
 

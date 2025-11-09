@@ -1,10 +1,17 @@
 ---
 aliases:
-- Fairy Cup
+  - Fairy Cup
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Fairy Cup
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Fairy-Cup
 ---
 
 

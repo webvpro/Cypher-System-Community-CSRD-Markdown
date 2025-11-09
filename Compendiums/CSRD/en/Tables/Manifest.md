@@ -1,9 +1,13 @@
 ---
 aliases:
-- Manifest
+  - Manifest
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Cypher/Manifest
+  - Compendiums/CSRD/en/Tables
+  - Table/Cypher/Manifest
+title: Manifest
+collection: Tables
+kind: Table
+id: Manifest
 ---
 
 ## Manifest Table

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Machine Interface"
+  - Machine Interface
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Machine Interface
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Task
+id: Machine-Interface
 ---
 
 

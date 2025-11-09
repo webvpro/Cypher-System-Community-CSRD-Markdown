@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Transmits Energy"
+  - Transmits Energy
 tags:
-- Compendium/CSRD/en/Foci/Transmits-Energy
-- Focus/Category/Fantasy/Modern
+  - Compendium/CSRD/en/Foci/Transmits-Energy
+  - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
+title: Transmits Energy
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Transmits-Energy
 ---
 
 

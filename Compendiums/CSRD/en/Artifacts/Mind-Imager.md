@@ -1,10 +1,17 @@
 ---
 aliases:
-- Mind Imager
+  - Mind Imager
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Mind Imager
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Mind-Imager
 ---
 
 

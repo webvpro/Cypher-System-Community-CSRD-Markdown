@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Book of the Baker"
+  - Book of the Baker
 tags:
-- Compendium/CSRD/en/Artifacts/Book-of-the-Baker
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Book-of-the-Baker
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Book of the Baker
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Book-of-the-Baker
 ---
 
 

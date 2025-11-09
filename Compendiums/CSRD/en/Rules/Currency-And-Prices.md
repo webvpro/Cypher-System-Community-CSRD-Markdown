@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Currency And Prices"
-- Money
+  - Currency And Prices
+  - Money
 tags:
-- Compendium/CSRD/en/Rules/Currency-and-Prices
-- Rule/Currency
-- Rule/Price
+  - Compendium/CSRD/en/Rules/Currency-and-Prices
+  - Rule/Currency
+  - Rule/Price
+title: Currency And Prices
+collection: Rules
+kind: Rule
+id: Currency-And-Prices
 ---
 ## Currency And Prices
 Dollars, pounds, euros, credits, gold pieces, Martian solval beads, Corso moons and stars, bottle caps—a lot of different currencies might be used in your game, depending on the setting and the genre. You should use whatever you like. In the Cypher System rules, we talk in generalities rather than specifics. Not unlike saying immediate or short distance rather than giving precise numbers, we talk about goods and services in terms of inexpensive, moderately priced, expensive, very expensive, or exorbitant.

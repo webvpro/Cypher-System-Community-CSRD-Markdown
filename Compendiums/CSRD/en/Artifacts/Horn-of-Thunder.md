@@ -1,10 +1,15 @@
 ---
 aliases:
-- Horn of Thunder
+  - Horn of Thunder
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Horn of Thunder
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Horn-of-Thunder
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Rewind Rot"
+  - Rewind Rot
 tags:
-- Compendium/CSRD/en/Abilities/Rewind-Rot
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Rewind-Rot
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: Rewind Rot
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: High
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Rewind-Rot
 ---
 
 

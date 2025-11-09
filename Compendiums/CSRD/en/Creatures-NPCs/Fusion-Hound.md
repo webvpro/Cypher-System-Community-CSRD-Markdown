@@ -1,13 +1,17 @@
 ---
 aliases:
-- Fusion Hound
+  - Fusion Hound
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/10
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/10
+title: Fusion Hound
+collection: Creatures-NPCs
+kind: Creature
+id: Fusion-Hound
 ---
 
 

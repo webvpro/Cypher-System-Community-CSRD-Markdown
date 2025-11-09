@@ -1,10 +1,17 @@
 ---
 aliases:
-- Blood Pearl Blossom
+  - Blood Pearl Blossom
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Blood Pearl Blossom
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Blood-Pearl-Blossom
 ---
 
 

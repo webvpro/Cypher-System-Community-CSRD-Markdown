@@ -1,13 +1,17 @@
 ---
 aliases:
-- Doctor Dread
+  - Doctor Dread
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super Villain
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/40
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super Villain
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/40
+title: Doctor Dread
+collection: Creatures-NPCs
+kind: Super Villain
+id: Doctor-Dread
 ---
 
 

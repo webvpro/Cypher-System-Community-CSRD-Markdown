@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Changeling"
+  - Changeling
 tags:
   - Compendiums/CSRD/en/Descriptors/Changeling
   - Descriptor/Fairytale
+title: Changeling
+collection: Descriptors
+kind: Descriptor
+id: Changeling
 ---
 
 ## Changeling

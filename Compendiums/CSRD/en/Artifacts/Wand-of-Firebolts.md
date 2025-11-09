@@ -1,10 +1,15 @@
 ---
 aliases:
-- Wand of Firebolts
+  - Wand of Firebolts
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Wand of Firebolts
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Wand-of-Firebolts
 ---
 
 

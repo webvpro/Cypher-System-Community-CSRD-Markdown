@@ -1,10 +1,14 @@
 ---
 aliases:
-- Fireproofing
+  - Fireproofing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Fireproofing
+collection: Cyphers
+kind: Cypher
+id: Fireproofing
 ---
 
 

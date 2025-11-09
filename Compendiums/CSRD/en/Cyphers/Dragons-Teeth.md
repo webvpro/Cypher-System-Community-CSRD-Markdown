@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Dragon's Teeth"
+  - Dragon's Teeth
 tags:
-- Compendium/CSRD/en/Cyphers/Dragons-Teeth
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Dragons-Teeth
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dragon's Teeth
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dragons-Teeth
 ---
 
 

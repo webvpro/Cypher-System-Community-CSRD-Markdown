@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Undo a Wrong"
+  - Undo a Wrong
 tags:
-- Compendium/CSRD/en/Character-Arcs/Undo-a-Wrong
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Undo-a-Wrong
+  - Character-Arc
+title: Undo a Wrong
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Undo-a-Wrong
 ---
 ## Undo a Wrong
 >Someone did something horrible, and its ramifications are still felt, even if it happened long ago. You seek to undo the damage, or at least stop it from continuing.

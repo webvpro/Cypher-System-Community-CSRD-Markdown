@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Force Field"
+  - Force Field
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Exorbitant
+title: Force Field
+collection: Equipment
+kind: Equipment
+id: Force-Field
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Autodoc"
+  - Autodoc
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Autodoc
+collection: Equipment
+kind: Equipment
+id: Autodoc
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Hand Cantrip"
+  - Hand Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Hand-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Hand-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Hand Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Hand-Cantrip
 ---
 
 ## Hand Cantrip (1 Intellect point)

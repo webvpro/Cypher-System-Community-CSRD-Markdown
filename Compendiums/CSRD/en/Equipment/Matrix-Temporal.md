@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Matrix, Temporal"
+  - 'Matrix, Temporal'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Space-Time-Vehicles
-- Equipment/Level/8
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Space-Time-Vehicles
+  - Equipment/Level/8
+  - Equipment/Value/Priceless
+title: 'Matrix, Temporal'
+collection: Equipment
+kind: Equipment
+id: Matrix-Temporal
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Azure Dust
+  - Azure Dust
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Azure Dust
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Azure-Dust
 ---
 
 

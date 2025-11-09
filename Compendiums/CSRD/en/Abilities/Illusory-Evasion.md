@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Illusory Evasion"
+  - Illusory Evasion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Illusory Evasion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '5'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Illusory-Evasion
 ---
 
 

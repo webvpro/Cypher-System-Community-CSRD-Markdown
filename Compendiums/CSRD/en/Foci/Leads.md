@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Leads"
+  - Leads
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+  - Content/Fantasy
+title: Leads
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Leads
 ---
 
 

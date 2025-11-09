@@ -1,10 +1,17 @@
 ---
 aliases:
-- Repair Sphere
+  - Repair Sphere
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Repair Sphere
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Repair-Sphere
 ---
 
 

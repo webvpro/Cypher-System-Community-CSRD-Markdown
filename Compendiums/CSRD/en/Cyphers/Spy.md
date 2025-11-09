@@ -1,10 +1,14 @@
 ---
 aliases:
-- Spy
+  - Spy
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Spy
+collection: Cyphers
+kind: Cypher
+id: Spy
 ---
 
 

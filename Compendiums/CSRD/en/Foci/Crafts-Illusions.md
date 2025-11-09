@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Crafts Illusions"
+  - Crafts Illusions
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Crafts Illusions
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Crafts-Illusions
 ---
 
 

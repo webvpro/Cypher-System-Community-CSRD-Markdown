@@ -1,10 +1,17 @@
 ---
 aliases:
-- Tinderbox
+  - Tinderbox
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Tinderbox
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Tinderbox
 ---
 
 

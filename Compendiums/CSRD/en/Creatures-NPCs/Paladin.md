@@ -1,13 +1,17 @@
 ---
 aliases:
-- Paladin
+  - Paladin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/15
+title: Paladin
+collection: Creatures-NPCs
+kind: NPC
+id: Paladin
 ---
 
 

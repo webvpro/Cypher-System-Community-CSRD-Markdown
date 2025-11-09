@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Learned From the Classics"
+  - Learned From the Classics
 tags:
-- Compendium/CSRD/en/Foci/Learned-From-the-Classics
-- Focus/Category/Fantasy/Modern
+  - Compendium/CSRD/en/Foci/Learned-From-the-Classics
+  - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
+title: Learned From the Classics
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Learned-From-the-Classics
 ---
 
 

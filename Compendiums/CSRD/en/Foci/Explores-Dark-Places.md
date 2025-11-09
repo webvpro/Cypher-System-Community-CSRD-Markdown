@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Explores Dark Places"
+  - Explores Dark Places
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+  - Content/Fantasy
+title: Explores Dark Places
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Explores-Dark-Places
 ---
 
 

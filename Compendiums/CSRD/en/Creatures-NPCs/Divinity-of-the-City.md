@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Divinity of the City"
+  - Divinity of the City
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Divinity-of-the-City
-- Creature/Modern-Magic
-- Creature/Level/8
-- Creature/Armor/4
-- Creature/Health/75
+  - Compendium/CSRD/en/Creatures-NPCs/Divinity-of-the-City
+  - Creature/Modern-Magic
+  - Creature/Level/8
+  - Creature/Armor/4
+  - Creature/Health/75
+title: Divinity of the City
+collection: Creatures-NPCs
+kind: Creature
+id: Divinity-of-the-City
 ---
 
 

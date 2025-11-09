@@ -1,10 +1,15 @@
 ---
 aliases:
-- Ring of Dragon's Flight
+  - Ring of Dragon's Flight
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ring of Dragon's Flight
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Ring-of-Dragon's-Flight
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Zombie Hulk
+  - Zombie Hulk
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/23
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/23
+title: Zombie Hulk
+collection: Creatures-NPCs
+kind: Creature
+id: Zombie-Hulk
 ---
 
 

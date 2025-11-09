@@ -1,10 +1,14 @@
 ---
 aliases:
-- Matter Transference Ray
+  - Matter Transference Ray
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Matter Transference Ray
+collection: Cyphers
+kind: Cypher
+id: Matter-Transference-Ray
 ---
 
 

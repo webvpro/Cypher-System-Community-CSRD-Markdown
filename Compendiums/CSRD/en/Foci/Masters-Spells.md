@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Masters Spells"
+  - Masters Spells
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+  - Content/Fantasy
+title: Masters Spells
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Masters-Spells
 ---
 
 

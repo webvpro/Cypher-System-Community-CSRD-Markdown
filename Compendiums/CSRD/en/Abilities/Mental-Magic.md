@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Mental Magic"
+  - Mental Magic
 tags:
-- Compendium/CSRD/en/Abilities/Mental-Magic
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Mental-Magic
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: Mental Magic
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: High
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Mental-Magic
 ---
 
 

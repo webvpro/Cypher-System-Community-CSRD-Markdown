@@ -1,9 +1,14 @@
 ---
 aliases:
-- Repay a Debt"
+  - Repay a Debt"
 tags:
-- Compendium/CSRD/en/Character-Arcs/Repay-a-Debt
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Repay-a-Debt
+  - Character-Arc
+title: Repay a Debt"
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Repay-a-Debt
 ---
 ## Repay a Debt
 >You owe someone something, and it’s time to make good.

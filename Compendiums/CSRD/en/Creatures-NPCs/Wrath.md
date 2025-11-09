@@ -1,13 +1,17 @@
 ---
 aliases:
-- Wrath
+  - Wrath
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super-Villain
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/36
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super-Villain
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/36
+title: Wrath
+collection: Creatures-NPCs
+kind: Super-Villain
+id: Wrath
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Banishing
+  - Banishing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Banishing
+collection: Cyphers
+kind: Cypher
+id: Banishing
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Shipboots"
+  - Shipboots
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: Shipboots
+collection: Equipment
+kind: Equipment
+id: Shipboots
 ---
 
 

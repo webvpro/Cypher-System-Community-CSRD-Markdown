@@ -1,13 +1,17 @@
 ---
 aliases:
-- Grainne, the Wayward Daughter
+  - 'Grainne, the Wayward Daughter'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/99
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/99
+title: 'Grainne, the Wayward Daughter'
+collection: Creatures-NPCs
+kind: Creature
+id: 'Grainne,-the-Wayward-Daughter'
 ---
 
 

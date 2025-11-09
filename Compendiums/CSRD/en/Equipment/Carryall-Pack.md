@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Carryall Pack"
+  - Carryall Pack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: Carryall Pack
+collection: Equipment
+kind: Equipment
+id: Carryall-Pack
 ---
 
 

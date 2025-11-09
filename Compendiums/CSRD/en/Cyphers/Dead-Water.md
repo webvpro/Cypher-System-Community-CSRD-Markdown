@@ -1,10 +1,17 @@
 ---
 aliases:
-- Dead Water
+  - Dead Water
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dead Water
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dead-Water
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Retaliation
+  - Retaliation
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Retaliation
+collection: Cyphers
+kind: Cypher
+id: Retaliation
 ---
 
 

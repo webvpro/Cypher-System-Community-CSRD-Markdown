@@ -1,13 +1,17 @@
 ---
 aliases:
-- Elf
+  - Elf
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Elf
+collection: Creatures-NPCs
+kind: NPC
+id: Elf
 ---
 
 

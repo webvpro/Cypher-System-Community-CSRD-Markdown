@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Mech, Interceptor"
+  - 'Mech, Interceptor'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Mechs-and-Tanks
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Mechs-and-Tanks
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Exorbitant
+title: 'Mech, Interceptor'
+collection: Equipment
+kind: Equipment
+id: Mech-Interceptor
 ---
 
 

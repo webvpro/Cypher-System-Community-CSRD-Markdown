@@ -1,9 +1,13 @@
 ---
 aliases:
-- Stealth Flavor
+  - Stealth Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Stealth-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Stealth-Flavor
+title: Stealth Flavor
+collection: Flavors
+kind: Flavor
+id: Stealth-Flavor
 ---
 
 

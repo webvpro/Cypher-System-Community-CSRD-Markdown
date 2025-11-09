@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Ghost"
+  - Ghost
 tags:
-- Compendiums/CSRD/en/Descriptors/Ghost
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Ghost
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Ghost
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Ghost
 ---
 
 ## Ghost

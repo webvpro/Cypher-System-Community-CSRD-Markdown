@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Witch Wand Level"
+  - Witch Wand Level
 tags:
-- Compendium/CSRD/en/Artifacts/Witch-Wand-Level
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Witch-Wand-Level
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Witch Wand Level
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Witch-Wand-Level
 ---
 
 

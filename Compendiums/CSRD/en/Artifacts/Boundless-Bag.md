@@ -1,10 +1,17 @@
 ---
 aliases:
-- Boundless Bag
+  - Boundless Bag
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Boundless Bag
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Boundless-Bag
 ---
 
 

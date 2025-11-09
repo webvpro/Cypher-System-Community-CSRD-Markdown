@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Chimera"
+  - Chimera
 tags:
-- Compendiums/CSRD/en/Descriptors/Chimera
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Chimera
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Chimera
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Chimera
 ---
 
 ## Chimera

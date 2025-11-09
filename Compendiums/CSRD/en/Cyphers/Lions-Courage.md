@@ -1,10 +1,17 @@
 ---
 aliases:
-- Lion's Courage
+  - Lion's Courage
 tags:
-- Compendium/CSRD/en/Cyphers/Lions-Courage
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Lions-Courage
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Lion's Courage
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Lions-Courage
 ---
 
 

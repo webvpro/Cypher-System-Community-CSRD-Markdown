@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Soars on Amazing Wings"
+  - Soars on Amazing Wings
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Soars on Amazing Wings
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Soars-on-Amazing-Wings
 ---
 
 

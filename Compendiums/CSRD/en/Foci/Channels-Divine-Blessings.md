@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Channels Divine Blessings"
+  - Channels Divine Blessings
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+  - Content/Fantasy
+title: Channels Divine Blessings
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Channels-Divine-Blessings
 ---
 
 

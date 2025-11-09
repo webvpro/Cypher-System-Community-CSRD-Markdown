@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Wash Car Cantrip"
+  - Wash Car Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Wash-Car-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Wash-Car-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Wash Car Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Wash-Car-Cantrip
 ---
 
 ## Wash Car Cantrip  (1 Intellect point)

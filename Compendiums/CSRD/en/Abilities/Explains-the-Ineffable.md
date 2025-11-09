@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Explains the Ineffable"
+  - Explains the Ineffable
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: Explains the Ineffable
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Task
+id: Explains-the-Ineffable
 ---
 
 

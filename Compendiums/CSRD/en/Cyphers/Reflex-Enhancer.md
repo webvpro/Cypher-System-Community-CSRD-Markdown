@@ -1,10 +1,14 @@
 ---
 aliases:
-- Reflex Enhancer
+  - Reflex Enhancer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Reflex Enhancer
+collection: Cyphers
+kind: Cypher
+id: Reflex-Enhancer
 ---
 
 

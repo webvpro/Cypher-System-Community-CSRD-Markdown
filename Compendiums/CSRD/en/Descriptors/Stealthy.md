@@ -1,9 +1,13 @@
 ---
 aliases:
-- Stealthy
+  - Stealthy
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Stealthy
+collection: Descriptors
+kind: Descriptor
+id: Stealthy
 ---
 
 ## Stealthy

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Force Cube
+  - Force Cube
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Force Cube
+collection: Cyphers
+kind: Cypher
+id: Force-Cube
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Ai Zombie
+  - Ai Zombie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Ai Zombie
+collection: Creatures-NPCs
+kind: Creature
+id: Ai-Zombie
 ---
 
 

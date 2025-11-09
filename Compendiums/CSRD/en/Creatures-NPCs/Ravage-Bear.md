@@ -1,13 +1,17 @@
 ---
 aliases:
-- Ravage Bear
+  - Ravage Bear
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/20
+title: Ravage Bear
+collection: Creatures-NPCs
+kind: Creature
+id: Ravage-Bear
 ---
 
 

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Heavy Cloth"
+  - Heavy Cloth
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/3-Gp
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/3-Gp
+title: Heavy Cloth
+collection: Equipment
+kind: Equipment
+id: Heavy-Cloth
 ---
 
 

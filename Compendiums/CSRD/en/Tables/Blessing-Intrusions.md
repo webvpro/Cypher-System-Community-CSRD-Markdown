@@ -1,9 +1,13 @@
 ---
 aliases:
-- Blessing Intrusions
+  - Blessing Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Blessing-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Blessing-Intrusions
+title: Blessing Intrusions
+collection: Tables
+kind: Table
+id: Blessing-Intrusions
 ---
 
 ## Blessing Intrusions Table

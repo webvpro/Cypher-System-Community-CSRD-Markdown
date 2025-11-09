@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Share Defense"
+  - Share Defense
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Support
+title: Share Defense
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Support
+id: Share-Defense
 ---
 
 

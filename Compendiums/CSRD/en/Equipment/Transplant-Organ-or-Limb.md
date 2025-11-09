@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Transplant, Organ or Limb"
+  - 'Transplant, Organ or Limb'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: 'Transplant, Organ or Limb'
+collection: Equipment
+kind: Equipment
+id: Transplant-Organ-or-Limb
 ---
 
 

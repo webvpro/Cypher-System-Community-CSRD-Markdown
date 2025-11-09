@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hard-Light Jet"
+  - Hard-Light Jet
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Exorbitant
+title: Hard-Light Jet
+collection: Equipment
+kind: Equipment
+id: Hard-Light-Jet
 ---
 
 

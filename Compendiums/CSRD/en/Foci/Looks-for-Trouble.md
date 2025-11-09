@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Looks for Trouble"
+  - Looks for Trouble
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Looks for Trouble
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Looks-for-Trouble
 ---
 
 

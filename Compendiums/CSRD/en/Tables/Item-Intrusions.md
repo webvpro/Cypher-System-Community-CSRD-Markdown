@@ -1,9 +1,13 @@
 ---
 aliases:
-- Item Intrusions
+  - Item Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Item-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Item-Intrusions
+title: Item Intrusions
+collection: Tables
+kind: Table
+id: Item-Intrusions
 ---
 
 ## Item Intrusions Table

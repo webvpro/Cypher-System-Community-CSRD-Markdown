@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Background Music"
+  - Background Music
 tags:
-- Compendium/CSRD/en/Abilities/Background-Music
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Background-Music
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Background Music
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '1'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Background-Music
 ---
 
 

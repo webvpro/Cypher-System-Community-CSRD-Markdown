@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Gambler"
+  - Gambler
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+  - Content/Weird-West
+title: Gambler
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Meta
+  - Weird-West
+id: Gambler
 ---
 
 

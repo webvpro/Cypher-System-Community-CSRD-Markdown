@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Space Capsule"
+  - Space Capsule
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Spacecraft
-- Equipment/Level/1
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Spacecraft
+  - Equipment/Level/1
+  - Equipment/Value/Priceless
+title: Space Capsule
+collection: Equipment
+kind: Equipment
+id: Space-Capsule
 ---
 
 

@@ -1,13 +1,22 @@
 ---
 aliases:
-- Witch
+  - Witch
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/21
+  - Content/Fairytale
+  - Content/Horror
+title: Witch
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+  - Horror
+id: Witch
 ---
 
 

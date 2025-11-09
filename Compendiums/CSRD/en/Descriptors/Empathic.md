@@ -1,9 +1,13 @@
 ---
 aliases:
-- Empathic
+  - Empathic
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Empathic
+collection: Descriptors
+kind: Descriptor
+id: Empathic
 ---
 
 ## Empathic

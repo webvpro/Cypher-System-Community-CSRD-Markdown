@@ -1,11 +1,14 @@
 ---
 aliases:
-  - "Creating your Character"
-  - "Creating your Character in Cypher System"
+  - Creating your Character
+  - Creating your Character in Cypher System
 tags:
   - Compendium/CSRD/en/Rules/Character-Creation
   - Create/Character
-  -
+title: Creating your Character
+collection: Rules
+kind: Create
+id: Creating-Characters
 ---
 
 # Creating Your Character

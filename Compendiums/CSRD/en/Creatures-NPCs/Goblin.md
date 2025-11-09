@@ -1,13 +1,20 @@
 ---
 aliases:
-- Goblin
+  - Goblin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/1
-- Creature/Armor/0
-- Creature/Health/3
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/1
+  - Creature/Armor/0
+  - Creature/Health/3
+  - Content/Fairytale
+title: Goblin
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Goblin
 ---
 
 

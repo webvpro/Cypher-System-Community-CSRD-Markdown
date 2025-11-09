@@ -1,26 +1,30 @@
 ---
 aliases:
-- "Bow"
+  - Bow
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/30-Gp
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/2
-- Equipment/Value/Moderate
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/30-Gp
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+title: Bow
+collection: Equipment
+kind: Equipment
+id: Bow
 ---
 
 

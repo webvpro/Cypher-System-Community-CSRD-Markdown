@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Internet D@emon"
+  - Internet D@emon
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Internet-D@emon
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs/Internet-D@emon
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/9
+title: Internet D@emon
+collection: Creatures-NPCs
+kind: Creature
+id: Internet-D@emon
 ---
 
 

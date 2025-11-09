@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Player Weapon System Options"
+  - Player Weapon System Options
 tags:
   - Compendiums/CSRD/en/Tables
   - Table/PC/Options/System/Weapon
+title: Player Weapon System Options
+collection: Tables
+kind: Table
+id: PC-Weapon-System-Options
 ---
 
 ## Player Weapon System Options

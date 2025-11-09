@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Gargantuan"
+  - Gargantuan
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Transform
+title: Gargantuan
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Transform
+id: Gargantuan
 ---
 
 

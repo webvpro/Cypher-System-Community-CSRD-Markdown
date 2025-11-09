@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Magical App Hacker"
+  - Magical App Hacker
 tags:
-- Compendium/CSRD/en/Abilities/Magical-App-Hacker
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/Magical-App-Hacker
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Magical App Hacker
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+id: Magical-App-Hacker
 ---
 
 

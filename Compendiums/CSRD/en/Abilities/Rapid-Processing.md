@@ -1,16 +1,30 @@
 ---
 aliases:
-- "Rapid Processing"
+  - Rapid Processing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
-- Ability/Categories/Protection
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+  - Ability/Categories/Protection
+  - Ability/Categories/Task
+title: Rapid Processing
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Meta
+  - Protection
+  - Task
+id: Rapid-Processing
 ---
 
 

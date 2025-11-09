@@ -1,10 +1,14 @@
 ---
 aliases:
-- Gas Bomb
+  - Gas Bomb
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Gas Bomb
+collection: Cyphers
+kind: Cypher
+id: Gas-Bomb
 ---
 
 

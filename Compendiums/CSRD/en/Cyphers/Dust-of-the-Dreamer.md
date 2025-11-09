@@ -1,10 +1,17 @@
 ---
 aliases:
-- Dust of the Dreamer
+  - Dust of the Dreamer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dust of the Dreamer
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dust-of-the-Dreamer
 ---
 
 

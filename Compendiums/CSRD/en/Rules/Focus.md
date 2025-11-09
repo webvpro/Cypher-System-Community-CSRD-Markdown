@@ -1,10 +1,16 @@
 ---
-aliases: [Focus, Focus in Cypher]
+aliases:
+  - Focus
+  - Focus in Cypher
 tags:
-- Compendium/CSRD/en/Rules/Focus
-- Rule/Foci/Choosing
-- Rule/Foci/Connections
-- Rule/Foci/Connections
+  - Compendium/CSRD/en/Rules/Focus
+  - Rule/Foci/Choosing
+  - Rule/Foci/Connections
+  - Rule/Foci/Connections
+title: Focus
+collection: Rules
+kind: Rule
+id: Focus
 ---
 
 # Focus

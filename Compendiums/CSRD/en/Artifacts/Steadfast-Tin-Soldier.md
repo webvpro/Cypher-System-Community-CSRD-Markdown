@@ -1,10 +1,17 @@
 ---
 aliases:
-- Steadfast Tin Soldier
+  - Steadfast Tin Soldier
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Steadfast Tin Soldier
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Steadfast-Tin-Soldier
 ---
 
 

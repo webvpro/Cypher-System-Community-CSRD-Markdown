@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Exists Partially Out of Phase"
+  - Exists Partially Out of Phase
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+title: Exists Partially Out of Phase
+collection: Foci
+kind: Focus
+id: Exists-Partially-Out-of-Phase
 ---
 
 

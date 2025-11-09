@@ -1,13 +1,17 @@
 ---
 aliases:
-- Wizard, Mighty
+  - 'Wizard, Mighty'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/8
-- Creature/Armor/0
-- Creature/Health/40
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/8
+  - Creature/Armor/0
+  - Creature/Health/40
+title: 'Wizard, Mighty'
+collection: Creatures-NPCs
+kind: NPC
+id: 'Wizard,-Mighty'
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Minotaur
+  - Minotaur
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/19
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/19
+  - Content/Fairytale
+title: Minotaur
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Minotaur
 ---
 
 

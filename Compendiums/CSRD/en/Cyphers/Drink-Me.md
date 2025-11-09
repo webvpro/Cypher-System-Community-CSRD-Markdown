@@ -1,10 +1,17 @@
 ---
 aliases:
-- Drink Me
+  - Drink Me
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Drink Me
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Drink-Me
 ---
 
 

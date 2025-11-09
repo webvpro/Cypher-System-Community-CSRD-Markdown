@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Heavy Crossbow"
+  - Heavy Crossbow
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/50-Gp
-- Equipment/Weapon/Heavy
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Value/50-Gp
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Long
+title: Heavy Crossbow
+collection: Equipment
+kind: Equipment
+id: Heavy-Crossbow
 ---
 
 

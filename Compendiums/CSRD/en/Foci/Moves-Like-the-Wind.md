@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Moves Like the Wind"
+  - Moves Like the Wind
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+  - Content/Fantasy
+title: Moves Like the Wind
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Moves-Like-the-Wind
 ---
 
 

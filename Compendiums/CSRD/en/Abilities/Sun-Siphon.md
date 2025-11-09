@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Sun Siphon"
+  - Sun Siphon
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
+title: Sun Siphon
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Special-Attack
+id: Sun-Siphon
 ---
 
 

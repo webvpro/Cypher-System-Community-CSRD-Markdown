@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Speed Readers"
+  - Speed Readers
 tags:
-- Compendium/CSRD/en/Artifacts/Speed-Readers
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Speed-Readers
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Speed Readers
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Speed-Readers
 ---
 
 

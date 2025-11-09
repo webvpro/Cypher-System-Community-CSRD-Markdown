@@ -1,10 +1,14 @@
 ---
 aliases:
-- Farsight
+  - Farsight
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Farsight
+collection: Cyphers
+kind: Cypher
+id: Farsight
 ---
 
 

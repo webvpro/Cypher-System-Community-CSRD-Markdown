@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Sees Beyond"
+  - Sees Beyond
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+  - Content/Fantasy
+title: Sees Beyond
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Sees-Beyond
 ---
 
 

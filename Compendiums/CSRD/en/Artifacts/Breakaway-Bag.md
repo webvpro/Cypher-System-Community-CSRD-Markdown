@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Breakaway Bag"
+  - Breakaway Bag
 tags:
-- Compendium/CSRD/en/Artifacts/Breakaway-Bag
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Breakaway-Bag
+  - Artifact/Modern-Fantasy
+title: Breakaway Bag
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Breakaway-Bag
 ---
 
 

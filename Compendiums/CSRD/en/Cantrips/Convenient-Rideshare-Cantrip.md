@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Convenient Rideshare Cantrip "
+  - 'Convenient Rideshare Cantrip '
 tags:
-- Compendium/CSRD/en/Cantrips/Convenient-Rideshare-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Convenient-Rideshare-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: 'Convenient Rideshare Cantrip '
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Convenient-Rideshare-Cantrip
 ---
 
 ## Convenient Rideshare Cantrip  (1 Intellect point)

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Poppet Prosperity
+  - Poppet Prosperity
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Poppet Prosperity
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Poppet-Prosperity
 ---
 
 

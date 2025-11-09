@@ -1,10 +1,17 @@
 ---
 aliases:
-- Silver Slippers
+  - Silver Slippers
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Silver Slippers
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Silver-Slippers
 ---
 
 

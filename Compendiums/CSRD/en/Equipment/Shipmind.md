@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Shipmind"
+  - Shipmind
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Exorbitant-X2
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Exorbitant-X2
+title: Shipmind
+collection: Equipment
+kind: Equipment
+id: Shipmind
 ---
 
 

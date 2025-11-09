@@ -1,10 +1,14 @@
 ---
 aliases:
-- Poison Emotion
+  - Poison Emotion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Poison Emotion
+collection: Cyphers
+kind: Cypher
+id: Poison-Emotion
 ---
 
 

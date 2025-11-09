@@ -1,10 +1,14 @@
 ---
 aliases:
-- Comprehension
+  - Comprehension
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Comprehension
+collection: Cyphers
+kind: Cypher
+id: Comprehension
 ---
 
 

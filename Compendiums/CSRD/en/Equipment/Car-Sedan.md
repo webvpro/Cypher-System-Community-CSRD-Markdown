@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Car, Sedan"
+  - 'Car, Sedan'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/4
-- Equipment/Value/Expensive
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+  - Equipment/Value/Very-Expensive
+title: 'Car, Sedan'
+collection: Equipment
+kind: Equipment
+id: Car-Sedan
 ---
 
 

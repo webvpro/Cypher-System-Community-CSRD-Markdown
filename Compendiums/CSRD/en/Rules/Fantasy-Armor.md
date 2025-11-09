@@ -1,11 +1,15 @@
 ---
 aliases:
-  - "Fantasy Armor"
-  - "Fantasy Armor Descriptions"
+  - Fantasy Armor
+  - Fantasy Armor Descriptions
 tags:
   - Compendium/CSRD/en/Rules/Fantasy-Armor
   - Rule/Optional/Fantasy
   - Rule/Armor
+title: Fantasy Armor
+collection: Rules
+kind: Rule
+id: Fantasy-Armor
 ---
 
 ## Fantasy Armor

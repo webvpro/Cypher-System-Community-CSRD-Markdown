@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Separates Mind From Body"
+  - Separates Mind From Body
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+  - Content/Fantasy
+title: Separates Mind From Body
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Separates-Mind-From-Body
 ---
 
 

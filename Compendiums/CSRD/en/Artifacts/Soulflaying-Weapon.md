@@ -1,10 +1,15 @@
 ---
 aliases:
-- Soulflaying Weapon
+  - Soulflaying Weapon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Soulflaying Weapon
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Soulflaying-Weapon
 ---
 
 

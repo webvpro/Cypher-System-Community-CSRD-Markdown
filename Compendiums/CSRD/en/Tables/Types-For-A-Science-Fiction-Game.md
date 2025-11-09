@@ -1,6 +1,8 @@
 ---
 aliases:
-- "Suggested Types For A Science Fiction Game"
+  - Suggested Types For A Science Fiction Game
+title: Suggested Types For A Science Fiction Game
+id: Types-For-A-Science-Fiction-Game
 ---
 ## Suggested Types For A Science Fiction Game
 

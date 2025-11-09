@@ -1,9 +1,13 @@
 ---
 aliases:
-- Foolish
+  - Foolish
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Foolish
+collection: Descriptors
+kind: Descriptor
+id: Foolish
 ---
 
 ## Foolish

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Gilded Shell
+  - Gilded Shell
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Gilded Shell
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Gilded-Shell
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Turns Decay to Growth"
+  - Turns Decay to Growth
 tags:
-- Compendium/CSRD/en/Foci/Turns-Decay-to-Growth
-- Focus/Category/Fantasy/Modern
+  - Compendium/CSRD/en/Foci/Turns-Decay-to-Growth
+  - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
+title: Turns Decay to Growth
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Turns-Decay-to-Growth
 ---
 
 

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Rocket-Propelled Grenade
+  - Rocket-Propelled Grenade
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Rocket-Propelled Grenade
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Rocket-Propelled-Grenade
 ---
 
 

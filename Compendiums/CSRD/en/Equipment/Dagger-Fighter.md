@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Dagger Fighter"
+  - Dagger Fighter
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/1
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/1
+  - Equipment/Value/Very-Expensive
+title: Dagger Fighter
+collection: Equipment
+kind: Equipment
+id: Dagger-Fighter
 ---
 
 

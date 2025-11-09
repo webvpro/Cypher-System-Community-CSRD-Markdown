@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Extra Fries Cantrip"
+  - Extra Fries Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Extra-Fries-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Extra-Fries-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Extra Fries Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Extra-Fries-Cantrip
 ---
 
 ## Extra Fries Cantrip  (1 Intellect point)

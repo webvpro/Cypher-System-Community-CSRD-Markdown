@@ -1,13 +1,20 @@
 ---
 aliases:
-- Fallen Angel
+  - Fallen Angel
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/25
+  - Content/Fairytale
+title: Fallen Angel
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Fallen-Angel
 ---
 
 

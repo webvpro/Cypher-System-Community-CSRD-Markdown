@@ -1,10 +1,14 @@
 ---
 aliases:
-- Mental Scrambler
+  - Mental Scrambler
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Mental Scrambler
+collection: Cyphers
+kind: Cypher
+id: Mental-Scrambler
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Spells Have No Speed Limit "
+  - 'Spells Have No Speed Limit '
 tags:
-- Compendium/CSRD/en/Abilities/Deer-in-the-Headlights
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Deer-in-the-Headlights
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: 'Spells Have No Speed Limit '
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: High
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Spells-Have-No-Speed-Limit
 ---
 
 

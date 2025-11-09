@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Restraint"
+  - Restraint
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Moderate
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+  - Equipment/Value/Expensive
+title: Restraint
+collection: Equipment
+kind: Equipment
+id: Restraint
 ---
 
 

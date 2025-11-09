@@ -1,13 +1,20 @@
 ---
 aliases:
-- Killing White Light
+  - Killing White Light
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+  - Content/Horror
+title: Killing White Light
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Killing-White-Light
 ---
 
 

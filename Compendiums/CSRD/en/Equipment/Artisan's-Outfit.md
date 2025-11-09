@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Artisan's Outfit"
+  - Artisan's Outfit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/2-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/2-Gp
+title: Artisan's Outfit
+collection: Equipment
+kind: Equipment
+id: Artisan's-Outfit
 ---
 
 

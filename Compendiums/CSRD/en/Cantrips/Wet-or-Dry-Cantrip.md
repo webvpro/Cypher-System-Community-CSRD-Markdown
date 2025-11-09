@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Wet or Dry Cantrip"
+  - Wet or Dry Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Wet-or-Dry-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Wet-or-Dry-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Wet or Dry Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Wet-or-Dry-Cantrip
 ---
 
 ## Wet or Dry Cantrip  (1 Intellect point)

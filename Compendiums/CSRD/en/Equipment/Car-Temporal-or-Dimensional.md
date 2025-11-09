@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Car, Temporal or Dimensional"
+  - 'Car, Temporal or Dimensional'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Space-Time-Vehicles
-- Equipment/Level/7
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Space-Time-Vehicles
+  - Equipment/Level/7
+  - Equipment/Value/Priceless
+title: 'Car, Temporal or Dimensional'
+collection: Equipment
+kind: Equipment
+id: Car-Temporal-or-Dimensional
 ---
 
 

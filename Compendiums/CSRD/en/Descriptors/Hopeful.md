@@ -1,9 +1,13 @@
 ---
 aliases:
-- Hopeful
+  - Hopeful
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Hopeful
+collection: Descriptors
+kind: Descriptor
+id: Hopeful
 ---
 
 ## Hopeful

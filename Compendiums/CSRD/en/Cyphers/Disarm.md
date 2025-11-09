@@ -1,10 +1,14 @@
 ---
 aliases:
-- Disarm
+  - Disarm
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Disarm
+collection: Cyphers
+kind: Cypher
+id: Disarm
 ---
 
 

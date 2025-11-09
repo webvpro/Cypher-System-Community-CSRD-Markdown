@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Scale"
+  - Scale
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/50-Gp
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/50-Gp
+title: Scale
+collection: Equipment
+kind: Equipment
+id: Scale
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Frozen Timepiece"
+  - Frozen Timepiece
 tags:
-- Compendium/CSRD/en/Cyphers/Frozen-Timepiece
-- Cypher
-- Cypher/Magical-Technology
+  - Compendium/CSRD/en/Cyphers/Frozen-Timepiece
+  - Cypher
+  - Cypher/Magical-Technology
+title: Frozen Timepiece
+collection: Cyphers
+kind: Cypher
+id: Frozen-Timepiece
 ---
 
 ## Frozen Timepiece

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Descends From Nobility"
+  - Descends From Nobility
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+  - Content/Fantasy
+title: Descends From Nobility
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Descends-From-Nobility
 ---
 
 

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Nanorifle
+  - Nanorifle
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Nanorifle
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Nanorifle
 ---
 
 

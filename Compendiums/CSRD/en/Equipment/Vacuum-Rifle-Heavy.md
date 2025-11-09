@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Vacuum Rifle, Assault"
+  - 'Vacuum Rifle, Assault'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Long
+title: 'Vacuum Rifle, Assault'
+collection: Equipment
+kind: Equipment
+id: Vacuum-Rifle-Heavy
 ---
 
 

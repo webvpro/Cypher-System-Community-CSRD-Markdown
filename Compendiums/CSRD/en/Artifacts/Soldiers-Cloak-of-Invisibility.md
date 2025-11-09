@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Soldier's Cloak of Invisibility"
+  - Soldier's Cloak of Invisibility
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Soldier's Cloak of Invisibility
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Soldiers-Cloak-of-Invisibility
 ---
 
 

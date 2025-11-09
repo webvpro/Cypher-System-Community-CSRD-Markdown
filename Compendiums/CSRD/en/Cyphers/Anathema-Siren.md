@@ -1,9 +1,16 @@
 ---
 aliases:
-- Anathema Siren
+  - Anathema Siren
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Anathema Siren
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Anathema-Siren
 ---
 
 

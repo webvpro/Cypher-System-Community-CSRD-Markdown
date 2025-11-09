@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Power Fist"
+  - Power Fist
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Medium
+title: Power Fist
+collection: Equipment
+kind: Equipment
+id: Power-Fist
 ---
 
 

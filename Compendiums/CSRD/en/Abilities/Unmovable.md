@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Unmovable"
+  - Unmovable
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Cure
+title: Unmovable
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: Mid
+pools:
+  - Might
+categories:
+  - Cure
+id: Unmovable
 ---
 
 

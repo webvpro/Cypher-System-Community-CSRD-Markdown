@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Builds Robots"
+  - Builds Robots
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+title: Builds Robots
+collection: Foci
+kind: Focus
+id: Builds-Robots
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Technology Flavor
+  - Technology Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Technology-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Technology-Flavor
+title: Technology Flavor
+collection: Flavors
+kind: Flavor
+id: Technology-Flavor
 ---
 
 

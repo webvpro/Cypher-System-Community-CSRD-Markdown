@@ -1,10 +1,17 @@
 ---
 aliases:
-- Death's Messengers
+  - Death's Messengers
 tags:
-- Compendium/CSRD/en/Cyphers/Deaths-Messengers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Deaths-Messengers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Death's Messengers
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Deaths-Messengers
 ---
 
 

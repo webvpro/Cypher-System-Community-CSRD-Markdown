@@ -1,10 +1,15 @@
 ---
 aliases:
-- Falcon Cloak
+  - Falcon Cloak
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Falcon Cloak
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Falcon-Cloak
 ---
 
 

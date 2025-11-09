@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Forbidden Topic Cantrip"
+  - Forbidden Topic Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Forbidden-Topic-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Forbidden-Topic-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Forbidden Topic Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Forbidden-Topic-Cantrip
 ---
 
 ## Forbidden Topic Cantrip (1 Intellect point)

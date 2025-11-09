@@ -1,9 +1,13 @@
 ---
 aliases:
-- Intuitive
+  - Intuitive
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Intuitive
+collection: Descriptors
+kind: Descriptor
+id: Intuitive
 ---
 
 ## Intuitive

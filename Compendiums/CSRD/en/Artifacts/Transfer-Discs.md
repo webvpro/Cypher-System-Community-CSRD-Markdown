@@ -1,10 +1,15 @@
 ---
 aliases:
-- Transfer Discs
+  - Transfer Discs
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Transfer Discs
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Transfer-Discs
 ---
 
 

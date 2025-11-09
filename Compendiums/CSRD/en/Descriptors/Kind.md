@@ -1,9 +1,13 @@
 ---
 aliases:
-- Kind
+  - Kind
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Kind
+collection: Descriptors
+kind: Descriptor
+id: Kind
 ---
 
 ## Kind

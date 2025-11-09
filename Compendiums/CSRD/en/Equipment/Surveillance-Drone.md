@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Surveillance Drone"
+  - Surveillance Drone
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Robots-And-Ai
-- Equipment/Level/3
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Robots-And-Ai
+  - Equipment/Level/3
+  - Equipment/Value/Exorbitant
+title: Surveillance Drone
+collection: Equipment
+kind: Equipment
+id: Surveillance-Drone
 ---
 
 

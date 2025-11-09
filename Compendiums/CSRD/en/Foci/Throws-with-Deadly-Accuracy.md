@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Throws with Deadly Accuracy"
+  - Throws with Deadly Accuracy
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Throws with Deadly Accuracy
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Throws-with-Deadly-Accuracy
 ---
 
 

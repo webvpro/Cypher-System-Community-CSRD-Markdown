@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Sailed Beneath the Jolly Roger"
+  - Sailed Beneath the Jolly Roger
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Sailed Beneath the Jolly Roger
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Sailed-Beneath-the-Jolly-Roger
 ---
 
 

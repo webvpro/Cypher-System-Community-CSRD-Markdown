@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Shrinks to Minute Size"
+  - Shrinks to Minute Size
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Shrinks to Minute Size
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Shrinks-to-Minute-Size
 ---
 
 

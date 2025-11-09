@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Club"
+  - Club
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Sp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Sp
+  - Equipment/Weapon/Medium
+title: Club
+collection: Equipment
+kind: Equipment
+id: Club
 ---
 
 

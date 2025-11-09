@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Magical Repertoire"
+  - Magical Repertoire
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Fantasy
+title: Magical Repertoire
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Fantasy
+id: Magical-Repertoire
 ---
 
 

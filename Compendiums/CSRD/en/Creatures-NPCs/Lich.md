@@ -1,13 +1,17 @@
 ---
 aliases:
-- Lich
+  - Lich
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/1
-- Creature/Health/45
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/1
+  - Creature/Health/45
+title: Lich
+collection: Creatures-NPCs
+kind: Creature
+id: Lich
 ---
 
 

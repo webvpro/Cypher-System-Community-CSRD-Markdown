@@ -1,9 +1,13 @@
 ---
 aliases:
-- Intelligent
+  - Intelligent
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Intelligent
+collection: Descriptors
+kind: Descriptor
+id: Intelligent
 ---
 
 ## Intelligent

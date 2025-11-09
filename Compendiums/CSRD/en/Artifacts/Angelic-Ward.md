@@ -1,10 +1,15 @@
 ---
 aliases:
-- Angelic Ward
+  - Angelic Ward
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Angelic Ward
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Angelic-Ward
 ---
 
 

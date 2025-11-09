@@ -1,13 +1,17 @@
 ---
 aliases:
-- Giant Snake
+  - Giant Snake
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/18
+title: Giant Snake
+collection: Creatures-NPCs
+kind: Creature
+id: Giant-Snake
 ---
 
 

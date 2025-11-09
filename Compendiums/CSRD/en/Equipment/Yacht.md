@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Yacht"
+  - Yacht
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Exorbitant
+title: Yacht
+collection: Equipment
+kind: Equipment
+id: Yacht
 ---
 
 

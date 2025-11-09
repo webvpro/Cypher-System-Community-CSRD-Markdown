@@ -1,9 +1,16 @@
 ---
 aliases:
-- Wolfsbane Potion
+  - Wolfsbane Potion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Wolfsbane Potion
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Wolfsbane-Potion
 ---
 
 

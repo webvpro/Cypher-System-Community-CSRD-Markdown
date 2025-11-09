@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Spacecraft, Dreadnought"
+  - 'Spacecraft, Dreadnought'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/5
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/5
+  - Equipment/Value/Priceless
+title: 'Spacecraft, Dreadnought'
+collection: Equipment
+kind: Equipment
+id: Spacecraft-Dreadnought
 ---
 
 

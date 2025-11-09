@@ -1,13 +1,19 @@
 ---
 aliases:
-- Virgilius the Sorcerer
+  - Virgilius the Sorcerer
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Content/Fairytale
+title: Virgilius the Sorcerer
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Virgilius-the-Sorcerer
 ---
 
 

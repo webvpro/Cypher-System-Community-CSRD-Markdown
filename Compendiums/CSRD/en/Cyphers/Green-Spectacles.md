@@ -1,10 +1,17 @@
 ---
 aliases:
-- Green Spectacles
+  - Green Spectacles
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Green Spectacles
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Green-Spectacles
 ---
 
 

@@ -1,13 +1,19 @@
 ---
 aliases:
-- "Oz, the Great and Terrible"
+  - 'Oz, the Great and Terrible'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Content/Fairytale
+title: 'Oz, the Great and Terrible'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Oz-the-Great-and-Terrible
 ---
 
 

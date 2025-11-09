@@ -1,13 +1,20 @@
 ---
 aliases:
-- Djinni
+  - Djinni
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/35
+  - Content/Fairytale
+title: Djinni
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Djinni
 ---
 
 

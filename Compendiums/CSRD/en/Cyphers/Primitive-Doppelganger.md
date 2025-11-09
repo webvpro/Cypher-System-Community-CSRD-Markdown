@@ -1,9 +1,16 @@
 ---
 aliases:
-- Primitive Doppelganger
+  - Primitive Doppelganger
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Primitive Doppelganger
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Primitive-Doppelganger
 ---
 
 

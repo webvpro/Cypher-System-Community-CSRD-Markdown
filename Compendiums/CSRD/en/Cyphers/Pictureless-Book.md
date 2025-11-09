@@ -1,10 +1,17 @@
 ---
 aliases:
-- Pictureless Book
+  - Pictureless Book
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Pictureless Book
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Pictureless-Book
 ---
 
 

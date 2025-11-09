@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Computer Laptop"
+  - Computer Laptop
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Communication
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Communication
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: Computer Laptop
+collection: Equipment
+kind: Equipment
+id: Computer-Laptop
 ---
 
 

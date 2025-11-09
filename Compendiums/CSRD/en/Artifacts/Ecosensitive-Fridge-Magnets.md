@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Ecosensitive Fridge Magnets"
+  - Ecosensitive Fridge Magnets
 tags:
-- Compendium/CSRD/en/Artifacts/Ecosensitive-Fridge-Magnets
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Ecosensitive-Fridge-Magnets
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Ecosensitive Fridge Magnets
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Ecosensitive-Fridge-Magnets
 ---
 
 

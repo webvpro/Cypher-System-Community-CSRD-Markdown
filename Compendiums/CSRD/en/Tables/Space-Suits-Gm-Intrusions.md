@@ -1,9 +1,13 @@
 ---
 aliases:
-- Space Suits Gm Intrusions
+  - Space Suits Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Space-Suits-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Space-Suits-Gm-Intrusions
+title: Space Suits Gm Intrusions
+collection: Tables
+kind: Table
+id: Space-Suits-Gm-Intrusions
 ---
 
 ## Space Suits Gm Intrusions Table

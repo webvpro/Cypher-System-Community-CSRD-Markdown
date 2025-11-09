@@ -1,13 +1,20 @@
 ---
 aliases:
-- Erlking
+  - Erlking
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/4
-- Creature/Health/27
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/4
+  - Creature/Health/27
+  - Content/Fairytale
+title: Erlking
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Erlking
 ---
 
 

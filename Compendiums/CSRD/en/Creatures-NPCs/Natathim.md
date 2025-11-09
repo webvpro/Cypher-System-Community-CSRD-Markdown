@@ -1,13 +1,17 @@
 ---
 aliases:
-- Natathim
+  - Natathim
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/2
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/2
+  - Creature/Health/9
+title: Natathim
+collection: Creatures-NPCs
+kind: Creature
+id: Natathim
 ---
 
 

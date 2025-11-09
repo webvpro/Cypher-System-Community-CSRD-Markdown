@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Wizard's Outfit"
+  - Wizard's Outfit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Gp
+title: Wizard's Outfit
+collection: Equipment
+kind: Equipment
+id: Wizard's-Outfit
 ---
 
 

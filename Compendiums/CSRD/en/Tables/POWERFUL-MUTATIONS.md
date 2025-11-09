@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Powerful Mutations"
+  - Powerful Mutations
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Cypher/Powerful-Mutations
-rollTable: true
-die: 100
+  - Compendiums/CSRD/en/Tables
+  - Table/Cypher/Powerful-Mutations
+title: Powerful Mutations
+collection: Tables
+kind: Table
+id: POWERFUL-MUTATIONS
 ---
 The following mutations do not require any visible changes in the character until used. People who have these mutations are not obviously recognized as mutants if they don’t use their powers. Using some of these mutations costs stat Pool points. Some are actions.
 

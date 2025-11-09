@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Double Strike"
+  - Double Strike
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Meta
+title: Double Strike
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Low
+pools:
+  - Might
+categories:
+  - Meta
+id: Double-Strike
 ---
 
 

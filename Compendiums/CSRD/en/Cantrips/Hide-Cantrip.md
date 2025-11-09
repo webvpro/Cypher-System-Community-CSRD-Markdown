@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Hide Cantrip"
+  - Hide Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Hide-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Hide-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Hide Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Hide-Cantrip
 ---
 
 ## Hide Cantrip (1 Intellect point)

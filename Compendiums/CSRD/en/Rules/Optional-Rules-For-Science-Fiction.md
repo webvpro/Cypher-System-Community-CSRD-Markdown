@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Optional Rules For Science Fiction"
-- "Sci-Fi"
-- "Science Fiction"
+  - Optional Rules For Science Fiction
+  - Sci-Fi
+  - Science Fiction
 tags:
-- Compendium/CSRD/en/Rules/Optional/Science-Fiction
-- /Rules/Optional/Science-Fiction/Harder
-- - /Rules/Optional/Science-Fiction/Ftl
+  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
+  - /Rules/Optional/Science-Fiction/Harder
+  - /Rules/Optional/Science-Fiction/Ftl
+title: Optional Rules For Science Fiction
+collection: Rules
+kind: ''
+id: Optional-Rules-For-Science-Fiction
 ---
 
 ## Optional Rules For Science Fiction

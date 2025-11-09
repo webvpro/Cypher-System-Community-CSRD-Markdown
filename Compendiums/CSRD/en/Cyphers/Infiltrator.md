@@ -1,10 +1,14 @@
 ---
 aliases:
-- Infiltrator
+  - Infiltrator
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Infiltrator
+collection: Cyphers
+kind: Cypher
+id: Infiltrator
 ---
 
 

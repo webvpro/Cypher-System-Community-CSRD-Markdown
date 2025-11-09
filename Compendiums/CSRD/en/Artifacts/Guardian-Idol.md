@@ -1,10 +1,15 @@
 ---
 aliases:
-- Guardian Idol
+  - Guardian Idol
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Guardian Idol
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Guardian-Idol
 ---
 
 

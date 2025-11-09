@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Gift from the Fairy Queen"
+  - Gift from the Fairy Queen
 tags:
-- Compendium/CSRD/en/Artifacts/Gift-from-the-Fairy-Queen
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Gift-from-the-Fairy-Queen
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Gift from the Fairy Queen
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Gift-from-the-Fairy-Queen
 ---
 
 

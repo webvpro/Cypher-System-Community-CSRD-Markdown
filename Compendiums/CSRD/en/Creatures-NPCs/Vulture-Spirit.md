@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Vulture Spirit"
+  - Vulture Spirit
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Vulture-Spirit
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/10
+  - Compendium/CSRD/en/Creatures-NPCs/Vulture-Spirit
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/10
+title: Vulture Spirit
+collection: Creatures-NPCs
+kind: Creature
+id: Vulture-Spirit
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Frigid Wall
+  - Frigid Wall
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Frigid Wall
+collection: Cyphers
+kind: Cypher
+id: Frigid-Wall
 ---
 
 

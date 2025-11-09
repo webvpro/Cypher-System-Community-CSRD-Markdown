@@ -1,9 +1,13 @@
 ---
 aliases:
-- Clumsy
+  - Clumsy
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Clumsy
+collection: Descriptors
+kind: Descriptor
+id: Clumsy
 ---
 
 ## Clumsy

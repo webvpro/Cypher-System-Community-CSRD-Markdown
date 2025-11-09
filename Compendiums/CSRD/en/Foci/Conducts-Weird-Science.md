@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Conducts Weird Science"
+  - Conducts Weird Science
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Conducts Weird Science
+collection: Foci
+kind: Focus
+id: Conducts-Weird-Science
 ---
 
 

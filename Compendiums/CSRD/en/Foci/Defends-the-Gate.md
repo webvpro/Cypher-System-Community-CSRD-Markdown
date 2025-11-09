@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Defends the Gate"
+  - Defends the Gate
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Defends the Gate
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Defends-the-Gate
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Cold Resistance
+  - Cold Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Cold Resistance
+collection: Cyphers
+kind: Cypher
+id: Cold-Resistance
 ---
 
 

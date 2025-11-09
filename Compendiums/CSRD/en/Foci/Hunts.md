@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Hunts"
+  - Hunts
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Hunts
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Hunts
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Mad Scientist
+  - Mad Scientist
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/15
+  - Content/Horror
+title: Mad Scientist
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Horror
+id: Mad-Scientist
 ---
 
 

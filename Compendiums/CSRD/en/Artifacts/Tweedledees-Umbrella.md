@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Tweedledee’s Umbrella"
+  - Tweedledee’s Umbrella
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Tweedledee’s Umbrella
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Tweedledees-Umbrella
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- Humanity Tester
+  - Humanity Tester
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Humanity Tester
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Humanity-Tester
 ---
 
 

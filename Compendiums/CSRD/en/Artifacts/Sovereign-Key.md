@@ -1,10 +1,15 @@
 ---
 aliases:
-- Sovereign Key
+  - Sovereign Key
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Sovereign Key
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Sovereign-Key
 ---
 
 

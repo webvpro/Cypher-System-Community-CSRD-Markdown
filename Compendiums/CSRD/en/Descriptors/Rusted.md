@@ -1,9 +1,13 @@
 ---
 aliases:
-- Rusted
+  - Rusted
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Rusted
+collection: Descriptors
+kind: Descriptor
+id: Rusted
 ---
 
 ## Rusted

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Flamboyant Boast"
+  - Flamboyant Boast
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/1
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
+title: Flamboyant Boast
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '1'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Social
+id: Flamboyant-Boast
 ---
 
 

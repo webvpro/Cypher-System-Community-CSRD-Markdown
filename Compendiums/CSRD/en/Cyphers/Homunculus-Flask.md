@@ -1,9 +1,16 @@
 ---
 aliases:
-- Homunculus Flask
+  - Homunculus Flask
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Homunculus Flask
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Homunculus-Flask
 ---
 
 

@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Tap Currents"
+  - Tap Currents
 tags:
-- Compendium/CSRD/en/Abilities/Tap Currents
-- Ability
-- Ability/Action
-- Ability/Cost/
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Tap Currents
+  - Ability
+  - Ability/Action
+  - Ability/Cost/
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Tap Currents
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: ''
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+id: Tap-Currents
 ---
 
 

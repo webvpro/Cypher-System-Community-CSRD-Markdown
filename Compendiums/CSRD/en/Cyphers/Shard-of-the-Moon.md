@@ -1,10 +1,17 @@
 ---
 aliases:
-- Shard of the Moon
+  - Shard of the Moon
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Shard of the Moon
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Shard-of-the-Moon
 ---
 
 

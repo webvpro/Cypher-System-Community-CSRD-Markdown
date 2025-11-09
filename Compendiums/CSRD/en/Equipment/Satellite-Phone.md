@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Satellite Phone"
+  - Satellite Phone
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Communication
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Communication
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Satellite Phone
+collection: Equipment
+kind: Equipment
+id: Satellite-Phone
 ---
 
 

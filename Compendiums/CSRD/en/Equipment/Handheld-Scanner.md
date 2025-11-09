@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Handheld Scanner"
+  - Handheld Scanner
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Asset
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Asset
+title: Handheld Scanner
+collection: Equipment
+kind: Equipment
+id: Handheld-Scanner
 ---
 
 

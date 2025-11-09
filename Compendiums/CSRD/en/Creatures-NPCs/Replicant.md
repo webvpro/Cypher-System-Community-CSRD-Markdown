@@ -1,13 +1,17 @@
 ---
 aliases:
-- Replicant
+  - Replicant
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/18
+title: Replicant
+collection: Creatures-NPCs
+kind: Creature
+id: Replicant
 ---
 
 

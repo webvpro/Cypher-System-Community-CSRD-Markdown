@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Exterminate Cantrip"
+  - Exterminate Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Exterminate-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Exterminate-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Exterminate Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Exterminate-Cantrip
 ---
 
 ## Exterminate Cantrip  (1 Intellect point)

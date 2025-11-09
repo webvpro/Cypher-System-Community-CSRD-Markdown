@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Blade of the Roses"
+  - Blade of the Roses
 tags:
-- Compendium/CSRD/en/Artifacts/Blade-of-the-Roses
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Blade-of-the-Roses
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Blade of the Roses
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Blade-of-the-Roses
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Itsy Bitsy Spider
+  - Itsy Bitsy Spider
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Itsy Bitsy Spider
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Itsy-Bitsy-Spider
 ---
 
 

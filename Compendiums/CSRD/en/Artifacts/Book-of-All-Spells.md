@@ -1,10 +1,15 @@
 ---
 aliases:
-- Book of All Spells
+  - Book of All Spells
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Book of All Spells
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Book-of-All-Spells
 ---
 
 

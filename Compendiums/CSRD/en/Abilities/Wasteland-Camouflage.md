@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Wasteland Camouflage"
+  - Wasteland Camouflage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/NA
-- Ability/Pool/Speed
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/NA
+  - Ability/Pool/Speed
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Wasteland Camouflage
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: NA
+pools:
+  - Speed
+  - Intellect
+categories:
+  - NA
+id: Wasteland-Camouflage
 ---
 
 

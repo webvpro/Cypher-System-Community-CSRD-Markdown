@@ -1,10 +1,15 @@
 ---
 aliases:
-- Dragontooth Soldiers
+  - Dragontooth Soldiers
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Dragontooth Soldiers
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Dragontooth-Soldiers
 ---
 
 

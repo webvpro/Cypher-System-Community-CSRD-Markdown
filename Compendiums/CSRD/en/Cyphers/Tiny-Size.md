@@ -1,10 +1,14 @@
 ---
 aliases:
-- Tiny Size
+  - Tiny Size
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Tiny Size
+collection: Cyphers
+kind: Cypher
+id: Tiny-Size
 ---
 
 

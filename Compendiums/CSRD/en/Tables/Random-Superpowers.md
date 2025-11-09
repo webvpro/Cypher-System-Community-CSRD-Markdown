@@ -1,9 +1,13 @@
 ---
 aliases:
-- Random Superpowers
+  - Random Superpowers
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Random Superpowers
+collection: Tables
+kind: Table
+id: Random-Superpowers
 ---
 
 ## Random Superpowers Table

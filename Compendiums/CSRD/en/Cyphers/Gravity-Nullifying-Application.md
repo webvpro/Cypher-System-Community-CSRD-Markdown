@@ -1,10 +1,14 @@
 ---
 aliases:
-- Gravity-Nullifying Application
+  - Gravity-Nullifying Application
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Gravity-Nullifying Application
+collection: Cyphers
+kind: Cypher
+id: Gravity-Nullifying-Application
 ---
 
 

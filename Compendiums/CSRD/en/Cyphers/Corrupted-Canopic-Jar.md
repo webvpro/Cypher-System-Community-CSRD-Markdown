@@ -1,9 +1,16 @@
 ---
 aliases:
-- Corrupted Canopic Jar
+  - Corrupted Canopic Jar
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Corrupted Canopic Jar
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Corrupted-Canopic-Jar
 ---
 
 

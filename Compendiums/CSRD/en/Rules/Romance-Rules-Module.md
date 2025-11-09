@@ -1,7 +1,10 @@
 ---
-aliases: "Romance Rules Module"
+aliases:
+  - Romance Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Romance-Rules-Module
+  - Compendium/CSRD/en/Rules/Romance-Rules-Module
+title: Romance Rules Module
+id: Romance-Rules-Module
 ---
 
 # Romance Rules Module

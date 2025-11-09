@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Oil (Flask)"
+  - Oil (Flask)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Cp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Cp
+title: Oil (Flask)
+collection: Equipment
+kind: Equipment
+id: Oil-(Flask)
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "See History"
+  - See History
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: See History
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Information
+id: See-History
 ---
 
 

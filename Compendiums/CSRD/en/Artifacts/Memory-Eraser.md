@@ -1,10 +1,15 @@
 ---
 aliases:
-- Memory Eraser
+  - Memory Eraser
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Memory Eraser
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Memory-Eraser
 ---
 
 

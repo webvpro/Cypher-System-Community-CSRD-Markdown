@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Incapacitate"
+  - Incapacitate
 tags:
-- Compendium/CSRD/en/Abilities/Incapacitate
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
+  - Compendium/CSRD/en/Abilities/Incapacitate
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+title: Incapacitate
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Incapacitate
 ---
 
 

@@ -1,20 +1,24 @@
 ---
 aliases:
-- "Padlock with Keys"
+  - Padlock with Keys
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Moderate
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Moderate
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Inexpensive
+title: Padlock with Keys
+collection: Equipment
+kind: Equipment
+id: Padlock-with-Keys
 ---
 
 

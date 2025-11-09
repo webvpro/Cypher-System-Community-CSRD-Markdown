@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Ghost"
+  - Ghost
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+  - Ability/Categories/Task
+  - Content/Modern-Magic
+title: Ghost
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Movement
+  - Task
+  - Modern-Magic
+id: Ghost
 ---
 
 

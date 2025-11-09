@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Open and Close Cantrip"
+  - Open and Close Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Open-and-Close-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Open-and-Close-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Open and Close Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Open-and-Close-Cantrip
 ---
 
 ## Open and Close Cantrip  (1 Intellect point)

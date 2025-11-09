@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Nix"
+  - Nix
 tags:
-- Compendiums/CSRD/en/Descriptors/Nix
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Nix
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Nix
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Nix
 ---
 
 ## Nix

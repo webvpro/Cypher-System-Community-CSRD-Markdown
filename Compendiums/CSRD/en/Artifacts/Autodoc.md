@@ -1,10 +1,17 @@
 ---
 aliases:
-- Autodoc
+  - Autodoc
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+  - Content/Science-Fiction
+title: Autodoc
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Autodoc
 ---
 
 

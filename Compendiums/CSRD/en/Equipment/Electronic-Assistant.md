@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Electronic Assistant"
+  - Electronic Assistant
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Robots-And-Ai
-- Equipment/Level/2
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Robots-And-Ai
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+title: Electronic Assistant
+collection: Equipment
+kind: Equipment
+id: Electronic-Assistant
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Warship, Destroyer"
+  - 'Warship, Destroyer'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Priceless
+title: 'Warship, Destroyer'
+collection: Equipment
+kind: Equipment
+id: Warship-Destroyer
 ---
 
 

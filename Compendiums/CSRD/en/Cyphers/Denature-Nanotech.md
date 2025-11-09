@@ -1,9 +1,13 @@
 ---
 aliases:
-- Denature Nanotech
+  - Denature Nanotech
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Denature Nanotech
+collection: Cyphers
+kind: Cypher
+id: Denature-Nanotech
 ---
 
 

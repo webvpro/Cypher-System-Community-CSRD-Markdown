@@ -1,13 +1,17 @@
 ---
 aliases:
-- Demon Lord
+  - Demon Lord
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/100
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/100
+title: Demon Lord
+collection: Creatures-NPCs
+kind: Creature
+id: Demon-Lord
 ---
 
 

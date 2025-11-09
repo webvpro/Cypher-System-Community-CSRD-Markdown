@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Breather"
+  - Breather
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Moderate
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+  - Equipment/Value/Expensive
+title: Breather
+collection: Equipment
+kind: Equipment
+id: Breather
 ---
 
 

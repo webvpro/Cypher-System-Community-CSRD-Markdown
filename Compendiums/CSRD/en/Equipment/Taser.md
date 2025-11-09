@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Taser"
+  - Taser
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Medium
+title: Taser
+collection: Equipment
+kind: Equipment
+id: Taser
 ---
 
 

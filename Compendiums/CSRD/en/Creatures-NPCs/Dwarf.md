@@ -1,13 +1,17 @@
 ---
 aliases:
-- Dwarf
+  - Dwarf
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/15
+title: Dwarf
+collection: Creatures-NPCs
+kind: NPC
+id: Dwarf
 ---
 
 

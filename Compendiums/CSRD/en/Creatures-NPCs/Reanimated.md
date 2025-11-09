@@ -1,13 +1,20 @@
 ---
 aliases:
-- Reanimated
+  - Reanimated
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/70
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/70
+  - Content/Horror
+title: Reanimated
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Reanimated
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Abomination
+  - Abomination
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/22
+  - Content/Fairytale
+title: Abomination
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Abomination
 ---
 
 

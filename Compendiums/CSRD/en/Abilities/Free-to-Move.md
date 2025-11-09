@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Free to Move"
+  - Free to Move
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+  - Content/Weird-West
+title: Free to Move
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Cure
+  - Weird-West
+id: Free-to-Move
 ---
 
 

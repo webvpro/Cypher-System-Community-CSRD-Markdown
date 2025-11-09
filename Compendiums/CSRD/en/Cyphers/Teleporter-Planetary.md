@@ -1,10 +1,14 @@
 ---
 aliases:
-- Teleporter Planetary
+  - Teleporter Planetary
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Teleporter Planetary
+collection: Cyphers
+kind: Cypher
+id: Teleporter-Planetary
 ---
 
 

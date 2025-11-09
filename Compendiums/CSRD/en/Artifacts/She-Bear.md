@@ -1,10 +1,17 @@
 ---
 aliases:
-- "She Bear"
+  - She Bear
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: She Bear
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: She-Bear
 ---
 
 

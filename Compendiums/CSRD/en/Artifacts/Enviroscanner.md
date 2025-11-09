@@ -1,10 +1,15 @@
 ---
 aliases:
-- Enviroscanner
+  - Enviroscanner
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Enviroscanner
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Enviroscanner
 ---
 
 

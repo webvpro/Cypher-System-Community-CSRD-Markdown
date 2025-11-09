@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Moon Adaptation"
+  - Moon Adaptation
 tags:
-- Compendium/CSRD/en/Abilities/Moon-Adaptation
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Moon-Adaptation
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: Moon Adaptation
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Moon-Adaptation
 ---
 
 

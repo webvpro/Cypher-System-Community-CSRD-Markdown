@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "Optional Rule: Madness"
+  - 'Optional Rule: Madness'
 tags:
   - Compendium/CSRD/en/Rules/Optional/Madness
-  - Compendium/CSRD/en/Rules
-  - Rule/Optional
+title: 'Optional Rule: Madness'
+id: Optional-Rule-Madness
 ---
 ## Optional Rule: Madness
 

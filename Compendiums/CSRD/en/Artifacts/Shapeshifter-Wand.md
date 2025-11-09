@@ -1,10 +1,17 @@
 ---
 aliases:
-- Shapeshifter Wand
+  - Shapeshifter Wand
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Shapeshifter Wand
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Shapeshifter-Wand
 ---
 
 

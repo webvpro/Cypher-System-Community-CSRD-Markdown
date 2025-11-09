@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Smoke Cantrip"
+  - Smoke Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Smoke-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Smoke-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Smoke Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Smoke-Cantrip
 ---
 
 ## Smoke Cantrip  (1 Intellect point)

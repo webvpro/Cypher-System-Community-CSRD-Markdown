@@ -1,13 +1,22 @@
 ---
 aliases:
-- Ghoul
+  - Ghoul
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/12
+  - Content/Fairytale
+  - Content/Horror
+title: Ghoul
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+  - Horror
+id: Ghoul
 ---
 
 

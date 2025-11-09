@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Spaceplane"
+  - Spaceplane
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/2
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/2
+  - Equipment/Value/Exorbitant
+title: Spaceplane
+collection: Equipment
+kind: Equipment
+id: Spaceplane
 ---
 
 

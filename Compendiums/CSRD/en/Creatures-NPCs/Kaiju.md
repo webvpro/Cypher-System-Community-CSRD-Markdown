@@ -1,13 +1,17 @@
 ---
 aliases:
-- Kaiju
+  - Kaiju
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/10
-- Creature/Armor/5
-- Creature/Health/140
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/10
+  - Creature/Armor/5
+  - Creature/Health/140
+title: Kaiju
+collection: Creatures-NPCs
+kind: Creature
+id: Kaiju
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Disguising Kit"
+  - Disguising Kit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/25-Gp
-- Equipment/Asset
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Value/25-Gp
+  - Equipment/Asset
+title: Disguising Kit
+collection: Equipment
+kind: Equipment
+id: Disguising-Kit
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Animal Control
+  - Animal Control
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Animal Control
+collection: Cyphers
+kind: Cypher
+id: Animal-Control
 ---
 
 

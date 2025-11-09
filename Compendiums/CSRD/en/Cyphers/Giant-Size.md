@@ -1,10 +1,14 @@
 ---
 aliases:
-- Giant Size
+  - Giant Size
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Giant Size
+collection: Cyphers
+kind: Cypher
+id: Giant-Size
 ---
 
 

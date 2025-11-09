@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Tattoo Cantrip"
+  - Tattoo Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Tattoo-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Tattoo-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Tattoo Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Tattoo-Cantrip
 ---
 
 ## Tattoo Cantrip  (1 Intellect point)

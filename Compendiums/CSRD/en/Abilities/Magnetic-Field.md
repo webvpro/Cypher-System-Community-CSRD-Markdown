@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Magnetic Field"
+  - Magnetic Field
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Magnetic Field
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '4'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Magnetic-Field
 ---
 
 

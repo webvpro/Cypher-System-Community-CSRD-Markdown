@@ -1,9 +1,13 @@
 ---
 aliases:
-- Crafting Time Table"
+  - Crafting Time Table"
 tags:
-- Compendiums/CSRD/en/Tables/Crafting-Time-Table
-- Table
+  - Compendiums/CSRD/en/Tables/Crafting-Time-Table
+  - Table
+title: Crafting Time Table"
+collection: Tables
+kind: Table
+id: Crafting-Time-Table
 ---
 
 ## Crafting Time Table

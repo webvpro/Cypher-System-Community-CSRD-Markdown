@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Feigns No Fear"
+  - Feigns No Fear
 tags:
-- Compendium/CSRD/en/Foci/Feigns-No-Fear
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Feigns-No-Fear
+  - Focus/Category/Fairytale
+title: Feigns No Fear
+collection: Foci
+kind: Focus
+id: Feigns-No-Fear
 ---
 
 

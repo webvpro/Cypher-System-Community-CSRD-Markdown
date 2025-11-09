@@ -1,10 +1,17 @@
 ---
 aliases:
-- Nonsensical Poem
+  - Nonsensical Poem
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Nonsensical Poem
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Nonsensical-Poem
 ---
 
 

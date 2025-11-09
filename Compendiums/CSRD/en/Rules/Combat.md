@@ -1,10 +1,13 @@
 ---
 aliases:
-- "Combat"
+  - Combat
 tags:
--  Compendium/CSRD/en/Rules
-- Combat/Basics
--
+  - Compendium/CSRD/en/Rules
+  - Combat/Basics
+title: Combat
+collection: Rules
+kind: Combat
+id: Combat
 ---
 
 ## Combat

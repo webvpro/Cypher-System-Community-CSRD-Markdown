@@ -1,13 +1,17 @@
 ---
 aliases:
-- "House Robot"
+  - House Robot
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Robots-And-Ai
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Robots-And-Ai
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: House Robot
+collection: Equipment
+kind: Equipment
+id: House-Robot
 ---
 
 

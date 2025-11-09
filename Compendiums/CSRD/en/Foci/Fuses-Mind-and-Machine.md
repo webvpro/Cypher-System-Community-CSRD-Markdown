@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Fuses Mind and Machine"
+  - Fuses Mind and Machine
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Fuses Mind and Machine
+collection: Foci
+kind: Focus
+id: Fuses-Mind-and-Machine
 ---
 
 

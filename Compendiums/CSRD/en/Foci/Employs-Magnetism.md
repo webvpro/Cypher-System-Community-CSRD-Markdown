@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Employs Magnetism"
+  - Employs Magnetism
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
+title: Employs Magnetism
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Employs-Magnetism
 ---
 
 

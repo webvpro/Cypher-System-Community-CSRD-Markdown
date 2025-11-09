@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Tiny"
+  - Tiny
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Tiny
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Superhero
+id: Tiny
 ---
 
 

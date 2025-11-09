@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hell Mary"
+  - Hell Mary
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Hell-Mary
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs/Hell-Mary
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Hell Mary
+collection: Creatures-NPCs
+kind: Creature
+id: Hell-Mary
 ---
 
 

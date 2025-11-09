@@ -1,10 +1,14 @@
 ---
 aliases:
-- Magnetic Shield
+  - Magnetic Shield
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Magnetic Shield
+collection: Cyphers
+kind: Cypher
+id: Magnetic-Shield
 ---
 
 

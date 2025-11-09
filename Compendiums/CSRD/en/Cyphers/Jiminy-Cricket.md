@@ -1,10 +1,17 @@
 ---
 aliases:
-- Jiminy Cricket
+  - Jiminy Cricket
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Jiminy Cricket
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Jiminy-Cricket
 ---
 
 

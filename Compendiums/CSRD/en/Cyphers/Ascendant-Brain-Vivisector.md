@@ -1,9 +1,16 @@
 ---
 aliases:
-- Ascendant Brain Vivisector
+  - Ascendant Brain Vivisector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Ascendant Brain Vivisector
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Ascendant-Brain-Vivisector
 ---
 
 

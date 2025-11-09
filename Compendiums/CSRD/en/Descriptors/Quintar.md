@@ -1,10 +1,14 @@
 ---
 aliases:
-- Quintar
+  - Quintar
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor/Sci-Fi
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor/Sci-Fi
+  - Descriptor/Species
+title: Quintar
+collection: Descriptors
+kind: Descriptor
+id: Quintar
 ---
 
 ## Quintar

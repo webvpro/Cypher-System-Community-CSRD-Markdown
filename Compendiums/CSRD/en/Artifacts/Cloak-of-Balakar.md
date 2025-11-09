@@ -1,10 +1,15 @@
 ---
 aliases:
-- Cloak of Balakar
+  - Cloak of Balakar
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cloak of Balakar
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Cloak-of-Balakar
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Crowd Control"
+  - Crowd Control
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Crowd Control
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Control
+id: Crowd-Control
 ---
 
 

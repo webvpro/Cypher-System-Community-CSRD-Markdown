@@ -1,10 +1,17 @@
 ---
 aliases:
-- Self-Swinging Sword
+  - Self-Swinging Sword
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Self-Swinging Sword
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Self-Swinging-Sword
 ---
 
 

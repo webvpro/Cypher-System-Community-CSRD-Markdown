@@ -1,17 +1,21 @@
 ---
 aliases:
-- "Disguise Kit"
+  - Disguise Kit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Asset
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Asset
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Very-Expensive
+title: Disguise Kit
+collection: Equipment
+kind: Equipment
+id: Disguise-Kit
 ---
 
 

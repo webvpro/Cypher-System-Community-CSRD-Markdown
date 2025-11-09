@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Faster Wild Magic"
+  - Faster Wild Magic
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+  - Content/Fantasy
+title: Faster Wild Magic
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+  - Fantasy
+id: Faster-Wild-Magic
 ---
 
 

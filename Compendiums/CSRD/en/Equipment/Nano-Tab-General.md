@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Nano Tab, General"
+  - 'Nano Tab, General'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: 'Nano Tab, General'
+collection: Equipment
+kind: Equipment
+id: Nano-Tab-General
 ---
 
 

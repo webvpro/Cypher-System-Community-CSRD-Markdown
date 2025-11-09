@@ -1,10 +1,15 @@
 ---
 aliases:
-- Adamantine Rope
+  - Adamantine Rope
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Adamantine Rope
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Adamantine-Rope
 ---
 
 

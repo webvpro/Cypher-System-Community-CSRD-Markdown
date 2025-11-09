@@ -1,23 +1,27 @@
 ---
 aliases:
-- "Crowbar"
+  - Crowbar
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/2-Gp
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/2-Gp
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+title: Crowbar
+collection: Equipment
+kind: Equipment
+id: Crowbar
 ---
 
 

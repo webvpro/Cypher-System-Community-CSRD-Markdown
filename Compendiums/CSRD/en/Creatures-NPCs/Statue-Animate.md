@@ -1,13 +1,20 @@
 ---
 aliases:
-- Statue, Animate
+  - 'Statue, Animate'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Statue-Animate
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/33
+  - Compendium/CSRD/en/Creatures-NPCs/Statue-Animate
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/33
+  - Content/Fairytale
+title: 'Statue, Animate'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Statue-Animate
 ---
 
 

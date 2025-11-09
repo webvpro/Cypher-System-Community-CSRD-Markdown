@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Light Weapon"
+  - Light Weapon
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Weapon/Light
+title: Light Weapon
+collection: Equipment
+kind: Equipment
+id: Light-Weapon
 ---
 
 

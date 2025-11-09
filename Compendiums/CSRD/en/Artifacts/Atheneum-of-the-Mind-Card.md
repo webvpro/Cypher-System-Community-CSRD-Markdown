@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Atheneum of the Mind Card "
+  - 'Atheneum of the Mind Card '
 tags:
-- Compendium/CSRD/en/Artifacts/Atheneum-of-the-Mind-Card
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Atheneum-of-the-Mind-Card
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern-Magic
+title: 'Atheneum of the Mind Card '
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Fantasy
+  - Modern-Magic
+id: Atheneum-of-the-Mind-Card
 ---
 
 

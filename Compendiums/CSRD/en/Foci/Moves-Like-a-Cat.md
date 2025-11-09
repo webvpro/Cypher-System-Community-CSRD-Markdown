@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Moves Like a Cat"
+  - Moves Like a Cat
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+  - Content/Fantasy
+title: Moves Like a Cat
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Moves-Like-a-Cat
 ---
 
 

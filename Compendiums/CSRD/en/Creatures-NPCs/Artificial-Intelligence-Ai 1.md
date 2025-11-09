@@ -1,13 +1,17 @@
 ---
 aliases:
-- Gogmind
+  - Gogmind
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/23
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/23
+title: Gogmind
+collection: Creatures-NPCs
+kind: Creature
+id: Artificial-Intelligence-Ai 1
 ---
 
 

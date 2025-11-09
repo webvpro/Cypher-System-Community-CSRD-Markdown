@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Dragon's Blood"
+  - Dragon's Blood
 tags:
-- Compendium/CSRD/en/Cyphers/Dragons-Blood
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Dragons-Blood
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Dragon's Blood
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Dragons-Blood
 ---
 
 

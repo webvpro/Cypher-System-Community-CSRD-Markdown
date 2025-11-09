@@ -1,10 +1,14 @@
 ---
 aliases:
-- Machine Control
+  - Machine Control
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Machine Control
+collection: Cyphers
+kind: Cypher
+id: Machine-Control
 ---
 
 

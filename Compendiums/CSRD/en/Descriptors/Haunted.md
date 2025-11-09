@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Haunted"
+  - Haunted
 tags:
   - Compendiums/CSRD/en/Descriptors/Haunted
   - Descriptor/Fairytale
+title: Haunted
+collection: Descriptors
+kind: Descriptor
+id: Haunted
 ---
 
 ## Haunted

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Crafter
+  - Crafter
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/2
-- Creature/Armor/0
-- Creature/Health/8
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/2
+  - Creature/Armor/0
+  - Creature/Health/8
+  - Content/Fairytale
+title: Crafter
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Crafter
 ---
 
 

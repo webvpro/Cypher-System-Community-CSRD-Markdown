@@ -1,10 +1,14 @@
 ---
 aliases:
-- Shift Boost
+  - Shift Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Shift Boost
+collection: Cyphers
+kind: Cypher
+id: Shift-Boost
 ---
 
 

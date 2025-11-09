@@ -1,10 +1,17 @@
 ---
 aliases:
-- Teleport Hat
+  - Teleport Hat
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Teleport Hat
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Teleport-Hat
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Pen Cantrip"
+  - Pen Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Pen-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Pen-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Pen Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Pen-Cantrip
 ---
 
 ## Pen Cantrip  (1 Intellect point)

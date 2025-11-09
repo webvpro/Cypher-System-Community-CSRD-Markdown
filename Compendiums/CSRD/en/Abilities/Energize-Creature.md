@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Energize Creature"
+  - Energize Creature
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Protection
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Protection
+  - Ability/Categories/Support
+title: Energize Creature
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: High
+pools:
+  - Might
+categories:
+  - Protection
+  - Support
+id: Energize-Creature
 ---
 
 

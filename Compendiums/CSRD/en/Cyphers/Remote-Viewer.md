@@ -1,10 +1,14 @@
 ---
 aliases:
-- Remote Viewer
+  - Remote Viewer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Remote Viewer
+collection: Cyphers
+kind: Cypher
+id: Remote-Viewer
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Hunter"
+  - Hunter
 tags:
-- Compendiums/CSRD/en/Descriptors/Hunter
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors/Hunter
+  - Descriptor
+  - Content/Modern-Magic
+title: Hunter
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Hunter
 ---
 
 ## Hunter

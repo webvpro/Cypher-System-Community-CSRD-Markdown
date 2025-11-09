@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Modify Device"
+  - Modify Device
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+  - Ability/Categories/Meta
+title: Modify Device
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Craft
+  - Meta
+id: Modify-Device
 ---
 
 

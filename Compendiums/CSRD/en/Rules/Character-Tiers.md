@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Character Tiers"
+  - Character Tiers
 tags:
-- Compendium/CSRD/en/Rules
-- Character/Tiers
-- Character/Benefits
-- Character/Advancement
+  - Compendium/CSRD/en/Rules
+  - Character/Tiers
+  - Character/Benefits
+  - Character/Advancement
+title: Character Tiers
+collection: Rules
+kind: Character
+id: Character-Tiers
 ---
 ## Character Tiers
 

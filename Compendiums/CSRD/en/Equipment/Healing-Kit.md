@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Healing Kit"
+  - Healing Kit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
-- Equipment/Value/5-Gp
-- Equipment/Asset
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+  - Equipment/Value/5-Gp
+  - Equipment/Asset
+title: Healing Kit
+collection: Equipment
+kind: Equipment
+id: Healing-Kit
 ---
 
 

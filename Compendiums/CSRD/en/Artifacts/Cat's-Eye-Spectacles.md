@@ -1,10 +1,15 @@
 ---
 aliases:
-- Cat's Eye Spectacles
+  - Cat's Eye Spectacles
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cat's Eye Spectacles
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Cat's-Eye-Spectacles
 ---
 
 

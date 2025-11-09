@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Fire Crown Cantrip"
+  - Fire Crown Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Fire-Crown-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Fire-Crown-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Fire Crown Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Fire-Crown-Cantrip
 ---
 
 ## Fire Crown Cantrip  (1 Intellect point)

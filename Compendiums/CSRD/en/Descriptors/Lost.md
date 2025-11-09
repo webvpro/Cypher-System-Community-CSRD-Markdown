@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Lost"
+  - Lost
 tags:
   - Compendiums/CSRD/en/Descriptors/Lost
   - Descriptor/Fairytale
+title: Lost
+collection: Descriptors
+kind: Descriptor
+id: Lost
 ---
 
 ## Lost

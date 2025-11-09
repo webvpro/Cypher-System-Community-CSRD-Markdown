@@ -1,15 +1,18 @@
 ---
 aliases:
-- "Grapple Gun"
+  - Grapple Gun
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
-- Equipment/Range/Long
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+  - Equipment/Range/Long
+title: Grapple Gun
+collection: Equipment
+kind: Equipment
+id: Grapple-Gun
 ---
 
 

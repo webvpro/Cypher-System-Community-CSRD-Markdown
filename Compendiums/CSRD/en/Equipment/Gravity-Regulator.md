@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Gravity Regulator"
+  - Gravity Regulator
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Gravity Regulator
+collection: Equipment
+kind: Equipment
+id: Gravity-Regulator
 ---
 
 

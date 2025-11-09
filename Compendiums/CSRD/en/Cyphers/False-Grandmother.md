@@ -1,10 +1,17 @@
 ---
 aliases:
-- False Grandmother
+  - False Grandmother
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: False Grandmother
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: False-Grandmother
 ---
 
 

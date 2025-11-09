@@ -1,13 +1,17 @@
 ---
 aliases:
-- Cambion
+  - Cambion
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/25
+title: Cambion
+collection: Creatures-NPCs
+kind: Creature
+id: Cambion
 ---
 
 

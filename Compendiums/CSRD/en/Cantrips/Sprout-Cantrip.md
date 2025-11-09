@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Sprout Cantrip"
+  - Sprout Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Sprout-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Sprout-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Sprout Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Sprout-Cantrip
 ---
 
 ## Sprout Cantrip  (1 Intellect point)

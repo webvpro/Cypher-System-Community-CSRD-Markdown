@@ -1,10 +1,15 @@
 ---
 aliases:
-- Exploding Arrow
+  - Exploding Arrow
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Exploding Arrow
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Exploding-Arrow
 ---
 
 

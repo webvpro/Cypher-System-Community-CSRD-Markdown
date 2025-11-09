@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Exoskin, Reactive"
+  - 'Exoskin, Reactive'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: 'Exoskin, Reactive'
+collection: Equipment
+kind: Equipment
+id: Exoskin-Reactive
 ---
 
 

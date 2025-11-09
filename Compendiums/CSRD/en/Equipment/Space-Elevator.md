@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Space Elevator"
+  - Space Elevator
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/7
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/7
+  - Equipment/Value/Priceless
+title: Space Elevator
+collection: Equipment
+kind: Equipment
+id: Space-Elevator
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Information Sensor
+  - Information Sensor
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Information Sensor
+collection: Cyphers
+kind: Cypher
+id: Information-Sensor
 ---
 
 

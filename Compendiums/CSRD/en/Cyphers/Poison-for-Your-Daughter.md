@@ -1,10 +1,17 @@
 ---
 aliases:
-- Poison for Your Daughter
+  - Poison for Your Daughter
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Poison for Your Daughter
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Poison-for-Your-Daughter
 ---
 
 

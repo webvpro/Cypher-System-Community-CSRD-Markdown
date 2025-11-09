@@ -1,9 +1,13 @@
 ---
 aliases:
-- Fantastic Threats and Hazards
+  - Fantastic Threats and Hazards
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Fantastic Threats and Hazards
+collection: Tables
+kind: Table
+id: Fantastic-Threats-and-Hazards
 ---
 
 ## Fantastic Threats and Hazards Table

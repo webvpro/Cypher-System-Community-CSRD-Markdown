@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Synth"
+  - Synth
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: Synth
+collection: Equipment
+kind: Equipment
+id: Synth
 ---
 
 

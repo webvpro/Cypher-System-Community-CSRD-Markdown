@@ -1,13 +1,17 @@
 ---
 aliases:
-- Thundering Behemoth
+  - Thundering Behemoth
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/2
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/2
+  - Creature/Health/35
+title: Thundering Behemoth
+collection: Creatures-NPCs
+kind: Creature
+id: Thundering-Behemoth
 ---
 
 

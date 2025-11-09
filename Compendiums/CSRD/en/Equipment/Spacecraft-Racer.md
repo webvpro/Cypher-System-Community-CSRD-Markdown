@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Spacecraft, Racer"
+  - 'Spacecraft, Racer'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/1
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/1
+  - Equipment/Value/Exorbitant
+title: 'Spacecraft, Racer'
+collection: Equipment
+kind: Equipment
+id: Spacecraft-Racer
 ---
 
 

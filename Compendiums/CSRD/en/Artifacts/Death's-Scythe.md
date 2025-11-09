@@ -1,10 +1,15 @@
 ---
 aliases:
-- Death's Scythe
+  - Death's Scythe
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Death's Scythe
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Death's-Scythe
 ---
 
 

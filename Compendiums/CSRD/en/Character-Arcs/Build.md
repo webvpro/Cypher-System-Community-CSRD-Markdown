@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Build"
+  - Build
 tags:
-- Compendium/CSRD/en/Character-Arcs/Build
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Build
+  - Character-Arc
+title: Build
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Build
 ---
 ## Build
 >You are going to build a physical structure—a house, a fortress, a workshop, a defensive wall, and so on. This arc would also cover renovating an existing structure or substantially adding to one. Of course, this doesn’t have to be physical construction. You might build something with spells or other supernatural abilities.

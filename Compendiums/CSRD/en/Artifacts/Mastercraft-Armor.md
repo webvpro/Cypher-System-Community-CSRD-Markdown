@@ -1,10 +1,15 @@
 ---
 aliases:
-- Mastercraft Armor
+  - Mastercraft Armor
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Mastercraft Armor
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Mastercraft-Armor
 ---
 
 

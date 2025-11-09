@@ -1,10 +1,15 @@
 ---
 aliases:
-- Instant Ladder
+  - Instant Ladder
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Instant Ladder
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Instant-Ladder
 ---
 
 

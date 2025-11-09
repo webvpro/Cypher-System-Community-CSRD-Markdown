@@ -1,9 +1,13 @@
 ---
 aliases:
-- Mechanical
+  - Mechanical
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Mechanical
+collection: Descriptors
+kind: Descriptor
+id: Mechanical
 ---
 
 ## Mechanical

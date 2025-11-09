@@ -1,13 +1,20 @@
 ---
 aliases:
-- Kelpie
+  - Kelpie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/21
+  - Content/Fairytale
+title: Kelpie
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Kelpie
 ---
 
 

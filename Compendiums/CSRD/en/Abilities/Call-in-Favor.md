@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Call in Favor"
+  - Call in Favor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Call in Favor
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Companion
+id: Call-in-Favor
 ---
 
 

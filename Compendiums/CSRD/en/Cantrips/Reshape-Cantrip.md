@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Reshape Cantrip"
+  - Reshape Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Reshape-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Reshape-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Reshape Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Reshape-Cantrip
 ---
 
 ## Reshape Cantrip  (1 Intellect point)

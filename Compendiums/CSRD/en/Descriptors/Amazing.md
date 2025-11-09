@@ -1,9 +1,16 @@
 ---
 aliases:
-- Amazing
+  - Amazing
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Superhero
+title: Amazing
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Superhero
+id: Amazing
 ---
 
 ## Amazing

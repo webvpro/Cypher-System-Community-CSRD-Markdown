@@ -1,10 +1,17 @@
 ---
 aliases:
-- Genie's Handkerchief
+  - Genie's Handkerchief
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Genie's Handkerchief
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Genies-Handkerchief
 ---
 
 

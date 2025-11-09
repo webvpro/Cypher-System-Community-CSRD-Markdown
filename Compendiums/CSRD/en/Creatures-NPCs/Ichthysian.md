@@ -1,13 +1,20 @@
 ---
 aliases:
-- Ichthysian
+  - Ichthysian
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/18
+  - Content/Horror
+title: Ichthysian
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Ichthysian
 ---
 
 

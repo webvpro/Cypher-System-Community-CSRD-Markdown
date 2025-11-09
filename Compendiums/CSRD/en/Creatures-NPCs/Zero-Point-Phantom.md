@@ -1,13 +1,17 @@
 ---
 aliases:
-- Zero-Point Phantom
+  - Zero-Point Phantom
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Zero-Point Phantom
+collection: Creatures-NPCs
+kind: Creature
+id: Zero-Point-Phantom
 ---
 
 

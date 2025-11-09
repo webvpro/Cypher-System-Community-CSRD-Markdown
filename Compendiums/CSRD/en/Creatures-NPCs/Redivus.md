@@ -1,13 +1,17 @@
 ---
 aliases:
-- Redivus
+  - Redivus
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/4
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/4
+  - Creature/Health/12
+title: Redivus
+collection: Creatures-NPCs
+kind: Creature
+id: Redivus
 ---
 
 

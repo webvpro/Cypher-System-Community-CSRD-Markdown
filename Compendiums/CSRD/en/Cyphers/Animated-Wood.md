@@ -1,9 +1,16 @@
 ---
 aliases:
-- Animated Wood
+  - Animated Wood
 tags:
-- Compendium/CSRD/en/Cyphers/Animated-Wood
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Animated-Wood
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Animated Wood
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Animated-Wood
 ---
 
 

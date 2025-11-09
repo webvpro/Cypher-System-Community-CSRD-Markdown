@@ -1,14 +1,26 @@
 ---
 aliases:
-- "See Through Time"
+  - See Through Time
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: See Through Time
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '7'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Senses
+id: See-Through-Time
 ---
 
 

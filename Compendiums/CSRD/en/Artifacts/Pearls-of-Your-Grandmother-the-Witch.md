@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Pearls of Your Grandmother, the Witch"
+  - 'Pearls of Your Grandmother, the Witch'
 tags:
-- Compendium/CSRD/en/Artifacts/Pearls-of-Your-Grandmother-the-Witch
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Pearls-of-Your-Grandmother-the-Witch
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: 'Pearls of Your Grandmother, the Witch'
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Pearls-of-Your-Grandmother-the-Witch
 ---
 
 

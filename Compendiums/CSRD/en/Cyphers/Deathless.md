@@ -1,10 +1,17 @@
 ---
 aliases:
-- Deathless
+  - Deathless
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Deathless
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Deathless
 ---
 
 

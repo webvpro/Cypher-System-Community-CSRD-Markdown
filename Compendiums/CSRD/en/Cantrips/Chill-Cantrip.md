@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Chill Cantrip"
+  - Chill Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Chill-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Chill-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Chill Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Chill-Cantrip
 ---
 
 ## Chill Cantrip  (1 Intellect point)

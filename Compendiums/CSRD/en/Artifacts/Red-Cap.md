@@ -1,10 +1,17 @@
 ---
 aliases:
-- Red Cap
+  - Red Cap
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Red Cap
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Red-Cap
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Radiation Spike
+  - Radiation Spike
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Radiation Spike
+collection: Cyphers
+kind: Cypher
+id: Radiation-Spike
 ---
 
 

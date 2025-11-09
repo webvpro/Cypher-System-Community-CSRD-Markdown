@@ -1,10 +1,14 @@
 ---
 aliases:
-- Best Tool
+  - Best Tool
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Best Tool
+collection: Cyphers
+kind: Cypher
+id: Best-Tool
 ---
 
 

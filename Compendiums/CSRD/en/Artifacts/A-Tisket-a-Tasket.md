@@ -1,10 +1,17 @@
 ---
 aliases:
-- "A Tisket a Tasket"
+  - A Tisket a Tasket
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: A Tisket a Tasket
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: A-Tisket-a-Tasket
 ---
 
 

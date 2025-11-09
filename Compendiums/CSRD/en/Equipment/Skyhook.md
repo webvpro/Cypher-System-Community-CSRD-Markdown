@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Skyhook"
+  - Skyhook
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/6
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/6
+  - Equipment/Value/Priceless
+title: Skyhook
+collection: Equipment
+kind: Equipment
+id: Skyhook
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Defense Tasks"
+  - Defense Tasks
 tags:
-- Compendium/CSRD/en/Rules/Defense-Tasks
-- Task/Defense
+  - Compendium/CSRD/en/Rules/Defense-Tasks
+  - Task/Defense
+title: Defense Tasks
+collection: Rules
+kind: Task
+id: Defense-Tasks
 ---
 ## Defense Tasks
 Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.

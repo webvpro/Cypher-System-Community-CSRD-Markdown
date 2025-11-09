@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Color Cannon"
+  - Color Cannon
 tags:
-- Compendium/CSRD/en/Artifacts/Color-Cannon
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Color-Cannon
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Color Cannon
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Color-Cannon
 ---
 
 

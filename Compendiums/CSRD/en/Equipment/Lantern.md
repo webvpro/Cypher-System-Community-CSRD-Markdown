@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Lantern"
+  - Lantern
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/5-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/5-Gp
+title: Lantern
+collection: Equipment
+kind: Equipment
+id: Lantern
 ---
 
 

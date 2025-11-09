@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Touches the Sky"
+  - Touches the Sky
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Touches the Sky
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Touches-the-Sky
 ---
 
 

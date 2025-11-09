@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Dragon Pen"
+  - Dragon Pen
 tags:
-- Compendium/CSRD/en/Artifacts/Dragon-Pen
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Dragon-Pen
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Dragon Pen
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Dragon-Pen
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Nightgaunt
+  - Nightgaunt
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/9
+  - Content/Horror
+title: Nightgaunt
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Nightgaunt
 ---
 
 

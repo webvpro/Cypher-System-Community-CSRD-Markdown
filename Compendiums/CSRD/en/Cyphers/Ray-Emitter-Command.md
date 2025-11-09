@@ -1,10 +1,14 @@
 ---
 aliases:
-- Ray Emitter Command
+  - Ray Emitter Command
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Ray Emitter Command
+collection: Cyphers
+kind: Cypher
+id: Ray-Emitter-Command
 ---
 
 

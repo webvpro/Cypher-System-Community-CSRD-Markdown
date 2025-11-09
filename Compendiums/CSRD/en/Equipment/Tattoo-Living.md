@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Tattoo, Living"
+  - 'Tattoo, Living'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Recreation
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Recreation
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: 'Tattoo, Living'
+collection: Equipment
+kind: Equipment
+id: Tattoo-Living
 ---
 
 

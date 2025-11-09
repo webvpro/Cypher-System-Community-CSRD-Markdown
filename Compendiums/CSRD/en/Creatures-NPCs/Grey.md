@@ -1,13 +1,17 @@
 ---
 aliases:
-- Grey
+  - Grey
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Grey
+collection: Creatures-NPCs
+kind: Creature
+id: Grey
 ---
 
 

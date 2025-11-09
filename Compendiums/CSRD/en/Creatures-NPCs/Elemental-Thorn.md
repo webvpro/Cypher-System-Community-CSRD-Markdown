@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Elemental, Thorn"
+  - 'Elemental, Thorn'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/36
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/36
+  - Content/Fairytale
+title: 'Elemental, Thorn'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Elemental-Thorn
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Animal Senses and Sensibilities"
+  - Animal Senses and Sensibilities
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Senses
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Senses
+  - Ability/Categories/Task
+title: Animal Senses and Sensibilities
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Senses
+  - Task
+id: Animal-Senses-and-Sensibilities
 ---
 
 

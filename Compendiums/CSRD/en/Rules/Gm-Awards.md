@@ -1,11 +1,15 @@
 ---
 aliases:
-- "GM Awards"
-- XP
+  - GM Awards
+  - XP
 tags:
-- Compendium/CSRD/en/Rules
-- GM/Awards
-- XP
+  - Compendium/CSRD/en/Rules
+  - GM/Awards
+  - XP
+title: GM Awards
+collection: Rules
+kind: GM
+id: Gm-Awards
 ---
 
 ## GM Awards

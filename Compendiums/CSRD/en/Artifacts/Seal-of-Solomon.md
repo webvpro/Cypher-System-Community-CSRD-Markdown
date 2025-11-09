@@ -1,10 +1,15 @@
 ---
 aliases:
-- Seal of Solomon
+  - Seal of Solomon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Seal of Solomon
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Seal-of-Solomon
 ---
 
 

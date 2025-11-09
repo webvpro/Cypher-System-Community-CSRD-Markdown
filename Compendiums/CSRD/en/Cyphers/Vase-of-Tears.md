@@ -1,10 +1,17 @@
 ---
 aliases:
-- Vase of Tears
+  - Vase of Tears
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Vase of Tears
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Vase-of-Tears
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Mace"
+  - Mace
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/10-Gp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/10-Gp
+  - Equipment/Weapon/Medium
+title: Mace
+collection: Equipment
+kind: Equipment
+id: Mace
 ---
 
 

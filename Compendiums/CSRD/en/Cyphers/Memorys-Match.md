@@ -1,10 +1,17 @@
 ---
 aliases:
-- Memory's Match
+  - Memory's Match
 tags:
-- Compendium/CSRD/en/Cyphers/Memorys-Match
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Memorys-Match
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Memory's Match
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Memorys-Match
 ---
 
 

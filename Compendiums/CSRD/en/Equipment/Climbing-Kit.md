@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Climbing Kit"
+  - Climbing Kit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+title: Climbing Kit
+collection: Equipment
+kind: Equipment
+id: Climbing-Kit
 ---
 
 

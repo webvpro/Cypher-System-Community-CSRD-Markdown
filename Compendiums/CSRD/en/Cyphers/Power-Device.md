@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Power Device"
+  - Power Device
 tags:
-- Compendium/CSRD/en/Cyphers/Power-Device
-- Cypher
-- Cypher/Magical-Technology
+  - Compendium/CSRD/en/Cyphers/Power-Device
+  - Cypher
+  - Cypher/Magical-Technology
+title: Power Device
+collection: Cyphers
+kind: Cypher
+id: Power-Device
 ---
 
 ## Power Device

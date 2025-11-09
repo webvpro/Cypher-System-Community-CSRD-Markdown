@@ -1,10 +1,17 @@
 ---
 aliases:
-- The Key of Knowing
+  - The Key of Knowing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: The Key of Knowing
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: The-Key-of-Knowing
 ---
 
 

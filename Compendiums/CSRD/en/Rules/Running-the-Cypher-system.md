@@ -1,8 +1,10 @@
 ---
 aliases:
-  - "Running the Cypher System"
+  - Running the Cypher System
 tags:
   - Compendium/CSRD/en/Rules/Running-the-Cypher-System
+title: Running the Cypher System
+id: Running-the-Cypher-system
 ---
 # Running the Cypher System
 

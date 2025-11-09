@@ -1,9 +1,13 @@
 ---
 aliases:
-- Smartdust
+  - Smartdust
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Smartdust
+collection: Cyphers
+kind: Cypher
+id: Smartdust
 ---
 
 

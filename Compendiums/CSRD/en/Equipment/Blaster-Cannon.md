@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Blaster Cannon"
+  - Blaster Cannon
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Exorbitant
+title: Blaster Cannon
+collection: Equipment
+kind: Equipment
+id: Blaster-Cannon
 ---
 
 

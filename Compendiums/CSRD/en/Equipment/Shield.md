@@ -1,17 +1,21 @@
 ---
 aliases:
-- "Shield"
+  - Shield
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/10-Gp
-- Equipment/Asset
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
-- Equipment/Asset
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/10-Gp
+  - Equipment/Asset
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+  - Equipment/Asset
+title: Shield
+collection: Equipment
+kind: Equipment
+id: Shield
 ---
 
 

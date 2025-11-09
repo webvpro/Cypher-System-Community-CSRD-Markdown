@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Purification"
+  - Purification
 tags:
--  Compendium/CSRD/en/Rituals/Purification
-- Ritual
+  - Compendium/CSRD/en/Rituals/Purification
+  - Ritual
+title: Purification
+collection: Rituals
+kind: Ritual
+id: Purification
 ---
 ## Purification
 Rids a creature of an ongoing affliction, such as a disease or poison, or any unwanted magical effect, such as a curse or charm spell. In some versions of this ritual, whatever is ailing the creature gets forced into a nearby specified creature or object, which is then discarded or safely destroyed.

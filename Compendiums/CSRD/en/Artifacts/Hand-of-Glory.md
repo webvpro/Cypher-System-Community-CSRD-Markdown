@@ -1,10 +1,15 @@
 ---
 aliases:
-- Hand of Glory
+  - Hand of Glory
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Hand of Glory
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Hand-of-Glory
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Trust to Luck"
+  - Trust to Luck
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Trust to Luck
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Trust-to-Luck
 ---
 
 

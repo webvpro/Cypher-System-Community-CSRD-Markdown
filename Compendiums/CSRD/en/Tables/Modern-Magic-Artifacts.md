@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Modern Magic Artifacts"
+  - Modern Magic Artifacts
 tags:
-- Compendiums/CSRD/en/Tables/Modern-Magic-Artifacts
-- Table/Modern-Magic/Artifacts
+  - Compendiums/CSRD/en/Tables/Modern-Magic-Artifacts
+  - Table/Modern-Magic/Artifacts
+title: Modern Magic Artifacts
+collection: Tables
+kind: Table
+id: Modern-Magic-Artifacts
 ---
 
 ## Modern Magic Artifacts

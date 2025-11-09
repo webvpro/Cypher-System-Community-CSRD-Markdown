@@ -1,10 +1,15 @@
 ---
 aliases:
-- Salvaged Car
+  - Salvaged Car
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Salvaged Car
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Salvaged-Car
 ---
 
 

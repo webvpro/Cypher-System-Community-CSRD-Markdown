@@ -1,10 +1,14 @@
 ---
 aliases:
-- Detonation Sonic
+  - Detonation Sonic
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation Sonic
+collection: Cyphers
+kind: Cypher
+id: Detonation-Sonic
 ---
 
 

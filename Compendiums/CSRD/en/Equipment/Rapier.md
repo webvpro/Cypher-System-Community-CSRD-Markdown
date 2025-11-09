@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Rapier"
+  - Rapier
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+  - Equipment/Weapon/Light
+title: Rapier
+collection: Equipment
+kind: Equipment
+id: Rapier
 ---
 
 

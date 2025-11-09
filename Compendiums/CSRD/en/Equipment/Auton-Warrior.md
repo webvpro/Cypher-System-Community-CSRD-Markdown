@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Auton, Warrior"
+  - 'Auton, Warrior'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Exorbitant
+title: 'Auton, Warrior'
+collection: Equipment
+kind: Equipment
+id: Auton-Warrior
 ---
 
 

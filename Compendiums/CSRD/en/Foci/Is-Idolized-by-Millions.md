@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Is Idolized by Millions"
+  - Is Idolized by Millions
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Is Idolized by Millions
+collection: Foci
+kind: Focus
+id: Is-Idolized-by-Millions
 ---
 
 

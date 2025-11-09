@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Trick Shot"
+  - Trick Shot
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
+title: Trick Shot
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Mid
+pools:
+  - Speed
+categories:
+  - Special-Attack
+id: Trick-Shot
 ---
 
 

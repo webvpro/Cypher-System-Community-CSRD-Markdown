@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hard-Light Cycle"
+  - Hard-Light Cycle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Hard-Light Cycle
+collection: Equipment
+kind: Equipment
+id: Hard-Light-Cycle
 ---
 
 

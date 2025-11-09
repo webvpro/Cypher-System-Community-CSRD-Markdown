@@ -1,10 +1,17 @@
 ---
 aliases:
-- Croc's Clock
+  - Croc's Clock
 tags:
-- Compendium/CSRD/en/Cyphers/Crocs-Clock
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Crocs-Clock
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Croc's Clock
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Crocs-Clock
 ---
 
 

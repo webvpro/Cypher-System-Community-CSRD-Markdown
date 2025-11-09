@@ -1,13 +1,17 @@
 ---
 aliases:
-- Mister Genocide
+  - Mister Genocide
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super Villain
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super Villain
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Mister Genocide
+collection: Creatures-NPCs
+kind: Super Villain
+id: Mister-Genocide
 ---
 
 

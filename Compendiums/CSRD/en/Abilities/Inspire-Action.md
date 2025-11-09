@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Inspire Action"
+  - Inspire Action
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Inspire Action
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Support
+id: Inspire-Action
 ---
 
 

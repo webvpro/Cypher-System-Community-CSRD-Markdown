@@ -1,10 +1,17 @@
 ---
 aliases:
-- Death's Candle
+  - Death's Candle
 tags:
-- Compendium/CSRD/en/Cyphers/Deaths-Candle
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Deaths-Candle
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Death's Candle
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Deaths-Candle
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Giant
+  - Giant
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/40
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/40
+  - Content/Fairytale
+title: Giant
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Giant
 ---
 
 

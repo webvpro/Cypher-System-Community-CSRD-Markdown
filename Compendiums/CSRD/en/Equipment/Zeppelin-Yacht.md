@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Zeppelin, Yacht"
+  - 'Zeppelin, Yacht'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Exorbitant
+title: 'Zeppelin, Yacht'
+collection: Equipment
+kind: Equipment
+id: Zeppelin-Yacht
 ---
 
 

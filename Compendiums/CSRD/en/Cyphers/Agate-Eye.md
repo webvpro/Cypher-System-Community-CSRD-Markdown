@@ -1,10 +1,17 @@
 ---
 aliases:
-- Agate Eye
+  - Agate Eye
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Agate Eye
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Agate-Eye
 ---
 
 

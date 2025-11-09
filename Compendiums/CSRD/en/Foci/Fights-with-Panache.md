@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Fights with Panache"
+  - Fights with Panache
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Fights with Panache
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Fights-with-Panache
 ---
 
 

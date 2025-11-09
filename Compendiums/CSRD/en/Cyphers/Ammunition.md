@@ -1,11 +1,15 @@
 ---
 aliases:
-- Ammunition
+  - Ammunition
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger
+  - Cypher/Subtle
+title: Ammunition
+collection: Cyphers
+kind: Cypher
+id: Ammunition
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 aliases:
-- The Snow Queen
+  - The Snow Queen
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/NA
-- Creature/Armor/2
-- Creature/Health/NA
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Armor/2
+  - Content/Fairytale
+title: The Snow Queen
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: The-Snow-Queen
 ---
 
 

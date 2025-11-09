@@ -1,13 +1,17 @@
 ---
 aliases:
-- Corrupt Mage
+  - Corrupt Mage
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/35
+title: Corrupt Mage
+collection: Creatures-NPCs
+kind: Creature
+id: Corrupt-Mage
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Secret Agent
+  - Secret Agent
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Secret Agent
+collection: Creatures-NPCs
+kind: NPC
+id: Secret-Agent
 ---
 
 

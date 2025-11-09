@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Truth Binoculars"
+  - Truth Binoculars
 tags:
-- Compendium/CSRD/en/Artifacts/Truth-Binoculars
-- Artifact/Magical-Technology
+  - Compendium/CSRD/en/Artifacts/Truth-Binoculars
+  - Artifact/Magical-Technology
+title: Truth Binoculars
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Truth-Binoculars
 ---
 
 

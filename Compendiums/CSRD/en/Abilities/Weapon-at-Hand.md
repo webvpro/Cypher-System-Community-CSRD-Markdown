@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Weapon at Hand"
+  - Weapon at Hand
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Weapon at Hand
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+id: Weapon-at-Hand
 ---
 
 

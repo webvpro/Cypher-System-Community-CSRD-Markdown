@@ -1,10 +1,14 @@
 ---
 aliases:
-- Attractor
+  - Attractor
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Attractor
+collection: Cyphers
+kind: Cypher
+id: Attractor
 ---
 
 

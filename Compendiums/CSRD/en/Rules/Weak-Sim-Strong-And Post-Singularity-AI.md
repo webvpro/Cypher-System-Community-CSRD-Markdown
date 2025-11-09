@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Weak Sim Strong And Post-Singularity AI"
+  - Weak Sim Strong And Post-Singularity AI
 tags:
--  Compendium/CSRD/en/Rules/Optional/Science-Fiction
-- AI/Weak
-- AI/Sim
-- AI/Strong
-- AI/Post-Singularity
+  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
+  - AI/Weak
+  - AI/Sim
+  - AI/Strong
+  - AI/Post-Singularity
+title: Weak Sim Strong And Post-Singularity AI
+collection: Rules
+kind: AI
+id: Weak-Sim-Strong-And Post-Singularity-AI
 ---
 
 ## Weak Sim Strong And Post-Singularity AI

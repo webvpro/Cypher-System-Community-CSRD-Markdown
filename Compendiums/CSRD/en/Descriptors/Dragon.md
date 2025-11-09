@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Dragon"
+  - Dragon
 tags:
-- Compendiums/CSRD/en/Descriptors/Dragon
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Dragon
+  - Descriptor/Species
+  - Content/Modern-Magic
+title: Dragon
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Modern-Magic
+id: Dragon
 ---
 
 ## Dragon

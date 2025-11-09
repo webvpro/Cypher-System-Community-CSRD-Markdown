@@ -1,10 +1,14 @@
 ---
 aliases:
-- Curse Bringer
+  - Curse Bringer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Curse Bringer
+collection: Cyphers
+kind: Cypher
+id: Curse-Bringer
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Godmind
+  - Godmind
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/10
-- Creature/Armor/0
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/10
+  - Creature/Armor/0
+  - Creature/Health/50
+title: Godmind
+collection: Creatures-NPCs
+kind: Creature
+id: Godmind
 ---
 
 

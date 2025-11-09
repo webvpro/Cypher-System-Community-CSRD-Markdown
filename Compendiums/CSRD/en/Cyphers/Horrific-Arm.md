@@ -1,9 +1,16 @@
 ---
 aliases:
-- Horrific Arm
+  - Horrific Arm
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Horrific Arm
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Horrific-Arm
 ---
 
 

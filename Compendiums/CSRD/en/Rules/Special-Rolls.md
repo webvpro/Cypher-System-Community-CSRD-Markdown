@@ -1,10 +1,13 @@
 ---
 aliases:
-- "Special Rolls"
+  - Special Rolls
 tags:
-- Compendium/CSRD/en/Rules/Special-Rolls
-- Dice/Results
--
+  - Compendium/CSRD/en/Rules/Special-Rolls
+  - Dice/Results
+title: Special Rolls
+collection: Rules
+kind: Dice
+id: Special-Rolls
 ---
 
 ## Special Rolls

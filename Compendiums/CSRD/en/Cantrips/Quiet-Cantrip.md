@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Quiet Cantrip"
+  - Quiet Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Quiet-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Quiet-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Quiet Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Quiet-Cantrip
 ---
 
 ## Quiet Cantrip  (1 Intellect point)

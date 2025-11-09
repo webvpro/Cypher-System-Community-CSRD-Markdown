@@ -1,10 +1,14 @@
 ---
 aliases:
-- Monohorn
+  - Monohorn
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Monohorn
+collection: Cyphers
+kind: Cypher
+id: Monohorn
 ---
 
 

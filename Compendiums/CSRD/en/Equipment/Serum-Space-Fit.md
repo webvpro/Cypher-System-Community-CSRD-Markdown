@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Serum, Space-Fit"
+  - 'Serum, Space-Fit'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Moderate
+title: 'Serum, Space-Fit'
+collection: Equipment
+kind: Equipment
+id: Serum-Space-Fit
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Land Ark"
+  - Land Ark
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Land Ark
+collection: Equipment
+kind: Equipment
+id: Land-Ark
 ---
 
 

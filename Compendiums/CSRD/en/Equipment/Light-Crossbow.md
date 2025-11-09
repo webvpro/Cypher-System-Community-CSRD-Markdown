@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Light Crossbow"
+  - Light Crossbow
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/25-Gp
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/25-Gp
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+title: Light Crossbow
+collection: Equipment
+kind: Equipment
+id: Light-Crossbow
 ---
 
 

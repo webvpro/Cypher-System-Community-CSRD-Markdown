@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Electric Lantern"
+  - Electric Lantern
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+title: Electric Lantern
+collection: Equipment
+kind: Equipment
+id: Electric-Lantern
 ---
 
 

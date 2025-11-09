@@ -1,9 +1,13 @@
 ---
 aliases:
-- Guarded
+  - Guarded
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Guarded
+collection: Descriptors
+kind: Descriptor
+id: Guarded
 ---
 
 ## Guarded

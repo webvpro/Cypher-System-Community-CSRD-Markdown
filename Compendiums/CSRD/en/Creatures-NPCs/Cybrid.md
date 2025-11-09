@@ -1,13 +1,17 @@
 ---
 aliases:
-- Cybrid
+  - Cybrid
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/3
-- Creature/Health/60
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/3
+  - Creature/Health/60
+title: Cybrid
+collection: Creatures-NPCs
+kind: Creature
+id: Cybrid
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Has a Thousand Faces"
+  - Has a Thousand Faces
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Has a Thousand Faces
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Has-a-Thousand-Faces
 ---
 
 

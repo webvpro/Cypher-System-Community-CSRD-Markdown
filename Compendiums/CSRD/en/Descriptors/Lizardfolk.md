@@ -1,9 +1,16 @@
 ---
 aliases:
-- Lizardfolk
+  - Lizardfolk
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Fantasy
+title: Lizardfolk
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Fantasy
+id: Lizardfolk
 ---
 
 ## Lizardfolk

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Darkest Book
+  - Darkest Book
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Darkest Book
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Darkest-Book
 ---
 
 

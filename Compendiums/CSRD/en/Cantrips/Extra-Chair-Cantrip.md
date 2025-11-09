@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Extra Chair Cantrip"
+  - Extra Chair Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Extra-Chair-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Extra-Chair-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Extra Chair Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Extra-Chair-Cantrip
 ---
 
 ## Extra Chair Cantrip  (1 Intellect point)

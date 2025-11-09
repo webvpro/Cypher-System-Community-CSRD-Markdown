@@ -1,9 +1,13 @@
 ---
 aliases:
-- Skills and Knowledge Flavor
+  - Skills and Knowledge Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Skills-and-Knowledge-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Skills-and-Knowledge-Flavor
+title: Skills and Knowledge Flavor
+collection: Flavors
+kind: Flavor
+id: Skills-and-Knowledge-Flavor
 ---
 
 

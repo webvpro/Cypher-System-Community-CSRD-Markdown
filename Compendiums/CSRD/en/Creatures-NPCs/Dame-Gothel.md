@@ -1,13 +1,19 @@
 ---
 aliases:
-- Dame Gothel
+  - Dame Gothel
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Content/Fairytale
+title: Dame Gothel
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Dame-Gothel
 ---
 
 

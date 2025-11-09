@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Flight Exertion"
+  - Flight Exertion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/NA
-- Ability/Pool/Might
-- Ability/Pool/Speed
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Pool/Speed
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Flight Exertion
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: NA
+pools:
+  - Might
+  - Speed
+categories:
+  - NA
+  - Superhero
+id: Flight-Exertion
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Vicious Tankard
+  - Vicious Tankard
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Vicious Tankard
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Vicious-Tankard
 ---
 
 

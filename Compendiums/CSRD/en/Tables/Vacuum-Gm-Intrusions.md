@@ -1,9 +1,13 @@
 ---
 aliases:
-- Vacuum Gm Intrusions
+  - Vacuum Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Vacuum-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Vacuum-Gm-Intrusions
+title: Vacuum Gm Intrusions
+collection: Tables
+kind: Table
+id: Vacuum-Gm-Intrusions
 ---
 
 ## Vacuum Gm Intrusions Table

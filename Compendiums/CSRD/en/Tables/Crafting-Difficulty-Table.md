@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Crafting-Difficulty Table"
+  - Crafting-Difficulty Table
 tags:
-- Compendiums/CSRD/en/Tables/Crafting-Difficulty-Table
-- Table
+  - Compendiums/CSRD/en/Tables/Crafting-Difficulty-Table
+  - Table
+title: Crafting-Difficulty Table
+collection: Tables
+kind: Table
+id: Crafting-Difficulty-Table
 ---
 
 ## Crafting Difficulty Table

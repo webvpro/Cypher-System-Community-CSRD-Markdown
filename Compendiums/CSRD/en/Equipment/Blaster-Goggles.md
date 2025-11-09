@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Blaster, Goggles"
+  - 'Blaster, Goggles'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Light
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Light
+  - Equipment/Range/Long
+title: 'Blaster, Goggles'
+collection: Equipment
+kind: Equipment
+id: Blaster-Goggles
 ---
 
 

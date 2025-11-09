@@ -1,13 +1,20 @@
 ---
 aliases:
-- Mi-Go
+  - Mi-Go
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/19
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/19
+  - Content/Horror
+title: Mi-Go
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Mi-Go
 ---
 
 

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Arrows (12)"
+  - Arrows (12)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+title: Arrows (12)
+collection: Equipment
+kind: Equipment
+id: Arrows-12
 ---
 
 

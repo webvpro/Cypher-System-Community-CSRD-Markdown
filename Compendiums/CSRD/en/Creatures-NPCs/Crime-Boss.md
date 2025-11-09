@@ -1,13 +1,17 @@
 ---
 aliases:
-- Crime Boss
+  - Crime Boss
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Crime Boss
+collection: Creatures-NPCs
+kind: NPC
+id: Crime-Boss
 ---
 
 

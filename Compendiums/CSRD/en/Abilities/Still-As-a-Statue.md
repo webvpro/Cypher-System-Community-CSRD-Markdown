@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Still As a Statue"
+  - Still As a Statue
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Protection
+title: Still As a Statue
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '5'
+tier: High
+pools:
+  - Might
+categories:
+  - Protection
+id: Still-As-a-Statue
 ---
 
 

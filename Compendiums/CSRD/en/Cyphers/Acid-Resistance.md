@@ -1,10 +1,14 @@
 ---
 aliases:
-- Acid Resistance
+  - Acid Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Acid Resistance
+collection: Cyphers
+kind: Cypher
+id: Acid-Resistance
 ---
 
 

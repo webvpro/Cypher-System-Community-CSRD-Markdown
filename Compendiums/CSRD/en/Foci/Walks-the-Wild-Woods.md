@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Walks the Wild Woods"
+  - Walks the Wild Woods
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Walks the Wild Woods
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Walks-the-Wild-Woods
 ---
 
 

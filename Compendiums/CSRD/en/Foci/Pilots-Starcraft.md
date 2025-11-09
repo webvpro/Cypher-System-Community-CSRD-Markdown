@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Pilots Starcraft"
+  - Pilots Starcraft
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+title: Pilots Starcraft
+collection: Foci
+kind: Focus
+id: Pilots-Starcraft
 ---
 
 

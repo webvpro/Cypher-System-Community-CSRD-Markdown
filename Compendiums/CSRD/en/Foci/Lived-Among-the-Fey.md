@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Lived Among the Fey"
+  - Lived Among the Fey
 tags:
-- Compendium/CSRD/en/Foci/Lived-Among-the-Fey
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Lived-Among-the-Fey
+  - Focus/Category/Fairytale
+title: Lived Among the Fey
+collection: Foci
+kind: Focus
+id: Lived-Among-the-Fey
 ---
 
 

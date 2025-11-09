@@ -1,10 +1,14 @@
 ---
 aliases:
-- Target Boost
+  - Target Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Target Boost
+collection: Cyphers
+kind: Cypher
+id: Target-Boost
 ---
 
 

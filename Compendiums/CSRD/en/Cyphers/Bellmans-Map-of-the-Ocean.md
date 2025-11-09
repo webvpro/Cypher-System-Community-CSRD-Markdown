@@ -1,10 +1,17 @@
 ---
 aliases:
-- Bellman's Map of the Ocean
+  - Bellman's Map of the Ocean
 tags:
-- Compendium/CSRD/en/Cyphers/Bellmans-Map-of-the-Ocean
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Bellmans-Map-of-the-Ocean
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Bellman's Map of the Ocean
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Bellmans-Map-of-the-Ocean
 ---
 
 

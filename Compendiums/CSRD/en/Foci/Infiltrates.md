@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Infiltrates"
+  - Infiltrates
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+  - Content/Fantasy
+title: Infiltrates
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Infiltrates
 ---
 
 

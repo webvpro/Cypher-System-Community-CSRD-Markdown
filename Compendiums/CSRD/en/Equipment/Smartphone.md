@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Smartphone"
+  - Smartphone
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Communication
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/2
-- Equipment/Value/Moderate
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Communication
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+  - Equipment/Value/Expensive
+title: Smartphone
+collection: Equipment
+kind: Equipment
+id: Smartphone
 ---
 
 

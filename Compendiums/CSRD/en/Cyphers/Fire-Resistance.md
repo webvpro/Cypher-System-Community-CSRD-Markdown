@@ -1,10 +1,14 @@
 ---
 aliases:
-- Fire Resistance
+  - Fire Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Fire Resistance
+collection: Cyphers
+kind: Cypher
+id: Fire-Resistance
 ---
 
 

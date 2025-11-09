@@ -1,10 +1,15 @@
 ---
 aliases:
-- Shield of Two Skies
+  - Shield of Two Skies
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Shield of Two Skies
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Shield-of-Two-Skies
 ---
 
 

@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Witch’s Broom"
+  - Witch’s Broom
 tags:
-- Compendium/CSRD/en/Artifacts/Witchs-Broom
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Witchs-Broom
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Witch’s Broom
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Witchs-Broom
 ---
 
 

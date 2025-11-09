@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Rages"
+  - Rages
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Rages
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Rages
 ---
 
 

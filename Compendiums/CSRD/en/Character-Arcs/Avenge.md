@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Avenge"
+  - Avenge
 tags:
-- Compendium/CSRD/en/Character-Arcs/Avenge
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Avenge
+  - Character-Arc
+title: Avenge
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Avenge
 ---
 ## Assist an Organization
 >Someone close to you or important to you in some way has been wronged. The most overt version of this arc would be to avenge someone’s death. Avenging is different than revenge, as revenge is personal you are the wronged party. But in the Avenge character arc, you are avenging a wrong done to someone else.

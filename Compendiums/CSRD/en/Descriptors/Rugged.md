@@ -1,9 +1,13 @@
 ---
 aliases:
-- Rugged
+  - Rugged
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Rugged
+collection: Descriptors
+kind: Descriptor
+id: Rugged
 ---
 
 ## Rugged

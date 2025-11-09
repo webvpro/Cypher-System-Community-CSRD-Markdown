@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Battery of the Vanquished"
+  - Battery of the Vanquished
 tags:
-- Compendium/CSRD/en/Artifacts/Battery-of-the-Vanquished
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Battery-of-the-Vanquished
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Battery of the Vanquished
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Battery-of-the-Vanquished
 ---
 
 

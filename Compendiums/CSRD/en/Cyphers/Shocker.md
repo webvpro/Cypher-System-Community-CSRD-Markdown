@@ -1,10 +1,14 @@
 ---
 aliases:
-- Shocker
+  - Shocker
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Shocker
+collection: Cyphers
+kind: Cypher
+id: Shocker
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Visage Changer
+  - Visage Changer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Visage Changer
+collection: Cyphers
+kind: Cypher
+id: Visage-Changer
 ---
 
 

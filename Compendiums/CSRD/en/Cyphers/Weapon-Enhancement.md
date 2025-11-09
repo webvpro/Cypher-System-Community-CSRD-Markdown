@@ -1,10 +1,14 @@
 ---
 aliases:
-- Weapon Enhancement
+  - Weapon Enhancement
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Weapon Enhancement
+collection: Cyphers
+kind: Cypher
+id: Weapon-Enhancement
 ---
 
 

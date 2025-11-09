@@ -1,9 +1,13 @@
 ---
 aliases:
-- Swift
+  - Swift
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Swift
+collection: Descriptors
+kind: Descriptor
+id: Swift
 ---
 
 ## Swift

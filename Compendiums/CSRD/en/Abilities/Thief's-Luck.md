@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Thief's Luck"
+  - Thief's Luck
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Thief's Luck
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: High
+pools: []
+categories:
+  - Meta
+id: Thief's-Luck
 ---
 
 

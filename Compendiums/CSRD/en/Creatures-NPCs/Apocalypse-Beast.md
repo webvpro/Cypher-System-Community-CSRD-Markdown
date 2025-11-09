@@ -1,11 +1,16 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Beast"
+  - Four Horsemen of the Apocalypse Beast
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Level/6
-- Creature/Armor/1
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/24
+title: Four Horsemen of the Apocalypse Beast
+collection: Creatures-NPCs
+kind: Creature
+id: Apocalypse-Beast
 ---
 
 

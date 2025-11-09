@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Self-Extending Rope"
+  - Self-Extending Rope
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: Self-Extending Rope
+collection: Equipment
+kind: Equipment
+id: Self-Extending-Rope
 ---
 
 

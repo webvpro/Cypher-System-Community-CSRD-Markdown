@@ -1,10 +1,17 @@
 ---
 aliases:
-- Tin Man's Tears
+  - Tin Man's Tears
 tags:
-- Compendium/CSRD/en/Cyphers/Tin-Mans-Tears
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Tin-Mans-Tears
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Tin Man's Tears
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Tin-Mans-Tears
 ---
 
 

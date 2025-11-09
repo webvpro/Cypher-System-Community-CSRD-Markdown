@@ -1,10 +1,17 @@
 ---
 aliases:
-- Witch Bottle
+  - Witch Bottle
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Witch Bottle
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Witch-Bottle
 ---
 
 

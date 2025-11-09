@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Wields Two Weapons at Once"
+  - Wields Two Weapons at Once
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Fantasy
+title: Wields Two Weapons at Once
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Wields-Two-Weapons-at-Once
 ---
 
 

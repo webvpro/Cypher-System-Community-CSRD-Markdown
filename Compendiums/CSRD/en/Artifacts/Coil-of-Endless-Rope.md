@@ -1,10 +1,15 @@
 ---
 aliases:
-- Coil of Endless Rope
+  - Coil of Endless Rope
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Coil of Endless Rope
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Coil-of-Endless-Rope
 ---
 
 

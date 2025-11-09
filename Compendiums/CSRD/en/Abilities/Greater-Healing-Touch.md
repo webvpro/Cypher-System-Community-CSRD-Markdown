@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Greater Healing Touch"
+  - Greater Healing Touch
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Greater Healing Touch
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Greater-Healing-Touch
 ---
 
 

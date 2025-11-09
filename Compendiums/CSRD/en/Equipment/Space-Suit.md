@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Space Suit"
+  - Space Suit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Space Suit
+collection: Equipment
+kind: Equipment
+id: Space-Suit
 ---
 
 

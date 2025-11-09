@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Force Field, Quick"
+  - 'Force Field, Quick'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Apparel-And-Armor
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Apparel-And-Armor
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: 'Force Field, Quick'
+collection: Equipment
+kind: Equipment
+id: Force-Field-Quick
 ---
 
 

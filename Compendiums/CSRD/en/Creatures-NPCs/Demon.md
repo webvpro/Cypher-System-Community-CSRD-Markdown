@@ -1,13 +1,22 @@
 ---
 aliases:
-- Demon
+  - Demon
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/25
+  - Content/Fairytale
+  - Content/Horror
+title: Demon
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+  - Horror
+id: Demon
 ---
 
 

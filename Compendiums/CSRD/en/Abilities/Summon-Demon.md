@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Summon Demon"
+  - Summon Demon
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Summon Demon
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '7'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Companion
+id: Summon-Demon
 ---
 
 

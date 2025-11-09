@@ -4,6 +4,8 @@ aliases:
   - Type (Character)
 tags:
   - Cypher/Rules/Character-Creation/Type
+title: Character Type in Cypher
+id: Types-og
 ---
 
 # Type

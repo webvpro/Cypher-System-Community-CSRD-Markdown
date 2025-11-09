@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Restore Life"
+  - Restore Life
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Restore Life
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '9'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Restore-Life
 ---
 
 

@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Goodest Gargoyle"
+  - Goodest Gargoyle
 tags:
-- Compendium/CSRD/en/Artifacts/Goodest-Gargoyle
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Goodest-Gargoyle
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Goodest Gargoyle
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Goodest-Gargoyle
 ---
 
 

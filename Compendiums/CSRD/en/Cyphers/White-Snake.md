@@ -1,10 +1,17 @@
 ---
 aliases:
-- White Snake
+  - White Snake
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: White Snake
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: White-Snake
 ---
 
 

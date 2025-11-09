@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Magician’s Protective Amulet"
+  - Magician’s Protective Amulet
 tags:
-- Compendium/CSRD/en/Artifacts/Magicians-Protective-Amulet
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Magicians-Protective-Amulet
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Magician’s Protective Amulet
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Magicians-Protective-Amulet
 ---
 
 

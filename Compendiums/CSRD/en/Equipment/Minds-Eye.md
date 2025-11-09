@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Mind's Eye"
+  - Mind's Eye
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Communication
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Communication
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: Mind's Eye
+collection: Equipment
+kind: Equipment
+id: Minds-Eye
 ---
 
 

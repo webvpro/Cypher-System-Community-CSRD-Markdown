@@ -1,10 +1,14 @@
 ---
 aliases:
-- Null Field
+  - Null Field
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Null Field
+collection: Cyphers
+kind: Cypher
+id: Null-Field
 ---
 
 

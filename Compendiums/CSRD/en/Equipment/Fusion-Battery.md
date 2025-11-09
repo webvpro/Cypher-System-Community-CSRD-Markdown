@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Fusion Battery"
+  - Fusion Battery
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Fusion Battery
+collection: Equipment
+kind: Equipment
+id: Fusion-Battery
 ---
 
 

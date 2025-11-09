@@ -1,10 +1,14 @@
 ---
 aliases:
-- Motion Sensor
+  - Motion Sensor
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Motion Sensor
+collection: Cyphers
+kind: Cypher
+id: Motion-Sensor
 ---
 
 

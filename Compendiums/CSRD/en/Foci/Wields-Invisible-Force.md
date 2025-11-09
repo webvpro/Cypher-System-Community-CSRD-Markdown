@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Wields Invisible Force"
+  - Wields Invisible Force
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Wields Invisible Force
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Wields-Invisible-Force
 ---
 
 

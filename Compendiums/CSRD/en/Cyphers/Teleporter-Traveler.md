@@ -1,10 +1,14 @@
 ---
 aliases:
-- Teleporter Traveler
+  - Teleporter Traveler
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Teleporter Traveler
+collection: Cyphers
+kind: Cypher
+id: Teleporter-Traveler
 ---
 
 

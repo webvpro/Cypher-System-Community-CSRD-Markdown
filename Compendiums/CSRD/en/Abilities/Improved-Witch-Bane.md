@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Improved Witch BAne"
+  - Improved Witch BAne
 tags:
-- Compendium/CSRD/en/Abilities/Improved-Witch-Bane
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/low
-- Ability/Pool/Speed
-- Ability/Categories/
+  - Compendium/CSRD/en/Abilities/Improved-Witch-Bane
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/
+title: Improved Witch BAne
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: Low
+pools:
+  - Speed
+categories:
+  - ''
+id: Improved-Witch-Bane
 ---
 
 ## Improved Witch Bane

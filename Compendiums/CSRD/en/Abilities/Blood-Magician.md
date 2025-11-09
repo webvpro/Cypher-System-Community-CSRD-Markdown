@@ -1,15 +1,30 @@
 ---
 aliases:
-- "Blood Magician"
+  - Blood Magician
 tags:
-- Compendium/CSRD/en/Abilities/Blood-Magician
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Blood-Magician
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+  - Content/Modern-Magic
+title: Blood Magician
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+  - Modern-Magic
+id: Blood-Magician
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Sling"
+  - Sling
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Sp
-- Equipment/Weapon/Light
-- Equipment/Range/Short
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Sp
+  - Equipment/Weapon/Light
+  - Equipment/Range/Short
+title: Sling
+collection: Equipment
+kind: Equipment
+id: Sling
 ---
 
 

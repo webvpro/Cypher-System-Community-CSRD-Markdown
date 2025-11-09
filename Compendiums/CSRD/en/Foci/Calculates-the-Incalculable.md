@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Calculates the Incalculable"
+  - Calculates the Incalculable
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+title: Calculates the Incalculable
+collection: Foci
+kind: Focus
+id: Calculates-the-Incalculable
 ---
 
 

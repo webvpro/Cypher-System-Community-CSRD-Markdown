@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Befriends the Black Dog"
+  - Befriends the Black Dog
 tags:
-- Compendium/CSRD/en/Foci/Befriends-the-Black-Dog
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Befriends-the-Black-Dog
+  - Focus/Category/Fairytale
+title: Befriends the Black Dog
+collection: Foci
+kind: Focus
+id: Befriends-the-Black-Dog
 ---
 
 

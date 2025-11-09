@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Probe Drone"
+  - Probe Drone
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Probe Drone
+collection: Equipment
+kind: Equipment
+id: Probe-Drone
 ---
 
 

@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Fancy Outfit"
+  - Fancy Outfit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+title: Fancy Outfit
+collection: Equipment
+kind: Equipment
+id: Fancy-Outfit
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Naive
+  - Naive
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Naive
+collection: Descriptors
+kind: Descriptor
+id: Naive
 ---
 
 ## Naive

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Cold Weather Gear"
+  - Cold Weather Gear
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Apparel-And-Armor
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Apparel-And-Armor
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: Cold Weather Gear
+collection: Equipment
+kind: Equipment
+id: Cold-Weather-Gear
 ---
 
 

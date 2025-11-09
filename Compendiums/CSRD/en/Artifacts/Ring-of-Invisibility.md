@@ -1,10 +1,15 @@
 ---
 aliases:
-- Ring of Invisibility
+  - Ring of Invisibility
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ring of Invisibility
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Ring-of-Invisibility
 ---
 
 

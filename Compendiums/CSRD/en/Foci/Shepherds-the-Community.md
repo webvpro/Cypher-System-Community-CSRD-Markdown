@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Shepherds the Community"
+  - Shepherds the Community
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+  - Content/Fantasy
+title: Shepherds the Community
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Shepherds-the-Community
 ---
 
 

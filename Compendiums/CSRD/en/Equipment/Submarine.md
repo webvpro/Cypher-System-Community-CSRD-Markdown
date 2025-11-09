@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Submarine"
+  - Submarine
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Priceless
+title: Submarine
+collection: Equipment
+kind: Equipment
+id: Submarine
 ---
 
 

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Helm of Water Breathing
+  - Helm of Water Breathing
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Helm of Water Breathing
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Helm-of-Water-Breathing
 ---
 
 

@@ -1,7 +1,10 @@
 ---
-aliases: "Horror Rules Module"
+aliases:
+  - Horror Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Horror-Rules-Module
+  - Compendium/CSRD/en/Rules/Horror-Rules-Module
+title: Horror Rules Module
+id: Horror-Rules-Module
 ---
 
 # Horror Rules Module

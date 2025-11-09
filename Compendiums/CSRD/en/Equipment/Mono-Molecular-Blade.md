@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Mono-Molecular Blade"
+  - Mono-Molecular Blade
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Light
+title: Mono-Molecular Blade
+collection: Equipment
+kind: Equipment
+id: Mono-Molecular-Blade
 ---
 
 

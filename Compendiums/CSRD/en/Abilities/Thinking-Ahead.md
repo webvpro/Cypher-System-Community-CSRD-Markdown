@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Thinking Ahead"
+  - Thinking Ahead
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Thinking Ahead
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Cure
+id: Thinking-Ahead
 ---
 
 

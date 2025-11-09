@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Sculpts Hard Light"
+  - Sculpts Hard Light
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Superhero
+title: Sculpts Hard Light
+collection: Foci
+kind: Focus
+categories:
+  - Superhero
+id: Sculpts-Hard-Light
 ---
 
 

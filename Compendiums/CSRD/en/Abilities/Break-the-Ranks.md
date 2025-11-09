@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Break the Ranks"
+  - Break the Ranks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
+title: Break the Ranks
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '6'
+tier: High
+pools:
+  - Speed
+categories:
+  - Special-Attack
+id: Break-the-Ranks
 ---
 
 

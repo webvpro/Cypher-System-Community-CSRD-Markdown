@@ -1,11 +1,15 @@
 ---
 aliases:
-- "GM Intrusion"
-- XP
+  - GM Intrusion
+  - XP
 tags:
-- Compendium/CSRD/en/Rules
-- GM/Intrusion
-- XP
+  - Compendium/CSRD/en/Rules
+  - GM/Intrusion
+  - XP
+title: GM Intrusion
+collection: Rules
+kind: GM
+id: Gm-Intrusion
 ---
 
 ## GM Intrusion

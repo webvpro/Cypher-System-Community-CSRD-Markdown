@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Wrap Cantrip"
+  - Wrap Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Wrap-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Wrap-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Wrap Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Wrap-Cantrip
 ---
 
 ## Wrap Cantrip  (1 Intellect point)

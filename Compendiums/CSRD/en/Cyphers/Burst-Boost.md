@@ -1,10 +1,14 @@
 ---
 aliases:
-- Burst Boost
+  - Burst Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Burst Boost
+collection: Cyphers
+kind: Cypher
+id: Burst-Boost
 ---
 
 

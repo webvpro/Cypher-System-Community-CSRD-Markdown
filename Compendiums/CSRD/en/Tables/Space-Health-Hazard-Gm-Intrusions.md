@@ -1,9 +1,13 @@
 ---
 aliases:
-- Space Health Hazard Gm Intrusions
+  - Space Health Hazard Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Space-Health-Hazard-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Space-Health-Hazard-Gm-Intrusions
+title: Space Health Hazard Gm Intrusions
+collection: Tables
+kind: Table
+id: Space-Health-Hazard-Gm-Intrusions
 ---
 
 ## Space Health Hazard Gm Intrusions Table

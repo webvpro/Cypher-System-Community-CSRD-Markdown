@@ -1,10 +1,17 @@
 ---
 aliases:
-- Golden Beetle
+  - Golden Beetle
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Golden Beetle
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Golden-Beetle
 ---
 
 

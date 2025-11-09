@@ -1,10 +1,14 @@
 ---
 aliases:
-- Reality Spike
+  - Reality Spike
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Reality Spike
+collection: Cyphers
+kind: Cypher
+id: Reality-Spike
 ---
 
 

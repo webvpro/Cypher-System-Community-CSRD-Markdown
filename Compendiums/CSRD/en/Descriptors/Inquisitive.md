@@ -1,9 +1,13 @@
 ---
 aliases:
-- Inquisitive
+  - Inquisitive
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Inquisitive
+collection: Descriptors
+kind: Descriptor
+id: Inquisitive
 ---
 
 ## Inquisitive

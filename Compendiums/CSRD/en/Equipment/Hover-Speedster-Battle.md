@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hover Speedster, Battle"
+  - 'Hover Speedster, Battle'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Very-Expensive
+title: 'Hover Speedster, Battle'
+collection: Equipment
+kind: Equipment
+id: Hover-Speedster-Battle
 ---
 
 

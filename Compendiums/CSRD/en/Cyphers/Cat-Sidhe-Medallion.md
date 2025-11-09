@@ -1,10 +1,17 @@
 ---
 aliases:
-- Cat Sidhe Medallion
+  - Cat Sidhe Medallion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Cat Sidhe Medallion
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Cat-Sidhe-Medallion
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Practices Moon Magic"
+  - Practices Moon Magic
 tags:
-- Compendium/CSRD/en/Foci/Practices-Moon-Magic
-- Focus/Category/Fantasy/Modern
+  - Compendium/CSRD/en/Foci/Practices-Moon-Magic
+  - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
+title: Practices Moon Magic
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Practices-Moon-Magic
 ---
 
 

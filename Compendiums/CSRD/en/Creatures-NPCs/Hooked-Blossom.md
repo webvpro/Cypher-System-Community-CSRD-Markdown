@@ -1,13 +1,17 @@
 ---
 aliases:
-- Hooked Blossom
+  - Hooked Blossom
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/2
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/2
+  - Creature/Health/6
+title: Hooked Blossom
+collection: Creatures-NPCs
+kind: Creature
+id: Hooked-Blossom
 ---
 
 

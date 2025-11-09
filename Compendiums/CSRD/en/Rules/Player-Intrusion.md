@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Player Intrusion"
+  - Player Intrusion
 tags:
-- Compendium/CSRD/en/Rules
-- Intrusions/Player
+  - Compendium/CSRD/en/Rules
+  - Intrusions/Player
+title: Player Intrusion
+collection: Rules
+kind: Intrusions
+id: Player-Intrusion
 ---
 
 ## Player Intrusion

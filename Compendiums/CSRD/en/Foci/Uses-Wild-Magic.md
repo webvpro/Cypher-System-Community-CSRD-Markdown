@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Uses Wild Magic"
+  - Uses Wild Magic
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Uses Wild Magic
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Uses-Wild-Magic
 ---
 
 

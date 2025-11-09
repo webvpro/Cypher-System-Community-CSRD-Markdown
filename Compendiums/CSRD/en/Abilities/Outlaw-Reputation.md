@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Outlaw Reputation"
+  - Outlaw Reputation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Outlaw Reputation
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Outlaw-Reputation
 ---
 
 

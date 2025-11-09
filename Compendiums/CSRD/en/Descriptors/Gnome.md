@@ -1,9 +1,16 @@
 ---
 aliases:
-- Gnome
+  - Gnome
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Fantasy
+title: Gnome
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Fantasy
+id: Gnome
 ---
 
 ## Gnome

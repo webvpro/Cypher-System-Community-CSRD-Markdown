@@ -1,15 +1,18 @@
 ---
 aliases:
-- "Plasma Grenade"
+  - Plasma Grenade
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
-- Equipment/Weapon/Thrown
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Thrown
+title: Plasma Grenade
+collection: Equipment
+kind: Equipment
+id: Plasma-Grenade
 ---
 
 

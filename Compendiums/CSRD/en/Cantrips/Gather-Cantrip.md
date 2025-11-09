@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Gather Cantrip"
+  - Gather Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Gather-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Gather-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Gather Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Gather-Cantrip
 ---
 
 ## Gather Cantrip (1 Intellect point)

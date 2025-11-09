@@ -1,7 +1,10 @@
 ---
-aliases: "Sample Character Arcs"
+aliases:
+  - Sample Character Arcs
 tags:
-- Compendium/CSRD/en/Rules/Character-Arcs
+  - Compendium/CSRD/en/Rules/Character-Arcs
+title: Sample Character Arcs
+id: Sample-Character-Arcs
 ---
 
 ## Sample Character Arcs

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Perceptive
+  - Perceptive
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Perceptive
+collection: Descriptors
+kind: Descriptor
+id: Perceptive
 ---
 
 ## Perceptive

@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Trained Gun Casting"
+  - Trained Gun Casting
 tags:
-- Compendium/CSRD/en/Abilities/Trained-Gun-Casting
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/Trained-Gun-Casting
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Trained Gun Casting
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+id: Trained-Gun-Casting
 ---
 
 

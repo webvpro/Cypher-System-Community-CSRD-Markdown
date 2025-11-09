@@ -1,10 +1,14 @@
 ---
 aliases:
-- Repeater
+  - Repeater
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Repeater
+collection: Cyphers
+kind: Cypher
+id: Repeater
 ---
 
 

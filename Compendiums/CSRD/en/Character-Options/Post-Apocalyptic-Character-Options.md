@@ -1,8 +1,10 @@
 ---
 aliases:
-- "Post-apocalyptic Character Options"
+  - Post-apocalyptic Character Options
 tags:
-- Compendium/CSRD/en/Character/Options/Post-apocalyptic
+  - Compendium/CSRD/en/Character/Options/Post-apocalyptic
+title: Post-apocalyptic Character Options
+id: Post-Apocalyptic-Character-Options
 ---
 ## Post-Apocalyptic-Character-Options
 

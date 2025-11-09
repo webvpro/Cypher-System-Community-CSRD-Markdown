@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hover Speedster"
+  - Hover Speedster
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: Hover Speedster
+collection: Equipment
+kind: Equipment
+id: Hover-Speedster
 ---
 
 

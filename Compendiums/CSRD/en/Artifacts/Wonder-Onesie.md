@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Wonder Onesie"
+  - Wonder Onesie
 tags:
-- Compendium/CSRD/en/Artifacts/Wonder-Onesie
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Wonder-Onesie
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Wonder Onesie
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Wonder-Onesie
 ---
 
 

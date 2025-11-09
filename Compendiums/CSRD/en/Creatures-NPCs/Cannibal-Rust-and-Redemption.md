@@ -1,13 +1,17 @@
 ---
 aliases:
-- Cannibal Rust and Redemption
+  - Cannibal Rust and Redemption
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Cannibal Rust and Redemption
+collection: Creatures-NPCs
+kind: Creature
+id: Cannibal-Rust-and-Redemption
 ---
 
 

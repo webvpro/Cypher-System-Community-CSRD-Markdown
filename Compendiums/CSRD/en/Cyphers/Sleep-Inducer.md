@@ -1,10 +1,14 @@
 ---
 aliases:
-- Sleep Inducer
+  - Sleep Inducer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Sleep Inducer
+collection: Cyphers
+kind: Cypher
+id: Sleep-Inducer
 ---
 
 

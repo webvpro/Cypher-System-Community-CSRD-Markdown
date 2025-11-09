@@ -1,13 +1,20 @@
 ---
 aliases:
-- Fundamental Angel
+  - Fundamental Angel
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/2
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/2
+  - Creature/Health/35
+  - Content/Horror
+title: Fundamental Angel
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Fundamental-Angel
 ---
 
 

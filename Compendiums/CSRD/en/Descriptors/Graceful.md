@@ -1,9 +1,13 @@
 ---
 aliases:
-- Graceful
+  - Graceful
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Graceful
+collection: Descriptors
+kind: Descriptor
+id: Graceful
 ---
 
 ## Graceful

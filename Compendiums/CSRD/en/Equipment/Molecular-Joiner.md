@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Molecular Joiner"
+  - Molecular Joiner
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Molecular Joiner
+collection: Equipment
+kind: Equipment
+id: Molecular-Joiner
 ---
 
 

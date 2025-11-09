@@ -1,10 +1,17 @@
 ---
 aliases:
-- Rose of Red
+  - Rose of Red
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Rose of Red
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Rose-of-Red
 ---
 
 

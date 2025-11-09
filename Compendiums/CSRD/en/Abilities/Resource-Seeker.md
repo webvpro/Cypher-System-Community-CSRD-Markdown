@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Resource Seeker"
+  - Resource Seeker
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Resource Seeker
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+id: Resource-Seeker
 ---
 
 

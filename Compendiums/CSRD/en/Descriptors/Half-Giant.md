@@ -1,9 +1,13 @@
 ---
 aliases:
-- Half-Giant
+  - Half-Giant
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Half-Giant
+collection: Descriptors
+kind: Descriptor
+id: Half-Giant
 ---
 
 ## Half-Giant

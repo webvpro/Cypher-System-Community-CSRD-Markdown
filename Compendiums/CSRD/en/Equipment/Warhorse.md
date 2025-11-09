@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Warhorse"
+  - Warhorse
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/300-500-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/300-500-Gp
+title: Warhorse
+collection: Equipment
+kind: Equipment
+id: Warhorse
 ---
 
 

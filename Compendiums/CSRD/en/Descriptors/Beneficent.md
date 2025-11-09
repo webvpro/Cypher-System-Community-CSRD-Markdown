@@ -1,9 +1,13 @@
 ---
 aliases:
-- Beneficent
+  - Beneficent
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Beneficent
+collection: Descriptors
+kind: Descriptor
+id: Beneficent
 ---
 
 ## Beneficent

@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Dagger"
+  - Dagger
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Value/2-Gp
-- Equipment/Range/Can-Be-Thrown-up-to-Short
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Value/2-Gp
+  - Equipment/Range/Can-Be-Thrown-up-to-Short
+  - Equipment/Weapon/Light
+title: Dagger
+collection: Equipment
+kind: Equipment
+id: Dagger
 ---
 
 

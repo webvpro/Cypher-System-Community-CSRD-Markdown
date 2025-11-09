@@ -1,14 +1,28 @@
 ---
 aliases:
-- "Amazing Leap"
+  - Amazing Leap
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Might
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Amazing Leap
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: NA
+pools:
+  - Might
+categories:
+  - NA
+  - Superhero
+id: Amazing-Leap
 ---
 
 

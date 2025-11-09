@@ -1,23 +1,27 @@
 ---
 aliases:
-- "Backpack"
+  - Backpack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/2-Gp
-- Equipment/Value/Moderate
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/2
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/2-Gp
+  - Equipment/Value/Moderate
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+title: Backpack
+collection: Equipment
+kind: Equipment
+id: Backpack
 ---
 
 

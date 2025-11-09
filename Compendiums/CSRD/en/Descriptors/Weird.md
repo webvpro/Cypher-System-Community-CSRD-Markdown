@@ -1,9 +1,13 @@
 ---
 aliases:
-- Weird
+  - Weird
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Weird
+collection: Descriptors
+kind: Descriptor
+id: Weird
 ---
 
 ## Weird

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Magnetic Attack Drill
+  - Magnetic Attack Drill
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Magnetic Attack Drill
+collection: Cyphers
+kind: Cypher
+id: Magnetic-Attack-Drill
 ---
 
 

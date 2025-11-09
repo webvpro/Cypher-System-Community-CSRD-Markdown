@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Blood Fever"
+  - Blood Fever
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Attack-Skill
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Attack-Skill
+  - Ability/Categories/Protection
+title: Blood Fever
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Attack-Skill
+  - Protection
+id: Blood-Fever
 ---
 
 

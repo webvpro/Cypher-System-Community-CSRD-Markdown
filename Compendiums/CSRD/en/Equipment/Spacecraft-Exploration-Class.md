@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Spacecraft, Exploration Class"
+  - 'Spacecraft, Exploration Class'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Spacecraft
-- Equipment/Level/4
-- Equipment/Value/Exorbitant-X3
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Spacecraft
+  - Equipment/Level/4
+  - Equipment/Value/Exorbitant-X3
+title: 'Spacecraft, Exploration Class'
+collection: Equipment
+kind: Equipment
+id: Spacecraft-Exploration-Class
 ---
 
 

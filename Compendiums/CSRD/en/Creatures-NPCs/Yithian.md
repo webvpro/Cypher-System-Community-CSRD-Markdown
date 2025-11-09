@@ -1,13 +1,17 @@
 ---
 aliases:
-- Yithian
+  - Yithian
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/22
+title: Yithian
+collection: Creatures-NPCs
+kind: Creature
+id: Yithian
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Hand Axe"
+  - Hand Axe
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Weapon/Light
+title: Hand Axe
+collection: Equipment
+kind: Equipment
+id: Hand-Axe
 ---
 
 

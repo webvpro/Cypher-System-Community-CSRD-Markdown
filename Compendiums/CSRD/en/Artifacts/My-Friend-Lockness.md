@@ -1,10 +1,18 @@
 ---
 aliases:
-- "My Friend Lockness"
+  - My Friend Lockness
 tags:
-- Compendium/CSRD/en/Artifacts/My-Friend-Lockness
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/My-Friend-Lockness
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: My Friend Lockness
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: My-Friend-Lockness
 ---
 
 

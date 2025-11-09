@@ -1,10 +1,19 @@
 ---
 aliases:
-- "Ask Me Anything"
+  - Ask Me Anything
 tags:
-- Compendium/CSRD/en/Artifacts/Ask-Me-Anything
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Ask-Me-Anything
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Ask Me Anything
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+  - Modern-Fantasy
+id: Ask-Me-Anything
 ---
 
 

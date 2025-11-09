@@ -1,9 +1,13 @@
 ---
 aliases:
-- Shiny
+  - Shiny
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Shiny
+collection: Descriptors
+kind: Descriptor
+id: Shiny
 ---
 
 ## Shiny

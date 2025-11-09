@@ -1,13 +1,17 @@
 ---
 aliases:
-- Shining One
+  - Shining One
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Shining One
+collection: Creatures-NPCs
+kind: Creature
+id: Shining-One
 ---
 
 

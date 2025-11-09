@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Surelock"
+  - Surelock
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Expensive
+title: Surelock
+collection: Equipment
+kind: Equipment
+id: Surelock
 ---
 
 

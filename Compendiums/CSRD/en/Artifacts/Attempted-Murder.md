@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Attempted Murder"
+  - Attempted Murder
 tags:
-- Compendium/CSRD/en/Artifacts/Attempted-Murder
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts/Attempted-Murder
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Attempted Murder
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Attempted-Murder
 ---
 
 

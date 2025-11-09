@@ -1,9 +1,13 @@
 ---
 aliases:
-- Mutant
+  - Mutant
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Mutant
+collection: Descriptors
+kind: Descriptor
+id: Mutant
 ---
 
 ## Mutant

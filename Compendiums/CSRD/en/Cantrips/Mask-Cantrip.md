@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Mask Cantrip"
+  - Mask Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Mask-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Mask-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Mask Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Mask-Cantrip
 ---
 
 ## Mask Cantrip  (1 Intellect point)

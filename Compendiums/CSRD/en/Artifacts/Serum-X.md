@@ -1,10 +1,15 @@
 ---
 aliases:
-- Serum X
+  - Serum X
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Serum X
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Serum-X
 ---
 
 

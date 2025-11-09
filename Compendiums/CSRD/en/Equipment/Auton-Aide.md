@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Auton, Aide"
+  - 'Auton, Aide'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Expensive
+title: 'Auton, Aide'
+collection: Equipment
+kind: Equipment
+id: Auton-Aide
 ---
 
 

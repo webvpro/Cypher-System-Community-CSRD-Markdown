@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Fragmented"
+  - Fragmented
 tags:
   - Compendiums/CSRD/en/Descriptors/Fragmented
   - Descriptor/Fairytale
+title: Fragmented
+collection: Descriptors
+kind: Descriptor
+id: Fragmented
 ---
 
 ## Fragmented

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Rocket, Heavy-Lift Launch"
+  - 'Rocket, Heavy-Lift Launch'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Spacecraft
-- Equipment/Level/2
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Spacecraft
+  - Equipment/Level/2
+  - Equipment/Value/Priceless
+title: 'Rocket, Heavy-Lift Launch'
+collection: Equipment
+kind: Equipment
+id: Rocket-Heavy-Lift-Launch
 ---
 
 

@@ -1,10 +1,18 @@
 ---
 aliases:
-- "Scarf of Love and Death"
+  - Scarf of Love and Death
 tags:
-- Compendium/CSRD/en/Artifacts/Scarf-of-Love-and-Death
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Scarf-of-Love-and-Death
+  - Artifact
+  - Artifact/Modern-Fantasy
+  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic
+title: Scarf of Love and Death
+collection: Artifacts
+kind: Artifact
+categories:
+  - Modern-Magic
+id: Scarf-of-Love-and-Death
 ---
 
 

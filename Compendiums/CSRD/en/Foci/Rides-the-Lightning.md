@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Rides the Lightning"
+  - Rides the Lightning
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Rides the Lightning
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Rides-the-Lightning
 ---
 
 

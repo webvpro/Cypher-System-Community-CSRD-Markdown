@@ -1,13 +1,17 @@
 ---
 aliases:
-- Omworwar
+  - Omworwar
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/10
-- Creature/Armor/10
-- Creature/Health/42
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/10
+  - Creature/Armor/10
+  - Creature/Health/42
+title: Omworwar
+collection: Creatures-NPCs
+kind: Creature
+id: Omworwar
 ---
 
 

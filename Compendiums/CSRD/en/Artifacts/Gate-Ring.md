@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Gate Ring"
+  - Gate Ring
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Gate Ring
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Gate-Ring
 ---
 
 

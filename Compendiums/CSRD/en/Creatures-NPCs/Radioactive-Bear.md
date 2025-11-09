@@ -1,13 +1,17 @@
 ---
 aliases:
-- Radioactive Bear
+  - Radioactive Bear
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/35
+title: Radioactive Bear
+collection: Creatures-NPCs
+kind: Creature
+id: Radioactive-Bear
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Necromancer
+  - Necromancer
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Necromancer
+collection: Creatures-NPCs
+kind: Creature
+id: Necromancer
 ---
 
 

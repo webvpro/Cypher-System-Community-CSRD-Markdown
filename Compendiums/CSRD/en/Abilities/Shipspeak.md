@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Shipspeak"
+  - Shipspeak
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Companion
+title: Shipspeak
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Companion
+id: Shipspeak
 ---
 
 

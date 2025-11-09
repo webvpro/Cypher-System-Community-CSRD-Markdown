@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Parry"
+  - Parry
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Protection
+title: Parry
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '5'
+tier: High
+pools:
+  - Speed
+categories:
+  - Protection
+id: Parry
 ---
 
 

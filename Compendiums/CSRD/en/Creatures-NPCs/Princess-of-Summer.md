@@ -1,13 +1,20 @@
 ---
 aliases:
-- Princess of Summer
+  - Princess of Summer
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/22
+  - Content/Fairytale
+title: Princess of Summer
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Princess-of-Summer
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Temporal Viewer
+  - Temporal Viewer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Temporal Viewer
+collection: Cyphers
+kind: Cypher
+id: Temporal-Viewer
 ---
 
 

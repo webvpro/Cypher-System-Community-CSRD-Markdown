@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Vacuum Handgun, Heavy"
+  - 'Vacuum Handgun, Heavy'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Armament
-- Equipment/Science-Fiction
-- Equipment/Level/3
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Armament
+  - Equipment/Science-Fiction
+  - Equipment/Level/3
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Long
+title: 'Vacuum Handgun, Heavy'
+collection: Equipment
+kind: Equipment
+id: Vacuum-Handgun-Heavy
 ---
 
 

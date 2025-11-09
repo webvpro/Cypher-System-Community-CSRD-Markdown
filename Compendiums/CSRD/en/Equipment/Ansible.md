@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Ansible"
+  - Ansible
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Communication
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Communication
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Ansible
+collection: Equipment
+kind: Equipment
+id: Ansible
 ---
 
 

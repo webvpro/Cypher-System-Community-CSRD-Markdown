@@ -1,10 +1,17 @@
 ---
 aliases:
-- Flaming Arrow
+  - Flaming Arrow
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Flaming Arrow
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Flaming-Arrow
 ---
 
 

@@ -1,25 +1,29 @@
 ---
 aliases:
-- "Shotgun"
+  - Shotgun
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Immediate
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Immediate
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Immediate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Immediate
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Immediate
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Immediate
+title: Shotgun
+collection: Equipment
+kind: Equipment
+id: Shotgun
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Controls Gravity"
+  - Controls Gravity
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Controls Gravity
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Controls-Gravity
 ---
 
 

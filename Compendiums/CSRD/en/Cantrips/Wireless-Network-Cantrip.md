@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Wireless Network Cantrip"
+  - Wireless Network Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Wireless-Network-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Wireless-Network-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Wireless Network Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Wireless-Network-Cantrip
 ---
 
 ## Wet or Dry Cantrip  (1 Intellect point)

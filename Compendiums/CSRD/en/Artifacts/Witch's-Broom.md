@@ -1,10 +1,15 @@
 ---
 aliases:
-- Witch's Broom
+  - Witch's Broom
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Witch's Broom
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Witch's-Broom
 ---
 
 

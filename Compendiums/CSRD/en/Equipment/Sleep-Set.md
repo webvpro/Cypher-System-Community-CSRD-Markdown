@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Sleep Set"
+  - Sleep Set
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: Sleep Set
+collection: Equipment
+kind: Equipment
+id: Sleep-Set
 ---
 
 

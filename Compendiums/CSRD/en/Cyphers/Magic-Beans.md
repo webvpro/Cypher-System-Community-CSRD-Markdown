@@ -1,10 +1,17 @@
 ---
 aliases:
-- Magic Beans
+  - Magic Beans
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Magic Beans
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Magic-Beans
 ---
 
 

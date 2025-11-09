@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Is A Car Wizard"
+  - Is A Car Wizard
 tags:
-- Compendium/CSRD/en/Foci/Is-A-Car-Wizard
-- Focus/Category/Fantasy/Modern
+  - Compendium/CSRD/en/Foci/Is-A-Car-Wizard
+  - Focus/Category/Fantasy/Modern
+  - Content/Modern-Magic
+title: Is A Car Wizard
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Is-A-Car-Wizard
 ---
 
 

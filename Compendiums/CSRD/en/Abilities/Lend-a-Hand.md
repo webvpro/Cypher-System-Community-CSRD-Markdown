@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Lend a Hand"
+  - Lend a Hand
 tags:
-- Compendium/CSRD/en/Abilities/Lend-a-Hand
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Lend-a-Hand
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Lend a Hand
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+id: Lend-a-Hand
 ---
 
 

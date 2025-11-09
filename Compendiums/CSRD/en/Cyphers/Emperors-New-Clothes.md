@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Emperor's New Clothes"
+  - Emperor's New Clothes
 tags:
-- Compendium/CSRD/en/Cyphers/Emperors-New-Clothes
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Emperors-New-Clothes
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Emperor's New Clothes
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Emperors-New-Clothes
 ---
 
 

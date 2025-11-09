@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Helps Their Friends"
+  - Helps Their Friends
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+  - Content/Fantasy
+title: Helps Their Friends
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Helps-Their-Friends
 ---
 
 

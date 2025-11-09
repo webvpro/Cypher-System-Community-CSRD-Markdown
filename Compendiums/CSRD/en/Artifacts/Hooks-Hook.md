@@ -1,10 +1,17 @@
 ---
 aliases:
-- Hook's Hook
+  - Hook's Hook
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Hook's Hook
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Hooks-Hook
 ---
 
 

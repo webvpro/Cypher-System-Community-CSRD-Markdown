@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Absorbs Energy"
+  - Absorbs Energy
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Absorbs Energy
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Absorbs-Energy
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Equipment Cache
+  - Equipment Cache
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Equipment Cache
+collection: Cyphers
+kind: Cypher
+id: Equipment-Cache
 ---
 
 

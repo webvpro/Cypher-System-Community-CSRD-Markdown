@@ -1,13 +1,17 @@
 ---
 aliases:
-- Space Rat
+  - Space Rat
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/1
-- Creature/Armor/0
-- Creature/Health/5
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/1
+  - Creature/Armor/0
+  - Creature/Health/5
+title: Space Rat
+collection: Creatures-NPCs
+kind: Creature
+id: Space-Rat
 ---
 
 

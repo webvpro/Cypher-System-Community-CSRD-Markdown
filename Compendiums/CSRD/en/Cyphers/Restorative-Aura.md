@@ -1,10 +1,14 @@
 ---
 aliases:
-- Restorative Aura
+  - Restorative Aura
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Restorative Aura
+collection: Cyphers
+kind: Cypher
+id: Restorative-Aura
 ---
 
 

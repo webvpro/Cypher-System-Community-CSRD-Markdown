@@ -1,14 +1,30 @@
 ---
 aliases:
-- "Charge Weapon"
+  - Charge Weapon
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+  - Content/Superhero
+  - Content/Fantasy
+title: Charge Weapon
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '2'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+  - Superhero
+  - Fantasy
+id: Charge-Weapon
 ---
 
 

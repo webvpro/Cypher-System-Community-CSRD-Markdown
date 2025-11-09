@@ -1,9 +1,13 @@
 ---
 aliases:
-- Sharp-Eyed
+  - Sharp-Eyed
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Sharp-Eyed
+collection: Descriptors
+kind: Descriptor
+id: Sharp-Eyed
 ---
 
 ## Sharp-Eyed

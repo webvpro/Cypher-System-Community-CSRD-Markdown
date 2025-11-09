@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Pony"
+  - Pony
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/30-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/30-Gp
+title: Pony
+collection: Equipment
+kind: Equipment
+id: Pony
 ---
 
 

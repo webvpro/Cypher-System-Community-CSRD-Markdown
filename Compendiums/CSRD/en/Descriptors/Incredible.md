@@ -1,9 +1,16 @@
 ---
 aliases:
-- Incredible
+  - Incredible
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Superhero
+title: Incredible
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Superhero
+id: Incredible
 ---
 
 ## Incredible

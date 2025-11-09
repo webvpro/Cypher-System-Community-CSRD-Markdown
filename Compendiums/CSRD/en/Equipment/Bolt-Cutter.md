@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Bolt Cutter"
+  - Bolt Cutter
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+title: Bolt Cutter
+collection: Equipment
+kind: Equipment
+id: Bolt-Cutter
 ---
 
 

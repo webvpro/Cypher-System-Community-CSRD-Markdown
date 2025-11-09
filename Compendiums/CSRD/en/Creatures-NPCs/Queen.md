@@ -1,13 +1,20 @@
 ---
 aliases:
-- Queen
+  - Queen
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/18
+  - Content/Fairytale
+title: Queen
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Queen
 ---
 
 

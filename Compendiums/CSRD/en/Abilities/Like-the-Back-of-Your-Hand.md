@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Like the Back of Your Hand"
+  - Like the Back of Your Hand
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: Like the Back of Your Hand
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Task
+id: Like-the-Back-of-Your-Hand
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Hunts Witches"
+  - Hunts Witches
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+  - Content/Modern-Magic
+title: Hunts Witches
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Hunts-Witches
 ---
 
 

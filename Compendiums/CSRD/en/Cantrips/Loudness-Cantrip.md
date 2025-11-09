@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Loudness Cantrip"
+  - Loudness Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Loudness-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Loudness-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Loudness Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Loudness-Cantrip
 ---
 
 ## Loudness Cantrip (1 Intellect point)

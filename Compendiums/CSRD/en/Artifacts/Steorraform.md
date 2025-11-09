@@ -1,10 +1,17 @@
 ---
 aliases:
-- Steorraform
+  - Steorraform
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+  - Content/Science-Fiction
+title: Steorraform
+collection: Artifacts
+kind: Artifact
+categories:
+  - Science-Fiction
+id: Steorraform
 ---
 
 

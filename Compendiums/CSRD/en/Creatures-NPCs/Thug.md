@@ -1,13 +1,17 @@
 ---
 aliases:
-- Thug
+  - Thug
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/9
+title: Thug
+collection: Creatures-NPCs
+kind: NPC
+id: Thug
 ---
 
 

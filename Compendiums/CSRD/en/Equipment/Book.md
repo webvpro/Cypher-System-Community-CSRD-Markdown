@@ -1,16 +1,20 @@
 ---
 aliases:
-- "Book"
+  - Book
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Recreation
-- Equipment/Level/2
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Recreation
+  - Equipment/Level/2
+  - Equipment/Value/Inexpensive
+title: Book
+collection: Equipment
+kind: Equipment
+id: Book
 ---
 
 

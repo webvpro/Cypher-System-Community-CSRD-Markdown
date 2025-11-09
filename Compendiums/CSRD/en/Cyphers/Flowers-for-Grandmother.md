@@ -1,10 +1,17 @@
 ---
 aliases:
-- Flowers for Grandmother
+  - Flowers for Grandmother
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Flowers for Grandmother
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Flowers-for-Grandmother
 ---
 
 

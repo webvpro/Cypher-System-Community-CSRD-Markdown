@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Battlesuit, Deluxe"
+  - 'Battlesuit, Deluxe'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Apparel-And-Armor
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
-- Equipment/Armor/Heavy
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Apparel-And-Armor
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+  - Equipment/Armor/Heavy
+title: 'Battlesuit, Deluxe'
+collection: Equipment
+kind: Equipment
+id: Battlesuit-Deluxe
 ---
 
 

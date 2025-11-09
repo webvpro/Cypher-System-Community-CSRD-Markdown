@@ -1,10 +1,15 @@
 ---
 aliases:
-- Water Filter
+  - Water Filter
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Water Filter
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Water-Filter
 ---
 
 

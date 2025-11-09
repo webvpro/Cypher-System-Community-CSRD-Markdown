@@ -1,13 +1,17 @@
 ---
 aliases:
-- Inquisitor
+  - Inquisitor
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/18
+title: Inquisitor
+collection: Creatures-NPCs
+kind: Creature
+id: Inquisitor
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Wooden Spoon
+  - Wooden Spoon
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Wooden Spoon
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Wooden-Spoon
 ---
 
 

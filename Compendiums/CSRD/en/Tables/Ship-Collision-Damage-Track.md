@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Ship Collision Damage Track"
+  - Ship Collision Damage Track
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Spacecraft/Collision/Damage
+  - Compendiums/CSRD/en/Tables
+  - Table/Spacecraft/Collision/Damage
+title: Ship Collision Damage Track
+collection: Tables
+kind: Table
+id: Ship-Collision-Damage-Track
 ---
 ## Ship Collision Damage Track
 

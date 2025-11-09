@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Control Weather"
+  - Control Weather
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/10
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/10
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Control Weather
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '10'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Environment
+id: Control-Weather
 ---
 
 

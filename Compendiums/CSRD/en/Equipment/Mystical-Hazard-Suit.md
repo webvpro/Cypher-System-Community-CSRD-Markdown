@@ -1,16 +1,20 @@
 ---
 aliases:
-- "Mystical Hazard Suit"
+  - Mystical Hazard Suit
 tags:
-- Compendium/CSRD/en/Equipment/Mystical-Hazard-Suit
-- Equipment/Magical-Technology
-- Equipment/Value/Very-Expensive
-- Equipment/Range/Asset-for-Perception-Tasks-At
-- Equipment/Utility-Gear
-- Equipment/Asset
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Sense-Enhancing-Tools
+  - Compendium/CSRD/en/Equipment/Mystical-Hazard-Suit
+  - Equipment/Magical-Technology
+  - Equipment/Value/Very-Expensive
+  - Equipment/Range/Asset-for-Perception-Tasks-At
+  - Equipment/Utility-Gear
+  - Equipment/Asset
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Sense-Enhancing-Tools
+title: Mystical Hazard Suit
+collection: Equipment
+kind: Equipment
+id: Mystical-Hazard-Suit
 ---
 
 

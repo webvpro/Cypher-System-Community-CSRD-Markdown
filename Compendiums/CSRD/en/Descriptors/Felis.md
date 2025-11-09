@@ -1,9 +1,16 @@
 ---
 aliases:
-- Felis
+  - Felis
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Post-Apocalyptic
+title: Felis
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Post-Apocalyptic
+id: Felis
 ---
 
 ## Felis

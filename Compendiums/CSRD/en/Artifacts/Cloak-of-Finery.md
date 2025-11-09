@@ -1,10 +1,15 @@
 ---
 aliases:
-- Cloak of Finery
+  - Cloak of Finery
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cloak of Finery
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Cloak-of-Finery
 ---
 
 

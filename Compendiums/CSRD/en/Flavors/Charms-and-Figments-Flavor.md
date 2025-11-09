@@ -1,10 +1,13 @@
 ---
 aliases:
-- "Charms and Figments Flavor "
+  - 'Charms and Figments Flavor '
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Modern-Magic/Charms-and-Figments-Flavor
-
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Modern-Magic/Charms-and-Figments-Flavor
+title: 'Charms and Figments Flavor '
+collection: Flavors
+kind: Flavor
+id: Charms-and-Figments-Flavor
 ---
 
 

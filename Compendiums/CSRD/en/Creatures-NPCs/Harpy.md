@@ -1,13 +1,17 @@
 ---
 aliases:
-- Harpy
+  - Harpy
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Harpy
+collection: Creatures-NPCs
+kind: Creature
+id: Harpy
 ---
 
 

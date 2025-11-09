@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Gargoyle"
+  - Gargoyle
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Gargoyle
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/3
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs/Gargoyle
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/3
+  - Creature/Health/12
+  - Content/Fairytale
+title: Gargoyle
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Gargoyle
 ---
 
 

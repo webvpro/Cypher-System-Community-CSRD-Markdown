@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Greater Skill With Attacks"
+  - Greater Skill With Attacks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Attack-Skill
+  - Content/Weird-West
+title: Greater Skill With Attacks
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Attack-Skill
+  - Weird-West
+id: Greater-Skill-With-Attacks
 ---
 
 

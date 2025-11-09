@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Trapster"
+  - Trapster
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Craft
+title: Trapster
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Low
+pools: []
+categories:
+  - Craft
+id: Trapster
 ---
 
 

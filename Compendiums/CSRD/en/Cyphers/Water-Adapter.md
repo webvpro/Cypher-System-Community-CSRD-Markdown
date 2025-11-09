@@ -1,10 +1,14 @@
 ---
 aliases:
-- Water Adapter
+  - Water Adapter
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Water Adapter
+collection: Cyphers
+kind: Cypher
+id: Water-Adapter
 ---
 
 

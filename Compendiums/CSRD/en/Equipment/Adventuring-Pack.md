@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Adventuring Pack"
+  - Adventuring Pack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/6-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/6-Gp
+title: Adventuring Pack
+collection: Equipment
+kind: Equipment
+id: Adventuring-Pack
 ---
 
 

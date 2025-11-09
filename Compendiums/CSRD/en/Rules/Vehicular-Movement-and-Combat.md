@@ -1,10 +1,14 @@
 ---
 aliases:
-- "Vehicular Movement and Combat"
+  - Vehicular Movement and Combat
 tags:
-- Compendium/CSRD/en/Rules/Vehicles/Basic
-- Vehicle/Movement
-- Vehicle/Combat
+  - Compendium/CSRD/en/Rules/Vehicles/Basic
+  - Vehicle/Movement
+  - Vehicle/Combat
+title: Vehicular Movement and Combat
+collection: Rules
+kind: Vehicle
+id: Vehicular-Movement-and-Combat
 ---
 
 ## Vehicular Movement

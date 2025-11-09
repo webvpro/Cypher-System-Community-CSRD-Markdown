@@ -1,9 +1,16 @@
 ---
 aliases:
-- Uncanny
+  - Uncanny
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Superhero
+title: Uncanny
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Superhero
+id: Uncanny
 ---
 
 ## Uncanny

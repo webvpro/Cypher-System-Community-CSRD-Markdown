@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Was Foretold"
+  - Was Foretold
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Was Foretold
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Was-Foretold
 ---
 
 

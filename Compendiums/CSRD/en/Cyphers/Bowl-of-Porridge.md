@@ -1,10 +1,17 @@
 ---
 aliases:
-- Bowl of Porridge
+  - Bowl of Porridge
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Bowl of Porridge
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Bowl-of-Porridge
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Galoshes of Fortune
+  - Galoshes of Fortune
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+  - Content/Fairytale
+title: Galoshes of Fortune
+collection: Artifacts
+kind: Artifact
+categories:
+  - Fairytale
+id: Galoshes-of-Fortune
 ---
 
 

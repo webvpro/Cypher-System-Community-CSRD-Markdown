@@ -1,10 +1,14 @@
 ---
 aliases:
-- Flame-Retardant Wall
+  - Flame-Retardant Wall
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Flame-Retardant Wall
+collection: Cyphers
+kind: Cypher
+id: Flame-Retardant-Wall
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- "Wolf, Big Bad"
+  - 'Wolf, Big Bad'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/1
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/1
+  - Creature/Health/30
+  - Content/Fairytale
+title: 'Wolf, Big Bad'
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Wolf-Big-Bad
 ---
 
 

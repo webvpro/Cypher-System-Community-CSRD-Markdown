@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Stashed Vehicle"
+  - Stashed Vehicle
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Stashed Vehicle
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+id: Stashed-Vehicle
 ---
 
 

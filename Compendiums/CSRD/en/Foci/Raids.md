@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Raids"
+  - Raids
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Raids
+collection: Foci
+kind: Focus
+id: Raids
 ---
 
 

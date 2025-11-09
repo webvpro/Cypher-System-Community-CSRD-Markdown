@@ -1,6 +1,11 @@
 ---
-aliases: [Flavor in Cypher, Flavor (Abilities)]
-tags: [Cypher/Rules/Character-Creation/Flavor]
+aliases:
+  - Flavor in Cypher
+  - Flavor (Abilities)
+tags:
+  - Cypher/Rules/Character-Creation/Flavor
+title: Flavor in Cypher
+id: Flavor
 ---
 
 # Flavor

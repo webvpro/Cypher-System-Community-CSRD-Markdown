@@ -1,13 +1,20 @@
 ---
 aliases:
-- Vat Reject
+  - Vat Reject
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+  - Content/Horror
+title: Vat Reject
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Vat-Reject
 ---
 
 

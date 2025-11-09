@@ -1,13 +1,20 @@
 ---
 aliases:
-- Hivemind Child
+  - Hivemind Child
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/0
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/0
+  - Creature/Health/6
+  - Content/Horror
+title: Hivemind Child
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Horror
+id: Hivemind-Child
 ---
 
 

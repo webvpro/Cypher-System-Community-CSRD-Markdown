@@ -1,15 +1,17 @@
 ---
 aliases:
-- "Plasma Saber"
+  - Plasma Saber
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
-
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Plasma Saber
+collection: Equipment
+kind: Equipment
+id: Plasma-Saber
 ---
 
 

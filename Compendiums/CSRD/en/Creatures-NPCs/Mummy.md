@@ -1,13 +1,17 @@
 ---
 aliases:
-- Mummy
+  - Mummy
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/24
+title: Mummy
+collection: Creatures-NPCs
+kind: Creature
+id: Mummy
 ---
 
 

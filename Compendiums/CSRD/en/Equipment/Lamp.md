@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Lamp"
+  - Lamp
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Sp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Sp
+title: Lamp
+collection: Equipment
+kind: Equipment
+id: Lamp
 ---
 
 

@@ -1,13 +1,20 @@
 ---
 aliases:
-- Huntsman
+  - Huntsman
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/2
-- Creature/Armor/1
-- Creature/Health/8
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/2
+  - Creature/Armor/1
+  - Creature/Health/8
+  - Content/Fairytale
+title: Huntsman
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Huntsman
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "AR Glasses"
+  - AR Glasses
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: AR Glasses
+collection: Equipment
+kind: Equipment
+id: AR-Glasses
 ---
 
 

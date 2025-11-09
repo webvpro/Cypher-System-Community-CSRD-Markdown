@@ -1,10 +1,14 @@
 ---
 aliases:
-- Magnetic Master
+  - Magnetic Master
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Magnetic Master
+collection: Cyphers
+kind: Cypher
+id: Magnetic-Master
 ---
 
 

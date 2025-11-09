@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Sheds Their Skin"
+  - Sheds Their Skin
 tags:
-- Compendium/CSRD/en/Foci/Sheds-Their-Skin
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Sheds-Their-Skin
+  - Focus/Category/Fairytale
+title: Sheds Their Skin
+collection: Foci
+kind: Focus
+id: Sheds-Their-Skin
 ---
 
 

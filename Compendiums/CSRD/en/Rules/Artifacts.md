@@ -1,5 +1,8 @@
 ---
-aliases: "Artifacts"
+aliases:
+  - Artifacts
+title: Artifacts
+id: Artifacts
 ---
 ## Artifacts
 

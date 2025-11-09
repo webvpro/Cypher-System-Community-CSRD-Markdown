@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Heart's Tart"
+  - Heart's Tart
 tags:
-- Compendium/CSRD/en/Cyphers/Hearts-Tart
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Hearts-Tart
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Heart's Tart
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Hearts-Tart
 ---
 
 

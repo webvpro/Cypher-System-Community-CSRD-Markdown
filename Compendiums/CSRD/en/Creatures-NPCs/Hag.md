@@ -1,13 +1,17 @@
 ---
 aliases:
-- Hag
+  - Hag
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/25
+title: Hag
+collection: Creatures-NPCs
+kind: Creature
+id: Hag
 ---
 
 

@@ -1,13 +1,19 @@
 ---
 aliases:
-- The Red Queen
+  - The Red Queen
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Content/Fairytale
+title: The Red Queen
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: The-Red-Queen
 ---
 
 

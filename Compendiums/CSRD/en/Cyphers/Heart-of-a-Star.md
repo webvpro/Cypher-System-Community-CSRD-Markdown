@@ -1,10 +1,17 @@
 ---
 aliases:
-- Heart of a Star
+  - Heart of a Star
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Heart of a Star
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Heart-of-a-Star
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Manticore
+  - Manticore
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/22
+title: Manticore
+collection: Creatures-NPCs
+kind: Creature
+id: Manticore
 ---
 
 

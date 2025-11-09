@@ -1,10 +1,17 @@
 ---
 aliases:
-- Spirit Ring
+  - Spirit Ring
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Spirit Ring
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Spirit-Ring
 ---
 
 

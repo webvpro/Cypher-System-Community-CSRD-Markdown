@@ -1,13 +1,17 @@
 ---
 aliases:
-- Blackguard
+  - Blackguard
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/30
+title: Blackguard
+collection: Creatures-NPCs
+kind: Creature
+id: Blackguard
 ---
 
 

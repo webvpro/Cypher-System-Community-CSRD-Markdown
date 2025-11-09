@@ -1,10 +1,17 @@
 ---
 aliases:
-- Valorous Whetstone
+  - Valorous Whetstone
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Valorous Whetstone
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Valorous-Whetstone
 ---
 
 

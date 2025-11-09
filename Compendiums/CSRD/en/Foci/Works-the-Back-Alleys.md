@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Works the Back Alleys"
+  - Works the Back Alleys
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+  - Content/Fantasy
+title: Works the Back Alleys
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Works-the-Back-Alleys
 ---
 
 

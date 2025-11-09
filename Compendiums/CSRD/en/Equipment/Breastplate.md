@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Breastplate"
+  - Breastplate
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Armor/Medium
+title: Breastplate
+collection: Equipment
+kind: Equipment
+id: Breastplate
 ---
 
 

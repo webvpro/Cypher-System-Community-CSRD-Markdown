@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Spore Cloud"
+  - Spore Cloud
 tags:
-- Compendium/CSRD/en/Abilities/Spore-Cloud
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Spore-Cloud
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Spore Cloud
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '1'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+id: Spore-Cloud
 ---
 
 

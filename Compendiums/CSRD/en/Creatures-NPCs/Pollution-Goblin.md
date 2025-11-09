@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Pollution-Goblin"
+  - Pollution-Goblin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Pollution-Goblin
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/1
-- Creature/Health/8
+  - Compendium/CSRD/en/Creatures-NPCs/Pollution-Goblin
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/1
+  - Creature/Health/8
+title: Pollution-Goblin
+collection: Creatures-NPCs
+kind: Creature
+id: Pollution-Goblin
 ---
 
 

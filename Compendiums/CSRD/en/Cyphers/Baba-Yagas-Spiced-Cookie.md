@@ -1,10 +1,17 @@
 ---
 aliases:
-- Baba Yaga's Spiced Cookie
+  - Baba Yaga's Spiced Cookie
 tags:
-- Compendium/CSRD/en/Cyphers/Baba-Yagas-Spiced-Cookie
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Baba-Yagas-Spiced-Cookie
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Baba Yaga's Spiced Cookie
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Baba-Yagas-Spiced-Cookie
 ---
 
 

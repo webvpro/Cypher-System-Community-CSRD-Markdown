@@ -1,10 +1,15 @@
 ---
 aliases:
-- Carbonizer
+  - Carbonizer
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact/Weapon
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact/Weapon
+  - Artifact/Post-Apocalyptic
+title: Carbonizer
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Carbonizer
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Consorts with the Dead"
+  - Consorts with the Dead
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+  - Content/Fantasy
+title: Consorts with the Dead
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Consorts-with-the-Dead
 ---
 
 

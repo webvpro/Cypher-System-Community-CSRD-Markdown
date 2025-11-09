@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Environment Suit"
+  - Environment Suit
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+title: Environment Suit
+collection: Equipment
+kind: Equipment
+id: Environment-Suit
 ---
 
 

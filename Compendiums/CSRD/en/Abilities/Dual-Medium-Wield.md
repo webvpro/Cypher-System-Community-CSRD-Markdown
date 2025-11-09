@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Dual Medium Wield"
+  - Dual Medium Wield
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Special-Attack
+title: Dual Medium Wield
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Special-Attack
+id: Dual-Medium-Wield
 ---
 
 

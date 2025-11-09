@@ -1,13 +1,20 @@
 ---
 aliases:
-- Scholar
+  - Scholar
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/2
-- Creature/Armor/0
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/2
+  - Creature/Armor/0
+  - Creature/Health/6
+  - Content/Fairytale
+title: Scholar
+collection: Creatures-NPCs
+kind: NPC
+categories:
+  - Fairytale
+id: Scholar
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Auton, Defense"
+  - 'Auton, Defense'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Robots-And-Ai
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Robots-And-Ai
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Exorbitant
+title: 'Auton, Defense'
+collection: Equipment
+kind: Equipment
+id: Auton-Defense
 ---
 
 

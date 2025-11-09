@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Using the Environment"
+  - Using the Environment
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Using the Environment
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Task
+id: Using-the-Environment
 ---
 
 

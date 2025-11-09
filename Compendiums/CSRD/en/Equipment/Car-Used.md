@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Car, Used"
+  - 'Car, Used'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/3
-- Equipment/Value/Expensive
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+  - Equipment/Value/Very-Expensive
+title: 'Car, Used'
+collection: Equipment
+kind: Equipment
+id: Car-Used
 ---
 
 

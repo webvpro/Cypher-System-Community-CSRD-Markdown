@@ -1,13 +1,17 @@
 ---
 aliases:
-- Dragon
+  - Dragon
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/45
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/45
+title: Dragon
+collection: Creatures-NPCs
+kind: Creature
+id: Dragon
 ---
 
 

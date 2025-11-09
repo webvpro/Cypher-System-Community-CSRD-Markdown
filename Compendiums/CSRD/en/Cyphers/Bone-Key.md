@@ -1,10 +1,17 @@
 ---
 aliases:
-- Bone Key
+  - Bone Key
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Bone Key
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Bone-Key
 ---
 
 

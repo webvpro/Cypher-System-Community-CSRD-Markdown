@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Programmable Suitcase"
+  - Programmable Suitcase
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: Programmable Suitcase
+collection: Equipment
+kind: Equipment
+id: Programmable-Suitcase
 ---
 
 

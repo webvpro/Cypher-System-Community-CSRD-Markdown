@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Impressive Display"
+  - Impressive Display
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Task
+title: Impressive Display
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Might
+categories:
+  - Task
+id: Impressive-Display
 ---
 
 

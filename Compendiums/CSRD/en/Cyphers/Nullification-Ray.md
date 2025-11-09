@@ -1,10 +1,14 @@
 ---
 aliases:
-- Nullification Ray
+  - Nullification Ray
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Nullification Ray
+collection: Cyphers
+kind: Cypher
+id: Nullification-Ray
 ---
 
 

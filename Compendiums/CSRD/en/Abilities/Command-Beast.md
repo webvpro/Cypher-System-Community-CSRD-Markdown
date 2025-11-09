@@ -1,14 +1,28 @@
 ---
 aliases:
-- "Command Beast"
+  - Command Beast
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+  - Content/Superhero
+title: Command Beast
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: NA
+pools:
+  - Intellect
+categories:
+  - NA
+  - Superhero
+id: Command-Beast
 ---
 
 

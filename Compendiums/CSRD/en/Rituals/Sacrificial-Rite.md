@@ -1,9 +1,13 @@
 ---
 aliases:
-  - "Sacrificial Rite"
+  - Sacrificial Rite
 tags:
--  Compendium/CSRD/en/Rituals/Sacrificial-Rite
-- Ritual
+  - Compendium/CSRD/en/Rituals/Sacrificial-Rite
+  - Ritual
+title: Sacrificial Rite
+collection: Rituals
+kind: Ritual
+id: Sacrificial-Rite
 ---
 ## Sacrificial Rite
 A creature is ritually killed and its soul is placed in an object. The soul object might be a temporary destination so the soul can be transported and used elsewhere (such as an offering to a demon or as part of a spell), or it might be the final destination for the soul (such as placing it in a sword to create a magic item).

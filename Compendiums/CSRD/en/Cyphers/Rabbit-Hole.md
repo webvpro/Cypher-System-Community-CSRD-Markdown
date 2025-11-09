@@ -1,10 +1,17 @@
 ---
 aliases:
-- Rabbit Hole
+  - Rabbit Hole
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Rabbit Hole
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Rabbit-Hole
 ---
 
 

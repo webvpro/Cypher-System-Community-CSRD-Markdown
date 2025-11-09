@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Elemental, Electricity"
+  - 'Elemental, Electricity'
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Elemental-Electricity
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs/Elemental-Electricity
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/24
+title: 'Elemental, Electricity'
+collection: Creatures-NPCs
+kind: Creature
+id: Elemental-Electricity
 ---
 
 

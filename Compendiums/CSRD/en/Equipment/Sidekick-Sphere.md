@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Sidekick Sphere"
+  - Sidekick Sphere
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Recreation
-- Equipment/Science-Fiction
-- Equipment/Level/2
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Recreation
+  - Equipment/Science-Fiction
+  - Equipment/Level/2
+  - Equipment/Value/Moderate
+title: Sidekick Sphere
+collection: Equipment
+kind: Equipment
+id: Sidekick-Sphere
 ---
 
 

@@ -1,10 +1,15 @@
 ---
 aliases:
-- Ring of Wishes
+  - Ring of Wishes
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ring of Wishes
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Ring-of-Wishes
 ---
 
 

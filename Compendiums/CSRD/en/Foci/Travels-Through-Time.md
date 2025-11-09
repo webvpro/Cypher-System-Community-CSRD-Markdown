@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Travels Through Time"
+  - Travels Through Time
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+title: Travels Through Time
+collection: Foci
+kind: Focus
+id: Travels-Through-Time
 ---
 
 

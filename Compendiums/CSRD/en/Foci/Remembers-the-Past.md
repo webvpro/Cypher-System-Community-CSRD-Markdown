@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Remembers the Past"
+  - Remembers the Past
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Remembers the Past
+collection: Foci
+kind: Focus
+id: Remembers-the-Past
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- Cyclops
+  - Cyclops
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/32
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/32
+title: Cyclops
+collection: Creatures-NPCs
+kind: Creature
+id: Cyclops
 ---
 
 

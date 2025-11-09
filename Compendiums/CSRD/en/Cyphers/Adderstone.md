@@ -1,10 +1,17 @@
 ---
 aliases:
-- Adderstone
+  - Adderstone
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Adderstone
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Adderstone
 ---
 
 

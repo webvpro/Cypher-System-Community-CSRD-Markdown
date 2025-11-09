@@ -1,9 +1,16 @@
 ---
 aliases:
-- Ghost Detector
+  - Ghost Detector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Ghost Detector
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Ghost-Detector
 ---
 
 

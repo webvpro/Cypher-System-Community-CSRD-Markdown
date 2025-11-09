@@ -1,15 +1,19 @@
 ---
 aliases:
-- "Blaster, Light"
+  - 'Blaster, Light'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
-- Equipment/Weapon/Light
-- Equipment/Range/Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+  - Equipment/Weapon/Light
+  - Equipment/Range/Long
+title: 'Blaster, Light'
+collection: Equipment
+kind: Equipment
+id: Blaster-Light
 ---
 
 

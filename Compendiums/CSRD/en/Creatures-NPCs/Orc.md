@@ -1,13 +1,20 @@
 ---
 aliases:
-- Orc
+  - Orc
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/2
-- Creature/Armor/2
-- Creature/Health/7
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/2
+  - Creature/Armor/2
+  - Creature/Health/7
+  - Content/Fairytale
+title: Orc
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Orc
 ---
 
 

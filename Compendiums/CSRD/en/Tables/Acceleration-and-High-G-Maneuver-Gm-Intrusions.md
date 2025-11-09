@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Acceleration and High-G Maneuver Gm Intrusions"
+  - Acceleration and High-G Maneuver Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Acceleration-and-High-G-Maneuver-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Acceleration-and-High-G-Maneuver-Gm-Intrusions
+title: Acceleration and High-G Maneuver Gm Intrusions
+collection: Tables
+kind: Table
+id: Acceleration-and-High-G-Maneuver-Gm-Intrusions
 ---
 
 ## Acceleration and High-G Maneuver Gm Intrusions Table

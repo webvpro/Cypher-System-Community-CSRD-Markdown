@@ -4,6 +4,10 @@ aliases:
 tags:
   - Compendium/CSRD/en/Rules/Descriptor
   - Rule/Descriptor
+title: Descriptor
+collection: Rules
+kind: Rule
+id: Descriptor
 ---
 
 # Descriptor

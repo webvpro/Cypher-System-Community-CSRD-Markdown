@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Masters the Swarm"
+  - Masters the Swarm
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+  - Content/Fantasy
+title: Masters the Swarm
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Masters-the-Swarm
 ---
 
 

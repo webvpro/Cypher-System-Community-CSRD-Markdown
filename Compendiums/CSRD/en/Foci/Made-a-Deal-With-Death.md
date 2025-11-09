@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Made a Deal With Death"
+  - Made a Deal With Death
 tags:
-- Compendium/CSRD/en/Foci/Made-a-Deal-With-Death
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Made-a-Deal-With-Death
+  - Focus/Category/Fairytale
+title: Made a Deal With Death
+collection: Foci
+kind: Focus
+id: Made-a-Deal-With-Death
 ---
 
 

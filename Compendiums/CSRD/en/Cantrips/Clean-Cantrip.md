@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Clean Cantrip"
+  - Clean Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Clean-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Clean-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Clean Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Clean-Cantrip
 ---
 
 ## Clean Cantrip (1 Intellect point)

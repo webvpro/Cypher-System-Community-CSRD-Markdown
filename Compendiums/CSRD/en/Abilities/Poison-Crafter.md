@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Poison Crafter"
+  - Poison Crafter
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Craft
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Craft
+  - Ability/Categories/Protection
+title: Poison Crafter
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Craft
+  - Protection
+id: Poison-Crafter
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- Shadow Soap
+  - Shadow Soap
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Shadow Soap
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Shadow-Soap
 ---
 
 

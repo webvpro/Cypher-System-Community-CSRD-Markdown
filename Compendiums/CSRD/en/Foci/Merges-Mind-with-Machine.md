@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Merges Mind with Machine"
+  - Merges Mind with Machine
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Post-Apocalyptic
+title: Merges Mind with Machine
+collection: Foci
+kind: Focus
+categories:
+  - Post-Apocalyptic
+id: Merges-Mind-with-Machine
 ---
 
 

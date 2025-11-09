@@ -1,13 +1,17 @@
 ---
 aliases:
-- Devolved
+  - Devolved
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/21
+title: Devolved
+collection: Creatures-NPCs
+kind: Creature
+id: Devolved
 ---
 
 

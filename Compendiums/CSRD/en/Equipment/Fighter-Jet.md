@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Fighter Jet"
+  - Fighter Jet
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/5
-- Equipment/Value/Priceless
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/5
+  - Equipment/Value/Priceless
+title: Fighter Jet
+collection: Equipment
+kind: Equipment
+id: Fighter-Jet
 ---
 
 

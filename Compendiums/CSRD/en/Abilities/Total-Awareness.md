@@ -1,13 +1,26 @@
 ---
 aliases:
-- "Total Awareness"
+  - Total Awareness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+  - Content/Weird-West
+title: Total Awareness
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Task
+  - Weird-West
+id: Total-Awareness
 ---
 
 

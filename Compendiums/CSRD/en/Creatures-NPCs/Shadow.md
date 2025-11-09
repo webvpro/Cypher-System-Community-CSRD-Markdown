@@ -1,13 +1,17 @@
 ---
 aliases:
-- Shadow
+  - Shadow
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/1
-- Creature/Armor/1
-- Creature/Health/3
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/1
+  - Creature/Armor/1
+  - Creature/Health/3
+title: Shadow
+collection: Creatures-NPCs
+kind: Creature
+id: Shadow
 ---
 
 

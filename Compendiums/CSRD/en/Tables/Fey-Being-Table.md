@@ -1,9 +1,13 @@
 ---
 aliases:
-- Fey Being Table
+  - Fey Being Table
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Fey Being Table
+collection: Tables
+kind: Table
+id: Fey-Being-Table
 ---
 
 ## Fey Being Table Table

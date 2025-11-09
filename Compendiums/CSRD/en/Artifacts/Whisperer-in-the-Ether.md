@@ -1,10 +1,15 @@
 ---
 aliases:
-- Whisperer in the Ether
+  - Whisperer in the Ether
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Whisperer in the Ether
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Whisperer-in-the-Ether
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Demon Ward
+  - Demon Ward
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Demon Ward
+collection: Cyphers
+kind: Cypher
+id: Demon-Ward
 ---
 
 

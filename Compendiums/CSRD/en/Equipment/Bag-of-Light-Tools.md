@@ -1,18 +1,22 @@
 ---
 aliases:
-- "Bag of Light Tools"
+  - Bag of Light Tools
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/10-Gp
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/10-Gp
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+title: Bag of Light Tools
+collection: Equipment
+kind: Equipment
+id: Bag-of-Light-Tools
 ---
 
 

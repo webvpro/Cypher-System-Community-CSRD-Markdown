@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Javelin"
+  - Javelin
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Sp
-- Equipment/Range/Can-Be-Thrown-up-to-Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Sp
+  - Equipment/Range/Can-Be-Thrown-up-to-Long
+title: Javelin
+collection: Equipment
+kind: Equipment
+id: Javelin
 ---
 
 

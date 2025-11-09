@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Exists in Two Places at Once"
+  - Exists in Two Places at Once
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+title: Exists in Two Places at Once
+collection: Foci
+kind: Focus
+id: Exists-in-Two-Places-at-Once
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Cooking Cantrip"
+  - Cooking Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Cooking-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Cooking-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Cooking Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Cooking-Cantrip
 ---
 
 ## Cooking Cantrip   (1 Intellect point)

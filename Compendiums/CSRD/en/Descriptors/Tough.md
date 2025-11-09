@@ -1,9 +1,13 @@
 ---
 aliases:
-- Tough
+  - Tough
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Tough
+collection: Descriptors
+kind: Descriptor
+id: Tough
 ---
 
 ## Tough

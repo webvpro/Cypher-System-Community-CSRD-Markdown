@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Blazes with Radiance"
+  - Blazes with Radiance
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+  - Content/Fantasy
+title: Blazes with Radiance
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Blazes-with-Radiance
 ---
 
 

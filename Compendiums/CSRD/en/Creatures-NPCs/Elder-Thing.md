@@ -1,13 +1,17 @@
 ---
 aliases:
-- Elder Thing
+  - Elder Thing
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/0
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/0
+  - Creature/Health/30
+title: Elder Thing
+collection: Creatures-NPCs
+kind: Creature
+id: Elder-Thing
 ---
 
 

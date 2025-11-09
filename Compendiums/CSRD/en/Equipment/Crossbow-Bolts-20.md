@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Crossbow Bolts (20)"
+  - Crossbow Bolts (20)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Gp
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Gp
+title: Crossbow Bolts (20)
+collection: Equipment
+kind: Equipment
+id: Crossbow-Bolts-20
 ---
 
 

@@ -1,11 +1,15 @@
 ---
 aliases:
-- "Vehicle"
+  - Vehicle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+title: Vehicle
+collection: Equipment
+kind: Equipment
+id: Vehicle
 ---
 
 

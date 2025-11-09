@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Knife"
+  - Knife
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+  - Equipment/Weapon/Light
+title: Knife
+collection: Equipment
+kind: Equipment
+id: Knife
 ---
 
 

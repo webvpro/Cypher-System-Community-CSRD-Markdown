@@ -1,10 +1,14 @@
 ---
 aliases:
-- Disrupting
+  - Disrupting
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Disrupting
+collection: Cyphers
+kind: Cypher
+id: Disrupting
 ---
 
 

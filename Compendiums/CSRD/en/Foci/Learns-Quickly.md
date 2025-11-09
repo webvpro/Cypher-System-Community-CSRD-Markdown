@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Learns Quickly"
+  - Learns Quickly
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Basic
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Basic
+  - Content/Fantasy
+title: Learns Quickly
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Learns-Quickly
 ---
 
 

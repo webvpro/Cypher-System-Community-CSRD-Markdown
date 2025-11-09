@@ -1,13 +1,17 @@
 ---
 aliases:
-- Berserker
+  - Berserker
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Berserker
+collection: Creatures-NPCs
+kind: NPC
+id: Berserker
 ---
 
 

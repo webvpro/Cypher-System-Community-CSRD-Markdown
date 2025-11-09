@@ -1,9 +1,13 @@
 ---
 aliases:
-- Virtuous
+  - Virtuous
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Virtuous
+collection: Descriptors
+kind: Descriptor
+id: Virtuous
 ---
 
 ## Virtuous

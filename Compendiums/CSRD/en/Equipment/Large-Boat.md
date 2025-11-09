@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Large Boat"
+  - Large Boat
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Large Boat
+collection: Equipment
+kind: Equipment
+id: Large-Boat
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Dishonorable
+  - Dishonorable
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Dishonorable
+collection: Descriptors
+kind: Descriptor
+id: Dishonorable
 ---
 
 ## Dishonorable

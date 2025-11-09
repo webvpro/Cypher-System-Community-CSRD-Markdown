@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Eclipse"
+  - Eclipse
 tags:
-- Compendium/CSRD/en/Abilities/Eclipse
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/
+  - Compendium/CSRD/en/Abilities/Eclipse
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/
+title: Eclipse
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - ''
+id: Eclipse
 ---
 
 

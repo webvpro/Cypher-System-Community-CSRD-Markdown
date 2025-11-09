@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Reading Decomposition"
+  - Reading Decomposition
 tags:
-- Compendium/CSRD/en/Abilities/Reading-Decomposition
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Reading-Decomposition
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Reading Decomposition
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '3'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Magic
+  - Fantasy
+id: Reading-Decomposition
 ---
 
 

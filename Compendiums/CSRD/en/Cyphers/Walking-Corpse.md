@@ -1,10 +1,14 @@
 ---
 aliases:
-- Walking Corpse
+  - Walking Corpse
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Walking Corpse
+collection: Cyphers
+kind: Cypher
+id: Walking-Corpse
 ---
 
 

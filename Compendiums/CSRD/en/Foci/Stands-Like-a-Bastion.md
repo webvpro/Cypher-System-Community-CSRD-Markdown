@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Stands Like a Bastion"
+  - Stands Like a Bastion
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+  - Content/Fantasy
+title: Stands Like a Bastion
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Stands-Like-a-Bastion
 ---
 
 

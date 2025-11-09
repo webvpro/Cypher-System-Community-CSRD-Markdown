@@ -1,10 +1,14 @@
 ---
 aliases:
-- Mind-Restricting Wall
+  - Mind-Restricting Wall
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Mind-Restricting Wall
+collection: Cyphers
+kind: Cypher
+id: Mind-Restricting-Wall
 ---
 
 

@@ -1,14 +1,18 @@
 ---
 aliases:
-- "Knife, Simple"
+  - 'Knife, Simple'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Level/1
-- Equipment/Value/Inexpensive
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Level/1
+  - Equipment/Value/Inexpensive
+  - Equipment/Weapon/Light
+title: 'Knife, Simple'
+collection: Equipment
+kind: Equipment
+id: Knife-Simple
 ---
 
 

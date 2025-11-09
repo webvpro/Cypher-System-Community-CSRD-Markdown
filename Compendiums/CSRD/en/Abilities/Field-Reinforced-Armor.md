@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Field-Reinforced Armor"
+  - Field-Reinforced Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Protection
+title: Field-Reinforced Armor
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: NA
+tier: High
+pools: []
+categories:
+  - Protection
+id: Field-Reinforced-Armor
 ---
 
 

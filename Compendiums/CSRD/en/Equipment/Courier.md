@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Courier"
+  - Courier
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant
+title: Courier
+collection: Equipment
+kind: Equipment
+id: Courier
 ---
 
 

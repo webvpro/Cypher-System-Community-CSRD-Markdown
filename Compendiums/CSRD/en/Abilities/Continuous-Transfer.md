@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Continuous Transfer"
+  - Continuous Transfer
 tags:
-- Compendium/CSRD/en/Abilities/Continuous-Transfer
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Magic/Modern
+  - Compendium/CSRD/en/Abilities/Continuous-Transfer
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
+title: Continuous Transfer
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: ''
+tier: High
+pools:
+  - Intellect
+categories:
+  - Magic
+id: Continuous-Transfer
 ---
 
 

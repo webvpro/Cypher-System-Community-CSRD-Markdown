@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Net"
+  - Net
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1Gp
-- Equipment/Range/Can-Be-Thrown-up-to-Short
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1Gp
+  - Equipment/Range/Can-Be-Thrown-up-to-Short
+  - Equipment/Weapon/Light
+title: Net
+collection: Equipment
+kind: Equipment
+id: Net
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Shepherds Spirits"
+  - Shepherds Spirits
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+  - Content/Fantasy
+title: Shepherds Spirits
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Shepherds-Spirits
 ---
 
 

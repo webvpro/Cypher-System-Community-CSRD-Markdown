@@ -1,9 +1,16 @@
 ---
 aliases:
-- Flutter
+  - Flutter
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+  - Content/Post-Apocalyptic
+title: Flutter
+collection: Descriptors
+kind: Descriptor
+categories:
+  - Post-Apocalyptic
+id: Flutter
 ---
 
 ## Flutter

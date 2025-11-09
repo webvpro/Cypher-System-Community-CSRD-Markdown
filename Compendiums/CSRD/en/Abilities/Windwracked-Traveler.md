@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Windwracked Traveler"
+  - Windwracked Traveler
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Windwracked Traveler
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Movement
+id: Windwracked-Traveler
 ---
 
 

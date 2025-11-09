@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Untouchable While Moving"
+  - Untouchable While Moving
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Untouchable While Moving
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '4'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Untouchable-While-Moving
 ---
 
 

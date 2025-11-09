@@ -1,12 +1,16 @@
 ---
 aliases:
-- Blessing of the Gods
+  - Blessing of the Gods
 tags:
-- Compendium/CSRD/en/Rules/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/0
-- Ability/Tier/NA
+  - Compendium/CSRD/en/Rules/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/0
+  - Ability/Tier/NA
+title: Blessing of the Gods
+collection: Rules
+kind: Ability
+id: Blessing-of-the-Gods-Good
 ---
 
 

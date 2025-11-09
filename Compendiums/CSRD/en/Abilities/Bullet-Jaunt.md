@@ -1,13 +1,24 @@
 ---
 aliases:
-- "Bullet Jaunt"
+  - Bullet Jaunt
 tags:
-- Compendium/CSRD/en/Abilities/Bullet-Jaunt
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/Bullet-Jaunt
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Bullet Jaunt
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: NA
+pools: []
+categories:
+  - NA
+id: Bullet-Jaunt
 ---
 
 

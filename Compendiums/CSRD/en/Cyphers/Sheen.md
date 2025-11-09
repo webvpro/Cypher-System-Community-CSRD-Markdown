@@ -1,10 +1,14 @@
 ---
 aliases:
-- Sheen
+  - Sheen
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Sheen
+collection: Cyphers
+kind: Cypher
+id: Sheen
 ---
 
 

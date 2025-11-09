@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Lives in the Wilderness"
+  - Lives in the Wilderness
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Lives in the Wilderness
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Lives-in-the-Wilderness
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Hand Scanner"
+  - Hand Scanner
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/4
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+title: Hand Scanner
+collection: Equipment
+kind: Equipment
+id: Hand-Scanner
 ---
 
 

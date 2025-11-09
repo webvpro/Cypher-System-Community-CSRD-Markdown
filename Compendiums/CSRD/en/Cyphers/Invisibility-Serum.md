@@ -1,9 +1,16 @@
 ---
 aliases:
-- Invisibility Serum
+  - Invisibility Serum
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Content/Horror
+title: Invisibility Serum
+collection: Cyphers
+kind: Cypher
+categories:
+  - Horror
+id: Invisibility-Serum
 ---
 
 

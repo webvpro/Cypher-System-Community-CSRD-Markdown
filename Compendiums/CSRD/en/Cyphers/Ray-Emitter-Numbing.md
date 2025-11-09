@@ -1,10 +1,14 @@
 ---
 aliases:
-- Ray Emitter Numbing
+  - Ray Emitter Numbing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Ray Emitter Numbing
+collection: Cyphers
+kind: Cypher
+id: Ray-Emitter-Numbing
 ---
 
 

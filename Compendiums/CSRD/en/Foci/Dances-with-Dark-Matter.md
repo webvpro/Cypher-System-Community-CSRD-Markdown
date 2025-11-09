@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Dances with Dark Matter"
+  - Dances with Dark Matter
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+  - Content/Fantasy
+title: Dances with Dark Matter
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Dances-with-Dark-Matter
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Wind Armor"
+  - Wind Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Wind Armor
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '1'
+tier: Low
+pools:
+  - Intellect
+categories:
+  - Protection
+id: Wind-Armor
 ---
 
 

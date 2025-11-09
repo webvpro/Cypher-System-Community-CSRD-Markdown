@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Padded Armor"
+  - Padded Armor
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Gp
-
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Gp
+title: Padded Armor
+collection: Equipment
+kind: Equipment
+id: Padded-Armor
 ---
 
 

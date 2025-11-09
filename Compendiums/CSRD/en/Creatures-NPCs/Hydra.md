@@ -1,13 +1,17 @@
 ---
 aliases:
-- Hydra
+  - Hydra
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/24
+title: Hydra
+collection: Creatures-NPCs
+kind: Creature
+id: Hydra
 ---
 
 

@@ -1,11 +1,16 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Plague"
+  - Four Horsemen of the Apocalypse Plague
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/level/6
-- Creature/Heath/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/24
+title: Four Horsemen of the Apocalypse Plague
+collection: Creatures-NPCs
+kind: Creature
+id: Apocalypse-Plague
 ---
 
 ## Four Horsemen of the Apocalypse Plague

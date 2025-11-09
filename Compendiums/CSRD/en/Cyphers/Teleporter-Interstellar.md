@@ -1,10 +1,14 @@
 ---
 aliases:
-- Teleporter Interstellar
+  - Teleporter Interstellar
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Teleporter Interstellar
+collection: Cyphers
+kind: Cypher
+id: Teleporter-Interstellar
 ---
 
 

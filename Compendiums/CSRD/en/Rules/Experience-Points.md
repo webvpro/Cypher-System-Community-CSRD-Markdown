@@ -1,12 +1,16 @@
 ---
 aliases:
-- "Experience Points"
-- XP
+  - Experience Points
+  - XP
 tags:
-- Compendium/CSRD/en/Rules
-- Character/Experience-Points
-- Character/XP
-- Character/Advancement
+  - Compendium/CSRD/en/Rules
+  - Character/Experience-Points
+  - Character/XP
+  - Character/Advancement
+title: Experience Points
+collection: Rules
+kind: Character
+id: Experience-Points
 ---
 
 ## Experience Points

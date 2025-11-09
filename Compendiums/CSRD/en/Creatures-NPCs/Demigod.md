@@ -1,13 +1,20 @@
 ---
 aliases:
-- Demigod
+  - Demigod
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/99
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/99
+  - Content/Fairytale
+title: Demigod
+collection: Creatures-NPCs
+kind: Creature
+categories:
+  - Fairytale
+id: Demigod
 ---
 
 

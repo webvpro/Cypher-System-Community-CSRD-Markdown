@@ -1,10 +1,14 @@
 ---
 aliases:
-- Gravity Nullifier
+  - Gravity Nullifier
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Gravity Nullifier
+collection: Cyphers
+kind: Cypher
+id: Gravity-Nullifier
 ---
 
 

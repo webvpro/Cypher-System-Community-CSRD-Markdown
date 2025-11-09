@@ -1,10 +1,14 @@
 ---
 aliases:
-- Perfection
+  - Perfection
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Perfection
+collection: Cyphers
+kind: Cypher
+id: Perfection
 ---
 
 

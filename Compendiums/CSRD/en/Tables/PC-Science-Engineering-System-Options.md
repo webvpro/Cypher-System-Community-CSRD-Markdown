@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Player Science & Engineering System Options"
+  - Player Science & Engineering System Options
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/PC/Options/Science-Engineering-System
+  - Compendiums/CSRD/en/Tables
+  - Table/PC/Options/Science-Engineering-System
+title: Player Science & Engineering System Options
+collection: Tables
+kind: Table
+id: PC-Science-Engineering-System-Options
 ---
 
 ## Player Science & Engineering System Options

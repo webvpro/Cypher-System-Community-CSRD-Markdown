@@ -1,10 +1,14 @@
 ---
 aliases:
-- Poison Mind Disrupting
+  - Poison Mind Disrupting
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Poison Mind Disrupting
+collection: Cyphers
+kind: Cypher
+id: Poison-Mind-Disrupting
 ---
 
 

@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Drain Charge"
+  - Drain Charge
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+  - Ability/Categories/Special-Attack
+title: Drain Charge
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: NA
+tier: Mid
+pools: []
+categories:
+  - Cure
+  - Special-Attack
+id: Drain-Charge
 ---
 
 

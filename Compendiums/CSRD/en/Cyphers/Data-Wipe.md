@@ -1,9 +1,13 @@
 ---
 aliases:
-- Data Wipe
+  - Data Wipe
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Data Wipe
+collection: Cyphers
+kind: Cypher
+id: Data-Wipe
 ---
 
 

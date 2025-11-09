@@ -1,10 +1,14 @@
 ---
 aliases:
-- Phase Changer
+  - Phase Changer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Phase Changer
+collection: Cyphers
+kind: Cypher
+id: Phase-Changer
 ---
 
 

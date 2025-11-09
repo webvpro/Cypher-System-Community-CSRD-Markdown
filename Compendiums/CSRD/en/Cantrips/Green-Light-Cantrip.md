@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Green Light Cantrip"
+  - Green Light Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Green-Light-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Green-Light-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Green Light Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Green-Light-Cantrip
 ---
 
 ## Green-Light-Cantrip (1 Intellect point)

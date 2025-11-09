@@ -1,9 +1,13 @@
 ---
 aliases:
-- "Acceleration and High-g Maneuver Gm Intrusions"
+  - Acceleration and High-g Maneuver Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Space-Suits-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Space-Suits-Gm-Intrusions
+title: Acceleration and High-g Maneuver Gm Intrusions
+collection: Tables
+kind: Table
+id: Space-Suits-Gm-Intrusions 1
 ---
 
 ## Acceleration and High-g Maneuver Gm Intrusions

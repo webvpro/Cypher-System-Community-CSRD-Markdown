@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Never Says Die"
+  - Never Says Die
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Never Says Die
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Never-Says-Die
 ---
 
 

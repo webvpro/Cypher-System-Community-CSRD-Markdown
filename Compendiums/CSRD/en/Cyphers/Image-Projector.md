@@ -1,10 +1,14 @@
 ---
 aliases:
-- Image Projector
+  - Image Projector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Image Projector
+collection: Cyphers
+kind: Cypher
+id: Image-Projector
 ---
 
 

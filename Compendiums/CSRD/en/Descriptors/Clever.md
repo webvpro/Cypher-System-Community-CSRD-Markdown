@@ -1,9 +1,13 @@
 ---
 aliases:
-- Clever
+  - Clever
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Clever
+collection: Descriptors
+kind: Descriptor
+id: Clever
 ---
 
 ## Clever

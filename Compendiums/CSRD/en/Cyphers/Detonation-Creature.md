@@ -1,10 +1,14 @@
 ---
 aliases:
-- Detonation Creature
+  - Detonation Creature
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Detonation Creature
+collection: Cyphers
+kind: Cypher
+id: Detonation-Creature
 ---
 
 

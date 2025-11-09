@@ -1,13 +1,17 @@
 ---
 aliases:
-- Earth Elemental
+  - Earth Elemental
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/3
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/3
+  - Creature/Health/30
+title: Earth Elemental
+collection: Creatures-NPCs
+kind: Creature
+id: Earth-Elemental
 ---
 
 

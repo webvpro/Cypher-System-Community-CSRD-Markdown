@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Divine Radiance"
+  - Divine Radiance
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Divine Radiance
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '2'
+tier: Mid
+pools:
+  - Intellect
+categories:
+  - Special-Attack
+id: Divine-Radiance
 ---
 
 

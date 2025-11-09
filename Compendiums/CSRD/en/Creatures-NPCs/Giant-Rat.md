@@ -1,13 +1,17 @@
 ---
 aliases:
-- Giant Rat
+  - Giant Rat
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/18
+title: Giant Rat
+collection: Creatures-NPCs
+kind: Creature
+id: Giant-Rat
 ---
 
 

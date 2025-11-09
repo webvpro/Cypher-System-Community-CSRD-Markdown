@@ -1,10 +1,17 @@
 ---
 aliases:
-- Song of the Dead
+  - Song of the Dead
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Song of the Dead
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Song-of-the-Dead
 ---
 
 

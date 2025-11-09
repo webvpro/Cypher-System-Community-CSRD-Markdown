@@ -1,13 +1,17 @@
 ---
 aliases:
-- Sapient Tree
+  - Sapient Tree
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/3
-- Creature/Health/16
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/3
+  - Creature/Health/16
+title: Sapient Tree
+collection: Creatures-NPCs
+kind: Creature
+id: Sapient-Tree
 ---
 
 

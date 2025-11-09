@@ -1,15 +1,28 @@
 ---
 aliases:
-- "Extreme Mastery"
+  - Extreme Mastery
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Pool/Speed
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+title: Extreme Mastery
+collection: Abilities
+kind: Ability
+action: false
+enabler: true
+cost: '6'
+tier: High
+pools:
+  - Might
+  - Speed
+categories:
+  - Meta
+id: Extreme-Mastery
 ---
 
 

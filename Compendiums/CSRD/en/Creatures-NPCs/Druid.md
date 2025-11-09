@@ -1,13 +1,17 @@
 ---
 aliases:
-- Druid
+  - Druid
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Druid
+collection: Creatures-NPCs
+kind: NPC
+id: Druid
 ---
 
 

@@ -1,10 +1,14 @@
 ---
 aliases:
-- Lightning Wall
+  - Lightning Wall
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Lightning Wall
+collection: Cyphers
+kind: Cypher
+id: Lightning-Wall
 ---
 
 

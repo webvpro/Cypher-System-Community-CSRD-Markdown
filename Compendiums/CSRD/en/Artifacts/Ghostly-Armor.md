@@ -1,10 +1,15 @@
 ---
 aliases:
-- Ghostly Armor
+  - Ghostly Armor
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ghostly Armor
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Ghostly-Armor
 ---
 
 

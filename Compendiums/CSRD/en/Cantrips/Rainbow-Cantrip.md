@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Rainbow Cantrip"
+  - Rainbow Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Rainbow-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Rainbow-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Rainbow Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Rainbow-Cantrip
 ---
 
 ## Rainbow Cantrip  (1 Intellect point)

@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Motorcycle, Cruiser"
+  - 'Motorcycle, Cruiser'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Planetary-Vehicle
-- Equipment/Level/3
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Planetary-Vehicle
+  - Equipment/Level/3
+  - Equipment/Value/Expensive
+title: 'Motorcycle, Cruiser'
+collection: Equipment
+kind: Equipment
+id: Motorcycle-Cruiser
 ---
 
 

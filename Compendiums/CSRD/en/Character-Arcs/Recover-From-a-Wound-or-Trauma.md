@@ -1,9 +1,14 @@
 ---
 aliases:
-- "Recover From a Wound (or Trauma)"
+  - Recover From a Wound (or Trauma)
 tags:
-- Compendium/CSRD/en/Character-Arcs/Recover-From-a-Wound-or-Trauma
-- Character-Arc
+  - Compendium/CSRD/en/Character-Arcs/Recover-From-a-Wound-or-Trauma
+  - Character-Arc
+title: Recover From a Wound (or Trauma)
+collection: Character-Arcs
+kind: Arc
+categories: []
+id: Recover-From-a-Wound-or-Trauma
 ---
 ## Recover From a Wound (or Trauma)
 >You need to heal. This isn’t just for healing simple damage. This involves recovering from a major debilitating injury, illness, or shock. Severe damage, the loss of a body part, and emotional trauma all fall into this category.

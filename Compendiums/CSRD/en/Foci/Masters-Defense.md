@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Masters Defense"
+  - Masters Defense
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+  - Content/Fantasy
+title: Masters Defense
+collection: Foci
+kind: Focus
+categories:
+  - Fantasy
+id: Masters-Defense
 ---
 
 

@@ -1,9 +1,13 @@
 ---
 aliases:
-- Exiled
+  - Exiled
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Exiled
+collection: Descriptors
+kind: Descriptor
+id: Exiled
 ---
 
 ## Exiled

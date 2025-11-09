@@ -1,10 +1,14 @@
 ---
 aliases:
-- Friction Reducer
+  - Friction Reducer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Friction Reducer
+collection: Cyphers
+kind: Cypher
+id: Friction-Reducer
 ---
 
 

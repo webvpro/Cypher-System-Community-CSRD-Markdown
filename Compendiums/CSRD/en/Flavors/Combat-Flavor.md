@@ -1,9 +1,13 @@
 ---
 aliases:
-- Combat Flavor
+  - Combat Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Combat-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Combat-Flavor
+title: Combat Flavor
+collection: Flavors
+kind: Flavor
+id: Combat-Flavor
 ---
 
 

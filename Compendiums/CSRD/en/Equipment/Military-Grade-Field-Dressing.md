@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Military-Grade Field Dressing"
+  - Military-Grade Field Dressing
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Contemporary
-- Equipment/Health-Care-and-Nutrition
-- Equipment/Modern
-- Equipment/Level/3
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Contemporary
+  - Equipment/Health-Care-and-Nutrition
+  - Equipment/Modern
+  - Equipment/Level/3
+  - Equipment/Value/Very-Expensive
+title: Military-Grade Field Dressing
+collection: Equipment
+kind: Equipment
+id: Military-Grade-Field-Dressing
 ---
 
 

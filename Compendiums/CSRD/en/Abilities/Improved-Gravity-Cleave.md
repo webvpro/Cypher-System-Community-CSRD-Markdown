@@ -1,14 +1,26 @@
 ---
 aliases:
-- "Improved Gravity Cleave"
+  - Improved Gravity Cleave
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Improved Gravity Cleave
+collection: Abilities
+kind: Ability
+action: true
+enabler: false
+cost: '9'
+tier: High
+pools:
+  - Intellect
+categories:
+  - Meta
+id: Improved-Gravity-Cleave
 ---
 
 

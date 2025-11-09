@@ -1,10 +1,17 @@
 ---
 aliases:
-- Poisoned Apple
+  - Poisoned Apple
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+  - Content/Fairytale
+title: Poisoned Apple
+collection: Cyphers
+kind: Cypher
+categories:
+  - Fairytale
+id: Poisoned-Apple
 ---
 
 

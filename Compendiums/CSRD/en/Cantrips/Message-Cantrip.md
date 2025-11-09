@@ -1,10 +1,17 @@
 ---
 aliases:
-- "Message Cantrip"
+  - Message Cantrip
 tags:
-- Compendium/CSRD/en/Cantrips/Message-Cantrip
-- Cantrip/Pool/Intellect
-- Cantrip/Cost/1
+  - Compendium/CSRD/en/Cantrips/Message-Cantrip
+  - Cantrip/Pool/Intellect
+  - Cantrip/Cost/1
+title: Message Cantrip
+collection: Cantrips
+kind: Cantrip
+cost: '1'
+pools:
+  - Intellect
+id: Message-Cantrip
 ---
 
 ## Message Cantrip  (1 Intellect point)

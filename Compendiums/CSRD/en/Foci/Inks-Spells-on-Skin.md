@@ -1,9 +1,16 @@
 ---
 aliases:
-- "Inks Spells on Skin"
+  - Inks Spells on Skin
 tags:
-- Compendium/CSRD/en/Foci/nks-Spells-on-Skin
-- Focus/Category/
+  - Compendium/CSRD/en/Foci/nks-Spells-on-Skin
+  - Focus/Category/
+  - Content/Modern-Magic
+title: Inks Spells on Skin
+collection: Foci
+kind: Focus
+categories:
+  - Modern-Magic
+id: Inks-Spells-on-Skin
 ---
 
 

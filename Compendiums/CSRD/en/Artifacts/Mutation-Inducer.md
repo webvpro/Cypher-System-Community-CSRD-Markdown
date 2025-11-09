@@ -1,10 +1,15 @@
 ---
 aliases:
-- Mutation Inducer
+  - Mutation Inducer
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Mutation Inducer
+collection: Artifacts
+kind: Artifact
+categories: []
+id: Mutation-Inducer
 ---
 
 

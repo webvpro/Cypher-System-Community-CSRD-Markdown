@@ -1,13 +1,17 @@
 ---
 aliases:
-- "Car, Smart"
+  - 'Car, Smart'
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/6
-- Equipment/Value/Exorbitant
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/6
+  - Equipment/Value/Exorbitant
+title: 'Car, Smart'
+collection: Equipment
+kind: Equipment
+id: Car-Smart
 ---
 
 
