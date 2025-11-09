@@ -10,7 +10,6 @@ tags:
 Forgeborn---also called golems---are animate figures of metal,
 reanimated flesh, or other normally inert materials. They are
 constructed for a specific purpose; an angalith is usually
-
 sent to punish or guard, and inkubuses are commonly seeded as spies or
 assassins.
 
