@@ -41,7 +41,7 @@ You’re a good ally to have in a fight. You know how to use weapons and defend 
 
 >**Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 
-#### Warrior Background Connection
+### Warrior Background Connection
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 >[!info]-  Warrior Background Connection table
 >| **d20** | **Background**                                                                                                    |
@@ -68,7 +68,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 20 | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
 
 
-#### Warrior Player Intrusions
+### Warrior Player Intrusions
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 >**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
 
@@ -76,7 +76,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 >**Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
-#### Warrior Stat Pools
+### Warrior Stat Pools
 | **Stat** | **Pool Starting Value** |
 | -- | ----------------------------- |
 | [[Might\|Might]] | 10 |
@@ -85,7 +85,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### First-Tier Warrior
+### First-Tier Warrior
 >**First-tier warriors have the following abilities**
 >**Effort:** Your Effort is 1.
 >**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
@@ -105,7 +105,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Swipe|Swipe]]
 [[Trained-Without-Armor|Trained Without Armor]]
 
-#### Second-Tier Warrior
+### Second-Tier Warrior
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Crushing-Blow|Crushing Blow]]
 [[Hemorrhage|Hemorrhage]]
@@ -114,7 +114,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Skill-With-Defense|Skill With Defense]]
 [[Successive-Attack|Successive Attack]]
 
-#### Third-Tier Warrior
+### Third-Tier Warrior
 >Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Deadly-Aim|Deadly Aim]]
 [[Energy-Resistance|Energy Resistance]]
@@ -129,7 +129,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Trick-Shot|Trick Shot]]
 [[Vigilance|Vigilance]]
 
-#### Fourth-Tier Warrior
+### Fourth-Tier Warrior
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Amazing-Effort|Amazing Effort]]
 [[Capable-Warrior|Capable Warrior]]
@@ -141,7 +141,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Snipe|Snipe]]
 [[Tough-as-Nails|Tough as Nails]]
 
-#### Fifth-Tier Warrior
+### Fifth-Tier Warrior
 >Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Adroit-Cypher-Use|Adroit Cypher Use]]
 [[Arc-Spray|Arc Spray]]
@@ -155,7 +155,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 >[!info]
 >Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
 
-#### Sixth-Tier Warrior
+### Sixth-Tier Warrior
 >Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times
 [[Again-and-Again|Again and Again]]
 [[Finishing-Blow|Finishing Blow]]
@@ -164,7 +164,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Spin-Attack|Spin Attack]]
 [[Weapon-and-Body|Weapon and Body]]
 
-#### Warrior Example
+### Warrior Example
 >Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 >
  He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.

@@ -41,7 +41,7 @@ You’re good with words and good with people. You talk your way past challenges
 
 >**Advanced Speakers**: Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
-## Speaker Player Intrusions
+### Speaker Player Intrusions
 
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -60,7 +60,7 @@ When playing a Speaker, you can spend 1 XP to use one of the following player in
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### Speaker Background Connection
+### Speaker Background Connection
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 >[!info]- Speaker Background Connection
@@ -87,7 +87,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You are in a close romantic relationship with someone in local politics.|
 |20|Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|
 
-## First-Tier Speaker
+### First-Tier Speaker
 
 First-tier speakers have the following abilities:
 
@@ -131,7 +131,7 @@ Choose four of the abilities listed below. You can’t choose the same ability m
    [[Terrifying-Presence|Terrifying Presence]]
    [[Understanding|Understanding]]
 
-## Second-Tier Speaker
+### Second-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
@@ -147,7 +147,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
    [[Speedy-Recovery|Speedy Recovery]]
    [[Unexpected-Betrayal|Unexpected Betrayal]]
 
-## Third-Tier Speaker
+### Third-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
@@ -192,7 +192,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 [[Skill-With-Attacks|Skill With Attacks]]
 [[Stimulate|Stimulate]]
 
-## Sixth-Tier Speaker
+### Sixth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
@@ -205,7 +205,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 [[True-Senses|True Senses]]
 [[Word-of-Command|Word of Command]]
 
-## Speaker Example
+### Speaker Example
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
