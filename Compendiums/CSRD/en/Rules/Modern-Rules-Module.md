@@ -120,12 +120,12 @@ In a modern setting, the following items (and anything else appropriate to the r
 | Smartphone                          |                         |
 | Straightjacket                      |                         |
 #### Very Expensive Items
-| Weapons	Notes                |                       |             |
-|------------------------------|-----------------------|-------------|
-| Heavy handgun	Heavy weapon   | long range            |             |
-| Assault rifle	Heavy weapon   | rapid-fire weapon     | long range  |
-| Heavy rifle	Heavy weapon     | 300-foot (90 m) range |             |
-| Submachine gun	Medium weapon | rapid-fire weapon     | short range |
+| Weapons        | Notes                 | Additional Notes      |
+|----------------|-----------------------|-----------------------|
+| Heavy handgun  | Heavy weapon          | long range            |
+| Assault rifle  | Heavy weapon          | rapid-fire weapon, long range |
+| Heavy rifle    | Heavy weapon          | 300-foot (90 m) range |
+| Submachine gun | Medium weapon         | rapid-fire weapon, short range |
 
 | Armor                  | Notes                                  |
 |------------------------|----------------------------------------|

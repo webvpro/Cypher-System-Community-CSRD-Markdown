@@ -113,16 +113,16 @@ The Cypher System Rulebook gives a few examples of how, in the superhero genre, 
 ### Feats of Strength
 Use the following table to estimate the difficulty of various incredible feats of physical strength.
 
-| Difficulty	Lifting Task                                              |                    |                     |                      |                        |
-|----------------------------------------------------------------------|--------------------|---------------------|----------------------|------------------------|
-| 4	Lift a 150-pound (68 kg) object                                    |                    |                     |                      |                        |
-| 9	Lift a 400-pound (180 kg) object                                   |                    |                     |                      |                        |
-| 10	Lift a 1-ton (1 tonne) car or traffic copter                      |                    |                     |                      |                        |
-| 11	Lift a 5-ton (4.5 tonne) ambulance                                | private jet        | elephant            | or Tyrannosaurus rex |                        |
-| 12	Lift a 10-ton (9 tonne) school bus                                | combat helicopter  | triceratops         | or 5-foot boulder    |                        |
-| 13	Lift a 20-ton (18 tonne) fire truck                               | mobile home        | fighter jet         | Apatosaurus          | or light military tank |
-| 14	Lift a 40-ton (36 tonne) humpback whale or loaded tractor-trailer |                    |                     |                      |                        |
-| 15	Lift an 80-ton (72 tonne) space shuttle                           | single-story house | passenger train car | or military tank     |                        |
+| Difficulty | Lifting Task                                                   | Alternative 1      | Alternative 2       | Alternative 3             |
+|------------|----------------------------------------------------------------|--------------------|---------------------|---------------------------|
+| 4          | Lift a 150-pound (68 kg) object                                |                    |                     |                           |
+| 9          | Lift a 400-pound (180 kg) object                               |                    |                     |                           |
+| 10         | Lift a 1-ton (1 tonne) car or traffic copter                   |                    |                     |                           |
+| 11         | Lift a 5-ton (4.5 tonne) ambulance                             | private jet        | elephant            | or Tyrannosaurus rex      |
+| 12         | Lift a 10-ton (9 tonne) school bus                             | combat helicopter  | triceratops         | or 5-foot boulder         |
+| 13         | Lift a 20-ton (18 tonne) fire truck                            | mobile home        | fighter jet         | Apatosaurus               |
+| 14         | Lift a 40-ton (36 tonne) humpback whale or loaded tractor-trailer |                    |                     |                           |
+| 15         | Lift an 80-ton (72 tonne) space shuttle                        | single-story house | passenger train car | or military tank          |
 
 | Task Circumstances                                               | Difficulty |
 |------------------------------------------------------------------|------------|

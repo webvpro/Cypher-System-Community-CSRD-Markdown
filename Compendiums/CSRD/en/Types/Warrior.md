@@ -20,16 +20,16 @@ id: Warrior
 ---
 ## Warrior
 
-| Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction  | Superhero/Post-Apocalyptic |     |
-| ------------------ | --------------------- | ---------------- | -------------------------- | --- |
-| Warrior            | Police Officer        | Security Officer | Hero                       |     |
-| Fighter            | Soldier               | Warrior          | Brick                      |     |
-| Swordsman          | Watchman              | Trooper          | Bruiser                    |     |
-| Knight             | Detective             | Soldier          |                            |     |
-| Barbarian          | Guard                 | Mercenary        |                            |     |
-| Soldier            | Brawler               |                  |                            |     |
-| Myrmidon           | Tough                 |                  |                            |     |
-| Valkyrie           | Athlete               |                  |                            |     |
+| Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction  | Superhero/Post-Apocalyptic |
+| ------------------ | --------------------- | ---------------- | -------------------------- |
+| Warrior            | Police Officer        | Security Officer | Hero                       |
+| Fighter            | Soldier               | Warrior          | Brick                      |
+| Swordsman          | Watchman              | Trooper          | Bruiser                    |
+| Knight             | Detective             | Soldier          |                            |
+| Barbarian          | Guard                 | Mercenary        |                            |
+| Soldier            | Brawler               |                  |                            |
+| Myrmidon           | Tough                 |                  |                            |
+| Valkyrie           | Athlete               |                  |                            |
 
 You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
 
