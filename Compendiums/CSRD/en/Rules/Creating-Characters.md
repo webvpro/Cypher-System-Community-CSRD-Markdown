@@ -163,8 +163,7 @@ Some abilities specify a duration, but you can always end one of your own abilit
 ## Skills
 Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.
 
-#### Example List
->The Cypher System has no definitive list of skills. However, the following list offers ideas,
+### Example List>The Cypher System has no definitive list of skills. However, the following list offers ideas,
 >- Astronomy
 >- Balancing
 >- Biology

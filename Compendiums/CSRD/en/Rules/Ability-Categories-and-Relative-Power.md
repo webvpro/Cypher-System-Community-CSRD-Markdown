@@ -21,8 +21,7 @@ These categories have some overlap with the categories in the Focus chapter. For
 
 The abilities in this chapter can be roughly grouped into these categories: Attack Skill, Companion, Control, Craft, Cure, Environment, Information, Meta, Movement, Protection, Senses, Social, Special Attack, Support, Task, Transform.
 
-### Attack Skill
-
+## Attack Skill
 Gives you training or specialization in a specific physical attack (like swords or unarmed combat), a category of physical attacks (light bladed, heavy bashing, and so on), or another physical skill primarily used to inflict harm (such as breaking objects).
 
 >[!example] Low Tier

@@ -47,8 +47,7 @@ Hard science fiction is distinguished from other science fiction subgenres by th
 In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion.
 
 The Cypher System Rulebook describes some hard science fiction considerations regarding the effects of gravity, which are summarized here for ease of reference.
-##### Long-Term Microgravity Exposure
->Long-term penalties (such as inabilities in physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs.
+#### Long-Term Microgravity Exposure>Long-term penalties (such as inabilities in physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs.
 ##### Low Gravity
 >Weapons that rely on weight, such as all heavy weapons, inflict 2 fewer points of damage (dealing a minimum of 1 point) unless user is trained in low-gravity maneuvering. Short-range weapons can reach to long range, and long-range weapons can reach to very long range.
 ##### High Gravity
@@ -510,8 +509,7 @@ Cypher System artifacts in a science fiction setting could potentially be any on
 
 >**Spacecraft (and Starship)**
 >When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term “spacecraft” is used for vehicles that travel beyond a single planet’s atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
-#### Variable Cost by Tech Rating
-Vehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating.
+### Variable Cost by Tech RatingVehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating.
 #### Contemporary Styling in Advanced or Fantastic Settings
 As previously indicated, vehicles listed as contemporary might be found in settings using advanced or fantastic tech, possibly at a lower price. However, the vehicles available in these future worlds are not (necessarily) antiques, but rather cheaply made objects, possibly with the veneer and stylings of vehicles suitable to the setting, and possibly the power source, too.
 #### Priceless Price Category
@@ -609,8 +607,7 @@ Most spacecraft have the capacity to reach orbit from the surface of the planet,
 
 PCs in spacecraft can travel to other moons, planets, space stations, and perhaps even other solar systems. PCs in spacecraft may also get caught up in space combat (see the [[Optional-Rules-Extended-Vehicular-Combat|Extended Vehicular Combat (Spacecraft Combat)]]) and run across space hazards.
 
-##### [[Spacecraft-Gm-Intrusions|Spacecraft Gm Intrusions]]
-##### Spacecraft Upkeep
+#### [[Spacecraft-Gm-Intrusions|Spacecraft Gm Intrusions]]##### Spacecraft Upkeep
 Each month of spacecraft operation usually requires that the PCs pay for fuel, feedstocks, and other upkeep. The level of the spacecraft determines upkeep.
 
 | Level | Upkeep Cost    |

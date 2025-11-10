@@ -743,8 +743,7 @@ At the end of a session, review the actions you took and describe how they might
 
 This chapter presents many sample character arcs (see below).
 
-#### GM Awards
-Sometimes, a group will have an adventure that doesn’t deal primarily with a PC’s character arc. In this case, it’s a good idea for the GM to award XP to that character for accomplishing other tasks. First and foremost, awards should be based on discovery. Discovery can include finding a significant new location, such as a hidden chamber, a secret fortress, a lost land, a new planet, or an unexplored dimension. In this fashion, PCs are explorers. Discovery can also include a new significant aspect of a setting, such as a secret organization, a new religion, and so on.
+### GM AwardsSometimes, a group will have an adventure that doesn’t deal primarily with a PC’s character arc. In this case, it’s a good idea for the GM to award XP to that character for accomplishing other tasks. First and foremost, awards should be based on discovery. Discovery can include finding a significant new location, such as a hidden chamber, a secret fortress, a lost land, a new planet, or an unexplored dimension. In this fashion, PCs are explorers. Discovery can also include a new significant aspect of a setting, such as a secret organization, a new religion, and so on.
 
 It can also mean finding a new procedure or device (something too big to be considered a piece of equipment) or even previously unknown information. This could include a source of magical power, a unique teleportation device, or the cure for a plague. These are all discoveries. The common thread is that the PCs discover something that they can understand and put to use.
 

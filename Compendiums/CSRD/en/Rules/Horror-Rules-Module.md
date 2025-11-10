@@ -14,8 +14,7 @@ You could easily have horror in other times and settings, but for our purposes, 
 
 Suggested types and additional equipment for a horror setting are the same as in a modern setting.
 
-### Encyclopedia of Horror Mechanics
-This chapter describes many different optional rules (called “horror modules”) for making horror games more exciting or suspenseful. Horror modules are tweaks the GM applies
+## Encyclopedia of Horror MechanicsThis chapter describes many different optional rules (called “horror modules”) for making horror games more exciting or suspenseful. Horror modules are tweaks the GM applies
 to the rules to make a horror scenario even more scary or to represent how
 an event usually happens in a horror genre
 	If a module changes the options that players or PCs have, the GM should tell the players about it when the game begins. For example, if the GM is using the Character Posse module, the players should know about it at the start of the game so they can become familiar with all their characters instead of having to pause when they switch scenes and spend several minutes reviewing a second set of characters. Likewise, players should know if their healing options are affected by the Ironman module, or if they have additional recovery roll options from the Hysteria module.
@@ -27,8 +26,7 @@ The following GM intrusions work for most horror genres.
 - A mysterious noise nearby amplifies the tension, and when investigated reveals itself to
 be . . . a cat, either perfectly calm or hissing and leaping. This often allows for a momentary de-escalation followed by a real scare, such as the antagonist reaching out of the darkness to grab a character.
 - A dramatic and/or ridiculous amount of blood and gore from something that just got killed splashes on a character, blinding them until they take an action to wipe their eyes clean.
-#### Bad Penny
-An unwanted or dangerous object (such as a cursed artifact) keeps turning up, no matter how many times the PCs try to discard or destroy it. In many cases, there might be only one way to rid themselves of the item (such as dousing it with holy water or burying it in a graveyard) or only one way to destroy it (such as burning it in a church or stabbing it with a magical dagger). The item might slowly repair itself—and depending on the item, it might be more frightening if it shows up fully intact or still bearing damage from how the PCs tried to destroy it.
+### Bad PennyAn unwanted or dangerous object (such as a cursed artifact) keeps turning up, no matter how many times the PCs try to discard or destroy it. In many cases, there might be only one way to rid themselves of the item (such as dousing it with holy water or burying it in a graveyard) or only one way to destroy it (such as burning it in a church or stabbing it with a magical dagger). The item might slowly repair itself—and depending on the item, it might be more frightening if it shows up fully intact or still bearing damage from how the PCs tried to destroy it.
 
 This reappearance usually isn’t because the item is literally walking to wherever the PCs are (although if the item is something like a cursed doll, that might make it more frightening). In most cases, it just happens to be where the PCs went, found in an unobtrusive place like the back of a closet, under a car seat, or in the bottom of someone’s luggage. If the item is intelligent (or controlled by a hostile intelligence), it might use NPCs to bring it back to the PCs, and might sacrifice those NPCs in dramatic and gory ways to make sure it ends up back in the hands of the PCs. For example, if the PCs abandon a haunted ring, on the next day when they’re waiting for a train they recognize a man they saw earlier just as he gets hit by an oncoming train, and his severed hand—wearing the ring—lands at their feet. Even if the PCs go to a remote area with no people, one of them might suddenly vomit up their lunch—and the haunted ring.
 

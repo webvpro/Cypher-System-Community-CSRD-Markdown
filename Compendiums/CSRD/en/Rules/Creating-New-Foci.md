@@ -97,13 +97,10 @@ Multiple potential themes exist within the ally use category, from abilities tha
 > - [[Masters-the-Swarm|Masters the Swarm]]
 > - [[Shepherds-Spirits]]
 >
-##### Ability Selection Guidelines
-###### Tier 1
->Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
+#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
 >>Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. For instance, training in a skill related to the kind of NPC follower the character gains would be appropriate.
 
-###### Tier 2
->Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now.
+##### Tier 2>Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now.
 >>Sometimes a secondary ability might be appropriate in addition to the ability provided above, perhaps a low-power ability that grants 2 or 3 points to a Pool.
 
 ###### Tier 3
@@ -154,14 +151,11 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 > - [[Works-for-a-Living|Works for a Living]]
 > - [[Would-Rather-Be-Reading|Would Rather Be Reading]]
 
-##### Ability Selection Guidelines
-###### Tier 1:
->Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
+#### Ability Selection Guidelines##### Tier 1:>Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
 >
 > Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
 
-###### Tier 2
->Choose whichever kind of ability wasn’t chosen at tier 1.
+##### Tier 2>Choose whichever kind of ability wasn’t chosen at tier 1.
 
 ###### Tier 3:
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
@@ -258,8 +252,7 @@ For example, rather than blasting a foe with a gravity pulse that does damage, a
 > - [[Employs-Magnetism|Employs Magnetism]]
 > - [[Focuses-Mind-over-Matter|Focuses Mind over Matter]]
 
-##### Ability Selection Guidelines
-##### Tier 1
+#### Ability Selection Guidelines##### Tier 1
 >Choose a low-tier ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus’s theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter or heavier. An illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
 >
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
@@ -356,8 +349,7 @@ These foci grant influence through training and persuasion, by direct mental man
 > - [[Solves-Mysteries|Solves Mysteries]]
 > - [[Talks-to-Machines|Talks to Machines]]
 > - [[Works-the-System|Works the System]]
-##### Ability Selection Guidelines
-##### Tier 1
+#### Ability Selection Guidelines##### Tier 1
 >Choose a low-tier ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade or intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
 >
 >Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
@@ -406,8 +398,7 @@ Irregular foci provide a basket of disparate abilities. Usually that’s because
 > - [[Masters-Spells|Masters Spells]]
 > - [[Speaks-for-the-Land|Speaks for the Land]]
  #### Ability Selection Guidelines
-##### Tier 1
->Choose a low-tier ability that grants one of the benefits the focus theme promises, one that a first-tier character should have.
+#### Tier 1>Choose a low-tier ability that grants one of the benefits the focus theme promises, one that a first-tier character should have.
 >
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. Alternatively, it might offer a simple bonus of 2 or 3 points to a Pool.
 
@@ -451,8 +442,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 > - [[Shreds-the-Walls-of-the-World|Shreds the Walls of the World]]
 > - [[Travels-Through-Time|Travels Through Time]]
 > - [[Works-the-Back-Alleys|Works the Back Alleys]]
-##### Ability Selection Guidelines
-##### Tier 1
+#### Ability Selection Guidelines##### Tier 1
 >Choose a low-tier ability that grants the basic benefit of the specific movement style, whether that’s enhanced speed, agility, immateriality, and so on.
 >
 >Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding or training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive or defensive benefit (relying on the use of the initial basic ability), append it as well.
@@ -512,9 +502,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 > - [[Slays-Monsters|Slays Monsters]]
 > - [[Throws-with-Deadly-Accuracy|Throws with Deadly Accuracy]]
 > -  [[Wields-Two-Weapons-at-Once|Wields Two Weapons at Once]]
-##### Ability Selection Guidelines
-###### Tier 1
->Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
+#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
 >
 > Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, or just have general knowledge about that foe. A fighting style that involves fighting in a vicious or dirty manner might provide training in intimidation. And so on.
 >
@@ -524,8 +512,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 >
 > Sometimes an additional low-power ability is appropriate at tier 2. If so, choose whichever low-power ability wasn’t gained at tier 1.
 
-######  Tier 3
->Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#####  Tier 3>Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >>One option should inflict additional damage when using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 >
 >>The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy.
@@ -561,13 +548,10 @@ Support foci rely on a variety of methods to provide their help, including marti
 > - [[Shepherds-the-Community|Shepherds the Community]]
 > - [[Siphons-Power|Siphons Power]]
 > - [[Works-Miracles|Works Miracles]]
-##### Ability Selection Guidelines
-###### Tier 1
->Choose a low-tier ability that provides some form of defense, aid or  Entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
+#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that provides some form of defense, aid or  Entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn’t do much.
 
-###### Tier 2
->Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
+##### Tier 2>Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
 
 ###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
@@ -610,14 +594,11 @@ Some tank combat foci involve a physical transformation that grants additional p
 > - [[Masters-Defense|Masters Defense]]
 > - [[Never-Says-Die|Never Says Die]]
 > - [[Stands-Like-a-Bastion|Stands Like a Bastion]]
-##### Ability Selection Guidelines
-###### Tier 1
->Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
+#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
 >
 >  Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
 
-###### Tier 2
->If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
+##### Tier 2>If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
 >
 > If the theme of the focus is physical transformation, choose a low-tier ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, or otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 

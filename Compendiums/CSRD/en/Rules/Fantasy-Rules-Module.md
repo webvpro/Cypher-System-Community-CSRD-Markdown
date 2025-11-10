@@ -102,8 +102,7 @@ One common element of fantasy exploration—particularly for castles and dungeon
 #### Arrow 4 (12)
 Fires an arrow or crossbow bolt. The simplest one-use trap of this kind is an actual crossbow (perhaps hidden behind a hole in a wall or door) rigged with a tripwire to pull the trigger; a creature would need to manually reset this trap for it to be a danger again. More complex traps might automatically reload from a supply of bolts so the trap can be triggered multiple times, or fire automatically once triggered until the ammunition is expended. A variant of this trap releases a volley of arrows into the targeted area, affecting multiple creatures or the same creature more than once.
 
-###### Damage Inflicted
->4 points
+##### Damage Inflicted>4 points
 ###### Modifications
 >Defense and stealth as level 6 (if hidden behind a hole in the wall)
 ###### GM Intrusion
@@ -197,8 +196,7 @@ A poisoned needle jabs at a character touching the trapped object (usually a loc
 An iron portcullis drops from the ceiling to block access to an area or separate a character from others nearby. If the creature dodging the falling portcullis wants to choose which side of the trap they end up on, the Speed defense roll is hindered. Otherwise, it is even chances what side they end up on.
 
 A variant of this trap is a solid wall. A magical variant is a force field.
-###### Damage Inflicted
->5 points
+##### Damage Inflicted>5 points
 ###### GM Intrusion
 >The portcullis impales the character, trapping them beneath it until it is lifted or destroyed. The portcullis is electrified, inflicting 1 point of damage each time it is touched or attacked with flesh or a metal object. A second portcullis drops nearby, trapping a character in a small area. Murder-holes in the ceiling allow enemies to make ranged attacks on the trapped character.
 #### Rolling Boulder 6 (12)

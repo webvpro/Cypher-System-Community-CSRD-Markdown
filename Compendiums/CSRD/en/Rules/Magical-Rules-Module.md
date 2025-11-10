@@ -82,13 +82,10 @@ One way to present mind control more safely is to disallow certain actions but o
 ## Mystical Martial Arts
 If the setting calls for wuxia-style fantasy martial arts or similar types of action, you can make a few rule changes to portray the kinds of things characters in such stories can accomplish.
 
-##### Running and climbing speeds and jumping distances are doubled
->For those trained in running, climbing, or jumping, the speeds and distances are tripled instead of doubled. For those specialized, they are quintupled. For all intents and purposes, this means that everyone can run up a wall or jump very high in the air, and masters can practically fly or run across water.
+### Running and climbing speeds and jumping distances are doubled>For those trained in running, climbing, or jumping, the speeds and distances are tripled instead of doubled. For those specialized, they are quintupled. For all intents and purposes, this means that everyone can run up a wall or jump very high in the air, and masters can practically fly or run across water.
 
-##### Everyone knows kung fu
->Unless a person is a simple farmer, herder, or merchant, they know how to fight with elaborate and powerful martial arts styles. This doesn’t change anything in the game mechanically no one gets the ability to use weapons that they wouldn’t normally have under the rules. But it does change the flavor, suggesting that no PC is entirely ignorant of weapons or close combat.
-###### Players are encouraged to come up with interesting names for their martial arts abilities.
->Instead of using a Bash attack, perhaps it is “The Three-Flower Fist,” and instead of Fury, a character uses “The Rage of the Sevenfold.” It is reasonable for high-tier martial abilities such as Amazing Effort, Jump Attack, or Finishing Blow to be described with a magical flare blazing auras of fire, brilliant cascades of light, ethereal figures overlaying the character, and so on.
+#### Everyone knows kung fu>Unless a person is a simple farmer, herder, or merchant, they know how to fight with elaborate and powerful martial arts styles. This doesn’t change anything in the game mechanically no one gets the ability to use weapons that they wouldn’t normally have under the rules. But it does change the flavor, suggesting that no PC is entirely ignorant of weapons or close combat.
+##### Players are encouraged to come up with interesting names for their martial arts abilities.>Instead of using a Bash attack, perhaps it is “The Three-Flower Fist,” and instead of Fury, a character uses “The Rage of the Sevenfold.” It is reasonable for high-tier martial abilities such as Amazing Effort, Jump Attack, or Finishing Blow to be described with a magical flare blazing auras of fire, brilliant cascades of light, ethereal figures overlaying the character, and so on.
 ###### Materials and objects are easier to destroy
 >For the purpose of attacking objects, subtract 2 from the level of any material (minimum of 0). It should be relatively simple for any character to smash through a plain wooden door with little effort, and true warriors can shatter stones with their blows.
 ###### Wounds heal faster
