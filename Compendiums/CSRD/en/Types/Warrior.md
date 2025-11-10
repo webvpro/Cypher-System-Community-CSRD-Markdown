@@ -68,7 +68,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 20 | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
 
 
-#### WARRIOR PLAYER INTRUSIONS
+#### Warrior Player Intrusions
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 >**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
 
@@ -85,7 +85,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### FIRST-TIER WARRIOR
+#### First-Tier Warrior
 >**First-tier warriors have the following abilities**
 >**Effort:** Your Effort is 1.
 >**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
@@ -105,7 +105,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Swipe|Swipe]]
 [[Trained-Without-Armor|Trained Without Armor]]
 
-#### SECOND-TIER WARRIOR
+#### Second-Tier Warrior
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Crushing-Blow|Crushing Blow]]
 [[Hemorrhage|Hemorrhage]]
@@ -114,7 +114,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Skill-With-Defense|Skill With Defense]]
 [[Successive-Attack|Successive Attack]]
 
-#### THIRD-TIER WARRIOR
+#### Third-Tier Warrior
 >Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Deadly-Aim|Deadly Aim]]
 [[Energy-Resistance|Energy Resistance]]
@@ -129,7 +129,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Trick-Shot|Trick Shot]]
 [[Vigilance|Vigilance]]
 
-#### FOURTH-TIER WARRIOR
+#### Fourth-Tier Warrior
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Amazing-Effort|Amazing Effort]]
 [[Capable-Warrior|Capable Warrior]]
@@ -141,7 +141,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 [[Snipe|Snipe]]
 [[Tough-as-Nails|Tough as Nails]]
 
-#### FIFTH-TIER WARRIOR
+#### Fifth-Tier Warrior
 >Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 [[Adroit-Cypher-Use|Adroit Cypher Use]]
 [[Arc-Spray|Arc Spray]]
@@ -155,7 +155,7 @@ You get 6 additional points to divide among your stat Pools however you wish.
 >[!info]
 >Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
 
-#### SIXTH-TIER WARRIOR
+#### Sixth-Tier Warrior
 >Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times
 [[Again-and-Again|Again and Again]]
 [[Finishing-Blow|Finishing Blow]]

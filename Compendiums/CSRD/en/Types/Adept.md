@@ -45,7 +45,7 @@ You master powers or abilities outside the experience, understanding, and someti
 >[!info]
 >Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.
 
-#### ADEPT PLAYER INTRUSIONS
+#### Adept Player Intrusions
 When playing an Adept, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 >**Advantageous Malfunction:** A device being used against you malfunctions. It might harm the user or one of their allies for a round, or activate a dramatic and distracting side effect for a few rounds.
 
@@ -53,7 +53,7 @@ When playing an Adept, you can spend 1 XP to use one of the following player int
 
 >**Inexplicably Unbroken:** An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.
 
-#### ADEPT STAT POOLS
+#### Adept Stat Pools
 | **Stat** | **Pool Starting Value** |
 | -- | ----------------------------- |
 | [[Might\|Might]] | 7 |
@@ -86,7 +86,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 | 19 | You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment. |
 | 20 | You belong to a secretive social club that gathers monthly to drink and talk. |
 
-#### FIRST-TIER ADEPT
+#### First-Tier Adept
 **First-tier Adepts have the following abilities**
 **Effort:** Your Effort is 1.
 **Genius:** You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
@@ -106,7 +106,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 > [[Scan|Scan]]
 > [[Shatter|Shatter]]
 > [[Ward|Ward]]
-#### SECOND-TIER ADEPT
+#### Second-Tier Adept
 >Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >[[Adaptation|Adaptation]]
 >[[Cutting-Light|Cutting Light]]
@@ -115,7 +115,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 >[[Retrieve-Memories|Retrieve Memories]]
 >[[Reveal|Reveal]]
 >[[Stasis|Stasis]]
-#### THIRD-TIER ADEPT
+#### Third-Tier Adept
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >[[Adroit-Cypher-Use|Adroit Cypher Use]]
 >[[Countermeasures|Countermeasures]]
@@ -123,7 +123,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 >[[Fire-and-Ice|Fire and Ice]]
 >[[Sensor|Sensor]]
 >[[Targeting-Eye|Targeting Eye]]
-#### FOURTH-TIER ADEPT
+#### Fourth-Tier Adept
 >Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >[[Death-Touch|Death Touch]]
 >[[Exile|Exile]]
@@ -135,7 +135,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 >[[Regeneration|Regeneration]]
 >[[Reshape|Reshape]]
 >[[Wormhole|Wormhole]]
-#### FIFTH-TIER ADEPT
+#### Fifth-Tier Adept
 >Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >[[Absorb-Energy|Absorb Energy]]
 >[[Concussion|Concussion]]
@@ -146,14 +146,14 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 >[[Master-Cypher-Use|Master Cypher Use]]
 >[[Teleportation|Teleportation]]
 >[[True-Senses|True Senses]]
-#### SIXTH-TIER ADEPT
+#### Sixth-Tier Adept
 >Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 >[[Control-Weather|Control Weather]]
 >[[Earthquake|Earthquake]]
 >[[Move-Mountains|Move Mountains]]
 >[[Traverse-the-Worlds|Traverse the Worlds]]
 >[[Usurp-Cypher|Usurp Cypher]]
-#### ADEPT EXAMPLE
+#### Adept Example
 >Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
 She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.
 For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
