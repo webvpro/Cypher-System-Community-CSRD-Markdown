@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Guide-Bolt
 ---
-
-
 ## Guide Bolt
 >**Enabler**
 >4+ Intellect points

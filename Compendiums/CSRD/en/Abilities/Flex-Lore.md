@@ -20,8 +20,6 @@ categories:
   - Task
 id: Flex-Lore
 ---
-
-
 ## Flex Lore
 >**Enabler**
 

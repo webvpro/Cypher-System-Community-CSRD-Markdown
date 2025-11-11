@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Grandiose-Illusion
 ---
-
-
 ## Grandiose Illusion
 >**Action**
 >8 Intellect points

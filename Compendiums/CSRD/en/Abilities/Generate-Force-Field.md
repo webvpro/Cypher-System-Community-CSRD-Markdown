@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Generate-Force-Field
 ---
-
-
 ## Generate Force Field
 >**Action**
 >9+ Intellect points

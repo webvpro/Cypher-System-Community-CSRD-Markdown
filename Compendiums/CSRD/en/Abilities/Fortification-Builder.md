@@ -20,8 +20,6 @@ categories:
   - Craft
 id: Fortification-Builder
 ---
-
-
 ## Fortification Builder
 >**Enabler**
 

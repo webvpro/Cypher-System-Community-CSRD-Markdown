@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Force-Wall
 ---
-
-
 ## Force Wall
 >**Action**
 >5 Intellect points

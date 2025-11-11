@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Golem-Stomp
 ---
-
-
 ## Golem Stomp
 >**Action**
 >4 Might points

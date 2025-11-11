@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Fusion-Armor
 ---
-
-
 ## Fusion Armor
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Fusion
 ---
-
-
 ## Fusion
 >**Enabler**
 

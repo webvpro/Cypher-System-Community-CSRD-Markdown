@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Flash
 ---
-
-
 ## Flash
 >**Action**
 >4 Intellect points

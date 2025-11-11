@@ -20,8 +20,6 @@ categories:
   - Transform
 id: Greater-Controlled-Change
 ---
-
-
 ## Greater Controlled Change
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Flex-Weapon-Skill
 ---
-
-
 ## Flex Weapon Skill
 >**Enabler**
 

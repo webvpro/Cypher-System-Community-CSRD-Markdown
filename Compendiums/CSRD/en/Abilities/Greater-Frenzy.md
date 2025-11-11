@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Greater-Frenzy
 ---
-
-
 ## Greater Frenzy
 >**Enabler**
 >4 Intellect points

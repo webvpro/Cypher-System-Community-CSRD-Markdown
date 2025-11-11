@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Fetch
 ---
-
-
 ## Fetch
 >**Action**
 >3 Intellect points

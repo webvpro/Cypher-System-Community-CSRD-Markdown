@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Finishing-Blow
 ---
-
-
 ## Finishing Blow
 >**Enabler**
 >5 Might points

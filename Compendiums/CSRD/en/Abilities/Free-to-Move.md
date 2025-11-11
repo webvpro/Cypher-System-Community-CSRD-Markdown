@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Free-to-Move
 ---
-
-
 ## Free to Move
 >**Enabler**
 

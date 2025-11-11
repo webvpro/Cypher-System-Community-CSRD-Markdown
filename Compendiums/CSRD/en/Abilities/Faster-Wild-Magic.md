@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Faster-Wild-Magic
 ---
-
-
 ## Faster Wild Magic
 >**Action**
 

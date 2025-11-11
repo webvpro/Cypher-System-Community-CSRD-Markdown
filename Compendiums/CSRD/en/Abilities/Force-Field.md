@@ -22,8 +22,6 @@ categories:
   - Support
 id: Force-Field
 ---
-
-
 ## Force Field
 >**Action**
 >3 Intellect points

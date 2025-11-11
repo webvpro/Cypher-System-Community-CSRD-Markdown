@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Freezing-Touch
 ---
-
-
 ## Freezing Touch
 >**Action**
 >4 Intellect points

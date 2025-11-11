@@ -20,8 +20,6 @@ categories:
   - Transform
 id: Gargantuan
 ---
-
-
 ## Gargantuan
 >**Enabler**
 

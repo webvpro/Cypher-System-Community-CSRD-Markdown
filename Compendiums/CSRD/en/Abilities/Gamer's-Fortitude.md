@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Gamer's-Fortitude
 ---
-
-
 ## Gamer's Fortitude
 >**Action**
 

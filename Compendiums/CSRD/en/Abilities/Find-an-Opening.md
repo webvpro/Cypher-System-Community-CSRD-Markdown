@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Find-an-Opening
 ---
-
-
 ## Find an Opening
 >**Action**
 >1 Intellect point

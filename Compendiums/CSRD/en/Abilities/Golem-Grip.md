@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Golem-Grip
 ---
-
-
 ## Golem Grip
 >**Enabler**
 >3 Might points

@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Facsimile-of-Life
 ---
-
-
 ## Facsimile of Life
 >**Action**
 >3 Intellect point

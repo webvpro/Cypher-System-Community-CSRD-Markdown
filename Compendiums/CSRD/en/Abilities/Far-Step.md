@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Far-Step
 ---
-
-
 ## Far Step
 >**Action**
 >2 Intellect points

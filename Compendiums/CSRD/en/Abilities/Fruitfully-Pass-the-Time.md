@@ -22,8 +22,6 @@ categories:
   - NA
 id: Fruitfully-Pass-the-Time
 ---
-
-
 ## Fruitfully Pass the Time
 >**Action**
 >4 Intellect points

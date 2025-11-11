@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Feint
 ---
-
-
 ## Feint
 >**Action**
 >2 Speed points

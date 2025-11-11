@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Font-of-Healing
 ---
-
-
 ## Font of Healing
 >**Enabler**
 

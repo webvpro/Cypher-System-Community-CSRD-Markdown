@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Field-of-Destruction
 ---
-
-
 ## Field of Destruction
 >**Enabler**
 >4 Might points

@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Fast-Travel
 ---
-
-
 ## Fast Travel
 >**Action**
 >7 Intellect points

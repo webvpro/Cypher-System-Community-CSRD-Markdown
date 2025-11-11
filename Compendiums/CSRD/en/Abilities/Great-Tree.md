@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Great-Tree
 ---
-
-
 ## Great Tree
 >**Enabler**
 

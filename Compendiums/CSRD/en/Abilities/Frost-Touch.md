@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Frost-Touch
 ---
-
-
 ## Frost Touch
 >**Action**
 >1 Intellect point

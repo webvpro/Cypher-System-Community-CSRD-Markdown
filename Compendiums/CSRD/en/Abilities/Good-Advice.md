@@ -22,8 +22,6 @@ categories:
   - Task
 id: Good-Advice
 ---
-
-
 ## Good Advice
 >**Enabler**
 

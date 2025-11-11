@@ -20,8 +20,6 @@ categories:
   - Environment
 id: Force-to-Reckon-With
 ---
-
-
 ## Force to Reckon With
 >**Enabler**
 

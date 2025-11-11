@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Fire-Servant
 ---
-
-
 ## Fire Servant
 >**Action**
 >6 Intellect points

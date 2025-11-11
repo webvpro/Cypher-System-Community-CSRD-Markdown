@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Fury
 ---
-
-
 ## Fury
 >**Action**
 >3 Might points

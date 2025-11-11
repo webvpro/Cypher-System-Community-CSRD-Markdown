@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Ghost
 ---
-
-
 ## Ghost
 >**Action**
 >4 Intellect points

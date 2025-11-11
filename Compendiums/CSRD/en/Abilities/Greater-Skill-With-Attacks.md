@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Greater-Skill-With-Attacks
 ---
-
-
 ## Greater Skill With Attacks
 >**Enabler**
 

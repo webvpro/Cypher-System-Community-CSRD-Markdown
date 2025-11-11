@@ -26,8 +26,6 @@ categories:
   - Superhero
 id: Flight-Exertion
 ---
-
-
 ## Flight Exertion
 >**Enabler**
 >3 Might or 3 Speed points

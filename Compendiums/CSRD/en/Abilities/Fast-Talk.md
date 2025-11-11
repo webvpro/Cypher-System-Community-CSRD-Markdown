@@ -22,8 +22,6 @@ categories:
   - Control
 id: Fast-Talk
 ---
-
-
 ## Fast Talk
 >**Action**
 >1 Intellect point

@@ -20,8 +20,6 @@ categories:
   - NA
 id: Fixer
 ---
-
-
 ## Fixer
 >**Enabler**
 

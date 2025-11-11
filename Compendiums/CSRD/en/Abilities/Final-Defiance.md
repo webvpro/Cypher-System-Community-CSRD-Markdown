@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Final-Defiance
 ---
-
-
 ## Final Defiance
 >**Enabler**
 

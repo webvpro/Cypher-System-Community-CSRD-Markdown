@@ -22,8 +22,6 @@ categories:
   - Control
 id: Grand-Deception
 ---
-
-
 ## Grand Deception
 >**Action**
 >3 Intellect points

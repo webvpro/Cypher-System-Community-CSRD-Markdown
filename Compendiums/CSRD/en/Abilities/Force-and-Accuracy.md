@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Force-and-Accuracy
 ---
-
-
 ## Force and Accuracy
 >**Enabler**
 

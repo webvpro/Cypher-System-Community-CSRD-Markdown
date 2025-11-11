@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Flameblade
 ---
-
-
 ## Flameblade
 >**Enabler**
 >4 Intellect points

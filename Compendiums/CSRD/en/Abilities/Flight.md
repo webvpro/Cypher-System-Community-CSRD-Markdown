@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Flight
 ---
-
-
 ## Flight
 >**Action**
 >4+ Intellect points

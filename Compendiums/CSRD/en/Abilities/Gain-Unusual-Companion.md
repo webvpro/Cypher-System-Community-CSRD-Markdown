@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Gain-Unusual-Companion
 ---
-
-
 ## Gain Unusual Companion
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Control
 id: Flee
 ---
-
-
 ## Flee
 >**Action**
 >6 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Gravity-Cleave
 ---
-
-
 ## Gravity Cleave
 >**Action**
 >3 Intellect points

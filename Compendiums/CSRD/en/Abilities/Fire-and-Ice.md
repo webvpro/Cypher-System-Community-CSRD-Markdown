@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Fire-and-Ice
 ---
-
-
 ## Fire and Ice
 >**Action**
 >4 Intellect points

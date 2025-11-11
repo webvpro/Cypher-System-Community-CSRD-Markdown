@@ -22,8 +22,6 @@ categories:
   - Social
 id: Group-Friendship
 ---
-
-
 ## Group Friendship
 >**Action**
 >4 Intellect points

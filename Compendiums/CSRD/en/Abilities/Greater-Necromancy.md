@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Greater-Necromancy
 ---
-
-
 ## Greater Necromancy
 >**Action**
 >5+ Intellect points

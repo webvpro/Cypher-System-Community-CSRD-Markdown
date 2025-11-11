@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Frenzy
 ---
-
-
 ## Frenzy
 >**Enabler**
 >1 Intellect point

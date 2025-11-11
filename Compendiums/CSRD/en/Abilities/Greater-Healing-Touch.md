@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Greater-Healing-Touch
 ---
-
-
 ## Greater Healing Touch
 >**Action**
 >4 Intellect points

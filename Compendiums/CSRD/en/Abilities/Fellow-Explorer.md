@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Fellow-Explorer
 ---
-
-
 ## Fellow Explorer
 >**Enabler**
 

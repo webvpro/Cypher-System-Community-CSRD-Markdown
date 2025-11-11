@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Fiery-Hand-of-Doom
 ---
-
-
 ## Fiery Hand of Doom
 >**Action**
 >3 Intellect points

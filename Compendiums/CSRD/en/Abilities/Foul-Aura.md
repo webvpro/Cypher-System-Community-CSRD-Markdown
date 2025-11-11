@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Foul-Aura
 ---
-
-
 ## Foul Aura
 >**Action**
 >5+ Intellect points

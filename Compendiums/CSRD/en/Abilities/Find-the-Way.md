@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Find-the-Way
 ---
-
-
 ## Find the Way
 >**Enabler**
 

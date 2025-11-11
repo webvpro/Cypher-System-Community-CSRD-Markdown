@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Force-Bash
 ---
-
-
 ## Force Bash
 >**Enabler**
 >1 Might point

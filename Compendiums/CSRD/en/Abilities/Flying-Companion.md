@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Flying-Companion
 ---
-
-
 ## Flying Companion
 >**Enabler**
 

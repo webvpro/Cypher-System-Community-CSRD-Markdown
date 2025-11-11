@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Fleet-of-Foot
 ---
-
-
 ## Fleet of Foot
 >**Enabler**
 >1+ Speed points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Gun-Jammer
 ---
-
-
 ## Gun Jammer
 >**Action**
 >3 Intellect points

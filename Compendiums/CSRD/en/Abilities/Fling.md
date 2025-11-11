@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Fling
 ---
-
-
 ## Fling
 >**Action**
 >4 Intellect points

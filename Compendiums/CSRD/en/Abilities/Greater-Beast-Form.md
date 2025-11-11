@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Greater-Beast-Form
 ---
-
-
 ## Greater Beast Form
 >**Enabler**
 

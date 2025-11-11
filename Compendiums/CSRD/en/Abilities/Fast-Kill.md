@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Fast-Kill
 ---
-
-
 ## Fast Kill
 >**Action**
 >2 Speed points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Fortified-Position
 ---
-
-
 ## Fortified Position
 >**Action**
 >2 Might points

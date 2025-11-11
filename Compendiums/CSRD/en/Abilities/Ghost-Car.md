@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Ghost-Car
 ---
-
-
 ## Ghost Car
 >**Action**
 >4 Intellect point

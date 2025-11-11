@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Fire-Tendrils
 ---
-
-
 ## Fire Tendrils
 >**Enabler**
 >5 Intellect points

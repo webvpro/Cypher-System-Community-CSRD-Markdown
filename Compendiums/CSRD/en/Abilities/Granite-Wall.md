@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Granite-Wall
 ---
-
-
 ## Granite Wall
 >**Action**
 >7+ Intellect points

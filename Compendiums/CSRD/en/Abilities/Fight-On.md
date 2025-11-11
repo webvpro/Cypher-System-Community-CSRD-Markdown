@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Fight-On
 ---
-
-
 ## Fight On
 >**Enabler**
 

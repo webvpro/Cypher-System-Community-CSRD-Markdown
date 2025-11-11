@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Face-Morph
 ---
-
-
 ## Face Morph
 >**Action**
 >2+ Intellect points

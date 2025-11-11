@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Flash-Across-the-Miles
 ---
-
-
 ## Flash Across the Miles
 >**Action**
 >6+ Intellect points

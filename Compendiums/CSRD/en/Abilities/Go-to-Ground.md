@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Go-to-Ground
 ---
-
-
 ## Go to Ground
 >**Action**
 >4 Speed points

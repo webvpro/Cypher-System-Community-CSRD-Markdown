@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Flight-Not-Fight
 ---
-
-
 ## Flight Not Fight
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Game-Lessons
 ---
-
-
 ## Game Lessons
 >**Enabler**
 

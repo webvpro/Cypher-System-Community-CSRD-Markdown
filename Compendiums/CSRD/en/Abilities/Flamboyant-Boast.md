@@ -22,8 +22,6 @@ categories:
   - Social
 id: Flamboyant-Boast
 ---
-
-
 ## Flamboyant Boast
 >**Enabler**
 >1 Intellect point

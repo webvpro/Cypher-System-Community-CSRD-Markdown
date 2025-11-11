@@ -20,8 +20,6 @@ categories:
   - Support
 id: Friendly-Help
 ---
-
-
 ## Friendly Help
 >**Enabler**
 

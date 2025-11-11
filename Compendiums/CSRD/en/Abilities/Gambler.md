@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Gambler
 ---
-
-
 ## Gambler
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Field-Reinforced-Armor
 ---
-
-
 ## Field-Reinforced Armor
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Foil-Danger
 ---
-
-
 ## Foil Danger
 >**Action**
 >2 Intellect points

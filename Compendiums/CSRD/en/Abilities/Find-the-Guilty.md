@@ -20,8 +20,6 @@ categories:
   - Task
 id: Find-the-Guilty
 ---
-
-
 ## Find the Guilty
 >**Enabler**
 

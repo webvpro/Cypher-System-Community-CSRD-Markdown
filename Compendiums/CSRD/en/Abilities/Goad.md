@@ -22,8 +22,6 @@ categories:
   - Control
 id: Goad
 ---
-
-
 ## Goad
 >**Action**
 >1 Intellect point

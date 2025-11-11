@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Golem-Body
 ---
-
-
 ## Golem Body
 >**Enabler**
 

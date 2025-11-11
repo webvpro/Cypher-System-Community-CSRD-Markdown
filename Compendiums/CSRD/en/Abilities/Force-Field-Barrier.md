@@ -24,8 +24,6 @@ categories:
   - Protection
 id: Force-Field-Barrier
 ---
-
-
 ## Force Field Barrier
 >**Action**
 >3+ Intellect points

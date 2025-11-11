@@ -22,8 +22,6 @@ categories:
   - Information
 id: Gather-Intelligence
 ---
-
-
 ## Gather Intelligence
 >**Action**
 >2 Intellect points

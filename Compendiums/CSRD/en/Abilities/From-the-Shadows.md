@@ -20,8 +20,6 @@ categories:
   - Meta
 id: From-the-Shadows
 ---
-
-
 ## From the Shadows
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Fists-of-Fury
 ---
-
-
 ## Fists of Fury
 >**Enabler**
 

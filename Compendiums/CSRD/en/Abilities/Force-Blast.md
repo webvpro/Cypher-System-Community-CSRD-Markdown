@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Force-Blast
 ---
-
-
 ## Force Blast
 >**Action**
 

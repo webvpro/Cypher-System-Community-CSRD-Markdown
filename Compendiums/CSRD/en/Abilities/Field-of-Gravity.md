@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Field-of-Gravity
 ---
-
-
 ## Field of Gravity
 >**Enabler**
 >4 Intellect points

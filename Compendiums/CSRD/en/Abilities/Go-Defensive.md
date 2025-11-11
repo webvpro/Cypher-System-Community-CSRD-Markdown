@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Go-Defensive
 ---
-
-
 ## Go Defensive
 >**Enabler**
 >1 Intellect point

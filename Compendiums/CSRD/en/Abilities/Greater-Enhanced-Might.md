@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Greater-Enhanced-Might
 ---
-
-
 ## Greater Enhanced Might
 >**Enabler**
 

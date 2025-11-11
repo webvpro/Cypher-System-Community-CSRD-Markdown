@@ -20,8 +20,6 @@ categories:
   - Task
 id: Flex-Skill
 ---
-
-
 ## Flex Skill
 >**Enabler**
 

@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Grasping-Foliage
 ---
-
-
 ## Grasping Foliage
 >**Action**
 >3+ Intellect points

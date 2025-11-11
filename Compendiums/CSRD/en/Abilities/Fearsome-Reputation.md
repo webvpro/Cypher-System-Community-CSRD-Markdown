@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Fearsome-Reputation
 ---
-
-
 ## Fearsome Reputation
 >**Action**
 >3 Intellect points

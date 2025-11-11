@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Force-at-Distance
 ---
-
-
 ## Force at Distance
 >**Action**
 >4+ Intellect points

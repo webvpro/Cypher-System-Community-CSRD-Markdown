@@ -22,8 +22,6 @@ categories:
   - Information
 id: Find-the-Hidden
 ---
-
-
 ## Find the Hidden
 >**Action**
 >4+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Fire-Bloom
 ---
-
-
 ## Fire Bloom
 >**Action**
 >4+ Intellect points

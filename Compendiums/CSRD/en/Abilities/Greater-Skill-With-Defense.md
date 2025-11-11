@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Greater-Skill-With-Defense
 ---
-
-
 ## Greater Skill With Defense
 >**Enabler**
 
