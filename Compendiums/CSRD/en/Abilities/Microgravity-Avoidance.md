@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Microgravity-Avoidance
 ---
-
-
 ## Microgravity Avoidance
 >**Enabler**
 

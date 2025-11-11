@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Mist-Cloud
 ---
-
-
 ## Mist Cloud
 >**Action**
 >1+ Intellect points

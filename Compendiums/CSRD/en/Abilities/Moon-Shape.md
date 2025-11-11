@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Moon-Shape
 ---
-
-
 ## Moon Shape
 >**Action**
 >4+ Intellect points

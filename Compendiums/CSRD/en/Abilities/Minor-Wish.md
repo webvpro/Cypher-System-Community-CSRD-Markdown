@@ -24,8 +24,6 @@ categories:
   - Task
 id: Minor-Wish
 ---
-
-
 ## Minor Wish
 >**Action**
 

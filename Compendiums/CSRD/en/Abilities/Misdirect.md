@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Misdirect
 ---
-
-
 ## Misdirect
 >**Enabler**
 >3 Speed points

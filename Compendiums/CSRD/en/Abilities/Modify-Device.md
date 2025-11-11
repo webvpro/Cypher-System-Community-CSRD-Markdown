@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Modify-Device
 ---
-
-
 ## Modify Device
 >**Action**
 >4 Intellect points

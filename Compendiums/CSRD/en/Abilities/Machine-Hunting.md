@@ -20,8 +20,6 @@ categories:
   - Task
 id: Machine-Hunting
 ---
-
-
 ## Machine Hunting
 >**Enabler**
 

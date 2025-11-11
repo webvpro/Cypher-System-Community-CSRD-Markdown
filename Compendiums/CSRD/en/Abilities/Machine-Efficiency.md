@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Machine-Efficiency
 ---
-
-
 ## Machine Efficiency
 >**Action**
 >3 Intellect points

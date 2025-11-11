@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Miraculous-Health
 ---
-
-
 ## Miraculous Health
 >**Enabler**
 

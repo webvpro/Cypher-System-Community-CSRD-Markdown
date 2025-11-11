@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Maneuvering-Adept
 ---
-
-
 ## Maneuvering Adept
 >**Enabler**
 

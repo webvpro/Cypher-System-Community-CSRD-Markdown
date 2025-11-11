@@ -22,8 +22,6 @@ categories:
   - Task
 id: Machine-Interface
 ---
-
-
 ## Machine Interface
 >**Enabler**
 >2 Intellect points

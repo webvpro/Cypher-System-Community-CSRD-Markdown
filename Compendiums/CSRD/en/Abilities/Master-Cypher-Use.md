@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Master-Cypher-Use
 ---
-
-
 ## Master Cypher Use
 >**Enabler**
 

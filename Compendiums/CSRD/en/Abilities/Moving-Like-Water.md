@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Moving-Like-Water
 ---
-
-
 ## Moving Like Water
 >**Enabler**
 >3 Speed points

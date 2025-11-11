@@ -22,8 +22,6 @@ categories:
   - Information
 id: Machine-Telepathy
 ---
-
-
 ## Machine Telepathy
 >**Action**
 >3 Intellect points

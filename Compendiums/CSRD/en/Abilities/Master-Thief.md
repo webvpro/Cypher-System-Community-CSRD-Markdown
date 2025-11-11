@@ -20,8 +20,6 @@ categories:
   - Task
 id: Master-Thief
 ---
-
-
 ## Master Thief
 >**Enabler**
 

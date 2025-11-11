@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Mind-Games
 ---
-
-
 ## Mind Games
 >**Action**
 >3 Intellect points

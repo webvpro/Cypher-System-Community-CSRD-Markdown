@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Mentally-Tough
 ---
-
-
 ## Mentally Tough
 >**Enabler**
 

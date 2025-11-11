@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Magical-Training
 ---
-
-
 ## Magical Training
 >**Enabler**
 

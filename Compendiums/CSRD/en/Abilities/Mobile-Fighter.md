@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Mobile-Fighter
 ---
-
-
 ## Mobile Fighter
 >**Enabler**
 >3 Speed points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Machine-Affinity
 ---
-
-
 ## Machine Affinity
 >**Enabler**
 

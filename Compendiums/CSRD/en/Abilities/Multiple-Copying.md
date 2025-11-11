@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Multiple-Copying
 ---
-
-
 ## Multiple Copying
 >**Enabler**
 

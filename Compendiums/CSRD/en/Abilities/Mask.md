@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Mask
 ---
-
-
 ## Mask
 >**Action**
 >5 Intellect points

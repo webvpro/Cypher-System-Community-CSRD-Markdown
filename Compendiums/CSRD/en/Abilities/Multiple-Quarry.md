@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Multiple-Quarry
 ---
-
-
 ## Multiple Quarry
 >**Action**
 >6 Intellect points

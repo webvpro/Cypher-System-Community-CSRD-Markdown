@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Moon-Portal
 ---
-
-
 ## Moon Portal
 >**Action**
 >6+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Magnetic-Field
 ---
-
-
 ## Magnetic Field
 >**Enabler**
 >4 Intellect points

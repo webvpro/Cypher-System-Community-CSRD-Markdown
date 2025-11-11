@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Modify-Artifact-Power
 ---
-
-
 ## Modify Artifact Power
 >**Action**
 >6 Intellect points

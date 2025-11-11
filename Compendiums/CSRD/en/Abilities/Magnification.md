@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Magnification
 ---
-
-
 ## Magnification
 >**Action**
 >1 Intellect point

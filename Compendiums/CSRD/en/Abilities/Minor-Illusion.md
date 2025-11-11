@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Minor-Illusion
 ---
-
-
 ## Minor Illusion
 >**Action**
 >1 Intellect point

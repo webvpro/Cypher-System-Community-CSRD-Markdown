@@ -22,8 +22,6 @@ categories:
   - Task
 id: Monster-Lore
 ---
-
-
 ## Monster Lore
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Magic-Shield
 ---
-
-
 ## Magic Shield
 >**Action**
 >1 Intellect point

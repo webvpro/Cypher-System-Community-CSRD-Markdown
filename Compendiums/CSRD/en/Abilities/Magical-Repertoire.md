@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Magical-Repertoire
 ---
-
-
 ## Magical Repertoire
 >**Enabler**
 

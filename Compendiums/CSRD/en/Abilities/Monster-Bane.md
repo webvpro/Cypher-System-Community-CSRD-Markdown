@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Monster-Bane
 ---
-
-
 ## Monster Bane
 >**Enabler**
 

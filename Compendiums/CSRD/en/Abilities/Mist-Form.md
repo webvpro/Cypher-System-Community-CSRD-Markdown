@@ -22,8 +22,6 @@ categories:
   - ''
 id: Mist-Form
 ---
-
-
 ## Mist Form
 >**Action**
 >4 Intellect points

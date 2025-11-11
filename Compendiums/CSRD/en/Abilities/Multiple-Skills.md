@@ -20,8 +20,6 @@ categories:
   - Task
 id: Multiple-Skills
 ---
-
-
 ## Multiple Skills
 >**Enabler**
 

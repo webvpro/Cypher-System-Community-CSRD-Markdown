@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Major-Illusion
 ---
-
-
 ## Major Illusion
 >**Action**
 >3 Intellect points

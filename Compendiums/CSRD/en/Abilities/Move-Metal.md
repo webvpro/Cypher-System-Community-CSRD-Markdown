@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Move-Metal
 ---
-
-
 ## Move Metal
 >**Action**
 >1 Intellect point

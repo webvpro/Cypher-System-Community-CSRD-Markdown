@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Moonbeam
 ---
-
-
 ## Petrify
 >**Action**
 >1+ Intellect points

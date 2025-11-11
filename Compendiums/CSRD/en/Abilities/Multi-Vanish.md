@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Multi-Vanish
 ---
-
-
 ## Multi-Vanish
 >**Action**
 >4+ Intellect points

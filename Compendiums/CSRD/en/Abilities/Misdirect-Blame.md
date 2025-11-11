@@ -22,8 +22,6 @@ categories:
   - Social
 id: Misdirect-Blame
 ---
-
-
 ## Misdirect Blame
 >**Action**
 >2+ Intellect points

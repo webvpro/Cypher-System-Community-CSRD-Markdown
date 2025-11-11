@@ -22,8 +22,6 @@ categories:
   - Information
 id: Mechanical-Telepathy
 ---
-
-
 ## Mechanical Telepathy
 >**Action**
 >3 Intellect points

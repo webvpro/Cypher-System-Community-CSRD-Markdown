@@ -20,8 +20,6 @@ categories:
   - Task
 id: Magic-Training
 ---
-
-
 ## Magic Training
 >**Enabler**
 

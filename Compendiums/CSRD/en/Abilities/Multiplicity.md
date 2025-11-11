@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Multiplicity
 ---
-
-
 ## Multiplicity
 >**Action**
 >6 Might points

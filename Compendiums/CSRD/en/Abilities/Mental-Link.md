@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Mental-Link
 ---
-
-
 ## Mental Link
 >**Action**
 >1+ Intellect point

@@ -22,8 +22,6 @@ categories:
   - NA
 id: Memory-Becomes-Action
 ---
-
-
 ## Memory Becomes Action
 >**Enabler**
 >4+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Mental-Projection
 ---
-
-
 ## Mental Projection
 >**Action**
 >6+ Intellect points

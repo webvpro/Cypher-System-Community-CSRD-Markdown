@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Modify-Cyphers
 ---
-
-
 ## Modify Cyphers
 >**Action**
 

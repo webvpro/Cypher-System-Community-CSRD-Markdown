@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Machine-Companion
 ---
-
-
 ## Machine Companion
 >**Enabler**
 

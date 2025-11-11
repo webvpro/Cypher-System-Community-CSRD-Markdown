@@ -22,8 +22,6 @@ categories:
   - Task
 id: Muscles-of-Iron
 ---
-
-
 ## Muscles of Iron
 >**Enabler**
 >2 Might points

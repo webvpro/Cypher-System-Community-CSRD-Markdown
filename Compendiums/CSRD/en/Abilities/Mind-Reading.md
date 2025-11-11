@@ -22,8 +22,6 @@ categories:
   - Information
 id: Mind-Reading
 ---
-
-
 ## Mind Reading
 >**Action**
 >2 Intellect points

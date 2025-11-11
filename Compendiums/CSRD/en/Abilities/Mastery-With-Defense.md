@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Mastery-With-Defense
 ---
-
-
 ## Mastery With Defense
 >**Enabler**
 

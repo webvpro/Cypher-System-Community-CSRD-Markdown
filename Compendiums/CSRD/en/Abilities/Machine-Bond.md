@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Machine-Bond
 ---
-
-
 ## Machine Bond
 >**Action**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Make-Judgment
 ---
-
-
 ## Make Judgment
 >**Enabler**
 

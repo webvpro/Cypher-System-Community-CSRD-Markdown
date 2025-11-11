@@ -20,8 +20,6 @@ categories:
   - Task
 id: Microgravity-Adept
 ---
-
-
 ## Microgravity Adept
 >**Action**
 

@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Maximize-Cypher
 ---
-
-
 ## Maximize Cypher
 >**Enabler**
 

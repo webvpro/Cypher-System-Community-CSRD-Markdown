@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Move-Mountains
 ---
-
-
 ## Move Mountains
 >**Action**
 >9 Intellect points

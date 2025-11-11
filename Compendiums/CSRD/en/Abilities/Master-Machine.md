@@ -24,8 +24,6 @@ categories:
   - Senses
 id: Master-Machine
 ---
-
-
 ## Master Machine
 >**Action**
 >8 Intellect points

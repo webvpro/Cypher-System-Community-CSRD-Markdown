@@ -22,8 +22,6 @@ categories:
   - Control
 id: Mind-Control
 ---
-
-
 ## Mind Control
 >**Action**
 >6+ Intellect points

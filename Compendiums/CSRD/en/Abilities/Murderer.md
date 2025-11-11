@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Murderer
 ---
-
-
 ## Murderer
 >**Action**
 >8+ Speed points

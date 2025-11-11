@@ -24,8 +24,6 @@ categories:
   - Transform
 id: Moderate-Wish
 ---
-
-
 ## Moderate Wish
 >**Action**
 

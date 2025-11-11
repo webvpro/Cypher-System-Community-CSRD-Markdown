@@ -20,8 +20,6 @@ categories:
   - Task
 id: Meticulous-Planner
 ---
-
-
 ## Meticulous Planner
 >**Enabler**
 

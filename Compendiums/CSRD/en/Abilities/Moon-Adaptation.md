@@ -22,8 +22,6 @@ categories:
   - Magic
 id: Moon-Adaptation
 ---
-
-
 ## Moon Adaptation
 >**Enabler**
 You can survive indefinitely in a vacuum environment (such as the moon or space).

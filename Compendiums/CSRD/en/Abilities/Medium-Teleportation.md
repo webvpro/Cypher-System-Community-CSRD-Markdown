@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Medium-Teleportation
 ---
-
-
 ## Medium Teleportation
 >**Action**
 >5+ Intellect points
