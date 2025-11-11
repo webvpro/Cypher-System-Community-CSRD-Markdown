@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Practiced-With-Swords
 ---
-
-
 ## Practiced With Swords
 >**Enabler**
 

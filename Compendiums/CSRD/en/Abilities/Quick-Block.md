@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Quick-Block
 ---
-
-
 ## Quick Block
 >**Enabler**
 

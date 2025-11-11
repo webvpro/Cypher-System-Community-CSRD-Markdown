@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Quick-Work
 ---
-
-
 ## Quick Work
 >**Action**
 >3+ Intellect points

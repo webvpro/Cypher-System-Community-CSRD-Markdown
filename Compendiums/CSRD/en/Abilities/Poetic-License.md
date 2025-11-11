@@ -20,8 +20,6 @@ categories:
   - Task
 id: Poetic-License
 ---
-
-
 ## Poetic License
 >**Enabler**
 

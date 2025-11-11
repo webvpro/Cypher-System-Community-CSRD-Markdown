@@ -22,8 +22,6 @@ categories:
   - Support
 id: Poison-Touch
 ---
-
-
 ## Poison Touch
 >**Action**
 >2 Intellect points

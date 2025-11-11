@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Projection
 ---
-
-
 ## Projection
 >**Action**
 >4 Intellect points

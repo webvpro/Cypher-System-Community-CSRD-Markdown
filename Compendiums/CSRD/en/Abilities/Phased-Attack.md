@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Phased-Attack
 ---
-
-
 ## Phased Attack
 >**Enabler**
 >3 Intellect points

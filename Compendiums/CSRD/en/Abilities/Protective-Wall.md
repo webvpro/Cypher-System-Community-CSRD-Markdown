@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Protective-Wall
 ---
-
-
 ## Protective Wall
 >**Enabler**
 >6+ Might points

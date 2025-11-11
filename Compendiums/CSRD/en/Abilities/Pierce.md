@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Pierce
 ---
-
-
 ## Pierce
 >**Action**
 >1 Speed point

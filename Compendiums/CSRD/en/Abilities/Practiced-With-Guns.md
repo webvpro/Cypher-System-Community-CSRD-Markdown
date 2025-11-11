@@ -23,8 +23,6 @@ categories:
   - Weird-West
 id: Practiced-With-Guns
 ---
-
-
 ## Practiced With Guns
 >**Enabler**
 

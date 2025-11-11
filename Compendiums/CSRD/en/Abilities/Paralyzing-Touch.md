@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Paralyzing-Touch
 ---
-
-
 ## Paralyzing Touch
 >**Action**
 >4 Intellect point

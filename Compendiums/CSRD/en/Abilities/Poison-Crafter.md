@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Poison-Crafter
 ---
-
-
 ## Poison Crafter
 >**Enabler**
 

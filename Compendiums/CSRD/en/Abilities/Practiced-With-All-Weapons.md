@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Practiced-With-All-Weapons
 ---
-
-
 ## Practiced With All Weapons
 >**Enabler**
 

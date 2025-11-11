@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Quick-Throw
 ---
-
-
 ## Quick Throw
 >**Action**
 >2 Speed points

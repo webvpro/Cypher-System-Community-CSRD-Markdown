@@ -20,8 +20,6 @@ categories:
   - NA
 id: Prepared-Caches
 ---
-
-
 ## Prepared Caches
 >**Action**
 

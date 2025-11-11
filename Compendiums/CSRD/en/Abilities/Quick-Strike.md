@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Quick-Strike
 ---
-
-
 ## Quick Strike
 >**Action**
 >4 Speed points

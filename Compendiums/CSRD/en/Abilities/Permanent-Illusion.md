@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Permanent-Illusion
 ---
-
-
 ## Permanent Illusion
 >**Enabler**
 >9 Intellect points

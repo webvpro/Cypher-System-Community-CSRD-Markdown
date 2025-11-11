@@ -20,8 +20,6 @@ categories:
   - Task
 id: Quick-Study
 ---
-
-
 ## Quick Study
 >**Enabler**
 

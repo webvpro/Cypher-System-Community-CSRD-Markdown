@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Punish-the-Guilty
 ---
-
-
 ## Punish the Guilty
 >**Action**
 >2 Might points

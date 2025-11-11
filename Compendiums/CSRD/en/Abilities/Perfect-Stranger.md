@@ -24,8 +24,6 @@ categories:
   - Social
 id: Perfect-Stranger
 ---
-
-
 ## Perfect Stranger
 >**Action**
 >3 Intellect points

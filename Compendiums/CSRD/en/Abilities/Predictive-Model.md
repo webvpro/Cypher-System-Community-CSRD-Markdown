@@ -22,8 +22,6 @@ categories:
   - Information
 id: Predictive-Model
 ---
-
-
 ## Predictive Model
 >**Action**
 >2+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Phase-Foe
 ---
-
-
 ## Phase Foe
 >**Action**
 >6+ Intellect points

@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Practiced-With-Medium-Weapons
 ---
-
-
 ## Practiced With Medium Weapons
 >**Enabler**
 

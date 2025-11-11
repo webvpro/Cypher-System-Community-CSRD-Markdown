@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Powered-Armor
 ---
-
-
 ## Powered Armor
 >**Enabler**
 

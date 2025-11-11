@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Power-Crash
 ---
-
-
 ## Power Crash
 >**Action**
 >3 Intellect points

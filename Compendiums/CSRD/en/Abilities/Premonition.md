@@ -22,8 +22,6 @@ categories:
   - Information
 id: Premonition
 ---
-
-
 ## Premonition
 >**Action**
 >2 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Parry
 ---
-
-
 ## Parry
 >**Enabler**
 >5 Speed points

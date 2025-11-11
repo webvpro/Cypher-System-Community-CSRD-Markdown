@@ -24,8 +24,6 @@ categories:
   - Protection
 id: Phase-Sprint
 ---
-
-
 ## Phase Sprint
 >**Action**
 >1+ Speed points

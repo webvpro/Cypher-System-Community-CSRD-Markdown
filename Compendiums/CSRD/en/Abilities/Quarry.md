@@ -24,8 +24,6 @@ categories:
   - Task
 id: Quarry
 ---
-
-
 ## Quarry
 >**Action**
 >2 Intellect points

@@ -24,8 +24,6 @@ categories:
   - Task
 id: Powerful-Rhetoric
 ---
-
-
 ## Powerful Rhetoric
 >**Action**
 >1 Intellect point

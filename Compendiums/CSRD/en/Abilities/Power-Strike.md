@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Power-Strike
 ---
-
-
 ## Power Strike
 >**Enabler**
 >3+ Might points

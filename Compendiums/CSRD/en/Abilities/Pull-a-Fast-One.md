@@ -22,8 +22,6 @@ categories:
   - Task
 id: Pull-a-Fast-One
 ---
-
-
 ## Pull a Fast One
 >**Enabler**
 >3 Intellect points

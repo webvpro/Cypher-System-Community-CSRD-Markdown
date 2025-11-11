@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Psychic-Burst
 ---
-
-
 ## Psychic Burst
 >**Action**
 >3+ Intellect points

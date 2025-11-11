@@ -22,8 +22,6 @@ categories:
   - Task
 id: Predictive-Equation
 ---
-
-
 ## Predictive Equation
 >**Action**
 >2 Intellect points

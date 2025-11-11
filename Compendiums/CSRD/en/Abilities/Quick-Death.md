@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Quick-Death
 ---
-
-
 ## Quick Death
 >**Action**
 >2 Speed points

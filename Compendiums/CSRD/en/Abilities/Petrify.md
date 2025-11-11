@@ -24,8 +24,6 @@ categories:
   - Support
 id: Petrify
 ---
-
-
 ## Petrify
 >**Action**
 >4+ Intellect points

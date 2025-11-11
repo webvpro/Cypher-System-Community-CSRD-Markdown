@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Punish-All-the-Guilty
 ---
-
-
 ## Punish All the Guilty
 >**Action**
 >3 Speed points

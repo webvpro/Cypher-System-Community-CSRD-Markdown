@@ -20,8 +20,6 @@ categories:
   - Social
 id: Perks-of-Stardom
 ---
-
-
 ## Perks of Stardom
 >**Enabler**
 

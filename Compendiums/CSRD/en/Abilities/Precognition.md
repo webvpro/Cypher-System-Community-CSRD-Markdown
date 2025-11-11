@@ -24,8 +24,6 @@ categories:
   - Task
 id: Precognition
 ---
-
-
 ## Precognition
 >**Enabler**
 >6 Intellect points

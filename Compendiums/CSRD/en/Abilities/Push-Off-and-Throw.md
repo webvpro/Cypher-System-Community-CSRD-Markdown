@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Push-Off-and-Throw
 ---
-
-
 ## Push Off and Throw
 >**Action**
 >3 Speed points

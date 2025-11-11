@@ -20,8 +20,6 @@ categories:
   - Task
 id: Physical-Skills
 ---
-
-
 ## Physical Skills
 >**Enabler**
 

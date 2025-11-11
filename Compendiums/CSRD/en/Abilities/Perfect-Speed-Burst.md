@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Perfect-Speed-Burst
 ---
-
-
 ## Perfect Speed Burst
 >**Enabler**
 >6 Speed points

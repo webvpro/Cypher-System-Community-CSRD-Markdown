@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Phase-Detonation
 ---
-
-
 ## Phase Detonation
 >**Enabler**
 >2+ Might points

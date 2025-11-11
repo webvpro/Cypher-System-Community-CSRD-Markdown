@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Psychosis
 ---
-
-
 ## Psychosis
 >**Action**
 >4 Intellect points

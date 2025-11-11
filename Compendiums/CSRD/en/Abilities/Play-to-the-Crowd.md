@@ -22,8 +22,6 @@ categories:
   - Support
 id: Play-to-the-Crowd
 ---
-
-
 ## Play to the Crowd
 >**Action**
 >3 Intellect points

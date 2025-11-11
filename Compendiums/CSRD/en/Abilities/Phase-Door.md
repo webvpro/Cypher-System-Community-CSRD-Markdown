@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Phase-Door
 ---
-
-
 ## Phase Door
 >**Action**
 >4 Intellect points

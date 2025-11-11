@@ -21,8 +21,6 @@ pools:
 categories:
   - Magic
 ---
-
-
 ## Perfect Parking Space
 >**Action**
 >3+ Intellect points

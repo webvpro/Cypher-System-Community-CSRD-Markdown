@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Power-Memory
 ---
-
-
 ## Power Memory
 >**Enabler**
 

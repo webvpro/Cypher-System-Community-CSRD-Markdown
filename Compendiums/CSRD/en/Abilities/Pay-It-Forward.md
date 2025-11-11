@@ -22,8 +22,6 @@ categories:
   - Support
 id: Pay-It-Forward
 ---
-
-
 ## Pay It Forward
 >**Action**
 >3 Intellect points

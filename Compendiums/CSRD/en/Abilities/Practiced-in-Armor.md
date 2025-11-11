@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Practiced-in-Armor
 ---
-
-
 ## Practiced in Armor
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Quicker-Than-Most
 ---
-
-
 ## Quicker Than Most
 >**Enabler**
 

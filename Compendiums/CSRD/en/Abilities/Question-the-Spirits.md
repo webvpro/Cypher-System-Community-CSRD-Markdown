@@ -22,8 +22,6 @@ categories:
   - Information
 id: Question-the-Spirits
 ---
-
-
 ## Question the Spirits
 >**Action**
 >2 Intellect points

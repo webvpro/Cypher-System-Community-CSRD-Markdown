@@ -22,8 +22,6 @@ categories:
   - Task
 id: Privileged-Nobility
 ---
-
-
 ## Privileged Nobility
 >**Enabler**
 

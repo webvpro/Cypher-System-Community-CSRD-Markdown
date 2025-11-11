@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Push
 ---
-
-
 ## Push
 >**Action**
 >2 Intellect points

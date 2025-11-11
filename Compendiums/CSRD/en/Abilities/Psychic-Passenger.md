@@ -22,8 +22,6 @@ categories:
   - Control
 id: Psychic-Passenger
 ---
-
-
 ## Psychic Passenger
 >**Action**
 >6 Intellect points

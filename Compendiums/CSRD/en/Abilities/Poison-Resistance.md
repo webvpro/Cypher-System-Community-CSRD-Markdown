@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Poison-Resistance
 ---
-
-
 ## Poison Resistance
 >**Enabler**
 

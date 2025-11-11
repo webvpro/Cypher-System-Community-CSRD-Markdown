@@ -20,8 +20,6 @@ categories:
   - Task
 id: Quick-to-Flee
 ---
-
-
 ## Quick to Flee
 >**Enabler**
 

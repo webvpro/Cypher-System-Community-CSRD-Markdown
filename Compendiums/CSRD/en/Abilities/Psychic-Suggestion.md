@@ -22,8 +22,6 @@ categories:
   - Control
 id: Psychic-Suggestion
 ---
-
-
 ## Psychic Suggestion
 >**Action**
 >4 Intellect points

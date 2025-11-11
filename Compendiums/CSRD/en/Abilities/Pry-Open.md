@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Pry-Open
 ---
-
-
 ## Pry Open
 >**Action**
 >4 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Psychokinetic-Attack
 ---
-
-
 ## Psychokinetic Attack
 >**Action**
 >5 Intellect points
