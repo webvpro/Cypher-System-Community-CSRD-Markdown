@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Create-Water
 ---
-
-
 ## Create Water
 >**Action**
 >2 Intellect points

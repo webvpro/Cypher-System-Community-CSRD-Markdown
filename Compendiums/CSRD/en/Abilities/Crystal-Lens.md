@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Crystal-Lens
 ---
-
-
 ## Crystal Lens
 >**Action**
 

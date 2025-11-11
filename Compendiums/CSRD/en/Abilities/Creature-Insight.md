@@ -22,8 +22,6 @@ categories:
   - Information
 id: Creature-Insight
 ---
-
-
 ## Creature Insight
 >**Action**
 >3 Intellect points

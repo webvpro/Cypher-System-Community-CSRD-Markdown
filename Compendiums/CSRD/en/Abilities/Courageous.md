@@ -22,8 +22,6 @@ categories:
   - Task
 id: Courageous
 ---
-
-
 ## Courageous
 >**Enabler**
 

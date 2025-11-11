@@ -22,8 +22,6 @@ categories:
   - Task
 id: Danger-Sense
 ---
-
-
 ## Danger Sense
 >**Enabler**
 >1 Speed point

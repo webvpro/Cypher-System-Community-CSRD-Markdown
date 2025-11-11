@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Damn-the-Guilty
 ---
-
-
 ## Damn the Guilty
 >**Action**
 >3 Intellect points

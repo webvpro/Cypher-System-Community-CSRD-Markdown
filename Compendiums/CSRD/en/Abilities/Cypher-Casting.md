@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Cypher-Casting
 ---
-
-
 ## Cypher Casting
 >**Enabler**
 

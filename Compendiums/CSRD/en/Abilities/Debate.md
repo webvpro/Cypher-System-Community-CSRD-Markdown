@@ -24,8 +24,6 @@ categories:
   - Task
 id: Debate
 ---
-
-
 ## Debate
 >**Action**
 >3 Intellect points

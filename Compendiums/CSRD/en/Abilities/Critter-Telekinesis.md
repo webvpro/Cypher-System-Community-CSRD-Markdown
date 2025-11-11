@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Critter-Telekinesis
 ---
-
-
 ## Critter Telekinesis
 >**Action**
 >1 Intellect point

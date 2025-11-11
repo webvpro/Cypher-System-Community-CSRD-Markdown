@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Death-Touch
 ---
-
-
 ## Death Touch
 >**Action**
 >6 Intellect points

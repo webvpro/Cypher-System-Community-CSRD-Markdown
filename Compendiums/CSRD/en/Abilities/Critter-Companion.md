@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Critter-Companion
 ---
-
-
 ## Critter Companion
 >**Enabler**
 

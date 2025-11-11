@@ -24,8 +24,6 @@ categories:
   - Protection
 id: Crystalline-Body
 ---
-
-
 ## Crystalline Body
 >**Enabler**
 

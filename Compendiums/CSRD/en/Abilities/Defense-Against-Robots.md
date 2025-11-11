@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Defense-Against-Robots
 ---
-
-
 ## Defense Against Robots
 >**Enabler**
 

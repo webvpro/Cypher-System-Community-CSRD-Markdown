@@ -22,8 +22,6 @@ categories:
   - Support
 id: Defend-the-Innocent
 ---
-
-
 ## Defend the Innocent
 >**Action**
 >2 Speed points

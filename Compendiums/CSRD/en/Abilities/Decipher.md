@@ -22,8 +22,6 @@ categories:
   - Information
 id: Decipher
 ---
-
-
 ## Decipher
 >**Action**
 >1 Intellect point

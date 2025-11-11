@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Defensive-Augmentation
 ---
-
-
 ## Defensive Augmentation
 >**Enabler**
 

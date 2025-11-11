@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Defensive-Phasing
 ---
-
-
 ## Defensive Phasing
 >**Action**
 >2 Intellect points

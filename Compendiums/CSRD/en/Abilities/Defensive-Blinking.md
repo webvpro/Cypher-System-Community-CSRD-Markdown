@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Defensive-Blinking
 ---
-
-
 ## Defensive Blinking
 >**Action**
 >4 Intellect points

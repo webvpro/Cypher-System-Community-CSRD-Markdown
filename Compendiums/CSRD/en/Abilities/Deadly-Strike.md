@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Deadly-Strike
 ---
-
-
 ## Deadly Strike
 >**Action**
 >5 Might points

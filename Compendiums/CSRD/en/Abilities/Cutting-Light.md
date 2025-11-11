@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Cutting-Light
 ---
-
-
 ## Cutting Light
 >**Action**
 >2 Intellect points

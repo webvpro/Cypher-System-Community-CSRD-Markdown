@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Cypher-Surge
 ---
-
-
 ## Cypher Surge
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Deep-Water-Guide
 ---
-
-
 ## Deep Water Guide
 >**Enabler**
 

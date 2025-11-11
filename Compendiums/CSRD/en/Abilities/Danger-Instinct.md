@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Danger-Instinct
 ---
-
-
 ## Danger Instinct
 >**Enabler**
 >3 Speed points

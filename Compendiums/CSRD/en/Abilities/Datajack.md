@@ -22,8 +22,6 @@ categories:
   - Task
 id: Datajack
 ---
-
-
 ## Datajack
 >**Action**
 >1 Intellect point

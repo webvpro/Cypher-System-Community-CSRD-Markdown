@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Deadly-Swarm
 ---
-
-
 ## Deadly Swarm
 >**Action**
 >6 Intellect points

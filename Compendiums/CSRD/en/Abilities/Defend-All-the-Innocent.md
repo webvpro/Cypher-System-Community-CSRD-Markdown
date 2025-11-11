@@ -20,8 +20,6 @@ categories:
   - Support
 id: Defend-All-the-Innocent
 ---
-
-
 ## Defend All the Innocent
 >**Enabler**
 

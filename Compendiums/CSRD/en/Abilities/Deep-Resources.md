@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Deep-Resources
 ---
-
-
 ## Deep Resources
 >**Enabler**
 

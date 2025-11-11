@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Dazzling-Sunburst
 ---
-
-
 ## Dazzling Sunburst
 >**Action**
 >2 Intellect points

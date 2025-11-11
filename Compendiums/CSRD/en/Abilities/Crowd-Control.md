@@ -22,8 +22,6 @@ categories:
   - Control
 id: Crowd-Control
 ---
-
-
 ## Crowd Control
 >**Action**
 >6+ Intellect points

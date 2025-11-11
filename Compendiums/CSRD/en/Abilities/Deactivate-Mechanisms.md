@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Deactivate-Mechanisms
 ---
-
-
 ## Deactivate Mechanisms
 >**Action**
 >5+ Speed points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Defense-Master
 ---
-
-
 ## Defense Master
 >**Enabler**
 

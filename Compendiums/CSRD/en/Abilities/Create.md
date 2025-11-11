@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Create
 ---
-
-
 ## Create
 >**Action**
 >7 Intellect points

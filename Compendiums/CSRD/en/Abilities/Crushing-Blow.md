@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Crushing-Blow
 ---
-
-
 ## Crushing Blow
 >**Action**
 >2 Might points

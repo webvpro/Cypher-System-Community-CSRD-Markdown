@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Debilitating-Strike
 ---
-
-
 ## Debilitating Strike
 >**Action**
 >4 Speed points

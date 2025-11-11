@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Defending-Weapon
 ---
-
-
 ## Defending Weapon
 >**Enabler**
 

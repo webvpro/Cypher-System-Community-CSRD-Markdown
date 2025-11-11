@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Dazing-Attack
 ---
-
-
 ## Dazing Attack
 >**Action**
 >3 Might points

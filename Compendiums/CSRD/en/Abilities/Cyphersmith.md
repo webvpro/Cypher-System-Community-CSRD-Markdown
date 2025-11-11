@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Cyphersmith
 ---
-
-
 ## Cyphersmith
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Dark-Matter-Shroud
 ---
-
-
 ## Dark Matter Shroud
 >**Action**
 >4 Intellect points

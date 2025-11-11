@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Defensive-Field
 ---
-
-
 ## Defensive Field
 >**Enabler**
 

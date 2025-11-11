@@ -24,8 +24,6 @@ categories:
   - Environment
 id: Daydream
 ---
-
-
 ## Daydream
 >**Action**
 >4 Intellect points

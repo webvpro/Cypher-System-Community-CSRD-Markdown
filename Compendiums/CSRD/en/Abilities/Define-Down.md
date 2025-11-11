@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Define-Down
 ---
-
-
 ## Define Down
 >**Action**
 >4 Intellect points

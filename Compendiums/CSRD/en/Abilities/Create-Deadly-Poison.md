@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Create-Deadly-Poison
 ---
-
-
 ## Create Deadly Poison
 >**Action**
 >3+ Intellect points

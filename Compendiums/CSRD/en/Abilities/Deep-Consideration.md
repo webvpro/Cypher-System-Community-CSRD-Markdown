@@ -22,8 +22,6 @@ categories:
   - Information
 id: Deep-Consideration
 ---
-
-
 ## Deep Consideration
 >**Action**
 >6 Intellect points
