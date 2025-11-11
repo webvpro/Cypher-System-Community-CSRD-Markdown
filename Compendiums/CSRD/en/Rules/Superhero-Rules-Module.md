@@ -1,7 +1,11 @@
-v---
+---
 aliases: "Superhero Rules Module"
 tags:
-- Compendium/CSRD/en/Rules/Superhero-Rules-Module
+- Compendium/CSRD/en/Genre-Superhero
+- Compendium/CSRD/en/Genre-Superhero/Rules
+- Genre/Superhero
+collection: Genre-Superhero
+kind: Rules
 ---
 
 # Superhero Rules Module

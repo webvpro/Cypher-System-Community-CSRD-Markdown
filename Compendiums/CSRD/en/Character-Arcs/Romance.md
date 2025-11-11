@@ -2,10 +2,12 @@
 aliases:
   - Romance
 tags:
-  - Compendium/CSRD/en/Character-Arcs/Romance
+  - Compendium/CSRD/en/Genre-Romance
+  - Compendium/CSRD/en/Genre-Romance/Character-Arcs
+  - Genre/Romance
   - Character-Arc
 title: Romance
-collection: Character-Arcs
+collection: Genre-Romance
 kind: Arc
 categories: []
 id: Romance

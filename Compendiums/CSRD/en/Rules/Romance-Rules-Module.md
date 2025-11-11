@@ -2,7 +2,9 @@
 aliases:
   - Romance Rules Module
 tags:
-  - Compendium/CSRD/en/Rules/Romance-Rules-Module
+  - Compendium/CSRD/en/Genre-Romance
+  - Compendium/CSRD/en/Genre-Romance/Rules
+  - Genre/Romance
 title: Romance Rules Module
 id: Romance-Rules-Module
 ---

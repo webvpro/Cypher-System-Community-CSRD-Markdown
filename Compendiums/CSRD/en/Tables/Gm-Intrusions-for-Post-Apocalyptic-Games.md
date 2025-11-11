@@ -2,10 +2,13 @@
 aliases:
   - Gm Intrusions for Post-Apocalyptic Games
 tags:
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic/Tables
+  - Genre/Post-Apocalyptic
   - Compendiums/CSRD/en/Tables
   - Table/Intrusion/Gm-Intrusions-for-Post-Apocalyptic-Games
 title: Gm Intrusions for Post-Apocalyptic Games
-collection: Tables
+collection: Genre-Post-Apocalyptic
 kind: Table
 id: Gm-Intrusions-for-Post-Apocalyptic-Games
 ---

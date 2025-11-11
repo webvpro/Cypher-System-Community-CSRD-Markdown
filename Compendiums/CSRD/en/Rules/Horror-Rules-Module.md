@@ -2,7 +2,9 @@
 aliases:
   - Horror Rules Module
 tags:
-  - Compendium/CSRD/en/Rules/Horror-Rules-Module
+  - Compendium/CSRD/en/Genre-Horror
+  - Compendium/CSRD/en/Genre-Horror/Rules
+  - Genre/Horror
 title: Horror Rules Module
 id: Horror-Rules-Module
 ---

@@ -2,10 +2,12 @@
 aliases:
   - Fantasy Character Options
 tags:
-  - Compendium/CSRD/en/Rules/Fantasy-Character-Options
+  - Compendium/CSRD/en/Genre-Fantasy
+  - Compendium/CSRD/en/Genre-Fantasy/Character-Options
+  - Genre/Fantasy
   - Character/Options/Fantasy
 title: Fantasy Character Options
-collection: Rules
+collection: Genre-Fantasy
 kind: Character
 id: Fantasy-Character-Options
 ---

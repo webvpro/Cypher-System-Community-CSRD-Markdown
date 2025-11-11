@@ -2,12 +2,10 @@
 aliases:
   - "Paranormal Vices Of The Weird West"
 tags:
-  - Compendium/CSRD/en/Genre-Weird-West
-  - Compendium/CSRD/en/Genre-Weird-West/Hazards
   - Genre/Weird-West
   - Hazards
 title: Paranormal Vices Of The Weird West
-collection: Genre-Weird-West
+collection: Rules
 kind: Hazards
 id: Paranormal-Vices
 ---

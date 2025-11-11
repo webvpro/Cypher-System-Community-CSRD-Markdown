@@ -2,12 +2,14 @@
 aliases:
   - Fairytale Rules Module
 tags:
-  - Compendium/CSRD/en/Rules/Fairytale-Rules-Module
+  - Compendium/CSRD/en/Genre-Fairytale
+  - Compendium/CSRD/en/Genre-Fairytale/Rules
+  - Genre/Fairytale
   - Rule/Crafting/Magic-Items
   - Rule/Crafting/Cypher
   - Rule/Crafting/Artifacts
 title: Fairytale Rules Module
-collection: Rules
+collection: Genre-Fairytale
 kind: Rule
 id: Fairytale-Rules-Module
 ---

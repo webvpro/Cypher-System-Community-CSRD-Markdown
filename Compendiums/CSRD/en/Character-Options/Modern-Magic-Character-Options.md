@@ -2,10 +2,12 @@
 aliases:
   - Modern Magic Character Options
 tags:
-  - Compendium/CSRD/en/Character-Options/Modern-Magic-Character-Options
+  - Compendium/CSRD/en/Genre-Modern
+  - Compendium/CSRD/en/Genre-Modern/Character-Options
+  - Genre/Modern
   - Character/Options/Modern-Magic
 title: Modern Magic Character Options
-collection: Character-Options
+collection: Genre-Modern
 kind: Rule
 categories: []
 id: Modern-Magic-Character-Options

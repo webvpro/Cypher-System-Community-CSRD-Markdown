@@ -2,10 +2,12 @@
 aliases:
   - Fairytale Character Options
 tags:
-  - Compendium/CSRD/en/Character-Options/Fairytale-Character-Options
+  - Compendium/CSRD/en/Genre-Fairytale
+  - Compendium/CSRD/en/Genre-Fairytale/Character-Options
+  - Genre/Fairytale
   - Character/Options/Fairytale
 title: Fairytale Character Options
-collection: Character-Options
+collection: Genre-Fairytale
 kind: Rule
 categories: []
 id: Fairytale-Character-Options

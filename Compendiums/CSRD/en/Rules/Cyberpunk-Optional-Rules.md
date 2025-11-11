@@ -2,12 +2,10 @@
 aliases:
   - "Cyberpunk Optional Rules"
 tags:
-  - Compendium/CSRD/en/Genre-Cyberpunk
-  - Compendium/CSRD/en/Genre-Cyberpunk/Rules
   - Rules
   - Genre/Cyberpunk
 title: Cyberpunk Optional Rules
-collection: Genre-Cyberpunk
+collection: Rules
 kind: Rules
 id: Cyberpunk-Optional-Rules
 ---

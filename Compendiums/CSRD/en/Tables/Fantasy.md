@@ -2,10 +2,13 @@
 aliases:
   - Fantasy
 tags:
+  - Compendium/CSRD/en/Genre-Fantasy
+  - Compendium/CSRD/en/Genre-Fantasy/Tables
+  - Genre/Fantasy
   - Compendiums/CSRD/en/Tables
   - Table/Fantasy
 title: Fantasy
-collection: Tables
+collection: Genre-Fantasy
 kind: Table
 id: Fantasy
 ---

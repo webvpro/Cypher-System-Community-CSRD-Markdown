@@ -2,11 +2,14 @@
 aliases:
   - Science Fiction Creatures And NPCs By Level And Tech
 tags:
+  - Compendium/CSRD/en/Genre-Science-Fiction
+  - Compendium/CSRD/en/Genre-Science-Fiction/Creatures
+  - Genre/Science-Fiction
   - Compendiums/CSRD/en/Tables
   - Creatures/Science-Fiction
   - NPCs/Science-Fiction
 title: Science Fiction Creatures And NPCs By Level And Tech
-collection: Tables
+collection: Genre-Science-Fiction
 kind: Creatures
 id: Science-Fiction-Creatures-And-NPCs-By-Level And-Tech
 ---

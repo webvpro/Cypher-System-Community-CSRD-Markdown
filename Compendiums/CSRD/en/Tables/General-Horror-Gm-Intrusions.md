@@ -2,10 +2,13 @@
 aliases:
   - General Horror Gm Intrusions
 tags:
+  - Compendium/CSRD/en/Genre-Horror
+  - Compendium/CSRD/en/Genre-Horror/Hazards
+  - Genre/Horror
   - Compendiums/CSRD/en/Tables
   - Table/Intrusion/General-Horror-Gm-Intrusions
 title: General Horror Gm Intrusions
-collection: Tables
+collection: Genre-Horror
 kind: Table
 id: General-Horror-Gm-Intrusions
 ---

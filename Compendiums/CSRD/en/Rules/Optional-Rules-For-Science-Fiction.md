@@ -4,11 +4,13 @@ aliases:
   - Sci-Fi
   - Science Fiction
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
+  - Compendium/CSRD/en/Genre-Science-Fiction
+  - Compendium/CSRD/en/Genre-Science-Fiction/Rules
+  - Genre/Science-Fiction
   - /Rules/Optional/Science-Fiction/Harder
   - /Rules/Optional/Science-Fiction/Ftl
 title: Optional Rules For Science Fiction
-collection: Rules
+collection: Genre-Science-Fiction
 kind: ''
 id: Optional-Rules-For-Science-Fiction
 ---

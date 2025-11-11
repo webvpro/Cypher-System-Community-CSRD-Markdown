@@ -2,13 +2,11 @@
 aliases:
   - "Cyphers And Artifacts Of The Weird West"
 tags:
-  - Compendium/CSRD/en/Genre-Weird-West
-  - Compendium/CSRD/en/Genre-Weird-West/Cyphers
   - Cyphers
   - Artifacts
   - Genre/Weird-West
 title: Cyphers And Artifacts Of The Weird West
-collection: Genre-Weird-West
+collection: Cyphers
 kind: Cyphers
 id: Cyphers-And-Artifacts
 ---

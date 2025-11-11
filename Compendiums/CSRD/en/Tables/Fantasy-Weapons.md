@@ -2,10 +2,13 @@
 aliases:
   - Fantasy Weapons Descriptions
 tags:
+  - Compendium/CSRD/en/Genre-Fantasy
+  - Compendium/CSRD/en/Genre-Fantasy/Equipment
+  - Genre/Fantasy
   - Compendiums/CSRD/en/RulesWeapons/Fantasy
   - Rule/Weapons/Fantasy
 title: Fantasy Weapons Descriptions
-collection: RulesWeapons
+collection: Genre-Fantasy
 kind: Rule
 id: Fantasy-Weapons
 ---

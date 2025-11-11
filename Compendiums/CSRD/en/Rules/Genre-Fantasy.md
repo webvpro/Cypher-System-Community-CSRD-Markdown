@@ -2,10 +2,12 @@
 aliases:
   - Genre Fantasy
 tags:
-  - Compendium/CSRD/en/Rules/Genre-Fantasy
+  - Compendium/CSRD/en/Genre-Fantasy
+  - Compendium/CSRD/en/Genre-Fantasy/Rules
+  - Genre/Fantasy
   - Genre/Fantasy
 title: Genre Fantasy
-collection: Rules
+collection: Genre-Fantasy
 kind: Genre
 id: Genre-Fantasy
 ---

@@ -2,7 +2,9 @@
 aliases:
   - "Post-Apocalyptic Threats, Hazards, And Gm Intrusions"
 tags:
-  - Compendium/CSRD/en/Rules
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic/Hazards
+  - Genre/Post-Apocalyptic
   - Post-Apocalyptic
 ---
 

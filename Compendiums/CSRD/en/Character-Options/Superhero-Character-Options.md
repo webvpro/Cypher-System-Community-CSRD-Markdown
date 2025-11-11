@@ -2,10 +2,12 @@
 aliases:
   - Superhero Character Options
 tags:
-  - Compendium/CSRD/en/Character-Options/Modern-Magic-Character-Options
+  - Compendium/CSRD/en/Genre-Superhero
+  - Compendium/CSRD/en/Genre-Superhero/Character-Options
+  - Genre/Superhero
   - Character/Options/Superhero
 title: Superhero Character Options
-collection: Character-Options
+collection: Genre-Superhero
 kind: Rule
 categories:
   - Superhero

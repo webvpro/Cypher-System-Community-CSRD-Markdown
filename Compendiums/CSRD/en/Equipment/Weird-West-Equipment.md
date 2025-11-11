@@ -2,12 +2,10 @@
 aliases:
   - "Currency And Equipment Of The Weird West"
 tags:
-  - Compendium/CSRD/en/Genre-Weird-West
-  - Compendium/CSRD/en/Genre-Weird-West/Equipment
   - Equipment
   - Genre/Weird-West
 title: Currency And Equipment Of The Weird West
-collection: Genre-Weird-West
+collection: Equipment
 kind: Equipment
 id: Currency-And-Equipment
 ---

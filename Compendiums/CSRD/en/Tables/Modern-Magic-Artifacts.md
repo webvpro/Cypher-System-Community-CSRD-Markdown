@@ -2,10 +2,13 @@
 aliases:
   - Modern Magic Artifacts
 tags:
+  - Compendium/CSRD/en/Genre-Modern
+  - Compendium/CSRD/en/Genre-Modern/Cyphers
+  - Genre/Modern
   - Compendiums/CSRD/en/Tables/Modern-Magic-Artifacts
   - Table/Modern-Magic/Artifacts
 title: Modern Magic Artifacts
-collection: Tables
+collection: Genre-Modern
 kind: Table
 id: Modern-Magic-Artifacts
 ---

@@ -2,7 +2,9 @@
 aliases:
   - Modern Rules Module
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Modern-Rules-Module
+  - Compendium/CSRD/en/Genre-Modern
+  - Compendium/CSRD/en/Genre-Modern/Rules
+  - Genre/Modern
 title: Modern Rules Module
 id: Modern-Rules-Module
 ---

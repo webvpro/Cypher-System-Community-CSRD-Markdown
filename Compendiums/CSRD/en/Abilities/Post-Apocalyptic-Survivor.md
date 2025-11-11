@@ -2,14 +2,16 @@
 aliases:
   - Post-Apocalyptic Survivor
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic
+  - Compendium/CSRD/en/Genre-Post-Apocalyptic/Abilities
+  - Genre/Post-Apocalyptic
   - Ability
   - Ability/Enabler
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
 title: Post-Apocalyptic Survivor
-collection: Abilities
+collection: Genre-Post-Apocalyptic
 kind: Ability
 action: false
 enabler: true
