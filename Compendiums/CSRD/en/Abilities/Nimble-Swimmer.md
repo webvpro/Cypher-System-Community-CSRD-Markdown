@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Nimble-Swimmer
 ---
-
-
 ## Nimble Swimmer
 >**Enabler**
 

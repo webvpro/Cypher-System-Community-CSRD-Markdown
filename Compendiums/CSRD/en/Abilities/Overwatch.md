@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Overwatch
 ---
-
-
 ## Overwatch
 >**Action**
 >1 Intellect point

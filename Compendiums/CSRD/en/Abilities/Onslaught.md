@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Onslaught
 ---
-
-
 ## Onslaught
 >**Action**
 >1 Intellect point

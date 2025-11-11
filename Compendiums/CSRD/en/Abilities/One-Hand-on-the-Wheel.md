@@ -22,8 +22,6 @@ categories:
   - Magic
 id: One-Hand-on-the-Wheel
 ---
-
-
 ## One Hand on the Wheel
 >**Enabler**
 As an action, you can cast a one-action spell and attempt a driving task. Enabler.

@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Obstacle-Running
 ---
-
-
 ## Obstacle Running
 >**Enabler**
 >3 Speed points

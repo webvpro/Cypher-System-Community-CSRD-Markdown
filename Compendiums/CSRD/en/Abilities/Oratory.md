@@ -22,8 +22,6 @@ categories:
   - Social
 id: Oratory
 ---
-
-
 ## Oratory
 >**Action**
 >4 Intellect points

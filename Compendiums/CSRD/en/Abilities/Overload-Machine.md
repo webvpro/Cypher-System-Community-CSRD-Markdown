@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Overload-Machine
 ---
-
-
 ## Overload Machine
 >**Action**
 >3+ Intellect points

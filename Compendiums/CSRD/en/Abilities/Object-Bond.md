@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Object-Bond
 ---
-
-
 ## Object Bond
 >**Enabler**
 >3 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Negate-Danger
 ---
-
-
 ## Negate Danger
 >**Action**
 >7 Intellect points

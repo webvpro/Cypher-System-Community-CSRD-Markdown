@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Outlaw-Reputation
 ---
-
-
 ## Outlaw Reputation
 >**Enabler**
 >3 Intellect points

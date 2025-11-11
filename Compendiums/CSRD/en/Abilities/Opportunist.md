@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Opportunist
 ---
-
-
 ## Opportunist
 >**Enabler**
 

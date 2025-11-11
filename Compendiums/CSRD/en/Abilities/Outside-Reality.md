@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Outside-Reality
 ---
-
-
 ## Outside Reality
 >**Enabler**
 >6+ Intellect points

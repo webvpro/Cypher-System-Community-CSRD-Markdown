@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Object-Bond-Mastery
 ---
-
-
 ## Object Bond Mastery
 >**Enabler**
 >7 Intellect points

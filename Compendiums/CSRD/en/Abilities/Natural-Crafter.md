@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Natural-Crafter
 ---
-
-
 ## Natural Crafter
 >**Enabler**
 

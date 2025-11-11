@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Necromancy
 ---
-
-
 ## Necromancy
 >**Action**
 >3+ Intellect points

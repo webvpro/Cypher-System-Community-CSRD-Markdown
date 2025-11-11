@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Nullify-Sound
 ---
-
-
 ## Nullify Sound
 >**Action**
 >3 Might points

@@ -22,8 +22,6 @@ categories:
   - Task
 id: Outlast-the-Foe
 ---
-
-
 ## Outlast the Foe
 >**Enabler**
 

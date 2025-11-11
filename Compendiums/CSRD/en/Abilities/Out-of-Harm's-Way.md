@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Out-of-Harm's-Way
 ---
-
-
 ## Out of Harm's Way
 >**Enabler**
 

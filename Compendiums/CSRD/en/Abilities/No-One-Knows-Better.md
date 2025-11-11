@@ -20,8 +20,6 @@ categories:
   - Task
 id: No-One-Knows-Better
 ---
-
-
 ## No One Knows Better
 >**Enabler**
 

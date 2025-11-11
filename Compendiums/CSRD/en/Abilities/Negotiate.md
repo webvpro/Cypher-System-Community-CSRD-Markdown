@@ -22,8 +22,6 @@ categories:
   - Social
 id: Negotiate
 ---
-
-
 ## Negotiate
 >**Action**
 >3 Intellect points

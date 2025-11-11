@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Overawe
 ---
-
-
 ## Overawe
 >**Action**
 >5 Intellect points

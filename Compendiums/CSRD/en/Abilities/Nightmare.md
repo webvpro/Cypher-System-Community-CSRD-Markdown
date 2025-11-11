@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Nightmare
 ---
-
-
 ## Nightmare
 >**Action**
 >5 Intellect points

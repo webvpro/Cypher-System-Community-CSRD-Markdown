@@ -20,8 +20,6 @@ categories:
   - Task
 id: Natural-Charisma
 ---
-
-
 ## Natural Charisma
 >**Enabler**
 

@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Network-Dead-Zone
 ---
-
-
 ## Network Dead Zone
 >**Action**
 >3 Intellect point

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Overcome-All-Obstacles
 ---
-
-
 ## Overcome All Obstacles
 >**Action**
 >3+ Intellect points

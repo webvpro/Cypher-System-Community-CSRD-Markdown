@@ -24,8 +24,6 @@ categories:
   - Meta
 id: One-With-the-Wild
 ---
-
-
 ## One With the Wild
 >**Action**
 >6 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Never-Fumble
 ---
-
-
 ## Never Fumble
 >**Enabler**
 

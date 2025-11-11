@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Overcharge-Device
 ---
-
-
 ## Overcharge Device
 >**Action**
 

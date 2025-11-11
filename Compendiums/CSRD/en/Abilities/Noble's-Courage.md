@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Noble's-Courage
 ---
-
-
 ## Noble's Courage
 >**Enabler**
 >3+ Intellect points

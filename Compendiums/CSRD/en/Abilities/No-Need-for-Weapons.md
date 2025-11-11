@@ -20,8 +20,6 @@ categories:
   - Meta
 id: No-Need-for-Weapons
 ---
-
-
 ## No Need for Weapons
 >**Enabler**
 

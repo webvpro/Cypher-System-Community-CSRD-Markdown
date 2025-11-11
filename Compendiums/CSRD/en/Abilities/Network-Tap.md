@@ -22,8 +22,6 @@ categories:
   - Information
 id: Network-Tap
 ---
-
-
 ## Network Tap
 >**Action**
 >4 Intellect points
