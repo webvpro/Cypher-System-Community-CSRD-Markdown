@@ -20,8 +20,6 @@ categories:
   - NA
 id: Steal-Power
 ---
-
-
 ## Steal Power
 >**Enabler**
 

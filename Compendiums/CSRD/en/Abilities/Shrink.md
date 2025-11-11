@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Shrink
 ---
-
-
 ## Shrink
 >**Action**
 >1+ Might points

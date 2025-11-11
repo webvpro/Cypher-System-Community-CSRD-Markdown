@@ -24,8 +24,6 @@ categories:
   - Task
 id: Salvage-and-Comfort
 ---
-
-
 ## Salvage and Comfort
 >**Action**
 >2 Intellect points

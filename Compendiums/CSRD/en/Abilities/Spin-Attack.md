@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Spin-Attack
 ---
-
-
 ## Spin Attack
 >**Action**
 >5+ Speed points

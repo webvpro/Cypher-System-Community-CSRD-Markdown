@@ -22,8 +22,6 @@ categories:
   - Support
 id: Spur-Effort
 ---
-
-
 ## Spur Effort
 >**Enabler**
 >5 Intellect points

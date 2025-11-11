@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Shatter-Mind
 ---
-
-
 ## Shatter Mind
 >**Action**
 >7+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Information
 id: Sensor-Array
 ---
-
-
 ## Sensor Array
 >**Action**
 >3 Intellect points

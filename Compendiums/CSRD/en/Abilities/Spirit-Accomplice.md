@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Spirit-Accomplice
 ---
-
-
 ## Spirit Accomplice
 >**Action**
 

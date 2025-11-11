@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Sun-Siphon
 ---
-
-
 ## Sun Siphon
 >**Enabler**
 

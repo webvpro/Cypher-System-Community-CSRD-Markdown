@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Surprise-Attack
 ---
-
-
 ## Surprise Attack
 >**Enabler**
 

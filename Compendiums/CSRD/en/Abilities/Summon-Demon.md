@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Summon-Demon
 ---
-
-
 ## Summon Demon
 >**Action**
 >7+ Intellect points

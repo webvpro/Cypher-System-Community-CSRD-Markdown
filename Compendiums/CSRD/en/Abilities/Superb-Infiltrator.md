@@ -20,8 +20,6 @@ categories:
   - Task
 id: Superb-Infiltrator
 ---
-
-
 ## Superb Infiltrator
 >**Enabler**
 

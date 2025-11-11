@@ -24,8 +24,6 @@ categories:
   - Task
 id: See-the-Future
 ---
-
-
 ## See the Future
 >**Enabler**
 >6 Intellect points

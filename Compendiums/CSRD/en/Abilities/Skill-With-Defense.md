@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Skill-With-Defense
 ---
-
-
 ## Skill With Defense
 >**Enabler**
 

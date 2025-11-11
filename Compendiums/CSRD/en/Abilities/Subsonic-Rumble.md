@@ -22,8 +22,6 @@ categories:
   - Task
 id: Subsonic-Rumble
 ---
-
-
 ## Subsonic Rumble
 >**Action**
 >2 Intellect points

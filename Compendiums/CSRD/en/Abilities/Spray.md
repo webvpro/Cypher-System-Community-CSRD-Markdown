@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Spray
 ---
-
-
 ## Spray
 >**Action**
 >2 Speed points

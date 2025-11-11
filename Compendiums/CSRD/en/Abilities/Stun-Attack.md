@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Stun-Attack
 ---
-
-
 ## Stun Attack
 >**Action**
 >6 Speed points

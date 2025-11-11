@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Shield-Training
 ---
-
-
 ## Shield Training
 >**Enabler**
 

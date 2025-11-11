@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Surging-Confidence
 ---
-
-
 ## Surging Confidence
 >**Enabler**
 >1 Might point

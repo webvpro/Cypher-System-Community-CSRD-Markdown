@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Scramble-Machine
 ---
-
-
 ## Scramble Machine
 >**Action**
 >2 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Task
 id: Sensing-Package
 ---
-
-
 ## Sensing Package
 >**Enabler**
 

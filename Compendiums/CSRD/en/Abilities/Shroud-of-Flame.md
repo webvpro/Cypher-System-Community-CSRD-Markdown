@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Shroud-of-Flame
 ---
-
-
 ## Shroud of Flame
 >**Enabler**
 >1 Intellect point

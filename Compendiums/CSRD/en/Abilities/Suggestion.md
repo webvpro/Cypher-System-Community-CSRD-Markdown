@@ -22,8 +22,6 @@ categories:
   - Control
 id: Suggestion
 ---
-
-
 ## Suggestion
 >**Action**
 >5+ Intellect points

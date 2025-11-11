@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Shatter
 ---
-
-
 ## Shatter
 >**Action**
 >2+ Intellect points

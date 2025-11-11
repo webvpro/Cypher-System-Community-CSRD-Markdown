@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Storm-Seed
 ---
-
-
 ## Storm Seed
 >**Action**
 >3 Intellect points

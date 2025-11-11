@@ -22,8 +22,6 @@ categories:
   - Information
 id: Scan
 ---
-
-
 ## Scan
 >**Action**
 >2 Intellect points

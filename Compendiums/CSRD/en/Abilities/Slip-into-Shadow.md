@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Slip-into-Shadow
 ---
-
-
 ## Slip Into Shadow
 >**Action**
 >2+ Intellect points

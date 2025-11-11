@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Swipe
 ---
-
-
 ## Swipe
 >**Action**
 >1 Speed point

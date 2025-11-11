@@ -22,8 +22,6 @@ categories:
   - Task
 id: Stand-Watch
 ---
-
-
 ## Stand Watch
 >**Action**
 >2 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Control
 id: Soothe-the-Savage
 ---
-
-
 ## Soothe the Savage
 >**Action**
 >2 Intellect points

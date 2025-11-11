@@ -20,8 +20,6 @@ categories:
   - Task
 id: Sharp-Senses
 ---
-
-
 ## Sharp Senses
 >**Enabler**
 

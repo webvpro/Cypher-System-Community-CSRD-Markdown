@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Subtle-Tricks
 ---
-
-
 ## Subtle Tricks
 >**Enabler**
 

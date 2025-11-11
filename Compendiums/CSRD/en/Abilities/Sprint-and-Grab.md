@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Sprint-and-Grab
 ---
-
-
 ## Sprint and Grab
 >**Action**
 >2 Speed points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Scratch-Existence
 ---
-
-
 ## Scratch Existence
 >**Enabler**
 >1+ Might points

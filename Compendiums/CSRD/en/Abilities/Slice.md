@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Slice
 ---
-
-
 ## Slice
 >**Action**
 >2 Speed points

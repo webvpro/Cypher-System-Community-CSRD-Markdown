@@ -20,8 +20,6 @@ categories:
   - Senses
 id: Sense-Ambush
 ---
-
-
 ## Sense Ambush
 >**Enabler**
 

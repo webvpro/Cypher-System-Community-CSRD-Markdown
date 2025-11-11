@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Statue-Stasis
 ---
-
-
 ## Statue Stasis
 >**Action**
 >3 Intellect point

@@ -20,8 +20,6 @@ categories:
   - Support
 id: Share-Defense
 ---
-
-
 ## Share Defense
 >**Enabler**
 

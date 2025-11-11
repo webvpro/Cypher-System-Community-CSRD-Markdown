@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Sniper's-Aim
 ---
-
-
 ## Sniper's Aim
 >**Enabler**
 

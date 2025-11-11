@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Shrink-Others
 ---
-
-
 ## Shrink Others
 >**Enabler**
 

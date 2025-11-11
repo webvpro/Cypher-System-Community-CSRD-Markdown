@@ -22,8 +22,6 @@ categories:
   - ''
 id: Spell-Bullet
 ---
-
-
 ## Spell Bullet
 >**Action**
 

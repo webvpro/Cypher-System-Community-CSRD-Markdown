@@ -22,8 +22,6 @@ categories:
   - Senses
 id: See-Through-Time
 ---
-
-
 ## See Through Time
 >**Action**
 >7 Intellect points

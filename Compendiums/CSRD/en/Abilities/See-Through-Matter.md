@@ -22,8 +22,6 @@ categories:
   - Senses
 id: See-Through-Matter
 ---
-
-
 ## See Through Matter
 >**Action**
 >3+ Intellect points

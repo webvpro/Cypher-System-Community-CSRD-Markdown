@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Speedy-Recovery
 ---
-
-
 ## Speedy Recovery
 >**Action**
 >3 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Store-Energy
 ---
-
-
 ## Store Energy
 >**Enabler**
 

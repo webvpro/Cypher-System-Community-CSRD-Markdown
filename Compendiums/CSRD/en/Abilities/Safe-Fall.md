@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Safe-Fall
 ---
-
-
 ## Safe Fall
 >**Enabler**
 

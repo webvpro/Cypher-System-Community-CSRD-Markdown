@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Shepherd's-Fury
 ---
-
-
 ## Shepherd's Fury
 >**Action**
 

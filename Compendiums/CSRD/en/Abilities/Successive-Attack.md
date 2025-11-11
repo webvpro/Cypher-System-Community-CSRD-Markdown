@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Successive-Attack
 ---
-
-
 ## Successive Attack
 >**Enabler**
 >2 Speed points

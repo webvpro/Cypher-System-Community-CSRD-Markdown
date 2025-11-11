@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Soul-Familiar
 ---
-
-
 ## Soul Familiar
 >**Enabler**
 

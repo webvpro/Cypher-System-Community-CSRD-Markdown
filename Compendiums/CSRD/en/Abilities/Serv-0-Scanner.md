@@ -22,8 +22,6 @@ categories:
   - Information
 id: Serv-0-Scanner
 ---
-
-
 ## Serv-0 Scanner
 >**Enabler**
 >2 Intellect points

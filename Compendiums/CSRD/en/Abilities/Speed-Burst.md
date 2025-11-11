@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Speed-Burst
 ---
-
-
 ## Speed Burst
 >**Enabler**
 >4 Speed points

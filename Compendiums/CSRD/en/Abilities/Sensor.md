@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Sensor
 ---
-
-
 ## Sensor
 >**Action**
 >4 Intellect points

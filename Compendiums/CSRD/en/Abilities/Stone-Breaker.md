@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Stone-Breaker
 ---
-
-
 ## Stone Breaker
 >**Enabler**
 

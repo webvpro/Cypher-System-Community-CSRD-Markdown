@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Seize-the-Initiative
 ---
-
-
 ## Seize the Initiative
 >**Enabler**
 >5 Intellect points

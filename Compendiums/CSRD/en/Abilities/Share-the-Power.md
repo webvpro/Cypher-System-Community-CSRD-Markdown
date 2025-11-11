@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Share-the-Power
 ---
-
-
 ## Share the Power
 >**Enabler**
 

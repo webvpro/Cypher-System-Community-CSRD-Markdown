@@ -22,8 +22,6 @@ categories:
   - Support
 id: Stimulate
 ---
-
-
 ## Stimulate
 >**Action**
 >6 Intellect points

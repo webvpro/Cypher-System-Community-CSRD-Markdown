@@ -22,8 +22,6 @@ categories:
   - Support
 id: Sculpt-Flesh
 ---
-
-
 ## Sculpt Flesh
 >**Action**
 >2 Intellect points

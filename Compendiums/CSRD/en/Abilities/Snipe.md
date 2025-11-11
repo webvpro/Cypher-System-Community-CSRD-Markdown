@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Snipe
 ---
-
-
 ## Snipe
 >**Action**
 >2 Speed points

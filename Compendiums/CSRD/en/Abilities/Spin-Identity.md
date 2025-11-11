@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Spin-Identity
 ---
-
-
 ## Spin Identity
 >**Action**
 >2+ Intellect points

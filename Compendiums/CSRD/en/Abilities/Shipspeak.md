@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Shipspeak
 ---
-
-
 ## Shipspeak
 >**Action**
 

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Shield-Master
 ---
-
-
 ## Shield Master
 >**Enabler**
 

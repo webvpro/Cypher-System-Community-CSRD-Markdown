@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Serv-0-Spy
 ---
-
-
 ## Serv-0 Spy
 >**Action**
 >3 Intellect points

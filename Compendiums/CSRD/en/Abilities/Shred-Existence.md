@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Shred-Existence
 ---
-
-
 ## Shred Existence
 >**Enabler**
 

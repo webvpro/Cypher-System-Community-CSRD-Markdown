@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Superior-Duplicate
 ---
-
-
 ## Superior Duplicate
 >**Enabler**
 >2 Might points

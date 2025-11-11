@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Stronger-Together
 ---
-
-
 ## Stronger Together
 >**Enabler**
 

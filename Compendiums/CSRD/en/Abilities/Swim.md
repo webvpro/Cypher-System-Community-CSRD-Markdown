@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Swim
 ---
-
-
 ## Swim
 >**Action**
 >1+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Shattering-Shout
 ---
-
-
 ## Shattering Shout
 >**Action**
 >5+ Might points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Seeds-of-Fury
 ---
-
-
 ## Seeds of Fury
 >**Action**
 >1 Intellect point

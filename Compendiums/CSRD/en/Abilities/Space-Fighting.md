@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Space-Fighting
 ---
-
-
 ## Space Fighting
 >**Enabler**
 

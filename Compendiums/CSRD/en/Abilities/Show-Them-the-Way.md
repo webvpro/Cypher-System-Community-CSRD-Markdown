@@ -22,8 +22,6 @@ categories:
   - Control
 id: Show-Them-the-Way
 ---
-
-
 ## Show Them the Way
 >**Action**
 >6+ Intellect points

@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Spore-Cloud
 ---
-
-
 ## Spore Cloud
 >**Action**
 >1 Intellect point

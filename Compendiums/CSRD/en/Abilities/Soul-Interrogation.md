@@ -22,8 +22,6 @@ categories:
   - Information
 id: Soul-Interrogation
 ---
-
-
 ## Soul Interrogation
 >**Action**
 >5 Intellect points

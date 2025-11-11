@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Share-Memory
 ---
-
-
 ## Share Memory
 >**Action**
 >3 Intellect point

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Sturdy
 ---
-
-
 ## Sturdy
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Subtle-Steps
 ---
-
-
 ## Subtle Steps
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Sound-Conversion-Barrier
 ---
-
-
 ## Sound Conversion Barrier
 >**Enabler**
 

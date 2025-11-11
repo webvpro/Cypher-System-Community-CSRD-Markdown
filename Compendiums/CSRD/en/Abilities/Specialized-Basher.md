@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Specialized-Basher
 ---
-
-
 ## Specialized Basher
 >**Enabler**
 

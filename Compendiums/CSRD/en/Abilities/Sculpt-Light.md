@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Sculpt-Light
 ---
-
-
 ## Sculpt Light
 >**Action**
 >4 Intellect points

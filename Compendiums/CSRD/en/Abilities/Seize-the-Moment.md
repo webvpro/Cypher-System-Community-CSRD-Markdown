@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Seize-the-Moment
 ---
-
-
 ## Seize the Moment
 >**Enabler**
 >4+ Speed points

@@ -22,8 +22,6 @@ categories:
   - NA
 id: Short-Teleportation
 ---
-
-
 ## Short Teleportation
 >**Action**
 >4+ Intellect points

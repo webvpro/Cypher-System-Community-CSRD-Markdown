@@ -20,8 +20,6 @@ categories:
   - Task
 id: Stalker
 ---
-
-
 ## Stalker
 >**Enabler**
 

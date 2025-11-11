@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Strategize
 ---
-
-
 ## Strategize
 >**Action**
 >6 Intellect points

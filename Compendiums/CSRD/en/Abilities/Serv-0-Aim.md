@@ -22,8 +22,6 @@ categories:
   - Task
 id: Serv-0-Aim
 ---
-
-
 ## Serv-0 Aim
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Information
 id: See-History
 ---
-
-
 ## See History
 >**Action**
 >4 Intellect points

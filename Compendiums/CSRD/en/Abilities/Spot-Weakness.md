@@ -20,8 +20,6 @@ categories:
   - Information
 id: Spot-Weakness
 ---
-
-
 ## Spot Weakness
 >**Action**
 

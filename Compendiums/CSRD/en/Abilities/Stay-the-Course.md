@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Stay-the-Course
 ---
-
-
 ## Stay the Course
 >**Action**
 >5 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Task
 id: Ship-Footing
 ---
-
-
 ## Ship Footing
 >**Action**
 >3 Speed points

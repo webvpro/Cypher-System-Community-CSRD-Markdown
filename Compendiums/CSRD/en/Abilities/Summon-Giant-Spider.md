@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Summon-Giant-Spider
 ---
-
-
 ## Summon Giant Spider
 >**Action**
 >4+ Intellect points

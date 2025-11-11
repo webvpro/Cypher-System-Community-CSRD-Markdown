@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Slippery-Customer
 ---
-
-
 ## Slippery Customer
 >**Enabler**
 

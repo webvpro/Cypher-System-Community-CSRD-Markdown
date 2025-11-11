@@ -20,8 +20,6 @@ categories:
   - Task
 id: Stealth-Skills
 ---
-
-
 ## Stealth Skills
 >**Enabler**
 

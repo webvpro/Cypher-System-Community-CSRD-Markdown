@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Still-As-a-Statue
 ---
-
-
 ## Still As a Statue
 >**Action**
 >5 Might points

@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Small-Flight
 ---
-
-
 ## Small Flight
 >**Action**
 >3+ Intellect points
