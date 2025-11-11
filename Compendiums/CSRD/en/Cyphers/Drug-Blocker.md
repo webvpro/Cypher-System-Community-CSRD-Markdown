@@ -16,10 +16,11 @@ id: Drug-Blocker
 
 
 ## Drug Blocker
+>[!info] Stats
+> **Level:** 1d6
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Effect: Automatically detects drugs (medications, street drugs,
+Automatically detects drugs (medications, street drugs,
 pharmaceutical cyphers, and so on) in the user's system, informs the
 user what drug they've been dosed with, and (if the cypher level is
 equal to or greater than the drug's level) gives them the option to

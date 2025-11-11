@@ -16,12 +16,12 @@ id: Focusing-Module
 
 
 ## Focusing Module (Works the Back Alleys)
+>[!info] Stats
+> **Level:** 1d6 + 3
+> **Form:** Phone-sized device with wired hookups
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 3
-
-Form: Phone-sized device with wired hookups
-
-Effect: When worn by someone with the Works the Back Alleys focus, this
+When worn by someone with the Works the Back Alleys focus, this
 device augments the following abilities, based on the artifact's level:
 
 Level 4: Stealth Skills gives you a free additional level of Effort on

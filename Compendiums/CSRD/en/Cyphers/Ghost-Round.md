@@ -16,10 +16,10 @@ id: Ghost-Round
 
 
 ## Ghost Round
-
 >[!info] Stats
 > **Level:** 1d6
 > **Form:** Round appears ghostly, translucent, not quite real
+> **Kind:** Weird West
 
 When this round is fired from a gun, additional attacks made
 from the gun gain the same benefit for the next minute. Unliving targets

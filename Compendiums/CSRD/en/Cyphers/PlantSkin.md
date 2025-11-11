@@ -16,10 +16,11 @@ id: PlantSkin
 
 
 ## PlantSkin (cyberware)
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Effect: This skin cyberware developed by Rubylight contains thousands of
+This skin cyberware developed by Rubylight contains thousands of
 tiny biomolecule-filled spheres that turn various wavelengths of light
 into glucose, which is absorbed into the user's bloodstream. The user
 can subsist without food for as long as they are exposed to about four

@@ -16,13 +16,12 @@ id: Blue-Shift-Implant
 
 
 ## Blue Shift Implant (cyberware)
+>[!info] Stats
+> **Level:** 1d6 + 3
+> **Form:** Paired cybernetic implants (one for the brain, one for the nervous
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 3
-
-Form: Paired cybernetic implants (one for the brain, one for the nervous
-system)
-
-Effect: Created by Kaisha, this military-grade cyberware accelerates the
+Created by Kaisha, this military-grade cyberware accelerates the
 user's movement and thought to superhuman levels. To most people, the
 user appears to be a fast-moving blur---if they notice them at all.
 

@@ -16,10 +16,10 @@ id: Gunlantern-Slug
 
 
 ## Gunlantern Slug
-
 >[!info] Stats
 > **Level:** 1d6 + 1
 > **Form:** Bullet case glows dim as a candle
+> **Kind:** Weird West
 
 Firing the slug (either as an attack or into the air) causes the
 gun to emit a beam of light for three hours per cypher level. The beam

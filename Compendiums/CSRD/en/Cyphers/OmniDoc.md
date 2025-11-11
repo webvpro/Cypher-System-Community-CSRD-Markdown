@@ -16,12 +16,12 @@ id: OmniDoc
 
 
 ## OmniDoc
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Table-sized device with a flat surface for a patient to rest
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Table-sized device with a flat surface for a patient to rest
-
-Effect: If used by a person with any sort of healing, medical, or
+If used by a person with any sort of healing, medical, or
 surgical skill, the OmniDoc eases the user's relevant tasks. This does
 not require a depletion roll.
 

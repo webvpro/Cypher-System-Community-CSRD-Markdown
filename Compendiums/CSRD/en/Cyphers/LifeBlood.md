@@ -16,12 +16,12 @@ id: LifeBlood
 
 
 ## LifeBlood
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Transfusion device with a liter of blood-like fluid
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Transfusion device with a liter of blood-like fluid
-
-Effect: This Immortech device contains one of several varieties of
+This Immortech device contains one of several varieties of
 synthetic blood created by Immortech. The user must first transfuse the
 fluid into their body (taking about ten minutes), after which they gain
 two benefits.

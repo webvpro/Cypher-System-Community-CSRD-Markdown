@@ -16,10 +16,11 @@ id: Ghost-Defense
 
 
 ## Ghost Defense
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Effect: While the user is working within a computer system, creates a
+While the user is working within a computer system, creates a
 number of ghosts (simple level 1 programs meant to resemble the user)
 equal to the cypher's level. The ghosts move about the system, poking at
 code, attempting logins, and otherwise acting as a distraction to keep

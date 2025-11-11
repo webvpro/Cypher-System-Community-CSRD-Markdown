@@ -16,10 +16,10 @@ id: Dark-Slug
 
 
 ## Dark Slug
-
 >[!info] Stats
 > **Level:** 1d6 + 1
 > **Form:** Round is dark as the night sky
+> **Kind:** Weird West
 
 Firing the slug creates a region of absolute darkness from which
 no sound emerges. The region fills an adjacent short area (or long area

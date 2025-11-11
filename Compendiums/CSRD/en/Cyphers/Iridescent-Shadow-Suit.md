@@ -16,12 +16,12 @@ id: Iridescent-Shadow-Suit
 
 
 ## Iridescent Shadow Suit
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Thin bodysuit and mask made of flexible polymer fabric
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Thin bodysuit and mask made of flexible polymer fabric
-
-Effect: When activated, this Rubylight device takes on the colors and
+When activated, this Rubylight device takes on the colors and
 textures of everything around the wearer for ten minutes (one hour for
 artifact level 7 or higher), easing stealth tasks by two steps. Rapid
 movement (such as attacking, running, or even pivoting too fast)

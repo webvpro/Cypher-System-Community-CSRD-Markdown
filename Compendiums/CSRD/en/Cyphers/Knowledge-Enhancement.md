@@ -16,9 +16,10 @@ id: Knowledge-Enhancement
 
 
 ## Knowledge Enhancement (Hacking)
+>[!info] Stats
+> **Level:** 1d6
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Effect: For the next day, the character has training in hacking (or
+For the next day, the character has training in hacking (or
 hacking and defense against hacking, if the cypher is level 5 or
 higher).

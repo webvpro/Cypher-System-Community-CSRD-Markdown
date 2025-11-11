@@ -16,13 +16,12 @@ id: Red-Haze-Implant
 
 
 ## Red Haze Implant (cyberware)
+>[!info] Stats
+> **Level:** 1d6 + 3
+> **Form:** Paired cybernetic implants (one for the brain, one for the
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 3
-
-Form: Paired cybernetic implants (one for the brain, one for the
-muscular system)
-
-Effect: Created by Immortech, this military-grade cyberware enhances the
+Created by Immortech, this military-grade cyberware enhances the
 user's adrenal system and muscle fibers, creating a dangerous berserk
 combat state.
 

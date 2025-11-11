@@ -16,13 +16,12 @@ id: GasLight-Projector
 
 
 ## GasLight Projector
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Laptop-like device, or incorporated into a large flatscreen
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Laptop-like device, or incorporated into a large flatscreen
-television
-
-Effect: The user can selectively delete one specific memory from a
+The user can selectively delete one specific memory from a
 person within immediate range (short range for artifact level 7 or
 higher) who can see the images on the device. Memories most easily
 deleted are those of specific incidents whose duration was no more than

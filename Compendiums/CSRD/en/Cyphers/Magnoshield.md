@@ -16,12 +16,12 @@ id: Magnoshield
 
 
 ## Magnoshield
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Mechanical gauntlet with embedded electronics
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Mechanical gauntlet with embedded electronics
-
-Effect: This Muxcom device detects when a bullet, thrown knife, arrow,
+This Muxcom device detects when a bullet, thrown knife, arrow,
 or similar physical projectile comes close to the user, and
 automatically attempts to slow or deflect this attack by creating a
 powerful visible energy field about the size of a riot shield. This

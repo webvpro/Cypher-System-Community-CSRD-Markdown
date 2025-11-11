@@ -16,12 +16,12 @@ id: MaxTranq-Rifle
 
 
 ## MaxTranq Rifle
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Medium tranquilizer rifle
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Medium tranquilizer rifle
-
-Effect: As an action, this Halo weapon fires one or two drug-filled
+As an action, this Halo weapon fires one or two drug-filled
 darts at a living creature within long range. The user makes a separate
 attack roll for each dart. If one needle strikes a creature, the
 creature becomes calm and placid (even if they are using berserk

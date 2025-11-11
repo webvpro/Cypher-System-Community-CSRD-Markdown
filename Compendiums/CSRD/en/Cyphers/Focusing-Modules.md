@@ -16,6 +16,9 @@ id: Focusing-Modules
 
 
 ## Focusing Modules
+>[!info] Stats
+> **Level:** 1d6
+> **Kind:** Cyberpunk
 
 A focusing module is an especially rare artifact that augments certain
 abilities from a character's focus. It has wired and wireless

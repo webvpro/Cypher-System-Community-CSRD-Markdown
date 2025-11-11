@@ -16,12 +16,12 @@ id: Gladys-Pistol
 
 
 ## Gladys Pistol
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Medium smart pistol with unique rose-themed paint job
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Medium smart pistol with unique rose-themed paint job
-
-Effect: Created by Muxcom, this medium pistol has an AI assistant that
+Created by Muxcom, this medium pistol has an AI assistant that
 increases accuracy. If the wielder uses an action to aim at a target, or
 uses a level of Effort to ease the attack against the target, the AI
 locks on to that target, granting the wielder an asset to all later

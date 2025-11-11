@@ -16,10 +16,11 @@ id: Logic-Bomb
 
 
 ## Logic Bomb
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Effect: Deploys targeted malware against an entity within a computer
+Deploys targeted malware against an entity within a computer
 system (such as a hacker, surveillance bot, or sysadmin) that the user
 has detected. The user makes an Intellect-based attack roll against the
 entity; if successful, the entity takes Intellect damage equal to the

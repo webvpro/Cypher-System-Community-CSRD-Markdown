@@ -16,12 +16,12 @@ id: Maser-Pistol
 
 
 ## Maser Pistol
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Pistol-like weapon with a glass-like barrel
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Pistol-like weapon with a glass-like barrel
-
-Effect: This prototype medium ranged weapon shoots an invisible beam of
+This prototype medium ranged weapon shoots an invisible beam of
 collimated microwaves up to long range. A hit initially inflicts damage
 equal to the artifact's level; on each of the following two rounds it
 inflicts additional damage equal to half the artifact's level (no

@@ -16,13 +16,12 @@ id: Suitcase-Nuke
 
 
 ## Suitcase Nuke
+>[!info] Stats
+> **Level:** 7
+> **Form:** Complicated nuclear device in a suitcase- or backpack-sized
+> **Kind:** Cyberpunk
 
-Level: 7
-
-Form: Complicated nuclear device in a suitcase- or backpack-sized
-traveling container
-
-Effect: A nuclear weapon is a conventional explosive device designed to
+A nuclear weapon is a conventional explosive device designed to
 force fissionable radioactive materials into a small area so they create
 a cascading nuclear reaction that explodes with a great deal of force
 and energy. A suitcase nuke weighs about 50 pounds (23 kg).

@@ -16,12 +16,12 @@ id: MagMaster-Railgun
 
 
 ## MagMaster Railgun
+>[!info] Stats
+> **Level:** 1d6 + 3
+> **Form:** Bulky heavy rifle
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 3
-
-Form: Bulky heavy rifle
-
-Effect: This Muxcom weapon uses an explosive charge and a focused
+This Muxcom weapon uses an explosive charge and a focused
 magnetic field to shoot a hard metal slug at incredible velocity up to
 long range. The slug inflicts damage equal to the artifact level, and a
 struck target must make a Might defense roll or be knocked back a short

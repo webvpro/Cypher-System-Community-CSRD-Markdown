@@ -16,10 +16,10 @@ id: Otherwhere-Slug
 
 
 ## Otherwhere Slug
-
 >[!info] Stats
 > **Level:** 1d6
 > **Form:** "OTHERWHERE" scribed on bullet case
+> **Kind:** Weird West
 
 Firing the slug creates an invisible doorway within immediate
 range that only the shooter can see and use (plus any targets they

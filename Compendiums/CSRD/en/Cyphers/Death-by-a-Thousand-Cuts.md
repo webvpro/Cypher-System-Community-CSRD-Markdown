@@ -16,10 +16,11 @@ id: Death-by-a-Thousand-Cuts
 
 
 ## Death by a Thousand Cuts
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Effect: This pistol-like device fires a barrage of dart-like projectiles
+This pistol-like device fires a barrage of dart-like projectiles
 (equal to the level of the cypher) at one target within short range. As
 a single action, the user makes a separate hindered attack for each
 projectile. The user remains limited by the amount of Effort they can

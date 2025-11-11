@@ -16,12 +16,12 @@ id: Gatekeeper
 
 
 ## Gatekeeper
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Coffin-sized metal container with hardened glass window
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Coffin-sized metal container with hardened glass window
-
-Effect: This Immortech device can hold one adult human. When activated,
+This Immortech device can hold one adult human. When activated,
 it puts the person inside it into a state of suspended animation. The
 person in stasis can take no actions, doesn't age, and is protected from
 all effects that fail to break open the artifact. If the artifact is

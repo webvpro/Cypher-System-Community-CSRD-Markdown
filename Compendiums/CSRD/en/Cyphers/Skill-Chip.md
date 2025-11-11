@@ -16,13 +16,12 @@ id: Skill-Chip
 
 
 ## Skill Chip
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Advanced computer chip designed to fit into a person's neck data
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Advanced computer chip designed to fit into a person's neck data
-slot
-
-Effect: When plugged into a person's standard neck data slot (such as in
+When plugged into a person's standard neck data slot (such as in
 a communicator implant), its hardware and software interfaces with the
 user's brain, nerves, and muscles. This grants the user training in one
 (predetermined) skill, or two skills for artifact level 5 or higher. The

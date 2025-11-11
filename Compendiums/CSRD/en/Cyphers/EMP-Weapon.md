@@ -16,12 +16,12 @@ id: EMP-Weapon
 
 
 ## EMP Weapon
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Suitcase-sized electronic device
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Suitcase-sized electronic device
-
-Effect: This device emits a strong electromagnetic pulse out to very
+This device emits a strong electromagnetic pulse out to very
 long range, scrambling systems and machines that rely on electrical
 wiring (including automobiles and the local power grid). Devices of less
 than the artifact's level stop working for several rounds; devices whose

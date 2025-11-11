@@ -16,10 +16,10 @@ id: Answering-Slug
 
 
 ## Answering Slug
-
 >[!info] Stats
 > **Level:** 1d6
 > **Form:** "RETORT" scribed on bullet case
+> **Kind:** Weird West
 
 A successful attack with an answering slug damages a target
 normally. In addition, for the next minute, any time another creature

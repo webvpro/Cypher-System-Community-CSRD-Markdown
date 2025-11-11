@@ -16,13 +16,12 @@ id: Hover-Bike
 
 
 ## Hover Bike
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Motorcycle-like chassis with hover-rocket engines instead of
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Motorcycle-like chassis with hover-rocket engines instead of
-wheels
-
-Effect: The hover bike can fly a long distance each round, carrying the
+The hover bike can fly a long distance each round, carrying the
 user (driver) and up to one human-sized passenger. On extended trips,
 the hover bike can move up to 100 miles per hour (160 kph).
 

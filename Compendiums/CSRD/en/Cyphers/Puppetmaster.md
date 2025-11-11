@@ -16,12 +16,12 @@ id: Puppetmaster
 
 
 ## Puppetmaster
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Briefcase-sized machine
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Briefcase-sized machine
-
-Effect: This machine interrupts a person's thoughts, allowing the user
+This machine interrupts a person's thoughts, allowing the user
 to speak through them and move that person's body as if it were their
 own. If the person's level is equal to or lower than the artifact's, the
 person cannot take actions until the user breaks contact.

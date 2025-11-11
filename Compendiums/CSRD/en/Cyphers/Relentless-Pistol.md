@@ -16,12 +16,12 @@ id: Relentless-Pistol
 
 
 ## Relentless Pistol
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Heavy pistol with bulky attachments
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Heavy pistol with bulky attachments
-
-Effect: This Muxcom heavy pistol has an AI assistant that increases
+This Muxcom heavy pistol has an AI assistant that increases
 accuracy. If the wielder uses an action to aim at a target, or uses a
 level of Effort to ease the attack against the target, the AI locks on
 to that target, granting the wielder an asset to all later attacks with

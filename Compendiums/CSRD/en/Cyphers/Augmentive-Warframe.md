@@ -16,12 +16,12 @@ id: Augmentive-Warframe
 
 
 ## Augmentive Warframe (cyberware)
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Metal cybernetic exosuit designed for a human wearer
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Metal cybernetic exosuit designed for a human wearer
-
-Effect: This device requires surgery to connect it to the user's
+This device requires surgery to connect it to the user's
 muscles, skeleton, and nervous system. Other than various contact points
 all over the user's body, the device is completely external, and can be
 equipped over existing cybernetics (barring some sort of extreme

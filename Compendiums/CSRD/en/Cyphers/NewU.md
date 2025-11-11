@@ -16,12 +16,11 @@ id: NewU
 
 
 ## NewU
+>[!info] Stats
+> **Level:** 1d6 + 4
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 4
-
-Usable: A large glass and metal tank filled with pale yellow slime
-
-Effect: Immortech is still working out a lot of kinks with this machine.
+Immortech is still working out a lot of kinks with this machine.
 To activate it, the user must place a fresh DNA sample (such as a few
 drops of blood, hairs with the follicle cells still attached, or skin
 scrapings) in the connected receptable. The sample is scanned and its

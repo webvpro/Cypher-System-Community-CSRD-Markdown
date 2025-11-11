@@ -16,10 +16,11 @@ id: Skill-Boost
 
 
 ## Skill Boost (Hacking)
+>[!info] Stats
+> **Level:** 1d6
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Effect: Dramatically but temporarily alters the user's mind and body so
+Dramatically but temporarily alters the user's mind and body so
 they can ease a hacking task by three steps. Once activated, this boost
 can be used a number of times equal to the cypher's level, but only
 within a twenty-four-hour period. The boost takes effect each time the

@@ -16,13 +16,12 @@ id: Fiery-Mantis
 
 
 ## Fiery Mantis (cyberware)
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Mantis blade arm cyberware with additional technological
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Mantis blade arm cyberware with additional technological
-components
-
-Effect: Kaisha's research labs developed this improved mantis blade
+Kaisha's research labs developed this improved mantis blade
 prototype. One of the user's arms is replaced with a standard prosthetic
 that contains a retractable blade on a complicated hinge. The blade is
 hollow and permeated with hundreds of pinpoint holes.

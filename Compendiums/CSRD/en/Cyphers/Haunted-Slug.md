@@ -16,10 +16,10 @@ id: Haunted-Slug
 
 
 ## Haunted Slug
-
 >[!info] Stats
 > **Level:** 1d6
 > **Form:** Slug emits ghostly whispers
+> **Kind:** Weird West
 
 Whether the attack against the primary target hits (and deals
 damage normally) or misses, the bullet's malignance isn't spent---it

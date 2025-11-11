@@ -16,10 +16,10 @@ id: Thunder-Slug
 
 
 ## Thunder Slug
-
 >[!info] Stats
 > **Level:** 1d6
 > **Form:** Rumbles faintly like distant thunder
+> **Kind:** Weird West
 
 Firing the slug creates a region of hazed, billowing air from
 which the sound of distant thunder rumbles. The region fills an adjacent

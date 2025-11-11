@@ -16,13 +16,12 @@ id: Bugdrone
 
 
 ## Bugdrone
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Living cockroach or dragonfly with sensors and remote-piloting
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Living cockroach or dragonfly with sensors and remote-piloting
-implants
-
-Effect: This Rubylight "drone" is actually a living cybernetic insect
+This Rubylight "drone" is actually a living cybernetic insect
 modified with a camera, microphone, and microreceivers that respond to
 signals from a handheld controller. The user "drives" the insect like
 playing a videogame, and receives audio and video input on the

@@ -16,12 +16,12 @@ id: Scarab-Door
 
 
 ## Scarab Door
+>[!info] Stats
+> **Level:** 1d6 + 2
+> **Form:** Helmet with electronics, connected to a computer
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 2
-
-Form: Helmet with electronics, connected to a computer
-
-Effect: Created by Immortech, this device is currently the most
+Created by Immortech, this device is currently the most
 successful way to retrieve data (including thoughts and memories) from
 an organic human brain, living or dead. The device is placed on the
 subject's head; imparted magnetic resonance and specialized electrodes

@@ -16,12 +16,12 @@ id: Power-Warframe
 
 
 ## Power Warframe
+>[!info] Stats
+> **Level:** 1d6 + 1
+> **Form:** Metal exosuit designed for a human wearer
+> **Kind:** Cyberpunk
 
-Level: 1d6 + 1
-
-Form: Metal exosuit designed for a human wearer
-
-Effect: Designed to be less intrusive (or permanent) than an extensive
+Designed to be less intrusive (or permanent) than an extensive
 cybernetic augmentation, this military warframe has dozens of adhesive
 patches that connect to the user's skin and transmits their
 muscular-skeletal nerve signals to the frame's AI assistant.

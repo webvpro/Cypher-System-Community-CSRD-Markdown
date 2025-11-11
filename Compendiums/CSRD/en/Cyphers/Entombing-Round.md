@@ -16,10 +16,10 @@ id: Entombing-Round
 
 
 ## Entombing Round
-
 >[!info] Stats
 > **Level:** 1d6 + 2
 > **Form:** Coffin image scribed on bullet case
+> **Kind:** Weird West
 
 When this round is fired from a gun, additional attacks made
 from the gun gain the same benefit for the next minute. A successful

@@ -16,10 +16,10 @@ id: Glacier-Slug
 
 
 ## Glacier Slug
-
 >[!info] Stats
 > **Level:** 1d6 + 1
 > **Form:** Bullet case seems made of ice
+> **Kind:** Weird West
 
 A successful attack deals damage equal to the cypher's level and
 freezes the target (rendering them helpless) for a number of minutes

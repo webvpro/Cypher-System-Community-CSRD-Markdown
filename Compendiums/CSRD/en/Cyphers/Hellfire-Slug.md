@@ -16,10 +16,10 @@ id: Hellfire-Slug
 
 
 ## Hellfire Slug
-
 >[!info] Stats
 > **Level:** 1d6 + 1
 > **Form:** Bullet casing seems to burn with red flame
+> **Kind:** Weird West
 
 A successful attack deals damage normally. In addition to
 potential damage from the initial attack, the bullet explodes in an

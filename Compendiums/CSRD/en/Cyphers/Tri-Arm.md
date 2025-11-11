@@ -16,13 +16,12 @@ id: Tri-Arm
 
 
 ## Tri-Arm (cyberware)
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Complete cybernetic third arm with a nonstandard shoulder
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Complete cybernetic third arm with a nonstandard shoulder
-attachment
-
-Effect: Created by Muxcom, this cyberware attaches to the user's
+Created by Muxcom, this cyberware attaches to the user's
 skeleton (on the side or back of the rib cage) and counts toward their
 limit of skeleton cybernetics. Learning to use the extra arm takes
 twenty to forty hours of practice and physical therapy; once this time

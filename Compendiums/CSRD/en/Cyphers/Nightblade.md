@@ -16,12 +16,12 @@ id: Nightblade
 
 
 ## Nightblade
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Medium katana with a monowire edge
+> **Kind:** Cyberpunk
 
-Level: 1d6
-
-Form: Medium katana with a monowire edge
-
-Effect: In development by Kaisha, this weapon uses an experimental
+In development by Kaisha, this weapon uses an experimental
 method to fuse a monowire along the cutting edge of a katana, retaining
 the monowire's cutting force backed up by the extra weight of the sword.
 The weapon inflicts an additional 2 points of damage (6 total) and

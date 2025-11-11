@@ -16,10 +16,10 @@ id: Sympathy-Slug
 
 
 ## Sympathy Slug
-
 >[!info] Stats
 > **Level:** 1d6 + 1
 > **Form:** "SYMPATHY" scribed on bullet case
+> **Kind:** Weird West
 
 Firing the round causes the gun to emit a spray of pleasingly
 colored lights, sounds, and scents filling a short area for one hour per
