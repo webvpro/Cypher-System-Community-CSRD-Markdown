@@ -22,8 +22,6 @@ categories:
   - NA
 id: Brute-Strike
 ---
-
-
 ## Brute Strike
 >**Enabler**
 >4 Might points

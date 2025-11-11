@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Cast-Illusion
 ---
-
-
 ## Cast Illusion
 >**Enabler**
 

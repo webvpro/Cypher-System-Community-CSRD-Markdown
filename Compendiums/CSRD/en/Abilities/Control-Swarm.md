@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Control-Swarm
 ---
-
-
 ## Control Swarm
 >**Action**
 >2 Intellect points

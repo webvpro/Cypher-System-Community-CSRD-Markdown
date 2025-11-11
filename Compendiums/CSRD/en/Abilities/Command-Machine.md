@@ -22,8 +22,6 @@ categories:
   - Control
 id: Command-Machine
 ---
-
-
 ## Command Machine
 >**Action**
 >4 Intellect points

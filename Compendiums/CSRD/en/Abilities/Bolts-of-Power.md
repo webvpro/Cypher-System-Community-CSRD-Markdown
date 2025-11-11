@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Bolts-of-Power
 ---
-
-
 ## Bolts of Power
 >**Action**
 >5+ Intellect points

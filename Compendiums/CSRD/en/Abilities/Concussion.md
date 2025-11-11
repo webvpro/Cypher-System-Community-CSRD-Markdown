@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Concussion
 ---
-
-
 ## Concussion
 >**Action**
 >7 Intellect points

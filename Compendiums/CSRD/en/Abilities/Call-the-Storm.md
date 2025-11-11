@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Call-the-Storm
 ---
-
-
 ## Call the Storm
 >**Action**
 >7+ Intellect points

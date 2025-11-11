@@ -20,8 +20,6 @@ categories:
   - Task
 id: Blameless
 ---
-
-
 ## Blameless
 >**Enabler**
 

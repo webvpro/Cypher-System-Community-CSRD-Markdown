@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Bound-Magic-Creature
 ---
-
-
 ## Bound Magic Creature
 >**Action**
 

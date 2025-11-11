@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Bolt-Rider
 ---
-
-
 ## Bolt Rider
 >**Action**
 >4 Intellect points

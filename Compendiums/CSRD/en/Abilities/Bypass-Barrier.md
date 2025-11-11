@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Bypass-Barrier
 ---
-
-
 ## Bypass Barrier
 >**Action**
 >6+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Counter-Danger
 ---
-
-
 ## Counter Danger
 >**Action**
 >4 Intellect points

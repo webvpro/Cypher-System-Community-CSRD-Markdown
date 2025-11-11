@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Cold-Burst
 ---
-
-
 ## Cold Burst
 >**Action**
 >5+ Intellect points

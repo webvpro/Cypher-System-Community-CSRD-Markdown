@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Better-Surprise-Attack
 ---
-
-
 ## Better Surprise Attack
 >**Enabler**
 

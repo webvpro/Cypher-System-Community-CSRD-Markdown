@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Combat-Prowess
 ---
-
-
 ## Combat Prowess
 >**Enabler**
 

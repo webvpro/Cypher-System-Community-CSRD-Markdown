@@ -20,8 +20,6 @@ categories:
   - Task
 id: Celebrity-Talent
 ---
-
-
 ## Celebrity Talent
 >**Enabler**
 

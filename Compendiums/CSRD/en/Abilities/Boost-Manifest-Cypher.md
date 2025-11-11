@@ -22,8 +22,6 @@ categories:
   - NA
 id: Boost-Manifest-Cypher
 ---
-
-
 ## Boost Manifest Cypher
 >**Action**
 >2 Intellect points

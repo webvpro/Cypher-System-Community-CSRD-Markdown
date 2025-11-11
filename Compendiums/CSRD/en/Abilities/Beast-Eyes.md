@@ -24,8 +24,6 @@ categories:
   - Senses
 id: Beast-Eyes
 ---
-
-
 ## Beast Eyes
 >**Action**
 >3 Intellect points

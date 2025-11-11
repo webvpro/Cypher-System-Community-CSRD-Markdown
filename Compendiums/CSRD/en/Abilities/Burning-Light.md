@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Burning-Light
 ---
-
-
 ## Burning Light
 >**Action**
 >3 Intellect points

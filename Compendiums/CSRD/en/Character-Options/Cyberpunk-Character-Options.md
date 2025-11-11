@@ -187,49 +187,49 @@ Special Abilities: Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
 
-Bash
+- Bash
 
-Combat Prowess
+- Combat Prowess
 
-Control the Field
+- Control the Field
 
-Datajack
+- Datajack
 
-Hacker
+- Hacker
 
-Improved Edge
+- Improved Edge
 
-Machine Interface
+- Machine Interface
 
-No Need for Weapons
+- No Need for Weapons
 
-Optical Hack
+- Optical Hack
 
-Overwatch
+- Overwatch
 
-Physical Skills
+- Physical Skills
 
-Practiced in Armor
+- Practiced in Armor
 
 Most people in a cyberpunk setting don't wear armor, except maybe a flak
 jacket or bulletproof vest. Those who do wear modern armor tend to look
 like cops.
 
-Quick Throw
+- Quick Throw
 
-Scramble Machine
+- Scramble Machine
 
 Scramble Machine counts as a hack.
 
-Sensor Scan
+- Sensor Scan
 
-Swipe
+- Swipe
 
-Tech Skills
+- Tech Skills
 
-Tinker
+- Tinker
 
-Trained Without Armor
+- Trained Without Armor
 
 ### Second-Tier Solo
 
@@ -237,30 +237,30 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Armored Chrome
+- Armored Chrome
 
-Bonus Cypher App
+- Bonus Cypher App
 
-Crushing Blow
+- Crushing Blow
 
-Distant Interface
+- Distant Interface
 
 Distant Interface counts as a hack. You can use it to affect a foe's
 cyberware (such as moving a cybernetic arm or turning off a night vision
 implant) but your attack roll is hindered by two steps (similar to
 controlling a machine you've never interacted with before).
 
-Hemorrhage
+- Hemorrhage
 
-Machine Efficiency
+- Machine Efficiency
 
-Reload
+- Reload
 
-Skill With Attacks
+- Skill With Attacks
 
-Skill With Defense
+- Skill With Defense
 
-Successive Attack
+- Successive Attack
 
 ### Third-Tier Solo
 
@@ -268,29 +268,29 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Deadly Aim
+- Deadly Aim
 
-Energy Resistance
+- Energy Resistance
 
-Experienced in Armor
+- Experienced in Armor
 
-Expert Cypher Use
+- Expert Cypher Use
 
-Fury
+- Fury
 
-Lunge
+- Lunge
 
-Reaction
+- Reaction
 
-Seize the Moment
+- Seize the Moment
 
-Slice
+- Slice
 
-Spray
+- Spray
 
-Trick Shot
+- Trick Shot
 
-Vigilance
+- Vigilance
 
 ### Fourth-Tier Solo
 
@@ -298,25 +298,25 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Amazing Effort
+- Amazing Effort
 
-Capable Warrior
+- Capable Warrior
 
-Experienced Defender
+- Experienced Defender
 
-Feint
+- Feint
 
-Increased Effects
+- Increased Effects
 
-Momentum
+- Momentum
 
-Pry Open
+- Pry Open
 
-Robot Fighter
+- Robot Fighter
 
-Snipe
+- Snipe
 
-Tough As Nails
+- Tough As Nails
 
 ### Fifth-Tier Solo
 
@@ -324,25 +324,25 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+- Adroit Cypher Use
 
-Arc Spray
+- Arc Spray
 
-Control Machine
+- Control Machine
 
 Control Machine counts as a hack.
 
-Improved Success
+- Improved Success
 
-Jump Attack
+- Jump Attack
 
-Mastery in Armor
+- Mastery in Armor
 
-Mastery With Attacks
+- Mastery With Attacks
 
-Mastery With Defense
+- Mastery With Defense
 
-Parry
+- Parry
 
 ### Sixth-Tier Solo
 
@@ -350,17 +350,17 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Again and Again
+- Again and Again
 
-Finishing Blow
+- Finishing Blow
 
-Magnificent Moment
+- Magnificent Moment
 
-Murderer
+- Murderer
 
-Spin Attack
+- Spin Attack
 
-Weapon and Body
+- Weapon and Body
 
 ## Hotshot
 
@@ -370,13 +370,13 @@ are some hackers and soldiers.
 
 ### Hotshot Stat Pools
 
-Stat Pool Starting Value
+- Stat Pool Starting Value
 
-Might 10
+- Might 10
 
-Speed 9
+- Speed 9
 
-Intellect 9
+- Intellect 9
 
 You get 6 additional points to divide among your stat pools however you
 wish.
@@ -404,53 +404,53 @@ Special Abilities: Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
 
-Block
+- Block
 
-Danger Sense
+- Danger Sense
 
-Datajack
+- Datajack
 
-Endurance
+- Endurance
 
-Find the Way
+- Find the Way
 
-Fleet of Foot
+- Fleet of Foot
 
-Hacker
+- Hacker
 
-Improved Edge
+- Improved Edge
 
-Knowledge Skills
+- Knowledge Skills
 
-Machine Interface
+- Machine Interface
 
-Muscles of Iron
+- Muscles of Iron
 
-No Need for Weapons
+- No Need for Weapons
 
-Optical Hack
+- Optical Hack
 
-Overheat Hack
+- Overheat Hack
 
-Physical Skills
+- Physical Skills
 
-Practiced in Armor
+- Practiced in Armor
 
 Most people in a cyberpunk setting don't wear armor, except maybe a flak
 jacket or bulletproof vest. Those who do wear modern armor tend to look
 like cops
 
-Practiced With All Weapons
+- Practiced With All Weapons
 
-Scramble Machine
+- Scramble Machine
 
 Scramble Machine counts as a hack.
 
-Sensor Scan
+- Sensor Scan
 
-Surging Confidence
+- Surging Confidence
 
-Tech Skills
+- Tech Skills
 
 Tinker
 
@@ -462,46 +462,46 @@ Choose four of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Armored Chrome
+- Armored Chrome
 
-Bonus Cypher App
+- Bonus Cypher App
 
-Curious
+- Curious
 
-Danger Instinct
+- Danger Instinct
 
-Distant Interface
+- Distant Interface
 
 Distant Interface counts as a hack. You can use it to affect a foe's
 cyberware (such as moving a cybernetic arm or turning off a night vision
 implant) but your attack roll is hindered by two steps (similar to
 controlling a machine you've never interacted with before).
 
-Enable Others
+- Enable Others
 
-Escape
+- Escape
 
-Eye for Detail
+- Eye for Detail
 
-Foil Danger
+- Foil Danger
 
-Hand to Eye
+- Hand to Eye
 
-Investigative Skills
+- Investigative Skills
 
-Machine Efficiency
+- Machine Efficiency
 
-Quick Recovery
+- Quick Recovery
 
-Range Increase
+- Range Increase
 
-Skill With Defense
+- Skill With Defense
 
-Stand Watch
+- Stand Watch
 
-Travel Skills
+- Travel Skills
 
-Wreck
+- Wreck
 
 ### Third-Tier Hotshot
 
@@ -509,31 +509,31 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Controlled Fall
+- Controlled Fall
 
-Experienced in Armor
+- Experienced in Armor
 
-Expert Cypher Use
+- Expert Cypher Use
 
-Ignore the Pain
+- Ignore the Pain
 
-Obstacle Running
+- Obstacle Running
 
-Resilience
+- Resilience
 
-Run and Fight
+- Run and Fight
 
-Seize the Moment
+- Seize the Moment
 
-Skill With Attacks
+- Skill With Attacks
 
-Spray
+- Spray
 
-Think Your Way Out
+- Think Your Way Out
 
-Trapfinder
+- Trapfinder
 
-Wrest From Chance
+- Wrest From Chance
 
 ### Fourth-Tier Hotshot
 
@@ -541,21 +541,21 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Capable Warrior
+- Capable Warrior
 
-Expert Skill
+- Expert Skill
 
-Increased Effects
+- Increased Effects
 
-Read the Signs
+- Read the Signs
 
-Runner
+- Runner
 
-Subtle Steps
+- Subtle Steps
 
-Tough As Nails
+- Tough As Nails
 
-Robot Fighter
+- Robot Fighter
 
 ### Fifth-Tier Hotshot
 
@@ -563,27 +563,27 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+- Adroit Cypher Use
 
-Control Machine
+- Control Machine
 
-Free to Move
+- Free to Move
 
-Group Friendship
+- Group Friendship
 
-Hard to Kill
+- Hard to Kill
 
-Jump Attack
+- Jump Attack
 
-Mastery With Defense
+- Mastery With Defense
 
-Parry
+- Parry
 
-Physically Gifted
+- Physically Gifted
 
-Take Command
+- Take Command
 
-Vigilant
+- Vigilant
 
 ### Sixth-Tier Hotshot
 
@@ -591,19 +591,19 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Again and Again
+- Again and Again
 
-Inspire Coordinated Actions
+- Inspire Coordinated Actions
 
-Mastery in Armor
+- Mastery in Armor
 
-Mastery With Attacks
+- Mastery With Attacks
 
-Negate Danger
+- Negate Danger
 
-Share Defense
+- Share Defense
 
-Spin Attack
+- Spin Attack
 
 ## Broker
 
@@ -613,13 +613,13 @@ corpos, and public relations specialists are usually Brokers.
 
 ### Broker Stat Pools
 
-Stat Pool Starting Value
+- Stat Pool Starting Value
 
-Might 8
+- Might 8
 
-Speed 9
+- Speed 9
 
-Intellect 11
+- Intellect 11
 
 You get 6 additional points to divide among your stat pools however you
 wish.
@@ -647,45 +647,45 @@ Special Abilities: Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
 
-Anecdote
+- Anecdote
 
-Datajack
+- Datajack
 
-Demeanor of Command
+- Demeanor of Command
 
-Enthrall
+- Enthrall
 
-Erase Memories
+- Erase Memories
 
 Erase Memories counts as a hack.
 
-Fast Talk
+- Fast Talk
 
-Hacker
+- Hacker
 
-Interaction Skills
+- Interaction Skills
 
-Knowledge Skills
+- Knowledge Skills
 
-Machine Interface
+- Machine Interface
 
-Optical Hack
+- Optical Hack
 
-Overheat Hack
+- Overheat Hack
 
-Practiced With Medium Weapons
+- Practiced With Medium Weapons
 
-Scramble Machine
+- Scramble Machine
 
 Scramble Machine counts as a hack
 
-Sensor Scan
+- Sensor Scan
 
-Spin Identity
+- Spin Identity
 
-Tech Skills
+- Tech Skills
 
-Tinker
+- Tinker
 
 Translation App: You have adaptive learning software installed in your
 communicator implant. After hearing an unfamiliar human language spoken
@@ -704,34 +704,34 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Armored Chrome
+- Armored Chrome
 
-Basic Follower
+- Basic Follower
 
-Bonus Cypher App
+- Bonus Cypher App
 
-Calm Stranger
+- Calm Stranger
 
-Disincentivize
+- Disincentivize
 
-Distant Interface
+- Distant Interface
 
 Distant Interface counts as a hack. You can use it to affect a foe's
 cyberware (such as moving a cybernetic arm or turning off a night vision
 implant) but your attack roll is hindered by two steps (similar to
 controlling a machine you've never interacted with before).
 
-Gather Intelligence
+- Gather Intelligence
 
-Impart Ideal
+- Impart Ideal
 
-Machine Efficiency
+- Machine Efficiency
 
-Practiced in Armor
+- Practiced in Armor
 
-Skill With Defense
+- Skill With Defense
 
-Unexpected Betrayal
+- Unexpected Betrayal
 
 ### Third-Tier Broker
 
@@ -739,7 +739,7 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+- Adroit Cypher Use
 
 Beckon Hack (3 Intellect points): You hack a foe's brain implant,
 tricking them into hearing or seeing something they think they need to
@@ -757,27 +757,27 @@ misheard the call, that someone is playing a trick on them, or there is
 something suspicious going on). The foe can still defend themselves
 normally and return an attack if one is made on them. Action.
 
-Blend In
+- Blend In
 
-Expert Cypher Use
+- Expert Cypher Use
 
-Expert Follower
+- Expert Follower
 
-Grand Deception
+- Grand Deception
 
-Lead by Inquiry
+- Lead by Inquiry
 
-Mind Reading
+- Mind Reading
 
-Oratory
+- Oratory
 
-Perfect Stranger
+- Perfect Stranger
 
-Quick Wits
+- Quick Wits
 
-Spray
+- Spray
 
-Telling
+- Telling
 
 ### Fourth-Tier Broker
 
@@ -785,25 +785,25 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Anticipate Attack
+- Anticipate Attack
 
-Confounding Banter
+- Confounding Banter
 
-Feint
+- Feint
 
-Heightened Skills
+- Heightened Skills
 
-Psychosis
+- Psychosis
 
-Read the Signs
+- Read the Signs
 
-Spur Effort
+- Spur Effort
 
-Strategize
+- Strategize
 
-Suggestion
+- Suggestion
 
-Robot Fighter
+- Robot Fighter
 
 ### Fifth-Tier Broker
 
@@ -811,15 +811,15 @@ Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+- Adroit Cypher Use
 
-Control Machine
+- Control Machine
 
-Discipline of Watchfulness
+- Discipline of Watchfulness
 
-Experienced in Armor
+- Experienced in Armor
 
-Knowing the Unknown
+- Knowing the Unknown
 
 Peaceblock Hack (4+ Intellect points): You hack a foe's brain implant,
 triggering pain whenever they attempt to harm a creature you specify.
@@ -841,9 +841,9 @@ Effort.
 
 Action to initiate.
 
-Skill With Attacks
+- Skill With Attacks
 
-Stimulate
+- Stimulate
 
 ### Sixth-Tier Broker
 
@@ -851,17 +851,17 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Battle Management
+- Battle Management
 
-Crowd Control
+- Crowd Control
 
-Inspiring Success
+- Inspiring Success
 
-Recruit Deputy
+- Recruit Deputy
 
-Shatter Mind
+- Shatter Mind
 
-True Senses
+- True Senses
 
 ## Tech
 
@@ -877,13 +877,13 @@ preference.
 
 ### Tech Stat Pools
 
-Stat Pool Starting Value
+- Stat Pool Starting Value
 
-Might 7
+- Might 7
 
-Speed 9
+- Speed 9
 
-Intellect 12
+- Intellect 12
 
 You get 6 additional points to divide among your stat pools however you
 wish.
@@ -911,35 +911,35 @@ Special Abilities: Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
 
-Datajack
+- Datajack
 
-Distortion
+- Distortion
 
-Erase Memories
+- Erase Memories
 
-Extra Skill
+- Extra Skill
 
-Hacker
+- Hacker
 
-Interaction Skills
+- Interaction Skills
 
-Knowledge Skills
+- Knowledge Skills
 
-Machine Interface
+- Machine Interface
 
-Optical Hack
+- Optical Hack
 
-Overheat Hack
+- Overheat Hack
 
-Scramble Machine
+- Scramble Machine
 
 Scramble Machine counts as a hack.
 
-Sensor Scan
+- Sensor Scan
 
-Tech Skills
+- Tech Skills
 
-Tinker
+- Tinker
 
 ### Second-Tier Tech
 
@@ -947,11 +947,11 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adaptation
+- Adaptation
 
-Armored Chrome
+- Armored Chrome
 
-Bonus Cypher App
+- Bonus Cypher App
 
 Corpse Datadump (3 Intellect points): You touch the remains of a
 recently killed creature and make an Intellect-based roll to read data
@@ -968,18 +968,18 @@ importance to it. When the effect ends, or if you fail the roll, the
 creature's memory data becomes corrupted and you can gain no further
 information from it. Action.
 
-Cutting Light
+- Cutting Light
 
-Distant Interface
+- Distant Interface
 
 Distant Interface counts as a hack. You can use it to affect a foe's
 cyberware (such as moving a cybernetic arm or turning off a night vision
 implant) but your attack roll is hindered by two steps (similar to
 controlling a machine you've never interacted with before).
 
-Extra Skill
+- Extra Skill
 
-Machine Efficiency
+- Machine Efficiency
 
 Paralysis Hack (3 Intellect points): You target a foe's brain implants
 in an attempt to override their voluntary movement for one minute,
@@ -990,7 +990,7 @@ own rigid muscles (such as bending their arms behind their back so you
 can handcuff them) ends the effect. You can't use this ability on a
 creature that doesn't have any brain implants. Action.
 
-Understanding
+- Understanding
 
 ### Third-Tier Tech
 
@@ -998,7 +998,7 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+- Adroit Cypher Use
 
 Beckon Hack (3 Intellect points): You hack a foe's brain implant,
 tricking them into hearing or seeing something they think they need to
@@ -1016,11 +1016,11 @@ misheard the call, that someone is playing a trick on them, or there is
 something suspicious going on). The foe can still defend themselves
 normally and return an attack if one is made on them. Action.
 
-Countermeasures
+- Countermeasures
 
-Flex Skill
+- Flex Skill
 
-Improvise
+- Improvise
 
 Sensor Hack (4 Intellect points): You establish a connection with a
 camera-enabled device within short range, such as a security camera,
@@ -1034,11 +1034,11 @@ Obviously, Sensor Hack is a hack, meaning that your connection with the
 device can be detected and counter-hacked, although it's much harder to
 do so when you're not actively using the camera.
 
-Skill With Defense
+- Skill With Defense
 
-Spray
+- Spray
 
-Targeting Eye
+- Targeting Eye
 
 ### Fourth-Tier Tech
 
@@ -1046,7 +1046,7 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Death Touch
+- Death Touch
 
 Limited Camouflage (3 Speed points): You activate camouflage software
 that alters your appearance to match an adjacent large object such as a
@@ -1055,7 +1055,7 @@ loses track of you. Although you're not invisible, you can't be seen
 until you reveal yourself again by making an attack or moving away from
 the object. Action.
 
-Multiple Skills
+- Multiple Skills
 
 Peaceblock Hack (4+ Intellect points): You hack a foe's brain implant,
 triggering pain whenever they attempt to harm a creature you specify.
@@ -1075,17 +1075,17 @@ levels above the normal limit) or block them for four minutes (three
 minutes above the normal duration), you must apply three levels of
 Effort.
 
-Action to initiate
+- Action to initiate
 
-Projection
+- Projection
 
 Projection requires a device with holographic capability be within an
 immediate distance of the desired location. Alternatively, you can
 project your image into the optic devices of any creatures in the area.
 
-Robot Fighter
+- Robot Fighter
 
-Task Specialization
+- Task Specialization
 
 ### Fifth-Tier Tech
 
@@ -1093,17 +1093,17 @@ Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Control Machine
+- Control Machine
 
-Knowing the Unknown
+- Knowing the Unknown
 
-Master Cypher Use
+- Master Cypher Use
 
-Practiced With Medium Weapons
+- Practiced With Medium Weapons
 
-Read the Signs
+- Read the Signs
 
-True Senses
+- True Senses
 
 Zeerosh Prime Delivery (6 Intellect points): You place an order for an
 item from the Zeerosh company (or a megacorp that fills a similar role
@@ -1124,7 +1124,7 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-Amplify Sounds
+- Amplify Sounds
 
 SHITS Hack (7 Intellect points): A foe within short range temporarily
 experiences SHITS and spends its next turn attacking the nearest
@@ -1136,7 +1136,7 @@ their current target drops). This effect ends when you stop using your
 action to control the foe, or if they are out of short range. Action to
 initiate.
 
-Divide Your Mind
+- Divide Your Mind
 
 Question the Network (5 Intellect points): You send a digital query to
 any or all machines within 1 mile (1.5 km). Depending on the
@@ -1148,13 +1148,13 @@ the location of a specific creature or individual, and if they are
 within a mile of you, one or more machines will probably provide the
 answer. Action.
 
-Shatter Mind
+- Shatter Mind
 
-Skill With Attacks
+- Skill With Attacks
 
-Skill With Defense
+- Skill With Defense
 
-Total Awareness
+- Total Awareness
 
 ## Cyberpunk Descriptors
 

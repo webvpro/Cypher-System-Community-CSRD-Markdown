@@ -68,7 +68,7 @@ might inflict extra damage on a roll of 19 or higher, have double the
 normal ammunition capacity, or jam more often. The GM will let you know
 if a particular weapon has a variation.
 
-Weapons
+### Weapons
 
   ----------------------------------------------------------------
   Light Weapons (2 points of   Price          Notes
@@ -217,7 +217,7 @@ range).
 
 Attacking against targets at the limit of a weapon's range are hindered.
 
-Ammunition
+### Ammunition
 
   --------------------------------------------------------------
   Buckshot (10)              \$20           For shotguns only
@@ -571,7 +571,7 @@ from this increased intrusion range mean the weapon jams and can't be
 fired until the character spends a few rounds dislodging the bullet
 fragments.
 
-Armor
+### Armor
 
   ---------------------------------------------------------------
   Light Armor     Price           Armor           Speed Effort
@@ -619,7 +619,7 @@ drawbacks. One, cops assume that you're up to no good. Two, you look
 like you're a fucking cop, fed, or megacorp security guard, and
 therefore are untrustworthy.
 
-Entertainment
+### Entertainment
 
   -------------------------------------------------------------
   Item                           Price
@@ -1267,7 +1267,7 @@ up to a long distance.
 Scuba gear: Breathing gear allows you to function underwater for about
 an hour at depths of up to 130 feet (40 m)
 
-Services
+### Services
 
   -------------------------------------------------------------
   Service                        Average Cost
@@ -1313,7 +1313,7 @@ hold two people comfortable or three uncomfortably; fares for larger
 vehicles that can hold double these amounts are 50% higher. A luxury
 vehicle (such as a limousine) costs double the fare.
 
-Housing (Weekly)
+### Housing (Weekly)
 
   -------------------------------------------------------------
   Item                           Price
@@ -1836,7 +1836,7 @@ smooth surfaces at your normal speed. The wheels grant two assets on
 tasks to move a long distance (on a smooth surface) as your entire
 action.
 
-Full-Body Cybernetics
+### Full-Body Cybernetics
 
   -------------------------------------------------------------
   Item                           Price
@@ -1998,7 +1998,7 @@ Most people can only tolerate having two heart cybernetics at the same
 time; more than that tends to cause glitches and false triggers that can
 be lethal.
 
-Item Price
+### Item Price
 
   -------------------------------------------------------------
   Medical pump                   \$4,000

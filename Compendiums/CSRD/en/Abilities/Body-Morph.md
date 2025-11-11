@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Body-Morph
 ---
-
-
 ## Body Morph
 >**Action**
 >3+ Intellect points

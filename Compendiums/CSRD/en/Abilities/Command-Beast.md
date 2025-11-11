@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Command-Beast
 ---
-
-
 ## Command Beast
 >**Action**
 >3+ Intellect points

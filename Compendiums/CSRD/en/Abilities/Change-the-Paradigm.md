@@ -22,8 +22,6 @@ categories:
   - Control
 id: Change-the-Paradigm
 ---
-
-
 ## Change the Paradigm
 >**Action**
 >6+ Intellect points

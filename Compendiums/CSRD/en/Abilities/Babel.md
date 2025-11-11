@@ -20,8 +20,6 @@ categories:
   - Information
 id: Babel
 ---
-
-
 ## Babel
 >**Enabler**
 

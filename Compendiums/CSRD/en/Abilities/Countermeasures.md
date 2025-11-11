@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Countermeasures
 ---
-
-
 ## Countermeasures
 >**Action**
 >4 Intellect points

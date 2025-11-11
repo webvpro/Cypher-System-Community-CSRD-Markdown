@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Call-Otherworldly-Spirit
 ---
-
-
 ## Call Otherworldly Spirit
 >**Action**
 >6 Intellect points

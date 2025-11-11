@@ -20,8 +20,6 @@ categories:
   - Transform
 id: Bigger
 ---
-
-
 ## Bigger
 >**Enabler**
 

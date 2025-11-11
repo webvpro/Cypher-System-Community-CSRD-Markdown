@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Confuse-Enemy
 ---
-
-
 ## Confuse Enemy
 >**Enabler**
 >4 Intellect points

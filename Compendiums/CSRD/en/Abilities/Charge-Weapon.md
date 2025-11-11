@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Charge-Weapon
 ---
-
-
 ## Charge Weapon
 >**Enabler**
 >2+ Intellect points

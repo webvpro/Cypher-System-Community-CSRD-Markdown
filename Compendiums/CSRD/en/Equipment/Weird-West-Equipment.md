@@ -130,7 +130,7 @@ or on another planet settled via spaceflight, which could include a
 combination of the items in this chapter plus some items from the
 Additional Science Fiction Equipment list.
 
-Inexpensive Items
+### Inexpensive Items
 
   ------------------------ ----------------------------------------
   Weapons                  Notes
@@ -180,7 +180,7 @@ Inexpensive Items
 | Whiskey (1 shot)                 | Probably watered down                  |
 +----------------------------------+----------------------------------------+
 
-Moderately Priced Items
+### Moderately Priced Items
 
   ------------------------ ----------------------------------------
   Weapons                  Notes
@@ -268,7 +268,7 @@ Moderately Priced Items
 |                                  | the intoxication track                 |
 +----------------------------------+----------------------------------------+
 
-Expensive Items
+### Expensive Items
 
   ------------------------ ----------------------------------------
   Weapons                  Notes
@@ -309,7 +309,7 @@ range).
                            pullers, nails, hammer, etc.
   ------------------------ ----------------------------------------
 
-Very Expensive Items
+### Very Expensive Items
 
   ------------------------ ----------------------------------------
   Weapons                  Notes
@@ -327,7 +327,7 @@ Very Expensive Items
                            haul the coach
   ------------------------ -----------------------------------------
 
-Exorbitant Items
+### Exorbitant Items
 
   ------------------------ -----------------------------------------
   Weapons                  Notes

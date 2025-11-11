@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Copy-Power
 ---
-
-
 ## Copy Power
 >**Action**
 >2+ Intellect points

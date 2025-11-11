@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Blend-In
 ---
-
-
 ## Blend In
 >**Action**
 >4 Intellect points

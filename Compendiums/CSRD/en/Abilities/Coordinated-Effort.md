@@ -24,8 +24,6 @@ categories:
   - Task
 id: Coordinated-Effort
 ---
-
-
 ## Coordinated Effort
 >**Action**
 >3 Intellect points

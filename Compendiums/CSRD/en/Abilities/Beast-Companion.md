@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Beast-Companion
 ---
-
-
 ## Beast Companion
 >**Action**
 

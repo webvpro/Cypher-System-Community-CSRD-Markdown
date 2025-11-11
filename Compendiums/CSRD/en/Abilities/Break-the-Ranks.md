@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Break-the-Ranks
 ---
-
-
 ## Break the Ranks
 >**Action**
 >6 Speed points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Confounding-Banter
 ---
-
-
 ## Confounding Banter
 >**Action**
 >4 Intellect points

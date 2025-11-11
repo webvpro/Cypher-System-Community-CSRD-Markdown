@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Bound-Magic-Familiar
 ---
-
-
 ## Bound Magic Familiar
 >**Enabler**
 

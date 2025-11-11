@@ -22,8 +22,6 @@ categories:
   - Control
 id: Control-the-Savage
 ---
-
-
 ## Control the Savage
 >**Action**
 >6 Intellect points

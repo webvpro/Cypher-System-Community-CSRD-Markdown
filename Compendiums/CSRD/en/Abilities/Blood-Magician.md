@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Blood-Magician
 ---
-
-
 ## Blood Magician
 >**Enabler**
 

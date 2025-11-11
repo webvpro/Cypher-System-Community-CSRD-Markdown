@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Bigger-Animal-Shape
 ---
-
-
 ## Bigger Animal Shape
 >**Enabler**
 

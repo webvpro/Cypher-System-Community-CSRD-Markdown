@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Closed-Mind
 ---
-
-
 ## Closed Mind
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Control
 id: Captivate-with-Starshine
 ---
-
-
 ## Captivate With Starshine
 >**Action**
 

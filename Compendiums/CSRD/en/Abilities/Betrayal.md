@@ -22,8 +22,6 @@ categories:
   - Social
 id: Betrayal
 ---
-
-
 ## Betrayal
 >**Enabler**
 

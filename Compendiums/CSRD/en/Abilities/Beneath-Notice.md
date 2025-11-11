@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Beneath-Notice
 ---
-
-
 ## Beneath Notice
 >**Enabler**
 

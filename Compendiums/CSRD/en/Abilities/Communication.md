@@ -22,8 +22,6 @@ categories:
   - Information
 id: Communication
 ---
-
-
 ## Communication
 >**Action**
 >2 Intellect points

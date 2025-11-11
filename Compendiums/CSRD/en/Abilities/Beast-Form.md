@@ -20,8 +20,6 @@ categories:
   - Transform
 id: Beast-Form
 ---
-
-
 ## Beast Form
 >**Action**
 

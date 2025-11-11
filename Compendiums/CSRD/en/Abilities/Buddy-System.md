@@ -22,8 +22,6 @@ categories:
   - Support
 id: Buddy-System
 ---
-
-
 ## Buddy System
 >**Action**
 >3 Intellect points

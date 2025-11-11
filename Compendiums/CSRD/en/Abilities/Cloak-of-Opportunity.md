@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Cloak-of-Opportunity
 ---
-
-
 ## Cloak of Opportunity
 >**Action**
 >5 Intellect points

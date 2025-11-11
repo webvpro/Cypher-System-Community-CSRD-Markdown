@@ -24,8 +24,6 @@ categories:
   - Task
 id: Contortionist
 ---
-
-
 ## Contortionist
 >**Enabler**
 >2 Speed points

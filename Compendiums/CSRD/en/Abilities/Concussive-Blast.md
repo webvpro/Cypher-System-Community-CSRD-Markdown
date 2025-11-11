@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Concussive-Blast
 ---
-
-
 ## Concussive Blast
 >**Action**
 >2 Intellect points

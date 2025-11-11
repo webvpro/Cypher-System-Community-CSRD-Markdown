@@ -22,8 +22,6 @@ categories:
   - Control
 id: Charm-Machine
 ---
-
-
 ## Charm Machine
 >**Action**
 >2 Intellect points

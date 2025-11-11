@@ -20,8 +20,6 @@ categories:
   - Support
 id: Able-Assistance
 ---
-
-
 ## Able Assistance
 >**Enabler**
 

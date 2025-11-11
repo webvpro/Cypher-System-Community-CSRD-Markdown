@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Blink-of-an-Eye
 ---
-
-
 ## Blink of an Eye
 >**Action**
 >4 Speed points

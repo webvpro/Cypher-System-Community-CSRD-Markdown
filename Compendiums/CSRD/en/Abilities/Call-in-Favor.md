@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Call-in-Favor
 ---
-
-
 ## Call in Favor
 >**Action**
 >4 Intellect points

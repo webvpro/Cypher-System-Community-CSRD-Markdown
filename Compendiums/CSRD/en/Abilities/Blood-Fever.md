@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Blood-Fever
 ---
-
-
 ## Blood Fever
 >**Enabler**
 

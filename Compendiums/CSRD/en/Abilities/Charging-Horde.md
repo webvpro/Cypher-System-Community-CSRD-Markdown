@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Charging-Horde
 ---
-
-
 ## Charging Horde
 >**Action**
 >7 Might points

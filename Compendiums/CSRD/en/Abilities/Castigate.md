@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Castigate
 ---
-
-
 ## Castigate
 >**Action**
 >4 Intellect points

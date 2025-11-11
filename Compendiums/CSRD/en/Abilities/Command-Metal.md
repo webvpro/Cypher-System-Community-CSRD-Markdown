@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Command-Metal
 ---
-
-
 ## Command Metal
 >**Action**
 >5 Intellect points

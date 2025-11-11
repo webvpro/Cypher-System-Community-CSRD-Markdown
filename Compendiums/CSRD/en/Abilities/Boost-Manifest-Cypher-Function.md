@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Boost-Manifest-Cypher-Function
 ---
-
-
 ## Boost Manifest Cypher Function
 >**Action**
 >4 Intellect points

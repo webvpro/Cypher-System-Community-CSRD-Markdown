@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Biomorphic-Detonation
 ---
-
-
 ## Biomorphic Detonation
 >**Action**
 >7+ Might points

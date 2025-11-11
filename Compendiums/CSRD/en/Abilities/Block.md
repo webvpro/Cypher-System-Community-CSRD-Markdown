@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Block
 ---
-
-
 ## Block
 >**Action**
 >3 Speed points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Bestiary-Knowledge
 ---
-
-
 ## Bestiary Knowledge
 >**Enabler**
 

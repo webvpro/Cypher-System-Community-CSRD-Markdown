@@ -22,8 +22,6 @@ categories:
   - Control
 id: Calm
 ---
-
-
 ## Calm
 >**Action**
 >3 Intellect points

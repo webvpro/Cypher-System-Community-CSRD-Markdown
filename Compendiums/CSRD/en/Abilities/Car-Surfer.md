@@ -20,8 +20,6 @@ categories:
   - Task
 id: Car-Surfer
 ---
-
-
 ## Car Surfer
 >**Enabler**
 

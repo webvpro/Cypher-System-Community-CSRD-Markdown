@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Call-Swarm
 ---
-
-
 ## Call Swarm
 >**Action**
 >4 Intellect points

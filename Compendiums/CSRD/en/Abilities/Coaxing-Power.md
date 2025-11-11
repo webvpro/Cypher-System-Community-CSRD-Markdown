@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Coaxing-Power
 ---
-
-
 ## Coaxing Power
 >**Action**
 >2 Intellect points

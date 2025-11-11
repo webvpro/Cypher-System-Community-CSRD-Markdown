@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Bolster-Illusion
 ---
-
-
 ## Bolster Illusion
 >**Enabler**
 >2+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Call-Through-Time
 ---
-
-
 ## Call Through Time
 >**Action**
 >6+ Intellect points

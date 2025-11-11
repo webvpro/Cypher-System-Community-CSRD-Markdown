@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Blind-Machine
 ---
-
-
 ## Blind Machine
 >**Action**
 >6 Speed points

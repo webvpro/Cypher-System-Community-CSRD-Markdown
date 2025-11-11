@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Built-In-Weaponry
 ---
-
-
 ## Built-In Weaponry
 >**Action**
 

@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Blackout
 ---
-
-
 ## Blackout
 >**Action**
 >3 Intellect point

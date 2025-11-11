@@ -22,8 +22,6 @@ categories:
   - Information
 id: Community-Knowledge
 ---
-
-
 ## Community Knowledge
 >**Action**
 >2 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Control-Weather
 ---
-
-
 ## Control Weather
 >**Action**
 >10 Intellect points

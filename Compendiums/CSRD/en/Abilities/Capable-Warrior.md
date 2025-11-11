@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Capable-Warrior
 ---
-
-
 ## Capable Warrior
 >**Enabler**
 

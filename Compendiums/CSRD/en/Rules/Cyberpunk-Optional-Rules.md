@@ -499,7 +499,7 @@ characters are present in the relevant space, while conduit glitches
 have a single effect. The GM can change the specific effects for any of
 these results, tailoring them to your game.
 
-Conduit Glitch Table
+### Conduit Glitch Table
 
   ------------------------------------------------------------
   d6   Conduit Glitch
@@ -533,7 +533,7 @@ Conduit Glitch Table
        next Intellect defense is hindered due to the shock.
   ------------------------------------------------------------
 
-Node Glitch Table
+### Node Glitch Table
 
   ------------------------------------------------------------
   d6   Node Glitch
@@ -562,7 +562,7 @@ Node Glitch Table
        Glitch table whenever characters enter a new frame.
   ------------------------------------------------------------
 
-Frame Glitch Table
+### Frame Glitch Table
 
   ------------------------------------------------------------
   d6   Frame Glitch
@@ -601,7 +601,7 @@ Putting an obvious card or token representing the glitch in front of the
 player is a useful reminder about incorporating the glitch effects into
 the game.
 
-Avatar Glitch Table
+### Avatar Glitch Table
 
   --------------------------------------------------------------
   d20   Avatar Glitch
@@ -696,7 +696,7 @@ as their senses fail to map correctly back onto their body. This glitch
 effects their actions in meatspace until their next ten hour recovery
 roll.
 
-Ejection Glitch Table
+### Ejection Glitch Table
 
   ------------------------------------------------------------
   d6   Ejection Glitch
@@ -860,7 +860,7 @@ Generating Conduits
 - To randomly determine whether the conduit has a location glitch, roll
   a d10. On a 10, roll on the Conduit Glitch Table.
 
-Node Themes Table
+### Node Themes Table
 
   -------------------------------------------------------------
   d00                            Node Theme
@@ -970,7 +970,7 @@ Node Themes Table
   99-00                          Old West saloon
   -------------------------------------------------------------
 
-Frame Features Table
+### Frame Features Table
 
   --------------------------------------------------------------
   d00   Frame Feature
@@ -2088,7 +2088,7 @@ is to get rich, they need to figure out if having moderate amounts in
 eight different currencies feels as wealthy as having one big stash in a
 favored currency.
 
-Corpocurrencies
+### Corpocurrencies
 
   ----------------------------------------------------------------
   Megacorp         Currency         Alternative Names    Symbol
@@ -2762,7 +2762,7 @@ Story Hook Source Table
   6      Neon sign
   ------------------------------------------------------------
 
-News Headline Table
+### News Headline Table
 
   ------------------------------------------------------------
   d10    News Headline
@@ -2793,7 +2793,7 @@ News Headline Table
          Experts Weigh In"
   ------------------------------------------------------------
 
-Street Art Table
+### Street Art Table
 
   ------------------------------------------------------------
   d10    Street Art

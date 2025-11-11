@@ -20,8 +20,6 @@ categories:
   - Task
 id: Confidence-Artist
 ---
-
-
 ## Confidence Artist
 >**Enabler**
 

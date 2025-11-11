@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Conjuration
 ---
-
-
 ## Conjuration
 >**Action**
 >7 Intellect points

@@ -61,29 +61,29 @@ provide additional information about how and why characters take
 actions. Descriptors provide motivation and incentive, and place
 characters in the starting adventure.
 
-Standard
+### Standard
 
-Grizzled
+### Grizzled
 
-Laconic
+### Laconic
 
-Slick
+### Slick
 
-Trailblazing
+### Trailblazing
 
-Trigger-Happy
+### Trigger-Happy
 
-Unforgiving
+### Unforgiving
 
-Wily
+### Wily
 
-Species
+### Species
 
-Forgeborn
+### Forgeborn
 
-Risen
+### Risen
 
-Species Advancement
+### Species Advancement
 
 The Forgeborn and Risen descriptors include suggestions for how to
 advance or improve a PC's inherent nature as that sort of creature

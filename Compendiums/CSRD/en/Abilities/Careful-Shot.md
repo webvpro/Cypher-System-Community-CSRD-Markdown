@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Careful-Shot
 ---
-
-
 ## Careful Shot
 >**Enabler**
 

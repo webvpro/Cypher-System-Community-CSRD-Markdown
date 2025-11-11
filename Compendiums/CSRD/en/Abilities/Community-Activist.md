@@ -20,8 +20,6 @@ categories:
   - Control
 id: Community-Activist
 ---
-
-
 ## Community Activist
 >**Enabler**
 

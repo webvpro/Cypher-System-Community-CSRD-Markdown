@@ -20,8 +20,6 @@ categories:
   - Task
 id: Careful-Aim
 ---
-
-
 ## Careful Aim
 >**Enabler**
 

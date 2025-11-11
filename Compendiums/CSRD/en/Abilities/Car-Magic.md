@@ -22,8 +22,6 @@ categories:
   - Magic
 id: Car-Magic
 ---
-
-
 ## Car Magic
 >**Action**
 >3+ Intellect points

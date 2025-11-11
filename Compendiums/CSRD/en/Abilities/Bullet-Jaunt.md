@@ -20,8 +20,6 @@ categories:
   - NA
 id: Bullet-Jaunt
 ---
-
-
 ## Bullet Jaunt
 >**Action**
 >5 Intellect points

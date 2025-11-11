@@ -24,8 +24,6 @@ categories:
   - Movement
 id: Blurring-Speed
 ---
-
-
 ## Blurring Speed
 >**Enabler**
 >7 Speed points

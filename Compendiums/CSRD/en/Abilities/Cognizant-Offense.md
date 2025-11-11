@@ -20,8 +20,6 @@ categories:
   - Attack-Skill
 id: Cognizant-Offense
 ---
-
-
 ## Cognizant Offense
 >**Enabler**
 

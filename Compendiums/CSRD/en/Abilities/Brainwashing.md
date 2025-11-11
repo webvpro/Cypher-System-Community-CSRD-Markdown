@@ -22,8 +22,6 @@ categories:
   - Control
 id: Brainwashing
 ---
-
-
 ## Brainwashing
 >**Action**
 >6+ Intellect points

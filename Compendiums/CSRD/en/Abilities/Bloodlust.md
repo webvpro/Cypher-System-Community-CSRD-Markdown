@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Bloodlust
 ---
-
-
 ## Bloodlust
 >**Enabler**
 >3 Might points

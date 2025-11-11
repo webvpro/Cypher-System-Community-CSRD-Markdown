@@ -22,8 +22,6 @@ categories:
   - Control
 id: Command
 ---
-
-
 ## Command
 >**Action**
 >3 Intellect points

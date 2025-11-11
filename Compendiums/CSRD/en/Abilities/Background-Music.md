@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Background-Music
 ---
-
-
 ## Background Music
 >**Action**
 >1 Intellect point

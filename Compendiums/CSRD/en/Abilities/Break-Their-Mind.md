@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Break-Their-Mind
 ---
-
-
 ## Break Their Mind
 >**Action**
 >7+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Charge
 ---
-
-
 ## Charge
 >**Action**
 >1+ Intellect points

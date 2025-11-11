@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Better-Living-Through-Chemistry
 ---
-
-
 ## Better Living Through Chemistry
 >**Action**
 >4 Intellect points

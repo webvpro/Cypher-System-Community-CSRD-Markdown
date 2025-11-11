@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Beast-Call
 ---
-
-
 ## Beast Call
 >**Action**
 >5 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Center-of-Attention
 ---
-
-
 ## Center of Attention
 >**Action**
 >5 Intellect points

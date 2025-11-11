@@ -22,8 +22,6 @@ categories:
   - Control
 id: Command-Spirit
 ---
-
-
 ## Command Spirit
 >**Action**
 >3 Intellect points

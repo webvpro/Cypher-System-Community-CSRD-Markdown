@@ -20,8 +20,6 @@ categories:
   - Support
 id: Combat-Challenge
 ---
-
-
 ## Combat Challenge
 >**Enabler**
 

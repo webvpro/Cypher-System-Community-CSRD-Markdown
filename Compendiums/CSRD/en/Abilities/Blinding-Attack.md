@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Blinding-Attack
 ---
-
-
 ## Blinding Attack
 >**Action**
 >3 Speed points

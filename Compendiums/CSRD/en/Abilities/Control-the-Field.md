@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Control-the-Field
 ---
-
-
 ## Control the Field
 >**Action**
 >1 Might point

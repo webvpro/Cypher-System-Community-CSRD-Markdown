@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Biomorphic-Healing
 ---
-
-
 ## Biomorphic Healing
 >**Action**
 >4+ Might points

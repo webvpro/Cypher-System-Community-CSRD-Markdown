@@ -22,8 +22,6 @@ categories:
   - Control
 id: Calm-Stranger
 ---
-
-
 ## Calm Stranger
 >**Action**
 >2+ Intellect points
