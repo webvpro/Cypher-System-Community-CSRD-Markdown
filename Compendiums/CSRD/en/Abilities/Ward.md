@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Ward
 ---
-
-
 ## Ward
 >**Enabler**
 

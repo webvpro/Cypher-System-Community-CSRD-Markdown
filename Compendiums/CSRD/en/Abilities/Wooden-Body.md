@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Wooden-Body
 ---
-
-
 ## Wooden Body
 >**Action**
 >1+ Might points

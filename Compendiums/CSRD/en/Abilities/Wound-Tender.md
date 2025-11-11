@@ -20,8 +20,6 @@ categories:
   - Task
 id: Wound-Tender
 ---
-
-
 ## Wound Tender
 >**Enabler**
 

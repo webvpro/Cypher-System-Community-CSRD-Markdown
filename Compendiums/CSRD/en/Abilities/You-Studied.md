@@ -20,8 +20,6 @@ categories:
   - Task
 id: You-Studied
 ---
-
-
 ## You Studied
 >**Enabler**
 

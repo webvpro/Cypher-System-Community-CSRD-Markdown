@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Unarmored-Fighter
 ---
-
-
 ## Unarmored Fighter
 >**Enabler**
 

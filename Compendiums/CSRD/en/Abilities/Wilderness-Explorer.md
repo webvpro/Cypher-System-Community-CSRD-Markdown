@@ -20,8 +20,6 @@ categories:
   - Environment
 id: Wilderness-Explorer
 ---
-
-
 ## Wilderness Explorer
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Information
 id: Wilderness-Awareness
 ---
-
-
 ## Wilderness Awareness
 >**Action**
 >4 Intellect points

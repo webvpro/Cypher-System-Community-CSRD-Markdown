@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Weapon-and-Body
 ---
-
-
 ## Weapon and Body
 >**Action**
 >5 Speed points

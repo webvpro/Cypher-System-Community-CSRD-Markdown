@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Wraith-Cloak
 ---
-
-
 ## Wraith Cloak
 >**Enabler**
 

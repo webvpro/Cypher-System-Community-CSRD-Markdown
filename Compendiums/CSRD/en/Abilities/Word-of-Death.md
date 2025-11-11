@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Word-of-Death
 ---
-
-
 ## Word of Death
 >**Action**
 >5+ Intellect points

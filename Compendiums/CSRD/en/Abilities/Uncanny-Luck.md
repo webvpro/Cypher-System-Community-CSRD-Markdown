@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Uncanny-Luck
 ---
-
-
 ## Uncanny Luck
 >**Enabler**
 >4 Speed points

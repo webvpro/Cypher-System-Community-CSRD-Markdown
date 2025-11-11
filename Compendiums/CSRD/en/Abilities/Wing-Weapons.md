@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Wing-Weapons
 ---
-
-
 ## Wing Weapons
 >**Enabler**
 

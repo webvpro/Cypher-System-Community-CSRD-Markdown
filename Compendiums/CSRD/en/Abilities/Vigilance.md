@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Vigilance
 ---
-
-
 ## Vigilance
 >**Action**
 >2 Intellect points

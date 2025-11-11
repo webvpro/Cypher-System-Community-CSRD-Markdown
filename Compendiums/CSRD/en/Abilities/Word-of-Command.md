@@ -22,8 +22,6 @@ categories:
   - Control
 id: Word-of-Command
 ---
-
-
 ## Word of Command
 >**Action**
 >6 Intellect points + level 6 cypher

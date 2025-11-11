@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Void-Wings
 ---
-
-
 ## Void Wings
 >**Enabler**
 >3 Intellect points

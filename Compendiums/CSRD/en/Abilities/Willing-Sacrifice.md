@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Willing-Sacrifice
 ---
-
-
 ## Willing Sacrifice
 >**Action**
 

@@ -22,8 +22,6 @@ categories:
   - Task
 id: Using-the-Environment
 ---
-
-
 ## Using the Environment
 >**Action**
 >4 Intellect points

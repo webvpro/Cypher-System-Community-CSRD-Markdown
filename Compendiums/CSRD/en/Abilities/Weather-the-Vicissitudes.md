@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Weather-the-Vicissitudes
 ---
-
-
 ## Weather the Vicissitudes
 >**Enabler**
 

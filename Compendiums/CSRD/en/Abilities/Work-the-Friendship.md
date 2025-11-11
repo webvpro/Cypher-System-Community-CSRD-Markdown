@@ -22,8 +22,6 @@ categories:
   - Support
 id: Work-the-Friendship
 ---
-
-
 ## Work the Friendship
 >**Action**
 >4 Intellect points

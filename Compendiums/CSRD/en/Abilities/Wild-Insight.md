@@ -22,8 +22,6 @@ categories:
   - Fantasy
 id: Wild-Insight
 ---
-
-
 ## Wild Insight
 >**Enabler**
 

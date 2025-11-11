@@ -20,8 +20,6 @@ categories:
   - NA
 id: Weapon-at-Hand
 ---
-
-
 ## Weapon at Hand
 >**Enabler**
 

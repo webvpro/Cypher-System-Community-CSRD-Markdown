@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Water-Adaptation
 ---
-
-
 ## Water Adaptation
 >**Enabler**
 

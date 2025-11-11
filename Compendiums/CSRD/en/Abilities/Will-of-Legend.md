@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Will-of-Legend
 ---
-
-
 ## Will of Legend
 >**Enabler**
 

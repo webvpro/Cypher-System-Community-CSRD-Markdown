@@ -22,8 +22,6 @@ categories:
   - Support
 id: Will-of-a-Leader
 ---
-
-
 ## Will of a Leader
 >**Action**
 >9 Intellect points

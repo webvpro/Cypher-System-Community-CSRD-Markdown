@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Winter-Gauntlets
 ---
-
-
 ## Winter Gauntlets
 >**Action**
 

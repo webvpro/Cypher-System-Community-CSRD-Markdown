@@ -22,8 +22,6 @@ categories:
   - Task
 id: Understanding
 ---
-
-
 ## Understanding
 >**Action**
 >1 Intellect point

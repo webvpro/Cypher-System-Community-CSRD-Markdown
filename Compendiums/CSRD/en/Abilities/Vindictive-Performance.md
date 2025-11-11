@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Vindictive-Performance
 ---
-
-
 ## Vindictive Performance
 >**Action**
 >5 Intellect points

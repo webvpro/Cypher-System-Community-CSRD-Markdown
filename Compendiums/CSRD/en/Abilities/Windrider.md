@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Windrider
 ---
-
-
 ## Windrider
 >**Action**
 >4+ Intellect points

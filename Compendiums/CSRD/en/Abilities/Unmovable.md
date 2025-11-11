@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Unmovable
 ---
-
-
 ## Unmovable
 >**Enabler**
 >3 Might points

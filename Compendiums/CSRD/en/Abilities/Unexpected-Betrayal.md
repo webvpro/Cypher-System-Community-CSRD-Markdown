@@ -20,8 +20,6 @@ categories:
   - Social
 id: Unexpected-Betrayal
 ---
-
-
 ## Unexpected Betrayal
 >**Enabler**
 

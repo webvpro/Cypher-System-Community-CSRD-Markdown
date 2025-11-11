@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Weight-of-the-World
 ---
-
-
 ## Weight of the World
 >**Action**
 >6+ Intellect points

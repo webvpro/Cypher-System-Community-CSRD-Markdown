@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Weird-Science-Breakthrough
 ---
-
-
 ## Weird Science Breakthrough
 >**Action**
 >5+ Intellect points

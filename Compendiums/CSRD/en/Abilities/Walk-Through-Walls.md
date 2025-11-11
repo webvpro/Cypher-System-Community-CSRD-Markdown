@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Walk-Through-Walls
 ---
-
-
 ## Walk Through Walls
 >**Action**
 >2 Intellect points

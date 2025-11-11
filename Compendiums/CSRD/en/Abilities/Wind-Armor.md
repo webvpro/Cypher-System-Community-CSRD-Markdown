@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Wind-Armor
 ---
-
-
 ## Wind Armor
 >**Enabler**
 >1 Intellect point

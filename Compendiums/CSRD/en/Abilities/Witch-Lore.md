@@ -22,7 +22,6 @@ categories:
   - ''
 id: Witch-Lore
 ---
-
 ## Witch Lore
 >**Enabler**
 

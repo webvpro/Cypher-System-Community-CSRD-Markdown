@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Wings-of-Fire
 ---
-
-
 ## Wings of Fire
 >**Action**
 >4 Intellect points

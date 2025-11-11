@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Wall-of-Lightning
 ---
-
-
 ## Wall of Lightning
 >**Action**
 >6 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Windwracked-Traveler
 ---
-
-
 ## Windwracked Traveler
 >**Action**
 >4+ Intellect points

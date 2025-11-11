@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: War-Flesh
 ---
-
-
 ## War Flesh
 >**Enabler**
 

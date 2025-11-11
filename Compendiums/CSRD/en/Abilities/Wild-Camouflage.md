@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Wild-Camouflage
 ---
-
-
 ## Wild Camouflage
 >**Action**
 >4 Intellect points

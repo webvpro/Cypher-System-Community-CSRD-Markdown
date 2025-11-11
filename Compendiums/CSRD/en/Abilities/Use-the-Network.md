@@ -22,8 +22,6 @@ categories:
   - NA
 id: Use-the-Network
 ---
-
-
 ## Use the Network
 >**Action**
 >5 Intellect points

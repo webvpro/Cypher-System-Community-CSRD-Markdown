@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Weighty
 ---
-
-
 ## Weighty
 >**Action**
 >1 Intellect point

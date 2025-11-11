@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Wild-Vitality
 ---
-
-
 ## Wild Vitality
 >**Action**
 >4 Intellect points

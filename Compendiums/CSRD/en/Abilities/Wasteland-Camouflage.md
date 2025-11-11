@@ -24,8 +24,6 @@ categories:
   - NA
 id: Wasteland-Camouflage
 ---
-
-
 ## Wasteland Camouflage
 >**Action**
 >5+ Speed or Intellect points

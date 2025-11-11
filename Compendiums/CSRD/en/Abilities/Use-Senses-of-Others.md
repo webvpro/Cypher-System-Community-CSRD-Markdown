@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Use-Senses-of-Others
 ---
-
-
 ## Use Senses of Others
 >**Action**
 >4 Intellect points

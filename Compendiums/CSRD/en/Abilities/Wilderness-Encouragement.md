@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Wilderness-Encouragement
 ---
-
-
 ## Wilderness Encouragement
 >**Action**
 >3 Intellect points

@@ -24,8 +24,6 @@ categories:
   - Support
 id: Undo
 ---
-
-
 ## Undo
 >**Action**
 >5 Intellect points

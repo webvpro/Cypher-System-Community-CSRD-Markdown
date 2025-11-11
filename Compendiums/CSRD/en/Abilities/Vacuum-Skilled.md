@@ -20,8 +20,6 @@ categories:
   - Task
 id: Vacuum-Skilled
 ---
-
-
 ## Vacuum Skilled
 >**Enabler**
 

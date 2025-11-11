@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Unraveling-Consumption
 ---
-
-
 ## Unraveling Consumption
 >**Action**
 

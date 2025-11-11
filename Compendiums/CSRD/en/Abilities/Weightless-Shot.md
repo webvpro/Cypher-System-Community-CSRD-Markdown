@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Weightless-Shot
 ---
-
-
 ## Weightless Shot
 >**Enabler**
 

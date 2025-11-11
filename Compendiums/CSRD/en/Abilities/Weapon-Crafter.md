@@ -20,8 +20,6 @@ categories:
   - Craft
 id: Weapon-Crafter
 ---
-
-
 ## Weapon Crafter
 >**Enabler**
 

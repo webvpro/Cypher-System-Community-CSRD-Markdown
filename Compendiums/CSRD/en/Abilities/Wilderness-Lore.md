@@ -20,8 +20,6 @@ categories:
   - Task
 id: Wilderness-Lore
 ---
-
-
 ## Wilderness Lore
 >**Enabler**
 

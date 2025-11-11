@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Warding-Shield
 ---
-
-
 ## Warding Shield
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Wildcard-Powers
 ---
-
-
 ## Wildcard Powers
 >**Enabler**
 

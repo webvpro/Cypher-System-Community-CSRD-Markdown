@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Wall-With-Teeth
 ---
-
-
 ## Wall With Teeth
 >**Enabler**
 

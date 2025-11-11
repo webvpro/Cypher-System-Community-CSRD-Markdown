@@ -20,8 +20,6 @@ categories:
   - Task
 id: Wilderness-Life
 ---
-
-
 ## Wilderness Life
 >**Enabler**
 

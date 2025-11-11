@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Usurp-Cypher
 ---
-
-
 ## Usurp Cypher
 >**Action**
 

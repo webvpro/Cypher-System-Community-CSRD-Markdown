@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Using-What's-Available
 ---
-
-
 ## Using What's Available
 >**Action**
 >4 Intellect points

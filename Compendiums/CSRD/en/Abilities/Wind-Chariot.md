@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Wind-Chariot
 ---
-
-
 ## Wind Chariot
 >**Action**
 >7+ Intellect points

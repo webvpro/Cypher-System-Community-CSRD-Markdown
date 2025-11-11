@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Untouchable
 ---
-
-
 ## Untouchable
 >**Action**
 >6 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Zero-Dark-Eyes
 ---
-
-
 ## Zero Dark Eyes
 >**Enabler**
 

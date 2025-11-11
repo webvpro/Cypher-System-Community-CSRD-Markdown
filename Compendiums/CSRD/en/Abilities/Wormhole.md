@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Wormhole
 ---
-
-
 ## Wormhole
 >**Action**
 >6 Intellect points

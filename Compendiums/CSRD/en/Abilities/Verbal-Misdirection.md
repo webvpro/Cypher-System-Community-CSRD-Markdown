@@ -22,8 +22,6 @@ categories:
   - Task
 id: Verbal-Misdirection
 ---
-
-
 ## Verbal Misdirection
 >**Enabler**
 >2+ Intellect points

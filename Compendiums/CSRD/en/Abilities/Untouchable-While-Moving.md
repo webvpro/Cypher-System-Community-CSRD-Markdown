@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Untouchable-While-Moving
 ---
-
-
 ## Untouchable While Moving
 >**Action**
 >4 Intellect points

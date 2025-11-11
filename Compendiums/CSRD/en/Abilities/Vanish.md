@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Vanish
 ---
-
-
 ## Vanish
 >**Action**
 >2 Intellect points

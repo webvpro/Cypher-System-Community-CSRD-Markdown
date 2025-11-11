@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Vigilant
 ---
-
-
 ## Vigilant
 >**Enabler**
 >5 Might points
