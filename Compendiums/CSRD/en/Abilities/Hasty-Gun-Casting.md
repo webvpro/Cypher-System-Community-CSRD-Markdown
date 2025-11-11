@@ -20,8 +20,6 @@ categories:
   - NA
 id: Hasty-Gun-Casting
 ---
-
-
 ## Hasty Gun Casting
 >**Enabler**
 

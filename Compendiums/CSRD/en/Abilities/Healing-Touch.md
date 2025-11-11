@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Healing-Touch
 ---
-
-
 ## Healing Touch
 >**Action**
 >1 Intellect point

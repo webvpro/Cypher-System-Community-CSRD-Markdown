@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Horde-Tactics
 ---
-
-
 ## Horde Tactics
 >**Enabler**
 >7 Might points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Hurl-Flame
 ---
-
-
 ## Hurl Flame
 >**Action**
 >2 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Harder-Light
 ---
-
-
 ## Harder Light
 >**Enabler**
 

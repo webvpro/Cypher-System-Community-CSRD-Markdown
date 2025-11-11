@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Hard-to-Distract
 ---
-
-
 ## Hard to Distract
 >**Enabler**
 

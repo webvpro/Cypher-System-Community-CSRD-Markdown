@@ -26,8 +26,6 @@ categories:
   - Task
 id: Heads-Up-Display
 ---
-
-
 ## Heads-Up Display
 >**Enabler**
 >2+ Intellect points

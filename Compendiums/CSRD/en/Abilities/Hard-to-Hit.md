@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Hard-to-Hit
 ---
-
-
 ## Hard to Hit
 >**Enabler**
 

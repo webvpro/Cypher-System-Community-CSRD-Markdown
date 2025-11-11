@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Hover
 ---
-
-
 ## Hover
 >**Action**
 >2 Intellect points

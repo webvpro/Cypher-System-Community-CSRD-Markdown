@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Hidden-Reserves
 ---
-
-
 ## Hidden Reserves
 >**Enabler**
 

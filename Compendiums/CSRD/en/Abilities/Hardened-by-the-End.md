@@ -20,8 +20,6 @@ categories:
   - NA
 id: Hardened-by-the-End
 ---
-
-
 ## Hardened by the End
 >**Action**
 

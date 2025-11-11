@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Hard-Won-Resilience
 ---
-
-
 ## Hard-Won Resilience
 >**Enabler**
 

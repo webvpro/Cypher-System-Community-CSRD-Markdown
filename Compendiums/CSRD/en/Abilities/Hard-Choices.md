@@ -20,8 +20,6 @@ categories:
   - Task
 id: Hard-Choices
 ---
-
-
 ## Hard Choices
 >**Enabler**
 

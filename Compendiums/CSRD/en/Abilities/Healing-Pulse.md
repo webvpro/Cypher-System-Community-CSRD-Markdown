@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Healing-Pulse
 ---
-
-
 ## Healing Pulse
 >**Action**
 >3 Intellect points

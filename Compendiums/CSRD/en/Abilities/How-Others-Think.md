@@ -20,8 +20,6 @@ categories:
   - Task
 id: How-Others-Think
 ---
-
-
 ## How Others Think
 >**Enabler**
 

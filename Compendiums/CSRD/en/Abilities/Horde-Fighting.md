@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Horde-Fighting
 ---
-
-
 ## Horde Fighting
 >**Enabler**
 

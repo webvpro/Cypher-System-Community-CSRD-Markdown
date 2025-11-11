@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Hemorrhage
 ---
-
-
 ## Hemorrhage
 >**Action**
 >2+ Might points

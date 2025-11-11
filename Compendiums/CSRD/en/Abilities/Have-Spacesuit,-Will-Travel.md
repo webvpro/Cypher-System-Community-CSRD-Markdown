@@ -20,8 +20,6 @@ categories:
   - Protection
 id: 'Have-Spacesuit,-Will-Travel'
 ---
-
-
 ## Have Spacesuit, Will Travel
 >**Enabler**
 

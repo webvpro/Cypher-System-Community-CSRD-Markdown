@@ -22,8 +22,6 @@ categories:
   - Control
 id: Hack-the-Impossible
 ---
-
-
 ## Hack the Impossible
 >**Action**
 >3 Intellect points

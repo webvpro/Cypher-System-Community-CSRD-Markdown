@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Hacker
 ---
-
-
 ## Hacker
 >**Action**
 >2 Intellect points

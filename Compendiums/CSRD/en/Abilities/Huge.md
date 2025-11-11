@@ -24,8 +24,6 @@ categories:
   - Transform
 id: Huge
 ---
-
-
 ## Huge
 >**Enabler**
 

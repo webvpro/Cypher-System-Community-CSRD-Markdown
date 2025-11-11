@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Hush
 ---
-
-
 ## Hush
 >**Action**
 >1 Intellect point

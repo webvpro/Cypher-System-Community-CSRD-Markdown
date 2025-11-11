@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Hard-to-Kill
 ---
-
-
 ## Hard to Kill
 >**Enabler**
 

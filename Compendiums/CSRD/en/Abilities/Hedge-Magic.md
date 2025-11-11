@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Hedge-Magic
 ---
-
-
 ## Hedge Magic
 >**Action**
 >1 Intellect point

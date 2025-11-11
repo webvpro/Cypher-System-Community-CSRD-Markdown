@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Hard-to-See
 ---
-
-
 ## Hard to See
 >**Enabler**
 
