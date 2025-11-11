@@ -22,8 +22,6 @@ categories:
   - Support
 id: Take-Command
 ---
-
-
 ## Take Command
 >**Action**
 >3 Intellect points

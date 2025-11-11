@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Tree-Companion
 ---
-
-
 ## Tree Companion
 >**Action**
 >5+ Intellect points

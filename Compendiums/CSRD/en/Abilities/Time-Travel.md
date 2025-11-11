@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Time-Travel
 ---
-
-
 ## Time Travel
 >**Action**
 >10+ Intellect points

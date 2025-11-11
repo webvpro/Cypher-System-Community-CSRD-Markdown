@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Terrifying-Gaze
 ---
-
-
 ## Terrifying Gaze
 >**Action**
 >6 Intellect points

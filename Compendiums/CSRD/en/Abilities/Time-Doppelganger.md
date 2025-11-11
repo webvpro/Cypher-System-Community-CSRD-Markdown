@@ -24,8 +24,6 @@ categories:
   - Companion
 id: Time-Doppelganger
 ---
-
-
 ## Time Doppelganger
 >**Action**
 >6+ Intellect points

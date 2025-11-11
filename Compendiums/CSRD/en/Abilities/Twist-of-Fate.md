@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Twist-of-Fate
 ---
-
-
 ## Twist of Fate
 >**Enabler**
 

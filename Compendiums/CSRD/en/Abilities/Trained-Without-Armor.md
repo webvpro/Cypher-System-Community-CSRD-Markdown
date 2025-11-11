@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Trained-Without-Armor
 ---
-
-
 ## Trained Without Armor
 >**Enabler**
 

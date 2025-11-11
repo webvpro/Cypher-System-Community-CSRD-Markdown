@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Traverse-the-Worlds
 ---
-
-
 ## Traverse the Worlds
 >**Action**
 >8+ Intellect points

@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Taunt-Foe
 ---
-
-
 ## Taunt Foe
 >**Enabler**
 >4 Might or Intellect points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Tool-Mastery
 ---
-
-
 ## Tool Mastery
 >**Enabler**
 

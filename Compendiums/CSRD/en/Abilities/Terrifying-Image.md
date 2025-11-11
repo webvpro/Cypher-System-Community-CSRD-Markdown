@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Terrifying-Image
 ---
-
-
 ## Terrifying Image
 >**Action**
 >6 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Thinking-Ahead
 ---
-
-
 ## Thinking Ahead
 >**Action**
 >0 Intellect points

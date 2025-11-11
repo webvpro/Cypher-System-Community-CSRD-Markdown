@@ -20,8 +20,6 @@ categories:
   - Support
 id: Teamwork
 ---
-
-
 ## Teamwork
 >**Enabler**
 

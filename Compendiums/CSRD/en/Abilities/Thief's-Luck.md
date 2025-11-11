@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Thief's-Luck
 ---
-
-
 ## Thief's Luck
 >**Action**
 

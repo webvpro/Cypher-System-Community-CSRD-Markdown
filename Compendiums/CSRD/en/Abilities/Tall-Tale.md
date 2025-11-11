@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Tall-Tale
 ---
-
-
 ## Tall Tale
 >**Action**
 >3 Intellect points

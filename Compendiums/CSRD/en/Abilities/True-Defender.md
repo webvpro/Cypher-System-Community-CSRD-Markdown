@@ -24,8 +24,6 @@ categories:
   - Support
 id: True-Defender
 ---
-
-
 ## True Defender
 >**Action**
 >6 Might or Intellect points

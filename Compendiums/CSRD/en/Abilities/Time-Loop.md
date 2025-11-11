@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Time-Loop
 ---
-
-
 ## Time Loop
 >**Action**
 >4 Intellect points

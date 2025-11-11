@@ -24,8 +24,6 @@ categories:
   - Task
 id: Trick-Driver
 ---
-
-
 ## Trick Driver
 >**Enabler**
 

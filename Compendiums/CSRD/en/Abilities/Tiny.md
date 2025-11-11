@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Tiny
 ---
-
-
 ## Tiny
 >**Enabler**
 

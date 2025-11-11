@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Telekinesis
 ---
-
-
 ## Telekinesis
 >**Action**
 >2 Intellect points

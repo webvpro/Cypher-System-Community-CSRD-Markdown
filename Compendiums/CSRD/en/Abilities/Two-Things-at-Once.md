@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Two-Things-at-Once
 ---
-
-
 ## Two Things at Once
 >**Enabler**
 >6 Intellect points

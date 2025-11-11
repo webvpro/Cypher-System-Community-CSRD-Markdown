@@ -20,8 +20,6 @@ categories:
   - Task
 id: Trained-Excavator
 ---
-
-
 ## Trained Excavator
 >**Enabler**
 

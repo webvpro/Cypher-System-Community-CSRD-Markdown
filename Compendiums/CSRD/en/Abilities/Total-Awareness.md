@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Total-Awareness
 ---
-
-
 ## Total Awareness
 >**Enabler**
 

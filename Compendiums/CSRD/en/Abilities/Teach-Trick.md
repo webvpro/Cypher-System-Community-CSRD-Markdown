@@ -22,8 +22,6 @@ categories:
   - Support
 id: Teach-Trick
 ---
-
-
 ## Teach Trick
 >**Action**
 >5+ Intellect points

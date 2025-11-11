@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Tinker
 ---
-
-
 ## Tinker
 >**Action**
 >1 Intellect point

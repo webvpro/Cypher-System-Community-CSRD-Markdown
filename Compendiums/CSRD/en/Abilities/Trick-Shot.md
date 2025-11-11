@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Trick-Shot
 ---
-
-
 ## Trick Shot
 >**Action**
 >2 Speed points

@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Temporary-Light
 ---
-
-
 ## Temporary Light
 >**Action**
 >2 Intellect points

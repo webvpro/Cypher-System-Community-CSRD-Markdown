@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Thunder-Beam
 ---
-
-
 ## Thunder Beam
 >**Action**
 >2 Might points

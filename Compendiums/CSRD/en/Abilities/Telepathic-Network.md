@@ -22,8 +22,6 @@ categories:
   - Information
 id: Telepathic-Network
 ---
-
-
 ## Telepathic Network
 >**Enabler**
 >0+ Intellect points

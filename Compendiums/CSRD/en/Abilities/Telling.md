@@ -22,8 +22,6 @@ categories:
   - Task
 id: Telling
 ---
-
-
 ## Telling
 >**Action**
 >2 Intellect points

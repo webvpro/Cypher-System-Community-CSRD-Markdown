@@ -20,8 +20,6 @@ categories:
   - Task
 id: Trained-Swimmer
 ---
-
-
 ## Trained Swimmer
 >**Enabler**
 

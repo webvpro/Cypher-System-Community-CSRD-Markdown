@@ -20,8 +20,6 @@ categories:
   - Task
 id: Trained-Slayer
 ---
-
-
 ## Trained Slayer
 >**Enabler**
 

@@ -24,8 +24,6 @@ categories:
   - Support
 id: True-Guardian
 ---
-
-
 ## True Guardian
 >**Enabler**
 >2 Might or Intellect points

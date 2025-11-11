@@ -20,8 +20,6 @@ categories:
   - Task
 id: Trained-Gunner
 ---
-
-
 ## Trained Gunner
 >**Action**
 

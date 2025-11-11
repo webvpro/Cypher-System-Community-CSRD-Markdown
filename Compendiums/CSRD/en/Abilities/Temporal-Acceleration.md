@@ -24,8 +24,6 @@ categories:
   - Task
 id: Temporal-Acceleration
 ---
-
-
 ## Temporal Acceleration
 >**Action**
 >5 Intellect points

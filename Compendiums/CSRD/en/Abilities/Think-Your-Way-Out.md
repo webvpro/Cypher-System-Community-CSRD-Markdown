@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Think-Your-Way-Out
 ---
-
-
 ## Think Your Way Out
 >**Enabler**
 

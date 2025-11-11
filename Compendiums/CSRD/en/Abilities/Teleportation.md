@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Teleportation
 ---
-
-
 ## Teleportation
 >**Action**
 >6+ Intellect points

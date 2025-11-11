@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Tower-of-Will
 ---
-
-
 ## Tower of Will
 >**Enabler**
 

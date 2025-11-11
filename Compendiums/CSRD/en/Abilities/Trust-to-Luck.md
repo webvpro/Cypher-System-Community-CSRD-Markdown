@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Trust-to-Luck
 ---
-
-
 ## Trust to Luck
 >**Enabler**
 >3 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Tech-Skills
 ---
-
-
 ## Tech Skills
 >**Enabler**
 

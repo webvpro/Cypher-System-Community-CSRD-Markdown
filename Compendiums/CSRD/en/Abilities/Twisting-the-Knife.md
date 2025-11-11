@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Twisting-the-Knife
 ---
-
-
 ## Twisting the Knife
 >**Action**
 >4 Speed points

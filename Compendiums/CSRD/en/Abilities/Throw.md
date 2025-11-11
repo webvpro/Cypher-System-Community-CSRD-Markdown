@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Throw
 ---
-
-
 ## Throw
 >**Enabler**
 >2 Might points

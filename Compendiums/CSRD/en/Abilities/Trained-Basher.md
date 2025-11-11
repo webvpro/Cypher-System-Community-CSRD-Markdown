@@ -20,8 +20,6 @@ categories:
   - Task
 id: Trained-Basher
 ---
-
-
 ## Trained Basher
 >**Enabler**
 

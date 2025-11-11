@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Teleportation-Burst
 ---
-
-
 ## Teleportation Burst
 >**Enabler**
 >3 Intellect points

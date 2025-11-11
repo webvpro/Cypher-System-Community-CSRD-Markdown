@@ -22,8 +22,6 @@ categories:
   - Support
 id: Transcend-the-Script
 ---
-
-
 ## Transcend the Script
 >**Action**
 >5 Intellect points

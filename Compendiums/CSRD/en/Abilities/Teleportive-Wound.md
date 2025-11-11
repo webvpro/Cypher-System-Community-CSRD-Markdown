@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Teleportive-Wound
 ---
-
-
 ## Teleportive Wound
 >**Action**
 >7+ Intellect points

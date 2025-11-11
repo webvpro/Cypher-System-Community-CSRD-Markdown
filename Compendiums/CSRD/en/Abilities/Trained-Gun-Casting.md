@@ -20,8 +20,6 @@ categories:
   - NA
 id: Trained-Gun-Casting
 ---
-
-
 ## Trained Gun Casting
 >**Enabler**
 

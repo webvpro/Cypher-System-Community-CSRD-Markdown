@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Throw-Enchanted-Weapon
 ---
-
-
 ## Throw Enchanted Weapon
 >**Enabler**
 

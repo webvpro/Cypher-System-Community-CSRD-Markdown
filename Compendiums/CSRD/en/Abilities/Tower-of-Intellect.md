@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Tower-of-Intellect
 ---
-
-
 ## Tower of Intellect
 >**Enabler**
 

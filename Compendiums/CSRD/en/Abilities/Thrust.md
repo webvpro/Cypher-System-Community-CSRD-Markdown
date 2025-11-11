@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Thrust
 ---
-
-
 ## Thrust
 >**Action**
 >1 Might point

@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Tree-Travel
 ---
-
-
 ## Tree Travel
 >**Action**
 >4+ Intellect points

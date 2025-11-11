@@ -22,8 +22,6 @@ categories:
   - Companion
 id: True-Necromancy
 ---
-
-
 ## True Necromancy
 >**Action**
 >8+ Intellect points

@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Totally-Chill
 ---
-
-
 ## Totally Chill
 >**Enabler**
 

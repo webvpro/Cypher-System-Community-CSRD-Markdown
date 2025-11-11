@@ -22,8 +22,6 @@ categories:
   - Information
 id: Telepathic
 ---
-
-
 ## Telepathic
 >**Action**
 >1+ Intellect points

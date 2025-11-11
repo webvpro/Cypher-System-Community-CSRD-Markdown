@@ -20,8 +20,6 @@ categories:
   - Task
 id: Travel-Skills
 ---
-
-
 ## Travel Skills
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Senses
 id: True-Senses
 ---
-
-
 ## True Senses
 >**Enabler**
 

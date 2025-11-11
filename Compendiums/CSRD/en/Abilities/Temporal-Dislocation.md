@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Temporal-Dislocation
 ---
-
-
 ## Temporal Dislocation
 >**Action**
 >7 Intellect points

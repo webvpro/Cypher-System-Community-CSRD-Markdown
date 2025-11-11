@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Third-Eye
 ---
-
-
 ## Third Eye
 >**Action**
 >1 Intellect point

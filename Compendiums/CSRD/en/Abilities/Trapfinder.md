@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Trapfinder
 ---
-
-
 ## Trapfinder
 >**Action**
 >3+ Intellect points
