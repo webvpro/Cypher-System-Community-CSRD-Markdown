@@ -20,8 +20,6 @@ categories:
   - Task
 id: Learned-a-Few-Things
 ---
-
-
 ## Learned a Few Things
 >**Enabler**
 

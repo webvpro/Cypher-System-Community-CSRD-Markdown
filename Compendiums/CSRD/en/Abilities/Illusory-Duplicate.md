@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Illusory-Duplicate
 ---
-
-
 ## Illusory Duplicate
 >**Action**
 >2 Intellect points

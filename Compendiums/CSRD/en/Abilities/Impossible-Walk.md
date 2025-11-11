@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Impossible-Walk
 ---
-
-
 ## Impossible Walk
 >**Enabler**
 >5+ Speed points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Like-the-Back-of-Your-Hand
 ---
-
-
 ## Like the Back of Your Hand
 >**Enabler**
 

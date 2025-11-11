@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Improved-Edge
 ---
-
-
 ## Improved Edge
 >**Enabler**
 

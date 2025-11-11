@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Jaunt
 ---
-
-
 ## Jaunt
 >**Action**
 >5+ Intellect points

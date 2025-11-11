@@ -22,8 +22,6 @@ categories:
   - Social
 id: Impart-Ideal
 ---
-
-
 ## Impart Ideal
 >**Action**
 >3 Intellect points

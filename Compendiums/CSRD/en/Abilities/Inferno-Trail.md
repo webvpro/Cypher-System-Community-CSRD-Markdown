@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Inferno-Trail
 ---
-
-
 ## Inferno Trail
 >**Action**
 >6 Intellect points

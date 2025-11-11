@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Legerdemain
 ---
-
-
 ## Legerdemain
 >**Action**
 >1 Speed point

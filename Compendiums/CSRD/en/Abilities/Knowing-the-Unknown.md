@@ -22,8 +22,6 @@ categories:
   - Information
 id: Knowing-the-Unknown
 ---
-
-
 ## Knowing the Unknown
 >**Action**
 >6 Intellect points

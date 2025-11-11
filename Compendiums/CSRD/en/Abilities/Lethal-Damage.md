@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Lethal-Damage
 ---
-
-
 ## Lethal Damage
 >**Enabler**
 

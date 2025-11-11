@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Living-Armor
 ---
-
-
 ## Living Armor
 >**Action**
 >4 Intellect points

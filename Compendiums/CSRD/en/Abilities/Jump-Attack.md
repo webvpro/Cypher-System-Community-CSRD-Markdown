@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Jump-Attack
 ---
-
-
 ## Jump Attack
 >**Action**
 >5+ Might points

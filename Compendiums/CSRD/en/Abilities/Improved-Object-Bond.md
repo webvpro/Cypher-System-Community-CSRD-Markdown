@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Improved-Object-Bond
 ---
-
-
 ## Improved Object Bond
 >**Enabler**
 >5 Intellect points

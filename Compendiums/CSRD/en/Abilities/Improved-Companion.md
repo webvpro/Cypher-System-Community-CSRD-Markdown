@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Improved-Companion
 ---
-
-
 ## Improved Companion
 >**Enabler**
 

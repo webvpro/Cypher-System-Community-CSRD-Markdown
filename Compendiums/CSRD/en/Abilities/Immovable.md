@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Immovable
 ---
-
-
 ## Immovable
 >**Enabler**
 

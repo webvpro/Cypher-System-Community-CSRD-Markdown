@@ -20,8 +20,6 @@ categories:
   - Craft
 id: Innovator
 ---
-
-
 ## Innovator
 >**Enabler**
 

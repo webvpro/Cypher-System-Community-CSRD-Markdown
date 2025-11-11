@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Influence-Swarm
 ---
-
-
 ## Influence Swarm
 >**Action**
 >1 Intellect point

@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Innate-Power
 ---
-
-
 ## Innate Power
 >**Action**
 

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Investigative-Skills
 ---
-
-
 ## Investigative Skills
 >**Enabler**
 

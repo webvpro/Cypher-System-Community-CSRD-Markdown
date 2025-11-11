@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Improved-Apportation
 ---
-
-
 ## Improved Apportation
 >**Action**
 >6 Intellect points

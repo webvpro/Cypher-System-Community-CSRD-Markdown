@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Insect-Eruption
 ---
-
-
 ## Insect Eruption
 >**Action**
 >6 Intellect points

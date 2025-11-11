@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Illusory-Disguise
 ---
-
-
 ## Illusory Disguise
 >**Action**
 >2+ Intellect points

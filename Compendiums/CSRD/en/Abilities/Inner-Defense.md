@@ -20,8 +20,6 @@ categories:
   - Task
 id: Inner-Defense
 ---
-
-
 ## Inner Defense
 >**Enabler**
 

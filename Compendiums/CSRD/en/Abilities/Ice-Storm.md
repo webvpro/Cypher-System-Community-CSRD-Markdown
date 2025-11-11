@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Ice-Storm
 ---
-
-
 ## Ice Storm
 >**Enabler**
 

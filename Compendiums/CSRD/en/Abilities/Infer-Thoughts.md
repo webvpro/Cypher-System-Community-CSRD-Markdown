@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Infer-Thoughts
 ---
-
-
 ## Infer Thoughts
 >**Action**
 >4 Intellect points

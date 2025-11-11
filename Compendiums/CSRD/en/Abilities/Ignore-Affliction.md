@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Ignore-Affliction
 ---
-
-
 ## Ignore Affliction
 >**Action**
 >5 Might points

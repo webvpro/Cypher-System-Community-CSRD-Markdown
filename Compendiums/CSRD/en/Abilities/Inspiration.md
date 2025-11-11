@@ -24,8 +24,6 @@ categories:
   - Support
 id: Inspiration
 ---
-
-
 ## Inspiration
 >**Action**
 >6 Intellect points

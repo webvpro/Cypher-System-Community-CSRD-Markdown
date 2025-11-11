@@ -22,8 +22,6 @@ categories:
   - Support
 id: Impart-Understanding
 ---
-
-
 ## Impart Understanding
 >**Enabler**
 

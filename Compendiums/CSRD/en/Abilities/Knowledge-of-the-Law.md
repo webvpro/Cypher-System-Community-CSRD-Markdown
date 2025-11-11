@@ -20,8 +20,6 @@ categories:
   - Task
 id: Knowledge-of-the-Law
 ---
-
-
 ## Knowledge of the Law
 >**Enabler**
 

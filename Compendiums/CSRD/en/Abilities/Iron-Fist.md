@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Iron-Fist
 ---
-
-
 ## Iron Fist
 >**Enabler**
 

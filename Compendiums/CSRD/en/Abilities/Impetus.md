@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Impetus
 ---
-
-
 ## Impetus
 >**Action**
 >2 Intellect points

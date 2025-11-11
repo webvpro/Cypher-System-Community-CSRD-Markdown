@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Living-Wall
 ---
-
-
 ## Living Wall
 >**Enabler**
 >3 Might points

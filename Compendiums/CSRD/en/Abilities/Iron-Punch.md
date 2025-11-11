@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Iron-Punch
 ---
-
-
 ## Iron Punch
 >**Action**
 >5+ Intellect points

@@ -20,8 +20,6 @@ categories:
   - Task
 id: Insight
 ---
-
-
 ## Insight
 >**Enabler**
 

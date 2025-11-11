@@ -22,8 +22,6 @@ categories:
   - Support
 id: In-Harm's-Way
 ---
-
-
 ## In Harm's Way
 >**Enabler**
 >3 Intellect points

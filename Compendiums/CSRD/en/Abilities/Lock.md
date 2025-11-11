@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Lock
 ---
-
-
 ## Lock
 >**Action**
 >2+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Magic
 id: Library-Life
 ---
-
-
 ## Library Life
 >**Enabler**
 When a problem needs solving, you may not know the solution, but you know where to look. You are trained in research. Enabler.

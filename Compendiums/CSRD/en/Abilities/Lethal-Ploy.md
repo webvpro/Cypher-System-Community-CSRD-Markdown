@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Lethal-Ploy
 ---
-
-
 ## Lethal Ploy
 >**Action**
 >5+ Intellect points

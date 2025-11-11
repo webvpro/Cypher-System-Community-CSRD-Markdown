@@ -22,8 +22,6 @@ categories:
   - Task
 id: Late-Inspiration
 ---
-
-
 ## Late Inspiration
 >**Enabler**
 >3 Intellect points

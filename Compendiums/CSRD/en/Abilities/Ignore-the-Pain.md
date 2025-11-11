@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Ignore-the-Pain
 ---
-
-
 ## Ignore the Pain
 >**Enabler**
 

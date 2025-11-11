@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Inhabit-Crystal
 ---
-
-
 ## Inhabit Crystal
 >**Action**
 >4 Intellect points

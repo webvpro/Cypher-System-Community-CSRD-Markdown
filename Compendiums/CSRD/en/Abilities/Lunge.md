@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Lunge
 ---
-
-
 ## Lunge
 >**Action**
 >2 Might points

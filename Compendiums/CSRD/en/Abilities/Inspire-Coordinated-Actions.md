@@ -22,8 +22,6 @@ categories:
   - Support
 id: Inspire-Coordinated-Actions
 ---
-
-
 ## Inspire Coordinated Actions
 >**Action**
 >9 Intellect points

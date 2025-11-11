@@ -22,8 +22,6 @@ categories:
   - Task
 id: Impressive-Display
 ---
-
-
 ## Impressive Display
 >**Action**
 >2 Might points

@@ -24,8 +24,6 @@ categories:
   - Weird-West
 id: Knock-Out
 ---
-
-
 ## Knock Out
 >**Action**
 >5+ Might points

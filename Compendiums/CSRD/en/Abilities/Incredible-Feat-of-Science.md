@@ -22,8 +22,6 @@ categories:
   - NA
 id: Incredible-Feat-of-Science
 ---
-
-
 ## Incredible Feat of Science
 >**Action**
 >12 Intellect points

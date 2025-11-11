@@ -20,8 +20,6 @@ categories:
   - Social
 id: Informer
 ---
-
-
 ## Informer
 >**Enabler**
 

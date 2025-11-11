@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Improved-Gravity-Cleave
 ---
-
-
 ## Improved Gravity Cleave
 >**Action**
 >9 Intellect points

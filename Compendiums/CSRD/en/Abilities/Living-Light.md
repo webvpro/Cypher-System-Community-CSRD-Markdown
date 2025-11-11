@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Living-Light
 ---
-
-
 ## Living Light
 >**Action**
 >6+ Intellect points

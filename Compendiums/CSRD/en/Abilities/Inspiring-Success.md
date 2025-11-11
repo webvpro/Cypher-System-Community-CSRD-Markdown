@@ -22,8 +22,6 @@ categories:
   - Support
 id: Inspiring-Success
 ---
-
-
 ## Inspiring Success
 >**Enabler**
 >6 Intellect points

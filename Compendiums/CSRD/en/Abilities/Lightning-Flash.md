@@ -22,8 +22,6 @@ categories:
   - ''
 id: Lightning-Flash
 ---
-
-
 ## Lightning Flash
 >**Action**
 >4 Intellect points

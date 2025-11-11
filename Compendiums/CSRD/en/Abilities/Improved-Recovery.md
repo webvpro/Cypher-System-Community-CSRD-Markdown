@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Improved-Recovery
 ---
-
-
 ## Improved Recovery
 >**Enabler**
 

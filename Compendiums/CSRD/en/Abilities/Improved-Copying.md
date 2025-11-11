@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Improved-Copying
 ---
-
-
 ## Improved Copying
 >**Enabler**
 

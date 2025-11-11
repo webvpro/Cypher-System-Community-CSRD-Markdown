@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Ice-Armor
 ---
-
-
 ## Ice Armor
 >**Enabler**
 >1 Intellect point

@@ -22,8 +22,6 @@ categories:
   - Information
 id: Information-Gathering
 ---
-
-
 ## Information Gathering
 >**Action**
 >5 Intellect points

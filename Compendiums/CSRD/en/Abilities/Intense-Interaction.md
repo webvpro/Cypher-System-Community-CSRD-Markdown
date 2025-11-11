@@ -22,8 +22,6 @@ categories:
   - Task
 id: Intense-Interaction
 ---
-
-
 ## Intense Interaction
 >**Action**
 >3 Intellect points

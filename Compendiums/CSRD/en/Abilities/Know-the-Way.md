@@ -20,8 +20,6 @@ categories:
   - NA
 id: Know-the-Way
 ---
-
-
 ## Know the Way
 >**Enabler**
 

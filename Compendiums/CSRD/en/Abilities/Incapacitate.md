@@ -22,8 +22,6 @@ categories:
   - Magic
 id: Incapacitate
 ---
-
-
 ## Incapacitate
 >**Action**
 >4 Intellect points

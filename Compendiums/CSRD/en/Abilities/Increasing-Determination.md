@@ -20,8 +20,6 @@ categories:
   - Task
 id: Increasing-Determination
 ---
-
-
 ## Increasing Determination
 >**Enabler**
 

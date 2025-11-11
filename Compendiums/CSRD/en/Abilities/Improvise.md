@@ -22,8 +22,6 @@ categories:
   - Task
 id: Improvise
 ---
-
-
 ## Improvise
 >**Action**
 >3 Intellect points

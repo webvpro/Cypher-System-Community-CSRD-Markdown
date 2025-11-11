@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Ice-Creation
 ---
-
-
 ## Ice Creation
 >**Action**
 >4+ Intellect points

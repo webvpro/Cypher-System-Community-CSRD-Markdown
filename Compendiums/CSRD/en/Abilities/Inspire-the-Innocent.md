@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Inspire-the-Innocent
 ---
-
-
 ## Inspire the Innocent
 >**Action**
 >3 Intellect points

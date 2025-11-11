@@ -24,8 +24,6 @@ categories:
   - Task
 id: Inspire-Aggression
 ---
-
-
 ## Inspire Aggression
 >**Action**
 >2 Intellect points

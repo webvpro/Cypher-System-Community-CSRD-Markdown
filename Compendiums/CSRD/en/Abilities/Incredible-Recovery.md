@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Incredible-Recovery
 ---
-
-
 ## Incredible Recovery
 >**Action**
 >6 Might points

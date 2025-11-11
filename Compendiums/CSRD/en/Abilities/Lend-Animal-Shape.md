@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Lend-Animal-Shape
 ---
-
-
 ## Lend Animal Shape
 >**Action**
 >6+ Intellect points

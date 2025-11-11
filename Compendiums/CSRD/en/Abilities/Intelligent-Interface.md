@@ -22,8 +22,6 @@ categories:
   - Task
 id: Intelligent-Interface
 ---
-
-
 ## Intelligent Interface
 >**Enabler**
 >3 Intellect points

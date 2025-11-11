@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Lethal-Vibration
 ---
-
-
 ## Lethal Vibration
 >**Action**
 >7 Might points

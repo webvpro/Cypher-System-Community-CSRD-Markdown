@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Illusory-Selves
 ---
-
-
 ## Illusory Selves
 >**Action**
 >4 Intellect points

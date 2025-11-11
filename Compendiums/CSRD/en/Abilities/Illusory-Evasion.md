@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Illusory-Evasion
 ---
-
-
 ## Illusory Evasion
 >**Enabler**
 >5 Intellect points

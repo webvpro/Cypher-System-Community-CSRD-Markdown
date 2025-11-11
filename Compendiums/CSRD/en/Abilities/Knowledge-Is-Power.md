@@ -20,8 +20,6 @@ categories:
   - Task
 id: Knowledge-Is-Power
 ---
-
-
 ## Knowledge Is Power
 >**Enabler**
 

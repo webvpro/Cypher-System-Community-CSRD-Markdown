@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Invisibility
 ---
-
-
 ## Invisibility
 >**Action**
 >4 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Illuminating-Touch
 ---
-
-
 ## Illuminating Touch
 >**Action**
 >1 Intellect point

@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Jury-Rig
 ---
-
-
 ## Jury-Rig
 >**Action**
 >5 Intellect points

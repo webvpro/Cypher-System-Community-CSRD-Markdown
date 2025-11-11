@@ -20,8 +20,6 @@ categories:
   - Task
 id: Knowledge-Skills
 ---
-
-
 ## Knowledge Skills
 >**Enabler**
 

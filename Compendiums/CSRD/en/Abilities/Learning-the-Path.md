@@ -22,8 +22,6 @@ categories:
   - Task
 id: Learning-the-Path
 ---
-
-
 ## Learning the Path
 >**Action**
 >2 Intellect points

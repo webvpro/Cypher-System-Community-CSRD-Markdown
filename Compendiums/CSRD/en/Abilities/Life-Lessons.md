@@ -20,8 +20,6 @@ categories:
   - Task
 id: Life-Lessons
 ---
-
-
 ## Life Lessons
 >**Enabler**
 

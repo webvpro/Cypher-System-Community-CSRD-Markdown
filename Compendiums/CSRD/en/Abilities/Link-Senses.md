@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Link-Senses
 ---
-
-
 ## Link Senses
 >**Action**
 >2 Intellect points

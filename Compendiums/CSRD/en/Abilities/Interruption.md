@@ -22,8 +22,6 @@ categories:
   - Control
 id: Interruption
 ---
-
-
 ## Interruption
 >**Action**
 >4 Intellect points

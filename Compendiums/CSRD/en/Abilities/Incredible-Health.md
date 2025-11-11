@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Incredible-Health
 ---
-
-
 ## Incredible Health
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Junkmonger
 ---
-
-
 ## Junkmonger
 >**Enabler**
 >2 Intellect points

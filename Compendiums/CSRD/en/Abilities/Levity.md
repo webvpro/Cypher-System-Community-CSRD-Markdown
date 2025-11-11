@@ -20,8 +20,6 @@ categories:
   - Task
 id: Levity
 ---
-
-
 ## Levity
 >**Enabler**
 

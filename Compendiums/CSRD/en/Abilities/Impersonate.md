@@ -22,8 +22,6 @@ categories:
   - Task
 id: Impersonate
 ---
-
-
 ## Impersonate
 >**Action**
 >2 Intellect points

@@ -22,7 +22,6 @@ categories:
   - ''
 id: Improved-Witch-Bane
 ---
-
 ## Improved Witch Bane
 >**Enabler**
 

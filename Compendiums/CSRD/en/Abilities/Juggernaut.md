@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Juggernaut
 ---
-
-
 ## Juggernaut
 >**Enabler**
 >5 Might points

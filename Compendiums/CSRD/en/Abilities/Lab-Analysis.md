@@ -22,8 +22,6 @@ categories:
   - Information
 id: Lab-Analysis
 ---
-
-
 ## Lab Analysis
 >**Action**
 >3 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Improved-Monster-Bane
 ---
-
-
 ## Improved Monster Bane
 >**Enabler**
 

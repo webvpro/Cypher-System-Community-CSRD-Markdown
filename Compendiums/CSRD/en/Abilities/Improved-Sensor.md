@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Improved-Sensor
 ---
-
-
 ## Improved Sensor
 >**Enabler**
 >2 Intellect points

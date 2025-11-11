@@ -22,8 +22,6 @@ categories:
   - Support
 id: Inspire-Action
 ---
-
-
 ## Inspire Action
 >**Action**
 >4 Intellect points

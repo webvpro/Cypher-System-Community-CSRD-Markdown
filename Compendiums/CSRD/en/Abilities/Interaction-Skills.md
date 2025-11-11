@@ -22,8 +22,6 @@ categories:
   - Weird-West
 id: Interaction-Skills
 ---
-
-
 ## Interaction Skills
 >**Enabler**
 
