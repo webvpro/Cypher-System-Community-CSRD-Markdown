@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Belt-of-Strength
 ---
-
-
 ## Belt of Strength
 >[!info] Stats
 > **Level:** 1d6

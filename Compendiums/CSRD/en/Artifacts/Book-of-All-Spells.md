@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Book-of-All-Spells
 ---
-
-
 ## Book of All Spells
 >[!info] Stats
 > **Level:** 1d6+2

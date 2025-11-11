@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Book
 ---
-
-
 ## Book
 >[!info] Stats
 > **Level:** 1d6

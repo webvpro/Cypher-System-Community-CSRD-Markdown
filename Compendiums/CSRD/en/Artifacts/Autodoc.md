@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Autodoc
 ---
-
-
 ## Autodoc
 >[!info] Stats
 > **Level:** 1d6

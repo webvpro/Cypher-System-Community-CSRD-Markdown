@@ -15,8 +15,6 @@ categories:
   - Science-Fiction
 id: Bounding-Boots
 ---
-
-
 ## Bounding Boots
 >[!info] Stats
 > **Level:** 1d6+1

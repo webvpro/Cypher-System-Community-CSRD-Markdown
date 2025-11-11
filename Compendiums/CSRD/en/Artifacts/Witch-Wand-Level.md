@@ -17,12 +17,8 @@ id: Witch-Wand-Level
 
 
 ## Witch Wand Level
-
->1d6
-#### Form
->Wooden wand of exceptional quality
-#### Effect
-> This wand grants its wielder an asset on attack rolls with spells cast while holding it.
-
-#### Depletion
->--
+>[!info] Stats
+> **Level:** 1d6
+> **Form:** Wooden wand of exceptional quality
+> **Effect:** This wand grants its wielder an asset on attack rolls with spells cast while holding it.
+> **Depletion:** --

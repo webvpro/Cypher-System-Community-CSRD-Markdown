@@ -13,8 +13,6 @@ categories:
   - Horror
 id: Book-of-Inversion
 ---
-
-
 ## Book of Inversion
 >[!info] Stats
 > **Level:** +8

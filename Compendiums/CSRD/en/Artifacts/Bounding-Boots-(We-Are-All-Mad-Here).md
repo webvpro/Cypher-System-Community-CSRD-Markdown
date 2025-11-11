@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Bounding-Boots-(We-Are-All-Mad-Here)
 ---
-
-
 ## Bounding Boots (We Are All Mad Here)
 >[!info] Stats
 > **Level:** 1d6+1

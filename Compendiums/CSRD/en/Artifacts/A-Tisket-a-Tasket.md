@@ -13,9 +13,8 @@ categories:
   - Fairytale
 id: A-Tisket-a-Tasket
 ---
-
-
 ## A Tisket a Tasket
+>[!info] Stats
 > **Level:** 1d6
 > **Form:** Woven yellow basket with wooden handles
 > **Depletion:** 1 in 1d20 (check each time a cypher is added to the basket)
