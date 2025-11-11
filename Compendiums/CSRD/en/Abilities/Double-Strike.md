@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Double-Strike
 ---
-
-
 ## Double Strike
 >**Action**
 >3 Might points

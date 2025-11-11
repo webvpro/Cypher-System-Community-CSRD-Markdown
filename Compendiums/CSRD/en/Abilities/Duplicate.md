@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Duplicate
 ---
-
-
 ## Duplicate
 >**Action**
 >2 Might points

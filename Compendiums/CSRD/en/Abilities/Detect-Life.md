@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Detect-Life
 ---
-
-
 ## Detect Life
 >**Action**
 >3+ Might points

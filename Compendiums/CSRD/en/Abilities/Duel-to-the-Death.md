@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Duel-to-the-Death
 ---
-
-
 ## Duel to the Death
 >**Action**
 >5 Speed points

@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Dreadwood
 ---
-
-
 ## Dreadwood
 >**Action**
 >6 Intellect points

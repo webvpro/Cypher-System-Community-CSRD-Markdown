@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Dream-Thief
 ---
-
-
 ## Dream Thief
 >**Action**
 >2 Intellect points

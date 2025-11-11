@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Driving-on-the-Edge
 ---
-
-
 ## Driving on the Edge
 >**Enabler**
 

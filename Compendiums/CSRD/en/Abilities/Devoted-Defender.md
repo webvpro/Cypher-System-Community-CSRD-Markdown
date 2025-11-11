@@ -24,8 +24,6 @@ categories:
   - Task
 id: Devoted-Defender
 ---
-
-
 ## Devoted Defender
 >**Action**
 >2 Might or Intellect points

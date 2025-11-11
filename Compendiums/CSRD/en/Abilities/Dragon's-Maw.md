@@ -22,8 +22,6 @@ categories:
   - Companion
 id: Dragon's-Maw
 ---
-
-
 ## Dragon's Maw
 >**Action**
 >6 Intellect points

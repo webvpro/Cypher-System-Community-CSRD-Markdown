@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Destroyer
 ---
-
-
 ## Destroyer
 >**Action**
 >6 Might points

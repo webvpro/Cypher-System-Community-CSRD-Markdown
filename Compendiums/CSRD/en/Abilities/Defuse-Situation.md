@@ -20,8 +20,6 @@ categories:
   - Control
 id: Defuse-Situation
 ---
-
-
 ## Defuse Situation
 >**Action**
 

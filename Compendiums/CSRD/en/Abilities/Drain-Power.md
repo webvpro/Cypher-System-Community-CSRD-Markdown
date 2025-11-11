@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Drain-Power
 ---
-
-
 ## Drain Power
 >**Action**
 >5 Speed points

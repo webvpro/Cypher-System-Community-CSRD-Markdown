@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Dual-Light-Wield
 ---
-
-
 ## Dual Light Wield
 >**Enabler**
 

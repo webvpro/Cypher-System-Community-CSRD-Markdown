@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Disrupting-Touch
 ---
-
-
 ## Disrupting Touch
 >**Enabler**
 >1+ Might points

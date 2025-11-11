@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Destined-for-Greatness
 ---
-
-
 ## Destined for Greatness
 >**Enabler**
 

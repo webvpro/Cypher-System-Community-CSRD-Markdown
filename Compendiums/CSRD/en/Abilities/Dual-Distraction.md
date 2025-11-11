@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Dual-Distraction
 ---
-
-
 ## Dual Distraction
 >**Enabler**
 >1+ Speed points

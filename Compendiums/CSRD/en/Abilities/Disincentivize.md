@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Disincentivize
 ---
-
-
 ## Disincentivize
 >**Enabler**
 >1 Intellect point

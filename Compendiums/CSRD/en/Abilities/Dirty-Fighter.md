@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Dirty-Fighter
 ---
-
-
 ## Dirty Fighter
 >**Action**
 >2 Speed points

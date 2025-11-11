@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Dodge-and-Resist
 ---
-
-
 ## Dodge and Resist
 >**Enabler**
 >3 Speed points

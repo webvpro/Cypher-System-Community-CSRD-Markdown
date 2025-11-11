@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Divide-Your-Mind
 ---
-
-
 ## Divide Your Mind
 >**Action**
 >7 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Dual-Medium-Wield
 ---
-
-
 ## Dual Medium Wield
 >**Enabler**
 

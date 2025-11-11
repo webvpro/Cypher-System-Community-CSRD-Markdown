@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Distortion
 ---
-
-
 ## Distortion
 >**Action**
 >2 Intellect points

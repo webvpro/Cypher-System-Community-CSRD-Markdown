@@ -22,8 +22,6 @@ categories:
   - Information
 id: Drawing-on-Life's-Experiences
 ---
-
-
 ## Drawing on Life's Experiences
 >**Action**
 >6 Intellect points

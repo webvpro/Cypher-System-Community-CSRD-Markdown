@@ -22,8 +22,6 @@ categories:
   - Information
 id: Draw-Conclusion
 ---
-
-
 ## Draw Conclusion
 >**Action**
 >3 Intellect points

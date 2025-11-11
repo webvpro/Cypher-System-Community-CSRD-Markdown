@@ -20,8 +20,6 @@ categories:
   - Task
 id: Disguise
 ---
-
-
 ## Disguise
 >**Enabler**
 

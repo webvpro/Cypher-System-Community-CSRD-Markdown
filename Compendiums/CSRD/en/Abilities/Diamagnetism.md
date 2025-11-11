@@ -20,8 +20,6 @@ categories:
   - Environment
 id: Diamagnetism
 ---
-
-
 ## Diamagnetism
 >**Enabler**
 

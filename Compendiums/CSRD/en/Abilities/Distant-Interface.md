@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Distant-Interface
 ---
-
-
 ## Distant Interface
 >**Action**
 >2 Intellect points

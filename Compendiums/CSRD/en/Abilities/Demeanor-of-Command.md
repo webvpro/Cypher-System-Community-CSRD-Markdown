@@ -22,8 +22,6 @@ categories:
   - Social
 id: Demeanor-of-Command
 ---
-
-
 ## Demeanor of Command
 >**Action**
 >2 Intellect points

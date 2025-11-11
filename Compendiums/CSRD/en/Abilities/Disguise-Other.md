@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Disguise-Other
 ---
-
-
 ## Disguise Other
 >**Action**
 >4+ Intellect points

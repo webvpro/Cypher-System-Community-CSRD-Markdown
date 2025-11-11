@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Dual-Defense
 ---
-
-
 ## Dual Defense
 >**Enabler**
 

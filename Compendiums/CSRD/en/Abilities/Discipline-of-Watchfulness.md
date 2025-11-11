@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Discipline-of-Watchfulness
 ---
-
-
 ## Discipline of Watchfulness
 >**Enabler**
 >7 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Deflect-Attacks
 ---
-
-
 ## Deflect Attacks
 >**Action**
 >1 Intellect point

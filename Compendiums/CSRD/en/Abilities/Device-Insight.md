@@ -22,8 +22,6 @@ categories:
   - Information
 id: Device-Insight
 ---
-
-
 ## Device Insight
 >**Action**
 >3 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Discerning-Mind
 ---
-
-
 ## Discerning Mind
 >**Enabler**
 

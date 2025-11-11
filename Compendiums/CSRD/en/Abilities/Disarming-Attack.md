@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Disarming-Attack
 ---
-
-
 ## Disarming Attack
 >**Action**
 >5 Speed points

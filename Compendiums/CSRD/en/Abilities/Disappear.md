@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Disappear
 ---
-
-
 ## Disappear
 >**Action**
 >4 Intellect points

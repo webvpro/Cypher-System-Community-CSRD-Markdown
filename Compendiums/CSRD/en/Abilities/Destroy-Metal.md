@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Destroy-Metal
 ---
-
-
 ## Destroy Metal
 >**Action**
 >3 Intellect points

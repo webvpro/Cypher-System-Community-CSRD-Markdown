@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Dust-to-Dust
 ---
-
-
 ## Dust to Dust
 >**Action**
 >7 Intellect points

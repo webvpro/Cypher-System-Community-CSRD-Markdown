@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Dimensional-Squeeze
 ---
-
-
 ## Dimensional Squeeze
 >**Action**
 >2+ Intellect points

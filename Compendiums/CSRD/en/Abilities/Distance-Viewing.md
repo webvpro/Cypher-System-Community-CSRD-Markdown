@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Distance-Viewing
 ---
-
-
 ## Distance Viewing
 >**Action**
 >5 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Drain-Charge
 ---
-
-
 ## Drain Charge
 >**Action**
 

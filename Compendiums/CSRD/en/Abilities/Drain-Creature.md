@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Drain-Creature
 ---
-
-
 ## Drain Creature
 >**Action**
 >3+ Intellect points

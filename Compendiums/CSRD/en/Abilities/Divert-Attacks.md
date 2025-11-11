@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Divert-Attacks
 ---
-
-
 ## Divert Attacks
 >**Action**
 >4 Speed points

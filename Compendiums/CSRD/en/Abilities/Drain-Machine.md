@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Drain-Machine
 ---
-
-
 ## Drain Machine
 >**Action**
 >3+ Intellect points

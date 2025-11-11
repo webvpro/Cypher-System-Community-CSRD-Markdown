@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Divine-Symbol
 ---
-
-
 ## Divine Symbol
 >**Action**
 >5+ Intellect points

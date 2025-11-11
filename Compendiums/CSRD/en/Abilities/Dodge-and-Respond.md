@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Dodge-and-Respond
 ---
-
-
 ## Dodge and Respond
 >**Enabler**
 >3 Might points

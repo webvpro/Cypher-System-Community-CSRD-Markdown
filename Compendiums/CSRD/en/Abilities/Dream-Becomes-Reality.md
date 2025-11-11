@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Dream-Becomes-Reality
 ---
-
-
 ## Dream Becomes Reality
 >**Action**
 >4 Intellect points
