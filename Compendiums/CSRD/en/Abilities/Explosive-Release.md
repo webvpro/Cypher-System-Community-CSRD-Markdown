@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Explosive-Release
 ---
-
-
 ## Explosive Release
 >**Action**
 >6 Intellect points

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Enveloping-Shield
 ---
-
-
 ## Enveloping Shield
 >**Enabler**
 

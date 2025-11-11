@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Expert-Skill
 ---
-
-
 ## Expert Skill
 >**Action**
 

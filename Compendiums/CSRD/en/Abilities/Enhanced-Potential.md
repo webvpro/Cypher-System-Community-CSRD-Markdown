@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Enhanced-Potential
 ---
-
-
 ## Enhanced Potential
 >**Enabler**
 

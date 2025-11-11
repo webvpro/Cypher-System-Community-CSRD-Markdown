@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Enhanced-Intellect
 ---
-
-
 ## Enhanced Intellect
 >**Enabler**
 

@@ -24,8 +24,6 @@ categories:
   - Support
 id: Energize-Crowd
 ---
-
-
 ## Energize Crowd
 >**Action**
 >9 Might points

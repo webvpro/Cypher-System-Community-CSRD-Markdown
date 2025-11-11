@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Energy-Resistance
 ---
-
-
 ## Energy Resistance
 >**Enabler**
 

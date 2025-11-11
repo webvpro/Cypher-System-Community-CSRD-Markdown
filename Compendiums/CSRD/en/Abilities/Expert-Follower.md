@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Expert-Follower
 ---
-
-
 ## Expert Follower
 >**Enabler**
 

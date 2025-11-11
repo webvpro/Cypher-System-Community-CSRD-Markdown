@@ -24,8 +24,6 @@ categories:
   - Meta
 id: Extreme-Mastery
 ---
-
-
 ## Extreme Mastery
 >**Enabler**
 >6 Might or 6 Speed points

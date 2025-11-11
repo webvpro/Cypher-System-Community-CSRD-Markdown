@@ -20,8 +20,6 @@ categories:
   - Task
 id: Exploratory-Experience
 ---
-
-
 ## Exploratory Experience
 >**Enabler**
 

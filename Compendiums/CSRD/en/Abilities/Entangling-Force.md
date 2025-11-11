@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Entangling-Force
 ---
-
-
 ## Entangling Force
 >**Action**
 >1+ Intellect point

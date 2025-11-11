@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Elastic-Grip
 ---
-
-
 ## Elastic Grip
 >**Enabler**
 >3 Might points

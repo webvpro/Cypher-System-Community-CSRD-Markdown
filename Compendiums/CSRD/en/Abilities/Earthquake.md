@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Earthquake
 ---
-
-
 ## Earthquake
 >**Action**
 >7 Might points

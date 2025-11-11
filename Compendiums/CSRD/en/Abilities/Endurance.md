@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Endurance
 ---
-
-
 ## Endurance
 >**Enabler**
 

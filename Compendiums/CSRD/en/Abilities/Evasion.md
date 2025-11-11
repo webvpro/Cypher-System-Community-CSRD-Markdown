@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Evasion
 ---
-
-
 ## Evasion
 >**Enabler**
 

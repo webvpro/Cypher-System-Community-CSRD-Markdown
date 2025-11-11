@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Erase-Memories
 ---
-
-
 ## Erase Memories
 >**Action**
 >3 Intellect points

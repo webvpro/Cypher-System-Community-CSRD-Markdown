@@ -20,8 +20,6 @@ categories:
   - Senses
 id: Eyes-Adjusted
 ---
-
-
 ## Eyes Adjusted
 >**Enabler**
 

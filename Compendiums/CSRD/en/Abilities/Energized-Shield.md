@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Energized-Shield
 ---
-
-
 ## Energized Shield
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Exile
 ---
-
-
 ## Exile
 >**Action**
 >5 Intellect points

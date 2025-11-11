@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Enthrall
 ---
-
-
 ## Enthrall
 >**Action**
 >1 Intellect point

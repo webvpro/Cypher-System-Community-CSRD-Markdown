@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Everything-Is-a-Weapon
 ---
-
-
 ## Everything Is a Weapon
 >**Enabler**
 

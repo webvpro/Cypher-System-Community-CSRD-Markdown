@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Enchanted-Weapon
 ---
-
-
 ## Enchanted Weapon
 >**Action**
 >1 Intellect point

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Energy-Protection
 ---
-
-
 ## Energy Protection
 >**Action**
 >3+ Intellect points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Enhanced-Body
 ---
-
-
 ## Enhanced Body
 >**Enabler**
 

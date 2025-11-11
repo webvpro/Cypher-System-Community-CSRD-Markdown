@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Embraced-by-Darkness
 ---
-
-
 ## Embraced by Darkness
 >**Action**
 >6 Intellect points

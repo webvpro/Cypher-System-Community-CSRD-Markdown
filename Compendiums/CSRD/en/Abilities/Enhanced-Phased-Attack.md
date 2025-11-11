@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Enhanced-Phased-Attack
 ---
-
-
 ## Enhanced Phased Attack
 >**Enabler**
 >5 Intellect points

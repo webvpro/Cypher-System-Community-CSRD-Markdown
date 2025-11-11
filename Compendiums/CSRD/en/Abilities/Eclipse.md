@@ -22,8 +22,6 @@ categories:
   - ''
 id: Eclipse
 ---
-
-
 ## Eclipse
 >**Action**
 >2 Intellect points

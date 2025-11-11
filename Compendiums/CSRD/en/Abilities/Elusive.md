@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Elusive
 ---
-
-
 ## Elusive
 >**Enabler**
 >2 Speed points

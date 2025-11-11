@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Enhanced-Speed
 ---
-
-
 ## Enhanced Speed
 >**Enabler**
 

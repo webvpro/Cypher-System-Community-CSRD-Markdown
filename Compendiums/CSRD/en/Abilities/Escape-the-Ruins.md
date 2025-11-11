@@ -22,8 +22,6 @@ categories:
   - NA
 id: Escape-the-Ruins
 ---
-
-
 ## Escape the Ruins
 >**Action**
 >6 Intellect points

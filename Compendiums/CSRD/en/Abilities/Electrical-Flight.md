@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Electrical-Flight
 ---
-
-
 ## Electrical Flight
 >**Action**
 >5 Intellect points

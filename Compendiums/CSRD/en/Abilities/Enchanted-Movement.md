@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Enchanted-Movement
 ---
-
-
 ## Enchanted Movement
 >**Action**
 >4+ Intellect points

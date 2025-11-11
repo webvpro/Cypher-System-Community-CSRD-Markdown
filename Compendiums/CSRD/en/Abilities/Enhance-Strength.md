@@ -22,8 +22,6 @@ categories:
   - Task
 id: Enhance-Strength
 ---
-
-
 ## Enhance Strength
 >**Action**
 >3 Intellect points

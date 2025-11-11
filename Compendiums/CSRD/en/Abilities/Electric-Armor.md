@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Electric-Armor
 ---
-
-
 ## Electric Armor
 >**Enabler**
 >4 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Transform
 id: Enlarge
 ---
-
-
 ## Enlarge
 >**Action**
 >1+ Might point

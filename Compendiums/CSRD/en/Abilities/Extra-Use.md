@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Extra-Use
 ---
-
-
 ## Extra Use
 >**Action**
 >3 Intellect points

@@ -22,8 +22,6 @@ categories:
   - Support
 id: Encouraging-Presence
 ---
-
-
 ## Encouraging Presence
 >**Action**
 >2 Intellect points

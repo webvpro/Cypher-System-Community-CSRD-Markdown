@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Escape
 ---
-
-
 ## Escape
 >**Action**
 >2 Speed points

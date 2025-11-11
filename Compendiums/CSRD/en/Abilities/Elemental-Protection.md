@@ -24,8 +24,6 @@ categories:
   - Support
 id: Elemental-Protection
 ---
-
-
 ## Elemental Protection
 >**Action**
 >4+ Intellect points

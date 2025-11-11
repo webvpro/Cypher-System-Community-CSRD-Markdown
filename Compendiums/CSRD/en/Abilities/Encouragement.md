@@ -22,8 +22,6 @@ categories:
   - Support
 id: Encouragement
 ---
-
-
 ## Encouragement
 >**Action**
 >1 Intellect point

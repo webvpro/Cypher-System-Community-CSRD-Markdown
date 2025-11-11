@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Embrace-the-Night
 ---
-
-
 ## Embrace the Night
 >**Action**
 >7+ Intellect points

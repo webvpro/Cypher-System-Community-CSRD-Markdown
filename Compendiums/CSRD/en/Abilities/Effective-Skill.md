@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Effective-Skill
 ---
-
-
 ## Effective Skill
 >**Enabler**
 

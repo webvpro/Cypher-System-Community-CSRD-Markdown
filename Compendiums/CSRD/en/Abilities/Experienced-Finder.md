@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Experienced-Finder
 ---
-
-
 ## Experienced Finder
 >**Action**
 >6+ Intellect points

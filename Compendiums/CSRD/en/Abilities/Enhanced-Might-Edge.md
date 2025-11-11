@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Enhanced-Might-Edge
 ---
-
-
 ## Enhanced Might Edge
 >**Enabler**
 

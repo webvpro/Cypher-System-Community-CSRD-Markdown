@@ -24,8 +24,6 @@ categories:
   - Support
 id: Energize-Creature
 ---
-
-
 ## Energize Creature
 >**Action**
 >6+ Might points
