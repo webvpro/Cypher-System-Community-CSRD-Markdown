@@ -22,8 +22,6 @@ categories:
   - NA
 id: Resource-Seeker
 ---
-
-
 ## Resource Seeker
 >**Action**
 >3+ Intellect points

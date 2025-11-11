@@ -24,8 +24,6 @@ categories:
   - Support
 id: Reveal
 ---
-
-
 ## Reveal
 >**Action**
 >2+ Intellect points

@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Robot-Evolution
 ---
-
-
 ## Robot Evolution
 >**Enabler**
 

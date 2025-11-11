@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Regeneration
 ---
-
-
 ## Regeneration
 >**Action**
 >6 Intellect points

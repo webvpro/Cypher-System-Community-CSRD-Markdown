@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Reading-Decomposition
 ---
-
-
 ## Reading Decomposition
 >**Action**
 >3 Intellect point

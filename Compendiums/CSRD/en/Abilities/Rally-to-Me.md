@@ -22,8 +22,6 @@ categories:
   - Support
 id: Rally-to-Me
 ---
-
-
 ## Rally to Me
 >**Action**
 >2 Intellect points

@@ -26,8 +26,6 @@ categories:
   - Task
 id: Rapid-Processing
 ---
-
-
 ## Rapid Processing
 >**Action**
 >6 Intellect points

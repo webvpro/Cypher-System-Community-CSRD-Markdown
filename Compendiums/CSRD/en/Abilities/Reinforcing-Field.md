@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Reinforcing-Field
 ---
-
-
 ## Reinforcing Field
 >**Action**
 >6+ Intellect points

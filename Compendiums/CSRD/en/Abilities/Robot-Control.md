@@ -22,8 +22,6 @@ categories:
   - Control
 id: Robot-Control
 ---
-
-
 ## Robot Control
 >**Action**
 >2+ Intellect points

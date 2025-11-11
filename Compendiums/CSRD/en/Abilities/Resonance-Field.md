@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Resonance-Field
 ---
-
-
 ## Resonance Field
 >**Action**
 >1 Intellect point

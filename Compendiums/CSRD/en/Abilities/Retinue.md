@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Retinue
 ---
-
-
 ## Retinue
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Magic
 id: Repeated-Rituals
 ---
-
-
 ## Repeated Rituals
 >**Enabler**
 If you’ve successfully completed a ritual in the past, tasks for performing that ritual again are eased by two steps. Enabler

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Ray-of-Confusion
 ---
-
-
 ## Ray of Confusion
 >**Action**
 >2 Intellect points

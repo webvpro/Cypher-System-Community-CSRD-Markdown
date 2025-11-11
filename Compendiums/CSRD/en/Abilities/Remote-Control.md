@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Remote-Control
 ---
-
-
 ## Remote Control
 >**Action**
 >5 Intellect points

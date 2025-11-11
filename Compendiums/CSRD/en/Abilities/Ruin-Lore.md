@@ -20,8 +20,6 @@ categories:
   - Task
 id: Ruin-Lore
 ---
-
-
 ## Ruin Lore
 >**Enabler**
 

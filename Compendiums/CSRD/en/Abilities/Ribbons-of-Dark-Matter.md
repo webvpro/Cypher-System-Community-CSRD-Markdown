@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Ribbons-of-Dark-Matter
 ---
-
-
 ## Ribbons of Dark Matter
 >**Action**
 >2 Intellect points

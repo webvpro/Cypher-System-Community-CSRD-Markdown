@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Return-to-Sender
 ---
-
-
 ## Return to Sender
 >**Enabler**
 >3 Speed points

@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Rapid-Attack
 ---
-
-
 ## Rapid Attack
 >**Enabler**
 >3 Speed points

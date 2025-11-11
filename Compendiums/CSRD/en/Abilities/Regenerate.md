@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Regenerate
 ---
-
-
 ## Regenerate
 >**Action**
 

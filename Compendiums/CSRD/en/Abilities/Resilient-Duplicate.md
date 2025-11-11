@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Resilient-Duplicate
 ---
-
-
 ## Resilient Duplicate
 >**Enabler**
 

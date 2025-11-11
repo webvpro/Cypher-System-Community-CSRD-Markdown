@@ -20,8 +20,6 @@ categories:
   - Craft
 id: Robot-Upgrade
 ---
-
-
 ## Robot Upgrade
 >**Action**
 

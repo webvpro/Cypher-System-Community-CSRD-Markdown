@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Resuscitate
 ---
-
-
 ## Resuscitate
 >**Action**
 >6 Intellect points

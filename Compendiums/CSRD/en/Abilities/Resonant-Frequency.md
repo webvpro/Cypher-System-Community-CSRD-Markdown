@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Resonant-Frequency
 ---
-
-
 ## Resonant Frequency
 >**Action**
 

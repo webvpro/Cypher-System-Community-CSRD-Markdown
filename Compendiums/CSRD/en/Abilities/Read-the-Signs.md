@@ -22,8 +22,6 @@ categories:
   - Information
 id: Read-the-Signs
 ---
-
-
 ## Read the Signs
 >**Action**
 >4 Intellect points

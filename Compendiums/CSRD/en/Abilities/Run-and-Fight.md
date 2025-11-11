@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Run-and-Fight
 ---
-
-
 ## Run and Fight
 >**Action**
 >4 Might points

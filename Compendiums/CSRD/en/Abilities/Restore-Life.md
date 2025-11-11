@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Restore-Life
 ---
-
-
 ## Restore Life
 >**Action**
 >9+ Intellect points

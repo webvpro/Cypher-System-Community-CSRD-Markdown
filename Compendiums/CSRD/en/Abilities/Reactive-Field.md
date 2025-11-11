@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Reactive-Field
 ---
-
-
 ## Reactive Field
 >**Enabler**
 

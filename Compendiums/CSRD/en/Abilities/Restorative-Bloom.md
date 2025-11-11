@@ -24,8 +24,6 @@ categories:
   - Fantasy
 id: Restorative-Bloom
 ---
-
-
 ## Restorative Bloom
 >**Action**
 >5 Might points

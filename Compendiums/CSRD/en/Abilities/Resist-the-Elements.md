@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Resist-the-Elements
 ---
-
-
 ## Resist the Elements
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Reaction
 ---
-
-
 ## Reaction
 >**Enabler**
 

@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Relocate
 ---
-
-
 ## Relocate
 >**Action**
 >7 Intellect points

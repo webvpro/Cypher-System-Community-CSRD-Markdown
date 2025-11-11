@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Remote-Slap
 ---
-
-
 ## Remote Slap
 >**Action**
 >3 Intellect point

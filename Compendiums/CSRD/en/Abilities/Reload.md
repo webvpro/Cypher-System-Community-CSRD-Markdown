@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Reload
 ---
-
-
 ## Reload
 >**Enabler**
 >1 Speed point

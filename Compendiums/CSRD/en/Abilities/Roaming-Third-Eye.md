@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Roaming-Third-Eye
 ---
-
-
 ## Roaming Third Eye
 >**Enabler**
 >3 Intellect points

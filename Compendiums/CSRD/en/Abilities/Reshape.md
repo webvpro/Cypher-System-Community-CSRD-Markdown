@@ -22,8 +22,6 @@ categories:
   - Craft
 id: Reshape
 ---
-
-
 ## Reshape
 >**Action**
 >5 Intellect points

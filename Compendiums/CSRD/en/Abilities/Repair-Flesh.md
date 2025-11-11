@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Repair-Flesh
 ---
-
-
 ## Repair Flesh
 >**Action**
 >3 Intellect points

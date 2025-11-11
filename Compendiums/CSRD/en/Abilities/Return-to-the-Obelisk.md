@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Return-to-the-Obelisk
 ---
-
-
 ## Return to the Obelisk
 >**Action**
 >7+ Intellect points

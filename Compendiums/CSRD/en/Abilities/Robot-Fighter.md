@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Robot-Fighter
 ---
-
-
 ## Robot Fighter
 >**Enabler**
 

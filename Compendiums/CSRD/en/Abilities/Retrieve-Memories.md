@@ -22,8 +22,6 @@ categories:
   - Information
 id: Retrieve-Memories
 ---
-
-
 ## Retrieve Memories
 >**Action**
 >3 Intellect points

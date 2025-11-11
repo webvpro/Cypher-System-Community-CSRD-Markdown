@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Resist-Underwater-Hazards
 ---
-
-
 ## Resist Underwater Hazards
 >**Enabler**
 

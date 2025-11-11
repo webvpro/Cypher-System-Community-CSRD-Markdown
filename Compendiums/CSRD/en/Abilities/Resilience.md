@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Resilience
 ---
-
-
 ## Resilience
 >**Enabler**
 

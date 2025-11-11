@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Resonant-Quake
 ---
-
-
 ## Resonant Quake
 >**Action**
 >7 Intellect points

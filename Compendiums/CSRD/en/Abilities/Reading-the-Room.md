@@ -22,8 +22,6 @@ categories:
   - Information
 id: Reading-the-Room
 ---
-
-
 ## Reading the Room
 >**Action**
 >3 Intellect points

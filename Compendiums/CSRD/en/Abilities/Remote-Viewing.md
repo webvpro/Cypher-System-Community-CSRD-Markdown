@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Remote-Viewing
 ---
-
-
 ## Remote Viewing
 >**Action**
 >6 Intellect points

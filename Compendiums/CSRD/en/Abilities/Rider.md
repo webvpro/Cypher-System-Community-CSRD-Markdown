@@ -21,8 +21,6 @@ categories:
   - Weird-West
 id: Rider
 ---
-
-
 ## Rider
 >**Enabler**
 

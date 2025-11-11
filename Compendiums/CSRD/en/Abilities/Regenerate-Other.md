@@ -22,8 +22,6 @@ categories:
   - Support
 id: Regenerate-Other
 ---
-
-
 ## Regenerate Other
 >**Action**
 >9 Might points

@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Resilient-Ice-Armor
 ---
-
-
 ## Resilient Ice Armor
 >**Enabler**
 

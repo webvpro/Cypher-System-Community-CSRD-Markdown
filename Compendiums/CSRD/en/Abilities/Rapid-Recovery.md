@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Rapid-Recovery
 ---
-
-
 ## Rapid Recovery
 >**Enabler**
 
