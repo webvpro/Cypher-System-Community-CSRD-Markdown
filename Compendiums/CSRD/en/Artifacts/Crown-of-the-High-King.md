@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Crown-of-the-High-King
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Crown of the High King
 collection: Artifacts

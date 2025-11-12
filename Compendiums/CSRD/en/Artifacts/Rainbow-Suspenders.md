@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Rainbow-Suspenders
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Rainbow Suspenders
 collection: Artifacts

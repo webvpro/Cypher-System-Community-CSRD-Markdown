@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Scarf-of-Love-and-Death
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Scarf of Love and Death
 collection: Artifacts

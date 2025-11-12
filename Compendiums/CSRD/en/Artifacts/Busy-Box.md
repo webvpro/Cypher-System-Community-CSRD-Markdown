@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Busy-Box
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Busy Box
 collection: Artifacts

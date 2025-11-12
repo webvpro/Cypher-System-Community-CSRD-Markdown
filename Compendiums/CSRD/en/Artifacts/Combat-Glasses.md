@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Combat-Glasses
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Combat Glasses
 collection: Artifacts

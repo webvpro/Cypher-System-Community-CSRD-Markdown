@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Meatboy
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Meatboy
 collection: Artifacts

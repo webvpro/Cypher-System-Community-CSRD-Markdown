@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Pearls-of-Your-Grandmother-the-Witch
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: 'Pearls of Your Grandmother, the Witch'
 collection: Artifacts

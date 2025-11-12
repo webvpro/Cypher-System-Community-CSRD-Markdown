@@ -4,7 +4,7 @@ aliases:
 tags:
   - Compendium/CSRD/en/Creatures-NPCs
   - Creature
-  - Creature/Kind/Super Villain
+  - Creature/Kind/Super-Villain
   - Creature/Level/7
   - Creature/Armor/0
   - Creature/Health/70

@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Color-Cannon
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Color Cannon
 collection: Artifacts

@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Goodest-Gargoyle
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Goodest Gargoyle
 collection: Artifacts

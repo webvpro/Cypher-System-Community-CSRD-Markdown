@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Tattoo-of-Tomorrows-Edge
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Tattoo of Tomorrow’s Edge
 collection: Artifacts

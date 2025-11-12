@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Keys of Close to You
 collection: Artifacts

@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Ask-Me-Anything
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Ask Me Anything
 collection: Artifacts

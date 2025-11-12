@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Cats-Hide-Their-Paws
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Cats Hide Their Paws
 collection: Artifacts

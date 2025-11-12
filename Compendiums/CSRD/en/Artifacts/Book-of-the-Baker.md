@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Book-of-the-Baker
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Book of the Baker
 collection: Artifacts

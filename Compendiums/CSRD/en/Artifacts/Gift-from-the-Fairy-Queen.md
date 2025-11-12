@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Gift-from-the-Fairy-Queen
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Gift from the Fairy Queen
 collection: Artifacts

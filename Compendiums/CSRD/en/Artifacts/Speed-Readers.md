@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Speed-Readers
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Speed Readers
 collection: Artifacts

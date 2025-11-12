@@ -2,7 +2,7 @@
 aliases:
   - Tap Currents
 tags:
-  - Compendium/CSRD/en/Abilities/Tap Currents
+  - Compendium/CSRD/en/Abilities/Tap-Currents
   - Ability
   - Ability/Action
   - Ability/Cost/

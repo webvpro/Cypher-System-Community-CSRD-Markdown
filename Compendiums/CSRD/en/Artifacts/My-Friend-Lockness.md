@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/My-Friend-Lockness
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: My Friend Lockness
 collection: Artifacts

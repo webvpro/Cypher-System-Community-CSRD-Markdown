@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Magicians-Protective-Amulet
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Magician’s Protective Amulet
 collection: Artifacts

@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Vanity-of-the-Vanities
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Vanity of the Vanities
 collection: Artifacts

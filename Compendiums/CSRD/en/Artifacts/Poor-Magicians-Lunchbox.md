@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Poor-Magicians-Lunchbox
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Poor Magician’s Lunchbox
 collection: Artifacts

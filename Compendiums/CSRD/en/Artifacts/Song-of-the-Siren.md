@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Song-of-the-Siren
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Song of the Siren
 collection: Artifacts

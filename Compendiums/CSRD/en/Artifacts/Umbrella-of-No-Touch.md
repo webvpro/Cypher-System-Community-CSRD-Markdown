@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Umbrella-of-No-Touch
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Umbrella of No-Touch
 collection: Artifacts

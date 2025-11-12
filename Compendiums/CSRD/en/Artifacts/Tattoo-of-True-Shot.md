@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Tattoo-of-True-Shot
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Tattoo of True Shot
 collection: Artifacts

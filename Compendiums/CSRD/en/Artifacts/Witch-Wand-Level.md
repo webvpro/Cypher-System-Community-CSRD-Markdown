@@ -5,7 +5,7 @@ tags:
   - Compendium/CSRD/en/Artifacts/Witch-Wand-Level
   - Artifact
   - Artifact/Modern-Fantasy
-  - Content/Modern Magic Artifacts
+  - Content/Modern-Magic-Artifacts
   - Content/Modern-Magic
 title: Witch Wand Level
 collection: Artifacts
