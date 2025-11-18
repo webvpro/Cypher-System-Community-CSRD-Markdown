@@ -20,8 +20,6 @@ categories:
   - Support
 id: Attack-Flourish
 ---
-
-
 ## Attack Flourish
 >**Enabler**
 

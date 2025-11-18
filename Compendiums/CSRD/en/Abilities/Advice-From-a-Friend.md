@@ -22,8 +22,6 @@ categories:
   - Support
 id: Advice-From-a-Friend
 ---
-
-
 ## Advice From a Friend
 >**Action**
 >1 Intellect point

@@ -22,8 +22,6 @@ categories:
   - Task
 id: Anticipation
 ---
-
-
 ## Anticipation
 >**Action**
 >1 Intellect point

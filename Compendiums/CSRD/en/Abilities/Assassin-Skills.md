@@ -20,8 +20,6 @@ categories:
   - Task
 id: Assassin-Skills
 ---
-
-
 ## Assassin Skills
 >**Enabler**
 

@@ -24,8 +24,6 @@ categories:
   - Task
 id: Amplify-Sounds
 ---
-
-
 ## Amplify Sounds
 >**Action**
 >2 Might points

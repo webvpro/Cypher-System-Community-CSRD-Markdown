@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Animal-Shape
 ---
-
-
 ## Animal Shape
 >**Action**
 >3+ Intellect points

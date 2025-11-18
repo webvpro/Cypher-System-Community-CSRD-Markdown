@@ -20,8 +20,6 @@ categories:
   - Cure
 id: Aquatic-Combatant
 ---
-
-
 ## Aquatic Combatant
 >**Enabler**
 

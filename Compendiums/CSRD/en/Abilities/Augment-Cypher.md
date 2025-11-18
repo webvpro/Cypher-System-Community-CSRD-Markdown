@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Augment-Cypher
 ---
-
-
 ## Augment Cypher
 >**Enabler**
 >2+ Intellect points

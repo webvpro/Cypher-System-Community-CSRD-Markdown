@@ -20,8 +20,6 @@ categories:
   - Task
 id: Advantages-of-Being-Big
 ---
-
-
 ## Advantages of Being Big
 >**Enabler**
 

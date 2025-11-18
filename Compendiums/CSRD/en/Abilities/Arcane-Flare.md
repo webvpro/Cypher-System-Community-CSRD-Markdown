@@ -24,8 +24,6 @@ categories:
   - Special-Attack
 id: Arcane-Flare
 ---
-
-
 ## Arcane Flare
 >**Action**
 >1 Intellect point

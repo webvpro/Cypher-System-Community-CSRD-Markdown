@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Again-and-Again
 ---
-
-
 ## Again and Again
 >**Enabler**
 >8 Speed points

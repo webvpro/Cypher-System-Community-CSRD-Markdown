@@ -22,8 +22,6 @@ categories:
   - Protection
 id: Anticipate-Attack
 ---
-
-
 ## Anticipate Attack
 >**Action**
 >4 Intellect points

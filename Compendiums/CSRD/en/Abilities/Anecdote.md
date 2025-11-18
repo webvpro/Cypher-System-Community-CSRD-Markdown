@@ -22,8 +22,6 @@ categories:
   - Support
 id: Anecdote
 ---
-
-
 ## Anecdote
 >**Action**
 >2 Intellect points

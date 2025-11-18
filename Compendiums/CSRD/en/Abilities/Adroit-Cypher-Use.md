@@ -20,8 +20,6 @@ categories:
   - Meta
 id: Adroit-Cypher-Use
 ---
-
-
 ## Adroit Cypher Use
 >**Enabler**
 

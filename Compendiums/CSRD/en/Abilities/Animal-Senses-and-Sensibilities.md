@@ -22,8 +22,6 @@ categories:
   - Task
 id: Animal-Senses-and-Sensibilities
 ---
-
-
 ## Animal Senses and Sensibilities
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Special-Attack
 id: Attack-and-Attack-Again
 ---
-
-
 ## Attack and Attack Again
 >**Enabler**
 

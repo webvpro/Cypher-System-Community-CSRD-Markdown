@@ -22,8 +22,6 @@ categories:
   - Support
 id: Accelerate
 ---
-
-
 ## Accelerate
 >**Action**
 >4+ Intellect points

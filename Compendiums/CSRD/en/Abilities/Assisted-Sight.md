@@ -22,8 +22,6 @@ categories:
   - NA
 id: Assisted-Sight
 ---
-
-
 ## Assisted Sight
 >**Enabler**
 >3 Intellect points

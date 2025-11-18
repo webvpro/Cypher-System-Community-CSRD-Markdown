@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Advantage-to-Disadvantage
 ---
-
-
 ## Advantage to Disadvantage
 >**Action**
 >3 Speed points

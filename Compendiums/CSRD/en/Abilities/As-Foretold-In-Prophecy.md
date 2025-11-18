@@ -22,8 +22,6 @@ categories:
   - Task
 id: As-Foretold-In-Prophecy
 ---
-
-
 ## As Foretold in Prophecy
 >**Action**
 

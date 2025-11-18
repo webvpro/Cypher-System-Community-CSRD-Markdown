@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Alley-Rat
 ---
-
-
 ## Alley Rat
 >**Action**
 >6 Intellect points

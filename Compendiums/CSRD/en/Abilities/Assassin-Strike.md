@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Assassin-Strike
 ---
-
-
 ## Assassin Strike
 >**Enabler**
 >5 Intellect points

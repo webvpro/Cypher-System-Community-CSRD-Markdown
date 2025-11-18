@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Always-Tinkering
 ---
-
-
 ## Always Tinkering
 >**Action**
 

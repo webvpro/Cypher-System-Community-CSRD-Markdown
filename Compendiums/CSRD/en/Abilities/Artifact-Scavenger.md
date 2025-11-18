@@ -22,8 +22,6 @@ categories:
   - Meta
 id: Artifact-Scavenger
 ---
-
-
 ## Artifact Scavenger
 >**Action**
 >6 Intellect points + 2 XP

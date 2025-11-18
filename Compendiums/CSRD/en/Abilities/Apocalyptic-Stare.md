@@ -20,8 +20,6 @@ categories:
   - NA
 id: Apocalyptic-Stare
 ---
-
-
 ## Apocalyptic Stare
 >**Enabler**
 

@@ -20,8 +20,6 @@ categories:
   - Support
 id: Applying-Your-Knowledge
 ---
-
-
 ## Applying Your Knowledge
 >**Action**
 

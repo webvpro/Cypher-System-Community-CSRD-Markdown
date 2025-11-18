@@ -22,8 +22,6 @@ categories:
   - Control
 id: Assume-Control
 ---
-
-
 ## Assume Control
 >**Action**
 >6+ Intellect points

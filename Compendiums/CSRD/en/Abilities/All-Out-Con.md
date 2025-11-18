@@ -22,8 +22,6 @@ categories:
   - Meta
 id: All-Out-Con
 ---
-
-
 ## All-Out Con
 >**Action**
 >7 Intellect points

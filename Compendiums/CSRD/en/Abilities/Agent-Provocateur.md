@@ -20,8 +20,6 @@ categories:
   - Task
 id: Agent-Provocateur
 ---
-
-
 ## Agent Provocateur
 >**Enabler**
 

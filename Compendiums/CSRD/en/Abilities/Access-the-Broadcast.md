@@ -26,8 +26,6 @@ categories:
   - Modern-Magic
 id: Access-the-Broadcast
 ---
-
-
 ## Access the Broadcast
 >**Action**
 >2+ Intellect point

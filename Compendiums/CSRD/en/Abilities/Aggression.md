@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Aggression
 ---
-
-
 ## Aggression
 >**Enabler**
 >2 Might points

@@ -22,8 +22,6 @@ categories:
   - Control
 id: Advanced-Command
 ---
-
-
 ## Advanced Command
 >**Action**
 >7 Intellect points

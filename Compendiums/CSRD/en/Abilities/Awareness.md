@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Awareness
 ---
-
-
 ## Awareness
 >**Action**
 >3 Intellect points

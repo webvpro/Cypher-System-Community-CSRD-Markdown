@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Amazing-Copying
 ---
-
-
 ## Amazing Copying
 >**Enabler**
 

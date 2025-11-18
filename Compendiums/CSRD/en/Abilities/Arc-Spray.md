@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Arc-Spray
 ---
-
-
 ## Arc Spray
 >**Action**
 >3 Speed points

@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Absorb-Kinetic-Energy
 ---
-
-
 ## Absorb Kinetic Energy
 >**Enabler**
 

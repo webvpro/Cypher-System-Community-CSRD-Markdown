@@ -26,8 +26,6 @@ categories:
   - Fantasy
 id: Animal-Scrying
 ---
-
-
 ## Animal Scrying
 >**Action**
 >4+ Intellect points

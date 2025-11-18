@@ -24,8 +24,6 @@ categories:
   - Superhero
 id: Amazing-Leap
 ---
-
-
 ## Amazing Leap
 >**Action**
 >2 Might points

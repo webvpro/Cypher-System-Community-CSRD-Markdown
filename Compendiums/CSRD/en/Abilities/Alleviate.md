@@ -22,8 +22,6 @@ categories:
   - Cure
 id: Alleviate
 ---
-
-
 ## Alleviate
 >**Action**
 >3 Intellect points

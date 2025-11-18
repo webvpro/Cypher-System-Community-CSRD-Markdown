@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Absorb-Energy
 ---
-
-
 ## Absorb Energy
 >**Action**
 >7 Intellect points

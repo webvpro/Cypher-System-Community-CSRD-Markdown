@@ -22,8 +22,6 @@ categories:
   - Task
 id: Action-Processor
 ---
-
-
 ## Action Processor
 >**Action**
 >4 Intellect points

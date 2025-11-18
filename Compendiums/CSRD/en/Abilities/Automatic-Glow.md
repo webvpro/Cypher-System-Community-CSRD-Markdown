@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Automatic-Glow
 ---
-
-
 ## Automatic Glow
 >**Enabler**
 

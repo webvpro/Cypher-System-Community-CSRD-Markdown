@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Answering-Attack
 ---
-
-
 ## Answering Attack
 >**Enabler**
 >3 Speed points

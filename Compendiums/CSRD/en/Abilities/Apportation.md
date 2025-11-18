@@ -22,8 +22,6 @@ categories:
   - Movement
 id: Apportation
 ---
-
-
 ## Apportation
 >**Action**
 >4 Intellect points

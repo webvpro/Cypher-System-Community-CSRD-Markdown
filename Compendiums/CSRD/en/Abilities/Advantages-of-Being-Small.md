@@ -22,8 +22,6 @@ categories:
   - Superhero
 id: Advantages-of-Being-Small
 ---
-
-
 ## Advantages of Being Small
 >**Enabler**
 
