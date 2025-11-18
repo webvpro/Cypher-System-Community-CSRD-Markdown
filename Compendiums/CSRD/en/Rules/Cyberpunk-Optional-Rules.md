@@ -9,7 +9,6 @@ collection: Rules
 kind: Rules
 id: Cyberpunk-Optional-Rules
 ---
-
 # Cyberpunk Optional Rules
 
 ## Artificial Intelligence

@@ -70,21 +70,19 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 
 ### Warrior Player Intrusions
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
+
 >**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
 
 >**Old Friend:** A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.
 
 >**Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
-
 ### Warrior Stat Pools
-| **Stat** | **Pool Starting Value** |
-| -- | ----------------------------- |
-| [[Might\|Might]] | 10 |
-| [[Speed\|Speed]] | 10 |
-| [[Intellect\|Intellect]] | 8 |
-
+| **Stat**                 | **Pool Starting Value** |
+| ------------------------ | ----------------------- |
+| [[Might\|Might]]         | 10                      |
+| [[Speed\|Speed]]         | 10                      |
+| [[Intellect\|Intellect]] | 8                       |
 You get 6 additional points to divide among your stat Pools however you wish.
-
 ### First-Tier Warrior
 >**First-tier warriors have the following abilities**
 >**Effort:** Your Effort is 1.

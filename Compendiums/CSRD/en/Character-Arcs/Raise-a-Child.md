@@ -10,7 +10,7 @@ kind: Arc
 categories: []
 id: Raise-a-Child
 ---
-## New Discovery
+## Raise a Child
 >You raise a child to adulthood. It can be your biological child or one you adopt. It can even be a child taken under your wing, more a young protégé than a son or daughter. This is obviously a very long-term arc.
 ### Opening: Sharing Your Home
 >The child now lives with you.

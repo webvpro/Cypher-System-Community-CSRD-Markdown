@@ -9,11 +9,9 @@ collection: Character-Options
 kind: Character-Options
 id: Cyberpunk-Character-Options
 ---
-
 # Cyberpunk Character Options
 
 ## Cyberpunk Types
-
 The standard character types are meant to be generic enough to allow you
 to create most characters in any genre, especially with the use of
 flavors. However, it's also possible to directly customize the various
@@ -27,55 +25,51 @@ Cyberpunk is a near-future genre where technology and firearms are
 common. To account for this, the types in the Cypher System Rulebook
 have been updated as follows:
 
-Solo: A variant of the Warrior, with technological options.
+**Solo:** A variant of the Warrior, with technological options.
 
-Hotshot: A variant of the Explorer, with technological options and
+**Hotshot:** A variant of the Explorer, with technological options and
 additional abilities relating to guns.
 
-Broker: A variant of the Speaker, without overtly supernatural
+**Broker:** A variant of the Speaker, without overtly supernatural
 abilities, and with technological options and additional abilities
 relating to guns.
 
-Tech: A variant of the Adept, without overtly supernatural abilities,
+**Tech:** A variant of the Adept, without overtly supernatural abilities,
 and with technological options and additional abilities relating to
 guns.
-
 ## Standard Cyberpunk Abilities
-
 In a cyberpunk world, easy access to computers, hacking, and cybernetics
 means that all characters (regardless of type) can choose the following
 type abilities. Unlike choosing an ability from a flavor, the character
 isn't required to permanently give up access to one of their type's
 abilities---all of these options are in addition to the possible choices
 from their type's ability list.
-
 ### Tier 1
-
-Optical Hack (2+ Intellect points): You reboot the technological optical
+**Optical Hack (2+ Intellect points):** You reboot the technological optical
 sensors of a target within short range (such as a robot, surveillance
 camera, or person with cybernetic optics). If your Intellect-based
 attack against them succeeds, the target is blinded for one round. In
 addition to the normal options for using Effort, you can choose to use
 Effort to increase the range (long for one level of Effort, very long
-for two, or 1000 feet (300 m) for three). Action.
+for two, or 1000 feet (300 m) for three). Action. ^optical-hack
 
 A blinded foe acts as if they're in total darkness; if the attacker has
 a sense of where the opponent might be (such as hearing them speak),
 their attack is only hindered by four steps, otherwise the attack
 automatically fails.
 
-Overheat Hack (1 Intellect point): You overheat the electrical system of
+**Overheat Hack (1 Intellect point):** You overheat the electrical system of
 a creature (such as a robot or cyberware-equipped person) or electronic
 object (such as a computer or technological vehicle) within short range
 that you can see. If your Intellect-based attack succeeds against the
 creature, you inflict 3 points of fire damage. If the target is an
 object rather than a creature (such as a computer or vehicle), this
-attack is eased. Action.
+attack is eased. Action. ^overheat-hack
 
 Abilities that are hacks require you to use a computer interface or
 cyberware (such as a communication implant) to affect your foe.
 
-Sensor Scan (2 Intellect points): You scan an area equal in size to a
+**Sensor Scan (2 Intellect points):** You scan an area equal in size to a
 10-foot (3 m) cube, including all objects or creatures within that area;
 the results of your scan are compared to a database of information
 (facial recognition, object recognition, police database, and so on) to
@@ -95,23 +89,19 @@ on harming you. In the third, you don't know if the creature is
 dangerous. The information you do get from the initial scan probably
 gives you enough of a lead to perform an internet search to find more
 information. Many materials (such as lead shielding, a Faraday cage, or
-concrete) prevent or hinder scanning. Action.
-
+concrete) prevent or hinder scanning. Action. ^sensor-scan
 ### Tier 2
-
-Armored Chrome: You have +1 to Armor if you do not wear physical armor.
+**Armored Chrome:** You have +1 to Armor if you do not wear physical armor.
 You can only select this ability if you have at least three significant
 pieces of cyberware that (at the GM's discretion) are durable enough to
-provide some protection from attacks. Enabler.
+provide some protection from attacks. Enabler. ^armored-chrome
 
-Bonus Cypher App: You can bear one additional app cypher (your cypher
+**Bonus Cypher App:** You can bear one additional app cypher (your cypher
 limit increases by one, but only if the extra cypher is an app cypher).
 When you advance to a tier where you can select Expert Cypher Use,
 Adroit Cypher Use, or Master Cypher Use, you can replace this ability
-with the cypher ability you qualify for.
-
+with the cypher ability you qualify for. ^bonus-cypher-app
 ## Hacks
-
 A hack is an attempt to control, override, shut down, or influence a
 computer system, usually performed by exploiting a weakness in the
 system, such as spoofing an administrator's login, using a "back door"
@@ -145,505 +135,321 @@ without these options, the PC can't use a hack.
 
 Netrunning is a more intensive form of hacking, requiring a deeper
 connection and often an immersive virtual reality interface.
-
 ## Solo
-
 The Solo type is a cyberpunk variant of the Warrior. Mercenaries,
 soldiers, security guards, assassins, brawlers, and police officers are
 usually Solos.
-
 ### Solo Stat Pools
 
-Stat Pool Starting Value
-
-Might 10
-
-Speed 10
-
-Intellect 8
-
+| **Stat**                 | **Pool Starting Value** |
+| ------------------------ | ----------------------- |
+| [[Might\|Might]]         | 10                      |
+| [[Speed\|Speed]]         | 10                      |
+| [[Intellect\|Intellect]] | 8                       |
 You get 6 additional points to divide among your stat pools however you
 wish.
-
 ### First-Tier Solo
-
 First-tier Solos have the following abilities:
 
-Effort: Your Effort is 1.
+**Effort:** Your Effort is 1.
 
-Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or
+**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or
 you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have
 an Intellect Edge of 0.
 
-Cypher Use: You can bear two cyphers at a time.
+**Cypher Use:** You can bear two cyphers at a time.
 
-Weapons: You are practiced with light, medium, and heavy weapons and are
+**Weapons:** You are practiced with light, medium, and heavy weapons and are
 not hindered when using any kind of weapon. Enabler.
 
-Starting Equipment: Appropriate clothing, a communicator implant, and
+**Starting Equipment:** Appropriate clothing, a communicator implant, and
 \$5,700.
 
-Special Abilities: Choose four of the abilities listed below. You can't
+**Special Abilities:** Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
-
-- Bash
-
-- Combat Prowess
-
-- Control the Field
-
-- Datajack
-
-- Hacker
-
-- Improved Edge
-
-- Machine Interface
-
-- No Need for Weapons
-
-- Optical Hack
-
-- Overwatch
-
-- Physical Skills
-
-- Practiced in Armor
+- [[Bash]]
+- [[Combat-Prowess|Combat Prowess]]
+- [[Control-the-Field|Control the Field]]
+- [[Datajack]]
+- [[Hacker]]
+- [[Improved-Edge|Improved Edge]]
+- [[Machine-Interface|Machine Interface]]
+- [[No-Need-for-Weapons|No Need for Weapons]]
+- [[#^optical-hack|Optical Hack]]
+- [[Overwatch|Overwatch]]
+- [[Physical-Skills|Physical Skills]]
+- [[Practiced-in-Armor|Practiced in Armor]]
 
 Most people in a cyberpunk setting don't wear armor, except maybe a flak
 jacket or bulletproof vest. Those who do wear modern armor tend to look
 like cops.
 
-- Quick Throw
-
-- Scramble Machine
-
-Scramble Machine counts as a hack.
-
-- Sensor Scan
-
-- Swipe
-
-- Tech Skills
-
-- Tinker
-
-- Trained Without Armor
-
+- [[Quick-Throw|Quick Throw]]
+- [[Scramble-Machine]] 
+	Scramble Machine counts as a hack
+- [[#^sensor-scan|Sensor Scan]]
+- [[Swipe|Swipe]]
+- [[Tech-Skills|Tech Skills]]
+- [[Tinker|Tinker]]
+- [[Trained-Without-Armor|Trained Without Armor]]
 ### Second-Tier Solo
-
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Armored Chrome
-
-- Bonus Cypher App
-
-- Crushing Blow
-
-- Distant Interface
-
-Distant Interface counts as a hack. You can use it to affect a foe's
-cyberware (such as moving a cybernetic arm or turning off a night vision
-implant) but your attack roll is hindered by two steps (similar to
-controlling a machine you've never interacted with before).
-
-- Hemorrhage
-
-- Machine Efficiency
-
-- Reload
-
-- Skill With Attacks
-
-- Skill With Defense
-
-- Successive Attack
-
+- [[#^armored-chrome|Armored Chrome]]
+- [[#^bonus-cypher-app|Bonus Cypher App]]
+- [[Crushing-Blow|Crushing Blow]]
+- [[Distant-Interface|Distant Interface]]
+	Distant Interface counts as a hack. You can use it to affect a foe's
+	cyberware (such as moving a cybernetic arm or turning off a night vision
+	implant) but your attack roll is hindered by two steps (similar to
+	controlling a machine you've never interacted with before).
+- [[Hemorrhage|Hemorrhage]]
+- [[Machine-Efficiency|Machine Efficiency]]
+- [[Reload|Reload]]
+- [[Skill-With-Attacks|Skill With Attacks]]
+- [[Skill-With-Defense|Skill With Defense]]
+- [[Successive-Attack|Successive Attack]]
 ### Third-Tier Solo
-
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Deadly Aim
-
-- Energy Resistance
-
-- Experienced in Armor
-
-- Expert Cypher Use
-
-- Fury
-
-- Lunge
-
-- Reaction
-
-- Seize the Moment
-
-- Slice
-
-- Spray
-
-- Trick Shot
-
-- Vigilance
-
+- [[Deadly-Aim|Deadly Aim]]
+- [[Energy-Resistance|Energy Resistance]]
+- [[Experienced-in-Armor|Experienced in Armor]]
+- [[Expert-Cypher-Use|Expert Cypher Use]]
+- [[Fury|Fury]]
+- [[Lunge]]
+- [[Reaction]]
+- [[Seize-the-Moment|Seize the Moment]]
+- [[Slice|Slice]]
+- [[Spray|Spray]]
+- [[Trick-Shot|Trick Shot]]
+- [[Compendiums/CSRD/en/Cyphers/Vigilance|Vigilance]]
 ### Fourth-Tier Solo
-
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Amazing Effort
-
-- Capable Warrior
-
-- Experienced Defender
-
-- Feint
-
-- Increased Effects
-
-- Momentum
-
-- Pry Open
-
-- Robot Fighter
-
-- Snipe
-
-- Tough As Nails
-
+- [[Amazing-Effort|Amazing Effort]]
+- [[Capable-Warrior|Capable Warrior]]
+- [[Experienced-Defender|Experienced Defender]]
+- [[Feint|Feint]]
+- [[Increased-Effects|Increased Effects]]
+- [[Momentum|Momentum]]
+- [[Pry-Open|Pry Open]]
+- [[Robot-Fighter|Robot Fighter]]
+- [[Snipe|Snipe]]
+- [[Tough-as-Nails|Tough As Nails]]
 ### Fifth-Tier Solo
 
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Adroit Cypher Use
-
-- Arc Spray
-
-- Control Machine
-
-Control Machine counts as a hack.
-
-- Improved Success
-
-- Jump Attack
-
-- Mastery in Armor
-
-- Mastery With Attacks
-
-- Mastery With Defense
-
-- Parry
-
+- [[Adroit-Cypher-Use|Adroit Cypher Use]]
+- [[Arc-Spray|Arc Spray]]
+- [[Control-Machine|Control Machine]] 
+	Control Machine counts as a hack.
+- [[Improved-Success|Improved Success]]
+- [[Jump-Attack|Jump Attack]]
+- [[Mastery-in-Armor|Mastery in Armor]]
+- [[Mastery-With-Attacks|Mastery With Attacks]]
+- [[Mastery-With-Defense]]
+- [[Parry|Parry]]
 ### Sixth-Tier Solo
-
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Again and Again
-
-- Finishing Blow
-
-- Magnificent Moment
-
-- Murderer
-
-- Spin Attack
-
-- Weapon and Body
+- [[Again-and-Again|Again and Again]]
+- [[Finishing-Blow|Finishing Blow]]
+- [[Magnificent-Moment|Magnificent Moment]]
+- [[Murderer|Murderer]]
+- [[Spin-Attack|Spin Attack]]
+- [[Weapon-and-Body|Weapon and Body]]
 
 ## Hotshot
-
 The Hotshot type is a cyberpunk variant of the Explorer with a knack for
 using technology. Burglars, drivers, and scouts are usually Hotshots, as
 are some hackers and soldiers.
-
 ### Hotshot Stat Pools
 
-- Stat Pool Starting Value
-
-- Might 10
-
-- Speed 9
-
-- Intellect 9
-
+| **Stat**                 | **Pool Starting Value** |
+| ------------------------ | ----------------------- |
+| [[Might\|Might]]         | 10                      |
+| [[Speed\|Speed]]         | 9                       |
+| [[Intellect\|Intellect]] | 9                       |
 You get 6 additional points to divide among your stat pools however you
 wish.
-
 ### First-Tier Hotshot
 
 First-tier Hotshots have the following abilities:
 
-Effort: Your Effort is 1.
+**Effort:** Your Effort is 1.
 
-Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or
+**Physical Nature:** You have a Might Edge of 1 and a Speed Edge of 0, or
 you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have
 an Intellect Edge of 0.
 
-Cypher Use: You can bear two cyphers at a time.
+**Cypher Use:** You can bear two cyphers at a time.
 
-Weapons: You are practiced with light weapons, light firearms, medium
+**Weapons:** You are practiced with light weapons, light firearms, medium
 weapons, and medium firearms without penalty. You have an inability with
 heavy weapons; your attacks with heavy weapons are hindered.
 
-Starting Equipment: Appropriate clothing, a communicator implant, and
+**Starting Equipment:** Appropriate clothing, a communicator implant, and
 \$5,300.
 
-Special Abilities: Choose four of the abilities listed below. You can't
+**Special Abilities:** Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
-
-- Block
-
-- Danger Sense
-
-- Datajack
-
-- Endurance
-
-- Find the Way
-
-- Fleet of Foot
-
-- Hacker
-
-- Improved Edge
-
-- Knowledge Skills
-
-- Machine Interface
-
-- Muscles of Iron
-
-- No Need for Weapons
-
-- Optical Hack
-
-- Overheat Hack
-
-- Physical Skills
-
-- Practiced in Armor
+- [[Block|Block]]
+- [[Danger-Sense|Danger Sense]]
+- [[Datajack|Datajack]]
+- [[Endurance|Endurance]]
+- [[Find-the-Way|Find the Way]]
+- [[Fleet-of-Foot|Fleet of Foot]]
+- [[Hacker|Hacker]]
+- [[Improved-Edge|Improved Edge]]
+- [[Knowledge-Skills|Knowledge Skills]]
+- [[Machine-Interface|Machine Interface]]
+- [[Muscles-of-Iron|Muscles of Iron]]
+- [[No-Need-for-Weapons]]
+- [[#^optical-hack|Optical Hack]]
+- [[#^overheat-hack|Overheat Hack]]
+- [[Physical-Skills|Physical Skills]]
+- [[Practiced-in-Armor|Practiced in Armor]]
 
 Most people in a cyberpunk setting don't wear armor, except maybe a flak
 jacket or bulletproof vest. Those who do wear modern armor tend to look
-like cops
+like cops.
 
-- Practiced With All Weapons
-
-- Scramble Machine
-
-Scramble Machine counts as a hack.
-
-- Sensor Scan
-
-- Surging Confidence
-
-- Tech Skills
-
-Tinker
-
-Trained Without Armor
-
+- [[Practiced-With-All-Weapons|Practiced With All Weapons]]
+- [[Scramble-Machine|Scramble Machine]]
+	Scramble Machine counts as a hack.
+- [[#^sensor-scan|Sensor Scan]]
+- [[Surging-Confidence|Surging Confidence]]
+- [[Tech-Skills|Tech Skills]]
+- [[Tinker|Tinker]]
+- [[Trained-Without-Armor|Trained Without Armor]]
 ### Second-Tier Hotshot
-
 Choose four of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Armored Chrome
-
-- Bonus Cypher App
-
-- Curious
-
-- Danger Instinct
-
-- Distant Interface
-
-Distant Interface counts as a hack. You can use it to affect a foe's
-cyberware (such as moving a cybernetic arm or turning off a night vision
-implant) but your attack roll is hindered by two steps (similar to
-controlling a machine you've never interacted with before).
-
-- Enable Others
-
-- Escape
-
-- Eye for Detail
-
-- Foil Danger
-
-- Hand to Eye
-
-- Investigative Skills
-
-- Machine Efficiency
-
-- Quick Recovery
-
-- Range Increase
-
-- Skill With Defense
-
-- Stand Watch
-
-- Travel Skills
-
-- Wreck
-
+- [[#^armored-chrome|Armored Chrome]]
+- [[#^bonus-cypher-app|Bonus Cypher App]]
+- [[Curious|Curious]]
+- [[Danger-Instinct|Danger Instinct]]
+- [[Distant-Interface|Distant Interface]] 
+	Distant Interface counts as a hack. You can use it to affect a foe's
+	cyberware (such as moving a cybernetic arm or turning off a night vision
+	implant) but your attack roll is hindered by two steps (similar to
+	controlling a machine you've never interacted with before).
+- [[Enable-Others|Enable Others]]
+- [[Escape|Escape]]
+- [[Eye-for-Detail|Eye for Detail]]
+- [[Foil-Danger|Foil Danger]]
+- [[Hand-to-Eye|Hand to Eye]]
+- [[Investigative-Skills|Investigative Skills]]
+- [[Machine-Efficiency|Machine Efficiency]]
+- [[Quick-Recovery|Quick Recovery]]
+- [[Range-Increase|Range Increase]]
+- [[Skill-With-Defense|Skill With Defense]]
+- [[Stand-Watch|Stand Watch]]
+- [[Travel-Skills|Travel Skills]]
+- [[Wreck|Wreck]]
 ### Third-Tier Hotshot
-
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Controlled Fall
-
-- Experienced in Armor
-
-- Expert Cypher Use
-
-- Ignore the Pain
-
-- Obstacle Running
-
-- Resilience
-
-- Run and Fight
-
-- Seize the Moment
-
-- Skill With Attacks
-
-- Spray
-
-- Think Your Way Out
-
-- Trapfinder
-
-- Wrest From Chance
-
+- [[Controlled-Fall|Controlled Fall]]
+- [[Experienced-in-Armor|Experienced in Armor]]
+- [[Expert-Cypher-Use]]
+- [[Ignore-the-Pain|Ignore the Pain]]
+- [[Obstacle-Running|Obstacle Running]]
+- [[Resilience|Resilience]]
+- [[Run-and-Fight|Run and Fight]]
+- [[Seize-the-Moment|Seize the Moment]]
+- [[Skill-With-Attacks|Skill With Attacks]]
+- [[Spray|Spray]]
+- [[Think-Your-Way-Out|Think Your Way Out]]
+- [[Trapfinder|Trapfinder]]
+- [[Wrest-From-Chance|Wrest From Chance]]
 ### Fourth-Tier Hotshot
-
 Choose two of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Capable Warrior
-
-- Expert Skill
-
-- Increased Effects
-
-- Read the Signs
-
-- Runner
-
-- Subtle Steps
-
-- Tough As Nails
-
-- Robot Fighter
-
+- [[Capable-Warrior|Capable Warrior]]
+- [[Expert-Skill|Expert Skill]]
+- [[Increased-Effects|Increased Effects]]
+- [[Read-the-Signs|Read the Signs]]
+- [[Runner|Runner]]
+- [[Subtle-Steps|Subtle Steps]]
+- [[Tough-as-Nails|Tough As Nails]]
+- [[Robot-Fighter|Robot Fighter]]
 ### Fifth-Tier Hotshot
-
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Adroit Cypher Use
-
-- Control Machine
-
-- Free to Move
-
-- Group Friendship
-
-- Hard to Kill
-
-- Jump Attack
-
-- Mastery With Defense
-
-- Parry
-
-- Physically Gifted
-
-- Take Command
-
-- Vigilant
+- [[Adroit-Cypher-Use|Adroit Cypher Use]]
+- [[Control-Machine|Control Machine]]
+- [[Free-to-Move|Free to Move]]
+- [[Group-Friendship|Group Friendship]]
+- [[Hard-to-Kill|Hard to Kill]]
+- [[Jump-Attack|Jump Attack]]
+- [[Mastery-With-Defense|Mastery With Defense]]
+- [[Parry|Parry]]
+- [[Physically-Gifted|Physically Gifted]]
+- [[Take-Command|Take Command]]
+- [[Vigilant|Vigilant]]
 
 ### Sixth-Tier Hotshot
-
 Choose three of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
-
-- Again and Again
-
-- Inspire Coordinated Actions
-
-- Mastery in Armor
-
-- Mastery With Attacks
-
-- Negate Danger
-
-- Share Defense
-
-- Spin Attack
-
+- [[Again-and-Again|Again and Again]]
+- [[Inspire-Coordinated-Actions|Inspire Coordinated Actions]]
+- [[Mastery-in-Armor|Mastery in Armor]]
+- [[Mastery-With-Attacks|Mastery With Attacks]]
+- [[Negate-Danger|Negate Danger]]
+- [[Again-and-Again|Again and Again]]
+- [[Inspire-Coordinated-Actions|Inspire Coordinated Actions]]
+- [[Mastery-in-Armor|Mastery in Armor]]
+- [[Mastery-With-Attacks|Mastery With Attacks]]
+- [[Negate-Danger|Negate Danger]]
+- [[Share-Defense|Share Defense]]
+- [[Spin-Attack|Spin Attack]]
 ## Broker
-
 The Broker type is a cyberpunk variant of the Speaker without the
 overtly supernatural abilities. Fixers, journalists, media stars,
 corpos, and public relations specialists are usually Brokers.
-
 ### Broker Stat Pools
 
-- Stat Pool Starting Value
-
-- Might 8
-
-- Speed 9
-
-- Intellect 11
-
+| **Stat**                 | **Pool Starting Value** |
+| ------------------------ | ----------------------- |
+| [[Might\|Might]]         | 8                       |
+| [[Speed\|Speed]]         | 9                       |
+| [[Intellect\|Intellect]] | 11                      |
 You get 6 additional points to divide among your stat pools however you
 wish.
-
 ### First-Tier Broker
-
 First-tier Brokers have the following abilities:
 
-Effort: Your Effort is 1.
+**Effort:** Your Effort is 1.
 
-Clever: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed
+**Clever:** You have an Intellect Edge of 1, a Might Edge of 0, and a Speed
 Edge of 0.
 
-Cypher Use: You can bear two cyphers at a time.
+**Cypher Use:** You can bear two cyphers at a time.
 
-Weapons: You are practiced with light weapons, light firearms, and
+**Weapons:** You are practiced with light weapons, light firearms, and
 medium firearms without penalty. You have an inability with other medium
 weapons and all heavy weapons; your attacks with medium weapons (other
 than firearms) and heavy weapons are hindered.
 
-Starting Equipment: Appropriate clothing, a communicator implant, and
+**Starting Equipment:** Appropriate clothing, a communicator implant, and
 \$5,200.
 
-Special Abilities: Choose four of the abilities listed below. You can't
+**Special Abilities:** Choose four of the abilities listed below. You can't
 choose the same ability more than once unless its description says
 otherwise.
 
@@ -669,17 +475,16 @@ Erase Memories counts as a hack.
 
 - Machine Interface
 
-- Optical Hack
-
-- Overheat Hack
-
+- [[#^optical-hack|Optical Hack]]
+- [[#^overheat-hack|Overheat Hack]]
 - Practiced With Medium Weapons
 
 - Scramble Machine
 
 Scramble Machine counts as a hack
 
-- Sensor Scan
+- [[#^sensor-scan|Sensor Scan]]
+
 
 - Spin Identity
 
@@ -704,11 +509,13 @@ Choose one of the abilities listed below (or from a lower tier) to add
 to your repertoire. In addition, you can replace one of your lower-tier
 abilities with a different one from a lower tier.
 
-- Armored Chrome
+- [[#^armored-chrome|Armored Chrome]]
+
 
 - Basic Follower
 
-- Bonus Cypher App
+- [[#^bonus-cypher-app|Bonus Cypher App]]
+
 
 - Calm Stranger
 
@@ -927,15 +734,15 @@ otherwise.
 
 - Machine Interface
 
-- Optical Hack
-
-- Overheat Hack
+- [[#^optical-hack|Optical Hack]]
+- [[#^overheat-hack|Overheat Hack]]
 
 - Scramble Machine
 
 Scramble Machine counts as a hack.
 
-- Sensor Scan
+- [[#^sensor-scan|Sensor Scan]]
+
 
 - Tech Skills
 
@@ -949,9 +756,11 @@ abilities with a different one from a lower tier.
 
 - Adaptation
 
-- Armored Chrome
+- [[#^armored-chrome|Armored Chrome]]
 
-- Bonus Cypher App
+
+- [[#^bonus-cypher-app|Bonus Cypher App]]
+
 
 Corpse Datadump (3 Intellect points): You touch the remains of a
 recently killed creature and make an Intellect-based roll to read data
@@ -1663,933 +1472,24 @@ make the swap; they merely have the option. For instance, the Is a
 Walking Tank focus provides the option to gain the ability Hidden Shield
 instead of a type ability.
 
-### Embeds Stealthtech
+## Cyberpunk-Specific Foci
 
-Some of your organic parts have been replaced with artificial
-components. Like most people in the city, you are a cyborg, but your
-augmentations are extensive, and your chrome parts are meant for stealth
-and infiltration. You almost certainly have synthetic materials and
-technical components visible on your skin. As you advance, you can add
-to, modify, or discover new functions for your machine parts.
+The following foci are designed specifically for cyberpunk settings and are available in addition to the appropriate foci listed above.
 
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
+• [[Embeds-Stealthtech|Embeds Stealthtech]]
 
-1\. Pick one other PC. You grew up in the same neighborhood and have
-known each other since childhood.
+• [[Explores-Cyberspace|Explores Cyberspace]]
 
-2\. Pick one other PC. No matter how hard you try, they're always able
-to spot you and see through your deceptions.
+• [[Hacks-the-Network|Hacks the Network]]
 
-3\. Pick one other PC. Something about their organic parts and
-cybernetics means you two look a lot alike---close enough to be
-siblings.
+• [[Has-a-Custom-Drone|Has a Custom Drone]]
 
-4\. Pick two other PCs. You know about an important connection between
-them, something that even they don't know about.
+• [[Has-Eyes-Everywhere|Has Eyes Everywhere]]
 
-Minor Effect Suggestion: You regain 1 point to your Speed Pool.
+• [[Is-a-Walking-Tank|Is a Walking Tank]]
 
-Major Effect Suggestion: You can immediately take a second action during
-this turn.
+• [[Knows-Everything|Knows Everything]]
 
-Tier 1
+• [[Packs-Chromed-Heat|Packs Chromed Heat]]
 
-Fast Chrome: Your machine parts grant you +1 to Armor and +2 to your
-Speed Pool. Enabler.
-
-Fast Chrome is a variant of Enhanced Body for a setting where
-cybernetics are common and have limited self-healing capabilities; it
-doesn't grant as many Pool points as Enhanced Body, but doesn't have the
-limited healing drawbacks.
-
-Stealth Skills
-
-Tier 2
-
-Cat's Paw: You gain CatsPaw cybernetics that replace your organic feet.
-Enabler.
-
-Tier 3
-
-Ability Choice: Choose either Confidence Artist or Limited Camouflage as
-your tier 3 ability.
-
-Confidence Artist
-
-Limited Camouflage (3 Speed points): You activate camouflage software
-that alters your appearance to match an adjacent large object such as a
-wall, cabinet, or vehicle. If you succeed at a stealth task, everyone
-who was observing you completely loses track of you. Although you're not
-invisible, you can't be seen until you reveal yourself again by making
-an attack or moving away from the object. Action.
-
-Tier 4
-
-Better Surprise Attack
-
-Tier 5
-
-Hard to See
-
-Tier 6
-
-Ability Choice: Choose either Escape Plan or Perfect Speed Burst as your
-tier 6 ability.
-
-Escape Plan
-
-Perfect Speed Burst
-
-Embeds Stealthtech GM intrusions: The character's overconfidence leads
-to a clumsy outcome. An overzealous maneuver places the character in
-harm's way.
-
-### Explores Cyberspace
-
-You've always been fascinated by cyberspace, its architecture, and the
-wealth of data it contains. You may have started out as a hacker,
-programmer, or data administrator, but viewing the internet on a screen
-was never enough for you. You're driven by the urge to transcend your
-body, to enter a complete simulation of that nonsensical nonspace.
-You're a netrunner, hooked on the thrill of jacking into the matrix,
-where you interact with physical manifestations of AI, software, and
-viruses.
-
-You might enter the matrix for legitimate reasons, such as for your job
-or education---or maybe you make a point of going where you're not
-welcome, stealing and selling proprietary data. With access to a
-computer or terminal, you plug yourself in and you're off to the races.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one PC. You're convinced you've encountered them in cyberspace,
-but they don't resemble their avatar offline.
-
-2\. Pick one PC. You've previously worked for the same fixer but were
-siloed into different jobs.
-
-3\. Pick one PC. When their identity was stolen by hackers, you helped
-clear things up.
-
-4\. Pick one PC. Once, while you were netrunning and they were on watch,
-they fled from a physical threat and left you to fend for yourself.
-You're fine, now, but wary around that character.
-
-Minor Effect Suggestion: Any foes or ICE in the frame freeze for one
-round.
-
-Major Effect Suggestion: Any foes or ICE in the frame are paralyzed by
-debilitating glitches.
-
-Tier 1
-
-Datajack
-
-Computer Programming
-
-Characters who have chosen Datajack as a type ability should replace it
-with a different special ability selection from their type.
-
-Tier 2
-
-Hacker
-
-Tier 3
-
-Ability Choice: Choose either AI Assistant or Experienced Netrunner as
-your tier 3 ability.
-
-AI Assistant (2 Intellect points): While in cyberspace, you summon an AI
-assistant that appears at any point you can see within a short range.
-The AI is a level 3 NPC with 15 health. The AI obeys your commands and
-does as you direct it. The AI remains until you dismiss it as an action
-or until it is killed. If the AI disappears because it was killed, you
-take 4 points of damage that ignore Armor and cannot summon the AI again
-until the next time you jack in. Action to initiate.
-
-Experienced Netrunner (3 Intellect points): The more you practice
-netrunning, the more proficient you become. To flaunt your experience,
-roll a d6 when completing a netrunning task you have succeeded at
-previously. On an even result, the task you're attempting is eased by
-two steps. On a roll of 1, the task is hindered. Enabler.
-
-Tier 4
-
-Greater Inhanced Intellect
-
-Floating in the Matrix: You are trained in navigating cyberspace. If you
-are already trained in navigating cyberspace, you become specialized. If
-you are already specialized, choose another area of knowledge (such as
-coding, research, or repairs). Enabler.
-
-Tier 5
-
-Information Gathering
-
-Tier 6
-
-Ability Choice: Choose either Machine Enhancement or Perfect Direction
-as your tier 6 ability
-
-Machine Enhancement
-
-Perfect Direction (5+ Intellect points): While in cyberspace, you can
-instantly return to any frame you've previously visited, bypassing any
-conduits or obstacles. You can transport willing creatures with you,
-with each creature requiring 1 additional Intellect point. Action.
-
-Explores Cyberspace GM Intrusions: A bit of lint or dust lodged in a
-datajack causes an unstable connection. Netrunning requires a working
-console or computer. Prolific data thieves may catch the attention of
-rivals and adversaries
-
-### Hacks the Network
-
-AI and the countless networks integrated into every part of life are as
-ubiquitous as air and, to most people, about as noticeable. Not you.
-From the moment you first realized that networks ran on an underlying
-"Ur" tongue, a code of mathematics and logical symbols, you were hooked.
-It wasn't your goal to learn everything you could about hacking
-computers so much as there was nothing else for you. As a thrown stone
-follows its trajectory, you learned to hack the network.
-
-As long as you have access to a computer, hand terminal, or other
-connection, you accomplish your goals by working the code. You might
-have a few extra pockets for high-energy snacks and spare storage
-medium, as well.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. You believe that this character shows potential
-for being an excellent hacker, but you don't know if they would be
-interested in the rigorous training and practice required.
-
-2\. Pick one other PC. This character once accidentally wrecked your
-computer.
-
-3\. Pick one other PC. You promised this character you would ease their
-debts by hacking the places where they owe money and adjusting their
-balance downward.
-
-4\. Pick one other PC. Something about this character interrupts your
-flow. If they're next to you while you're attempting a coding-related
-task, your efforts are hindered by one step.
-
-Minor Effect Suggestion: The network security measures or linked cameras
-are blinded for one round.
-
-Major Effect Suggestion: The network and all nearby connected machines
-power down for several rounds, up to one minute.
-
-Tier 1
-
-Datajack
-
-Computer Programming
-
-Characters who have chosen Datajack as a type ability should replace it
-with a different special ability selection from their type.
-
-Tier 2
-
-Hack the Impossible
-
-Tier 3
-
-Ability Choice: Choose either Network Tap or Experienced Coder as your
-tier 3 ability.
-
-Network Tap
-
-Experienced Coder: All app cyphers and programmed cyphers function at
-one level higher than normal. If given a week and access to a computer,
-you can tinker with app and programmed cyphers, changing their function
-to that of another cypher you had in the past. Enabler.
-
-Tier 4
-
-Erased: You infiltrated the networks so completely that networked
-cameras can't identify you. If your face comes up on automated recording
-devices, vulnerabilities you've previously exploited keep you from being
-recognized. When security officers recognize you, upon checking their
-records they're told that you're not who you seem to be, but rather
-someone unimportant, which you can use as an asset in any related
-persuasion or deception interaction. Enabler.
-
-Tier 5
-
-Repeat Hack (5 Intellect points): You can control the functions of any
-machine, no matter how far from you it is, that you've previously
-exploited using Hack the Impossible, as long as it is networked to your
-current location. This effect lasts for ten minutes. Action.
-
-Tier 6
-
-Ability Choice: Choose either Mind Surge or Machine Bond as your tier 6
-ability.
-
-Mind Surge
-
-Machine Bond (8 Intellect points): You can control the functions of any
-machine that you've previously exploited using Hack the Impossible, as
-long as it is networked to your current location. Additionally, if you
-use an action to concentrate on the machine, you are aware of what's
-going on around it (you see and hear as if you were standing beside it,
-no matter how far away you are). You must touch the machine to create
-the bond, but afterward, there is no range limitation. This bond lasts
-for a week. You can only bond with one machine at a time. Action to
-initiate.
-
-Hacks the Network GM Intrusions: It's nearly impossible to write perfect
-code on the first try. Hackers who make a name for themselves can become
-targets of other hackers. Hacking requires a working computer, hand
-terminal, or other device.
-
-### Has a Custom Drone
-
-You're a genius with drones---building them, controlling them, and
-repairing them. You've created a unique drone with a limited artificial
-intelligence; it follows your commands like it's an extension of your
-thoughts. As you advance, you learn and discover new ways to update your
-drone and give it additional abilities, and how to control multiple
-drones at once. You may think of your drone as a tool, pet, or sidekick;
-it sees you as a best friend or beloved parent.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. Your drone accepts commands from them as if they
-were you (but your commands take precedent).
-
-2\. Pick one other PC. You built a drone for that character, but it
-promptly tried to kill them, so it had to be destroyed. You're not sure
-what went wrong.
-
-3\. Pick one other PC. You are certain that character is either an AI in
-a fully artificial body, or has a FuBo (full body cybernetic), even if
-they deny it.
-
-4\. Pick one other PC. You created a level 1 robotic pet for that
-character that sometimes shows up but is usually off doing its own
-thing.
-
-Additional Equipment: Drone spare parts, drone tool kit.
-
-Minor Effect Suggestion: Your drone buddy jostles your foe, hindering
-its next turn by one step.
-
-Major Effect Suggestion: Your drone buddy takes an immediate extra
-action that you choose.
-
-Tier 1
-
-Drone Buddy: A robot drone about the size of a small dog (built by you)
-accompanies you and follows your instructions. When within long range,
-you can wirelessly communicate with and control the drone and it can
-transmit what it sees and hears to you. You and the GM must work out the
-physical details of your drone. You'll probably make rolls for it when
-it takes actions. A drone in combat usually doesn't make separate
-attacks but helps with yours. On your action, if the drone is next to
-you, it serves as an asset for one attack you make on your turn. If the
-drone is destroyed, you can repair the original with a few days' worth
-of tinkering, or build a new one with a week's worth of half-time labor.
-Enabler.
-
-Robot Builder: You are trained in tasks related to building and
-repairing robots. For the purposes of repair, you can use this skill to
-heal robots and repair cybernetics that use similar technology. Enabler.
-
-Tier 2
-
-Robot Control (2+ Intellect points): You use your knowledge of robot
-command and control (and possibly devices that transmit on the proper
-frequency) to affect any mechanized system or robot of level 2 or lower
-within short range. You can render several targets inactive for as long
-as you focus all your attention on them. If you focus on just one
-target, you can attempt to take active control of it for one minute,
-commanding it to do simple tasks on your behalf while you concentrate.
-In addition to the normal options for using Effort, you can choose to
-use Effort to increase the maximum level of the mechanized system or
-robot. Thus, to affect a level 4 target (two levels above the normal
-limit), you must apply two levels of Effort. Action to initiate.
-
-Tier 3
-
-Ability Choice: Choose either Coordinated Actions or Expert Drone as
-your tier 3 ability.
-
-Coordinated Actions: When you and your drone from the Drone Buddy
-ability are within immediate distance of each other, you inflict 2
-additional points of damage when you attack and both of you gain an
-asset to defense actions. Enabler.
-
-Expert Drone: The drone from your Drone Buddy ability advances to level
-3. You can either gain (build) a secondary drone, or add +1 Armor to
-your primary drone. Enabler.
-
-Tier 4
-
-Drone Upgrade: You modify your primary drone with one new capability.
-Standard options include the following. Work with your GM if you prefer
-a different capability.
-
-Amplify. When the drone is within an immediate distance of you, it eases
-your wireless actions (such as hacking, broadcasting, or activating a
-machine). Enabler.
-
-Defense Mode. The drone can reconfigure itself into armor for a person
-you designate (typically protecting their head and torso), providing +1
-Armor. Action to become armor or return to its normal form.
-
-Improved Flight. The drone can fly a long distance each round. It is
-strong enough to carry you, moving a short distance each round for up to
-one minute; after carrying you, the drone's tasks are hindered for one
-hour. Enabler.
-
-Increased Range. Your communication range with your drone increases to
-very long range.
-
-Integrated Weapon. The drone has an integrated medium weapon such as a
-blade, pistol, or monowire. If the weapon uses bullets, it can hold up
-to 30 of them. You can allow the drone to attack on its own, or you can
-wield it as a weapon and make eased attacks with it. Enabler, or action
-to reload the drone's bullets.
-
-Medical Intervention: The drone has a hypo injector filled with
-hospital-grade emergency drugs. Using the hypo on a living creature
-heals them points equal to the drone's level (Might for PCs, health for
-NPCs). The drone cannot use this ability again until after your next
-recovery roll. Enabler.
-
-Relay Signal Extender. Using your wireless connection to the drone, you
-can bounce your wireless actions (such as hacking, broadcasting, or
-activating a machine) through it, using those abilities as if you were
-where the drone is. Tasks relayed through the drone are hindered by one
-step. Action.
-
-Tier 5
-
-Premium Drone: Your primary drone's level increases to 4. If you have a
-secondary drone from the Expert Drone ability, its level increases to 3;
-otherwise, your primary drone gains +1 to Armor. Enabler.
-
-Tier 6
-
-Ability Choice: Choose either Drone Evolution or Drone Split as your
-tier 6 ability.
-
-Drone Evolution: Your primary drone's level increases to 5, and you
-build up to four fleet drones of the same or smaller size as the primary
-drone. If a fleet drone is destroyed, you can build a new one (or repair
-the old one from its parts) after a week of half-time labor. Enabler.
-
-Drone Split: Your primary drone can split into two identical drones with
-all of the abilities of the primary drone. The split drones are each one
-level lower than the primary drone (so a level 4 primary drone becomes
-two level 3 drones). When they recombine, apply the damage from the more
-injured drone to the primary drone's health. If one of the two drones is
-destroyed, you can repair the primary drone as described in Drone Buddy.
-Action to split or recombine.
-
-Has a Custom Drone GM intrusions: The drone gets hacked. The drone acts
-erratically. The drone runs out of power. The drone thinks an ally is a
-foe.
-
-### Has Eyes Everywhere
-
-Let's be honest: you live in a surveillance state. Security cameras on
-every corner, smartphones that track the user's activity, cybernetics
-that track the wearer's movements ... It's nearly impossible to avoid
-being tracked, but you've made the most of it. You hack into these
-surveillance networks and use your unauthorized access to monitor your
-environment.
-
-It's up to you what you do with this access. You may serve as a lookout
-for criminal associates, work dispatch for local vigilantes, or just
-keep an eye on the neighborhood. You likely have multiple phones and
-computers, alternating between them to obfuscate your activities.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. When they were caught on camera committing a
-crime, you deleted the footage before anyone else saw it.
-
-2\. Pick one other PC. You taught them how to prevent their cyberware
-from sharing their location with the manufacturer.
-
-3\. Pick one other PC. Your hacking skills---and how you use those
-skills---seem to make that character nervous.
-
-4\. Pick one other PC. You were once hired to track down someone that
-character was protecting.
-
-Minor Effect Suggestion: Something you see provides information that
-eases your next action by one step.
-
-Major Effect Suggestion: Other individuals using the surveillance
-network are logged out for up to a minute.
-
-Tier 1
-
-Datajack
-
-Stealth Skills
-
-Characters who have chosen Datajack as a type ability should replace it
-with a different special ability selection from their type.
-
-Tier 2
-
-Camera Sight (3+ Intellect points): This ability has two different
-options.
-
-One, you become aware of all security cameras within long range.
-
-Two, you can hack a security camera that you are aware of that is within
-one mile (XX km), allowing you to see through the camera's vantage point
-for up to 10 minutes.
-
-If you activate this ability and apply a level of Effort, you can gain
-the benefit of both options at once.
-
-Action to initiate.
-
-Tier 3
-
-Ability choice: Choose either Awareness or Surveillance Overwatch as
-your tier 3 ability.
-
-Awareness
-
-Surveillance Overwatch (3 Intellect points): When you use your Camera
-Sight ability to assess a situation and warn another character of an
-impending threat, that character's next defense roll against the threat
-you've spotted is eased. Likewise, if you use Camera Sight to advise a
-character of a foe's weakness, that character's next attack roll against
-that foe is eased. Action to initiate.
-
-Tier 4
-
-Greater Enhanced Intellect
-
-Find by Phone (3 Intellect points): If you know someone's full name,
-phone number, or some other identifier, you can determine the
-approximate location (within 100 feet or 30 m) of their smartphone,
-computer, or other portable device. Action.
-
-Tier 5
-
-Enhanced Camera Sight (5 Intellect points): Using your Camera Sight
-ability, you can either look through two security cameras
-simultaneously, look through one security camera that is up to 5 miles
-(8 km) away, or look through one camera for up to 30 minutes. Action to
-initiate.
-
-Tier 6
-
-Ability choice: Choose either Machine Enhancement or 360° Vision as your
-tier 6 ability
-
-Machine Enhancement
-
-360° Vision (6+ Intellect points): You become aware of all security
-cameras, smartphones, computers, and other small surveillance device
-within long range. You can immediately hack such a device, either one
-you just detected or one you know of that is within 10 miles (XX km),
-allowing you to see from that camera's vantage point for one hour. In
-addition to the normal options for applying Effort, you can use Effort
-to affect additional cameras (one per level of Effort), increase the
-duration (one hour per level of Effort), or increase your range (another
-long distance of detection or 10 miles of access per level of Effort) in
-any combination. Action to initiate.
-
-Has Eyes Everywhere GM Intrusions: Security cameras malfunction. Video
-data is corrupted or deleted. Subjects of surveillance may attempt to
-retaliate.
-
-### Is a Walking Tank
-
-Some of your organic parts have been replaced with artificial
-components. Like most people in the city, you are a cyborg, but your
-augmentations are extensive, and your chrome parts are meant for defense
-and protecting others. You almost certainly have metal plating and
-technical components visible on your skin. As you advance, you can add
-to, modify, or discover new functions for your machine parts.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. This character protected you from harm recently,
-and you feel indebted to them for saving your life.
-
-2\. Pick one other PC. They think you are an incredibly selfish person,
-perhaps based on their belief that you always save yourself first.
-
-3\. Pick one other PC. You once fought on opposite sides of a combat.
-
-4\. Pick one other PC. Something about them makes you feel very
-protective toward them.
-
-Minor Effect Suggestion: You gain +1 to Armor for one round.
-
-Major Effect Suggestion: You regain 2 points to your Might Pool.
-
-Tier 1
-
-Type swap option: Hidden Shield: You have a shield built into your body
-(probably your arm) made of a composite of metal and advanced polymers.
-The shield is concealed until you wish to use it. You are practiced in
-using the shield in one hand as a light melee weapon. Furthermore, as
-part of an attack action you can make a melee attack with the shield,
-but if you do so the main attack and shield attack are both hindered.
-Enabler.
-
-Tank Chrome: Your machine parts grant you +1 to Armor and +2 to your
-Might Pool. Enabler.
-
-Tank Chrome is a variant of Enhanced Body for a setting where
-cybernetics are common and have limited self-healing capabilities; it
-doesn't grant as many Pool points as Enhanced Body, but doesn't have the
-limited healing drawbacks.
-
-Tier 2
-
-Defensive HUD (2+ Intellect points): You upgrade your chrome with
-heads-up display (HUD) systems that help you make sense of, analyze, and
-use your defenses in your environment. When you trigger this ability,
-you gain an asset on one defense roll as your software outlines foes and
-predicts their attacks.
-
-Alternatively, you can use the heads-up display to magnify your vision,
-increasing your vision range to 5 miles (8 km) for two rounds.
-
-If you apply one level of Effort, you can also see through basic
-materials (such as wood, concrete, plastic, and stone) to a short
-distance in false color images. If you apply two levels of Effort, you
-can see through special materials (such as solid lead or other
-substances) to an immediate distance in false color images; however, the
-GM might require you to succeed at an Intellect-based task first,
-depending on the material blocking your armor's sensors. Enabler.
-
-Tier 3
-
-Ability Choice: Choose either Hidden Shield or Enhanced Armor as your
-tier 3 ability.
-
-Enhanced Armor: You upgrade your hardware to give you armor plating,
-subdermal implants, or some other material that provides physical
-protection. This change changes give you +1 to Armor. Enabler.
-
-Hidden Shield: You have a shield built into your body (probably your
-arm) made of a composite of metal and advanced polymers. The shield is
-concealed until you wish to use it. You are practiced in using the
-shield in one hand as a light melee weapon. Furthermore, as part of an
-attack action you can make a melee attack with the shield, but if you do
-so the main attack and shield attack are both hindered. Enabler.
-
-Tier 4
-
-Living Wall
-
-Tier 5
-
-Deep Reserves
-
-Tier 6
-
-Ability Choice: Choose either Embedded Drone or Ultra Enhancement as
-your tier 6 ability.
-
-Embedded Drone (3 Intellect points): Your chrome now has an embedded
-drone that you can launch and control for up to an hour. The drone is no
-larger than 1 foot (30 cm) on a side. It has manipulators, allowing it
-to attempt to accomplish physical tasks, and a built-in medium pistol
-that it can use to make attacks. The drone can immediately take an
-action on the turn that you launch it. You'll probably make rolls for
-your drone when it takes actions. A drone in combat usually doesn't make
-separate attacks but helps with your defenses. On your action, if the
-drone is next to you, it serves as an asset for one defense roll you
-make on your turn. If the drone is destroyed, you can spend 2 XP to
-rebuild it. Action to initiate.
-
-Ultra Enhancement
-
-Embedded drone: level 4, long-range embedded pistol inflicts 4 damage,
-flies a short distance each round
-
-Is a Walking Tank GM intrusions: Armor or a defensive system is damaged.
-Cybernetics suffer a temporary power loss. The chrome acts under its own
-power.
-
-### Knows Everything
-
-You're a know-it-all. You've always been curious, likely to be found
-with your nose in a book and several wiki articles pulled up on your
-computer. In your school days, you were probably a good student and
-skilled researcher. In the present, your primary hobby is gathering
-knowledge. You know what questions to ask, and where to look for the
-answers.
-
-Your mental cybernetics have improved your memory and given you
-nigh-unlimited access to information. You're a mental powerhouse---and
-eager to keep learning.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. You overheard them spouting inaccurate
-information and stepped in to provide a correction.
-
-2\. Pick one other PC. You want them to think highly of you, so you've
-researched their interests in order to make conversation.
-
-3\. Pick one other PC. This character always tries to stump you, but
-they haven't succeeded.
-
-4\. Pick one other PC. You inadvertently deduced and revealed something
-they were trying to keep secret.
-
-Minor Effect Suggestion: You gain an insight that eases your next action
-by one step.
-
-Major Effect Suggestion: Your intellectual prowess intimidates a foe
-into retreating from the conflict.
-
-Tier 1
-
-Datajack
-
-Knowledge Skills
-
-Characters who have chosen Datajack as a type ability should replace it
-with a different special ability selection from their type.
-
-Tier 2
-
-Scan
-
-Tier 3
-
-Ability Choice: Choose either Network Tap or Action Processor as your
-tier 3 ability.
-
-Network Tap
-
-Action Processor
-
-Tier 4
-
-Greater Enhanced Intellect
-
-Knowledge Skills
-
-Tier 5
-
-Information Gathering
-
-Tier 6
-
-Ability Choice: Choose either Mind Surge or Knowing the Unknown as your
-tier 6 ability.
-
-Mind Surge
-
-Knowing the Unknown
-
-Knows Everything GM Intrusions: Research leads to dead ends or
-falsehoods. Some people don't trust a person with such powerful mental
-enhancements.
-
-### Packs Chromed Heat
-
-Some of your organic parts have been replaced with artificial
-components. Like most people in the city, you are a cyborg, but your
-augmentations are extensive, and they assist you with ranged combat. You
-almost certainly have metal plating and technical components visible on
-your skin. As you advance, you can add to, modify, or discover new
-functions for your machine parts.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. This person has a bad habit of getting in the way
-of your shot. Anytime you miss and the GM rules (typically with a GM
-intrusion) that you hit an ally, it's usually them.
-
-2\. Pick one other PC. While working together on a job, you accidentally
-shot them. Not only are you not sure they've forgiven you for it, you're
-embarrassed by your clumsy error.
-
-3\. Pick one other PC. You suspect this person has a close connection
-with someone you had to kill. So far, they don't know who was
-responsible.
-
-4\. Picked one other PC. You worked together on a job that went bad, but
-some clever teamwork and a bit of luck got you both out alive.
-
-Minor Effect Suggestion: You can attempt an intimidation task against
-your foe as part of this action; if you succeed, the foe immediately
-surrenders.
-
-Major Effect Suggestion: Your attack makes the foe bleed for 1 point of
-damage (plus 1 point for every level of Effort added to the attack's
-damage) each round until someone uses an action to bind the wound.
-
-Tier 1
-
-Type swap option: Smart Link: You gain smart link cybernetics in both of
-your hands. Enabler.
-
-Shooter Chrome: Your machine parts grant you +1 to Armor and +2 to your
-Speed Pool. Enabler.
-
-Shooter Chrome is a variant of Enhanced Body for a setting where
-cybernetics are common and have limited self-healing capabilities; it
-doesn't grant as many Pool points as Enhanced Body, but doesn't have the
-limited healing drawbacks.
-
-Gunner
-
-Tier 2
-
-Careful Shot
-
-Tier 3
-
-Ability Choice: Choose either Damage Dealer or Embedded Pistol as your
-tier 3 ability.
-
-Damage Dealer
-
-Embedded Pistol: You gain an embedded pistol cybernetic in one of your
-arms. You are trained in using this weapon. (If you replace this
-embedded weapon with another, you lose the training in the previous
-weapon and gain training in the new one.) Enabler.
-
-Tier 4
-
-Snap Shot
-
-Tier 5
-
-Mastery With Attacks
-
-Tier 6
-
-Ability Choice: Choose either Advanced Targeting System or Lethal Damage
-as your tier 6 ability.
-
-Advanced Targeting System (5 Intellect points): You gain a limited AI
-that assists you in eliminating a chosen foe. Choose one target you can
-see within very long range. For the next ten minutes, you gain an asset
-to all tasks (including attacks and defenses) involving that target. You
-can only use the advanced targeting system against one creature at a
-time. Enabler.
-
-Lethal Damage
-
-Packs Chromed Heat GM intrusions: A firearm jams or overheats and can't
-be used for a couple of rounds (perhaps requiring the character to take
-an action to correct the problem). A software error makes the character
-attack the wrong foe.
-
-### Weaponizes Chrome
-
-Some of your organic parts have been replaced with artificial
-components. Like most people in the city, you are a cyborg, but your
-augmentations are extensive, and your chrome parts are specialized for
-melee combat. You almost certainly have metal plating and technical
-components visible on your skin. As you advance, you can add to, modify,
-or discover new functions for your machine parts.
-
-Connection: Choose one of the following, or choose one of the Focus
-Connections in the Cypher System Rulebook.
-
-1\. Pick one other PC. You think they shows potential for learning your
-combat style (and choice of chrome), but you're not necessarily
-qualified to teach them.
-
-2\. Pick one other PC. They once paid for repairs on a treasured item
-you own. You feel like you owe them, even though you may have already
-paid them back.
-
-3\. Pick one other PC. You once saved their life, and they clearly feel
-indebted to you (you wish they didn't, it was just part of the job).
-
-4\. Pick one other PC. This person recently mocked your combat stance.
-How you deal with this (if at all) is up to you.
-
-Minor Effect Suggestion: Your software learns from your successful
-actions, granting you an asset on a similar action involving the same
-task (such as making attacks against the same foe or operating the same
-device).
-
-Major Effect Suggestion: Make an additional attack with a melee weapon
-as part of your turn.
-
-Tier 1
-
-Type swap option: Integrated Weapon: One light or medium melee weapon of
-your choice (such as a mantis blade or monowire) is built into one of
-your arms. The weapon is concealed until you wish to use it. Enabler.
-
-Melee Chrome: Your machine parts grant you +1 to Armor, +1 to your Might
-Pool, and +1 to your Speed Pool. Enabler.
-
-Melee Chrome is a variant of Enhanced Body for a setting where
-cybernetics are common and have limited self-healing capabilities; it
-doesn't grant as many Pool points as Enhanced Body, but doesn't have the
-limited healing drawbacks.
-
-Bash
-
-Tier 2
-
-Weapon Defense
-
-Tier 3
-
-Ability Choice: Choose either Heavy Integrated Weapon or Rapid Attack as
-your tier 3 ability.
-
-Heavy Integrated Weapon: You must have at least one gorilla arm to
-select this ability. One heavy melee weapon of your choice (such as a
-chainsaw or omega bat) is built into your gorilla arm. The weapon is
-concealed until you wish to use it. Enabler.
-
-If you have both Integrated Weapon and Heavy Integrated Weapon, each
-weapon is built into a different arm.
-
-Rapid Attack
-
-Tier 4
-
-Reliable Weaponry: Choose one of your weapons. If you roll a natural 1
-when attacking with that weapon, you can ignore or countermand the GM
-intrusion for that roll. If it isn't an embedded weapon, you can never
-be disarmed of it, nor will you ever drop it accidentally. If it is an
-embedded weapon, it can't be damaged or destroyed unless you allow it or
-you deliberately attempt to do so (such as sticking it in molten steel).
-Enabler.
-
-Tier 5
-
-Extreme Mastery
-
-Tier 6
-
-Ability Choice: Choose either Lethal Damage or Ultra Enhancement as your
-tier 6 ability.
-
-Lethal Damage
-
-Ultra Enhancement
-
-Weaponizes Chrome GM intrusions: The character's weapon moves two steps
-down the object damage track. The character's weapon gets stuck in the
-foe (or their corpse) and can't be used until the character uses an
-action to pull it free.
+• [[Weaponizes-Chrome|Weaponizes Chrome]]
