@@ -22,8 +22,6 @@ categories:
   - Environment
 id: Sunlight
 ---
-
-
 ## Sunlight
 >**Action**
 >3 Intellect points

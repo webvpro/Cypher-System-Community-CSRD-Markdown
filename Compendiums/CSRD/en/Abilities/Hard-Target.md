@@ -20,8 +20,6 @@ categories:
   - Protection
 id: Hard-Target
 ---
-
-
 ## Hard Target
 >**Enabler**
 

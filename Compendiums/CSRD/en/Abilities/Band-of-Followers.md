@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Band-of-Followers
 ---
-
-
 ## Band of Followers
 >**Enabler**
 

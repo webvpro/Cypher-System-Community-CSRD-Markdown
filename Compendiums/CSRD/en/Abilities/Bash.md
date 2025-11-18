@@ -22,8 +22,6 @@ categories:
   - Special-Attack
 id: Bash
 ---
-
-
 ## Bash
 >**Action**
 >1 Might point

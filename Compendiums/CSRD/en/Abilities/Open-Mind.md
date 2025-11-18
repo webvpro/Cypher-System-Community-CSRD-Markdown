@@ -22,8 +22,6 @@ categories:
   - Task
 id: Open-Mind
 ---
-
-
 ## Open Mind
 >**Action**
 >3 Intellect points

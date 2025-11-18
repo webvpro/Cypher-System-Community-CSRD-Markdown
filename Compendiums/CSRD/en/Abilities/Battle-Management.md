@@ -22,8 +22,6 @@ categories:
   - Support
 id: Battle-Management
 ---
-
-
 ## Battle Management
 >**Action**
 >4 Intellect points

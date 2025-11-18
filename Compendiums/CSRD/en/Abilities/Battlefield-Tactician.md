@@ -22,8 +22,6 @@ categories:
   - Senses
 id: Battlefield-Tactician
 ---
-
-
 ## Battlefield Tactician
 >**Enabler**
 >2+ Intellect points

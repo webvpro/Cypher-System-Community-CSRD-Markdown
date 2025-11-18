@@ -20,8 +20,6 @@ categories:
   - Companion
 id: Band-of-Desperados
 ---
-
-
 ## Band of Desperados
 >**Enabler**
 
