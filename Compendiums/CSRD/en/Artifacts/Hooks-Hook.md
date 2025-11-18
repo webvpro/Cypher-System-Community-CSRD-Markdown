@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Hooks-Hook
 ---
-
-
 ## Hook's Hook
 >[!info] Stats
 > **Level:** 1d6+1

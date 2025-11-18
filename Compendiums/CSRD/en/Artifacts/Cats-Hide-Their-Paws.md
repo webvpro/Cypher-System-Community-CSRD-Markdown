@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Cats-Hide-Their-Paws
 ---
-
-
 ## Cats Hide Their Paws
 >[!info] Stats
 > **Level:** 1d6 +2

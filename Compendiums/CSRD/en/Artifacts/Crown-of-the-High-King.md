@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Crown-of-the-High-King
 ---
-
-
 ## Crown of the High King
 >[!info] Stats
 > **Level:** 1d6 +3

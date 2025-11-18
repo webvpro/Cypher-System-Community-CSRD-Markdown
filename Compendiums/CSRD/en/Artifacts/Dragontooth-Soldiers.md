@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Dragontooth-Soldiers
 ---
-
-
 ## Dragontooth Soldiers
 >[!info] Stats
 > **Level:** 1d6+1

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Sovereign-Key
 ---
-
-
 ## Sovereign Key
 >[!info] Stats
 > **Level:** 1d6+2

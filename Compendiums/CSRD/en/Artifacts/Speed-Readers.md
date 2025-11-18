@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Speed-Readers
 ---
-
-
 ## Speed Readers
 >[!info] Stats
 > **Level:** 1d6

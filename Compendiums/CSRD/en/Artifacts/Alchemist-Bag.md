@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Alchemist-Bag
 ---
-
-
 ## Alchemist Bag
 >[!info] Stats
 > **Level:** 1d6

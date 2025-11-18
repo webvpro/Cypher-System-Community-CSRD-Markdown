@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Dragon-Pen
 ---
-
-
 ## Dragon Pen
 >[!info] Stats
 > **Level:** 1d6 +2

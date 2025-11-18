@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Salvaged-Car
 ---
-
-
 ## Salvaged Car
 >[!info] Stats
 > **Level:** 1d6

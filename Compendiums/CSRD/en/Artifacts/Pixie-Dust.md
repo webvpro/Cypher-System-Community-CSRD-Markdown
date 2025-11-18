@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Pixie-Dust
 ---
-
-
 ## Pixie Dust
 >[!info] Stats
 > **Level:** 1d6

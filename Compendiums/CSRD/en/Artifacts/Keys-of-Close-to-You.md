@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Keys-of-Close-to-You
 ---
-
-
 ## Keys of Close to You
 >[!info] Stats
 > **Level:** 1d6 +4

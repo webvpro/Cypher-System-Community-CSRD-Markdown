@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Helm-of-Water-Breathing
 ---
-
-
 ## Helm of Water Breathing
 >[!info] Stats
 > **Level:** 1d6

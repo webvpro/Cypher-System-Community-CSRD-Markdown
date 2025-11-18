@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Cloud-Thief
 ---
-
-
 ## Cloud Thief
 >[!info] Stats
 > **Level:** 1d6

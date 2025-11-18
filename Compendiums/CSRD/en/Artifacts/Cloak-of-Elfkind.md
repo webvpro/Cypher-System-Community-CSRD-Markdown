@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Cloak-of-Elfkind
 ---
-
-
 ## Cloak of Elfkind
 >[!info] Stats
 > **Level:** 1d6+2

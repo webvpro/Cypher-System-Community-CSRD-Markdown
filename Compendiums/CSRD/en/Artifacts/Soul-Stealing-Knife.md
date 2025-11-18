@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Soul-Stealing-Knife
 ---
-
-
 ## Soul-Stealing Knife
 >[!info] Stats
 > **Level:** 1d6

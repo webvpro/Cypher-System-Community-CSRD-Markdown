@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Mutation-Inducer
 ---
-
-
 ## Mutation Inducer
 >[!info] Stats
 > **Level:** 1d6+1

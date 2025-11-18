@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: She-Bear
 ---
-
-
 ## She Bear
 >[!info] Stats
 > **Level:** 1d6

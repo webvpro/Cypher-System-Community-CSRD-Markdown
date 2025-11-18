@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Mastercraft-Armor
 ---
-
-
 ## Mastercraft Armor
 >[!info] Stats
 > **Level:** 1d6

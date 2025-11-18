@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Transfer-Discs
 ---
-
-
 ## Transfer Discs
 >[!info] Stats
 > **Level:** 1d6+1

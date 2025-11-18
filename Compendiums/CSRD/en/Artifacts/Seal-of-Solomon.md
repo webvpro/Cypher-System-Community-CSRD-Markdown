@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Seal-of-Solomon
 ---
-
-
 ## Seal of Solomon
 >[!info] Stats
 > **Level:** 1d6+2

@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Mind-Imager
 ---
-
-
 ## Mind Imager
 >[!info] Stats
 > **Level:** 1d6+2

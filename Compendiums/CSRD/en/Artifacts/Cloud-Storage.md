@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Cloud-Storage
 ---
-
-
 ## Cloud Storage
 >[!info] Stats
 > **Level:** 1d6 +2

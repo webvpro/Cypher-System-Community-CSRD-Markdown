@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Genies-Lamp
 ---
-
-
 ## Genie's Lamp
 >[!info] Stats
 > **Level:** 1d6+2

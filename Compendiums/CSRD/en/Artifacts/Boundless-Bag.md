@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Boundless-Bag
 ---
-
-
 ## Boundless Bag
 >[!info] Stats
 > **Level:** 1d6+2

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Faraday-Cake
 ---
-
-
 ## Faraday Cake
 >[!info] Stats
 > **Level:** +3

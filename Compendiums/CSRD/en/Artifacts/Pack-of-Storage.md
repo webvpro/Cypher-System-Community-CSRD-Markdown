@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Pack-of-Storage
 ---
-
-
 ## Pack of Storage
 >[!info] Stats
 > **Level:** 1d6+1

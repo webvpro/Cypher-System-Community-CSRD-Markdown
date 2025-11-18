@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Tinderbox
 ---
-
-
 ## Tinderbox
 >[!info] Stats
 > **Level:** 1d6+2

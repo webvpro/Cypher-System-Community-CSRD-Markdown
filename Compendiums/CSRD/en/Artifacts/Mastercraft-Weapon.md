@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Mastercraft-Weapon
 ---
-
-
 ## Mastercraft Weapon
 >[!info] Stats
 > **Level:** 1d6

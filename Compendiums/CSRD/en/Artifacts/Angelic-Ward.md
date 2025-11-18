@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Angelic-Ward
 ---
-
-
 ## Angelic Ward
 >[!info] Stats
 > **Level:** 1d6+2

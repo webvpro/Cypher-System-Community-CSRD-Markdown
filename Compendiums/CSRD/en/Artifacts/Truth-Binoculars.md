@@ -10,8 +10,6 @@ kind: Artifact
 categories: []
 id: Truth-Binoculars
 ---
-
-
 ## Truth Binoculars
 >[!info] Stats
 > **Level:** 1d6+2

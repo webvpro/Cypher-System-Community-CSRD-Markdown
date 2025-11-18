@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Explorer's-Gloves
 ---
-
-
 ## Explorer's Gloves
 >[!info] Stats
 > **Level:** 1d6

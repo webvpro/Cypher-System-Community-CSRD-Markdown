@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Coil-of-Endless-Rope
 ---
-
-
 ## Coil of Endless Rope
 >[!info] Stats
 > **Level:** 1d6

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Memory-Eraser
 ---
-
-
 ## Memory Eraser
 >[!info] Stats
 > **Level:** 1d6+1

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Omni-Orb
 ---
-
-
 ## Omni Orb
 >[!info] Stats
 > **Level:** 1d6+4

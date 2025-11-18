@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Gruelmaker
 ---
-
-
 ## Gruelmaker
 >[!info] Stats
 > **Level:** 1d6

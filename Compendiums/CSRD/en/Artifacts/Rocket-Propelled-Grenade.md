@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Rocket-Propelled-Grenade
 ---
-
-
 ## Rocket-Propelled Grenade
 >[!info] Stats
 > **Level:** 1d6+3

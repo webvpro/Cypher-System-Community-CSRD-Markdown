@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Magicians-Protective-Amulet
 ---
-
-
 ## Magician’s Protective Amulet
 >[!info] Stats
 > **Level:** 1d6 +2

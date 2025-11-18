@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Dragontongue-Weapon
 ---
-
-
 ## Dragontongue Weapon
 >[!info] Stats
 > **Level:** 1d6+2

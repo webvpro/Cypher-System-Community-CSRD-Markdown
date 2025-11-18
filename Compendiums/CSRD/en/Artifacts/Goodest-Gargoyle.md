@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Goodest-Gargoyle
 ---
-
-
 ## Goodest Gargoyle
 >[!info] Stats
 > **Level:** 1d6 +2

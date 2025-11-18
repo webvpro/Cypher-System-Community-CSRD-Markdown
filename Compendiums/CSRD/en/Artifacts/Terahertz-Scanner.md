@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Terahertz-Scanner
 ---
-
-
 ## Terahertz Scanner
 >[!info] Stats
 > **Level:** 1d6+1

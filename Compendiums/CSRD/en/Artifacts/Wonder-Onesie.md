@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Wonder-Onesie
 ---
-
-
 ## Wonder Onesie
 >[!info] Stats
 > **Level:** 1d6 + 4

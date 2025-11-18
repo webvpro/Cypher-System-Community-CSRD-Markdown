@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Galoshes-of-Fortune
 ---
-
-
 ## Galoshes of Fortune
 >[!info] Stats
 > **Level:** 1d6+4

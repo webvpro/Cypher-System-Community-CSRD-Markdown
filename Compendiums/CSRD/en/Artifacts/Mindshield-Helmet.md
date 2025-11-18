@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Mindshield-Helmet
 ---
-
-
 ## Mindshield Helmet
 >[!info] Stats
 > **Level:** 1d6+2

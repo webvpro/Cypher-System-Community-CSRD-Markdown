@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Metabolic-Prod
 ---
-
-
 ## Metabolic Prod
 >[!info] Stats
 > **Level:** 1d6+1

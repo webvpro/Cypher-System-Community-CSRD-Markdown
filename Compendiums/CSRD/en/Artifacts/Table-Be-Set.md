@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Table-Be-Set
 ---
-
-
 ## Table Be Set
 >[!info] Stats
 > **Level:** 1d6

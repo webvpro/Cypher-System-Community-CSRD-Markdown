@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Pearls-of-Your-Grandmother-the-Witch
 ---
-
-
 ## Pearls of Your Grandmother, the Witch
 >[!info] Stats
 > **Level:** 1d6  + 2

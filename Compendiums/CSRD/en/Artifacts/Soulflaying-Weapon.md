@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Soulflaying-Weapon
 ---
-
-
 ## Soulflaying Weapon
 >[!info] Stats
 > **Level:** 1d6+1

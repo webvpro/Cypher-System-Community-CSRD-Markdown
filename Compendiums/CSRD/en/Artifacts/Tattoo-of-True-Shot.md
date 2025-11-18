@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Tattoo-of-True-Shot
 ---
-
-
 ## Tattoo of True Shot
 >[!info] Stats
 > **Level:** 1d6

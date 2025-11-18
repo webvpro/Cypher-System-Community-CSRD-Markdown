@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Ring-of-Invisibility
 ---
-
-
 ## Ring of Invisibility
 >[!info] Stats
 > **Level:** 1d6

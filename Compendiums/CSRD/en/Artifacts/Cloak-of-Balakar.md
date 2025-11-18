@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Cloak-of-Balakar
 ---
-
-
 ## Cloak of Balakar
 >[!info] Stats
 > **Level:** 1d6+3

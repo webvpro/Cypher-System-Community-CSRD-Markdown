@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Dimensional-Modulator
 ---
-
-
 ## Dimensional Modulator
 >[!info] Stats
 > **Level:** 1d6+3

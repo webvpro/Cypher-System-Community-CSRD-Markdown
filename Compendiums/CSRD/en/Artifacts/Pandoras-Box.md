@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Pandoras-Box
 ---
-
-
 ## Pandora's Box
 >[!info] Stats
 > **Level:** 1d6+4

@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Rainbow-Suspenders
 ---
-
-
 ## Rainbow Suspenders
 >[!info] Stats
 > **Level:** 1d6

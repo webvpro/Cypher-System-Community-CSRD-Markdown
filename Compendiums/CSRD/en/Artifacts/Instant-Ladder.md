@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Instant-Ladder
 ---
-
-
 ## Instant Ladder
 >[!info] Stats
 > **Level:** 1d6

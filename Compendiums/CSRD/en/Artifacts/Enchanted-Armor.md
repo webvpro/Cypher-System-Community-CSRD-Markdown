@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Enchanted-Armor
 ---
-
-
 ## Enchanted Armor
 >[!info] Stats
 > **Level:** 1d6+3

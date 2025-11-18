@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Red-Cap
 ---
-
-
 ## Red Cap
 >[!info] Stats
 > **Level:** 1d6+3

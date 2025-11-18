@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Iron-Stove
 ---
-
-
 ## Iron Stove
 >[!info] Stats
 > **Level:** 1d6+3

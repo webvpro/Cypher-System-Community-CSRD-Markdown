@@ -10,8 +10,6 @@ kind: Artifact
 categories: []
 id: Breakaway-Bag
 ---
-
-
 ## Breakaway Bag
 >[!info] Stats
 > **Level:** 1d6 + 4

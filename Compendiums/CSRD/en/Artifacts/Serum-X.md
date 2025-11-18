@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Serum-X
 ---
-
-
 ## Serum X
 >[!info] Stats
 > **Level:** 1d6+2

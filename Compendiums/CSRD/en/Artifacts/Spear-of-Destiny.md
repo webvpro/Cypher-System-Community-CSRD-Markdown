@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Spear-of-Destiny
 ---
-
-
 ## Spear of Destiny
 >[!info] Stats
 > **Level:** +7

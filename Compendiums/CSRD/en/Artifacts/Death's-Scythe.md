@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Death's-Scythe
 ---
-
-
 ## Death's Scythe
 >[!info] Stats
 > **Level:** 1d6+4

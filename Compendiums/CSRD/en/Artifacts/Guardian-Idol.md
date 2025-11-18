@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Guardian-Idol
 ---
-
-
 ## Guardian Idol
 >[!info] Stats
 > **Level:** 1d6+3

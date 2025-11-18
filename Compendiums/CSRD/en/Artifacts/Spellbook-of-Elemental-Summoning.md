@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Spellbook-of-Elemental-Summoning
 ---
-
-
 ## Spellbook of Elemental Summoning
 >[!info] Stats
 > **Level:** 1d6+1

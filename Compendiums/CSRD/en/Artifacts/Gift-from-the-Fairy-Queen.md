@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Gift-from-the-Fairy-Queen
 ---
-
-
 ## Ecosensitive Fridge Magnets
 >[!info] Stats
 > **Level:** 1d6 +2

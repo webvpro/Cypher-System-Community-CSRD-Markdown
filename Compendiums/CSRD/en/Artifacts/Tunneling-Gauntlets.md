@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Tunneling-Gauntlets
 ---
-
-
 ## Tunneling Gauntlets
 >[!info] Stats
 > **Level:** 1d6+1

@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: My-Friend-Lockness
 ---
-
-
 ## My Friend Lockness
 >[!info] Stats
 > **Level:** 1d6  + 3

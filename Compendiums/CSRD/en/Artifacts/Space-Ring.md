@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Space-Ring
 ---
-
-
 ## Space Ring
 >[!info] Stats
 > **Level:** 1d6+1

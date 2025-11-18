@@ -13,8 +13,6 @@ categories:
   - Horror
 id: Sphere-23
 ---
-
-
 ## Sphere 23
 >[!info] Stats
 > **Level:** 1d6+4

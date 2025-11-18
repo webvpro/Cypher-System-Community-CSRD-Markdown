@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Disintegration-Beamer
 ---
-
-
 ## Disintegration Beamer
 >[!info] Stats
 > **Level:** 1d6+2

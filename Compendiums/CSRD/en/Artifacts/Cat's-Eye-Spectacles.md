@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Cat's-Eye-Spectacles
 ---
-
-
 ## Cat's Eye Spectacles
 >[!info] Stats
 > **Level:** 1d6

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Stellarex-Crystal
 ---
-
-
 ## Stellarex Crystal
 >[!info] Stats
 > **Level:** 1d6+4

@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Necromantic-Wand
 ---
-
-
 ## Necromantic Wand
 >[!info] Stats
 > **Level:** 1d6+4

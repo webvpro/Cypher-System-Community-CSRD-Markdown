@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Living-Copycat
 ---
-
-
 ## Living Copycat
 >[!info] Stats
 > **Level:** 1d6

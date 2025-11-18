@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Falcon-Cloak
 ---
-
-
 ## Falcon Cloak
 >[!info] Stats
 > **Level:** 1d6

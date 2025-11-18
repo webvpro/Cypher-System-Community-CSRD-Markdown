@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Busy-Box
 ---
-
-
 ## Busy Box
 >[!info] Stats
 > **Level:** 1d6

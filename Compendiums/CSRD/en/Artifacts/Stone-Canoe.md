@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Stone-Canoe
 ---
-
-
 ## Stone Canoe
 >[!info] Stats
 > **Level:** 1d6+3

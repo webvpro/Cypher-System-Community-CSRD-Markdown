@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Staff-of-the-Prophet
 ---
-
-
 ## Staff of the Prophet
 >[!info] Stats
 > **Level:** 1d6+2

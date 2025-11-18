@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Poisoner's-Touch
 ---
-
-
 ## Poisoner's Touch
 >[!info] Stats
 > **Level:** 1d6+1

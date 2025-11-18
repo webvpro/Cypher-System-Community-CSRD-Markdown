@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Witch-Wand-Level
 ---
-
-
 ## Witch Wand Level
 >[!info] Stats
 > **Level:** 1d6

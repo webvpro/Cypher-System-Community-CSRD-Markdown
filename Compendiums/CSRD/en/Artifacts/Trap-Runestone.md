@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Trap-Runestone
 ---
-
-
 ## Trap Runestone
 >[!info] Stats
 > **Level:** 1d6

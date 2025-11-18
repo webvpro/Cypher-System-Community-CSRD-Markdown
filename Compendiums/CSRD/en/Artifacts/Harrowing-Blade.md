@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Harrowing-Blade
 ---
-
-
 ## Harrowing Blade
 >[!info] Stats
 > **Level:** 1d6 +1

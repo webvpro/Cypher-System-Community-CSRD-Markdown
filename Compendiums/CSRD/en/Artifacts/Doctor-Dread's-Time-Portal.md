@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Doctor-Dread's-Time-Portal
 ---
-
-
 ## Doctor Dread's Time Portal
 >[!info] Stats
 > **Level:** +9

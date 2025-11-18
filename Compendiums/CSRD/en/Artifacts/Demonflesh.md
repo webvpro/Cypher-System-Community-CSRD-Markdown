@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Demonflesh
 ---
-
-
 ## Demonflesh
 >[!info] Stats
 > **Level:** 1d6+1

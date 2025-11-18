@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Rocket-Fist
 ---
-
-
 ## Rocket Fist
 >[!info] Stats
 > **Level:** 1d6+2

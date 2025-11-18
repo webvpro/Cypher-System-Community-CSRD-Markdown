@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Ring-of-Reflected-Bullets
 ---
-
-
 ## Ring of Reflected Bullets
 >[!info] Stats
 > **Level:** 1d6

@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Steorraform
 ---
-
-
 ## Steorraform
 >[!info] Stats
 > **Level:** 1d6+3

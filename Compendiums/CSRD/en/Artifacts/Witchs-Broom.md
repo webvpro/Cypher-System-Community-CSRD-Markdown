@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Witchs-Broom
 ---
-
-
 ## Witch’s Broom
 >[!info] Stats
 > **Level:** 1d6 + 2

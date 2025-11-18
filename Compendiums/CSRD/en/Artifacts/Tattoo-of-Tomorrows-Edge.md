@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Tattoo-of-Tomorrows-Edge
 ---
-
-
 ## Tattoo of Tomorrow’s Edge
 >[!info] Stats
 > **Level:** 1d6 + 3

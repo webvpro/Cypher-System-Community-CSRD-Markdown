@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Horn-of-Thunder
 ---
-
-
 ## Horn of Thunder
 >[!info] Stats
 > **Level:** 1d6+4

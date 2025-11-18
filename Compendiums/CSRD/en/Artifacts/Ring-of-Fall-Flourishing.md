@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Ring-of-Fall-Flourishing
 ---
-
-
 ## Ring of Fall Flourishing
 >[!info] Stats
 > **Level:** 1d6

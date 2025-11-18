@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Boy-Blues-Horn
 ---
-
-
 ## Boy Blue's Horn
 >[!info] Stats
 > **Level:** 1d6

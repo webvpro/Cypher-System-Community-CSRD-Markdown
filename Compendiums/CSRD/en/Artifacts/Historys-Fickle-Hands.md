@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Historys-Fickle-Hands
 ---
-
-
 ## History’s Fickle Hands
 >[!info] Stats
 > **Level:** 1d6

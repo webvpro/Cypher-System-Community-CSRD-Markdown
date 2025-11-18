@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Self-Swinging-Sword
 ---
-
-
 ## Self-Swinging Sword
 >[!info] Stats
 > **Level:** 1d6+1

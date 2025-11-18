@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Carving-Knife-of-Sharpness
 ---
-
-
 ## Carving Knife of Sharpness
 >[!info] Stats
 > **Level:** 1d6+1

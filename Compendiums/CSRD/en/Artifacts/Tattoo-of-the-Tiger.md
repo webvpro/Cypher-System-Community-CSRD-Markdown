@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Tattoo-of-the-Tiger
 ---
-
-
 ## Tattoo of the Tiger
 >[!info] Stats
 > **Level:** 1d6 + 2

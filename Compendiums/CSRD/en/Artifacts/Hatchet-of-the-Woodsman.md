@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Hatchet-of-the-Woodsman
 ---
-
-
 ## Hatchet of the Woodsman
 >[!info] Stats
 > **Level:** 1d6+4

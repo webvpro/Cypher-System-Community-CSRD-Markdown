@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Staff-of-Healing
 ---
-
-
 ## Staff of Healing
 >[!info] Stats
 > **Level:** 1d6+4

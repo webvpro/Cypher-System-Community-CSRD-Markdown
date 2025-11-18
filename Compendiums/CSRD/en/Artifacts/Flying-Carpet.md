@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Flying-Carpet
 ---
-
-
 ## Flying Carpet
 >[!info] Stats
 > **Level:** 1d6+1

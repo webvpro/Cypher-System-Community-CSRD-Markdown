@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Song-of-the-Siren
 ---
-
-
 ## Song of the Siren
 >[!info] Stats
 > **Level:** 1d6 +3

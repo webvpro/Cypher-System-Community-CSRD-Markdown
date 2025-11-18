@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Ghostly-Armor
 ---
-
-
 ## Ghostly Armor
 >[!info] Stats
 > **Level:** 1d6+3

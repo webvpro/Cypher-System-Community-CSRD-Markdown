@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Protection-Amulet
 ---
-
-
 ## Protection Amulet
 >[!info] Stats
 > **Level:** 1d6

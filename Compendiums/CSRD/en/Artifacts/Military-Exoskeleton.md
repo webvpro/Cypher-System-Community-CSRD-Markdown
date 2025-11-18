@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Military-Exoskeleton
 ---
-
-
 ## Military Exoskeleton
 >[!info] Stats
 > **Level:** 1d6+1

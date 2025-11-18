@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Water-Filter
 ---
-
-
 ## Water Filter
 >[!info] Stats
 > **Level:** 1d6+1

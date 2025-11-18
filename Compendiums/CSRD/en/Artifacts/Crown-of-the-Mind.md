@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Crown-of-the-Mind
 ---
-
-
 ## Crown of the Mind
 >[!info] Stats
 > **Level:** 1d6

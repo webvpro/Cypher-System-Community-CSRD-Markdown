@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Time-is-a-Circle
 ---
-
-
 ## Time is a Circle
 >[!info] Stats
 > **Level:** 1d6 +4

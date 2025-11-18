@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Storm-Shack
 ---
-
-
 ## Storm Shack
 >[!info] Stats
 > **Level:** 1d6+3

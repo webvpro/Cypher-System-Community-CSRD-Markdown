@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Color-Cannon
 ---
-
-
 ## Color Cannon
 >[!info] Stats
 > **Level:** 1d6

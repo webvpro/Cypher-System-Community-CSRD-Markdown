@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Shapeshifter-Wand
 ---
-
-
 ## Shapeshifter Wand
 >[!info] Stats
 > **Level:** 1d6

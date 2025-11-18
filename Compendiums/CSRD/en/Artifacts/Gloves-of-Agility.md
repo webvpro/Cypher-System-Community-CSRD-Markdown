@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Gloves-of-Agility
 ---
-
-
 ## Gloves of Agility
 >[!info] Stats
 > **Level:** 1d6

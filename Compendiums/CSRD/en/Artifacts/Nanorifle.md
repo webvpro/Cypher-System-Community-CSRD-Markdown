@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Nanorifle
 ---
-
-
 ## Nanorifle
 >[!info] Stats
 > **Level:** 1d6+2

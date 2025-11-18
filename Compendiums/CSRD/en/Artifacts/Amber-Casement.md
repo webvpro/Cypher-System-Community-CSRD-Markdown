@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Amber-Casement
 ---
-
-
 ## Amber Casement
 >[!info] Stats
 > **Level:** 1d6+4

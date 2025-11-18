@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Tweedledees-Umbrella
 ---
-
-
 ## Tweedledee’s Umbrella
 >[!info] Stats
 > **Level:** 1d6+2

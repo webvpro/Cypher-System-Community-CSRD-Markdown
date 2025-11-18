@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Story-Knife
 ---
-
-
 ## Story Knife
 >[!info] Stats
 > **Level:** 1d6+2

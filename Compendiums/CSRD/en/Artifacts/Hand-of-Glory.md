@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Hand-of-Glory
 ---
-
-
 ## Hand of Glory
 >[!info] Stats
 > **Level:** 1d6+3

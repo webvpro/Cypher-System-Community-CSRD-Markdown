@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Soulful-Fiddle
 ---
-
-
 ## Soulful Fiddle
 >[!info] Stats
 > **Level:** 1d6+2

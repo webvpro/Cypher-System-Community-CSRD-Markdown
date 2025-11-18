@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Enviroscanner
 ---
-
-
 ## Enviroscanner
 >[!info] Stats
 > **Level:** 1d6

@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Golden-Bridle
 ---
-
-
 ## Golden Bridle
 >[!info] Stats
 > **Level:** 1d6+2

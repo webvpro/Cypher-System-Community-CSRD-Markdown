@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Skill-Ring
 ---
-
-
 ## Skill Ring
 >[!info] Stats
 > **Level:** 1d6

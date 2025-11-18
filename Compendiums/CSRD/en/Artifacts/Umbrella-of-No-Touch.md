@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Umbrella-of-No-Touch
 ---
-
-
 ## Umbrella of No-Touch
 >[!info] Stats
 > **Level:** 1d6 +3

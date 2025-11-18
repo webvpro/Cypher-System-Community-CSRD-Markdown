@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Vorpal-Sword
 ---
-
-
 ## Vorpal Sword
 >[!info] Stats
 > **Level:** 1d6+3

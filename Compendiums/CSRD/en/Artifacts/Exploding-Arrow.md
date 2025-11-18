@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Exploding-Arrow
 ---
-
-
 ## Exploding Arrow
 >[!info] Stats
 > **Level:** 1d6

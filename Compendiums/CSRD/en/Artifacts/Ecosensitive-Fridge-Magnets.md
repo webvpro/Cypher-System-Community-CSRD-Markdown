@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Ecosensitive-Fridge-Magnets
 ---
-
-
 ## Ecosensitive Fridge Magnets
 >[!info] Stats
 > **Level:** 1d6

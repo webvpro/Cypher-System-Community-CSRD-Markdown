@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Shirt-of-Nettles
 ---
-
-
 ## Shirt of Nettles
 >[!info] Stats
 > **Level:** 1d6+4

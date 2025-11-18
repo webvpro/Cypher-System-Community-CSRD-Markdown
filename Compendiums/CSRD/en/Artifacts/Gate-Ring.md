@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Gate-Ring
 ---
-
-
 ## Gate Ring
 >[!info] Stats
 > **Level:** 1d6+4

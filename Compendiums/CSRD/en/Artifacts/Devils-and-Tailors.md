@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Devils-and-Tailors
 ---
-
-
 ## Devils and Tailors
 >[!info] Stats
 > **Level:** 1d6+2

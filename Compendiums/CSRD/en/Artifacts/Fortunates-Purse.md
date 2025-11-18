@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Fortunates-Purse
 ---
-
-
 ## Fortunate's Purse
 >[!info] Stats
 > **Level:** 1d6

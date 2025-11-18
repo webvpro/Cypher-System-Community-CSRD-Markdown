@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Red-Riding-Hood
 ---
-
-
 ## Red Riding Hood
 >[!info] Stats
 > **Level:** 1d6+3

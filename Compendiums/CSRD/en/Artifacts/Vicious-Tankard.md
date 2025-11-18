@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Vicious-Tankard
 ---
-
-
 ## Vicious Tankard
 >[!info] Stats
 > **Level:** 1d6+2

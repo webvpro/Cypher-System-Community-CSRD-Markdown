@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Witch's-Broom
 ---
-
-
 ## Witch's Broom
 >[!info] Stats
 > **Level:** 1d6+2

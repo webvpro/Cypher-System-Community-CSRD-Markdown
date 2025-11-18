@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Scarf-of-Love-and-Death
 ---
-
-
 ## Scarf of Love and Death
 >[!info] Stats
 > **Level:** 1d6

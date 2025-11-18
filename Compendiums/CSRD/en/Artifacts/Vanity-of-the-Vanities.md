@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Vanity-of-the-Vanities
 ---
-
-
 ## Vanity of the Vanities
 >[!info] Stats
 > **Level:** 1d6

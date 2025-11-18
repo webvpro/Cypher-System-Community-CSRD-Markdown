@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Steadfast-Tin-Soldier
 ---
-
-
 ## Steadfast Tin Soldier
 >[!info] Stats
 > **Level:** 1d6+2

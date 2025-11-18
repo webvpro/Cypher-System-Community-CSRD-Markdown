@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Whisperer-in-the-Ether
 ---
-
-
 ## Whisperer in the Ether
 >[!info] Stats
 > **Level:** 1d6+1

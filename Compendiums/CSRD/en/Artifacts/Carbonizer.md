@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Carbonizer
 ---
-
-
 ## Carbonizer
 >[!info] Stats
 > **Level:** 1d6+1

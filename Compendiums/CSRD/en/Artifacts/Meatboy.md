@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Meatboy
 ---
-
-
 ## Meatboy
 >[!info] Stats
 > **Level:** 1d6

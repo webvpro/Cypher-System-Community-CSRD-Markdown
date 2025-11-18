@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Cloak-of-Finery
 ---
-
-
 ## Cloak of Finery
 >[!info] Stats
 > **Level:** 1d6+1

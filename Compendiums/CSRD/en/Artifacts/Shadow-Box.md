@@ -13,8 +13,6 @@ categories:
   - Horror
 id: Shadow-Box
 ---
-
-
 ## Shadow Box
 >[!info] Stats
 > **Level:** +7

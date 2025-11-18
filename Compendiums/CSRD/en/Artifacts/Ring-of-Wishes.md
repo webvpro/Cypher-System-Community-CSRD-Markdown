@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Ring-of-Wishes
 ---
-
-
 ## Ring of Wishes
 >[!info] Stats
 > **Level:** 1d6+4

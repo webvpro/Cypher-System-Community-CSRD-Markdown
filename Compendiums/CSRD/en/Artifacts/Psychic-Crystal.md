@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Psychic-Crystal
 ---
-
-
 ## Psychic Crystal
 >[!info] Stats
 > **Level:** 1d6+4

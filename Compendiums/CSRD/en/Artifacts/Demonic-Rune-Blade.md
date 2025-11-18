@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Demonic-Rune-Blade
 ---
-
-
 ## Demonic Rune Blade
 >[!info] Stats
 > **Level:** 1d6+4

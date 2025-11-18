@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Crow-Friend
 ---
-
-
 ## Crow Friend
 >[!info] Stats
 > **Level:** 1d6 +4

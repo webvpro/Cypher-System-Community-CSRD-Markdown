@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Death-Ray
 ---
-
-
 ## Death Ray
 >[!info] Stats
 > **Level:** 1d6+3

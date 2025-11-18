@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Combat-Glasses
 ---
-
-
 ## Combat Glasses
 >[!info] Stats
 > **Level:** 1d6

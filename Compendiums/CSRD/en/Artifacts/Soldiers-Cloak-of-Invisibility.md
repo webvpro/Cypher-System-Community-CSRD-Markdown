@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Soldiers-Cloak-of-Invisibility
 ---
-
-
 ## Soldier's Cloak of Invisibility
 >[!info] Stats
 > **Level:** 1d6+2

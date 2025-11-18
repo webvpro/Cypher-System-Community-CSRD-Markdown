@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Fractal-Traveler
 ---
-
-
 ## Fractal Traveler
 >[!info] Stats
 > **Level:** 1d6+4

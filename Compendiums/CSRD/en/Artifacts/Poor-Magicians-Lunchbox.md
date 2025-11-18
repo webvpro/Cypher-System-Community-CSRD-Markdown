@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Poor-Magicians-Lunchbox
 ---
-
-
 ## Poor Magician’s Lunchbox
 >[!info] Stats
 > **Level:** 1d6

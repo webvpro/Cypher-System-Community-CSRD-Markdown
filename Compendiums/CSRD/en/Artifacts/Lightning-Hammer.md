@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Lightning-Hammer
 ---
-
-
 ## Lightning Hammer
 >[!info] Stats
 > **Level:** 1d6+2

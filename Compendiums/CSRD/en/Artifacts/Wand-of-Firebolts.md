@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Wand-of-Firebolts
 ---
-
-
 ## Wand of Firebolts
 >[!info] Stats
 > **Level:** 1d6+2

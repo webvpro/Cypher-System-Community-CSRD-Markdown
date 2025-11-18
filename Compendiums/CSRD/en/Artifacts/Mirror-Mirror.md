@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Mirror-Mirror
 ---
-
-
 ## Mirror Mirror
 >[!info] Stats
 > **Level:** 1d6+4

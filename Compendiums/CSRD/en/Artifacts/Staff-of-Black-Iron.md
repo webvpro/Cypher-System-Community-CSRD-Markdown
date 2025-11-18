@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Staff-of-Black-Iron
 ---
-
-
 ## Staff of Black Iron
 >[!info] Stats
 > **Level:** 1d6+2

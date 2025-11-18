@@ -14,8 +14,6 @@ categories:
   - Modern-Magic
 id: Eau-de-Blood-of-Monsters
 ---
-
-
 ## Eau de Blood of Monsters
 >[!info] Stats
 > **Level:** 1d6 +4

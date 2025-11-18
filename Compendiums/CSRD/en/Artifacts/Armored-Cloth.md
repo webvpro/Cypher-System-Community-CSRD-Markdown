@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Armored-Cloth
 ---
-
-
 ## Armored Cloth
 >[!info] Stats
 > **Level:** 1d6

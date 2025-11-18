@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Alpha-Beam-Projector
 ---
-
-
 ## Alpha Beam Projector
 >[!info] Stats
 > **Level:** 1d6+3

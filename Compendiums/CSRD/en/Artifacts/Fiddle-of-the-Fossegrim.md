@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Fiddle-of-the-Fossegrim
 ---
-
-
 ## Fiddle of the Fossegrim
 >[!info] Stats
 > **Level:** 1d6+2

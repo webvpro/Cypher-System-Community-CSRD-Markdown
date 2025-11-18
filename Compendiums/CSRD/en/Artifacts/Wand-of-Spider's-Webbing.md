@@ -11,8 +11,6 @@ kind: Artifact
 categories: []
 id: Wand-of-Spider's-Webbing
 ---
-
-
 ## Wand of Spider's Webbing
 >[!info] Stats
 > **Level:** 1d6+1

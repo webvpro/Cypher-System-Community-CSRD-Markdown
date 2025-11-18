@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Probability-Regulator
 ---
-
-
 ## Probability Regulator
 >[!info] Stats
 > **Level:** 1d6+4

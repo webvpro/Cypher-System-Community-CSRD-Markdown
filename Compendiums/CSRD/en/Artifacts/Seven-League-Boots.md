@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Seven-League-Boots
 ---
-
-
 ## Seven-League Boots
 >[!info] Stats
 > **Level:** 1d6+3

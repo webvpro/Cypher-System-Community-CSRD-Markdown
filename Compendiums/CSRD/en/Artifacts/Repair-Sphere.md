@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Repair-Sphere
 ---
-
-
 ## Repair Sphere
 >[!info] Stats
 > **Level:** 1d6+2

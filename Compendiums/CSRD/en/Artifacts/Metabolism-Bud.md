@@ -13,8 +13,6 @@ categories:
   - Science-Fiction
 id: Metabolism-Bud
 ---
-
-
 ## Metabolism Bud
 >[!info] Stats
 > **Level:** 1d6

@@ -13,8 +13,6 @@ categories:
   - Fairytale
 id: Knapsack-of-Sevens
 ---
-
-
 ## Knapsack of Sevens
 >[!info] Stats
 > **Level:** 1d6
