@@ -13,7 +13,6 @@ pools:
   - Intellect
 id: Youth-Cantrip
 ---
-
 ## Youth Cantrip (1 Intellect point)
 You change the appearance of your face so you look about ten years younger than your normal appearance, lasting about an hour. Action.
 

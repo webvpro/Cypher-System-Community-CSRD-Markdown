@@ -13,7 +13,6 @@ pools:
   - Intellect
 id: Bee-Cantrip
 ---
-
 ## Bee Cantrip (1 Intellect point)
 You summon a nearby level 0 bee, housefly, gnat, or similar flying pest to a spot within an immediate distance. The pest acts normally and (appearing in an unfamiliar area) probably begins flying around, possibly landing on a creature. The cantrip doesn’t work if there are no suitable pests within a short distance. Action.
 >[!info]

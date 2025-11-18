@@ -13,7 +13,6 @@ pools:
   - Intellect
 id: Wireless-Network-Cantrip
 ---
-
 ## Wet or Dry Cantrip (1 Intellect point)
 You improve wireless network reception in an immediate area for ten minutes. This improves poor or average reception to full strength and zero bars to at least one bar. When you cast this cantrip, you decide if this improved reception affects everyone in the area or just you. Action.
 
