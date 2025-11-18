@@ -28,7 +28,7 @@ Even though character type is in the middle of the sentence, that’s where we�
 
 >Your character [[Type-x|type]] is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 >
->You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]],  [[Explorer|Explorers]], and [[Speaker|Speakers]].
+>You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]], [[Explorer|Explorers]], and [[Speaker|Speakers]].
 
 >Your [[Descriptor|descriptor]] defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an adjective noun who verbs.”
 

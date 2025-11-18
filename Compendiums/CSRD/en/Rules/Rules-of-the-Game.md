@@ -20,13 +20,13 @@ Cypher System games are played in the joint imagination of all the players, incl
 
 >2. The GM determines if that action is routine (and therefore works without needing a roll) or if there’s a chance of failure.
 
->3.  If there is a chance of failure, the GM determines which stat the task uses (Might, Speed, or Intellect) and the task’s difficulty—how hard it will be on a scale from 1 (really easy) to 10 (basically impossible).
+>3. If there is a chance of failure, the GM determines which stat the task uses (Might, Speed, or Intellect) and the task’s difficulty—how hard it will be on a scale from 1 (really easy) to 10 (basically impossible).
 
 >4. The player and the GM determine if anything about the character—such as training, equipment, special abilities, or various actions—can modify the difficulty up or down by one or more steps. If these modifications reduce the difficulty to less than 1, the action is routine (and therefore works with no roll needed).
 
 >5. If the action still isn’t routine, the GM uses its difficulty to determine the target number how high the player must roll to succeed at the action (see the [[Task-Difficulty| Task Difficulty table]]). The GM doesn’t have to tell the player what the target number is, but they can give the player a hint, especially if the character would reasonably know if the action was easy, average, difficult, or impossible.
 
->6.  The player rolls a d20. If they roll equal to or higher than the target number, the character succeeds.
+>6. The player rolls a d20. If they roll equal to or higher than the target number, the character succeeds.
 
 That’s it. That’s how to do anything, whether it’s identifying an unknown device, calming a raging drunk, climbing a treacherous cliff, or battling a demigod. Even if you ignored all the other rules, you could still play the Cypher System with just this information. The key features here are: character actions, determining task difficulty, and determining modifications.
 ## Key Concepts
@@ -50,7 +50,7 @@ That’s it. That’s how to do anything, whether it’s identifying an unknown 
 
 >**Roll:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to “a roll,” it always means a d20 roll.
 
-> **Round:** A length of time about five to ten seconds long. There are about ten rounds in  a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
+> **Round:** A length of time about five to ten seconds long. There are about ten rounds in a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
 
  >**Specialized:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.
 
@@ -259,7 +259,7 @@ A few specific hazards that you can include as part of an encounter involving a 
 > All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play).
 >
 > Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen.
-> >   Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
+> >  Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
 >
 > > Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)
 
@@ -285,8 +285,8 @@ A few specific hazards that you can include as part of an encounter involving a 
 > > **Evasive Asteroid Piloting:** During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.
 >
 > >**Finding Shelter:** The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
-####  The Effects of Taking Damage
-When an NPC reaches 0 health, it is either dead or (if the attacker wishes) incapacitated, meaning unconscious or beaten  into submission.
+#### The Effects of Taking Damage
+When an NPC reaches 0 health, it is either dead or (if the attacker wishes) incapacitated, meaning unconscious or beaten into submission.
 
 As previously mentioned, damage from most sources is applied to a character’s Might Pool. Otherwise, stat damage always reduces the Pool of the stat it affects.
 
@@ -319,7 +319,7 @@ Hale is the normal state for a character: all three stat Pools are at 1 or highe
 >>[!warning] Dead is dead.
 >>The damage track allows you to know how far from death you are. If you’re hale, you’re three steps from death. If you’re impaired, you’re two steps from death. If you’re debilitated, you are only one small step from death’s door.
 
-####  Recovering Points in a Pool
+#### Recovering Points in a Pool
 After losing or spending points in a Pool, you recover those points by resting. You can’t increase a Pool past its maximum by resting—just back to its normal level. Any extra points gained go away with no effect. The amount of points you recover from a rest, and how long each rest takes, depends on how many times you have rested so far that day.
 
 When you rest, make a recovery roll. To do this, roll a d6 and add your tier. You recover that many points, and you can divide them among your stat Pools however you wish. For example, if your recovery roll is 4 and you’ve lost 4 points of Might and 2 points of Speed, you can recover 4 points of Might, or 2 points of Might and 2 points of Speed, or any other combination adding up to 4 points.
@@ -334,12 +334,12 @@ When you rest, make a recovery roll. To do this, roll a d6 and add your tier. Yo
 
 >Each character chooses when to make recovery rolls. If a party of five PCs rests for ten minutes because two of them want to make recovery rolls, the others don’t have to make rolls at that time. Later in the day, those three can decide to rest for ten minutes and make recovery rolls.
  ##### Recovery Roll Table
->| Recovery Roll        | Rest Time Needed |
+>| Recovery Roll    | Rest Time Needed |
 >|----------------------|------------------|
->| First recovery roll  | One action       |
->| Second recovery roll | Ten minutes      |
->| Third recovery roll  | One hour         |
->| Fourth recovery roll | Ten hours        |
+>| First recovery roll | One action    |
+>| Second recovery roll | Ten minutes   |
+>| Third recovery roll | One hour     |
+>| Fourth recovery roll | Ten hours    |
 
 #### Restoring the Damage Track
 Using points from a recovery roll to raise a stat Pool from 0 to 1 or higher also automatically moves the character up one step on the damage track.
@@ -540,15 +540,15 @@ As further guidance, the following are some of the more common actions a player 
 #### Climbing
 When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties.
 
-| Difficulty | Surface                                             |
+| Difficulty | Surface                       |
 |------------|-----------------------------------------------------|
-| 2          | Surface with lots of handholds                      |
-| 3          | Stone wall or similar surface (a few handholds)     |
-| 4          | Crumbling or slippery surface                       |
-| 5          | Smooth stone wall or similar surface                |
-| 6          | Metal wall or similar surface                       |
-| 8          | Smooth, horizontal surface (climber is upside down) |
-| 10         | Glass wall or similar surface                       |
+| 2     | Surface with lots of handholds           |
+| 3     | Stone wall or similar surface (a few handholds)   |
+| 4     | Crumbling or slippery surface            |
+| 5     | Smooth stone wall or similar surface        |
+| 6     | Metal wall or similar surface            |
+| 8     | Smooth, horizontal surface (climber is upside down) |
+| 10     | Glass wall or similar surface            |
 
 #### Cooperative Actions
 There are many ways multiple characters can work together. None of these options, however, can be used at the same time by the same characters.
@@ -643,7 +643,7 @@ If you’re simply swimming from one place to another, such as across a calm riv
 #### Understanding, Identifying, or Remembering
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
 ##### [[Knowledge-Task-Difficulty|Knowledge-Task-Difficulty]]
-###  Vehicular Movement
+### Vehicular Movement
 Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.
 
 In a vehicular chase, drivers attempt Speed actions just like in a regular chase, but the task may be based either on the level of the driver (modified by the level and movement rate of the vehicle) or on the level of the vehicle (modified by the level of the driver). So if a PC driving a typical car is chasing a level 3 NPC driving a level 5 sports car, the PC would make three chase rolls with a difficulty of 5. If the PC’s car is a souped-up custom vehicle, it might grant the PC an asset in the chase. If the PC is not in a car at all, but riding a bicycle, it might hinder the chase rolls by two or three steps, or the GM might simply rule that it’s impossible.
@@ -672,14 +672,14 @@ This bare-bones system should allow the GM and players to flesh out exciting enc
 >
 >Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
 
-| Targeting Task                  | Attack Hindered | Effect                                                   |
+| Targeting Task         | Attack Hindered | Effect                          |
 |---------------------------------|-----------------|----------------------------------------------------------|
-| Disable weapons                 | Two steps       | One or more of the vehicle’s weapons no longer function  |
-| Disable defenses                |                 |                                                          |
-| (if applicable)                 | Two steps       | Attacks against the vehicle are eased                    |
-| Disable engine/drive            | Three steps     | Vehicle cannot move, or movement is hampered             |
-| Disable maneuverability         | Two steps       | Vehicle cannot alter its present course                  |
-| Strike power core or vital spot | Five steps      | Vehicle is completely destroyed                          |
+| Disable weapons         | Two steps    | One or more of the vehicle’s weapons no longer function |
+| Disable defenses        |         |                             |
+| (if applicable)         | Two steps    | Attacks against the vehicle are eased          |
+| Disable engine/drive      | Three steps   | Vehicle cannot move, or movement is hampered       |
+| Disable maneuverability     | Two steps    | Vehicle cannot alter its present course         |
+| Strike power core or vital spot | Five steps   | Vehicle is completely destroyed             |
 
 ## [[Magical-Rules-Module|Magical Rules Module]]
 
@@ -698,7 +698,7 @@ The PC generally makes rolls for their follower when the follower takes actions,
 >
 > When the follower acts autonomously rather than helping the PC, they act like a normal NPC that has modifications. Thus, the modification increases their effective level for the associated task by one step. For example, the level 2 spy follower with modifications for stealth and deception attempts stealth and deception tasks as if they were level 3 and all other tasks as level 2.
 
-   #### Follower Assets to Combat and Defense
+  #### Follower Assets to Combat and Defense
 > A follower cannot grant an asset to a character’s attacks or defense until the follower is level 3 or higher. Even then, the follower can help with attacks and defense only if they have a modification for that kind of task.
 >
 > Some abilities may grant a special exception to this rule. For instance, the Serv-0 Defender ability gives your level 1 Serv-0 follower (a machine companion) a modification for Speed defense.

@@ -11,7 +11,7 @@ id: Piloting-System-Gm-Intrusions
 ---
 
 ## Piloting System Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Piloting System Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Piloting System Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Starcraft drive stutters, off-line next turn, unless quickly repaired. |
 | 2 | Miscalculated flight vector occludes or disrupts allied craft, hindering its actions next turn. |

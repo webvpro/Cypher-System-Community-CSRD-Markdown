@@ -11,7 +11,7 @@ id: Power-Boost
 ---
 
 ## Power Boost Table
-|  Roll &nbsp; &nbsp; | Power Boost  |
+| Roll &nbsp; &nbsp; | Power Boost |
 | ------------- | :----------- |
 | 1-10 | [[Area-Boost\|Area Boost]] |
 | 11-20 | [[Burst-Boost\|Burst Boost]] |

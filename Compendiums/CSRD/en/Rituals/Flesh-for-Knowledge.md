@@ -19,7 +19,7 @@ Sacrifices some of the ritualist’s flesh, inflicting Might and Speed damage eq
 >Chanting, restraining the subject of the ritual
 ### Side Effects
 >Lasting damage, permanent damage, scarring
-###  Reagents
+### Reagents
 >Silver knife, silver vessel
 ### Pool
 >See above

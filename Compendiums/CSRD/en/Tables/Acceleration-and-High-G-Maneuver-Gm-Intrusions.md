@@ -11,7 +11,7 @@ id: Acceleration-and-High-G-Maneuver-Gm-Intrusions
 ---
 
 ## Acceleration and High-G Maneuver Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Acceleration and High-G Maneuver Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Acceleration and High-G Maneuver Gm Intrusions |
 | ------------- | :----------- |
 | 1 | After high-G maneuvers, even with amelioration, tissue bruising results, giving the character black eyes, which take a few days to clear. |
 | 2 | While under high Gs, a tool or piece of equipment comes loose, accelerates through the craft, and strikes the character, inflicting damage. The bigger the tool and the farther it falls before striking the character, the more damage is inflicted, possibly including being knocked a step down the damage track. |

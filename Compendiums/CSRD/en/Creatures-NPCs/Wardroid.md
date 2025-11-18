@@ -41,7 +41,7 @@ When star troopers need heavy support, they sometimes bring in wardroids. These 
 > When defeated, the wardroid detonates, inflicting 8 points of damage on all creatures within immediate range.
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Ability  |
+| Roll &nbsp; &nbsp; &nbsp; | Ability |
 | ------------- | :----------- |
 | 1 | Emit poison gas that inflicts 5 points of damage on organic beings in immediate range |
 | 2 | Project grenades up to long distance that detonate in an immediate radius, inflicting 5 points of damage |

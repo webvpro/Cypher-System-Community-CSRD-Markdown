@@ -26,7 +26,7 @@ To progress to the next tier, characters earn experience points (XP) by pursuing
 ### Extra Effort
 >Your [[Effort]] score increases by 1.
 
-###  Skills
+### Skills
 >You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
 >
 > >[!note]

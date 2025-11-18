@@ -22,7 +22,7 @@ Characters with a flavor of technology typically are from science fiction or at 
 >[[Tech-Skills|Tech Skills]]
 >[[Tinker|Tinker]]
 
-###  Tier 2 Abilities
+### Tier 2 Abilities
 >[[Distant-Interface|Distant Interface]]
 >[[Machine-Efficiency|Machine Efficiency]]
 >[[Overload-Machine|Overload Machine]]

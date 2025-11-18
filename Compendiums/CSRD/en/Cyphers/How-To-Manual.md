@@ -19,7 +19,7 @@ id: How-To-Manual
 
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain. If the manual is studied for about an hour, the character gains an asset to a related knowledge task.
 
-|  Roll &nbsp; &nbsp; &nbsp; | How-To Manual  |
+| Roll &nbsp; &nbsp; &nbsp; | How-To Manual |
 | ------------- | :----------- |
 | 1 | Plumbing |
 | 2 | Electronics |

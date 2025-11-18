@@ -18,7 +18,7 @@ The GM should always be involved in flavoring a type. For example, they might kn
 
 In the end, flavor is mostly a tool for the GM to easily create campaign-specific types by making a few slight alterations to the four base types. Although players may wish to use flavors to get the characters they want, remember that they can also shape their PCs with descriptors and foci very nicely.
 
->[!example]  The flavors available
+>[!example] The flavors available
 > - [[Stealth-Flavor|Stealth Flavor]]
 > - [[Technology-Flavor|Technology Flavor]]
 > - [[Magic-Flavor|Magic Flavor]]

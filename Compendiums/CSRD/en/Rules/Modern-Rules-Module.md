@@ -21,23 +21,23 @@ Sometimes, the types might be more physical than is always desirable for a moder
 
 Last, don’t forget foci such as [[Doesnt-Do-Much|Doesn't Do Much]] or [[Would-Rather-Be-Reading|Would Rather Be Reading]] for “normal” characters who have useful skills but not much in the way of flashy abilities.
 #### Suggested Types for a Modern Game
-| Role                                    | Type                                      |
+| Role                  | Type                   |
 |-----------------------------------------|-------------------------------------------|
-| Police officer                          | Explorer with combat flavor               |
-| Detective                               | Explorer with stealth flavor              |
-| Soldier                                 | Warrior                                   |
-| Criminal                                | Explorer with stealth flavor              |
-| Teacher                                 | Speaker                                   |
-| Professional (accountant, writer, etc.) | Speaker with skills and knowledge flavor  |
-| Technical profession                    | Explorer with skills and knowledge flavor |
-| Dilettante                              | Speaker with skills and knowledge flavor  |
-| Doctor/Nurse                            | Explorer with skills and knowledge flavor |
-| Politician                              | Speaker                                   |
-| Lawyer                                  | Speaker                                   |
-| Scholar                                 | Explorer with skills and knowledge flavor |
-| Spy                                     | Speaker with stealth flavor               |
-| Occultist                               | Adept                                     |
-| Mystic/Psychic                          | Adept                                     |
+| Police officer             | Explorer with combat flavor        |
+| Detective                | Explorer with stealth flavor       |
+| Soldier                 | Warrior                  |
+| Criminal                | Explorer with stealth flavor       |
+| Teacher                 | Speaker                  |
+| Professional (accountant, writer, etc.) | Speaker with skills and knowledge flavor |
+| Technical profession          | Explorer with skills and knowledge flavor |
+| Dilettante               | Speaker with skills and knowledge flavor |
+| Doctor/Nurse              | Explorer with skills and knowledge flavor |
+| Politician               | Speaker                  |
+| Lawyer                 | Speaker                  |
+| Scholar                 | Explorer with skills and knowledge flavor |
+| Spy                   | Speaker with stealth flavor        |
+| Occultist                | Adept                   |
+| Mystic/Psychic             | Adept                   |
 
 ### Basic Creatures and NPCs for a Modern Game
 #### Businessperson
@@ -59,91 +59,91 @@ Last, don’t forget foci such as [[Doesnt-Do-Much|Doesn't Do Much]] or [[Would-
 ### Additional Modern Equipment
 In a modern setting, the following items (and anything else appropriate to the real world) are usually available.
 #### Inexpensive Items
-| Weapons                 | Notes                          |
+| Weapons         | Notes             |
 |-------------------------|--------------------------------|
-| Ammo (box of 50 rounds) |                                |
-| Knife (simple)          | Light weapon (won’t last long) |
-|                         |                                |
-| Other Items             | Notes                          |
-| Duct tape roll          | Useful and ubiquitous          |
-| Flashlight              |                                |
-| Padlock with keys       |                                |
-| Trail rations (1 day)   |                                |
+| Ammo (box of 50 rounds) |                |
+| Knife (simple)     | Light weapon (won’t last long) |
+|             |                |
+| Other Items       | Notes             |
+| Duct tape roll     | Useful and ubiquitous     |
+| Flashlight       |                |
+| Padlock with keys    |                |
+| Trail rations (1 day)  |                |
 #### Moderately Priced Items
-| Weapons       | Notes                                                             |
+| Weapons    | Notes                               |
 |---------------|-------------------------------------------------------------------|
-| Hand grenade  | Explosive weapon, inflicts 4 points of damage in immediate radius |
-| Hunting knife | Light weapon                                                      |
-| Machete       | Medium weapon                                                     |
-| Nightstick    | Light weapon                                                      |
+| Hand grenade | Explosive weapon, inflicts 4 points of damage in immediate radius |
+| Hunting knife | Light weapon                           |
+| Machete    | Medium weapon                           |
+| Nightstick  | Light weapon                           |
 
-| Armor          | Notes                  |
+| Armor     | Notes         |
 |----------------|------------------------|
-| Leather jacket | Light armor            |
-| Shield         | Asset to Speed defense |
+| Leather jacket | Light armor      |
+| Shield     | Asset to Speed defense |
 
-| Other Items        | Notes                               |
+| Other Items    | Notes                |
 |--------------------|-------------------------------------|
-| Backpack           |                                     |
-| Bag of heavy tools |                                     |
-| Bag of light tools |                                     |
-| Binoculars         | Asset for perception tasks at range |
-| Bolt cutters       |                                     |
-| Cell phone         |                                     |
-| Climbing gear      |                                     |
-| Crowbar            |                                     |
-| Electric lantern   |                                     |
-| First aid kit      | Asset for healing tasks             |
-| Handcuffs          |                                     |
-| Rope               | Nylon, 50 feet                      |
-| Sleeping bag       |                                     |
-| Tent               |                                     |
+| Backpack      |                   |
+| Bag of heavy tools |                   |
+| Bag of light tools |                   |
+| Binoculars     | Asset for perception tasks at range |
+| Bolt cutters    |                   |
+| Cell phone     |                   |
+| Climbing gear   |                   |
+| Crowbar      |                   |
+| Electric lantern  |                   |
+| First aid kit   | Asset for healing tasks       |
+| Handcuffs     |                   |
+| Rope        | Nylon, 50 feet           |
+| Sleeping bag    |                   |
+| Tent        |                   |
 
 #### Expensive Items
-| Weapons        | Notes                         |
+| Weapons    | Notes             |
 |----------------|-------------------------------|
-| Light handgun  | Light weapon, short range     |
-| Medium handgun | Medium weapon, long range     |
-| Bow            | Medium weapon, long range     |
-| Rifle          | Medium weapon, long range     |
-| Shotgun        | Heavy weapon, immediate range |
+| Light handgun | Light weapon, short range   |
+| Medium handgun | Medium weapon, long range   |
+| Bow      | Medium weapon, long range   |
+| Rifle     | Medium weapon, long range   |
+| Shotgun    | Heavy weapon, immediate range |
 
-| Armor       | Notes        |
+| Armor    | Notes    |
 |-------------|--------------|
 | Kevlar vest | Medium armor |
 
-| Other Items                         | Notes                   |
+| Other Items             | Notes          |
 |-------------------------------------|-------------------------|
-| Camera designed to be concealed     | Transmits at long range |
+| Camera designed to be concealed   | Transmits at long range |
 | Microphone designed to be concealed | Transmits at long range |
-| Cold weather camping gear           |                         |
-| Nightvision goggles                 |                         |
-| Scuba gear                          |                         |
-| Smartphone                          |                         |
-| Straightjacket                      |                         |
+| Cold weather camping gear      |             |
+| Nightvision goggles         |             |
+| Scuba gear             |             |
+| Smartphone             |             |
+| Straightjacket           |             |
 #### Very Expensive Items
-| Weapons        | Notes                 | Additional Notes      |
+| Weapons    | Notes         | Additional Notes   |
 |----------------|-----------------------|-----------------------|
-| Heavy handgun  | Heavy weapon          | long range            |
-| Assault rifle  | Heavy weapon          | rapid-fire weapon, long range |
-| Heavy rifle    | Heavy weapon          | 300-foot (90 m) range |
-| Submachine gun | Medium weapon         | rapid-fire weapon, short range |
+| Heavy handgun | Heavy weapon     | long range      |
+| Assault rifle | Heavy weapon     | rapid-fire weapon, long range |
+| Heavy rifle  | Heavy weapon     | 300-foot (90 m) range |
+| Submachine gun | Medium weapon     | rapid-fire weapon, short range |
 
-| Armor                  | Notes                                  |
+| Armor         | Notes                 |
 |------------------------|----------------------------------------|
 | Lightweight body armor | Medium armor, encumbers as light armor |
-| Military body armor    | Heavy armor                            |
+| Military body armor  | Heavy armor              |
 
-| Other Items  | Notes                    |
+| Other Items | Notes          |
 |--------------|--------------------------|
 | Disguise kit | Asset for disguise tasks |
-| Used car     | Level 3                  |
-| Small boat   | Level 3                  |
+| Used car   | Level 3         |
+| Small boat  | Level 3         |
 #### Exorbitant Items
-| Other Items | Notes   |
+| Other Items | Notes  |
 |-------------|---------|
-| Large boat  | Level 5 |
-| Luxury car  | Level 5 |
-| Sports car  | Level 6 |
+| Large boat | Level 5 |
+| Luxury car | Level 5 |
+| Sports car | Level 6 |
 
 ### [[Optional-Rule-Children-PCs|Optional Rule: Handling PCs as Children]]

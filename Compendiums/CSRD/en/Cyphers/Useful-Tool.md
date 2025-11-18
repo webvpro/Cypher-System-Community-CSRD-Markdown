@@ -19,7 +19,7 @@ id: Useful-Tool
 
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain. The right tool or tools for the job provide an asset to related tasks.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Useful Tool  |
+| Roll &nbsp; &nbsp; &nbsp; | Useful Tool |
 | ------------- | :----------- |
 | 1 | Manual drill |
 | 2 | Hammer |

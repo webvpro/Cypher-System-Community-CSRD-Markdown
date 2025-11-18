@@ -35,7 +35,7 @@ A troll is a hideous humanoid standing at least 10 feet (3 m) tall that hunts mo
 >- sees through deception as level 4 >
 >
 > **Environment: ** Nearly anywhere, hunting alone or in pairs
-> **Interactions: ** Trolls speak their own simple language, but a few know a little bit of a local human language. Most prefer to attack and eat other creatures, but might be bargained with after a successful show of force. Spawned troll: level 4, Might defense as level 5; health 15; Armor 1; claws inflict 5 points of damage;  grabbed victim suffers 5 points of damage each round held by troll
+> **Interactions: ** Trolls speak their own simple language, but a few know a little bit of a local human language. Most prefer to attack and eat other creatures, but might be bargained with after a successful show of force. Spawned troll: level 4, Might defense as level 5; health 15; Armor 1; claws inflict 5 points of damage; grabbed victim suffers 5 points of damage each round held by troll
 > **Uses: **Trolls may be chance encounters in the wilderness for unlucky travelers. Sometimes captured trolls are used by slavers, armies, and powerful wizards as guards and warriors.
 > **Loot: **NA
 > **GM Intrusion: ** Trolls may be chance encounters in the wilderness for unlucky travelers. Sometimes captured trolls are used by slavers, armies, and powerful wizards as guards and warriors.

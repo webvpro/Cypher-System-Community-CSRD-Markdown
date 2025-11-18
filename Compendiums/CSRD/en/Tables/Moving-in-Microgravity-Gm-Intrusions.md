@@ -11,7 +11,7 @@ id: Moving-in-Microgravity-Gm-Intrusions
 ---
 
 ## Moving in Microgravity Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Moving in Microgravity Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Moving in Microgravity Gm Intrusions |
 | ------------- | :----------- |
 | 1 | A misjudged jump uses too much force and the character takes damage when they hit an unexpected bulkhead or other obstruction, or too little force, leaving them stranded in the middle of an open area |
 | 2 | A misjudged jump in microgravity causes the character to strike an important control surface that sets off a secondary issue, causes the character to jump to a dangerous location, or causes their tether (apparently previously abraded) to snap and send them spiraling out into space. |

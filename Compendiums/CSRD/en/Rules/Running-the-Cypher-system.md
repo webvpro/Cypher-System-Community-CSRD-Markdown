@@ -24,7 +24,7 @@ If you’re talking about a task, ideally the difficulty shouldn’t be based on
 Most characters probably are willing to use one or two levels of Effort on a task, and they might have an appropriate skill or asset to decrease the difficulty by a step. That means that a difficulty 4 task will often be treated as difficulty 2 or even 1, and those are easy rolls to make. Don’t hesitate, then, to pull out higher-level difficulties. The PCs can rise to the challenge, especially if they are experienced.
 ### The Impossible Difficulties
 Difficulties 7, 8, 9, and 10 are all technically impossible. Their target numbers are 21, 24, 27, and 30, and you can’t roll those numbers on a d20 no matter how many times you try. Consider, however, all the ways that a character can reduce difficulty. If someone spends a little Effort or has some skill or help, it brings difficulty 7 (target number 21) into the range of possibility—difficulty 6 (target number 18). Now consider that they have specialization, use a lot of Effort, and have help. That might bring the difficulty down to 1 or even 0 (reducing it by two steps from training and specialization, three or four steps from Effort, and one step from the asset of assistance). That practically impossible task just became routine. A fourth-tier character can and will do this—not every time, due to the cost, but perhaps once per game session. You have to be ready for that. A well-prepared, motivated
-sixth-tier character can do that even with a difficulty 10 task. Again, they won’t do it often (they’d have to apply six levels of Effort, and even with an Edge of 6 that would cost 7 points from their Pool, and that’s assuming they’re specialized and have two levels of assets), but it can happen if  they’re really prepared for the task (being specialized and maxed out in asset opportunities reduces the difficulty by four more steps). That’s why sixth-tier characters are at the top of their field, so to speak.
+sixth-tier character can do that even with a difficulty 10 task. Again, they won’t do it often (they’d have to apply six levels of Effort, and even with an Edge of 6 that would cost 7 points from their Pool, and that’s assuming they’re specialized and have two levels of assets), but it can happen if they’re really prepared for the task (being specialized and maxed out in asset opportunities reduces the difficulty by four more steps). That’s why sixth-tier characters are at the top of their field, so to speak.
 ### False Precision
 One way to look at difficulty is that each step of difficulty is worth 3 on the die. That is to say, hinder the task by one step, and the target number rises by 3. Ease the task by one step, and the target number is lowered by 3. Those kinds of changes are big, meaty chunks. Difficulty, as a game mechanic, is not terribly precise. It’s measured in large portions. You never have a target number of 13 or 14, for example—it’s always 3, 6, 9, 12, 15, and so on. (Technically, this is not true. If a character adds 1 to a d20 roll for some reason, it changes a target number of 15 to 14. But this is not worth much discussion.)
 
@@ -59,7 +59,7 @@ For some people, it’s easier to think in terms of a percentage chance. A GM mi
 2. You calculate a target number only once no matter how many times the PCs attempt the action. If you establish that the target number is 12, it’s 12 every time a PC tries that action. (On the other hand, if you had to add numbers to your die roll, you’d have to do it for every attempt.) Consider this fact in light of combat. Once a player knows that they need to roll a 12 or higher to hit a foe, combat moves very quickly.
 3. If a PC can reduce the difficulty of an action to 0, no roll is needed. This means that an Olympic gymnast doesn’t roll a die to walk across a balance beam, but the average person does. The task is initially rated the same for both, but the difficulty is reduced for the gymnast. There’s no chance of failure.
 4. This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.
-5.  Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to) the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
+5. Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to) the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.
 ## GM Intrusion
 GM intrusion is the main mechanic that the GM uses to inject drama and additional excitement into the game. It’s also a handy tool for resolving issues that affect the PCs but do not involve them. GM intrusion is a way to facilitate what goes on in the world outside the characters. Can the minotaur track the PCs’ movements through the maze? Will the fraying rope hold?
 
@@ -274,59 +274,59 @@ Most artifacts in a Cypher System fairy tale setting are magical objects that ha
 In a modern fantasy setting, the following items (and anything else appropriate to a modern Earthlike world) are usually available. As with most physical things, a character can spend more for a higher-quality version of an item, such as an expensive altar cloth instead of a moderately priced one. Some of these price categories are higher than for a typical real-world item because items used with magic usually require higher quality or specific materials.
 
 #### Inexpensive Items
-| Item                   | Notes                                                 |
+| Item          | Notes                         |
 |------------------------|-------------------------------------------------------|
-| Bottle                 |                                                       |
-| Bowl                   |                                                       |
-| Box                    |                                                       |
-| Candle                 |                                                       |
-| Candle Holder          |                                                       |
-| Crystals               |                                                       |
-| Figurine               |                                                       |
-| Fresh or dried flowers |                                                       |
-| Incense                |                                                       |
-| Mason Jar              |                                                       |
-| Metal needles          |                                                       |
-| Mortar and pestle      | Required for some magic and crafting                  |
-| Pendulum               |                                                       |
-| Poster                 | Diagrams of herbs and medicinal plants                |
-| Sealing wax            | Used in some rituals and for sealing letters          |
-| Seashells              |                                                       |
-| Smudging stick         | For cleansing an area and warding off negative energy |
-| Tea                    |                                                       |
+| Bottle         |                            |
+| Bowl          |                            |
+| Box          |                            |
+| Candle         |                            |
+| Candle Holder     |                            |
+| Crystals        |                            |
+| Figurine        |                            |
+| Fresh or dried flowers |                            |
+| Incense        |                            |
+| Mason Jar       |                            |
+| Metal needles     |                            |
+| Mortar and pestle   | Required for some magic and crafting         |
+| Pendulum        |                            |
+| Poster         | Diagrams of herbs and medicinal plants        |
+| Sealing wax      | Used in some rituals and for sealing letters     |
+| Seashells       |                            |
+| Smudging stick     | For cleansing an area and warding off negative energy |
+| Tea          |                            |
 
 
 #### Moderately Priced Items
 
-|                         |                                     |
+|             |                   |
 |-------------------------|-------------------------------------|
-| Old book                | Asset on knowledge related tasks    |
-| Plant                   | Provides herbs or supportive energy |
-| Pouch                   | Leather or velvet                   |
-| Rune set                | Required for some divination spells |
-| Set of small stones     | Required for some magic             |
-| Signet                  | For use with sealing wax            |
-| Skull (human or animal) |                                     |
-| Spirit board            |                                     |
-| Staff                   |                                     |
-| Tarot deck              |                                     |
-| Vintage clothing        |                                     |
-| Wand                    |                                     |
+| Old book        | Asset on knowledge related tasks  |
+| Plant          | Provides herbs or supportive energy |
+| Pouch          | Leather or velvet          |
+| Rune set        | Required for some divination spells |
+| Set of small stones   | Required for some magic       |
+| Signet         | For use with sealing wax      |
+| Skull (human or animal) |                   |
+| Spirit board      |                   |
+| Staff          |                   |
+| Tarot deck       |                   |
+| Vintage clothing    |                   |
+| Wand          |                   |
 
 #### Expensive Items
-| Old book                | Asset on knowledge related tasks    |
+| Old book        | Asset on knowledge related tasks  |
 |-------------------------|-------------------------------------|
-| Plant                   | Provides herbs or supportive energy |
-| Pouch                   | Leather or velvet                   |
-| Rune set                | Required for some divination spells |
-| Set of small stones     | Required for some magic             |
-| Signet                  | For use with sealing wax            |
-| Skull (human or animal) |                                     |
-| Spirit board            |                                     |
-| Staff                   |                                     |
-| Tarot deck              |                                     |
-| Vintage clothing        |                                     |
-| Wand                    |                                     |
+| Plant          | Provides herbs or supportive energy |
+| Pouch          | Leather or velvet          |
+| Rune set        | Required for some divination spells |
+| Set of small stones   | Required for some magic       |
+| Signet         | For use with sealing wax      |
+| Skull (human or animal) |                   |
+| Spirit board      |                   |
+| Staff          |                   |
+| Tarot deck       |                   |
+| Vintage clothing    |                   |
+| Wand          |                   |
 
 Many items in these lists are magical implements used with casting spells and performing rituals, but don’t have a specific purpose in the rules. The GM may decide that certain abilities or kinds of abilities require them or are hindered without them, such as using a crystal ball for a scrying spell, an athame for a protection spell, or a spirit board for a ritual to talk to a dead person.
 
@@ -444,16 +444,16 @@ Sometimes a group of superheroes needs special equipment so they can participate
 
 ### Fantasy Equipment
 #### Medieval Fantasy Equipment
-| Category       | GP Value        |
+| Category    | GP Value    |
 | -------------- | --------------- |
-| Inexpensive    | Less than 1 gp  |
-| Moderate       | 1–10 gp         |
-| Expensive      | 100–500 gp      |
+| Inexpensive  | Less than 1 gp |
+| Moderate    | 1–10 gp     |
+| Expensive   | 100–500 gp   |
 | Very expensive | 1,000–10,000 gp |
-| Exorbitant     | 10,000+ gp      |
+| Exorbitant   | 10,000+ gp   |
 
 ##### Starting Gold Pieces for Characters
->-  **Warrior Starting Equipment**: Appropriate clothing and two weapons of your choice, plus 6d6 + 100 gp.
+>- **Warrior Starting Equipment**: Appropriate clothing and two weapons of your choice, plus 6d6 + 100 gp.
 >- **Adept Starting Equipment**: Appropriate clothing, plus 3d6 + 80 gp.
 >- **Explorer Starting Equipment**: Appropriate clothing and a weapon of your choice, plus 3d6 + 90 gp.
 >- **Speaker Starting Equipment**: Appropriate clothing and a light weapon of your choice, plus 3d6 + 90 gp

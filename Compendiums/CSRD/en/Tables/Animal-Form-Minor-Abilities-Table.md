@@ -12,29 +12,29 @@ id: Animal-Form-Minor-Abilities-Table
 ## Animal Form Minor Abilities
 
 
-| Animal            | Skill Training         | Other Abilities |
+| Animal      | Skill Training     | Other Abilities |
 |-------------------|------------------------|-----------------|
-| Ape               | Climbing               | Hands           |
-| Badger            | Climbing               | Scent           |
-| Bat               | Perception             | Flying          |
-| Bear              | Climbing               | Scent           |
-| Bird              | Perception             | Flying          |
-| Boar              | Might defense          | Scent           |
-| Cat               | Climbing or stealth    | Small           |
-| Constrictor snake | Climbing               | Constrict       |
-| Crocodile         | Stealth or swimming    | Constrict       |
-| Deinonychus       | Perception             | Fast            |
-| Dolphin           | Perception or swimming | Fast            |
-| Fish              | Stealth or swimming    | Aquatic         |
-| Frog              | Jumping or stealth     | Aquatic         |
-| Horse             | Perception             | Fast            |
-| Leopard           | Climbing or stealth    | Fast            |
-| Lizard            | Climbing or stealth    | Small           |
-| Octopus           | Stealth                | Aquatic         |
-| Shark             | Swimming               | Aquatic         |
-| Turtle            | Might defense          | Armor           |
-| Venomous snake    | Climbing               | Venom           |
-| Wolf              | Perception             | Scent           |
+| Ape        | Climbing        | Hands      |
+| Badger      | Climbing        | Scent      |
+| Bat        | Perception       | Flying     |
+| Bear       | Climbing        | Scent      |
+| Bird       | Perception       | Flying     |
+| Boar       | Might defense     | Scent      |
+| Cat        | Climbing or stealth  | Small      |
+| Constrictor snake | Climbing        | Constrict    |
+| Crocodile     | Stealth or swimming  | Constrict    |
+| Deinonychus    | Perception       | Fast      |
+| Dolphin      | Perception or swimming | Fast      |
+| Fish       | Stealth or swimming  | Aquatic     |
+| Frog       | Jumping or stealth   | Aquatic     |
+| Horse       | Perception       | Fast      |
+| Leopard      | Climbing or stealth  | Fast      |
+| Lizard      | Climbing or stealth  | Small      |
+| Octopus      | Stealth        | Aquatic     |
+| Shark       | Swimming        | Aquatic     |
+| Turtle      | Might defense     | Armor      |
+| Venomous snake  | Climbing        | Venom      |
+| Wolf       | Perception       | Scent      |
 
 
 > [!tip] Aquatic

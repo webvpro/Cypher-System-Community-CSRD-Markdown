@@ -23,17 +23,17 @@ In some cases, the ideas here require minor changes to the flavor described in t
 ### Barbarian
 >A barbarian character is probably a [[Warrior|Warrior]] or (to focus a little more on skills than combat) an [[Explorer|Explorer]]. Good foci to choose from are [[Lives-in-the-Wilderness|Lives in the Wilderness]], [[Masters-Weaponry|Masters Weaponry]], [[Needs-No-Weapon|Needs No Weapon]], [[Never-Says-Die|Never Says Die]], [[Performs-Feats-of-Strength|Performs Feats of Strength]], and [[Rages|Rages]].
 
-###  Bard
+### Bard
 > Bards in fantasy fiction and games are troubadours, minstrels, and storytellers, perhaps with a supernatural element. Bards are usually [[Explorer|Explorers]] or [[Speaker|Speakers]]. Appropriate foci are [[Entertains|Entertains]], [[Helps-Their-Friends|Helps Their Friends]], [[Infiltrates|Infiltrates]], and [[Masters-Spells|Masters Spells]].
 
 ### Cleric or Priest
  > Academic clerics are usually [[Adept|Adepts]] or [[Speaker|Speakers]], but martial clerics are often [[Warrior|Warriors]] (perhaps with [[Magic-Flavor|Magic Flavor]] ). For a typical cleric with a versatile set of abilities, choose the Channels Divine Blessings focus.
- >  - **Cleric (death):** [[Consorts-with-the-Dead|Consorts with the Dead]], [[Shepherds-Spirits|Shepherds Spirits]]
- >  - **Cleric (knowledge):** [[Learns-Quickly|Learns Quickly]], [[Sees-Beyond|Sees Beyond]], [[Would-Rather-Be-Reading|Would Rather Be Reading]]
- >  - **Cleric (life):** [[Defends-the-Weak|Defends the Weak]], [[Shepherds-the-Community|Shepherds the Community]], [[Works-Miracles|Works Miracles]]
- >  - **Cleric (light):** [[Blazes-with-Radiance|Blazes with Radiance]], [[Channels-Divine-Blessings|Channels Divine Blessings]]
- >  - **Cleric (storm):** [[Rides-the-Lightning|Rides the Lightning]], [[Thunders|Thunders]]
- >  - **Cleric (trickery):** [[Takes-Animal-Shape|Takes Animal Shape*]] (also see options for rogues)
+ > - **Cleric (death):** [[Consorts-with-the-Dead|Consorts with the Dead]], [[Shepherds-Spirits|Shepherds Spirits]]
+ > - **Cleric (knowledge):** [[Learns-Quickly|Learns Quickly]], [[Sees-Beyond|Sees Beyond]], [[Would-Rather-Be-Reading|Would Rather Be Reading]]
+ > - **Cleric (life):** [[Defends-the-Weak|Defends the Weak]], [[Shepherds-the-Community|Shepherds the Community]], [[Works-Miracles|Works Miracles]]
+ > - **Cleric (light):** [[Blazes-with-Radiance|Blazes with Radiance]], [[Channels-Divine-Blessings|Channels Divine Blessings]]
+ > - **Cleric (storm):** [[Rides-the-Lightning|Rides the Lightning]], [[Thunders|Thunders]]
+ > - **Cleric (trickery):** [[Takes-Animal-Shape|Takes Animal Shape*]] (also see options for rogues)
 
 ### Druid
  > As a very specific sort of nature priest, a druid character is usually an [[Adept|Adept]] or [[Explorer|Explorer]] (in either case probably using the [[Magic-Flavor|Magic Flavor]]). A typical druid probably has [[Channels-Divine-Blessings|Channels Divine Blessings]] or [[Lives-in-the-Wilderness|Lives in the Wilderness]] as a focus, but for more specific options, see the following foci:
@@ -51,10 +51,10 @@ In some cases, the ideas here require minor changes to the flavor described in t
 
 ### Gunslinger
 > A gunslinger is probably a [[Warrior|Warrior]] or [[Explorer|Explorer]], but some are [[Speaker|Speakers]] with [[Combat-Flavor|Combat Flavor]] . Appropriate foci are Is [[Is-Licensed-to-Carry|Is Licensed to Carry]], [[Masters-Weaponry|Masters Weaponry]], [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]], and [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon*]].
-###  Inquisitor
+### Inquisitor
 > Inquisitors are usually [[Explorer|Explorers]], [[Speaker|Speakers]], or [[Warrior|Warriors]]\, depending on whether their inclinations are for having many skills, being good at interacting with people, or combat. Appropriate foci are [[Infiltrates|Infiltrates]], [[Metes-Out-Justice|Metes Out Justice]], and [[Operates-Undercover|Operates Undercover]].
 
-###  Merchant
+### Merchant
 > An [[Explorer|Explorer]] with a focus dealing with social interactions, like [[Entertains|Entertains]] or [[Leads|Leads]], would make a good merchant character, but the more obvious choice would be a [[Speaker|Speaker]].
 
 ### Monk or Martial Artist
@@ -70,22 +70,22 @@ In some cases, the ideas here require minor changes to the flavor described in t
 > Most rogue-type characters are [[Explorer|Explorers]], but an interaction-focused rogue could easily be a [[Speaker|Speaker]] (perhaps with [[Stealth-Flavor|Stealth Flavor]]). Good foci for rogues are [[Explores-Dark-Places|Explores Dark Places]], [[Fights-Dirty|Fights Dirty]], [[Hunts|Hunts]], [[Infiltrates|Infiltrates]], [[Is-Wanted-by-the-Law|Is Wanted by the Law]], [[Moves-Like-a-Cat|Moves Like a Cat]], [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]], and [[Works-the-Back-Alleys|Works the Back Alleys]].
 
  ### Sorcerer
- >  Sorcerers, for our purpose here, are mages who have inherent magical abilities (as opposed to wizards, who study long and hard to get their spells). Most sorcerers are [[Adept|Adepts]] but some are [[Explorer|Explorers]] or [[Speaker|Speakers]]. The [[Masters-Spells|Masters Spells]] focus gives a typical sorcerer an effective set of abilities, and most foci choices provide a themed set of spells. For sorcerers of various magical bloodlines, see the following:
- > -  **Sorcerer (angel):** [[Blazes-with-Radiance|Blazes with Radiance]], [[Channels-Divine-Blessings|Channels Divine Blessings]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
- >  -  **Sorcerer (destiny):** [[Descends-From-Nobility|Descends From Nobility]], [[Was-Foretold|Was Foretold]]
- >  -	**Sorcerer (dragon):** [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Rides-the-Lightning|Rides the Lightning]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
- >  -	**Sorcerer (elemental):** [[Abides-in-Stone|Abides in Stone]], [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Employs-Magnetism|Employs Magnetism]], [[Moves-Like-the-Wind|Moves Like the Wind]], [[Rides-the-Lightning|Rides the Lightning]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
- >  -	**Sorcerer (fey):** [[Takes-Animal-Shape|Takes Animal Shape*]]
- >  -	**Sorcerer (fiend):** [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
- >  -	**Sorcerer (undead):** [[Consorts-with-the-Dead|Consorts with the Dead]], [[Shepherds-Spirits|Shepherds Spirits]]
+ > Sorcerers, for our purpose here, are mages who have inherent magical abilities (as opposed to wizards, who study long and hard to get their spells). Most sorcerers are [[Adept|Adepts]] but some are [[Explorer|Explorers]] or [[Speaker|Speakers]]. The [[Masters-Spells|Masters Spells]] focus gives a typical sorcerer an effective set of abilities, and most foci choices provide a themed set of spells. For sorcerers of various magical bloodlines, see the following:
+ > - **Sorcerer (angel):** [[Blazes-with-Radiance|Blazes with Radiance]], [[Channels-Divine-Blessings|Channels Divine Blessings]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
+ > - **Sorcerer (destiny):** [[Descends-From-Nobility|Descends From Nobility]], [[Was-Foretold|Was Foretold]]
+ > -	**Sorcerer (dragon):** [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Rides-the-Lightning|Rides the Lightning]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
+ > -	**Sorcerer (elemental):** [[Abides-in-Stone|Abides in Stone]], [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Employs-Magnetism|Employs Magnetism]], [[Moves-Like-the-Wind|Moves Like the Wind]], [[Rides-the-Lightning|Rides the Lightning]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
+ > -	**Sorcerer (fey):** [[Takes-Animal-Shape|Takes Animal Shape*]]
+ > -	**Sorcerer (fiend):** [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
+ > -	**Sorcerer (undead):** [[Consorts-with-the-Dead|Consorts with the Dead]], [[Shepherds-Spirits|Shepherds Spirits]]
 
-###  Trickster or Con Artist
+### Trickster or Con Artist
 > These clever folks are typically [[Speaker|Speakers]], although they could be [[Adept|Adepts]] if they are very magical (or Explorers if they aren’t magical at all). Foci choices include [[Fights-Dirty|Fights Dirty]], [[Works-the-Back-Alleys|Works the Back Alleys]], or [[Entertains|Entertains]].
 
 ### War-wizard
 > For those unusual characters who use a mix of weapon attacks and spells, play a [[Warrior]] with [[Magic-Flavor|Magic Flavor]] or an Expert with [[Combat-Flavor]] or [[Magic-Flavor|Magic Flavor]]. Appropriate foci include [[Fights-with-Panache|Fights with Panache]], [[Masters-Weaponry|Masters Weaponry]], and [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon]]*.
 
-###  Warlock or Witch
+### Warlock or Witch
 > For the purposes of this list, warlocks and witches are mages who gain magical power from pacts they make with otherworldly entities. Most warlocks are [[Adept|Adepts]]\, but [[Explorer|Explorers]] and [[Speaker|Speakesr]] (perhaps with [[Magic-Flavor|Magic Flavor]]) can be interesting options. Fun foci for a warlock include [[Dances-with-Dark-Matter|Dances with Dark Matter]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]], [[Masters-the-Swarm|Masters the Swarm]], [[Separates-Mind-From-Body|Separates Mind From Body]], and [[Was-Foretold|Was Foretold]], but (depending on the patron and pact) most sorcerer and wizard foci work just as well.
 
 ### Wild Mage
@@ -95,7 +95,7 @@ In some cases, the ideas here require minor changes to the flavor described in t
 > For the purposes of this list, wizards study magical lore at length to learn the ways of spellcasting (as opposed to sorcerers, warlocks, and so on). Wizards are usually [[Adept|Adepts]], but a person-oriented wizard might be a [[Speaker|Speaker]] (perhaps with the [[Magic-Flavor|Magic Flavor]]). For a generalist wizard who has a variety of spells, choose the [[Masters-Spells|Masters Spells]] focus. For more specific kinds of wizards, see the following:
 > -	Wizard (abjurer): [[Absorbs-Energy|Absorbs Energy]], [[Focuses-Mind-over-Matter|Focuses Mind over Matter]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
 > -	Wizard (conjurer or summoner): [[Controls-Beasts|Controls Beasts]], [[Keeps-a-Magic-Ally|Keeps a Magic Ally]]
-> -	Wizard (diviner): [[Learns-Quickly|Learns Quickly]], [[Sees-Beyond|Sees Beyond]],  [[Separates-Mind-From-Body|Separates Mind From Body]], [[Solves-Mysteries|Solves Mysteries]]
+> -	Wizard (diviner): [[Learns-Quickly|Learns Quickly]], [[Sees-Beyond|Sees Beyond]], [[Separates-Mind-From-Body|Separates Mind From Body]], [[Solves-Mysteries|Solves Mysteries]]
 > - Wizard (enchanter): [[Commands-Mental-Powers|Commands Mental Powers]], [[Leads]]
 > -	Wizard (evoker): [[Bears-a-Halo-of-Fire|Bears a Halo of Fire]], [[Blazes-with-Radiance|Blazes with Radiance]], [[Rides-the-Lightning|Rides the Lightning]], [[Thunders]], [[Wears-a-Sheen-of-Ice|Wears a Sheen of Ice]]
 > -	Wizard (illusionist): [[Awakens-Dreams|Awakens Dreams]], [[Crafts-Illusions|Crafts Illusions]]

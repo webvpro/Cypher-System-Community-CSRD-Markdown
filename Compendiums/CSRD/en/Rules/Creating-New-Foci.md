@@ -37,7 +37,7 @@ The newly created focus should be named in the form of a verb, like Controls Bea
 > That said, sometimes you’ll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don’t rule it out. It might be the only way to get all the abilities you want for the focus you’re building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
 
 
-##  Balancing Abilities
+## Balancing Abilities
 >The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given tier, depending on the needs of the focus. A “low-power ability” is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-tier ability (that is, an ability that is normally available at tier 1 or 2).
 >
 >For instance, someone who uses cold might be able to create small snow sculptures in addition to emitting a cold ray. Someone who uses electricity might be able to charge a depleted artifact or have an asset for dealing with electrical systems. And so on.
@@ -46,9 +46,9 @@ The newly created focus should be named in the form of a verb, like Controls Bea
 
 
 ## Ability Guidelines Are Not Prescriptive
->  Each focus category provides a guideline for what kind of ability you should select at every tier. But don’t regard the guidelines as something that you can’t vary. They’re not prescriptive; they’re just a place to start. You might want to vary the kind of ability at a particular tier that isn’t indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it’s fine. The guideline isn’t meant to be a straitjacket.
+> Each focus category provides a guideline for what kind of ability you should select at every tier. But don’t regard the guidelines as something that you can’t vary. They’re not prescriptive; they’re just a place to start. You might want to vary the kind of ability at a particular tier that isn’t indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it’s fine. The guideline isn’t meant to be a straitjacket.
 >
->  For example, if you’re building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
+> For example, if you’re building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
 
 ## Ability Swap
 > If you’re creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a “swap” ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character’s type.
@@ -60,13 +60,13 @@ The newly created focus should be named in the form of a verb, like Controls Bea
 >
 > In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn’t mean the focus should automatically be built using the energy manipulation category guidelines (though of course it could, if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
 >
- >  Here’s another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
+ > Here’s another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
 >
->  The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
+> The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
 >
->  If you’re looking for an ability and can’t seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you’re creating a new earth-moving focus but can’t find enough earth-related abilities to meet your need. It’s easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
->  >[!note] Abilities That Reference Other Abilities
->  >Some abilities in the Abilities chapter reference other abilities. If you select an ability for your focus or type that refers to or modifies a lower-tier ability, also include that lower-tier ability in your type or focus as a selection a PC can make at a lower tier.
+> If you’re looking for an ability and can’t seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you’re creating a new earth-moving focus but can’t find enough earth-related abilities to meet your need. It’s easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
+> >[!note] Abilities That Reference Other Abilities
+> >Some abilities in the Abilities chapter reference other abilities. If you select an ability for your focus or type that refers to or modifies a lower-tier ability, also include that lower-tier ability in your type or focus as a selection a PC can make at a lower tier.
 
 ### Creating Brand New Abilities
 You can go further than reskinning and create one or more brand-new abilities. When doing this, try to find something as close as possible to the effect you want, then use it as a template. In any case, deciding how much an ability should cost when it comes to a character’s Pool is one of the most important aspects of getting an ability right.
@@ -91,7 +91,7 @@ Multiple potential themes exist within the ally use category, from abilities tha
 >The following are examples and not meant to provide a complete list of all possible foci in this category.
 > - [[Builds-Robots|Builds Robots]]
 > - [[Consorts-with-the-Dead]]
-> -  [[Controls-Beasts]]
+> - [[Controls-Beasts]]
 > - [[Exists-in-Two-Places-at-Once]]
 > - [[Leads|Leads]]
 > - [[Masters-the-Swarm|Masters the Swarm]]
@@ -106,26 +106,26 @@ Multiple potential themes exist within the ally use category, from abilities tha
 ###### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->>  One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
+>> One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
 >>
->>  The other option should be something that benefits the character—perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
+>> The other option should be something that benefits the character—perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
 
 ###### Tier 4
 >Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven’t previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
 >
->>  Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
+>> Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
 
 ###### Tier 5
 >Choose an ability that improves the character by providing a defense, an improved stat Pool, or another kind of protection.
 >
->>  Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
+>> Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
 >>
->>  Finally, this ability might improve a previously gained follower to level 5.
+>> Finally, this ability might improve a previously gained follower to level 5.
 
 ###### Tier 6
 >Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >
->>  One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided in addition to two other related abilities.
+>> One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided in addition to two other related abilities.
 >
 >> Another high-tier option could provide a handful of level 3 followers to the character.
 >
@@ -297,17 +297,17 @@ Exploration foci rely on a variety of methods, though training and expertise are
 > - [[Explores-Dark-Places|Explores Dark Places]]
 > - [[Infiltrates|Infiltrates]]
 > - [[Operates-Undercover|Operates Undercover]]
-> -  [[Pilots-Starcraft|Pilots Starcraft]]
+> - [[Pilots-Starcraft|Pilots Starcraft]]
 > - [[Sees-Beyond|Sees Beyond]]
 > - [[Separates-Mind-From-Body|Separates Mind From Body]]
 #### Ability Selection Guidelines
 ##### Tier 1
 >Choose a low-tier ability that grants the character basic exploratory, survival, or information-gathering capabilities within the focus’s theme.
 >
->  Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the Might Pool.
+> Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the Might Pool.
 
 ##### Tier 2
->Choose another low-tier ability that grants an additional capability related to exploration, survival, or information gathering.  For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, or a capability that others normally lack (like the ability to see in the dark).
+>Choose another low-tier ability that grants an additional capability related to exploration, survival, or information gathering. For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, or a capability that others normally lack (like the ability to see in the dark).
 
 ##### Tier 3
 >Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
@@ -474,7 +474,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 >>The other option should be something that further explores the use of the basic
 movement ability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
 
-###  Striker Combat
+### Striker Combat
 Striker combat foci prioritize dealing damage in battle over other concerns. Foci in this category offer defensive abilities as well, but they emphasize abilities that provide ways to spike damage to heights that other foci normally don’t reach.
 
 To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon or martial art, or the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, or something much broader, such as adopting a particularly vicious or unsporting style. A striker combatant might use fire, force, or magnetism as their preferred method of spiking damage.
@@ -494,14 +494,14 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 > - [[Hunts|Hunts]]
 > - [[Is-Licensed-to-Carry|Is Licensed to Carry]]
 > - [[Looks-for-Trouble|Looks for Trouble]]
-> -  [[Masters-Weaponry|Masters Weaponry]]
+> - [[Masters-Weaponry|Masters Weaponry]]
 > - [[Murders|Murders]]
 > - [[Needs-No-Weapon|Needs No Weapon]]
 > - [[Performs-Feats-of-Strength|Performs Feats of Strength]]
 > - [[Rages|Rages]]
 > - [[Slays-Monsters|Slays Monsters]]
 > - [[Throws-with-Deadly-Accuracy|Throws with Deadly Accuracy]]
-> -  [[Wields-Two-Weapons-at-Once|Wields Two Weapons at Once]]
+> - [[Wields-Two-Weapons-at-Once|Wields Two Weapons at Once]]
 #### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
 >
 > Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, or just have general knowledge about that foe. A fighting style that involves fighting in a vicious or dirty manner might provide training in intimidation. And so on.
@@ -512,7 +512,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 >
 > Sometimes an additional low-power ability is appropriate at tier 2. If so, choose whichever low-power ability wasn’t gained at tier 1.
 
-#####  Tier 3>Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+##### Tier 3>Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 >>One option should inflict additional damage when using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 >
 >>The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy.
@@ -548,7 +548,7 @@ Support foci rely on a variety of methods to provide their help, including marti
 > - [[Shepherds-the-Community|Shepherds the Community]]
 > - [[Siphons-Power|Siphons Power]]
 > - [[Works-Miracles|Works Miracles]]
-#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that provides some form of defense, aid or  Entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
+#### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that provides some form of defense, aid or Entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
 > Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn’t do much.
 
 ##### Tier 2>Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
@@ -596,7 +596,7 @@ Some tank combat foci involve a physical transformation that grants additional p
 > - [[Stands-Like-a-Bastion|Stands Like a Bastion]]
 #### Ability Selection Guidelines##### Tier 1>Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
 >
->  Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
+> Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
 
 ##### Tier 2>If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
 >
@@ -627,28 +627,28 @@ At any tier, a player can select one of the following abilities in place of the 
 > - [[Combat-Prowess|Combat Prowess]]
 > - [[Enhanced-Potential|Enhanced Potential]]
 
-###  Tier 2
+### Tier 2
 > - Lower-tier ability: choose any tier 1 replacement ability, above.
 > - [[Skill-With-Defense|Skill With Defense]]
 > - [[Practiced-With-All-Weapons|Practiced With All Weapons]]
 > - [[Skill-With-Attacks|Skill With Attacks]]
 
-###  Tier 3
+### Tier 3
 > - Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
 > - [[Incredible-Health|Incredible Health]]
 > - [[Fusion-Armor|Fusion Armor]]
 
-###  Tier 4
+### Tier 4
 > - Lower-tier ability: choose any tier 1, 2, or 3 replacement ability, above.
 > - [[Compendiums/CSRD/en/Abilities/Poison-Resistance|Poison Resistance]]
 > - [[Built-In-Weaponry|Built-In Weaponry]]
 
-###  Tier 5
+### Tier 5
 > - Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
 > - [[Adaptation|Adaptation]]
 > - [[Defensive-Field|Defensive Field]]
 
-###  Tier 6
+### Tier 6
 > - Lower-tier ability: choose any tier 1, 2, 3, 4, or 5 replacement ability, above.
 > - [[Reactive-Field|Reactive Field]]
 

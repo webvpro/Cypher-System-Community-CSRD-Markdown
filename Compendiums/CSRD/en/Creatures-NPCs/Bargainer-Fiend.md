@@ -19,10 +19,10 @@ id: Bargainer-Fiend
 
 Description text
 
-> **Level :**  3
-> **Health :**  9
+> **Level :** 3
+> **Health :** 9
 > **Damage :** 4 points
-> **Armor :**  2
+> **Armor :** 2
 > **Movement :** Short
 > **Environment: ** Anywhere humans can be found
 
@@ -41,9 +41,9 @@ Description text
 >[!example] Combat
 >> A bargainer fiend attacks with a punch or a firearm. If they aren’t trying to hide their inhuman nature, they throw short-range bolts of painful hellfire, inflicting 4 points of damage and stunning the target for one round.
 >
->>  The heart of a bargainer fiend’s power is its ability to arrange for rewards for a mortal client in exchange for the client’s soul. Typical rewards are training in a skill, learning a new type or focus ability, wealth equivalent to one exorbitant item, an artifact, or anything else that can be acquired by spending 4 XP. The price is always the client’s mortal soul, usually after a specific time period. Bigger demands by the client require the fiend to get approval from their superiors, and the price is higher, but usually still manageable.
+>> The heart of a bargainer fiend’s power is its ability to arrange for rewards for a mortal client in exchange for the client’s soul. Typical rewards are training in a skill, learning a new type or focus ability, wealth equivalent to one exorbitant item, an artifact, or anything else that can be acquired by spending 4 XP. The price is always the client’s mortal soul, usually after a specific time period. Bigger demands by the client require the fiend to get approval from their superiors, and the price is higher, but usually still manageable.
 >
->  >A bargainer fiend can use an action to transform themself into a human or near-human form (such as a human with devil horns) or return to their natural form. They can assume the guise of a specific human (such as a person their client knows) only if that human is dead or has an agreement with a bargainer fiend.
+> >A bargainer fiend can use an action to transform themself into a human or near-human form (such as a human with devil horns) or return to their natural form. They can assume the guise of a specific human (such as a person their client knows) only if that human is dead or has an agreement with a bargainer fiend.
 
 > [!example] Intrusions
 > Bargainer fiends serve at the pleasure of their infernal masters, and they know their lives are forfeit if they ever fail. This colors their interactions with clients; they will say anything to accomplish their mission, and their only true loyalty is to the fiend who created and controls them.

@@ -23,39 +23,39 @@ that include the PCs should be customized to their particular
 experience, and not all tall tales put the subject in a positive light
 (though many do).
 
-  ------------ ------------------------------------------------------
-  d10          Tall Tale
+ ------------ ------------------------------------------------------
+ d10     Tall Tale
 
-  1            Raised by magical winds, the characters once roped a
-               tornado to avert disaster.
+ 1      Raised by magical winds, the characters once roped a
+        tornado to avert disaster.
 
-  2            The characters are able to grow to giant stature, such
-               that lakes form in their footprints.
+ 2      The characters are able to grow to giant stature, such
+        that lakes form in their footprints.
 
-  3            Hard‑hearted survivalists, the characters avoided
-               starvation by eating everyone else in town.
+ 3      Hard‑hearted survivalists, the characters avoided
+        starvation by eating everyone else in town.
 
-  4            Able to invoke the elements, the characters mowed down
-               a forest by blowing on it.
+ 4      Able to invoke the elements, the characters mowed down
+        a forest by blowing on it.
 
-  5            Raised by storms, the characters ride cyclones and
-               dust devils instead of horses.
+ 5      Raised by storms, the characters ride cyclones and
+        dust devils instead of horses.
 
-  6            Keen‑eyed as the sun, the characters can shoot a bull
-               between the eyes from miles away.
+ 6      Keen‑eyed as the sun, the characters can shoot a bull
+        between the eyes from miles away.
 
-  7            Stronger than iron, the characters chewed through the
-               steel bars to escape jail.
+ 7      Stronger than iron, the characters chewed through the
+        steel bars to escape jail.
 
-  8            Able to outsmart privation, the characters wrung water
-               from a wet rock.
+ 8      Able to outsmart privation, the characters wrung water
+        from a wet rock.
 
-  9            Loud as thunder, the characters once killed an outlaw
-               with their booming voices alone.
+ 9      Loud as thunder, the characters once killed an outlaw
+        with their booming voices alone.
 
-  10           Heartless and cruel, the characters once drowned an
-               entire mining camp just for sport.
-  ------------ ------------------------------------------------------
+ 10      Heartless and cruel, the characters once drowned an
+        entire mining camp just for sport.
+ ------------ ------------------------------------------------------
 
 Tall Tale Determination
 
@@ -115,39 +115,39 @@ Downsides of Tall Tales
 Introduce any of the following situations as group (or individual) GM
 intrusions.
 
-  ----- ------------------------------------------------------------
-  d10   Consequence of Tall Tale Acclaim
+ ----- ------------------------------------------------------------
+ d10  Consequence of Tall Tale Acclaim
 
-  1     A newspaper exposé is published about the PCs' exploits,
-        painting them in an unflattering light.
+ 1   A newspaper exposé is published about the PCs' exploits,
+    painting them in an unflattering light.
 
-  2     A 10‑foot (3 m) tall humanoid covered in hair as thick as
-        fur---a wild one---begins stalking PCs.
+ 2   A 10‑foot (3 m) tall humanoid covered in hair as thick as
+    fur---a wild one---begins stalking PCs.
 
-  3     Misanthropes arrive and begin making all sorts of hateful
-        comments about the PCs.
+ 3   Misanthropes arrive and begin making all sorts of hateful
+    comments about the PCs.
 
-  4     Someone tells an alternate tall tale painting PCs as
-        ruthless outlaws; folks begin to shun PCs.
+ 4   Someone tells an alternate tall tale painting PCs as
+    ruthless outlaws; folks begin to shun PCs.
 
-  5     Relatives of one or more PCs come under scrutiny and
-        harassment by fame chasers.
+ 5   Relatives of one or more PCs come under scrutiny and
+    harassment by fame chasers.
 
-  6     Federal marshals attempt to press‑gang PCs into service to
-        face a horrific threat.
+ 6   Federal marshals attempt to press‑gang PCs into service to
+    face a horrific threat.
 
-  7     A hex gunner decides the PCs aren't all that and challenges
-        one character to a showdown.
+ 7   A hex gunner decides the PCs aren't all that and challenges
+    one character to a showdown.
 
-  8     A former friend and/or ally no longer wants anything to do
-        with the PCs.
+ 8   A former friend and/or ally no longer wants anything to do
+    with the PCs.
 
-  9     Thieves try to claim all the riches they believe the PCs
-        have for themselves.
+ 9   Thieves try to claim all the riches they believe the PCs
+    have for themselves.
 
-  10    Fame chasers break in on the PCs during important
-        negotiations.
-  ----- ------------------------------------------------------------
+ 10  Fame chasers break in on the PCs during important
+    negotiations.
+ ----- ------------------------------------------------------------
 
 Wild one: *level 5, wilderness and magical lore as level 7; health 24;
 Armor 1; batters foes twice as their action*

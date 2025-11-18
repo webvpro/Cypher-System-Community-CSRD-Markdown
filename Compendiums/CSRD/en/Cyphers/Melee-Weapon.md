@@ -19,7 +19,7 @@ id: Melee-Weapon
 
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Melee Weapon  |
+| Roll &nbsp; &nbsp; &nbsp; | Melee Weapon |
 | ------------- | :----------- |
 | 1 | Sap/blackjack (light) |
 | 2 | Hand axe (light) |

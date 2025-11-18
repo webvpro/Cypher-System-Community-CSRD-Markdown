@@ -23,7 +23,7 @@ id: Pictureless-Book
 
 Reading the book aloud for one round causes all who hear it within short range (except the user) to fall into a deep sleep for one round. While they sleep, they have intense dreams and cannot take any other actions. The dreams affect them in one of the following ways. Pictureless book affects NPCs' health instead of their Pools, either restoring them to full health or doing 5 points of damage.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Pictureless Book  |
+| Roll &nbsp; &nbsp; &nbsp; | Pictureless Book |
 | ------------- | :----------- |
 | 1-2 | Sweet dreams. All dreaming characters have all of their Pools restored to full. |
 | 3-4 | Nightmares. All dreaming characters take 5 points of Intellect damage. |

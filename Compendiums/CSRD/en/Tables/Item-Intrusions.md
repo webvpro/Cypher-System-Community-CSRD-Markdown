@@ -11,7 +11,7 @@ id: Item-Intrusions
 ---
 
 ## Item Intrusions Table
-|  Roll &nbsp; &nbsp; | Item Intrusions  |
+| Roll &nbsp; &nbsp; | Item Intrusions |
 | ------------- | :----------- |
 | 1 | A magical ability, cypher, or artifact does exactly what it's supposed to, but also creates a weird side effect that affects a nearby friend (or foe). |
 | 2 | A piece of equipment whispers lies into the character's ear, making a convincing argument that their friends are not loyal. |

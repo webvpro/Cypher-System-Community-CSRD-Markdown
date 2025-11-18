@@ -14,7 +14,7 @@ id: General-Horror-Gm-Intrusions
 ---
 
 ## General Horror Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | General Horror Gm Intrusions  |
+| Roll &nbsp; &nbsp; | General Horror Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Something foils a character's attempt to escape: a getaway car won't start, they drop the keys that unlock the exit door or lock up the villain, or the shotgun they're using to clear a path jams or runs out of shells. |
 | 2 | The antagonist enters a secure or sealed room by an unexpected method: crashing through a door or wall, crawling out of a ventilation shaft, jumping out of a trap door, manifesting electronically through a Wi-Fi signal, or teleporting. |

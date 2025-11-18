@@ -13,11 +13,11 @@ id: Understanding-Identifying-Remembering
 # Understanding, Identifying, Or Remembering
 
 
-| Difficulty | Knowledge                                |
+| Difficulty | Knowledge                |
 |------------|------------------------------------------|
-| 0          | Common knowledge                         |
-| 1          | Simple knowledge                         |
-| 3          | Something a scholar probably knows       |
-| 5          | Something even a scholar might not know  |
-| 7          | Knowledge very few people possess        |
-| 10         | Completely lost knowledge                |
+| 0     | Common knowledge             |
+| 1     | Simple knowledge             |
+| 3     | Something a scholar probably knows    |
+| 5     | Something even a scholar might not know |
+| 7     | Knowledge very few people possess    |
+| 10     | Completely lost knowledge        |

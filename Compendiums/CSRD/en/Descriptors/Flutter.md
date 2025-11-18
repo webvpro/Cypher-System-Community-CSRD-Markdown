@@ -14,7 +14,7 @@ id: Flutter
 ---
 
 ## Flutter
-You emerged from the chrysalis with your mind awash in skills instilled while you matured, as well as knowledge handed down from your ancestors. If the stories are true, some of your knowledge comes from even further back, ceded by godlike "humans" who raised flutters into the light of self-knowledge. That was before humans were lost, leaving the world in ruins. Ruins that are now yours to refurbish and rebuild or, as many prefer, to  ignore while you instead go your own way. Humans may have created you, but they're gone, and you can decide what you think you owe them, if anything.
+You emerged from the chrysalis with your mind awash in skills instilled while you matured, as well as knowledge handed down from your ancestors. If the stories are true, some of your knowledge comes from even further back, ceded by godlike "humans" who raised flutters into the light of self-knowledge. That was before humans were lost, leaving the world in ruins. Ruins that are now yours to refurbish and rebuild or, as many prefer, to ignore while you instead go your own way. Humans may have created you, but they're gone, and you can decide what you think you owe them, if anything.
 As a flutter, you are kin to the much smaller natural moths that still flit by night. But you have an internal skeleton and lungs, and are far larger. For all that, you also have wings, a proboscis, and much thinner limbs than the average animal still roaming the world.
 ### You gain the following characteristics
 > #### Quick

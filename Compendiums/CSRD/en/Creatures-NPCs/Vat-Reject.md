@@ -46,7 +46,7 @@ Vat rejects fear nothing and welcome death, except that their existential rage r
 > The vat reject also has a radioactive sting. On a failed Might defense roll, the character struck by the reject descends one step on the damage track.
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Ability  |
+| Roll &nbsp; &nbsp; &nbsp; | Ability |
 | ------------- | :----------- |
 | 1 | Reject deals +3 damage in melee (6 points total) |
 | 2 | Reject has short-range acid spit attack that inflicts 2 points of damage, plus 2 points of damage each additional round until victim succeeds on a Might defense roll |

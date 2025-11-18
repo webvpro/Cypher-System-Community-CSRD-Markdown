@@ -20,20 +20,20 @@ assassins.
 Most forgeborn have the following traits:
 
 - Dim: Most forgeborn (though there are many exceptions) aren't quick
-  thinkers; their
+ thinkers; their
 
 - Intellect defense against being tricked or mentally attacked is level
-  2.
+ 2.
 
 - Temperamental: A forgeborn can break free of the spells that bind them
-  to service for brief periods. This happens automatically two rounds
-  after the forgeborn fails an Intellect defense roll against an attack
-  or attempt to control them. The triggered forgeborn attacks twice each
-  round for two or three rounds, choosing targets indiscriminately but
-  preferring anyone who attempted to control them.
+ to service for brief periods. This happens automatically two rounds
+ after the forgeborn fails an Intellect defense roll against an attack
+ or attempt to control them. The triggered forgeborn attacks twice each
+ round for two or three rounds, choosing targets indiscriminately but
+ preferring anyone who attempted to control them.
 
 - Resistant: Forgeborn cannot be stunned or dazed. They are immune to
-  most poisons and disease.
+ most poisons and disease.
 
 - Quiet: Most forgeborn can't speak (but some can).
 

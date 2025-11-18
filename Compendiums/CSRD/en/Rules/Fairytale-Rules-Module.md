@@ -53,72 +53,72 @@ When using this rule, the GM increases the range of numbers that trigger a GM in
 While not all regular GM intrusions are necessarily bad for the character, curse intrusions always make the cursed PC’s situation worse.
 
 ###### Curse Intrusions
-| d6 | Curse                                                                   |
+| d6 | Curse                                  |
 |----|-------------------------------------------------------------------------|
-| 1  | An insect stings or bites the character at just the wrong moment.       |
-| 2  | Something in the area makes the character sneeze loudly and repeatedly. |
-| 3  | The character shimmers in and out of view.                              |
-| 4  | A deep sense of despair comes over the character.                       |
-| 5  | The character feels an overwhelming urge to start dancing.              |
-| 6  | The character’s clothes are suddenly much too large.                    |
+| 1 | An insect stings or bites the character at just the wrong moment.    |
+| 2 | Something in the area makes the character sneeze loudly and repeatedly. |
+| 3 | The character shimmers in and out of view.               |
+| 4 | A deep sense of despair comes over the character.            |
+| 5 | The character feels an overwhelming urge to start dancing.       |
+| 6 | The character’s clothes are suddenly much too large.          |
 
 ###### Curse Table
 Roll 1d20 on the Curse table to determine the effect of the curse, or choose one that feels appropriate to the situation and the characters.
 
 Typically, curses that have simple roleplaying effects (such as the character’s inability to speak their own name) are lower-level curses, while those that affect gameplay (such as decreasing recovery roll points) are higher level. Curses that have multiple effects are likely the highest level of all. However, sometimes an incredibly simple curse is still very high level because the caster wants to make it very hard to get rid of.
 
-| D20 | Effect                                                           |
+| D20 | Effect                              |
 |-----|------------------------------------------------------------------|
-| 1   | Turned into an animal (bear, toad, hedgehog, swan, dog, etc.)    |
-| 2   | Becomes invisible                                                |
-| 3   | Turned into a living object                                      |
-| 4   | Turned into a great beast                                        |
-| 5   | Turned into someone much older                                   |
-| 6   | Forced to dance all night                                        |
-| 7   | When speaking, bugs and toads fall from mouth                    |
-| 8   | Enchanted sleep                                                  |
-| 9   | Forced to wear iron shoes (hinders all Speed actions)            |
-| 10  | Turned into a flower                                             |
-| 11  | Voice taken away                                                 |
-| 12  | Unable to remember their true love                               |
-| 13  | Nose grows every time they tell a lie                            |
-| 14  | Positive social interactions are hindered                        |
-| 15  | Number of points regained by a recovery roll is decreased by 1   |
-| 16  | Grows weak (Effort on Might tasks cost +1 Might)                 |
-| 17  | Brain is in a fog (Effort on Intellect tasks costs +1 Intellect) |
-| 18  | Moves slowly (effort on Speed tasks costs +1 Speed)              |
-| 19  | Can no longer say, write, or spell their own name                |
-| 20  | No one else remembers or recognizes the character                |
+| 1  | Turned into an animal (bear, toad, hedgehog, swan, dog, etc.)  |
+| 2  | Becomes invisible                        |
+| 3  | Turned into a living object                   |
+| 4  | Turned into a great beast                    |
+| 5  | Turned into someone much older                  |
+| 6  | Forced to dance all night                    |
+| 7  | When speaking, bugs and toads fall from mouth          |
+| 8  | Enchanted sleep                         |
+| 9  | Forced to wear iron shoes (hinders all Speed actions)      |
+| 10 | Turned into a flower                       |
+| 11 | Voice taken away                         |
+| 12 | Unable to remember their true love                |
+| 13 | Nose grows every time they tell a lie              |
+| 14 | Positive social interactions are hindered            |
+| 15 | Number of points regained by a recovery roll is decreased by 1  |
+| 16 | Grows weak (Effort on Might tasks cost +1 Might)         |
+| 17 | Brain is in a fog (Effort on Intellect tasks costs +1 Intellect) |
+| 18 | Moves slowly (effort on Speed tasks costs +1 Speed)       |
+| 19 | Can no longer say, write, or spell their own name        |
+| 20 | No one else remembers or recognizes the character        |
 
 ###### Curse Removal Table
 Some curses have a specific way that they must be removed. Others can be removed in a variety of ways. You can use the table as a reference for ways to remove or undo a curse, or you can roll 1d10 to give a curse a specific method of removal.
 There are also many artifacts, cyphers, and other objects in the world that will remove (or prevent) curses.
 
-| d10 | Removal Process                                                                                                                                                                                           |
+| d10 | Removal Process                                                                                              |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Complete an important task for the one who cursed you.                                                                                                                                                    |
-| 2   | Complete an important task for (or make a large payment to) someone who promises to remove your curse.                                                                                                    |
-| 3   | Make things right (return the stolen item, apologize, or undo whatever was done to cause the curse to happen in the first place).                                                                           |
-| 4   | Write the name of the curse on a scrap of paper, bind it in a cloth with an egg, bury it at a crossroads, and never look back.                                                                             |
-| 5   | Pass the curse to someone else (this typically requires learning how the curse was done and then passing it to another person in the same way but there are also more creative ways to make this happen). |
-| 6   | Collect five birds, five beetles, five cats, five fish, and five young winds.                                                                                                                                 |
-| 7   | Die and return to life which usually (but not always) takes advantage of a loophole that says death will end a curse.                                                                                     |
-| 8   | Take three golden leaves from a golden tree to make tea with; drink the tea and read the leaves; then complete the task they suggest.                                                                     |
-| 9   | Kill the one who cast the curse (or otherwise find a way for them to die).                                                                                                                                |
-| 10  | Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written.                                     |
+| 1  | Complete an important task for the one who cursed you.                                                                          |
+| 2  | Complete an important task for (or make a large payment to) someone who promises to remove your curse.                                                  |
+| 3  | Make things right (return the stolen item, apologize, or undo whatever was done to cause the curse to happen in the first place).                                      |
+| 4  | Write the name of the curse on a scrap of paper, bind it in a cloth with an egg, bury it at a crossroads, and never look back.                                       |
+| 5  | Pass the curse to someone else (this typically requires learning how the curse was done and then passing it to another person in the same way but there are also more creative ways to make this happen). |
+| 6  | Collect five birds, five beetles, five cats, five fish, and five young winds.                                                                 |
+| 7  | Die and return to life which usually (but not always) takes advantage of a loophole that says death will end a curse.                                           |
+| 8  | Take three golden leaves from a golden tree to make tea with; drink the tea and read the leaves; then complete the task they suggest.                                   |
+| 9  | Kill the one who cast the curse (or otherwise find a way for them to die).                                                                |
+| 10 | Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written.                   |
 
 
 ###### Blessings
 When someone is blessed, it typically means that they are more likely to receive a beneficial GM intrusion when they roll a 1 (or when the GM deems it appropriate to give them an intrusion). The Blessing Intrusions table provides examples of positive GM intrusions that a blessed character might receive.
 ###### Blessing Intrusions
-| d6 | Blessing                                                           |
+| d6 | Blessing                              |
 |----|--------------------------------------------------------------------|
-| 1  | Someone randomly gives the character a small gift.                 |
-| 2  | When the character speaks, gold coins fall from their mouth.       |
-| 3  | A necessary item, map, or clue falls into the character’s lap.     |
-| 4  | The weather is suddenly in the character’s favor.                  |
-| 5  | Someone nearby just happens to have the thing the character needs. |
-| 6  | A cypher or artifact works even better than expected.              |
+| 1 | Someone randomly gives the character a small gift.         |
+| 2 | When the character speaks, gold coins fall from their mouth.    |
+| 3 | A necessary item, map, or clue falls into the character’s lap.   |
+| 4 | The weather is suddenly in the character’s favor.         |
+| 5 | Someone nearby just happens to have the thing the character needs. |
+| 6 | A cypher or artifact works even better than expected.       |
 
 ### Wishes
 Wishes can be granted via objects, creatures such as genies, or as part of a bargain. When the character asks for a wish, the GM assigns it a level. The larger and more difficult the wish, the higher the level. Generally, a wish such as gaining an asset or inexpensive item is level 1, and a wish for an expensive item or for a foe to vanish is level 7.
@@ -137,46 +137,46 @@ Remember that GM intrusions don’t always mean that something has gone wrong or
 The Fairy Tale Intrusions tables are ways to quickly generate intrusions appropriate to a fairy tale aesthetic. Roll on the appropriate table to determine the intrusion that occurs, or choose one that feels right for the situation.
 Interaction Intrusions
 
-| d10 | GM Intrusion                                                                                                                             |
+| d10 | GM Intrusion                                                               |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | A mischievous brownie attempts to steal an object from the characters in the middle of an important conversation or fight.               |
-| 2   | The NPC that the characters are talking to suddenly looks at their watch or the sky, says, “I’m late, I’m late,” and disappears.         |
-| 3   | A character speaks and all of their words come out backward.                                                                             |
-| 4   | The creature that the PCs are fighting or interacting with splits into two versions of itself.                                           |
-| 5   | The character that the PCs have been interacting with loses their glamour, and the PCs discover it’s not the person they thought it was. |
-| 6   | Death arrives, convinced that one of the characters is someone else.                                                                     |
-| 7   | An opponent uses magic to gain hidden knowledge about a PC and uses it to their advantage in a fight or debate.                          |
-| 8   | The North Wind has taken a liking to one of the characters and does something to help them succeed in their actions.                     |
-| 9   | One of the PCs inadvertently (or purposefully) offends someone, and they are instantly turned into a frog.                               |
-| 10  | An opponent holds up a mirror or other reflective surface at just the right moment, reflecting a spell or ability back on the character. |
+| 1  | A mischievous brownie attempts to steal an object from the characters in the middle of an important conversation or fight.        |
+| 2  | The NPC that the characters are talking to suddenly looks at their watch or the sky, says, “I’m late, I’m late,” and disappears.     |
+| 3  | A character speaks and all of their words come out backward.                                       |
+| 4  | The creature that the PCs are fighting or interacting with splits into two versions of itself.                      |
+| 5  | The character that the PCs have been interacting with loses their glamour, and the PCs discover it’s not the person they thought it was. |
+| 6  | Death arrives, convinced that one of the characters is someone else.                                   |
+| 7  | An opponent uses magic to gain hidden knowledge about a PC and uses it to their advantage in a fight or debate.             |
+| 8  | The North Wind has taken a liking to one of the characters and does something to help them succeed in their actions.           |
+| 9  | One of the PCs inadvertently (or purposefully) offends someone, and they are instantly turned into a frog.                |
+| 10 | An opponent holds up a mirror or other reflective surface at just the right moment, reflecting a spell or ability back on the character. |
 
 #### World Intrusions
-| d10 | GM Intrusion                                                                                                                                                           |
+| d10 | GM Intrusion                                                                              |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | One or more characters accidentally damage or offend a plant of some type, causing it to retaliate.                                                                    |
-| 2   | A wren starts singing at a nearby crossroads, warning that something’s coming.                                                                                         |
-| 3   | One of the characters trips and falls into a rabbit hole.                                                                                                              |
-| 4   | Someone steals the moon just as the PCs are about to do an important task that requires moonlight.                                                                     |
-| 5   | The tree that the characters are sitting under wakes up. Perhaps it is hungry, or maybe it just wants company.                                                         |
-| 6   | The path that the characters have been following turns into a rushing river beneath their feet.                                                                        |
-| 7   | Someone casting a curse nearby accidentally catches one of the characters in the magic, causing them to be affected (roll on the Curse table to determine the effect). |
-| 8   | A mountain rises up suddenly between the place where the characters stand and the place they need to get to.                                                           |
-| 9   | Somewhere far off, a magical effect backfires, causing a stampede of wild animals to run right toward the characters.                                                  |
-| 10  | One of the characters smells gingerbread. The scent is so tempting, they have a hard time turning away from it.                                                        |
+| 1  | One or more characters accidentally damage or offend a plant of some type, causing it to retaliate.                                  |
+| 2  | A wren starts singing at a nearby crossroads, warning that something’s coming.                                             |
+| 3  | One of the characters trips and falls into a rabbit hole.                                                       |
+| 4  | Someone steals the moon just as the PCs are about to do an important task that requires moonlight.                                   |
+| 5  | The tree that the characters are sitting under wakes up. Perhaps it is hungry, or maybe it just wants company.                             |
+| 6  | The path that the characters have been following turns into a rushing river beneath their feet.                                    |
+| 7  | Someone casting a curse nearby accidentally catches one of the characters in the magic, causing them to be affected (roll on the Curse table to determine the effect). |
+| 8  | A mountain rises up suddenly between the place where the characters stand and the place they need to get to.                              |
+| 9  | Somewhere far off, a magical effect backfires, causing a stampede of wild animals to run right toward the characters.                         |
+| 10 | One of the characters smells gingerbread. The scent is so tempting, they have a hard time turning away from it.                            |
 
 #### Item Intrusions
-| d10 | GM Intrusion                                                                                                                                                          |
+| d10 | GM Intrusion                                                                             |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | A magical ability, cypher, or artifact does exactly what it’s supposed to, but also creates a weird side effect that affects a nearby friend (or foe).                   |
-| 2   | A piece of equipment whispers lies into the character’s ear, making a convincing argument that their friends are not loyal.                                            |
-| 3   | A magical weapon breaks in the middle of combat and starts to cry.                                                                                                    |
-| 4   | A character’s belt turns into a snake and starts tightening around their middle.                                                                                      |
-| 5   | A random object begins to wiggle and crack, as though it’s about to hatch.                                                                                             |
-| 6   | The character’s weapon or armor begins to yell loudly for help while the PC is trying to sneak or hide.                                                               |
-| 7   | A previously opened box, bottle, jar, or other container has locked itself back up, with an important item inside.                                                    |
-| 8   | A cypher, artifact, or bit of magic is far more powerful than the characters realized, and affects a much larger area (or has a bigger effect) than they expected it to. |
-| 9   | The glint of a recently acquired object or weapon is so shiny, it attracts the attention of a giant bird, beast, or dragon.                                              |
-| 10  | An item in the character’s hand or bag starts to replicate itself over and over.                                                                                      |
+| 1  | A magical ability, cypher, or artifact does exactly what it’s supposed to, but also creates a weird side effect that affects a nearby friend (or foe).          |
+| 2  | A piece of equipment whispers lies into the character’s ear, making a convincing argument that their friends are not loyal.                      |
+| 3  | A magical weapon breaks in the middle of combat and starts to cry.                                                  |
+| 4  | A character’s belt turns into a snake and starts tightening around their middle.                                           |
+| 5  | A random object begins to wiggle and crack, as though it’s about to hatch.                                               |
+| 6  | The character’s weapon or armor begins to yell loudly for help while the PC is trying to sneak or hide.                                |
+| 7  | A previously opened box, bottle, jar, or other container has locked itself back up, with an important item inside.                          |
+| 8  | A cypher, artifact, or bit of magic is far more powerful than the characters realized, and affects a much larger area (or has a bigger effect) than they expected it to. |
+| 9  | The glint of a recently acquired object or weapon is so shiny, it attracts the attention of a giant bird, beast, or dragon.                       |
+| 10 | An item in the character’s hand or bag starts to replicate itself over and over.                                           |
 
 ### Playing in a Fairy Tale Game
 #### Player Intrusions
@@ -431,7 +431,7 @@ With small tweaks to the language and abilities, this could work for someone who
 [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]]
 With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
 
-#####  Fairy Tale Character Arcs
+##### Fairy Tale Character Arcs
 Character arcs are fantastic opportunities for players to deepen their roleplaying options, add to the narrative, and set goals that can intertwine with and strengthen a campaign or adventure. While character arcs aren’t a requirement, they work particularly well in fairy tale games, where individual goals and tasks are often at the forefront of what drives adventures.
 
 Players can pick from any of the sample character arcs in the Cypher System Rulebook, make up their own (with the assistance and approval of the GM), or choose one of the new character arcs created specifically for the Heartwood setting.
@@ -598,24 +598,24 @@ All characters have a maximum number of cyphers they can have at any one time, d
 >Obviously, having a fey being steal a character away to their realm is a story-changer. If you’re using this as an option, figure out ahead of time what type of fey is attracted, what their realm is like, and how to play out the character’s disappearance and possible retrieval.
 
 ##### Fey Being Table
-| d6 | Effect     |
+| d6 | Effect   |
 |----|------------|
-| 1  | Faerie     |
-| 2  | Changeling |
-| 3  | Goblin     |
-| 4  | Nymph      |
-| 5  | Pixie      |
-| 6  | Ogre       |
+| 1 | Faerie   |
+| 2 | Changeling |
+| 3 | Goblin   |
+| 4 | Nymph   |
+| 5 | Pixie   |
+| 6 | Ogre    |
 
 ##### Fey Cypher Attraction
-| d6 | Effect                                                                                                                                    |
+| d6 | Effect                                                                  |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Steals one cypher                                                                                                                         |
-| 2  | Steals two cyphers                                                                                                                        |
-| 3  | Curses the character                                                                                                                      |
-| 4  | Curses one cypher, causing it to reduce all stat Pool maximums by 5 until the cypher is used, removed, or destroyed                       |
-| 5  | Causes two or more cyphers to react with each other, destroying them and inflicting damage equal to the level of the more powerful cypher |
-| 6  | Steals the character away to their fey realm                                                                                              |
+| 1 | Steals one cypher                                                             |
+| 2 | Steals two cyphers                                                            |
+| 3 | Curses the character                                                           |
+| 4 | Curses one cypher, causing it to reduce all stat Pool maximums by 5 until the cypher is used, removed, or destroyed            |
+| 5 | Causes two or more cyphers to react with each other, destroying them and inflicting damage equal to the level of the more powerful cypher |
+| 6 | Steals the character away to their fey realm                                               |
 
 #### Cyphers
 Cyphers are one-use abilities that characters gain over the course of play. They have powers that can heal, do damage, ease or hinder tasks, or produce interesting and unusual effects. In a fairy tale setting, they often appear as a simple object, such as a poisoned apple or a matchbook. They can also be something intangible, such as three wishes or a magic word. The shifting state of magic in fairy tales makes it easy to use both manifest and subtle cyphers in the same setting and campaign if you desire.
@@ -626,135 +626,135 @@ is considered a single cypher even though there are multiple items.
 ##### Cypher Forms
 While characters can find or purchase many of these items in the world, only magic versions of the items are cyphers. Characters should easily be able to tell when an item is magic (and thus a cypher) and when it’s an ordinary item.
 
-| d20 | Form                          |
+| d20 | Form             |
 |-----|-------------------------------|
-| 1   | Apple or ball of yarn         |
-| 2   | Pebble or mushroom            |
-| 3   | Scroll or four-leaf clover    |
-| 4   | Lock of hair or hand mirror   |
-| 5   | Matchstick or comb            |
-| 6   | Feather or acorn              |
-| 7   | Egg or apple seeds            |
-| 8   | Tea or fish scales            |
-| 9   | Fingernail clippings or chalk |
-| 10  | Magic beans or key            |
-| 11  | Rose or bell                  |
-| 12  | Small cake or talisman        |
-| 13  | Wolf’s tooth or hand mirror   |
-| 14  | Vial of liquid or secret      |
-| 15  | Magic coin or broken arrow    |
-| 16  | Wish or fairy dust            |
-| 17  | Magic word or spindle         |
-| 18  | Curse or hankerchief          |
-| 19  | Spell or hand fan             |
-| 20  | Fallen star or playing card   |
+| 1  | Apple or ball of yarn     |
+| 2  | Pebble or mushroom      |
+| 3  | Scroll or four-leaf clover  |
+| 4  | Lock of hair or hand mirror  |
+| 5  | Matchstick or comb      |
+| 6  | Feather or acorn       |
+| 7  | Egg or apple seeds      |
+| 8  | Tea or fish scales      |
+| 9  | Fingernail clippings or chalk |
+| 10 | Magic beans or key      |
+| 11 | Rose or bell         |
+| 12 | Small cake or talisman    |
+| 13 | Wolf’s tooth or hand mirror  |
+| 14 | Vial of liquid or secret   |
+| 15 | Magic coin or broken arrow  |
+| 16 | Wish or fairy dust      |
+| 17 | Magic word or spindle     |
+| 18 | Curse or hankerchief     |
+| 19 | Spell or hand fan       |
+| 20 | Fallen star or playing card  |
 
 ##### Fairy Tale Cypher Table
-| d100 | Cypher                                                  |
+| d100 | Cypher                         |
 |------|---------------------------------------------------------|
-| 01   | [[Adderstone]]                                              |
-| 02   | [[Agate-Eye\|Agate Eye]]                                               |
-| 03   | [[Animated-Wood\|Animated Wood]]                                            |
-| 04   | [[Anywhere-Door\|Anywhere Door]]                                           |
-| 05   | [[Apple-of-Discord\|Apple of Discord]]                                        |
-| 06   | [[Azure-Dust\|Azure Dust]]                                              |
-| 07   | [[Baba-Yagas-Spiced-Cookie\|Baba Yaga's Spiced Cookie]]                               |
-| 08   | [[Bellmans-Map-of-the-Ocean\|Bellman's Map of the Ocean]]                              |
-| 09   | [[Beloveds-Kiss\|Beloved's Kiss]]                                          |
-| 10   | [[Birds-Nest-Coronet\|Bird's Nest Coronet]]                                     |
-| 11   | [[Blackbird-Pie\|Blackbird Pie]]                                           |
-| 12   | [[Blood-Pearl-Blossom\|Blood Pearl Blossom]]                                     |
-| 13   | [[Bone-Key\|Bone Key]]                                                |
-| 14   | [[Bones-of-the-Beloved\|Bones of the Beloved]]                                    |
-| 15   | [[Bowl-of-Porridge\|Bowl of Porridge]]                                        |
-| 16   | [[Cat-Sidhe-Medallion\|Cat Sidhe Medallion]]                                    |
-| 17   | [[Cheshire-Smile\|Cheshire Smile]]                                          |
-| 18   | [[Coalhearts-Beard-Balm\|Coalheart's Beard Balm]]                                 |
-| 19   | [[Crocs-Clock\|Croc's Clock]]                                           |
-| 20   | [[Crown-Jewel\|Crown Jewel]]                                             |
-| 21   | [[Dame-Trots-Cat\|Dame Trot's Cat]]                                         |
-| 22   | [[Darning-Needle\|Darning Needle]]                                          |
-| 23   | [[Dead-Water\|Dead Water]]                                              |
-| 24   | [[Deathless]]                                               |
-| 25   | [[Deaths-Candle\|Death's Candle]]                                          |
-| 26   | [[Deaths-Messengers\|Death's Messengers]]                                      |
-| 27   | [[Diadem-of-Death\|Diadem of Death]]                                        |
-| 28   | [[Dragons-Blood\|Dragon's Blood]]                                         |
-| 29   | [[Dragons-Teeth\|Dragon's Teeth]]                                          |
-| 30   | [[Dressmaking-Nut\|Dressmaking Nut]]                                         |
-| 31   | [[Drink-Me\|Drink Me]]                                                |
-| 32   | [[Dust-of-the-Dreamer\|Dust of the Dreamer]]                                     |
-| 33   | [[Eat-Me\|Eat Me]]                                                  |
-| 34   | [[Emperors-New-Clothes\|Emperor's New Clothes]]                               |
-| 35   | [[Fairy-Cup\|Fairy Cup]]                                               |
-| 36   | [[False-Grandmother\|False Grandmother]]                                       |
-| 37   | [[Fathers-Betrayal\|Father's Betrayal]]                                       |
-| 38   | [[Flaming-Arrow\|Flaming Arrow]]                                           |
-| 39   | [[Flowers-for-Grandmother\|Flowers for Grandmother]]                                 |
-| 40   | [[Forget-Me-Knot\|Forget-Me-Knot]]                                          |
-| 41   | [[Genies-Handkerchief\|Genie's Handkerchief]]                                    |
-| 42   | [[Gilded-Shell\|Gilded Shell]]                                            |
-| 43   | [[Gingerbread-Man\|Gingerbread Man]]                                         |
-| 44   | [[Godfathers-Picture-Book\|Godfather's Picture Book]]                                |
-| 45   | [[Golden-Beetle\|Golden Beetle]]                                           |
-| 46   | [[Golden-Vanity\|Golden Vanity]]                                           |
-| 47   | [[Green-Spectacles\|Green Spectacles]]                                        |
-| 48   | [[Harts-Heart\|Hart's Heart]]                                                |
-| 49   | [[Heart-of-a-Star \|Heart of a Star]]                                         |
-| 50   | [[Hearts-Tart\|Heart's Tart]]                                            |
-| 51   | [[Hot-Cross-Buns\|Hot Cross Buns]]                                          |
-| 52   | [[Iron-Bands-of-Three\|Iron Bands of Three]]                                     |
-| 53   | [[Itsy-Bitsy-Spider\|Itsy Bitsy Spider]]                                       |
-| 54   | [[Jacks-Candlestick\|Jack's Candlestick]]                                      |
-| 55   | [[Jiminy-Cricket\|Jiminy Cricket]]                                          |
-| 56   | [[The-Key-of-Knowing\|The Key of Knowing]]                                      |
-| 57   | [[Knave-of-Hearts\|Knave of Hearts]]                                         |
-| 58   | [[Lions-Courage\|Lion's Courage]]                                          |
-| 59   | [[Living-Water\|Living Water]]                                            |
-| 60   | [[Magic-Beans\|Magic Beans]]                                             |
-| 61   | [[Memorys-Match\|Memory's Match]]                                           |
-| 62   | [[Mermaid-Tear\|Mermaid Tear]]                                            |
-| 63   | [[Neverlost]]                                               |
-| 64   | [[Nonsensical-Poem\|Nonsensical Poem]]                                        |
-| 65   | [[Omniscient-Bean\|Omniscient Bean]]                                         |
-| 66   | [[Pictureless-Book\|Pictureless Book]]                                        |
-| 67   | [[Poison-for-Your-Daughter\|Poison for Your Daughter]]                                |
-| 68   | [[Poisoned-Apple\|Poisoned Apple]]                                          |
-| 69   | [[Poppet-Love\|Poppet Love]]                                         |
-| 70   | [[Poppet-Love\|Poppet Love]]                                         |
-| 71   | [[Poppet-Prosperity\|Poppet Prosperity]]                                    |
-| 72   | [[Poppet-Silence\|Poppet Silence]]                                        |
-| 73   | [[Powder-of-Life\|Powder of Life]]                                          |
-| 74   | [[Princesss-Pea\|Princess's Pea]]                                         |
-| 75   | [[Rabbit-Hole\|Rabbit Hole]]                                             |
-| 76   | [[Rapunzel-Leaf\|Rapunzel Leaf]]                                          |
-| 77   | [[Rose-of-Red\|Rose of Red]]                                             |
-| 78   | [[Shadow-Soap\|Shadow Soap]]                                             |
-| 79   | [[Shard-of-the-Moon\|Shard of the Moon]]                                       |
-| 80   | [[Shining-Knife\|Shining Knife]]                                            |
-| 81   | [[Silver-Slippers\|Silver Slippers]]                                         |
-| 82   | [[Singing-Bone\|Singing Bone]]                                            |
-| 83   | [[Snake-Leaves\|Snake Leaves]]                                            |
-| 84   | [[Snickersnee]]                                             |
-| 85   | [[Song-of-the-Dead\|Song of the Dead]]                                        |
-| 86   | [[Sorcerers-Skeleton-Key\|Sorcerer's Skeleton Key]]                                  |
-| 87   | [[Spirit-Ring\|Spirit Ring]]                                             |
-| 88   | [[Teleport-Hat\|Teleport Hat]]                                            |
-| 89   | [[Three-Needles\|Three Needles]]                                           |
-| 90   | [[Tin-Mans-Tears\|Tin Man's Tears]]                                         |
-| 91   | [[To-Peter-with-Love\|To Peter with Love]]                                      |
-| 92   | [[Valorous-Whetstone\|Valorous Whetstone]]                                      |
-| 93   | [[Vase-of-Tears\|Vase of Tears]]                                           |
-| 94   | [[White-Snake\|White Snake]]                                             |
-| 95   | [[Wish-Granting-Pearl\|Wish-Granting Pearl]]                                     |
-| 96   | [[Witch-Bottle\|Witch Bottle]]                                            |
-| 97   | [[Witchs-Ladder\|Witch's Ladder]]                                           |
-| 98   | [[Wooden-Spoon\|Wooden Spoon]]                                            |
-| 99   | [[Yonder-Yarn\|Yonder Yarn]]                                             |
-| 00   | Roll on the cypher tables in the Cypher System Rulebook |
+| 01  | [[Adderstone]]                       |
+| 02  | [[Agate-Eye\|Agate Eye]]                        |
+| 03  | [[Animated-Wood\|Animated Wood]]                      |
+| 04  | [[Anywhere-Door\|Anywhere Door]]                      |
+| 05  | [[Apple-of-Discord\|Apple of Discord]]                    |
+| 06  | [[Azure-Dust\|Azure Dust]]                       |
+| 07  | [[Baba-Yagas-Spiced-Cookie\|Baba Yaga's Spiced Cookie]]                |
+| 08  | [[Bellmans-Map-of-the-Ocean\|Bellman's Map of the Ocean]]               |
+| 09  | [[Beloveds-Kiss\|Beloved's Kiss]]                     |
+| 10  | [[Birds-Nest-Coronet\|Bird's Nest Coronet]]                   |
+| 11  | [[Blackbird-Pie\|Blackbird Pie]]                      |
+| 12  | [[Blood-Pearl-Blossom\|Blood Pearl Blossom]]                   |
+| 13  | [[Bone-Key\|Bone Key]]                        |
+| 14  | [[Bones-of-the-Beloved\|Bones of the Beloved]]                  |
+| 15  | [[Bowl-of-Porridge\|Bowl of Porridge]]                    |
+| 16  | [[Cat-Sidhe-Medallion\|Cat Sidhe Medallion]]                  |
+| 17  | [[Cheshire-Smile\|Cheshire Smile]]                     |
+| 18  | [[Coalhearts-Beard-Balm\|Coalheart's Beard Balm]]                 |
+| 19  | [[Crocs-Clock\|Croc's Clock]]                      |
+| 20  | [[Crown-Jewel\|Crown Jewel]]                       |
+| 21  | [[Dame-Trots-Cat\|Dame Trot's Cat]]                     |
+| 22  | [[Darning-Needle\|Darning Needle]]                     |
+| 23  | [[Dead-Water\|Dead Water]]                       |
+| 24  | [[Deathless]]                        |
+| 25  | [[Deaths-Candle\|Death's Candle]]                     |
+| 26  | [[Deaths-Messengers\|Death's Messengers]]                   |
+| 27  | [[Diadem-of-Death\|Diadem of Death]]                    |
+| 28  | [[Dragons-Blood\|Dragon's Blood]]                     |
+| 29  | [[Dragons-Teeth\|Dragon's Teeth]]                     |
+| 30  | [[Dressmaking-Nut\|Dressmaking Nut]]                     |
+| 31  | [[Drink-Me\|Drink Me]]                        |
+| 32  | [[Dust-of-the-Dreamer\|Dust of the Dreamer]]                   |
+| 33  | [[Eat-Me\|Eat Me]]                         |
+| 34  | [[Emperors-New-Clothes\|Emperor's New Clothes]]                |
+| 35  | [[Fairy-Cup\|Fairy Cup]]                        |
+| 36  | [[False-Grandmother\|False Grandmother]]                    |
+| 37  | [[Fathers-Betrayal\|Father's Betrayal]]                    |
+| 38  | [[Flaming-Arrow\|Flaming Arrow]]                      |
+| 39  | [[Flowers-for-Grandmother\|Flowers for Grandmother]]                 |
+| 40  | [[Forget-Me-Knot\|Forget-Me-Knot]]                     |
+| 41  | [[Genies-Handkerchief\|Genie's Handkerchief]]                  |
+| 42  | [[Gilded-Shell\|Gilded Shell]]                      |
+| 43  | [[Gingerbread-Man\|Gingerbread Man]]                     |
+| 44  | [[Godfathers-Picture-Book\|Godfather's Picture Book]]                |
+| 45  | [[Golden-Beetle\|Golden Beetle]]                      |
+| 46  | [[Golden-Vanity\|Golden Vanity]]                      |
+| 47  | [[Green-Spectacles\|Green Spectacles]]                    |
+| 48  | [[Harts-Heart\|Hart's Heart]]                        |
+| 49  | [[Heart-of-a-Star \|Heart of a Star]]                     |
+| 50  | [[Hearts-Tart\|Heart's Tart]]                      |
+| 51  | [[Hot-Cross-Buns\|Hot Cross Buns]]                     |
+| 52  | [[Iron-Bands-of-Three\|Iron Bands of Three]]                   |
+| 53  | [[Itsy-Bitsy-Spider\|Itsy Bitsy Spider]]                    |
+| 54  | [[Jacks-Candlestick\|Jack's Candlestick]]                   |
+| 55  | [[Jiminy-Cricket\|Jiminy Cricket]]                     |
+| 56  | [[The-Key-of-Knowing\|The Key of Knowing]]                   |
+| 57  | [[Knave-of-Hearts\|Knave of Hearts]]                     |
+| 58  | [[Lions-Courage\|Lion's Courage]]                     |
+| 59  | [[Living-Water\|Living Water]]                      |
+| 60  | [[Magic-Beans\|Magic Beans]]                       |
+| 61  | [[Memorys-Match\|Memory's Match]]                      |
+| 62  | [[Mermaid-Tear\|Mermaid Tear]]                      |
+| 63  | [[Neverlost]]                        |
+| 64  | [[Nonsensical-Poem\|Nonsensical Poem]]                    |
+| 65  | [[Omniscient-Bean\|Omniscient Bean]]                     |
+| 66  | [[Pictureless-Book\|Pictureless Book]]                    |
+| 67  | [[Poison-for-Your-Daughter\|Poison for Your Daughter]]                |
+| 68  | [[Poisoned-Apple\|Poisoned Apple]]                     |
+| 69  | [[Poppet-Love\|Poppet Love]]                     |
+| 70  | [[Poppet-Love\|Poppet Love]]                     |
+| 71  | [[Poppet-Prosperity\|Poppet Prosperity]]                  |
+| 72  | [[Poppet-Silence\|Poppet Silence]]                    |
+| 73  | [[Powder-of-Life\|Powder of Life]]                     |
+| 74  | [[Princesss-Pea\|Princess's Pea]]                     |
+| 75  | [[Rabbit-Hole\|Rabbit Hole]]                       |
+| 76  | [[Rapunzel-Leaf\|Rapunzel Leaf]]                     |
+| 77  | [[Rose-of-Red\|Rose of Red]]                       |
+| 78  | [[Shadow-Soap\|Shadow Soap]]                       |
+| 79  | [[Shard-of-the-Moon\|Shard of the Moon]]                    |
+| 80  | [[Shining-Knife\|Shining Knife]]                      |
+| 81  | [[Silver-Slippers\|Silver Slippers]]                     |
+| 82  | [[Singing-Bone\|Singing Bone]]                      |
+| 83  | [[Snake-Leaves\|Snake Leaves]]                      |
+| 84  | [[Snickersnee]]                       |
+| 85  | [[Song-of-the-Dead\|Song of the Dead]]                    |
+| 86  | [[Sorcerers-Skeleton-Key\|Sorcerer's Skeleton Key]]                 |
+| 87  | [[Spirit-Ring\|Spirit Ring]]                       |
+| 88  | [[Teleport-Hat\|Teleport Hat]]                      |
+| 89  | [[Three-Needles\|Three Needles]]                      |
+| 90  | [[Tin-Mans-Tears\|Tin Man's Tears]]                     |
+| 91  | [[To-Peter-with-Love\|To Peter with Love]]                   |
+| 92  | [[Valorous-Whetstone\|Valorous Whetstone]]                   |
+| 93  | [[Vase-of-Tears\|Vase of Tears]]                      |
+| 94  | [[White-Snake\|White Snake]]                       |
+| 95  | [[Wish-Granting-Pearl\|Wish-Granting Pearl]]                   |
+| 96  | [[Witch-Bottle\|Witch Bottle]]                      |
+| 97  | [[Witchs-Ladder\|Witch's Ladder]]                      |
+| 98  | [[Wooden-Spoon\|Wooden Spoon]]                      |
+| 99  | [[Yonder-Yarn\|Yonder Yarn]]                       |
+| 00  | Roll on the cypher tables in the Cypher System Rulebook |
 
 
-  #### Artifacts
+ #### Artifacts
 Most artifacts in a Cypher System fairy tale setting are magical objects that have been either crafted via magic or later altered by or imbued with magic. There are a number of people and beings in fairy tale settings who are capable of creating artifacts by one or both of these methods. Additionally, some artifacts are products of magic or the setting itself. Thus, new artifacts are constantly entering the world, just waiting to be found and used by the characters.
 
 ##### Artifact Quirks
@@ -762,69 +762,69 @@ Magic runs through most items in a fairy tale world, but especially through arti
 >Quirks typically do not make an artifact more powerful, but they can make it more interesting, difficult, useful, or just unique. Some quirks manifest during an item’s creation, while others might appear (or disappear) after a particular experience, usually one involving magic. Quirks may come and go without notice, but typically an artifact can have only one quirk at a time and is rarely without a quirk for long.
 
 ###### Quirks Table
-| d20 | Quirk                                                                                                                                                                                                             |
+| d20 | Quirk                                                                                                       |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Randomly changes the color of weapons, clothing, and other objects it touches.                                                                                                                                    |
-| 2   | Causes some animals to shy away from it, and others to draw near to it.                                                                                                                                           |
-| 3   | Musical instruments and birdsongs go flat in its presence.                                                                                                                                                        |
-| 4   | Gives the wielder an increased sense of smell.                                                                                                                                                                    |
-| 5   | Draws bees and occasionally drips honey.                                                                                                                                                                          |
-| 6   | Sometimes catches on fire when used; the blaze doesn’t do damage but it gives off heat and light.                                                                                                                 |
-| 7   | Produces a rash, tattoo, or other mark on the wielder’s skin.                                                                                                                                                     |
-| 8   | Causes the wielder to walk an inch or so above the ground.                                                                                                                                                        |
-| 9   | Whistles music appropriate to what’s going on around it, including a nasal drone when it’s bored.                                                                                                                 |
-| 10  | Sometimes moves of its own accord, but never when anyone’s looking at it.                                                                                                                                         |
-| 11  | Talks constantly about its former owner, who it either loves or hates, depending on the day.                                                                                                                      |
-| 12  | Gives everyone nearby weird and unnatural dreams.                                                                                                                                                                 |
-| 13  | Causes the wielder’s hair to grow faster than normal.                                                                                                                                                             |
-| 14  | Creates a cloud over itself constantly. Sometimes the cloud rains.                                                                                                                                                |
-| 15  | Draws fey creatures to it, whether it’s being used or not.                                                                                                                                                        |
-| 16  | Whines incessantly if it hasn’t been used (or at least given some attention, such as being cleaned) in at least a day.                                                                                            |
-| 17  | Emits various colored swirls and sparkles that form shapes in the air.                                                                                                                                            |
-| 18  | Changes appearance in some small way to match the wielder’s mood.                                                                                                                                                 |
-| 19  | Sometimes points the way to something interesting or useful.                                                                                                                                                      |
-| 20  | Occasionally changes into a completely different artifact overnight (including form and function); this effect lasts until the artifact is used in its new form, after which point it reverts back (or depletes). |
+| 1  | Randomly changes the color of weapons, clothing, and other objects it touches.                                                                  |
+| 2  | Causes some animals to shy away from it, and others to draw near to it.                                                                      |
+| 3  | Musical instruments and birdsongs go flat in its presence.                                                                            |
+| 4  | Gives the wielder an increased sense of smell.                                                                                  |
+| 5  | Draws bees and occasionally drips honey.                                                                                     |
+| 6  | Sometimes catches on fire when used; the blaze doesn’t do damage but it gives off heat and light.                                                         |
+| 7  | Produces a rash, tattoo, or other mark on the wielder’s skin.                                                                           |
+| 8  | Causes the wielder to walk an inch or so above the ground.                                                                            |
+| 9  | Whistles music appropriate to what’s going on around it, including a nasal drone when it’s bored.                                                         |
+| 10 | Sometimes moves of its own accord, but never when anyone’s looking at it.                                                                     |
+| 11 | Talks constantly about its former owner, who it either loves or hates, depending on the day.                                                           |
+| 12 | Gives everyone nearby weird and unnatural dreams.                                                                                 |
+| 13 | Causes the wielder’s hair to grow faster than normal.                                                                               |
+| 14 | Creates a cloud over itself constantly. Sometimes the cloud rains.                                                                        |
+| 15 | Draws fey creatures to it, whether it’s being used or not.                                                                            |
+| 16 | Whines incessantly if it hasn’t been used (or at least given some attention, such as being cleaned) in at least a day.                                              |
+| 17 | Emits various colored swirls and sparkles that form shapes in the air.                                                                      |
+| 18 | Changes appearance in some small way to match the wielder’s mood.                                                                         |
+| 19 | Sometimes points the way to something interesting or useful.                                                                           |
+| 20 | Occasionally changes into a completely different artifact overnight (including form and function); this effect lasts until the artifact is used in its new form, after which point it reverts back (or depletes). |
 
 ##### Artifact Table
 When giving artifacts to characters, either choose from this table or roll d100 for random results.
 
-| d100  | Artifact                        |
+| d100 | Artifact            |
 |-------|---------------------------------|
-| 01-03 | [[A-Tisket-a-Tasket\|A Tisket a Tasket]]               |
-| 04-06 | [[Compendiums/CSRD/en/Equipment/Bounding-Boots\|Bounding Boots]]                  |
-| 07-09 | [[Boundless-Bag\|Boundless Bag]]                   |
-| 10-12 | [[Boy-Blues-Horn\|Boy Blue's Horn]]                 |
-| 13-15 | [[Carving-Knife-of-Sharpness\|Carving Knife of Sharpness]]      |
-| 16-17 | [[Devils-and-Tailors\|Devils and Tailors]]              |
-| 18-20 | [[Fiddle-of-the-Fossegrim\|Fiddle of the Fossegrim]]         |
-| 21-23 | [[Fortunates-Purse\|Fortunate's Purse]]               |
-| 24-25 | [[Galoshes-of-Fortune\|Galoshes of Fortune]]             |
-| 26-27 | [[Genies-Lamp\|Genie's Lamp]]                    |
-| 28-30 | [[Golden-Bridle\|Golden Bridle]]                   |
-| 31-33 | [[Hatchet-of-the-Woodsman\|Hatchet of the Woodsman]]         |
-| 34-36 | [[Hooks-Hook\|Hook's Hook]]                     |
-| 37-39 | [[Horn-of-Destruction\|Horn of Destruction]]             |
-| 40-42 | [[Iron-Stove\|Iron Stove]]                      |
-| 43-45 | [[Knapsack-of-Sevens\|Knapsack of Sevens]]              |
-| 46-50 | [[Mirror-Mirror\|Mirror Mirror]]                   |
-| 51-53 | [[Pandoras-Box\|Pandora's Box]]                   |
-| 54-56 | [[Pixie-Dust\|Pixie Dust]]                      |
-| 57-59 | [[Red-Cap\|Red Cap]]                         |
-| 60-62 | [[Red-Riding-Hood\|Red Riding Hood]]                 |
-| 63-65 | [[Self-Swinging-Sword\|Self-Swinging Sword]]             |
-| 66-68 | [[Seven-League-Boots\|Seven-League Boots]]              |
-| 69-71 | [[Shapeshifter-Wand\|Shapeshifter Wand]]               |
-| 72-74 | [[She-Bear\|She-Bear]]                        |
-| 75-77 | [[Shirt-of-Nettles\|Shirt of Nettles]]                |
+| 01-03 | [[A-Tisket-a-Tasket\|A Tisket a Tasket]]        |
+| 04-06 | [[Compendiums/CSRD/en/Equipment/Bounding-Boots\|Bounding Boots]]         |
+| 07-09 | [[Boundless-Bag\|Boundless Bag]]          |
+| 10-12 | [[Boy-Blues-Horn\|Boy Blue's Horn]]         |
+| 13-15 | [[Carving-Knife-of-Sharpness\|Carving Knife of Sharpness]]   |
+| 16-17 | [[Devils-and-Tailors\|Devils and Tailors]]       |
+| 18-20 | [[Fiddle-of-the-Fossegrim\|Fiddle of the Fossegrim]]     |
+| 21-23 | [[Fortunates-Purse\|Fortunate's Purse]]        |
+| 24-25 | [[Galoshes-of-Fortune\|Galoshes of Fortune]]       |
+| 26-27 | [[Genies-Lamp\|Genie's Lamp]]          |
+| 28-30 | [[Golden-Bridle\|Golden Bridle]]          |
+| 31-33 | [[Hatchet-of-the-Woodsman\|Hatchet of the Woodsman]]     |
+| 34-36 | [[Hooks-Hook\|Hook's Hook]]           |
+| 37-39 | [[Horn-of-Destruction\|Horn of Destruction]]       |
+| 40-42 | [[Iron-Stove\|Iron Stove]]           |
+| 43-45 | [[Knapsack-of-Sevens\|Knapsack of Sevens]]       |
+| 46-50 | [[Mirror-Mirror\|Mirror Mirror]]          |
+| 51-53 | [[Pandoras-Box\|Pandora's Box]]          |
+| 54-56 | [[Pixie-Dust\|Pixie Dust]]           |
+| 57-59 | [[Red-Cap\|Red Cap]]             |
+| 60-62 | [[Red-Riding-Hood\|Red Riding Hood]]         |
+| 63-65 | [[Self-Swinging-Sword\|Self-Swinging Sword]]       |
+| 66-68 | [[Seven-League-Boots\|Seven-League Boots]]       |
+| 69-71 | [[Shapeshifter-Wand\|Shapeshifter Wand]]        |
+| 72-74 | [[She-Bear\|She-Bear]]            |
+| 75-77 | [[Shirt-of-Nettles\|Shirt of Nettles]]        |
 | 78-79 | [[Soldiers-Cloak-of-Invisibility\|Soldier's Cloak of Invisibility]] |
-| 80-82 | [[Soulful-Fiddle\|Soulful Fiddle]]                   |
-| 83-84 | [[Steadfast-Tin-Soldier\|Steadfast Tin Soldier]]           |
-| 85-87 | [[Stone-Canoe\|Stone Canoe]]                     |
-| 88-90 | [[Story-Knife\|Story Knife]]                     |
-| 91-93 | [[Table-Be-Set\|Table Be Set]]                    |
-| 94-96 | [[Tinderbox]]                       |
-| 97-98 | [[Tweedledees-Umbrella\|Tweedledee’s Umbrella]]          |
-| 99-00 | [[Vicious-Tankard\|Vicious Tankard]]                 |
+| 80-82 | [[Soulful-Fiddle\|Soulful Fiddle]]          |
+| 83-84 | [[Steadfast-Tin-Soldier\|Steadfast Tin Soldier]]      |
+| 85-87 | [[Stone-Canoe\|Stone Canoe]]           |
+| 88-90 | [[Story-Knife\|Story Knife]]           |
+| 91-93 | [[Table-Be-Set\|Table Be Set]]          |
+| 94-96 | [[Tinderbox]]            |
+| 97-98 | [[Tweedledees-Umbrella\|Tweedledee’s Umbrella]]     |
+| 99-00 | [[Vicious-Tankard\|Vicious Tankard]]         |
 
 ### Beasts and Beings
 The following creatures and characters are provided to help populate your fairy tale game.
@@ -868,182 +868,182 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 ###### Animals
 | Animal |
 | ---------------------- |
-| Animals common         |
-| Animals magical        |
-| [[Bagher         |
-| Beast                  |
-| [[Black-Dog\|Black Dog]]              |
-| [[Cat-Sidhe\|Cat Sidhe]]              |
-| Centipede whispering   |
-| Cheshire Cat           |
-| Crow monstrous          |
-| Devil’s dandy dogs     |
-| Hans the Hedgehog      |
-| Leveret  (giant hare)   |
-| Puss in Boots           |
-| Robber birds            |
-| Sand fleas             |
-| [[Satyr\|Satyr]]                  |
-| Toby the turtle        |
-| [[Wolf-Big-Bad\|Wolf, Big Bad]]           |
+| Animals common     |
+| Animals magical    |
+| [[Bagher     |
+| Beast         |
+| [[Black-Dog\|Black Dog]]       |
+| [[Cat-Sidhe\|Cat Sidhe]]       |
+| Centipede whispering  |
+| Cheshire Cat      |
+| Crow monstrous     |
+| Devil’s dandy dogs   |
+| Hans the Hedgehog   |
+| Leveret (giant hare)  |
+| Puss in Boots      |
+| Robber birds      |
+| Sand fleas       |
+| [[Satyr\|Satyr]]         |
+| Toby the turtle    |
+| [[Wolf-Big-Bad\|Wolf, Big Bad]]      |
 
 ###### Crafted
 | Constructs |
 | --------------------------------- |
-| Geppetto’s children               |
-| [[Golem]]    |
-| Horse head automatons             |
-| [[Tin-Woodman\|Tin Woodman]]                       |
-| Virgilius’s copper dogs           |
+| Geppetto’s children        |
+| [[Golem]]  |
+| Horse head automatons       |
+| [[Tin-Woodman\|Tin Woodman]]            |
+| Virgilius’s copper dogs      |
 
 ###### Earth Beings
 
 | Beings |
 | --------------------------------- |
-| [[Erlking]]                       |
-| [[Giant]]                         |
-| [[Goblin]]                        |
-| [[Golem]]                         |
-| [[Minotaur]]                      |
-| [[Ogre]]                          |
-| [[Satyr]]                         |
-| [[Troll]]                         |
+| [[Erlking]]            |
+| [[Giant]]             |
+| [[Goblin]]            |
+| [[Golem]]             |
+| [[Minotaur]]           |
+| [[Ogre]]             |
+| [[Satyr]]             |
+| [[Troll]]             |
 
 ###### Fey Beings
-| Fey                                    |
+| Fey                  |
 | --------------------------------------------- |
-| [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]         |
-| Angik                                         |
-| Brownie                                       |
-| [[Cailleach\|Cailleach]]                                      |
-| [[Cat-Sidhe\|Cat Sidhe]]                                     |
-| Changeling                                    |
-| Enchanted  moura                               |
-| [[Erlking]]                                       |
-| [[Fairy-Godmother\|Fairy Godmother]]                               |
-| Grلinne the Wayward Daughter                   |
-| Headless horse                                 |
-| [[Nightmare\|Nightmare]]                                     |
-| Nymph                                         |
-| Pixie                                          |
+| [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]     |
+| Angik                     |
+| Brownie                    |
+| [[Cailleach\|Cailleach]]                   |
+| [[Cat-Sidhe\|Cat Sidhe]]                   |
+| Changeling                  |
+| Enchanted moura                |
+| [[Erlking]]                    |
+| [[Fairy-Godmother\|Fairy Godmother]]                |
+| Grلinne the Wayward Daughter          |
+| Headless horse                 |
+| [[Nightmare\|Nightmare]]                   |
+| Nymph                     |
+| Pixie                     |
 | [[Princess-of-Summer\|Prince(ss) of Summer]] |
-| [[Satyr\|Satyr]]                                         |
-| [[Tink                                           |
-| Tunnel bog                                    |
-| Will-o-wisp                                   |
+| [[Satyr\|Satyr]]                     |
+| [[Tink                      |
+| Tunnel bog                  |
+| Will-o-wisp                  |
 
 ###### Of the Grave
 | |
 |---------------------------------------|
-| Death                                 |
-| [[Demigod]]      |
-| [[Demon]]        |
-| [[Devil\|Devil]]        |
-| [[Djinni]]       |
+| Death                 |
+| [[Demigod]]   |
+| [[Demon]]    |
+| [[Devil\|Devil]]    |
+| [[Djinni]]    |
 | [[Fallen-Angel]] |
-| [[Compendiums/CSRD/en/Abilities/Ghost]]        |
-| [[Ghoul]]        |
-| [[Skeleton]]     |
+| [[Compendiums/CSRD/en/Abilities/Ghost]]    |
+| [[Ghoul]]    |
+| [[Skeleton]]   |
 
 
 ###### Human NPCs
 
-|           |
+|      |
 |---------------------|
-| [[Aristocrat]]          |
-| [[Child]]               |
-| [[Compendiums/CSRD/en/Creatures-NPCs/Crafter\|Crafter]]             |
+| [[Aristocrat]]     |
+| [[Child]]        |
+| [[Compendiums/CSRD/en/Creatures-NPCs/Crafter\|Crafter]]       |
 | [[Huntsman\|Huntsman/Cutter]] |
-| [[Robber\|Robber/Thief]]        |
-| [[Scholar]]             |
+| [[Robber\|Robber/Thief]]    |
+| [[Scholar]]       |
 
 ###### Named Characters
-|  |
+| |
 |------------------|
-| Happy            |
-| Humpty Dumpty    |
-| Maid Maleen      |
-| Snow White       |
-| Toby  the turtle  |
+| Happy      |
+| Humpty Dumpty  |
+| Maid Maleen   |
+| Snow White    |
+| Toby the turtle |
 
-######  Royalty
-|                                 |
+###### Royalty
+|                 |
 |---------------------------------------------------|
-| [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]                |
-| [[Aristocrat]]                                        |
-| Cardinal King                                     |
-| Grلinne the Wayward Daughter                      |
-| [[Listening King                                     |
+| [[Aine-Fairy-Queen-of-Light-an-Love\|Aine, Fairy Queen of Light an Love]]        |
+| [[Aristocrat]]                    |
+| Cardinal King                   |
+| Grلinne the Wayward Daughter           |
+| [[Listening King                   |
 | The Listening King’s Seven Starry-Headed Children |
-| One-Eyed Jacque                                   |
-| [[Princess-of-Summer\|Prince(ss) of Summer (Cypher System Rulebook)]]    |
-| [[Queen]]                                             |
-| Red Knight                                        |
-| White stag royal                                  |
+| One-Eyed Jacque                  |
+| [[Princess-of-Summer\|Prince(ss) of Summer (Cypher System Rulebook)]]  |
+| [[Queen]]                       |
+| Red Knight                    |
+| White stag royal                 |
 
 | Shapeshifters |
 |---------------|
-| Changeling    |
-| Enchanter     |
-| Queen         |
-| Witch         |
+| Changeling  |
+| Enchanter   |
+| Queen     |
+| Witch     |
 
-| Spiring Beings                        |
+| Spiring Beings            |
 |---------------------------------------|
-| Black dog                             |
-| Charon the Ferryman                   |
-| Death                                 |
-| Demigod (Cypher System Rulebook)      |
-| Demon (Cypher System Rulebook)        |
-| Devil (Cypher System Rulebook)        |
-| Djinni (Cypher System Rulebook)       |
+| Black dog               |
+| Charon the Ferryman          |
+| Death                 |
+| Demigod (Cypher System Rulebook)   |
+| Demon (Cypher System Rulebook)    |
+| Devil (Cypher System Rulebook)    |
+| Djinni (Cypher System Rulebook)    |
 | Fallen Angel (Cypher System Rulebook) |
-| Ghost (Cypher System Rulebook)        |
-| Ghoul (Cypher System Rulebook)        |
-| Nightmare                             |
-| Skeleton (Cypher System Rulebook)     |
+| Ghost (Cypher System Rulebook)    |
+| Ghoul (Cypher System Rulebook)    |
+| Nightmare               |
+| Skeleton (Cypher System Rulebook)   |
 
-| Tricksters                     |
+| Tricksters           |
 |--------------------------------|
-| Cheshire Cat                   |
-| Puss in Boots                  |
+| Cheshire Cat          |
+| Puss in Boots         |
 | Raven of the Seven Ravens Army |
-| Satyr                          |
-| Wolf Big Bad                   |
+| Satyr             |
+| Wolf Big Bad          |
 
 
-| Water Beings         |
+| Water Beings     |
 |----------------------|
-| Caileach             |
-| Cult of the Serpent  |
+| Caileach       |
+| Cult of the Serpent |
 | Ghost of the arbella |
-| Grundylow            |
-| Isonade              |
-| Mermaid misery       |
-| The Sea Herself      |
-| Siren                |
+| Grundylow      |
+| Isonade       |
+| Mermaid misery    |
+| The Sea Herself   |
+| Siren        |
 
 | Witches Wizards and Sorcerers |
 |-------------------------------|
-| [[Witch\|Witch (archetype)]]              |
-| Apple-pip Witch               |
-| [[Baba Uaga]]                     |
-| Blind Witch                   |
-| Dame Gothel                   |
-| Enchanter                     |
-| Kitchen Witch                 |
-| Sea Witch                     |
-| Virgilius the Sorcerer        |
-| Wicked Witch of the West      |
-| Witch of the Drowning Slough  |
+| [[Witch\|Witch (archetype)]]       |
+| Apple-pip Witch        |
+| [[Baba Uaga]]           |
+| Blind Witch          |
+| Dame Gothel          |
+| Enchanter           |
+| Kitchen Witch         |
+| Sea Witch           |
+| Virgilius the Sorcerer    |
+| Wicked Witch of the West   |
+| Witch of the Drowning Slough |
 
 
 | World and Weather Beings |
 |--------------------------|
-| Moon                     |
-| The Sea Herself          |
-| West Wind                |
-| The Wind children        |
+| Moon           |
+| The Sea Herself     |
+| West Wind        |
+| The Wind children    |
 
 
 ##### Magical Animals

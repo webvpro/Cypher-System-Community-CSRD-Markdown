@@ -19,7 +19,7 @@ id: Poison-Mind-Controlling
 
 The victim must carry out a specific action in response to a specific trigger. Roll a d100 to determine the action.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Poison Mind Controlling  |
+| Roll &nbsp; &nbsp; &nbsp; | Poison Mind Controlling |
 | ------------- | :----------- |
 | 1-20 | Lies down for one minute with eyes closed when told to do so. |
 | 21-40 | Flees in terror for one minute when threatened. |

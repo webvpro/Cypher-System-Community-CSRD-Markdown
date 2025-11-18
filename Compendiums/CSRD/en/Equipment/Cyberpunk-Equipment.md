@@ -70,146 +70,146 @@ if a particular weapon has a variation.
 
 ### Weapons
 
-  ----------------------------------------------------------------
-  Light Weapons (2 points of   Price          Notes
-  damage, attack eased)
-  ---------------------------- -------------- --------------------
-  CancelYou® stunner pistol    \$300          Short range,
-                                              nonlethal
+ ----------------------------------------------------------------
+ Light Weapons (2 points of  Price     Notes
+ damage, attack eased)
+ ---------------------------- -------------- --------------------
+ CancelYou® stunner pistol  \$300     Short range,
+                       nonlethal
 
-  Falling Blossom® subtle      \$700          Immediate range, see
-  needler                                     text
+ Falling Blossom® subtle   \$700     Immediate range, see
+ needler                   text
 
-  Handaxe                      \$30           Attacks eased
-                                              against wooden
-                                              objects
+ Handaxe           \$30      Attacks eased
+                       against wooden
+                       objects
 
-  Knife                        \$30
+ Knife            \$30
 
-  Light katana                 \$200--\$400
+ Light katana         \$200--\$400
 
-  Light pistol                 \$400          Short range
+ Light pistol         \$400     Short range
 
-  Light Sukurajima® pistol     \$1,000        Short range, adds +1
-                                              electricity damage
+ Light Sukurajima® pistol   \$1,000    Short range, adds +1
+                       electricity damage
 
-  Light Xaphan® pistol         \$800          Short range, adds +1
-                                              fire damage
+ Light Xaphan® pistol     \$800     Short range, adds +1
+                       fire damage
 
-  Light Zeerok Blank® pistol   \$100          Short range, no
-                                              reload
+ Light Zeerok Blank® pistol  \$100     Short range, no
+                       reload
 
-  Mantis blade, knife          \$7,000        Cybernetic
-  configuration
+ Mantis blade, knife     \$7,000    Cybernetic
+ configuration
 
-  Nightstick                   \$50
-  ----------------------------------------------------------------
+ Nightstick          \$50
+ ----------------------------------------------------------------
 
 Technically, a light katana is something like a wakizashi and a heavy
 katana is a nodachi, but most (ignorant, non-Japanese) people call all
 of them "katanas".
 
-  --------------------------------------------------------------
-  Medium Weapons (4    Price                Notes
-  points of damage)
-  -------------------- -------------------- --------------------
-  Basbeball bat        \$50
+ --------------------------------------------------------------
+ Medium Weapons (4  Price        Notes
+ points of damage)
+ -------------------- -------------------- --------------------
+ Basbeball bat    \$50
 
-  Firefighter's axe    \$100                Attacks eased
-                                            against wooden
-                                            objects
+ Firefighter's axe  \$100        Attacks eased
+                      against wooden
+                      objects
 
-  Leg blade            \$8,000              Cybernetic
+ Leg blade      \$8,000       Cybernetic
 
-  Machete              \$75
+ Machete       \$75
 
-  Mantis blade, sword  \$7,000              Cybernetic
-  configuration
+ Mantis blade, sword \$7,000       Cybernetic
+ configuration
 
-  Medium katana                             \$500--\$1,000
+ Medium katana               \$500--\$1,000
 
-  Medium pistol        \$600                Long range
+ Medium pistol    \$600        Long range
 
-  Medium Raptor® smart \$1,500              Short range,
-  pistol                                    AI-assisted
-                                            targeting
+ Medium Raptor® smart \$1,500       Short range,
+ pistol                  AI-assisted
+                      targeting
 
-  Medium rifle         \$800                Long range
+ Medium rifle     \$800        Long range
 
-  Medium sniper rifle  \$1,600              Very long range
+ Medium sniper rifle \$1,600       Very long range
 
-  Medium Sekhmet®      \$1,500              Long range, adds +1
-  rifle                                     fire damage
+ Medium Sekhmet®   \$1,500       Long range, adds +1
+ rifle                   fire damage
 
-  Medium Sukurajima®   \$1,500              Short range, adds +1
-  pistol                                    electricity damage
+ Medium Sukurajima®  \$1,500       Short range, adds +1
+ pistol                  electricity damage
 
-  Medium Xaphan®       \$1,200              Short range, adds +1
-  pistol                                    fire damage
+ Medium Xaphan®    \$1,200       Short range, adds +1
+ pistol                  fire damage
 
-  Medium Zeerok Blank® \$150                Short range, can't
-  pistol                                    be reloaded
+ Medium Zeerok Blank® \$150        Short range, can't
+ pistol                  be reloaded
 
-  Monowire             \$7,000              Cybernetic
+ Monowire       \$7,000       Cybernetic
 
-  Submachine gun       \$800                Medium weapon, short
-                                            range, rapid-fire
-  --------------------------------------------------------------
+ Submachine gun    \$800        Medium weapon, short
+                      range, rapid-fire
+ --------------------------------------------------------------
 
 Most rifles require two hands to use, but can be fired one-handed as a
 hindered attack.
 
-  --------------------------------------------------------------
-  Heavy Weapons (6     Price                Notes
-  points of damage)
-  -------------------- -------------------- --------------------
-  Assault rifle        \$1,400              Long range,
-                                            rapid-fire
+ --------------------------------------------------------------
+ Heavy Weapons (6   Price        Notes
+ points of damage)
+ -------------------- -------------------- --------------------
+ Assault rifle    \$1,400       Long range,
+                      rapid-fire
 
-  Double-barrel        \$800                Immediate range\*,
-  break-action shotgun                      rapid-fire
+ Double-barrel    \$800        Immediate range\*,
+ break-action shotgun           rapid-fire
 
-  Heavy katana         \$1,000--\$2,000
+ Heavy katana     \$1,000--\$2,000
 
-  Heavy pistol         \$800                Long range
+ Heavy pistol     \$800        Long range
 
-  Heavy Raptor® pistol \$1,700              Long range,
-                                            AI-assisted
-                                            targeting
+ Heavy Raptor® pistol \$1,700       Long range,
+                      AI-assisted
+                      targeting
 
-  Heavy rifle          \$1,000              300-foot (90 m)
-                                            range
+ Heavy rifle     \$1,000       300-foot (90 m)
+                      range
 
-  Heavy sniper rifle   \$1,800              Very long range
+ Heavy sniper rifle  \$1,800       Very long range
 
-  Heavy Sekhmet® rifle \$1,800              Long range, adds +1
-                                            fire damage
+ Heavy Sekhmet® rifle \$1,800       Long range, adds +1
+                      fire damage
 
-  Heavy Sukurajima®    \$1,700              Long range, adds +1
-  pistol                                    electricity damage
+ Heavy Sukurajima®  \$1,700       Long range, adds +1
+ pistol                  electricity damage
 
-  Heavy Xaphan® pistol \$1,500              Long range, adds +1
-                                            fire damage
+ Heavy Xaphan® pistol \$1,500       Long range, adds +1
+                      fire damage
 
-  Heavy Zeerok pistol  \$350                Short range, no
-                                            reload
+ Heavy Zeerok pistol \$350        Short range, no
+                      reload
 
-  Omega bat®           \$200
+ Omega bat®      \$200
 
-  Single-barrel        \$1,300              Immediate range\*,
-  automatic shotgun                         rapid-fire,
-                                            unreliable
+ Single-barrel    \$1,300       Immediate range\*,
+ automatic shotgun             rapid-fire,
+                      unreliable
 
-  Single-barrel        \$500                Immediate range\*
-  break-action shotgun
+ Single-barrel    \$500        Immediate range\*
+ break-action shotgun
 
-  Single-barrel        \$800                Immediate range\*,
-  pump-action shotgun                       rapid-fire
+ Single-barrel    \$800        Immediate range\*,
+ pump-action shotgun            rapid-fire
 
-  Single-barrel        \$1,000              Immediate range\*,
-  semi-automatic                            rapid-fire
-  shotgun
-  --------------------------------------------------------------
+ Single-barrel    \$1,000       Immediate range\*,
+ semi-automatic              rapid-fire
+ shotgun
+ --------------------------------------------------------------
 
 \* Although it is an immediate-range weapon, extreme range for a shotgun
 extends out to short range (instead of just at the limit of immediate
@@ -219,23 +219,23 @@ Attacking against targets at the limit of a weapon's range are hindered.
 
 ### Ammunition
 
-  --------------------------------------------------------------
-  Buckshot (10)              \$20           For shotguns only
-  -------------------------- -------------- --------------------
-  Bullets (10)               \$20
+ --------------------------------------------------------------
+ Buckshot (10)       \$20      For shotguns only
+ -------------------------- -------------- --------------------
+ Bullets (10)        \$20
 
-  Falling Blossom® darts     \$40           Hindering poison
-  (4), kayumi
+ Falling Blossom® darts   \$40      Hindering poison
+ (4), kayumi
 
-  Falling Blossom® darts     \$60           Speed damage poison
-  (4), habu
+ Falling Blossom® darts   \$60      Speed damage poison
+ (4), habu
 
-  Falling Blossom® darts     \$80           Might damage poison
-  (4), mamushi
+ Falling Blossom® darts   \$80      Might damage poison
+ (4), mamushi
 
-  Falling Blossom® darts     \$160          Paralysis poison
-  (4), kanashibari
-  --------------------------------------------------------------
+ Falling Blossom® darts   \$160     Paralysis poison
+ (4), kanashibari
+ --------------------------------------------------------------
 
 Weapons
 
@@ -463,32 +463,32 @@ so that they're destroyed if removed; planned obsolescence means a
 customer has to buy a new attachment rather than transferring it to a
 different weapon.
 
-  ---------------------------------------------------------------
-  Item           Price                   Notes
-  -------------- ----------------------- ------------------------
-  Blitzkreig®    \$1,000                 Adds +1 electricity
-                                         damage
+ ---------------------------------------------------------------
+ Item      Price          Notes
+ -------------- ----------------------- ------------------------
+ Blitzkreig®  \$1,000         Adds +1 electricity
+                     damage
 
-  Genius®        \$1,200                 Enables smart link
-                                         connection
+ Genius®    \$1,200         Enables smart link
+                     connection
 
-  Ghost®         \$800                   Silencer/suppressor
+ Ghost®     \$800          Silencer/suppressor
 
-  Gyro           \$300                   Reduces recoil to ease
-                                         followup attacks
+ Gyro      \$300          Reduces recoil to ease
+                     followup attacks
 
-  Hawk           \$1,000                 Increases range by one
-                                         category
+ Hawk      \$1,000         Increases range by one
+                     category
 
-  Phoenix        \$800                   Adds +1 fire damage
+ Phoenix    \$800          Adds +1 fire damage
 
-  Scorpion®      \$900                   Adds +1 Intellect damage
-                                         from poison
+ Scorpion®   \$900          Adds +1 Intellect damage
+                     from poison
 
-  Swarm®         \$1,000                 Turns single shots into
-                                         cluster for multiple
-                                         attacks
-  ---------------------------------------------------------------
+ Swarm®     \$1,000         Turns single shots into
+                     cluster for multiple
+                     attacks
+ ---------------------------------------------------------------
 
 Blitzkreig®: This Muxcom attachment coats the weapon's bullets with an
 electrochemical substance that reacts when fired, inflicting 1 point of
@@ -573,32 +573,32 @@ fragments.
 
 ### Armor
 
-  ---------------------------------------------------------------
-  Light Armor     Price           Armor           Speed Effort
-                                                  Additional
-                                                  Cost\*
-  --------------- --------------- --------------- ---------------
-  Heavy leather   \$300           1               +2
-  jacket
+ ---------------------------------------------------------------
+ Light Armor   Price      Armor      Speed Effort
+                         Additional
+                         Cost\*
+ --------------- --------------- --------------- ---------------
+ Heavy leather  \$300      1        +2
+ jacket
 
-  Medium Armor    Price           Armor           Speed Effort
-                                                  Additional
-                                                  Cost\*
+ Medium Armor  Price      Armor      Speed Effort
+                         Additional
+                         Cost\*
 
-  Kevlar vest or  \$800           2               +3
-  jacket
+ Kevlar vest or \$800      2        +3
+ jacket
 
-  Riot gear       \$1,500         2               +2
+ Riot gear    \$1,500     2        +2
 
-  Heavy Armor     Price           Armor           Speed Effort
-                                                  Additional
-                                                  Cost\*
+ Heavy Armor   Price      Armor      Speed Effort
+                         Additional
+                         Cost\*
 
-  Military body   \$4,000         3               +4
-  armor
+ Military body  \$4,000     3        +4
+ armor
 
-  Riot shield\*\* \$200           ---             ---
-  ---------------------------------------------------------------
+ Riot shield\*\* \$200      ---       ---
+ ---------------------------------------------------------------
 
 \*This table presents the additional cost of applying Effort while
 wearing armor in a different way than the Cypher System Rulebook. Here
@@ -621,24 +621,24 @@ therefore are untrustworthy.
 
 ### Entertainment
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Brainslide                     \$200
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Brainslide           \$200
 
-  Concert or sporting event      \$50--\$1,000
-  ticket
+ Concert or sporting event   \$50--\$1,000
+ ticket
 
-  Movie rental (streaming)       \$50
+ Movie rental (streaming)    \$50
 
-  Movie ticket                   \$30
+ Movie ticket          \$30
 
-  Musical theater ticket         \$50
+ Musical theater ticket     \$50
 
-  Sex                            \$100
+ Sex              \$100
 
-  Stage play ticket              \$50
-  -------------------------------------------------------------
+ Stage play ticket       \$50
+ -------------------------------------------------------------
 
 Brainslide: Digital recording of a person's experiences, using data from
 their optics and other senses, that plays directly into your senses. For
@@ -668,60 +668,60 @@ a PC sex worker can charge the full listed price for their services.
 
 Food, Drink, and Healthcare
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Admiral Snack Bar®             \$125
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Admiral Snack Bar®       \$125
 
-  Antivenom serum                \$1,000
+ Antivenom serum        \$1,000
 
-  Biomonitor chip                \$500
+ Biomonitor chip        \$500
 
-  Chemsleep                      \$500
+ Chemsleep           \$500
 
-  Cigarettes                     \$20
+ Cigarettes           \$20
 
-  Emergency medical visit        \$5,000
+ Emergency medical visit    \$5,000
 
-  First-aid kit                  \$100
+ First-aid kit         \$100
 
-  Health insurance, average      \$1,500
+ Health insurance, average   \$1,500
 
-  Health insurance, strong       \$3,000
+ Health insurance, strong    \$3,000
 
-  Health insurance, weak         \$500
+ Health insurance, weak     \$500
 
-  Immortech field dressing       \$500
+ Immortech field dressing    \$500
 
-  Mealz                          \$50
+ Mealz             \$50
 
-  Remedy serum                   \$1,000
+ Remedy serum          \$1,000
 
-  Resurrection® cocktail         \$5,000
+ Resurrection® cocktail     \$5,000
 
-  RxHypo3D                       \$5,000
+ RxHypo3D            \$5,000
 
-  Slut® water                    \$50
+ Slut® water          \$50
 
-  Sobertab                       \$40
+ Sobertab            \$40
 
-  TastyKib®                      \$15
+ TastyKib®           \$15
 
-  Therapeutic drug cocktail,     \$100
-  "chrome balance"
+ Therapeutic drug cocktail,   \$100
+ "chrome balance"
 
-  Therapeutic drug cocktail,     \$500
-  "cyber flat"
+ Therapeutic drug cocktail,   \$500
+ "cyber flat"
 
-  Therapeutic drug cocktail,     \$900
-  "organic nirvana"
+ Therapeutic drug cocktail,   \$900
+ "organic nirvana"
 
-  Therapy, session               \$300
+ Therapy, session        \$300
 
-  Toobfood                       \$30
+ Toobfood            \$30
 
-  Vape Pen                       \$75
-  -------------------------------------------------------------
+ Vape Pen            \$75
+ -------------------------------------------------------------
 
 Admiral Snack Bar®: Manufactured by JimBob AgriBiz, this provides enough
 nutrition to sustain one adult human for one day. Alternatively, eating
@@ -893,105 +893,105 @@ your pills, or surprise you by worsening your symptoms.
 
 ## Miscellaneous Items
 
-  --------------------------------------------------------------
-  Item                 Price                Notes
-  -------------------- -------------------- --------------------
-  3D printer           \$2,000
+ --------------------------------------------------------------
+ Item         Price        Notes
+ -------------------- -------------------- --------------------
+ 3D printer      \$2,000
 
-  Backpack             \$30
+ Backpack       \$30
 
-  Bolt cutters         \$25                 Asset for cutting
-                                            through metal bars
+ Bolt cutters     \$25         Asset for cutting
+                      through metal bars
 
-  Burner phone         \$100
+ Burner phone     \$100
 
-  Cardpick             \$750
+ Cardpick       \$750
 
-  Cashcard             \$5
+ Cashcard       \$5
 
-  Climbing gear        \$750                Asset for climbing
-                                            tasks
+ Climbing gear    \$750        Asset for climbing
+                      tasks
 
-  Crowbar              \$40
+ Crowbar       \$40
 
-  Digital shroud       \$6,000
+ Digital shroud    \$6,000
 
-  Drum synthesizer     \$200
+ Drum synthesizer   \$200
 
-  Duct tape roll       \$20
+ Duct tape roll    \$20
 
-  Duffel bag           \$30
+ Duffel bag      \$30
 
-  Face scanner         \$500
+ Face scanner     \$500
 
-  Flashlight           \$25                 24 hours, cone out
-                                            to short area,
-                                            rechargeable
+ Flashlight      \$25         24 hours, cone out
+                      to short area,
+                      rechargeable
 
-  Game console         \$200--\$700
+ Game console     \$200--\$700
 
-  Glowgrenade          \$100
+ Glowgrenade     \$100
 
-  Glowpaint            \$25
+ Glowpaint      \$25
 
-  Glowstick            \$5
+ Glowstick      \$5
 
-  Guitar               \$200--\$1,000
+ Guitar        \$200--\$1,000
 
-  Handcuffs            \$75                 Level 5 restraint
+ Handcuffs      \$75         Level 5 restraint
 
-  Heavy tools          \$300
+ Heavy tools     \$300
 
-  Holoprojector        \$2,000
+ Holoprojector    \$2,000
 
-  Keyboard             \$200
+ Keyboard       \$200
 
-  Kleenbot             \$250
+ Kleenbot       \$250
 
-  Land mine            \$100
+ Land mine      \$100
 
-  Light tools          \$100
+ Light tools     \$100
 
-  Limb swapper         \$5,000
+ Limb swapper     \$5,000
 
-  Loudspeaker          \$100
+ Loudspeaker     \$100
 
-  Magnetic grapple     \$500
+ Magnetic grapple   \$500
 
-  Parachute            \$2,500
+ Parachute      \$2,500
 
-  Poison sniffer       \$2,000
+ Poison sniffer    \$2,000
 
-  Portable lantern     \$200                24 hours in a short
-                                            area, rechargeable
+ Portable lantern   \$200        24 hours in a short
+                      area, rechargeable
 
-  Rope                 \$50                 50 feet (15 m),
-                                            nylon
+ Rope         \$50         50 feet (15 m),
+                      nylon
 
-  Smartphone           \$1,000
+ Smartphone      \$1,000
 
-  Subvocalizer         \$200
+ Subvocalizer     \$200
 
-  Suction grapple      \$750
+ Suction grapple   \$750
 
-  Suitcase             \$50--\$100
+ Suitcase       \$50--\$100
 
-  Surveillance camera  \$1,000
+ Surveillance camera \$1,000
 
-  Tactile drone        \$3,000
+ Tactile drone    \$3,000
 
-  Television           \$500--\$2,000
+ Television      \$500--\$2,000
 
-  Tracking device      \$150--\$500
+ Tracking device   \$150--\$500
 
-  Translator chip      \$3,000
+ Translator chip   \$3,000
 
-  Wireless jammer      \$4,000
+ Wireless jammer   \$4,000
 
-  Zeta torch           \$100
+ Zeta torch      \$100
 
-  Zip ties (10)        \$20                 Level 3 restraint
-  --------------------------------------------------------------
+ Zip ties (10)    \$20         Level 3 restraint
+ --------------------------------------------------------------
 
 3D printer: Briefcase-sized device that can print physical objects out
 of an internal supply of synthetic material. Printing a fist-sized item
@@ -1206,30 +1206,30 @@ or two adjacent creatures.
 
 Clothing and Worn Items
 
-  --------------------------------------------------------------
-  Item                 Price
-  -------------------- -------------------- --------------------
-  Advanced binoculars  \$1,500
+ --------------------------------------------------------------
+ Item         Price
+ -------------------- -------------------- --------------------
+ Advanced binoculars \$1,500
 
-  Augmented reality    \$500
-  (AR) unit
+ Augmented reality  \$500
+ (AR) unit
 
-  Binoculars           \$100                Asset for perception
-                                            tasks at long range
+ Binoculars      \$100        Asset for perception
+                      tasks at long range
 
-  Disguise kit         \$2,000              Asset for disguise
-                                            tasks
+ Disguise kit     \$2,000       Asset for disguise
+                      tasks
 
-  Fancy clothes        \$1,000--\$5,000
+ Fancy clothes    \$1,000--\$5,000
 
-  Filtration mask      \$300                Filters out smoke
-                                            and toxins for eight
-                                            to twelve hours
+ Filtration mask   \$300        Filters out smoke
+                      and toxins for eight
+                      to twelve hours
 
-  Night vision goggles \$1,000
+ Night vision goggles \$1,000
 
-  Scuba gear           \$1,500
-  --------------------------------------------------------------
+ Scuba gear      \$1,500
+ --------------------------------------------------------------
 
 Advanced binoculars: High-end binoculars that include night vision (see
 in darkness up to a long distance away), an infrared range finder (very
@@ -1269,23 +1269,23 @@ an hour at depths of up to 130 feet (40 m)
 
 ### Services
 
-  -------------------------------------------------------------
-  Service                        Average Cost
-  ------------------------------ ------------------------------
-  Bounty (assault)               \$500
+ -------------------------------------------------------------
+ Service            Average Cost
+ ------------------------------ ------------------------------
+ Bounty (assault)        \$500
 
-  Bounty (murder)                \$1,000
+ Bounty (murder)        \$1,000
 
-  Bounty (robbery)               \$200
+ Bounty (robbery)        \$200
 
-  Bounty (theft)                 \$100
+ Bounty (theft)         \$100
 
-  Food delivery surcharge        \$20
+ Food delivery surcharge    \$20
 
-  Sexual services                \$1,00---\$5,000
+ Sexual services        \$1,00---\$5,000
 
-  Vehicle for hire               \$50
-  -------------------------------------------------------------
+ Vehicle for hire        \$50
+ -------------------------------------------------------------
 
 Bounty: The going rate for catching a criminal of this type, whether
 they're an escaped convict or just have a warrant out for their arrest.
@@ -1315,33 +1315,33 @@ vehicle (such as a limousine) costs double the fare.
 
 ### Housing (Weekly)
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Cheap room                     \$200
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Cheap room           \$200
 
-  Studio apartment               \$500
+ Studio apartment        \$500
 
-  One-bedroom apartment          \$700
+ One-bedroom apartment     \$700
 
-  Two-bedroom apartment          \$1,300
+ Two-bedroom apartment     \$1,300
 
-  Penthouse apartment            \$3,000
+ Penthouse apartment      \$3,000
 
-  Luxury apartment               \$5,000
+ Luxury apartment        \$5,000
 
-  Luxury penthouse apartment     \$7,000
+ Luxury penthouse apartment   \$7,000
 
-  Housing Modifications          Price
+ Housing Modifications     Price
 
-  Bulletproof windows            \$200--\$1,000
+ Bulletproof windows      \$200--\$1,000
 
-  Hidden compartment             \$1,000
+ Hidden compartment       \$1,000
 
-  Panic room                     \$5,000--\$10,000
+ Panic room           \$5,000--\$10,000
 
-  Smart windows                  \$1,000--\$5000
-  -------------------------------------------------------------
+ Smart windows         \$1,000--\$5000
+ -------------------------------------------------------------
 
 Cheap room: A private bedroom in a building such as a flophouse,
 boarding house, or private individual's home. Usually doesn't have a
@@ -1590,27 +1590,27 @@ Arm cybernetics are sold singly. Every arm cybernetic includes a hand,
 although if you already have a hand cybernetic you can swap out the
 arm's hand for your existing chrome hand.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Embedded pistol                \$6,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Embedded pistol        \$6,000
 
-  Gorilla arm                    \$16,000
+ Gorilla arm          \$16,000
 
-  Grapple javelin                \$7,000
+ Grapple javelin        \$7,000
 
-  Grenade launcher               \$12,000
+ Grenade launcher        \$12,000
 
-  Mantis blade                   \$7,000
+ Mantis blade          \$7,000
 
-  Monowire                       \$7,000
+ Monowire            \$7,000
 
-  Skill arm                      \$7,000
+ Skill arm           \$7,000
 
-  Standard arm                   \$4,000
+ Standard arm          \$4,000
 
-  Strong arm                     \$10,000
-  -------------------------------------------------------------
+ Strong arm           \$10,000
+ -------------------------------------------------------------
 
 Embedded pistol. Installation of a hidden firearm that is the equivalent
 of a light, medium, or heavy pistol into your organic or cybernetic arm.
@@ -1688,23 +1688,23 @@ Most people's brains only have the capacity for two cybernetic implants;
 exceeding this limit tends to cause hallucinations, aggression, and
 brain damage.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Communicator implant           \$500
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Communicator implant      \$500
 
-  Duplicator                     \$2,000
+ Duplicator           \$2,000
 
-  Hack augmenter                 \$3,000
+ Hack augmenter         \$3,000
 
-  ICEpack                        \$7,000
+ ICEpack            \$7,000
 
-  Neurostimulator                \$3,000
+ Neurostimulator        \$3,000
 
-  RAM manager                    \$4,000
+ RAM manager          \$4,000
 
-  ShadyICE                       \$3,000
-  -------------------------------------------------------------
+ ShadyICE            \$3,000
+ -------------------------------------------------------------
 
 Communicator implant: Send and receive holocalls, interface wirelessly
 with standard electronics, record video, and perform basic internet
@@ -1742,21 +1742,21 @@ discount if you only need one. Eye cybernetics that work with your
 organic eyes usually function through an additional lens installed in
 your face, typically on your brow or upper cheekbone.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Countersurveillance optics     \$5,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Countersurveillance optics   \$5,000
 
-  Night vision                   \$1,200
+ Night vision          \$1,200
 
-  Ogg                            \$900
+ Ogg              \$900
 
-  Standard optics (replacement)  \$4,000
+ Standard optics (replacement) \$4,000
 
-  Threat detector                \$2,000
+ Threat detector        \$2,000
 
-  Zoomz                          \$1,000
-  -------------------------------------------------------------
+ Zoomz             \$1,000
+ -------------------------------------------------------------
 
 Countersurveillance optics: Implant works with your eyes or optics,
 granting you two assets to notice cameras, including identifying if a
@@ -1781,13 +1781,13 @@ at long range or longer.
 
 Limit one facial cybernetic per person.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Everydoot                      \$3,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Everydoot           \$3,000
 
-  FaceGoBlrr                     \$5,000
-  -------------------------------------------------------------
+ FaceGoBlrr           \$5,000
+ -------------------------------------------------------------
 
 Everydoot: Implant allows you to adjust bone structure and soft tissue
 to alter your appearance. The device is mainly for making you more
@@ -1806,15 +1806,15 @@ or deactivate the device as part of another action.
 
 ### Foot Cybernetics
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  CatsPaw (pair)                 \$5,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ CatsPaw (pair)         \$5,000
 
-  FootKnife (single)             \$2,000
+ FootKnife (single)       \$2,000
 
-  PowerSkate (pair)              \$3,000
-  -------------------------------------------------------------
+ PowerSkate (pair)       \$3,000
+ -------------------------------------------------------------
 
 CatsPaw: Replacement for ankles and feet. Grants an asset on stealth
 tasks for walking and running (but not for pickpocketing or other tasks
@@ -1838,13 +1838,13 @@ action.
 
 ### Full-Body Cybernetics
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  FuBo®                          \$90,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ FuBo®             \$90,000
 
-  JarHead®                       \$50,000
-  -------------------------------------------------------------
+ JarHead®            \$50,000
+ -------------------------------------------------------------
 
 FuBo®: Immortech pioneered this technology for a full-body cybernetic
 replacement---a human head kept alive by a fully-cybernetic body. The
@@ -1886,13 +1886,13 @@ Crab) unit to carry them around.
 
 ### Genitalia Cybernetics
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  HotJunk®                       \$4,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ HotJunk®            \$4,000
 
-  UltraJunk®                     \$9,000
-  -------------------------------------------------------------
+ UltraJunk®           \$9,000
+ -------------------------------------------------------------
 
 HotJunk®: Manufactured by MuxCom, this set of functional replacement
 genitals is configured before installation to match up to seventeen
@@ -1914,15 +1914,15 @@ visible distensions or require additional plastiflesh padding to
 disguise them as belly fat, a pregnancy, or some other enlargement of
 your abdomen.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  BestLiver                      \$5,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ BestLiver           \$5,000
 
-  Storage                        \$2,000
+ Storage            \$2,000
 
-  ZoomWomb®                      \$20,000
-  -------------------------------------------------------------
+ ZoomWomb®           \$20,000
+ -------------------------------------------------------------
 
 BestLiver: Replaces your liver and interfaces with your stomach. Grants
 two assets against poison (ingested, inhaled, or injected), foodborne
@@ -1954,19 +1954,19 @@ cross-species compatibility.
 
 Hand cybernetics are sold singly.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Grip stabilizer                \$3,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Grip stabilizer        \$3,000
 
-  Standard hand                  \$2,500
+ Standard hand         \$2,500
 
-  Smart link                     \$5,000
+ Smart link           \$5,000
 
-  StillHand                      \$2,000
+ StillHand           \$2,000
 
-  WitchClaw                      \$5,000
-  -------------------------------------------------------------
+ WitchClaw           \$5,000
+ -------------------------------------------------------------
 
 Grip stabilizer: Implant improves the hand's grip strength and reflexes,
 granting you an asset on thrown weapon attacks.
@@ -2000,17 +2000,17 @@ be lethal.
 
 ### Item Price
 
-  -------------------------------------------------------------
-  Medical pump                   \$4,000
-  ------------------------------ ------------------------------
-  PanicButton                    \$5,000
+ -------------------------------------------------------------
+ Medical pump          \$4,000
+ ------------------------------ ------------------------------
+ PanicButton          \$5,000
 
-  SecondLife                     \$10,000
+ SecondLife           \$10,000
 
-  Standard heart (replacement)   \$15,000
+ Standard heart (replacement)  \$15,000
 
-  Zfibrilator                    \$8,000
-  -------------------------------------------------------------
+ Zfibrilator          \$8,000
+ -------------------------------------------------------------
 
 Medical pump: Implant injects you with restorative drugs when activated
 by a linked fob or your communicator implant. Gives you an additional
@@ -2038,17 +2038,17 @@ next ten-hour recovery roll.
 
 Leg cybernetics are sold singly.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  JackRabbit                     \$5,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ JackRabbit           \$5,000
 
-  Leg blade                      \$8,000
+ Leg blade           \$8,000
 
-  MurphyLeg                      \$6,000
+ MurphyLeg           \$6,000
 
-  Standard leg                   \$4,000
-  -------------------------------------------------------------
+ Standard leg          \$4,000
+ -------------------------------------------------------------
 
 JackRabbit: Replacement augments your jumping and running, granting an
 asset on these tasks. Also reduces falling damage by 1 point.
@@ -2075,12 +2075,12 @@ knives.
 
 Most people can manage two muscle cybernetics at once.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Myomanager                     \$4000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Myomanager           \$4000
 
-  -------------------------------------------------------------
+ -------------------------------------------------------------
 
 Myomanager: Implanted strong synthetic muscle fibers all over your body.
 Adds +1 to your Might Edge. You can have multiple simultaneous instances
@@ -2090,15 +2090,15 @@ of this implant.
 
 You can have up to two nervous system cybernetics.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Adrenaline boost               \$3,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Adrenaline boost        \$3,000
 
-  Reflex manager                 \$4,000
+ Reflex manager         \$4,000
 
-  Twitch fiber                   \$3,500
-  -------------------------------------------------------------
+ Twitch fiber          \$3,500
+ -------------------------------------------------------------
 
 Adrenaline boost: Implant improves reaction time, granting an asset on
 initiative tasks.
@@ -2115,17 +2115,17 @@ turn.
 Most people can only tolerate up to three skeleton cybernetics at once;
 exceeding this limit causes incompatible errors and deterioration.
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Metamarrow                     \$3,500
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Metamarrow           \$3,500
 
-  Regenerator                    \$5,000
+ Regenerator          \$5,000
 
-  Skeletal augmentation          \$6,000
+ Skeletal augmentation     \$6,000
 
-  Skeletal reinforcement         \$7,000
-  -------------------------------------------------------------
+ Skeletal reinforcement     \$7,000
+ -------------------------------------------------------------
 
 Metamarrow: Implant works with your immune system. When you make a
 recovery roll, you gain an additional +2 points that can only be used
@@ -2147,21 +2147,21 @@ You can have up to two skin cybernetics at the same time. DermaChrome,
 LiveTats, and NuSkin don't count toward this limit (but you can't have
 both DermaChrome and NuSkin on the same part of your body).
 
-  -------------------------------------------------------------
-  Item                           Price
-  ------------------------------ ------------------------------
-  Dermachrome                    \$4,000
+ -------------------------------------------------------------
+ Item              Price
+ ------------------------------ ------------------------------
+ Dermachrome          \$4,000
 
-  DumbScrambler                  \$3,000
+ DumbScrambler         \$3,000
 
-  Galvanic eel                   \$6,000
+ Galvanic eel          \$6,000
 
-  LiveTat                        \$1,000
+ LiveTat            \$1,000
 
-  NuSkin                         \$3,000
+ NuSkin             \$3,000
 
-  Subdermal weave                \$6,000
-  -------------------------------------------------------------
+ Subdermal weave        \$6,000
+ -------------------------------------------------------------
 
 Dermachrome: Replaces most or all of your natural skin with
 metallic-sheened plastiflesh. Available in silver, bronze, copper, gold,
@@ -2225,45 +2225,45 @@ capability that includes weapons or weapon-like features, the dealer is
 either harder to find or only indicates their inventory to select
 clientele.
 
-  --------------------------------------------------------------
-  Vehicle              Price                Notes
-  -------------------- -------------------- --------------------
-  Car, luxury          \$100,000            level 6
+ --------------------------------------------------------------
+ Vehicle       Price        Notes
+ -------------------- -------------------- --------------------
+ Car, luxury     \$100,000      level 6
 
-  Car, sedan           \$30,000             level 4
+ Car, sedan      \$30,000       level 4
 
-  Car, sports          \$55,000             level 6
+ Car, sports     \$55,000       level 6
 
-  Car, utility         \$30,000             level 5
+ Car, utility     \$30,000       level 5
 
-  Mech, battle         priceless            level 7
+ Mech, battle     priceless      level 7
 
-  Motorcycle, cruiser  \$3,000              level 3
+ Motorcycle, cruiser \$3,000       level 3
 
-  Motorcycle, dirt     \$500                level 2
-  bike
+ Motorcycle, dirt   \$500        level 2
+ bike
 
-  Motorcycle,          \$75,000             level 4
-  interceptor
+ Motorcycle,     \$75,000       level 4
+ interceptor
 
-  Motorcycle,          \$10,000             level 3
-  monowheel
+ Motorcycle,     \$10,000       level 3
+ monowheel
 
-  Skates, powered      \$500                level 3
+ Skates, powered   \$500        level 3
 
-  Tank, hover          priceless            level 7
+ Tank, hover     priceless      level 7
 
-  Tank, spider         priceless            level 7
+ Tank, spider     priceless      level 7
 
-  Truck, big rig       \$125,000            level 5
+ Truck, big rig    \$125,000      level 5
 
-  Van, cargo           \$25,000             level 4
+ Van, cargo      \$25,000       level 4
 
-  Wheelchair,          \$3,000              level 3
-  motorized
+ Wheelchair,     \$3,000       level 3
+ motorized
 
-  Wheelchair, standard \$250                level 2
-  --------------------------------------------------------------
+ Wheelchair, standard \$250        level 2
+ --------------------------------------------------------------
 
 Vehicle Descriptions
 
@@ -2434,50 +2434,50 @@ As with vehicles, PCs can buy aftermarket attachments from a variety of
 dealers in most cyberpunk settings, though those that are weapons are
 harder to acquire.
 
-  --------------------------------------------------------------
-  Customization        Price                Notes
-  -------------------- -------------------- --------------------
-  BioPulse® Ambulance  \$6,000              level 4
-  Sidecar
+ --------------------------------------------------------------
+ Customization    Price        Notes
+ -------------------- -------------------- --------------------
+ BioPulse® Ambulance \$6,000       level 4
+ Sidecar
 
-  Cerebrox® Auto       \$5,000              level 5
-  Interface
+ Cerebrox® Auto    \$5,000       level 5
+ Interface
 
-  Cryptocruise® Car    \$20,000             level 5
-  Cloak
+ Cryptocruise® Car  \$20,000       level 5
+ Cloak
 
-  Evermax® Bulletproof \$10,000             level 3
-  Interior
+ Evermax® Bulletproof \$10,000       level 3
+ Interior
 
-  Evermax® Bulletproof \$2,000              level 3
-  Windows
+ Evermax® Bulletproof \$2,000       level 3
+ Windows
 
-  Helix® Food And      \$10,000             level 4
-  Comfort Sidecar
+ Helix® Food And   \$10,000       level 4
+ Comfort Sidecar
 
-  Imperium® Windowless \$4,000              level 4
-  Cab
+ Imperium® Windowless \$4,000       level 4
+ Cab
 
-  Lancer® Self-Driving \$8,000              level 3
-  Mod Chip
+ Lancer® Self-Driving \$8,000       level 3
+ Mod Chip
 
-  MadMegan® Rocket Pod \$50,000             level 5
+ MadMegan® Rocket Pod \$50,000       level 5
 
-  Omni-Road® Wall      \$10,000             level 5
-  Wheels
+ Omni-Road® Wall   \$10,000       level 5
+ Wheels
 
-  Sentinex® Anti-Theft \$4,000              level 3
+ Sentinex® Anti-Theft \$4,000       level 3
 
-  Skyroam® VTOL pod    \$100,000            level 4
+ Skyroam® VTOL pod  \$100,000      level 4
 
-  SmoothRide® tires    \$7,000              level 5
+ SmoothRide® tires  \$7,000       level 5
 
-  Turbocore®           \$4,000              level 5
-  Acceleration
+ Turbocore®      \$4,000       level 5
+ Acceleration
 
-  Vigiwatch® Remote    \$7,000              level 5
-  Driving
-  --------------------------------------------------------------
+ Vigiwatch® Remote  \$7,000       level 5
+ Driving
+ --------------------------------------------------------------
 
 Aftermarket Customization Descriptions
 

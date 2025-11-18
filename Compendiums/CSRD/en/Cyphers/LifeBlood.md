@@ -34,36 +34,36 @@ higher), and its specific effect depends on the specific combination of
 hormones, enzymes, and genetically-engineered cells present in the
 fluid. Roll d00 or choose one of the following benefits.
 
-  -------------------------------------------------------------
-  D100                           Benefit
-  ------------------------------ ------------------------------
-  1-10                           Eases tasks against disease by
-                                 two steps
+ -------------------------------------------------------------
+ D100              Benefit
+ ------------------------------ ------------------------------
+ 1-10              Eases tasks against disease by
+                 two steps
 
-  11-20                          Eases tasks against poison
-                                 (including intoxication) by
-                                 two steps
+ 11-20             Eases tasks against poison
+                 (including intoxication) by
+                 two steps
 
-  21-30                          +5 to Armor against electrical
-                                 damage
+ 21-30             +5 to Armor against electrical
+                 damage
 
-  31-40                          +5 to Armor against fire
-                                 damage
+ 31-40             +5 to Armor against fire
+                 damage
 
-  41-50                          +5 to Armor against cold
-                                 damage
+ 41-50             +5 to Armor against cold
+                 damage
 
-  51-60                          +1 to Might Edge
+ 51-60             +1 to Might Edge
 
-  61-70                          +1 to Speed Edge
+ 61-70             +1 to Speed Edge
 
-  71-80                          +1 to Intellect Edge
+ 71-80             +1 to Intellect Edge
 
-  81-90                          Additional +2 to recovery
-                                 rolls
+ 81-90             Additional +2 to recovery
+                 rolls
 
-  91-00                          See in very dim or dim light
-                                 as normal light
-  -------------------------------------------------------------
+ 91-00             See in very dim or dim light
+                 as normal light
+ -------------------------------------------------------------
 
 Depletion: 1 in 1d20 (check each day)

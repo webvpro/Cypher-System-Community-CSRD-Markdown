@@ -11,7 +11,7 @@ kind: Spacecraft
 id: Optional-Rules-Extended-Vehicular-Combat
 ---
 
-##  Optional Rules: Extended Vehicular Combat (Spacecraft Combat)
+## Optional Rules: Extended Vehicular Combat (Spacecraft Combat)
 When vehicular combat occurs—which happens whenever the PCs are completely enclosed in a vehicle so that it’s not really the characters fighting, but the vehicles— start with the vehicular combat rules described in the Cypher System Rulebook.
 However, if you’d like to provide the PCs with more options designed especially for spacecraft combat, use these optional rules instead, which include a “redline maneuver” system for trying extremely risky spacecraft maneuvers, bridge combat options, and more. The base vehicular combat rules have been integrated into these extended rules, so you don’t need to continually cross-reference them to understand how it all works.
 In extended vehicular combat, PCs on a spacecraft take actions on their turn, just like in a standard Cypher System combat encounter. Use standard initiative rules to determine when PCs take their actions, and when enemy spacecraft take theirs. Characters will be crewing specific spacecraft system stations described under Bridge Combat, and thus could attempt a piloting maneuver, to fire the ship weapons, to scan the enemy craft for weaknesses, or to attempt some similar spacecraft operation task on their turn. Alternatively, they might be somewhere else on the ship attempting repairs, fighting off boarders, attempting to open communications in order to negotiate, or taking some other action.
@@ -28,7 +28,7 @@ The modifiers that apply, even before PCs attempt a specific combat task noted u
 ### Spacecraft Level Difference
 >Compare the levels of the spacecraft involved in the conflict. If the PCs’ vehicle has the higher level, the difference in levels becomes a reduction in the difficulty of attack and defense rolls PCs might make. If the PCs’ vehicle has the lower level, the difference is an increase in difficulty by the same amount. If the levels are the same, there is no modification.
 
-###  Mismatched Tech Rating
+### Mismatched Tech Rating
 >It’s possible that vehicles from different tech ratings will fight each other at some point, or become caught up in a larger multi-vehicle fight. When they do, each step difference in tech rating between two opposed vehicles increases the effective level of the higher-rated vehicle by two steps.
 
 ### Vehicle Coordination
@@ -69,24 +69,24 @@ The modifiers that apply, even before PCs attempt a specific combat task noted u
 > > When crewing their stations, PCs have several station-specific options available to them. What they do can bears on how the encounter plays out on a round-to-round basis, similar to regular combat. Specific options are provided for each station, but characters are free to attempt other actions they can think of.
 >
 >The following ship systems might be found on larger spacecraft with room for more than a single pilot.
-####  Shipmind System Control
+#### Shipmind System Control
 > Some ships with integrated AIs (shipminds) can control a particular system autonomously, without a PC. When it acts in this fashion, it can only take a single action each round, which means it could attack and move, but not also attempt a complicated engineering or defensive maneuver. A shipmind acts at a level equal to the overall spacecraft. In addition, shipmind actions against an enemy spacecraft are assessed with the same modifiers for targeting as a PC crewing the station.
-####  Weapons
+#### Weapons
  > A spacecraft may have more than one weapon system. Each individual weapon system has its own station, which can be crewed by a separate PC. Spacecraft systems are considered heavy weapons (which means some characters may be practiced in their use, though others may have an inability). A spacecraft can potentially make as many attacks each round as weapon systems it possesses, if each station is crewed.
 >
 > Refer to [[PC-Weapon-System-Options|PC Weapon System Options]]. If the PC triggers a GM intrusion, the following table provides options to choose from.
-#####  [[Weapon-System-Gm-Intrusions|Weapon System Gm Intrusions]]
-####   Piloting
->  Many spacecraft have only a single system and dedicated station for piloting and navigation, suitable for a single PC to crew, though a larger craft could split those duties. A PC piloting a ship during combat can attempt any number of piloting tasks, as well as any other type of flying that they deem necessary. While not in combat, the PC crewing this station pilots the ship from place to place in space.
+##### [[Weapon-System-Gm-Intrusions|Weapon System Gm Intrusions]]
+####  Piloting
+> Many spacecraft have only a single system and dedicated station for piloting and navigation, suitable for a single PC to crew, though a larger craft could split those duties. A PC piloting a ship during combat can attempt any number of piloting tasks, as well as any other type of flying that they deem necessary. While not in combat, the PC crewing this station pilots the ship from place to place in space.
 >
->  Refer to [[PC-Piloting-System-Options|PC Piloting System Options]]. If the PC triggers a GM intrusion, the following table provides options to choose from.
+> Refer to [[PC-Piloting-System-Options|PC Piloting System Options]]. If the PC triggers a GM intrusion, the following table provides options to choose from.
 >
->  A successful piloting defense task is not always a miss: A failed enemy attack doesn’t always mean it misses a character’s craft. The PC’s spacecraft might rock and reel from the hit, but the bulk of the damage was absorbed by the hull or shields, so there’s no significant damage.
+> A successful piloting defense task is not always a miss: A failed enemy attack doesn’t always mean it misses a character’s craft. The PC’s spacecraft might rock and reel from the hit, but the bulk of the damage was absorbed by the hull or shields, so there’s no significant damage.
 ##### [[Piloting-System-Gm-Intrusions|Piloting System Gm Intrusions]]
 #### Science And Engineering
->  A spacecraft may have more than one science and engineering system. Each science and engineering system has a station, each of which can be crewed by a separate PC. A spacecraft can potentially attempt as many science and engineering tasks each round as stations systems it possesses, if each one is crewed.
+> A spacecraft may have more than one science and engineering system. Each science and engineering system has a station, each of which can be crewed by a separate PC. A spacecraft can potentially attempt as many science and engineering tasks each round as stations systems it possesses, if each one is crewed.
 >
->  Refer to [[PC-Science-Engineering-System-Options|PC Science Engineering System Options]] & Engineering System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
+> Refer to [[PC-Science-Engineering-System-Options|PC Science Engineering System Options]] & Engineering System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
 ##### [[Science-and-Engineering-System-Gm-Intrusions]]
 #### Optional: Command
 > Ships with a captain may have a Command station, possibly a captain’s chair, though the captain might just crew one of the other stations. Sometimes those with captain’s privileges also have the Captain’s Calm special ability. Normally, a captain commanding someone else to do something can’t redline; it would be up to the person who received the command whether to try to redline or not, and to face any GM intrusion consequences.
@@ -110,7 +110,7 @@ Assign characters a station: Next, if you have some time to prepare, copy the tw
 #### Spacecraft vs. Colossal Creatures
 > If a creature is as capable as a spacecraft, treat it that way when it comes to vehicular combat. Instead of adjusting for mismatched tech rating, treat the creature’s effective level as if three levels less than its actual level. Extrapolate “weapon systems” to the creature’s attack methods, defenses to its weird organic plating, and so on. Killing such a creature means taking out its “power core or other vital spot.”
 #### Spacecraft vs. Regular Creatures
->  If a vehicle weapon system fires on an unprotected PC (or a PC in a spacecraft fires ship weapons on a creature outside the craft that isn’t colossal), it’s an entirely different situation. Attacks against a vehicle’s systems face all the previously mentioned modifiers. On top of that, add an additional five steps of hindrance to attacks by a regular creature against a starcraft.
+> If a vehicle weapon system fires on an unprotected PC (or a PC in a spacecraft fires ship weapons on a creature outside the craft that isn’t colossal), it’s an entirely different situation. Attacks against a vehicle’s systems face all the previously mentioned modifiers. On top of that, add an additional five steps of hindrance to attacks by a regular creature against a starcraft.
 >
 > A PC defending from a spacecraft’s attack is hindered by five steps. Except in this case, the spacecraft inflicts damage. Given that ship weapons compared to handheld weapons are an order of magnitude apart when it comes to power, a good rule of thumb is that a spacecraft’s weapon inflicts 25 points of damage on a successful hit and knocks the character one step down the damage track. Even if the character succeeds on their defense roll, they still take 5 points of damage.
 

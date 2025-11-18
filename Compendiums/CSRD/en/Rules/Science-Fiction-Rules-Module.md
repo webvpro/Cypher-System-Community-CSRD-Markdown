@@ -43,7 +43,7 @@ This chapter contains a variety of subsystems and set pieces that you can choose
 ##### Exposure to vacuum feels like
 >Breath explodes out of lungs, cold slashes the body like a knife carved from a glacier. Tears freeze in the corners of eyes, ice forms on teeth and tongue. Moisture boils out of ears, scalp, freezing on exposed skin, lips, and eyelids. (As this happens, the Effects of Vacuum also take their mechanical toll on the character.)
 
-###                                                  Optional Rules: Harder Science Fiction
+###                         Optional Rules: Harder Science Fiction
 Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions.
 
 In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion.
@@ -102,7 +102,7 @@ Even though many different kinds of faster-than-light options are available, any
 >
 >Instability could result in a spacecraft dropping out of FTL only partway to the destination, dropping out in some completely unrecognized part of space, dropping out at the right place but months or years late, or failing to drop out at all and thus continue to move through the abnormal spaces that FTL transit posits.
 >
->  Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).
+> Alternatively, enemy ships—or creatures—might use some sort of fantastic technology to attack a PC’s craft while in FTL transit, which might force the craft back into normal space, or result in a firefight in the abnormal folded space of FTL itself (probably even more dangerous than regular combat, depending on your setting’s version of FTL).
 #### Exiting FTL
 >The same sorts of complications could bedevil a craft exiting FTL as when entering. If so, a piloting roll is required. However, on a failed roll, results include a collision (use the Ship Collision Damage Track provided under the Asteroid Belt/Debris Field space hazard), an inadvertent spray of high-energy particles from abnormal space acting as a particle cannon accidentally aimed at some other craft or space station at the destination location, or creating/falling into a spatial anomaly.
 
@@ -155,100 +155,100 @@ For the most part, assume that equipment is either self-powered, or easily power
 #### Customizing Equipment
 Listing all possible armaments and equipment and their many variants across all three tech ratings, at least in the space available, isn’t an option. However, a representative cross section is provided. If you’re looking for something that isn’t noted, look for something close and adapt the listing
 #### Inexpensive Items
-| Weapons                | Notes        |
+| Weapons        | Notes    |
 |------------------------|--------------|
-| Energy pack (50 shots) |              |
-| Knife (simple)         | Light weapon |
+| Energy pack (50 shots) |       |
+| Knife (simple)     | Light weapon |
 
-| Other Items              | Notes |
+| Other Items       | Notes |
 |--------------------------|-------|
-| Flashlight               |       |
-| Survival rations (1 day) |       |
+| Flashlight        |    |
+| Survival rations (1 day) |    |
 
 #### Moderately Priced Items
-| Weapons            | Notes                                                                                                        |
+| Weapons      | Notes                                                    |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
-| Hunting knife      | Light weapon                                                                                                 |
-| Machete            | Medium weapon                                                                                                |
-| Grenade (sonic)    | Explosive weapon, inflicts 2 points of damage in immediate radius, plus Might defense roll or lose next turn |
-| Grenade (thermite) | Explosive weapon, inflicts 5 points of damage in immediate radius                                            |
+| Hunting knife   | Light weapon                                                 |
+| Machete      | Medium weapon                                                |
+| Grenade (sonic)  | Explosive weapon, inflicts 2 points of damage in immediate radius, plus Might defense roll or lose next turn |
+| Grenade (thermite) | Explosive weapon, inflicts 5 points of damage in immediate radius                      |
 
-| Armor          | Notes       |
+| Armor     | Notes    |
 |----------------|-------------|
 | Leather jacket | Light armor |
 
-| Other Items         | Notes                               |
+| Other Items     | Notes                |
 |---------------------|-------------------------------------|
-| Backpack            |                                     |
-| Bag of heavy tools  |                                     |
-| Bag of light tools  |                                     |
-| Binoculars          | Asset for perception tasks at range |
-| Breather            | 8 hours of breathable air           |
-| Climbing gear       | Asset for climbing tasks            |
-| Communicator        | Planetary range                     |
-| Crowbar             |                                     |
-| Environment tent    |                                     |
-| First aid kit       | Asset for healing tasks             |
-| Handcuffs           |                                     |
-| Nightvision goggles |                                     |
-| Portable lamp       |                                     |
-| Rope                | Nylon, 50 feet                      |
-| Sleeping bag        |                                     |
+| Backpack      |                   |
+| Bag of heavy tools |                   |
+| Bag of light tools |                   |
+| Binoculars     | Asset for perception tasks at range |
+| Breather      | 8 hours of breathable air      |
+| Climbing gear    | Asset for climbing tasks      |
+| Communicator    | Planetary range           |
+| Crowbar       |                   |
+| Environment tent  |                   |
+| First aid kit    | Asset for healing tasks       |
+| Handcuffs      |                   |
+| Nightvision goggles |                   |
+| Portable lamp    |                   |
+| Rope        | Nylon, 50 feet           |
+| Sleeping bag    |                   |
 
 #### Expensive Items
-| Weapons        | Notes                                                                                 |
+| Weapons    | Notes                                         |
 |----------------|---------------------------------------------------------------------------------------|
-| Light blaster  | Light weapon, short range                                                             |
-| Medium blaster | Medium weapon, long range                                                             |
-| Needler        | Light weapon, long range                                                              |
-| Shotgun        | Heavy weapon, immediate range                                                         |
-| Stunstick      | Medium weapon, inflicts no damage but human-sized or smaller target loses next action |
+| Light blaster | Light weapon, short range                               |
+| Medium blaster | Medium weapon, long range                               |
+| Needler    | Light weapon, long range                               |
+| Shotgun    | Heavy weapon, immediate range                             |
+| Stunstick   | Medium weapon, inflicts no damage but human-sized or smaller target loses next action |
 
-| Armor                  | Notes        |
+| Armor         | Notes    |
 |------------------------|--------------|
-| Armored bodysuit       | Medium armor |
+| Armored bodysuit    | Medium armor |
 | Lightweight body armor | Medium armor |
 
-| Other Items                         | Notes                                                                         |
+| Other Items             | Notes                                     |
 |-------------------------------------|-------------------------------------------------------------------------------|
-| Camera designed to be concealed     | Transmits at long range                                                       |
-| Microphone designed to be concealed | Transmits at long range                                                       |
-| Environment suit                    | Provides 24 hours of atmosphere and +10 to Armor against extreme temperatures |
-| Wrist computer                      | Asset for most knowledge-based tasks                                          |
+| Camera designed to be concealed   | Transmits at long range                            |
+| Microphone designed to be concealed | Transmits at long range                            |
+| Environment suit          | Provides 24 hours of atmosphere and +10 to Armor against extreme temperatures |
+| Wrist computer           | Asset for most knowledge-based tasks                     |
 
 #### Very Expensive Items
-| Weapons             | Notes                                        |
+| Weapons       | Notes                    |
 |---------------------|----------------------------------------------|
-| Heavy blaster       | Heavy weapon, long range                     |
-| Heavy blaster rifle | Heavy weapon, 300-foot (90 m) range          |
-| Pulse laser gun     | Medium weapon, rapid-fire weapon, long range |
+| Heavy blaster    | Heavy weapon, long range           |
+| Heavy blaster rifle | Heavy weapon, 300-foot (90 m) range     |
+| Pulse laser gun   | Medium weapon, rapid-fire weapon, long range |
 
-| Armor      | Notes                                       |
+| Armor   | Notes                    |
 |------------|---------------------------------------------|
 | Battlesuit | Heavy armor, also works as environment suit |
 
-| Other Items       | Notes                                                                                       |
+| Other Items    | Notes                                            |
 |-------------------|---------------------------------------------------------------------------------------------|
-| Disguise kit      | Asset for disguise tasks                                                                    |
+| Disguise kit   | Asset for disguise tasks                                  |
 | Gravity regulator | Belt-mounted device that regulates gravity to 1G for wearer if within 0 G to 3 G conditions |
-| Handheld scanner  | Asset for identifying tasks                                                                 |
-| Hovercraft        | Level 4                                                                                     |
-| Infiltrator       | Asset for lockpicking tasks when used with electronic locks                                 |
-| Jetpack           | Level 4                                                                                     |
-| Stealthsuit       | Asset for stealth tasks                                                                     |
+| Handheld scanner | Asset for identifying tasks                                 |
+| Hovercraft    | Level 4                                           |
+| Infiltrator    | Asset for lockpicking tasks when used with electronic locks                 |
+| Jetpack      | Level 4                                           |
+| Stealthsuit    | Asset for stealth tasks                                   |
 #### Exhorbitant Items
-| Weapons      | Notes                                                                                    |
+| Weapons   | Notes                                          |
 |--------------|------------------------------------------------------------------------------------------|
 | Blast cannon | 10 points of damage, 500-foot (150 m) range, requires a tripod and two people to operate |
 
-| Armor       | Notes                         |
+| Armor    | Notes             |
 |-------------|-------------------------------|
 | Force field | Not armor, offers +1 to Armor |
 
-| Other Items     | Notes   |
+| Other Items   | Notes  |
 |-----------------|---------|
 | Luxury hovercar | Level 5 |
-| Robot servant   | Level 3 |
+| Robot servant  | Level 3 |
 | Small spaceship | Level 4 |
 
 ### Equipment Listing
@@ -256,23 +256,23 @@ Listing all possible armaments and equipment and their many variants across all 
 ##### Lightspeed Communication Delays
 For ease of reference, the light delay table provides the time it takes light from the sun to each planet in our solar system, plus a few other notable locations. To figure light delays between two different locations, subtract the time delay of the object closer to the sun from the time delay of the object farther away. The difference is the light delay between those two locations. Double times for two-way communication
 ###### Light Delay Table
-| Location          | AU   | Light Delay |
+| Location     | AU  | Light Delay |
 |-------------------|------|-------------|
-| Mercury           | 0.4  | 3 minutes   |
-| Venus             | 0.7  | 6 minutes   |
-| Earth             | 1.0  | 8 minutes   |
-| Mars              | 1.5  | 13 minutes  |
-| Asteroid belt     | 2.7  | 22 minutes  |
-| Jupiter           | 5.2  | 43 minutes  |
-| Saturn            | 9.5  | 79 minutes  |
-| Uranus            | 19   | 160 minutes |
-| Neptune           | 30   | 4 hours     |
-| Inner Kuiper Belt | 30   | 4 hours     |
-| Pluto             | 39   | 6 hours     |
-| Outer Kuiper Belt | 50   | 7 hours     |
-| Inner Oort Cloud  | 5k   | 29 days     |
-| Outer Oort Cloud  | 100k | 19 months   |
-| Proxima Centauri  | 269k | 4.2 years   |
+| Mercury      | 0.4 | 3 minutes  |
+| Venus       | 0.7 | 6 minutes  |
+| Earth       | 1.0 | 8 minutes  |
+| Mars       | 1.5 | 13 minutes |
+| Asteroid belt   | 2.7 | 22 minutes |
+| Jupiter      | 5.2 | 43 minutes |
+| Saturn      | 9.5 | 79 minutes |
+| Uranus      | 19  | 160 minutes |
+| Neptune      | 30  | 4 hours   |
+| Inner Kuiper Belt | 30  | 4 hours   |
+| Pluto       | 39  | 6 hours   |
+| Outer Kuiper Belt | 50  | 7 hours   |
+| Inner Oort Cloud | 5k  | 29 days   |
+| Outer Oort Cloud | 100k | 19 months  |
+| Proxima Centauri | 269k | 4.2 years  |
 
 ##### Contemporary
 >- [[Smartphone|Smartphone]]
@@ -327,7 +327,7 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 >[!note] Taking Damage in a Space Suit
 >Taking damage while protected from the effects of vacuum in a space suit (or safesuit) requires one additional defense roll. On a failure, the suit breaches and begins to spew precious air, heat, and pressure into the void. Deluxe space suits have auto-sealing functionality, repairing the puncture within a round. But during any round a suit is leaking, all tasks are hindered as the spray of venting atmosphere jerks or even spins the character around. Those with less advanced suits must find some way to seal the breach within three rounds, otherwise on the fourth round, they are treated as if in vacuum
 ##### Advanced Armor
->-  [[Armored-Bodysuit|Armored Bodysuit]]
+>- [[Armored-Bodysuit|Armored Bodysuit]]
 >- [[Body-Armor-Lightweight|Body Armor, Lightweight]]
 >- [[Paint-On-Impact-Armor|Paint-On Impact Armor]]
 >- [[Battlesuit]]
@@ -454,7 +454,7 @@ Any weapon that a character must use by swinging or stabbing at a target within 
 >- [[Broad-Sword-Replica|Broad Sword, Replica]]
 >- [[Stun-Gun|Stun "Gun"]]
 ###### Advanced
->-  [[Power-Fist|Power Fist]]
+>- [[Power-Fist|Power Fist]]
 >- [[Stunstick]]
 ###### Fantastic
 >- [[Plasma-Saber|Plasma Saber]]
@@ -550,7 +550,7 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 ##### Contemporary
 >- [[Car-Used|Car, Used]]
 >- [[Car-Sedan|Car, Sedan]]
->-  [[Car-Sports|Car, Sports]]
+>- [[Car-Sports|Car, Sports]]
 >- [[Car-Utility|Car, Utility]]
 ##### Advanced
 >- [[Hovercar]]
@@ -612,27 +612,27 @@ PCs in spacecraft can travel to other moons, planets, space stations, and perhap
 #### [[Spacecraft-Gm-Intrusions|Spacecraft Gm Intrusions]]##### Spacecraft Upkeep
 Each month of spacecraft operation usually requires that the PCs pay for fuel, feedstocks, and other upkeep. The level of the spacecraft determines upkeep.
 
-| Level | Upkeep Cost    |
+| Level | Upkeep Cost  |
 |-------|----------------|
-| 1-2   | Moderate       |
-| 3-5   | Expensive      |
-| 6-7   | Very expensive |
-| 8-9   | Exorbitant     |
-| 10    | Priceless      |
+| 1-2  | Moderate    |
+| 3-5  | Expensive   |
+| 6-7  | Very expensive |
+| 8-9  | Exorbitant   |
+| 10  | Priceless   |
 
 ##### Solar System Travel Times
 
-| Origin        | Destination           | Travel Time– Nuclear Plasma |
+| Origin    | Destination      | Travel Time– Nuclear Plasma |
 |---------------|-----------------------|-----------------------------|
-| Venus         | Mercury               | 20 +120 days                |
-| Earth/moon    | Venus                 | 20 +1d20 days               |
-| Earth/moon    | Mars                  | 20 +1d20 days               |
-| Mars          | Asteroid Belt         | 30 +1d20 days               |
-| Asteroid Belt | Jupiter and its moons | 30 +1d20 days               |
-| Jupiter       | Saturn and its moons  | 60 +1d20 days               |
-| Saturn        | Uranus                | 90 +1d20 days               |
-| Uranus        | Neptune               | 100 +1d20 days              |
-| Neptune       | Pluto                 | 100 +1d20 days              |
+| Venus     | Mercury        | 20 +120 days        |
+| Earth/moon  | Venus         | 20 +1d20 days        |
+| Earth/moon  | Mars         | 20 +1d20 days        |
+| Mars     | Asteroid Belt     | 30 +1d20 days        |
+| Asteroid Belt | Jupiter and its moons | 30 +1d20 days        |
+| Jupiter    | Saturn and its moons | 60 +1d20 days        |
+| Saturn    | Uranus        | 90 +1d20 days        |
+| Uranus    | Neptune        | 100 +1d20 days       |
+| Neptune    | Pluto         | 100 +1d20 days       |
 
 #### Retrofitting Power and Drives
 Older spacecraft and starships are often retrofitted with more advanced power sources, and more importantly, FTL drives, in order to give them the ability to move further. The main reason to do this is that such ships cost much less, especially if retrofitted advanced ships are available in a fantastic setting, but even for craft within the same tech rating. During vehicular combat, retrofitted ships are treated as if 1 level lower than their actual level for purposes of level comparison in combat if they are fighting FTL-capable fantastic-rated starships.
@@ -647,10 +647,10 @@ Older spacecraft and starships are often retrofitted with more advanced power so
 ###### Ion Thruster
 > on thrusters can use solar panels or RTGs (or both) to expel ions (or cations) to produce thrust over long periods, which allows a spacecraft to build up speed over large periods of time. The bleeding edge of contemporary ion thruster is VASIMR (Variable Specific Impulse Magnetoplasma Rocket), which could drastically reduce travel times around the solar system, if perfected.
 ##### Advanced Power
-######  Fusion Power
+###### Fusion Power
 >Electrical generation by using heat from nuclear fusion reactions, requiring relatively small fuel input for much higher-power output. Fuel sources include helium-3 (abundant on the Moon and other locations in the solar system without an atmosphere).
 ##### Advanced Drives
-######  Nuclear Plasma
+###### Nuclear Plasma
 .Essentially, nuclear plasma drives are just very advanced ion thrusters, the promised “perfected” version. These are great, unless the setting has fusion drives, in which case nuclear plasma drives may seem quaint.
 ##### Fusion Drive
 >Relying on fusion power, a fusion drive is an order of magnitude more efficient than a contemporary ion thruster. A fusion drive does not require the creation of electricity to ionize propellent, but instead directly uses the fusion product as an exhaust to provide thrust.
@@ -706,7 +706,7 @@ Starships are spacecraft that have FTL technology, allowing them to move between
 >- [[Dagger-Fighter|Dagger Fighter]]
 >- [[Starship-Cargo-Passenger|Starship, Cargo Passenger]]
 >- [[Starship-Solo-Fighter|Starship, Solo Fighter]]
->-  [[Starship-General-Purpose|Starship, General Purpose]]
+>- [[Starship-General-Purpose|Starship, General Purpose]]
 >- [[Starship-Discovery-Class|Starship, Discovery Class]]
 >- [[Starship-Warship-Class|Starship, Warship Class]]
 >- [[Starship-Capital-Class|Starship, Capital Class]]
@@ -734,14 +734,14 @@ A couple of examples of such artifacts are presented here.
 ### Starships
 Here are a few sample starship types:
 
-| Starship    | Level             | Crew  | Weapon Systems |
+| Starship  | Level       | Crew | Weapon Systems |
 |-------------|-------------------|-------|----------------|
-| Fighter     | 1                 | 1     | 1              |
-| Interceptor | 2                 | 1     | 1              |
-| Freighter   | 3 (4 for defense) | 4     | 1              |
-| Frigate     | 4                 | 20    | 4              |
-| Cruiser     | 4                 | 25    | 5              |
-| Battleship  | 10                | 1,000 | 36             |
+| Fighter   | 1         | 1   | 1       |
+| Interceptor | 2         | 1   | 1       |
+| Freighter  | 3 (4 for defense) | 4   | 1       |
+| Frigate   | 4         | 20  | 4       |
+| Cruiser   | 4         | 25  | 5       |
+| Battleship | 10        | 1,000 | 36       |
 
 “Crew” indicates the minimum number of people needed to operate the ship. Many ships can carry more passengers. “Weapon Systems” indicates the maximum number of different enemies the ship can target at once—but only one attack per target in any circumstance.
 (Since it’s frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.)
@@ -768,14 +768,14 @@ In a hard science fiction setting, you might be interested in evoking the realit
 Regardless, the travel times between distant locations bring home one thing: space is big and lonely.
 ### Interplanetary Travel
 
-| Origin                | Destination           | Travel Time Using |
+| Origin        | Destination      | Travel Time Using |
 |-----------------------|-----------------------|-------------------|
-| Nuclear Plasma Engine |                       |                   |
-| Earth/Moon            | Mars                  | 20 + 1d20 days    |
-| Mars                  | Asteroid belt         | 30 + 1d20 days    |
-| Asteroid belt         | Jupiter and its moons | 30 + 1d20 days    |
-| Jupiter               | Saturn and its moons  | 60 + 1d20 days    |
-| Saturn                | Uranus                | 90 + 1d20 days    |
+| Nuclear Plasma Engine |            |          |
+| Earth/Moon      | Mars         | 20 + 1d20 days  |
+| Mars         | Asteroid belt     | 30 + 1d20 days  |
+| Asteroid belt     | Jupiter and its moons | 30 + 1d20 days  |
+| Jupiter        | Saturn and its moons | 60 + 1d20 days  |
+| Saturn        | Uranus        | 90 + 1d20 days  |
 
 ## Science Fiction Species Descriptors
 In a science fiction setting, some GMs may want to offer alien species or androids, who are mechanically different from humans, as options for player characters. This can be accomplished by using descriptors. Two examples are below.

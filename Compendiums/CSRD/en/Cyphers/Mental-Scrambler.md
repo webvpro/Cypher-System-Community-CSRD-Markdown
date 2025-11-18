@@ -19,7 +19,7 @@ id: Mental-Scrambler
 
 Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the mental processes of all thinking creatures. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it). Each mental scrambler is keyed to a specific effect. Roll a d100 to determine the effect.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Mental Scrambler  |
+| Roll &nbsp; &nbsp; &nbsp; | Mental Scrambler |
 | ------------- | :----------- |
 | 1-30 | Victims cannot act. |
 | 31-40 | Victims cannot speak. |

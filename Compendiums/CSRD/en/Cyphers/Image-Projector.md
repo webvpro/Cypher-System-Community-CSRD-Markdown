@@ -19,7 +19,7 @@ id: Image-Projector
 
 Projects one of the following immobile images in the area described for one hour. The image appears up to a close distance from the user (long distance if the cypher level is 4 or higher, very long distance if the cypher level is 6 or higher). Scenes include movement, sound, and smell. Roll a d100 to determine the image.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Image Projector  |
+| Roll &nbsp; &nbsp; &nbsp; | Image Projector |
 | ------------- | :----------- |
 | 1-20 | Terrifying creature of an unknown species, perhaps no longer alive in the world (10-foot [3 m] cube) |
 | 21-40 | Huge machine that obscures sight (30-foot [9 m] cube) |

@@ -51,7 +51,7 @@ id: Optional-Rules-For-Science-Fiction
 >>[!note]
 >>The Cypher System Rulebook describes some hard science fiction considerations regarding the effects of gravity, which are summarized here for ease of reference.
 >>
->>**Long-Term Microgravity Exposure:** Long-term penalties (such as inabilities in  physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs.
+>>**Long-Term Microgravity Exposure:** Long-term penalties (such as inabilities in physical tasks), unless ameliorated with advanced drugs such as space-fit serum or space-fit nano-tabs.
 >>
 >>**Low Gravity:** Weapons that rely on weight, such as all heavy weapons, inflict 2 fewer points of damage (dealing a minimum of 1 point) unless user is trained in low-gravity maneuvering. Short-range weapons can reach to long range, and long-range weapons can reach to very long range.
 >>
@@ -75,7 +75,7 @@ id: Optional-Rules-For-Science-Fiction
 >If the derelict ship was subject to vacuum, partly destroyed in combat, or damaged by some other disaster or close encounter with a space hazard, salvaged items are usually degraded, and are valued at one price category less than noted. The GM may decide an object is completely unrecoverable (worthless) or works fine.
 >>Salvage GM Intrusion: Claim jumpers/pirates might try to salvage a ship that PCs are attempting to salvage.
 >
->  [[Salvage-From-A-Spacecraft|Salvage From A Spacecraft]]
+> [[Salvage-From-A-Spacecraft|Salvage From A Spacecraft]]
 
 >[!example] Ship Collision Damage Tracks
 >[[Ship-Collision-Damage-Track|Ship Collision Damage Track]]

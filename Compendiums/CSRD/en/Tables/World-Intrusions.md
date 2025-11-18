@@ -11,7 +11,7 @@ id: World-Intrusions
 ---
 
 ## World Intrusions Table
-|  Roll &nbsp; &nbsp; | World Intrusions  |
+| Roll &nbsp; &nbsp; | World Intrusions |
 | ------------- | :----------- |
 | 1 | One or more characters accidentally damage or offend a plant of some type, causing it to retaliate. |
 | 2 | A wren starts singing at a nearby crossroads, warning that something's coming. |

@@ -24,18 +24,18 @@ The point is, there are many, many types of fantasy.
 
 ### Suggested Types for a Fantasy Game
 
-| Role         | Character Type                 |
+| Role     | Character Type         |
 |--------------|--------------------------------|
-| Warrior      | Warrior                        |
-| Knight       | Warrior                        |
-| Ranger       | Explorer                       |
-| Barbarian    | Explorer flavored with combat  |
-| Thief        | Explorer flavored with stealth |
-| Wizard       | Adept                          |
-| Cleric       | Speaker flavored with magic    |
-| Druid        | Explorer flavored with magic   |
-| Warrior mage | Warrior flavored with magic    |
-| Bard         | Speaker                        |
+| Warrior   | Warrior            |
+| Knight    | Warrior            |
+| Ranger    | Explorer            |
+| Barbarian  | Explorer flavored with combat |
+| Thief    | Explorer flavored with stealth |
+| Wizard    | Adept             |
+| Cleric    | Speaker flavored with magic  |
+| Druid    | Explorer flavored with magic  |
+| Warrior mage | Warrior flavored with magic  |
+| Bard     | Speaker            |
 
 
 ### Basic Creatures and NPCs for a Fantasy Game
@@ -70,104 +70,104 @@ Villager: level 2
 
 In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.
 #### Inexpensive Items
-| Weapons                | Notes                          |
+| Weapons        | Notes             |
 | ---------------------- | ------------------------------ |
-| [[Arrows-12\|Arrows (12)]] |                                |
-| [[Crossbow-Bolts-12\|Crossbow Bolts (12)]]    |                                |
+| [[Arrows-12\|Arrows (12)]] |                |
+| [[Crossbow-Bolts-12\|Crossbow Bolts (12)]]  |                |
 | [[Knife-Rusty-and-Worn\|Knife (Rusty and Worn)]] | Light weapon (won’t last long) |
-| [[Wooden-Club\|Wooden Club]]            | Light weapon                   |
+| [[Wooden-Club\|Wooden Club]]      | Light weapon          |
 
-| Other Items          | Notes |
+| Other Items     | Notes |
 |----------------------|-------|
-| Burlap sack          |       |
-| Candle               |       |
-| Iron rations (1 day) |       |
-| Torch (3)            |       |
+| Burlap sack     |    |
+| Candle        |    |
+| Iron rations (1 day) |    |
+| Torch (3)      |    |
 
 
 #### Moderately Priced Items
-| Weapons             | Notes                           |
+| Weapons       | Notes              |
 |---------------------|---------------------------------|
-| Blowgun             | Light weapon, immediate range   |
-| Dagger              | Light weapon                    |
-| Handaxe             | Light weapon                    |
+| Blowgun       | Light weapon, immediate range  |
+| Dagger       | Light weapon          |
+| Handaxe       | Light weapon          |
 | Sword (substandard) | Medium weapon (won’t last long) |
-| Throwing knife      | Light weapon, short range       |
+| Throwing knife   | Light weapon, short range    |
 
-| Armor          | Notes                  |
+| Armor     | Notes         |
 |----------------|------------------------|
-| Hides and furs | Light armor            |
-| Leather jerkin | Light armor            |
-| Shield         | Asset to Speed defense |
+| Hides and furs | Light armor      |
+| Leather jerkin | Light armor      |
+| Shield     | Asset to Speed defense |
 
-| Other Items       | Notes         |
+| Other Items    | Notes     |
 |-------------------|---------------|
-| Backpack          |               |
-| Bedroll           |               |
-| Crowbar           |               |
-| Hourglass         |               |
-| Lantern           |               |
-| Rope              | Hemp, 50 feet |
-| Signal horn       |               |
-| Spikes and hammer | 10 spikes     |
-| Tent              |               |
+| Backpack     |        |
+| Bedroll      |        |
+| Crowbar      |        |
+| Hourglass     |        |
+| Lantern      |        |
+| Rope       | Hemp, 50 feet |
+| Signal horn    |        |
+| Spikes and hammer | 10 spikes   |
+| Tent       |        |
 
 #### Expensive Items
-| Weapons        | Notes                            |
+| Weapons    | Notes              |
 |----------------|----------------------------------|
-| Battleaxe      | Medium weapon                    |
-| Bow            | Medium weapon, long range        |
-| Cutlass        | Medium weapon                    |
-| Light crossbow | Medium weapon, long range        |
-| Quarterstaff   | Medium weapon (requires 2 hands) |
-| Sword          | Medium weapon                    |
+| Battleaxe   | Medium weapon          |
+| Bow      | Medium weapon, long range    |
+| Cutlass    | Medium weapon          |
+| Light crossbow | Medium weapon, long range    |
+| Quarterstaff  | Medium weapon (requires 2 hands) |
+| Sword     | Medium weapon          |
 
-| Armor       | Notes        |
+| Armor    | Notes    |
 |-------------|--------------|
 | Breastplate | Medium armor |
-| Brigandine  | Medium armor |
-| Chainmail   | Medium armor |
+| Brigandine | Medium armor |
+| Chainmail  | Medium armor |
 
-| Other Items        | Notes |
+| Other Items    | Notes |
 |--------------------|-------|
-| Bag of heavy tools |       |
-| Bag of light tools |       |
+| Bag of heavy tools |    |
+| Bag of light tools |    |
 
 #### Very Expensive Items
-| Weapons         | Notes                    |
+| Weapons     | Notes          |
 |-----------------|--------------------------|
-| Greatsword      | Heavy weapon             |
-| Heavy crossbow  | Heavy weapon, long range |
-| Sword (jeweled) | Medium weapon            |
+| Greatsword   | Heavy weapon       |
+| Heavy crossbow | Heavy weapon, long range |
+| Sword (jeweled) | Medium weapon      |
 
-| Armor               | Notes                                  |
+| Armor        | Notes                 |
 |---------------------|----------------------------------------|
 | Dwarven breastplate | Medium armor, encumbers as light armor |
-| Full plate armor    | Heavy armor                            |
+| Full plate armor  | Heavy armor              |
 
-| Other Items  | Notes                               |
+| Other Items | Notes                |
 |--------------|-------------------------------------|
-| Disguise kit | Asset for disguise tasks            |
-| Healing kit  | Asset for healing tasks             |
-| Spyglass     | Asset for perception tasks at range |
+| Disguise kit | Asset for disguise tasks      |
+| Healing kit | Asset for healing tasks       |
+| Spyglass   | Asset for perception tasks at range |
 
 #### Exorbitant Items
-| Armor           | Notes                               |
+| Armor      | Notes                |
 |-----------------|-------------------------------------|
 | Elven chainmail | Medium armor, encumbers as no armor |
 
-| Other Items          | Notes |
+| Other Items     | Notes |
 |----------------------|-------|
-| Sailing ship (small) |       |
+| Sailing ship (small) |    |
 
 #### Medieval Fantasy Equipment
-| Category       | GP Value        |
+| Category    | GP Value    |
 |----------------|-----------------|
-| Inexpensive    | Less than 1 gp  |
-| Moderate       | 1–10 gp         |
-| Expensive      | 100–500 gp      |
+| Inexpensive  | Less than 1 gp |
+| Moderate    | 1–10 gp     |
+| Expensive   | 100–500 gp   |
 | Very expensive | 1,000–10,000 gp |
-| Exorbitant     | 10,000+ gp      |
+| Exorbitant   | 10,000+ gp   |
 
 
 ### Fantasy Artifacts

@@ -37,7 +37,7 @@ You blend sorcery and firearms into an amazing mix of magic and technology. Bull
 ##### [[Gun-Jammer|Gun Jammer]]
 
 #### Tier 3:
-###### Ability Choice: Choose either [[Iron Eye]]  or [[Trained-Gun-Casting|Trained Gun Casting]] casting as your tier 3 ability.
+###### Ability Choice: Choose either [[Iron Eye]] or [[Trained-Gun-Casting|Trained Gun Casting]] casting as your tier 3 ability.
 
 #### Tier 4:
 [[Hasty-Gun-Casting|Hasty Gun Casting]].

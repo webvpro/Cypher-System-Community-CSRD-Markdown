@@ -11,7 +11,7 @@ id: Hovering-and-Flying-Vehicle-Gm-Intrusions
 ---
 
 ## Hovering and Flying Vehicle Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Hovering and Flying Vehicle Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Hovering and Flying Vehicle Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Vehicle runs out of fuel or power (but not inflight). |
 | 2 | Extreme turbulence threatens to cause a loss of control inflight |

@@ -19,7 +19,7 @@ id: Chemical-Factory
 
 After one hour, the sweat of the user produces 1d6 doses of a valuable liquid (these doses are not considered cyphers). They must be used within one week. Roll a d100 to determine the effect.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Chemical Factory  |
+| Roll &nbsp; &nbsp; &nbsp; | Chemical Factory |
 | ------------- | :----------- |
 | 1-4 | Euphoric for 1d6 hours |
 | 5-8 | Hallucinogenic for 1d6 hours |

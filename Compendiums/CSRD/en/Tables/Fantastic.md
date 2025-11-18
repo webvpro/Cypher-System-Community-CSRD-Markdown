@@ -11,7 +11,7 @@ id: Fantastic
 ---
 
 ## Fantastic Table
-|  Roll &nbsp; &nbsp; | Fantastic  |
+| Roll &nbsp; &nbsp; | Fantastic |
 | ------------- | :----------- |
 | 1 | [[Age-Taker\|Age Taker]] |
 | 2 | [[Banishing\|Banishing]] |

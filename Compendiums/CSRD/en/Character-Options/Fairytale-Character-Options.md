@@ -251,7 +251,7 @@ With small tweaks to the language and abilities, this could work for someone who
 [[Sailed-Beneath-the-Jolly-Roger|Sailed Beneath the Jolly Roger]]
 With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
 
-###  Fairy Tale Character Arcs
+### Fairy Tale Character Arcs
 Character arcs are fantastic opportunities for players to deepen their roleplaying options, add to the narrative, and set goals that can intertwine with and strengthen a campaign or adventure. While character arcs aren’t a requirement, they work particularly well in fairy tale games, where individual goals and tasks are often at the forefront of what drives adventures.
 
 Players can pick from any of the sample character arcs in the Cypher System Rulebook, make up their own (with the assistance and approval of the GM), or choose one of the new character arcs created specifically for the Heartwood setting.
@@ -355,7 +355,7 @@ Using the I Have That! rule doesn’t preclude PCs from also purchasing these it
 ### Basic Equipment
 #### Inexpensive
 >- [[Candle]]
->-  Chalk (3)
+>- Chalk (3)
 >- Day’s rations
 >- Meal, decent
 >- Sack

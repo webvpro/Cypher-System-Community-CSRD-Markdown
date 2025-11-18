@@ -11,7 +11,7 @@ id: Space-Health-Hazard-Gm-Intrusions
 ---
 
 ## Space Health Hazard Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Space Health Hazard Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Space Health Hazard Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Space sickness happens to everyone eventually. Nauseated characters are hindered in all tasks and may vomit unexpectedly. |
 | 2 | A wrist bone, thinner than it should be due to long-term exposure to microgravity, breaks. |

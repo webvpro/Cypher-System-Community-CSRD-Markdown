@@ -11,7 +11,7 @@ id: Advanced-and-Alien-Tech-Gm-Intrusions
 ---
 
 ## Advanced and Alien Tech Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Advanced and Alien Tech Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Advanced and Alien Tech Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Ooze sprays the character, then hardens, trapping them until they can escape a level 4 "shell." |
 | 2 | Device becomes stuck in midair, immovable as if caught in invisible, otherwise intangible cement. |

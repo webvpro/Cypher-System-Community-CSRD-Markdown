@@ -19,7 +19,7 @@ id: Detonation-Massive
 
 Projects a small physical explosive up to a long distance away that explodes in a short-range radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Detonation Massive  |
+| Roll &nbsp; &nbsp; &nbsp; | Detonation Massive |
 | ------------- | :----------- |
 | 1-10 | Cell-disrupting (harms only flesh) |
 | 11-30 | Corrosive |

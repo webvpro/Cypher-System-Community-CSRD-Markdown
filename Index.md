@@ -6,7 +6,7 @@ tags:
 ---
 # Cypher System Rules Index
 
->[!example]-  **How To Play the Cypher System** 
+>[!example]- **How To Play the Cypher System** 
 >[[How-to-play#How to Play the Cypher System]]
 >>[[How-to-play#When Do You Roll?]]
 >> - [[How-to-play#Task-Difficulty|Task-Difficulty]]
@@ -27,7 +27,7 @@ tags:
 >[[How-to-play#Cyphers]]
 >[[How-to-play#Other Dice]]
 
->[!example]-  **Creating your Character in Cypher System** 
+>[!example]- **Creating your Character in Cypher System** 
 >[[Creating-Characters|Creating your Character]] 
 >[[Creating-Characters#Character Stats|Character Stats]]
 >>[[Creating-Characters#Might|Might]]
@@ -37,13 +37,13 @@ tags:
 >>- [[Creating-Characters#Pool|Pool]]
 >>- [[Creating-Characters#Edge|Edge]]
 >>- [[Creating-Characters#Effor|Effort]]
->>	-  [[Creating-Characters#Effort And Damage|Effort And Damage]]
->>	-  [[Creating-Characters#Multiple Uses Of Effort And Edge|Multiple Uses Of Effort And Edge]]
+>>	- [[Creating-Characters#Effort And Damage|Effort And Damage]]
+>>	- [[Creating-Characters#Multiple Uses Of Effort And Edge|Multiple Uses Of Effort And Edge]]
 >>
 >> [[Creating-Characters#Stat Examples|Stat Examples]]
 >
 >[[Creating-Characters#Skills|Skills]]
-> -  [[Creating-Characters#Example  List|Example  List]]
+> - [[Creating-Characters#Example List|Example List]]
 > 
 > [[Creating-Characters#Character Tiers|Character Tiers]]
 >>[[Creating-Characters#Increasing Capabilities|Increasing Capabilities]]
@@ -54,7 +54,7 @@ tags:
 > [[Creating-Characters#Character Descriptor, Type, And Focus|Character Descriptor, Type, And Focus]]
 >[[Creating-Characters#Special Abilities|Special Abilities]]
 > [[Creating-Characters#Type|Type]]
->> -  [[Creating-Characters#Type|Type]]
+>> - [[Creating-Characters#Type|Type]]
 >> - [[Warrior#Warrior|Warrior]]
 >> - [[Adept#Adept|Adept]]
 >> - [[Explorer#Explorer|Explorer]]
@@ -63,22 +63,22 @@ tags:
 >> 
 > 
 > [[Fantasy-Character-Options|Fantasy Character Options]]
->  - [[Fantasy-Character-Options#New Foci |New Foci]]
->  - [[Fantasy-Character-Options#New Abilities |New Abilities]]
->  - [[Fantasy-Character-Options#Variant Rule: Two Descriptors|Variant Rule: Two Descriptors]]
->  - [[Optional-Rule-Spellcasting#Optional Rule Spellcasting|Optional Rule Spellcasting]]
+> - [[Fantasy-Character-Options#New Foci |New Foci]]
+> - [[Fantasy-Character-Options#New Abilities |New Abilities]]
+> - [[Fantasy-Character-Options#Variant Rule: Two Descriptors|Variant Rule: Two Descriptors]]
+> - [[Optional-Rule-Spellcasting#Optional Rule Spellcasting|Optional Rule Spellcasting]]
 > 
 > [[Creating-Characters#Further Customization|Further Customization]]
->>  [[Creating-Characters#Modifying Type Aspects|Modifying Type Aspects]]
->>  [[Creating-Characters#Drawbacks and Penalties|Drawbacks and Penalties]]
->>  [[Creating-Characters#Flavor|Flavor]]
->>  [[Descriptor#Descriptor|Descriptor]]
->>  [[Focus#Focus|Focus]]
->>  [[Abilities#Abilities|Abilities]]
->>  [[Equipment#Equipment|Equipment]]
->>  - [[Equipment#Currency And Prices|Currency And Prices]]
->>  - [[Equipment#Cyphers|Cyphers]]
->>  - [[Equipment#Artifacts|Artifacts]]
+>> [[Creating-Characters#Modifying Type Aspects|Modifying Type Aspects]]
+>> [[Creating-Characters#Drawbacks and Penalties|Drawbacks and Penalties]]
+>> [[Creating-Characters#Flavor|Flavor]]
+>> [[Descriptor#Descriptor|Descriptor]]
+>> [[Focus#Focus|Focus]]
+>> [[Abilities#Abilities|Abilities]]
+>> [[Equipment#Equipment|Equipment]]
+>> - [[Equipment#Currency And Prices|Currency And Prices]]
+>> - [[Equipment#Cyphers|Cyphers]]
+>> - [[Equipment#Artifacts|Artifacts]]
 > 
 > [[Creating-Characters#Modern Rules Module]]
 > [[Creating-Characters#Optional Rule: Handling PCs as Children]]
@@ -86,7 +86,7 @@ tags:
 > [[Creating-Characters#Superhero Rules Module]]
 
 
->[!example]-  **Rules of the Game** 
+>[!example]- **Rules of the Game** 
 >[[Rules-of-the-Game#Rules of the Game|Rules of the Game]]
 >[[Rules-of-the-Game#This is How You Play the Cypher System|This is How You Play the Cypher System]]
 >[[Rules-of-the-Game#Key Concepts|Key Concepts]]
@@ -97,8 +97,8 @@ tags:
 > [[Rolling-Dice#Rolling the Dice|Rolling Dice]]
 >> [[Rolling-Dice#Special Rolls|Special Rolls]]
 >> - [[Rolling-Dice#GM Intrusion|GM Intrusion]]
->> -  [[Rolling-Dice#Minor Effect|Minor Effect]]
->> -  [[Rolling-Dice#Major Effect|Major Effect]]
+>> - [[Rolling-Dice#Minor Effect|Minor Effect]]
+>> - [[Rolling-Dice#Major Effect|Major Effect]]
 >
 >[[Rules-of-the-Game#Retrying a Task After Failure|Retrying a Task After Failure]]
 > [[Rules-of-the-Game#Initial Cost|Initial Cost]]
@@ -108,8 +108,8 @@ tags:
 > >[[Rules-of-the-Game#Action Attack|Action: Attack]]
 > >[[Rules-of-the-Game#Action Activate a Special Ability|Action: Activate a Special Ability]]
 > >[[Rules-of-the-Game#Action Move|Action: Move]]
-> >[[Rules-of-the-Game#Action Wait|Action:  Wait]]
-> >[[Rules-of-the-Game#Action Defend|Action:  Defend]]
+> >[[Rules-of-the-Game#Action Wait|Action: Wait]]
+> >[[Rules-of-the-Game#Action Defend|Action: Defend]]
 > >[[Rules-of-the-Game#Action Do Something Else|Action: Do Something Else]]
 > > - [[Rules-of-the-Game#Climbing|Climbing]]
 > > - [[Rules-of-the-Game#Cooperative Actions|Cooperative Actions]]
@@ -145,14 +145,14 @@ tags:
 >[[Genres#Genres]]
 >> [[Genre-Fantasy|Fantasy]]
 >>[[Modern-Rules-Module|Modern Rules Module]]
->> -  [[Optional-Rule-Children-PCs|Optional Rule: Handling PCs as Children]]
->>  
+>> - [[Optional-Rule-Children-PCs|Optional Rule: Handling PCs as Children]]
+>> 
 >>[[Science-Fiction-Rules-Module|Science Fiction Rules Module]]
 >> - [[Science-Fiction-Rules-Module#Optional Rules Harder Science Fiction|Optional Rules Harder Science Fiction]]
 >> 
 >> [[Superhero-Rules-Module|Superhero Rules Module]]
 >>[[Fairytale-Rules-Module#Fairytale Rules Module|Fairytale Rules Module]]
->> -  [[Fairytale-Character-Options|Fairytale Character Options]]
+>> - [[Fairytale-Character-Options|Fairytale Character Options]]
 >>
 >>[[Horror-Rules-Module|Horror Rules Module]]
 >>[[Romance-Rules-Module|Romance Rules Module]]
@@ -180,9 +180,9 @@ tags:
 >### [[Modern-Rules-Module|Modern Rules Module]]
 >>#### [[Modern-Rules-Module#Optional Rule Handling Pcs as Children|Optional Rule Handling Pcs as Children]]
 >### [[Optional-Modern-Fantasy-Rules|Modern Fantasy]]
-3. [[Focus|Focus  in Cypher System]]
-4. [[Abilities|Abilities  in Cypher System]]
-5. [[Equipment|Equipment  in Cypher System]]
+3. [[Focus|Focus in Cypher System]]
+4. [[Abilities|Abilities in Cypher System]]
+5. [[Equipment|Equipment in Cypher System]]
 13.
 14. [[Experience-Points|Experience Points]]
 15. [[Genres|Genres]]

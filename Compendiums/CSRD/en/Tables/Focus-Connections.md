@@ -11,7 +11,7 @@ id: Focus-Connections
 ---
 
 ## Focus Connections Table
-|  Roll &nbsp; &nbsp; | Focus Connections  |
+| Roll &nbsp; &nbsp; | Focus Connections |
 | ------------- | :----------- |
 | 1 | Pick one other PC. For reasons unknown to you, that character is completely immune to your focus abilities, whether you use them for help or for harm. |
 | 2 | Pick one other PC. You knew of that character years ago, but you don't think they knew you. |

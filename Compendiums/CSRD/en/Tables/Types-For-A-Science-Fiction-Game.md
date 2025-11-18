@@ -6,14 +6,14 @@ id: Types-For-A-Science-Fiction-Game
 ---
 ## Suggested Types For A Science Fiction Game
 
-| Role           | Type                                      |
+| Role      | Type                   |
 |----------------|-------------------------------------------|
-| Soldier        | Warrior                                   |
-| Technician     | Explorer with technology flavor           |
-| Pilot          | Explorer with technology flavor           |
-| Diplomat       | Speaker                                   |
-| Doctor         | Speaker with skills and knowledge flavor  |
-| Spy            | Explorer with stealth flavor              |
-| Scientist      | Explorer with skills and knowledge flavor |
-| Psion          | Adept                                     |
-| Psychic knight | Warrior with magic flavor                 |
+| Soldier    | Warrior                  |
+| Technician   | Explorer with technology flavor      |
+| Pilot     | Explorer with technology flavor      |
+| Diplomat    | Speaker                  |
+| Doctor     | Speaker with skills and knowledge flavor |
+| Spy      | Explorer with stealth flavor       |
+| Scientist   | Explorer with skills and knowledge flavor |
+| Psion     | Adept                   |
+| Psychic knight | Warrior with magic flavor         |

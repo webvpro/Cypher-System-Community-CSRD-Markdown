@@ -20,9 +20,9 @@ Through sheer force of will, a psionic character can unleash inborn mental abili
 >
 > > Next, choose one low-tier ability from Chapter 9: [[Abilities|Abilities]] in the Cypher System Rulebook. If the GM agrees it is appropriate, the character gains that ability as their psionic ability, with a few caveats. The ability can’t be used like a normal ability gained through a PC’s type or focus. Instead, a character must either expend a recovery roll or spend many minutes or longer evoking the psionic ability before it takes effect, in addition to paying its Pool cost (if any).
 >
->>  Expending a Recovery Roll to Manifest a Psionic Ability: If the character expends a one-action, ten-minute, or one-hour recovery roll as part of the same action to manifest a psionic ability (including paying any Pool costs), they can use the ability as an action.
+>> Expending a Recovery Roll to Manifest a Psionic Ability: If the character expends a one-action, ten-minute, or one-hour recovery roll as part of the same action to manifest a psionic ability (including paying any Pool costs), they can use the ability as an action.
 >
->>  Expending Time to Manifest a Psionic Ability: If the character takes at least ten minutes meditating, concentrating deeply, or otherwise using all their actions, they can manifest a low-tier psionic ability (if they also pay any Pool costs). An hour is required to manifest mid-tier abilities. Ten hours are required to manifest a high-tier ability.
+>> Expending Time to Manifest a Psionic Ability: If the character takes at least ten minutes meditating, concentrating deeply, or otherwise using all their actions, they can manifest a low-tier psionic ability (if they also pay any Pool costs). An hour is required to manifest mid-tier abilities. Ten hours are required to manifest a high-tier ability.
 
 > [!example] More Psi Abilities
 > Once a character has unlocked at least one psionic ability, they can opt to unlock additional abilities later. Each time, they must spend an additional 3 XP and work with the GM to come up with an in-game story of how the character’s mental development has progressed.

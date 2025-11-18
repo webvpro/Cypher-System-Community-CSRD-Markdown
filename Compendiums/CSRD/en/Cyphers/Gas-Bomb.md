@@ -19,7 +19,7 @@ id: Gas-Bomb
 
 Thrown a short distance, this bursts in a poisonous cloud within an immediate area. The cloud lingers for 1d6 rounds unless conditions dictate otherwise. Roll a d100 to determine the effect.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Gas Bomb  |
+| Roll &nbsp; &nbsp; &nbsp; | Gas Bomb |
 | ------------- | :----------- |
 | 1-10 | Thick smoke: occludes sight while the cloud lasts. |
 | 11-20 | Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher's level. |

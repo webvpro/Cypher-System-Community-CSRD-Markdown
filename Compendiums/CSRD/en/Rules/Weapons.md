@@ -18,18 +18,18 @@ Not all characters are familiar with all weapons. Warriors know their way around
 
 >Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, rifles, regular shotguns, assault rifles, and so on. Anything that must be used in two hands is a heavy weapon.
 
-| Weapon | Damage                  |
+| Weapon | Damage         |
 |--------|-------------------------|
-| Light  | 2 points (attack eased) |
-| Medium | 4 points                |
-| Heavy  | 6 points                |
+| Light | 2 points (attack eased) |
+| Medium | 4 points        |
+| Heavy | 6 points        |
 
 >[!note]
 >In general, light weapons are moderately priced items, medium weapons are expensive, and heavy weapons are very expensive. Ammunition for a ranged weapon is inexpensive. The Genre chapter offers more specific details on weapons available in a given setting. Keep in mind that in many genres, it’s not acceptable to run around carrying dangerous weapons.
 
 ### [[Fantasy-Weapons]]
 
-###  Explosive Weapons
+### Explosive Weapons
 >Bombs, grenades, missiles, and other explosives operate differently than other weapons. They affect all targets within an area (usually an immediate area) and inflict damage to all of them. A separate attack roll is required for each (or a Speed defense roll if the PCs are the targets of such an attack), although to simplify, the player can make one attack roll and compare it to the difficulty to attack each target. Usually, even if the attack roll fails (or the Speed defense roll succeeds), the targets still suffer a smaller amount of damage, often 1 point.
 >
 >>Explosives like grenades can be thrown a short distance. Otherwise, another launcher weapon is needed to project them a long distance (or farther).

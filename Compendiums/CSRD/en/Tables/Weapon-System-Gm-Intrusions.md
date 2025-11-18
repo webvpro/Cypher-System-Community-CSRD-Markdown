@@ -11,7 +11,7 @@ id: Weapon-System-Gm-Intrusions
 ---
 
 ## Weapon System Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Weapon System Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Weapon System Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Weapon overheats, off-line next turn, unless quickly repaired. |
 | 2 | Mistargeting, allied craft damaged, hindering its actions next turn. |

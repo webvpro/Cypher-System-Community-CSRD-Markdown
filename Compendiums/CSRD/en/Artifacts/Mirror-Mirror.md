@@ -22,7 +22,7 @@ id: Mirror-Mirror
 
 When the user looks into the mirror and interacts with it, it grants their request, as it is able. Most mirror mirrors have a personality all their own. Some sing their answers, some show images, and still others sigh with boredom at being asked the same thing over and over. Mirrors never lie. Except when they do. Roll a d6 to determine the mirror's ability:
 
-|  Roll d6 &nbsp; &nbsp; |   |
+| Roll d6 &nbsp; &nbsp; |  |
 | ------------- | :----------- |
 | 1 | Answers a question about the present (such as "Who is the fairest of them all?") with a simple one- or two-word answer. |
 | 2 | Allows the viewer to check in on someone they know (and who knows them) from anywhere. The image lasts just a moment, and those being viewed are not aware that it has happened. |

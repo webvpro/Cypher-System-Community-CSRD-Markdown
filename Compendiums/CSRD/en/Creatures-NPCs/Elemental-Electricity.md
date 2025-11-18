@@ -33,7 +33,7 @@ Electricity elementals alternate between a feral-looking humanoid energy form an
 
 > **Interactions: **Electricity elementals are somewhat intelligent but perceive and think at much faster rates than humans, so they quickly become frustrated with “slow” communication. They can be summoned and controlled with magic, but there’s a 10% chance the elemental breaks free of the spell and attacks or flees.
 
-> **Uses: **  Power grid fluctuations throughout the city may be the result of a roving electricity elemental. Something exploded every car battery along a major street. Something noisy has taken over the eccentric inventor’s workshop.
+> **Uses: ** Power grid fluctuations throughout the city may be the result of a roving electricity elemental. Something exploded every car battery along a major street. Something noisy has taken over the eccentric inventor’s workshop.
 
 > **Loot: **NA
 

@@ -16,7 +16,7 @@ Death eternally walks the labyrinth of the Heartwood, touching those who pass by
 
 
 >[!note] Focus Note
->Characters who Made a Deal With Death may have done so in order to stave off death eternally, gaining healing abilities for themselves or others. Alternatively, they may be obsessed with  the idea of death, and wish to learn how to wield it with precision and focus.
+>Characters who Made a Deal With Death may have done so in order to stave off death eternally, gaining healing abilities for themselves or others. Alternatively, they may be obsessed with the idea of death, and wish to learn how to wield it with precision and focus.
 
 
 ### Tier 1 Abilities

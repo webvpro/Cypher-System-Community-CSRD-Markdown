@@ -19,7 +19,7 @@ id: Hunter-Seeker
 
 With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4 hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Hunter/Seeker  |
+| Roll &nbsp; &nbsp; &nbsp; | Hunter/Seeker |
 | ------------- | :----------- |
 | 1-50 | Inflicts 8 points of damage. |
 | 51-80 | Bears a poisoned needle that inflicts 3 points of damage plus poison. |

@@ -21,16 +21,16 @@ id: Adept
 
 ### Adept
 
-| Fantasy/Fairy Tale   | Modern/Horror/Romance | Science Fiction          | Superhero/Post-Apocalyptic |
+| Fantasy/Fairy Tale  | Modern/Horror/Romance | Science Fiction     | Superhero/Post-Apocalyptic |
 |----------------------|-----------------------|--------------------------|---------------------------|
-| Wizard               | Psychic               | Psion                    | Mage                      |
-| Mage                 | Occultist             | Psionicist               | Sorcerer                  |
-| Sorcerer             | Witch                 | Telepath                 | Power-wielder             |
-| Cleric               | Practitioner          | Seeker                   | Master                    |
-| Druid                | Medium                | Master                   | Psion                     |
-| Seer                 | Fringe Scientist      | Scanner                  | Telepath                  |
-| Diabolist            |                       | ESPer                    |                           |
-| Fey-touched          |                       | Abomination              |                           |
+| Wizard        | Psychic        | Psion          | Mage           |
+| Mage         | Occultist       | Psionicist        | Sorcerer         |
+| Sorcerer       | Witch         | Telepath         | Power-wielder       |
+| Cleric        | Practitioner     | Seeker          | Master          |
+| Druid        | Medium        | Master          | Psion           |
+| Seer         | Fringe Scientist   | Scanner         | Telepath         |
+| Diabolist      |            | ESPer          |              |
+| Fey-touched     |            | Abomination       |              |
 
 
 You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
@@ -63,17 +63,17 @@ You get 6 additional points to divide among your stat Pools however you wish.
 ### Adept Background Connection
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 >[!info]- Adept Background Connection Table
->| **d20** | **Background**                                                                                                    |
+>| **d20** | **Background**                                                  |
 | -- | ----------------------------------------------------------------------------------------------------- |
-| 1  | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.  |
+| 1 | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark. |
 | 2	 | You studied in a school infamous for its dark, brooding instructors and graduates. |
-| 3  | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential. |
-| 4  | While traveling alone, you saved the life of a powerful person. They remain indebted to you. |
-| 5  | Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you. |
-| 6  | You owe money to a number of people and don’t have the funds to pay your debts. |
-| 7  | You failed disgracefully at your initial studies with your teacher and now proceed on your own. |
-| 8  | You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention. |
-| 9  | You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few. |
+| 3 | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential. |
+| 4 | While traveling alone, you saved the life of a powerful person. They remain indebted to you. |
+| 5 | Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you. |
+| 6 | You owe money to a number of people and don’t have the funds to pay your debts. |
+| 7 | You failed disgracefully at your initial studies with your teacher and now proceed on your own. |
+| 8 | You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention. |
+| 9 | You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few. |
 | 10 | You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you. |
 | 11 | While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.
 | 12 | Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings. |

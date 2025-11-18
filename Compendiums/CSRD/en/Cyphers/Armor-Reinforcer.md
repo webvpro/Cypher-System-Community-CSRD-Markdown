@@ -19,7 +19,7 @@ id: Armor-Reinforcer
 
 The user's Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Armor Reinforcer  |
+| Roll &nbsp; &nbsp; &nbsp; | Armor Reinforcer |
 | ------------- | :----------- |
 | 1 | +1 to Armor |
 | 2 | +2 to Armor |

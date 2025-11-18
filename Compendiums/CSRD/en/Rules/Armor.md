@@ -16,10 +16,10 @@ In general, light armor is a moderately priced item, medium armor is expensive, 
 ### Using Armor
 Anyone can wear any armor, but it can be taxing. Wearing armor increases the cost of using a level of Effort when attempting a Speed-based action. So if you’re wearing light armor and want to use two levels of Effort on a Speed-based roll to run across difficult terrain, it costs 7 points from your Speed Pool rather than 5 (3 for the first level of Effort, plus 2 for the second level of Effort, plus 1 per level for wearing light armor). Edge reduces the overall cost as normal. If you are not experienced with a certain type of armor but wear it anyway, this cost is further increased by 1. Having experience with a type of armor is called being practiced with the armor.
 
-| Armor  | Speed Effort Additional Cost Per Level |
+| Armor | Speed Effort Additional Cost Per Level |
 | ------ | -------------------------------------- |
-| Light  | +1                                     |
-| Medium | +2                                     |
-| Heavy  | +3                                     |
+| Light | +1                   |
+| Medium | +2                   |
+| Heavy | +3                   |
 
 ### [[Fantasy-Armor|Fantasy Armor Descriptions]]

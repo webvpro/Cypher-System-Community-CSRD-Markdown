@@ -23,7 +23,7 @@ id: Poison-for-Your-Daughter
 
 The poison creates a specific reaction for one hour in a creature who uses the object. Roll d100 to determine the reaction.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Poison for Your Daughter  |
+| Roll &nbsp; &nbsp; &nbsp; | Poison for Your Daughter |
 | ------------- | :----------- |
 | 1-20 | Sleep. The creature falls into a deep, dreamless sleep. While sleeping, the creature cannot take any actions, but is protected by a glass coffin that grants +2 Armor. The creature wakes if they are touched by someone they love or if they take damage. |
 | 21-40 | Disappear. The creature becomes invisible to everyone and everything for a number of rounds equal to the cypher level. During that time, they cannot be heard, felt, or sensed. |

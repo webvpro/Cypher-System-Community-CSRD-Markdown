@@ -14,7 +14,7 @@ id: Hunts-Witches
 ---
 
 
-## Hunts  Witches
+## Hunts Witches
 You know enough about magic to mistrust anyone who uses it, especially witches—people who study ancient rituals, make pacts with evil creatures, and use their power for personal gain. Warped by their abilities, they are dangerous threats to regular folks, and it’s up to people like you to find and eliminate those threats. Sure, some witches claim to be good and even act friendly, but you’ve seen it go bad all too often, and you won’t be fooled again. You always carry weapons for fighting witches, or at least know what common tools will do as a weapon in a pinch. You wear clothing appropriate to the region and era (especially if regular people don’t know about magic or witches and you have to hide what you do). You may have a token, icon, or other reminder of your purpose, such as a lucky coin, a holy book, or a pouch of magic-thwarting herbs given to you by your mentor.
 
 What a “witch” is depends on the setting. In a setting where magic is rare or secret, superstitious people might consider anyone who uses magic to be a dangerous witch. In a different setting, “witch” might refer to a specific organization of people who know how to use magic.

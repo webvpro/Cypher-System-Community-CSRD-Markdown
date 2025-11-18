@@ -11,28 +11,28 @@ This update is a big one — about 107,000 new words spread across 47 brand-new 
 
 ### What’s New
 
-**Cyberpunk Genre Module** (~57k words, 4 files)  
-- New character types (Solo, Hotshot, Broker, Tech) with matching abilities and descriptors  
-- Expanded lists for weapons, armor, cybernetics, vehicles, and other gear  
-- Technology-focused cyphers and temporary abilities  
-- Full rules for AI, hacking, cybernetic integration, and genre-specific play mechanics  
+**Cyberpunk Genre Module** (~57k words, 4 files) 
+- New character types (Solo, Hotshot, Broker, Tech) with matching abilities and descriptors 
+- Expanded lists for weapons, armor, cybernetics, vehicles, and other gear 
+- Technology-focused cyphers and temporary abilities 
+- Full rules for AI, hacking, cybernetic integration, and genre-specific play mechanics 
 
-**Weird West Genre Module** (~20k words, 7 files)  
-- Western-flavored character types and descriptors  
-- Alchemical rounds, artifacts, and magical items  
-- Old-West gear and currency systems  
-- Rules for curses, vices, and addiction  
-- A lineup of supernatural creatures and frontier threats  
+**Weird West Genre Module** (~20k words, 7 files) 
+- Western-flavored character types and descriptors 
+- Alchemical rounds, artifacts, and magical items 
+- Old-West gear and currency systems 
+- Rules for curses, vices, and addiction 
+- A lineup of supernatural creatures and frontier threats 
 
-**New Creatures (17 total)**  
-- *Weird West:* Dire Coyote, Hellfire Steed, Hex Gunner, Hollowed Ranger, Inkubus, Risen, Shade of the Tomb, Sulfur Stalker, Tombdrift  
-- *Fantasy/Horror:* Alchemist, Angalith, Deathbinder, Frostwalker  
-- *Generic NPCs:* Forgeborn, Necrovore, Gunfighters, and Animals  
+**New Creatures (17 total)** 
+- *Weird West:* Dire Coyote, Hellfire Steed, Hex Gunner, Hollowed Ranger, Inkubus, Risen, Shade of the Tomb, Sulfur Stalker, Tombdrift 
+- *Fantasy/Horror:* Alchemist, Angalith, Deathbinder, Frostwalker 
+- *Generic NPCs:* Forgeborn, Necrovore, Gunfighters, and Animals 
 
-**New Optional Rules (5 total)**  
+**New Optional Rules (5 total)** 
 Drinking, Gambling, Swindling, Survival, and Deck-as-D20 mechanics.
 
-**Other Additions**  
+**Other Additions** 
 Post-apocalyptic hazards, plus two short adventure seeds — *Tall Tales* and *Hands of Fate.*
 
 ### Changes to Existing Content
@@ -51,10 +51,10 @@ Post-apocalyptic hazards, plus two short adventure seeds — *Tall Tales* and *H
 - Corrected typos (e.g. "Surival" → "Survival")
 - Updated headings and frontmatter to follow the repo's current style guide
 - Added proper H2/H3 heading hierarchy to all new content files:
-  - 4 Cyberpunk genre files with full semantic structure
-  - 7 Weird West genre files with proper section headings
-  - 4 multi-variant creature files corrected to use H2 (matching existing convention)
-  - Total: ~200 new headings added for better document navigation and consistency
+ - 4 Cyberpunk genre files with full semantic structure
+ - 7 Weird West genre files with proper section headings
+ - 4 multi-variant creature files corrected to use H2 (matching existing convention)
+ - Total: ~200 new headings added for better document navigation and consistency
 
 ---
 

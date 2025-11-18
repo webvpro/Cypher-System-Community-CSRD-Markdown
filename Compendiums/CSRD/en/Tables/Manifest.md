@@ -11,7 +11,7 @@ id: Manifest
 ---
 
 ## Manifest Table
-|  Roll &nbsp; &nbsp; | Manifest  |
+| Roll &nbsp; &nbsp; | Manifest |
 | ------------- | :----------- |
 | 1-3 | [[Adhesion\|Adhesion]] |
 | 4-5 | [[Antivenom\|Antivenom]] |

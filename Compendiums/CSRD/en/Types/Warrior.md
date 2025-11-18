@@ -20,16 +20,16 @@ id: Warrior
 ---
 ## Warrior
 
-| Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction  | Superhero/Post-Apocalyptic |
+| Fantasy/Fairy Tale | Modern/Horror/Romance | Science Fiction | Superhero/Post-Apocalyptic |
 | ------------------ | --------------------- | ---------------- | -------------------------- |
-| Warrior            | Police Officer        | Security Officer | Hero                       |
-| Fighter            | Soldier               | Warrior          | Brick                      |
-| Swordsman          | Watchman              | Trooper          | Bruiser                    |
-| Knight             | Detective             | Soldier          |                            |
-| Barbarian          | Guard                 | Mercenary        |                            |
-| Soldier            | Brawler               |                  |                            |
-| Myrmidon           | Tough                 |                  |                            |
-| Valkyrie           | Athlete               |                  |                            |
+| Warrior      | Police Officer    | Security Officer | Hero            |
+| Fighter      | Soldier        | Warrior     | Brick           |
+| Swordsman     | Watchman       | Trooper     | Bruiser          |
+| Knight       | Detective       | Soldier     |              |
+| Barbarian     | Guard         | Mercenary    |              |
+| Soldier      | Brawler        |         |              |
+| Myrmidon      | Tough         |         |              |
+| Valkyrie      | Athlete        |         |              |
 
 You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
 
@@ -43,18 +43,18 @@ You’re a good ally to have in a fight. You know how to use weapons and defend 
 
 ### Warrior Background Connection
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
->[!info]-  Warrior Background Connection table
->| **d20** | **Background**                                                                                                    |
+>[!info]- Warrior Background Connection table
+>| **d20** | **Background**                                                  |
 | -- | ----------------------------------------------------------------------------------------------------- |
-| 1  | You were in the military and have friends who still serve. Your former commander remembers you well.  |
+| 1 | You were in the military and have friends who still serve. Your former commander remembers you well. |
 | 2	 | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace. |
-| 3  | You were the bouncer in a local bar for a while, and the patrons there remember you. |
-| 4  | You trained with a highly respected mentor. They regard you well, but they have many enemies. |
-| 5  | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others. |
-| 6  | You have no formal training. Your abilities come to you naturally (or unnaturally). |
-| 7  | You spent time on the streets and were in prison for a while. |
-| 8  | You were conscripted into military service, but you deserted before long. |
-| 9  | You served as a bodyguard to a powerful criminal who now owes you their life. |
+| 3 | You were the bouncer in a local bar for a while, and the patrons there remember you. |
+| 4 | You trained with a highly respected mentor. They regard you well, but they have many enemies. |
+| 5 | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others. |
+| 6 | You have no formal training. Your abilities come to you naturally (or unnaturally). |
+| 7 | You spent time on the streets and were in prison for a while. |
+| 8 | You were conscripted into military service, but you deserted before long. |
+| 9 | You served as a bodyguard to a powerful criminal who now owes you their life. |
 | 10 | You worked as a police officer or constable of some kind. Everyone knows you, but their opinions of you vary. |
 | 11 | Your older sibling is an infamous character who has been disgraced.
 | 12 | You served as a guard for someone who traveled extensively. You know a smattering of people in many locations. |

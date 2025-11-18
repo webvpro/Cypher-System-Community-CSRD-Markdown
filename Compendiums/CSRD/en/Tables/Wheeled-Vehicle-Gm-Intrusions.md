@@ -11,7 +11,7 @@ id: Wheeled-Vehicle-Gm-Intrusions
 ---
 
 ## Wheeled Vehicle Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Wheeled Vehicle Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Wheeled Vehicle Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Vehicle runs out of fuel or power. |
 | 2 | Unexpected obstacle threatens to cause a crash. |

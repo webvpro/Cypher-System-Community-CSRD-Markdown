@@ -26,7 +26,7 @@ Despite prevalent misconceptions, vulture spirits generally prefer not to cause 
 > **Damage :** 4
 > **Armor :** 0
 > **Movement :** Short
-> **Motive:**  Consume anguish
+> **Motive:** Consume anguish
 
 > **Modifications**
 >- Intellect defense, perception, and stealth as level 5

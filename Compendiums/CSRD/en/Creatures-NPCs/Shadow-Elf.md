@@ -47,7 +47,7 @@ If subject to full daylight, a shadow elf loses its modifications to stealth, pe
 > The shadow elf casts a spell that charms a character on a failed Intellect defense roll. The character fights on the side of the shadow elf for up to one minute, though they can make another Intellect defense roll each round to try to break the influence.
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Shadow Elf Spell  |
+| Roll &nbsp; &nbsp; &nbsp; | Shadow Elf Spell |
 | ------------- | :----------- |
 | 1 | Enchant weapon to inflict 3 additional points of damage (8 total) |
 | 2 | Enchant weapon to inflict 1 additional point of Speed damage (poison, ignores Armor), plus 2 points of Speed damage each additional round until victim succeeds on a Might defense roll |

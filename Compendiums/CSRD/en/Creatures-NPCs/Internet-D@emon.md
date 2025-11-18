@@ -53,5 +53,5 @@ Some magicians have tried partnering with a d@emon, allowing it to feed on their
 
 
 > **Interaction:**
->  D@emons are persistent and reasonably clever. They can be bargained with or bribed, but they tend to be greedy and would rather hide or pretend to leave than make a deal.
+> D@emons are persistent and reasonably clever. They can be bargained with or bribed, but they tend to be greedy and would rather hide or pretend to leave than make a deal.
 

@@ -14,7 +14,7 @@ id: Fantasy
 ---
 
 ## Fantasy Table
-|  Roll &nbsp; &nbsp; | Fantasy  |
+| Roll &nbsp; &nbsp; | Fantasy |
 | ------------- | :----------- |
 | 1-5 | [[Acid-Resistance\|Acid Resistance]] |
 | 6-11 | [[Animal-Control\|Animal Control]] |

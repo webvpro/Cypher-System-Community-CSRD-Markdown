@@ -38,7 +38,7 @@ You’re comfortable with decomposition: the bacteria and fungi that break down 
 > [[Wilderness-Explorer|Wilderness Explorer]]
 
 ### Tier 3 Abilities
-> Ability Choice: Choose either [[Reading-Decomposition|Reading Decomposition]]  or both [[Grasping-Foliage|Grasping Foliage]] and [[Necromancy|Necromancy]] at tier 3.
+> Ability Choice: Choose either [[Reading-Decomposition|Reading Decomposition]] or both [[Grasping-Foliage|Grasping Foliage]] and [[Necromancy|Necromancy]] at tier 3.
 ### Tier 4 Abilities
 > If you have [[Necromancy]], your tier 4 ability is [[Greater-Necromancy|Greater Necromancy]]. If you have [[Reading-Decomposition|Reading Decomposition]], your tier 4 ability is [[Rewind-Rot|Rewind Rot]]Rewind Rot.
 

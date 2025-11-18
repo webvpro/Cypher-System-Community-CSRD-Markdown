@@ -12,8 +12,8 @@ id: Skills-and-Knowledge-Flavor
 
 
 ## Skills and Knowledge Flavor
-This flavor is for characters in roles that call for more knowledge and more real-world application of talent. It's less flashy and dramatic than  supernatural powers or the ability to hack apart multiple foes, but sometimes expertise orknow-how is the real solution to a problem. A Warrior flavored with skills and knowledge might be a military engineer. An Explorer flavored with skills and knowledge could be a field scientist. A Speaker with this flavor might be a teacher.
-###  Tier 1 Abilities
+This flavor is for characters in roles that call for more knowledge and more real-world application of talent. It's less flashy and dramatic than supernatural powers or the ability to hack apart multiple foes, but sometimes expertise orknow-how is the real solution to a problem. A Warrior flavored with skills and knowledge might be a military engineer. An Explorer flavored with skills and knowledge could be a field scientist. A Speaker with this flavor might be a teacher.
+### Tier 1 Abilities
 >[[Interaction-Skills|Interaction Skills]]
 >[[Investigative-Skills|Investigative Skills]]
 >[[Knowledge-Skills|Knowledge Skills]]

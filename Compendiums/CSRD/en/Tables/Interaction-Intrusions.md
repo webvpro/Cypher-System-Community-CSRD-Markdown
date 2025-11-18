@@ -11,7 +11,7 @@ id: Interaction-Intrusions
 ---
 
 ## Interaction Intrusions Table
-|  Roll &nbsp; &nbsp; | Interaction Intrusions  |
+| Roll &nbsp; &nbsp; | Interaction Intrusions |
 | ------------- | :----------- |
 | 1 | A mischievous brownie attempts to steal an object from the characters in the middle of an important conversation or fight. |
 | 2 | The NPC that the characters are talking to suddenly looks at their watch or the sky, says, "I'm late, I'm late," and disappears. |

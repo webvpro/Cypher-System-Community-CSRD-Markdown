@@ -123,29 +123,29 @@ Choose four of the abilities listed below. You can’t choose the same ability m
  >[[Encouragement]]
  >[[Enthrall]]
  >[[Erase-Memories|Erase Memories]]
-   [[Fast-Talk|Fast Talk]]
-   [[Inspire-Aggression|Inspire Aggression]]
-   [[Interaction-Skills|Interaction Skills]]
-   [[Practiced-With-Medium-Weapons|Practiced With Medium Weapons]]
-   [[Spin-Identity|Spin Identity]]
-   [[Terrifying-Presence|Terrifying Presence]]
-   [[Understanding|Understanding]]
+  [[Fast-Talk|Fast Talk]]
+  [[Inspire-Aggression|Inspire Aggression]]
+  [[Interaction-Skills|Interaction Skills]]
+  [[Practiced-With-Medium-Weapons|Practiced With Medium Weapons]]
+  [[Spin-Identity|Spin Identity]]
+  [[Terrifying-Presence|Terrifying Presence]]
+  [[Understanding|Understanding]]
 
 ### Second-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 > [[Basic-Follower|Basic Follower]]
-   [[Calm-Stranger|Calm Stranger]]
-   [[Disincentivize|Disincentivize]]
-   [[Gather-Intelligence|Gather Intelligence]]
-   [[Impart-Ideal|Impart Ideal]]
-   [[Inspiring-Ease|Inspiring Ease]]
-   [[Interaction-Skills|Interaction Skills]]
-   [[Practiced-in-Armor|Practiced in Armor]]
-   [[Skill-With-Defense|Skill With Defense]]
-   [[Speedy-Recovery|Speedy Recovery]]
-   [[Unexpected-Betrayal|Unexpected Betrayal]]
+  [[Calm-Stranger|Calm Stranger]]
+  [[Disincentivize|Disincentivize]]
+  [[Gather-Intelligence|Gather Intelligence]]
+  [[Impart-Ideal|Impart Ideal]]
+  [[Inspiring-Ease|Inspiring Ease]]
+  [[Interaction-Skills|Interaction Skills]]
+  [[Practiced-in-Armor|Practiced in Armor]]
+  [[Skill-With-Defense|Skill With Defense]]
+  [[Speedy-Recovery|Speedy Recovery]]
+  [[Unexpected-Betrayal|Unexpected Betrayal]]
 
 ### Third-Tier Speaker
 

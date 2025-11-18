@@ -11,7 +11,7 @@ id: Random-Superpowers
 ---
 
 ## Random Superpowers Table
-|  Roll &nbsp; &nbsp; | Random Superpowers  |
+| Roll &nbsp; &nbsp; | Random Superpowers |
 | ------------- | :----------- |
 | 1-5 | Agility: Power shift in dexterity |
 | 6 | Animal Shapeshifter: Shapechanger |

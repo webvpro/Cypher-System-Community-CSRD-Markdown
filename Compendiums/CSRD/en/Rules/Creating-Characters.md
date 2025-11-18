@@ -43,7 +43,7 @@ Each of the three stats has two components: Pool and Edge. Your Pool represents 
 >[!info]
 >Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.
 
-####  Pool
+#### Pool
 >Your Pool is the most basic measurement of a stat. Comparing the Pools of two creatures will give you a general sense of which creature is superior in that stat. For example, a character who has a Might Pool of 16 is stronger (in a basic sense) than a character who has a Might Pool of 12. Most characters start with a Pool of 9 to 12 in most stats—that’s the average range.
 >
 >When your character is injured, sickened, or attacked, you temporarily lose points from one of your stat Pools. The nature of the attack determines which Pool loses points. For example, physical damage from a sword reduces your Might Pool, a poison that makes you clumsy reduces your Speed Pool, and a psionic blast reduces your Intellect Pool. You can also spend points from one of your stat Pools to decrease a task’s difficulty (see Effort, below). You can rest to recover lost points from a stat Pool, and some special abilities or cyphers might allow you to recover lost points quickly.
@@ -78,7 +78,7 @@ Each of the three stats has two components: Pool and Edge. Your Pool represents 
 >
 >When using Effort to increase the damage of an area attack, such as the explosion created by an Adept’s Concussion ability, you inflict 2 additional points of damage instead of 3 points. However, the additional points are dealt to all targets in the area. Further, even if one or more of the targets resist the attack, they still take 1 point of damage.
 
-#####  Multiple Uses Of Effort And Edge
+##### Multiple Uses Of Effort And Edge
 >If your Effort is 2 or higher, you can apply Effort to multiple aspects of a single action. For example, if you make an attack, you can apply Effort to your attack roll and apply Effort to increase the damage.
 >
 >The total amount of Effort you apply can’t be higher than your Effort score. For example, if your Effort is 2, you can apply up to two levels of Effort. You could apply one level to an attack roll and one level to its damage, two levels to the attack and no levels to the damage, or no levels to the attack and two levels to the damage.
@@ -104,7 +104,7 @@ To progress to the next tier, characters earn experience points (XP) by pursuing
 ### Extra Effort
 >Your [[Effort]] score increases by 1.
 
-###  Skill
+### Skill
 >You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
 >
 > >[!note]
@@ -132,7 +132,7 @@ Even though character type is in the middle of the sentence, that’s where we�
 
 >Your character [[Type|type]] is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”
 >
->You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]],  [[Explorer|Explorers]], and [[Speaker|Speakers]].
+>You can choose from four character types: [[Warrior|Warriors]], [[Adept|Adepts]], [[Explorer|Explorers]], and [[Speaker|Speakers]].
 
 >Your [[Descriptor|descriptor]] defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an adjective noun who verbs.”
 
@@ -147,7 +147,7 @@ Even though character type is in the middle of the sentence, that’s where we�
 >You can use the Flavors chapter to slightly modify character types to customize them for different genres.
 
 ## Special Abilities
-Character [[Type-x|type]] and [[Focus|foci]]  grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
+Character [[Type-x|type]] and [[Focus|foci]] grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat [[Pool|Pools]]; the cost is listed in parentheses after the ability name. Your [[Edge]] in the appropriate stat can reduce the cost of the ability, but remember that you can apply [[Edge]] only once per action. For example, let’s say an [[Adept]] with an Intellect Edge of 2 wants to use their [[Onslaught|Onslaught]] ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool.
 >[!note]
 >1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge.
 
@@ -238,11 +238,11 @@ Finally, more fundamental options for further customization are provided at the 
 
 
 ##
->[!hint]  Defense Tasks
+>[!hint] Defense Tasks
 >Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
->  #### Might Defense:
+> #### Might Defense:
 > Used for resisting poison, disease, and anything else that can be overcome with strength and health.
-> ####  Speed Defense:
+> #### Speed Defense:
 >Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.
 >#### Intellect Defense:
 >Used for fending off mental attacks or anything that might affect or influence one’s mind.
@@ -288,7 +288,7 @@ In the end, flavor is mostly a tool for the GM to easily create campaign-specifi
 The flavors available are stealth, technology, magic, combat, and skills and knowledge.
 The full description for each listed ability can be found in the Abilities chapter, which also contains descriptions for type and focus abilities in a single vast catalog.
 
-####  Flavors
+#### Flavors
 > - [[Stealth-Flavor|Stealth Flavor]]
 > - [[Technology-Flavor|Technology Flavor]]
 > - [[Magic-Flavor|Magic Flavor]]

@@ -14,7 +14,7 @@ id: Gm-Intrusions-for-Post-Apocalyptic-Games
 ---
 
 ## Gm Intrusions for Post-Apocalyptic Games Table
-|  Roll &nbsp; &nbsp; | Gm Intrusions for Post-Apocalyptic Games  |
+| Roll &nbsp; &nbsp; | Gm Intrusions for Post-Apocalyptic Games |
 | ------------- | :----------- |
 | 1-2 | (group): Roll on the preceding Realistic Threats and Hazards table, or on the Fantastic Threats and Hazards table if your game includes fantastic elements. |
 | 4 | disease that drops them one step on the damage track each day they fail a Might defense roll. |

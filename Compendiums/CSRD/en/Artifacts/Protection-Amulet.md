@@ -20,7 +20,7 @@ id: Protection-Amulet
 
 The amulet reduces one type of damage by an amount equal to the artifact level. Roll a d20 to determine the kind of damage the amulet protects against.
 
-|  Roll d20 &nbsp; &nbsp; |   |
+| Roll d20 &nbsp; &nbsp; |  |
 | ------------- | :----------- |
 | 1-4 | Acid |
 | 5-8 | Cold |

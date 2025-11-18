@@ -19,7 +19,7 @@ id: Condition-Remover
 
 Cures one occurrence of one specific health condition of the cypher level or lower. It does not prevent the possibility of future occurrences of the same condition. Roll a d20 to determine what it cures.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Condition Remover  |
+| Roll &nbsp; &nbsp; &nbsp; | Condition Remover |
 | ------------- | :----------- |
 | 1 | Addiction to one substance |
 | 2 | Autoimmune disease |

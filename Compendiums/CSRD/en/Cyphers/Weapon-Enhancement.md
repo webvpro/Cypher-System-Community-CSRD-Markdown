@@ -19,7 +19,7 @@ id: Weapon-Enhancement
 
 Modifies a weapon's attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Weapon Enhancement  |
+| Roll &nbsp; &nbsp; &nbsp; | Weapon Enhancement |
 | ------------- | :----------- |
 | 1-10 | Eases attack by one step |
 | 11-20 | Deals bonus electrical damage equal to cypher level |

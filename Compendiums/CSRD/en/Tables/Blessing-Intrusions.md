@@ -11,7 +11,7 @@ id: Blessing-Intrusions
 ---
 
 ## Blessing Intrusions Table
-|  Roll &nbsp; &nbsp; | Blessing Intrusions  |
+| Roll &nbsp; &nbsp; | Blessing Intrusions |
 | ------------- | :----------- |
 | 1 | Someone randomly gives the character a small gift. |
 | 2 | When the character speaks, gold coins fall from their mouth. |

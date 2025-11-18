@@ -62,11 +62,11 @@ In general, light armor is a moderately priced item, medium armor is expensive, 
 ### Using Armor
 Anyone can wear any armor, but it can be taxing. Wearing armor increases the cost of using a level of Effort when attempting a Speed-based action. So if you’re wearing light armor and want to use two levels of Effort on a Speed-based roll to run across difficult terrain, it costs 7 points from your Speed Pool rather than 5 (3 for the first level of Effort, plus 2 for the second level of Effort, plus 1 per level for wearing light armor). Edge reduces the overall cost as normal. If you are not experienced with a certain type of armor but wear it anyway, this cost is further increased by 1. Having experience with a type of armor is called being practiced with the armor.
 
-| Armor  | Speed Effort Additional Cost Per Level |
+| Armor | Speed Effort Additional Cost Per Level |
 | ------ | -------------------------------------- |
-| Light  | +1                                     |
-| Medium | +2                                     |
-| Heavy  | +3                                     |
+| Light | +1                   |
+| Medium | +2                   |
+| Heavy | +3                   |
 
 #### [[Fantasy-Armor|Fantasy Armor Descriptions]]
 
@@ -79,18 +79,18 @@ Not all characters are familiar with all weapons. Warriors know their way around
 
 >Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, rifles, regular shotguns, assault rifles, and so on. Anything that must be used in two hands is a heavy weapon.
 
-| Weapon | Damage                  |
+| Weapon | Damage         |
 |--------|-------------------------|
-| Light  | 2 points (attack eased) |
-| Medium | 4 points                |
-| Heavy  | 6 points                |
+| Light | 2 points (attack eased) |
+| Medium | 4 points        |
+| Heavy | 6 points        |
 
 >[!note]
 >In general, light weapons are moderately priced items, medium weapons are expensive, and heavy weapons are very expensive. Ammunition for a ranged weapon is inexpensive. The Genre chapter offers more specific details on weapons available in a given setting. Keep in mind that in many genres, it’s not acceptable to run around carrying dangerous weapons.
 
 ### [[Fantasy-Weapons|Fantasy Weapons Descriptions]]
 
-###  Explosive Weapons
+### Explosive Weapons
 >Bombs, grenades, missiles, and other explosives operate differently than other weapons. They affect all targets within an area (usually an immediate area) and inflict damage to all of them. A separate attack roll is required for each (or a Speed defense roll if the PCs are the targets of such an attack), although to simplify, the player can make one attack roll and compare it to the difficulty to attack each target. Usually, even if the attack roll fails (or the Speed defense roll succeeds), the targets still suffer a smaller amount of damage, often 1 point.
 >
 >>Explosives like grenades can be thrown a short distance. Otherwise, another launcher weapon is needed to project them a long distance (or farther).
@@ -99,7 +99,7 @@ Not all characters are familiar with all weapons. Warriors know their way around
 ### [[Fantasy-Equipment-Adventuring-Equipment|Fantasy Adventuring Equipment]]
 ## Cyphers
 Cyphers can sometimes be physical items like equipment, but they work very differently. To be entirely accurate, cyphers might have the veneer of equipment, but don’t fall into the trap of confusing the two. Cyphers are far more akin to PC special abilities than to gear. In a fantasy game, they might be potions, scrolls, or charms. In a science fiction game, cyphers might be interesting throwaway devices or alien crystals of unknown providence. In other games, they might just represent good fortune or sudden inspiration. See the Cyphers chapter for more details.
-##  Artifacts
+## Artifacts
 Artifacts are more powerful than equipment and can’t simply be purchased. The Genres chapter offers a few sample artifacts appropriate for various settings.
 
 Each artifact has a level and a rate of power depletion. When an artifact is used or activated, the player rolls the designated die (1d6, 1d10, 1d20, or 1d100). If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of “—” means that the artifact never depletes, and an entry of “automatic” means that it can be used only once.

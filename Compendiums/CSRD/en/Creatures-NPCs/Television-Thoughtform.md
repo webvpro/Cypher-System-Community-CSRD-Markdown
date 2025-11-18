@@ -28,7 +28,7 @@ It’s possible to create a thoughtform of a real person out of documentary foot
 > **Damage :** 3 or 6 points (see below)
 > **Armor :** 1
 > **Movement :** Short
-> **Motive:**  Acceptance; adjustment to the real world
+> **Motive:** Acceptance; adjustment to the real world
 
 > **Modifications**
 >- Intellect defense as level 4
@@ -47,7 +47,7 @@ It’s possible to create a thoughtform of a real person out of documentary foot
 >Thoughtforms can incidentally alter their own reality in small ways relevant to their fictional self, such as suddenly changing outfits to match the situation, producing useful equipment (like a weapon or mobile phone) out of nothing, or instantly recovering 3 points of health. The thoughtform usually hand-waves how they were able to do this; pressing them on these abilities eventually leads to them learning that they’re a thoughtform. These abilities might happen automatically as part of the thoughtform’s action, or they might use an action to duck out of sight and return after the change has happened.
 
 > **Interaction:**
->  A thoughtform that’s ignorant of their true nature acts exactly as their fictional self would. An aware thoughtform develops their own personality over time, which might be similar to their fictional persona or radically different as a rebellion against how they were “forced” to act.
+> A thoughtform that’s ignorant of their true nature acts exactly as their fictional self would. An aware thoughtform develops their own personality over time, which might be similar to their fictional persona or radically different as a rebellion against how they were “forced” to act.
 
 
 

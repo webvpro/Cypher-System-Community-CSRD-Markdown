@@ -34,29 +34,29 @@ Their PC gains the benefit noted for their hand, or a lesser benefit
 that appears further on in the list.
 
 - Royal Flush (an Ace, King, Queen, Jack, and 10 all of the same suit):
-  PC gains one benefit below and can be dealt another Hand of Fate for
-  the day.
+ PC gains one benefit below and can be dealt another Hand of Fate for
+ the day.
 
 - Straight Flush (five sequential cards, Aces high, all of the same
-  suit): PC gains 1 XP (to keep or use like any XP).
+ suit): PC gains 1 XP (to keep or use like any XP).
 
 - Four of a Kind (four cards of the same value): PC can immediately take
-  an action, even if they've already acted this round.
+ an action, even if they've already acted this round.
 
 - Full House (three of a kind and a pair): PC replaces a d20 roll (their
-  own or another player's) with a 20.
+ own or another player's) with a 20.
 
 - Flush (five cards of the same suit): PC can apply three free levels of
-  Effort to any one roll.
+ Effort to any one roll.
 
 - Straight (five sequential cards, Aces high, in sequence): PC can apply
-  two free levels of Effort to any one roll.
+ two free levels of Effort to any one roll.
 
 - Three of a Kind (three cards of the same value): PC can apply a free
-  level of Effort to any one roll.
+ level of Effort to any one roll.
 
 - Two Pair (two cards of the same value, twice): PC regains 5 Pool
-  points.
+ points.
 
 - One Pair (two cards of the same value): PC regains 3 Pool points.
 

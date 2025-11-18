@@ -39,7 +39,7 @@ These muscular humanoids sport long curved horns and furry, hooved legs. They ar
 > **GM Intrusion: ** Strange piping music in the forest lures away young people from a nearby community. Community elders say a charismatic cult leader has set up in the woods and clouds the minds of all who come near.
 
 > **Combat:**
-> Satyrs usually carry spears that they can use in melee and against foes within short range. They can also create magical effects by playing their pipes as an action, which can either bolster allies or harm enemies:  Dance of the Leaping Stag: Foes within short range who fail an Intellect defense task lose their next turn to dancing and leaping. Attacks made against affected targets are eased.  Feral Overture: An ally within short range is infused with magic, and one attack it makes on its next turn is eased; if it hits, it inflicts +3 damage. Tune of the Clouded Mind: A foe within short range who fails an Intellect defense task spends its next turn attacking one of its allies.
+> Satyrs usually carry spears that they can use in melee and against foes within short range. They can also create magical effects by playing their pipes as an action, which can either bolster allies or harm enemies: Dance of the Leaping Stag: Foes within short range who fail an Intellect defense task lose their next turn to dancing and leaping. Attacks made against affected targets are eased. Feral Overture: An ally within short range is infused with magic, and one attack it makes on its next turn is eased; if it hits, it inflicts +3 damage. Tune of the Clouded Mind: A foe within short range who fails an Intellect defense task spends its next turn attacking one of its allies.
 
 
 > **Intrusions: **

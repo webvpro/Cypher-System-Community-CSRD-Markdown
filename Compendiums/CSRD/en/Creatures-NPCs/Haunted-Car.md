@@ -25,7 +25,7 @@ A haunted car has an empathic connection with its chosen driver, conveying simpl
 
 A haunted car lets itself be driven by its chosen driver, but it is capable of driving itself with great skill and can operate any moveable part of itself (doors, locks, trunk, and so on).
 
->Chosen driver: level 2, social interaction as level 1, driving and repairs as level 3 A chosen driver trained or indoctrinated by a haunted car might develop abilities similar to the [[Drives-Like-a-Maniac|Drives Like a Maniac]] focus or, if they can use magic, the  [[Is-A-Car-Wizard|Is A Car Wizard]] focus.
+>Chosen driver: level 2, social interaction as level 1, driving and repairs as level 3 A chosen driver trained or indoctrinated by a haunted car might develop abilities similar to the [[Drives-Like-a-Maniac|Drives Like a Maniac]] focus or, if they can use magic, the [[Is-A-Car-Wizard|Is A Car Wizard]] focus.
 
 
 > **Level :** 5

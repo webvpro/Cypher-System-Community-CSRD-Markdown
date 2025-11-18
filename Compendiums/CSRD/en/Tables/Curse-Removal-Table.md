@@ -11,7 +11,7 @@ id: Curse-Removal-Table
 ---
 
 ## Curse Removal Table Table
-|  Roll &nbsp; &nbsp; | Curse Removal Table  |
+| Roll &nbsp; &nbsp; | Curse Removal Table |
 | ------------- | :----------- |
 | 1 | Complete an important task for the one who cursed you. |
 | 2 | Complete an important task for (or make a large payment to) someone who promises to remove your curse. |

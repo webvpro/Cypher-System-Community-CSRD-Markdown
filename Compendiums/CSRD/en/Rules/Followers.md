@@ -22,7 +22,7 @@ The PC generally makes rolls for their follower when the follower takes actions,
 >
 > When the follower acts autonomously rather than helping the PC, they act like a normal NPC that has modifications. Thus, the modification increases their effective level for the associated task by one step. For example, the level 2 spy follower with modifications for stealth and deception attempts stealth and deception tasks as if they were level 3 and all other tasks as level 2.
 
-   #### Follower Assets to Combat and Defense
+  #### Follower Assets to Combat and Defense
 > A follower cannot grant an asset to a character’s attacks or defense until the follower is level 3 or higher. Even then, the follower can help with attacks and defense only if they have a modification for that kind of task.
 >
 > Some abilities may grant a special exception to this rule. For instance, the Serv-0 Defender ability gives your level 1 Serv-0 follower (a machine companion) a modification for Speed defense.

@@ -75,68 +75,68 @@ they're only available from that megacorp (or knockoffs may be available
 at significantly poorer quality, lower reliability, and more frequent
 depletion).
 
-  --------------------------------------------------------------
-  D00      Artifact
-  -------- -----------------------------------------------------
-  01       Augmentive Warframe (cyberware)
+ --------------------------------------------------------------
+ D00   Artifact
+ -------- -----------------------------------------------------
+ 01    Augmentive Warframe (cyberware)
 
-  02--06   Blue Shift™ Implant (cyberware)
+ 02--06  Blue Shift™ Implant (cyberware)
 
-  07--13   Bugdrone™
+ 07--13  Bugdrone™
 
-  14--15   EMP Weapon
+ 14--15  EMP Weapon
 
-  16--19   Fiery Mantis™ (cyberware)
+ 16--19  Fiery Mantis™ (cyberware)
 
-  20--21   Focusing module (Fuses Mind and Machine)
+ 20--21  Focusing module (Fuses Mind and Machine)
 
-  22--23   Focusing module (Moves Like a Cat)
+ 22--23  Focusing module (Moves Like a Cat)
 
-  24--25   Focusing module (Works the Back Alleys)
+ 24--25  Focusing module (Works the Back Alleys)
 
-  26       GasLight™ Projector
+ 26    GasLight™ Projector
 
-  27       Gatekeeper™
+ 27    Gatekeeper™
 
-  28--30   Gladys™ Pistol
+ 28--30  Gladys™ Pistol
 
-  31--33   Hover Bike
+ 31--33  Hover Bike
 
-  34--36   Iridescent Shadow™ Suit
+ 34--36  Iridescent Shadow™ Suit
 
-  37--43   LifeBlood™
+ 37--43  LifeBlood™
 
-  44--47   MagMaster™ Railgun
+ 44--47  MagMaster™ Railgun
 
-  48--51   Magnoshield™
+ 48--51  Magnoshield™
 
-  52--56   Maser Pistol
+ 52--56  Maser Pistol
 
-  57--59   MaxTranq™ Rifle
+ 57--59  MaxTranq™ Rifle
 
-  60--65   Molotok™ Rocket Hammer
+ 60--65  Molotok™ Rocket Hammer
 
-  66       NewU™
+ 66    NewU™
 
-  67--68   Nightblade™
+ 67--68  Nightblade™
 
-  69--70   OmniDoc
+ 69--70  OmniDoc
 
-  71--75   PlantSkin™ (cyberware)
+ 71--75  PlantSkin™ (cyberware)
 
-  76       Power Warframe
+ 76    Power Warframe
 
-  77--79   Puppetmaster
+ 77--79  Puppetmaster
 
-  80--84   Red Haze™ Implant (cyberware)
+ 80--84  Red Haze™ Implant (cyberware)
 
-  85--86   Relentless™ Pistol
+ 85--86  Relentless™ Pistol
 
-  87       Scarab Door™
+ 87    Scarab Door™
 
-  88--97   Skill Chip
+ 88--97  Skill Chip
 
-  98       Suitcase Nuke
+ 98    Suitcase Nuke
 
-  99--00   Tri-Arm™ (cyberware)
-  --------------------------------------------------------------
+ 99--00  Tri-Arm™ (cyberware)
+ --------------------------------------------------------------

@@ -46,6 +46,6 @@ spontaneously in locations where pollution reaches a threshold, and they don’t
 >Pollution goblins regain 2 points of health per round.
 
 > **Interaction:**
->  Pollution goblins have a rudimentary understanding of whatever human language is dominant in their area. Most conversations with them are about acquiring food and protecting and expanding their territory (which means spreading contaminants over a wider area).
+> Pollution goblins have a rudimentary understanding of whatever human language is dominant in their area. Most conversations with them are about acquiring food and protecting and expanding their territory (which means spreading contaminants over a wider area).
 
 

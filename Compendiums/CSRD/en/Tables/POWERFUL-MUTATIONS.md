@@ -12,9 +12,9 @@ id: POWERFUL-MUTATIONS
 The following mutations do not require any visible changes in the character until used. People who have these mutations are not obviously recognized as mutants if they don’t use their powers. Using some of these mutations costs stat Pool points. Some are actions.
 
 
-| d100&nbsp;&nbsp; | Name |  Description  |
+| d100&nbsp;&nbsp; | Name | Description |
 | ---- | ---- | --- |
-| 01–05 |  Darksight | You can see in complete darkness as if it were light. Enabler.  |
+| 01–05 | Darksight | You can see in complete darkness as if it were light. Enabler. |
 | 06–10 | No breath | You do not need to breathe. Enabler. |
 | 11–15 | No water | You do not need to drink water to survive. Enabler. |
 | 16–20 | Chameleon skin | Your skin changes colors as you wish. This is an asset in tasks involving hiding. Enabler. |
@@ -29,7 +29,7 @@ The following mutations do not require any visible changes in the character unti
 | 51–53 | Spit webs | You can make up to 10 feet (3.5 m) of a strong, ropelike material each day at the rate of about 1 foot (30 cm) per minute. The webbing is level 3. You can also spit globs of webbing in immediate range, and if they hit, the target’s physical tasks are hindered for one round. Action. |
 | 54–59 | Filtered lungs | You have an asset to Might defense rolls against vapors or noxious gases. You can survive in a hostile breathing environment (such as underwater or in a vacuum) for up to ten minutes. Enabler. |
 | 60–62 | Disruptive field (electronics) (2 Intellect points) | When you wish it, you disrupt devices within immediate range (no roll needed). All devices operate as if they were 3 levels lower while in range of your field. Devices reduced to level 0 or below do not function. Action. |
-| 63–65 | Disruptive field (flesh) (2 Intellect points) |  When you wish it, you disrupt flesh within immediate range. All creatures within range of your field take 1 point of damage. If you apply a level of Effort to increase the damage rather than affect the difficulty, each target takes 2 additional points of damage. If your attack fails, targets in the area still take 1 point of damage. Action. |
+| 63–65 | Disruptive field (flesh) (2 Intellect points) | When you wish it, you disrupt flesh within immediate range. All creatures within range of your field take 1 point of damage. If you apply a level of Effort to increase the damage rather than affect the difficulty, each target takes 2 additional points of damage. If your attack fails, targets in the area still take 1 point of damage. Action. |
 | 66–68 | Disruptive field (thoughts) (1 Intellect point) | When you wish it, you disrupt thoughts within immediate range. Intellect actions for all creatures within range are hindered. Action. |
 | 69–70 | Magnetic flesh | You attract or repel metal when you desire. Not only do small metal objects cling to you, but this mutation is an asset in tasks involving climbing on metal or keeping your grip on a metal item. This mutation is an asset to Speed defense tasks when being attacked by a metal foe or a foe with a metal weapon. Enabler. |
 | 71–73 | Gravity negation (2 Intellect points) | You float slowly into the air. If you concentrate, you can control your movement at half your normal speed; otherwise, you drift with the wind or with any momentum you have gained. This effect lasts for up to ten minutes. Action to initiate. |

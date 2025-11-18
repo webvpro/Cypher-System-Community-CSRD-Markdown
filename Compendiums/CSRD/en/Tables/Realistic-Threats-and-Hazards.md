@@ -11,7 +11,7 @@ id: Realistic-Threats-and-Hazards
 ---
 
 ## Realistic Threats and Hazards Table
-|  Roll &nbsp; &nbsp; | Realistic Threats and Hazards  |
+| Roll &nbsp; &nbsp; | Realistic Threats and Hazards |
 | ------------- | :----------- |
 | 1-3 | Blocked road: The road ahead is so filled with abandoned, rusted before-times vehicles that the PCs must walk if they want to take that route. Walkers are unable to see more than an immediate distance in any direction between the cars. If PCs have a vehicle larger than a bicycle, they'll have to find another way or leave it behind. |
 | 4-6 | Setting-specific element: Choose a hazard from a set piece or optional rule you're using, or if you want to shake things up, roll on the Fantastic Threats and Hazards table. Or just choose the next result on this table. |

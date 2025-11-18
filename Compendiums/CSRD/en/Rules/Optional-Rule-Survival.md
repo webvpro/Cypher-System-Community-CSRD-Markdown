@@ -16,24 +16,24 @@ id: Optional-Rule-Survival
 Survival GM Intrusions
 
 - PCs camp on an unmarked grave and a vengeful ghost attempts to possess
-  a PC
+ a PC
 
 <!-- -->
 
 - The helpful stranger who offers to lead the PCs to safety turns out to
-  be something sinister
+ be something sinister
 
 - The old fort the PCs find that seemed so hopeful turns out to be a
-  chupacabra lair
+ chupacabra lair
 
 - A pack of dire coyotes begins howling in the night; they've caught the
-  PCs' scent
+ PCs' scent
 
 - Red mists, swarming insects, a freak cold snap, etc. hinder PCs'
-  foraging/trapping tasks by two steps
+ foraging/trapping tasks by two steps
 
 - Spores from strange fungus infect gathered food, causing PCs to fall
-  into a disturbing sleep
+ into a disturbing sleep
 
 Disturbing sleep: *level 5; PCs take 1 Intellect damage (ignores Armor)
 each minute asleep but can attempt an Intellect defense roll each minute

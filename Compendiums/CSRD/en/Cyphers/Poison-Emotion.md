@@ -19,7 +19,7 @@ id: Poison-Emotion
 
 The victim feels a specific emotion for one hour. Roll a d100 to determine the emotion. (Most poisons are not considered cyphers, except for a very few that are unique.)
 
-|  Roll &nbsp; &nbsp; &nbsp; | Poison Emotion  |
+| Roll &nbsp; &nbsp; &nbsp; | Poison Emotion |
 | ------------- | :----------- |
 | 1-20 | Anger. Likely to attack anyone who disagrees with them. Very hard to interact with; all such actions are hindered by two steps. |
 | 21-40 | Fear. Flees in terror for one minute when threatened. |

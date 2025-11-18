@@ -19,7 +19,7 @@ id: Null-Field
 
 The user and all creatures within immediate range gain +3 to Armor (+5 if the cypher is level 8 or higher) against damage of a specified kind for one hour. Roll a d100 to determine the effect.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Null Field  |
+| Roll &nbsp; &nbsp; &nbsp; | Null Field |
 | ------------- | :----------- |
 | 1-12 | Fire |
 | 13-27 | Cold |

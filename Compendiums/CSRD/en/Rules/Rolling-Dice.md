@@ -29,7 +29,7 @@ This distinction is important when stacking skills and assets to decrease the di
 ### Special Rolls
 If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that number), special rules come into play. These are explained in more detail in the following sections.
 
-#### 1: GM Intrusion>  The GM makes a free intrusion (see below) and doesn’t award experience points (XP) for it.
+#### 1: GM Intrusion> The GM makes a free intrusion (see below) and doesn’t award experience points (XP) for it.
 
 ##### 17: Damage Bonus
 >If the roll was a damage-dealing attack, it deals 1 additional point of damage.
@@ -50,7 +50,7 @@ GM intrusion is explained in more detail in the Running the Cypher System chapte
 >[!tip]
 >For complete details about GM intrusion and how to use it to best effect in the game, see the [[Compendiums/CSRD/en/Rules/Running-the-Cypher-system|Running the Cypher System]] chapter.
 
-####  Minor Effect
+#### Minor Effect
 >A minor effect happens when a player rolls a natural 19. Most of the time, a minor effect is slightly beneficial to the PC, but not overwhelming.
 >
 >A climber gets up the steep slope a bit faster. A repaired machine works a bit better. A character jumping down into a pit lands on their feet. Either the GM or the player can come up with a possible minor effect that fits the situation, but both must agree on what it should be.

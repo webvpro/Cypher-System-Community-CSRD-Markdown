@@ -11,7 +11,7 @@ id: Seacraft-Gm-Intrusions
 ---
 
 ## Seacraft Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Seacraft Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Seacraft Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Vehicle begins taking on water due to minor leak. |
 | 2 | Vehicle capsizes |

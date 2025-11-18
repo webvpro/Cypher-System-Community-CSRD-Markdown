@@ -19,7 +19,7 @@ usually more likely to run toward conflict than away from it.
 ### You gain the following characteristics:
 #### Fur and Hide
 >+1 to Armor.
-####  Animal Strength
+#### Animal Strength
 >+1 to your Might Pool.
 #### Charging Ahead
 >You’re trained in initiative.

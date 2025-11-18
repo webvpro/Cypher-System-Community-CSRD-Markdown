@@ -19,7 +19,7 @@ id: Transport
 
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Transport  |
+| Roll &nbsp; &nbsp; &nbsp; | Transport |
 | ------------- | :----------- |
 | 1 | Roller skates |
 | 2 | Inline skates |

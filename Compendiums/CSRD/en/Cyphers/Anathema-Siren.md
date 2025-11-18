@@ -21,7 +21,7 @@ id: Anathema-Siren
 
 Creates a strange and annoying noise about the volume of a human shouting. The noise is especially aggravating toward one type of creature; creatures of this type have all their actions hindered by two steps (hindered by three steps if the cypher level is 7 or higher) while within short range of the cypher. The user must use their action each round to manipulate the cypher for the noise and its effects to persist, or it goes silent and loses all power. The siren can be used for up to one minute per cypher level. Roll a d100 to determine what sort of creature is affected:
 
-|  Roll &nbsp; &nbsp; &nbsp; | Anathema Siren  |
+| Roll &nbsp; &nbsp; &nbsp; | Anathema Siren |
 | ------------- | :----------- |
 | 1-10 | Aliens (probably one specific kind of alien) |
 | 11-16 | Animate dolls and puppets |

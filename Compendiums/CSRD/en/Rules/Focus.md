@@ -70,21 +70,21 @@ If you want to go even further, you could determine where a character’s focus 
 
 The full description for each focus ability listed in this section is found in the Abilities chapter, which has descriptions for type, flavor, and focus abilities in a single vast catalog.
 ```dataview
-LIST  WITHOUT ID link(file.link, aliases[0])
+LIST WITHOUT ID link(file.link, aliases[0])
 FROM "Compendiums/CSRD/en/Foci"
 SORT file.name ASC
 
 ```
 
-###  Creating New Foci
+### Creating New Foci
 This section provides everything you need to create your own foci.
 Every focus has an overarching style, whether that’s exploration, energy manipulation, or simply dealing a lot of damage in combat. These broad classifications are called focus categories.
 
 Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each tier from the Abilities chapter, from tier 1 to tier 6.
 The newly created focus should be named in the form of a verb, like Controls Beasts or Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse or Lights Fires With a Thought.
 
-####  Focus Categories
- > -  Ally use
+#### Focus Categories
+ > - Ally use
  > - Basic
  > - Energy manipulation
  > - Environment manipulation
@@ -137,7 +137,7 @@ As a good rule of thumb, a typical ability should cost points equal to its tier.
 #### Choose Gm Intrusions
 Think about the kinds of things that might surprise, alarm, or go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
 
-###  Focus Category Detail
+### Focus Category Detail
 #### Ally Use
 Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character’s actions.
 
@@ -160,7 +160,7 @@ Multiple potential themes exist within the ally use category, from abilities tha
 > • [[Masters-the-Swarm|Masters the Swarm]]
 > • [[Shepherds-Spirits|Shepherds Spirits]]
 
-#####  Ability Selection Guidelines
+##### Ability Selection Guidelines
 ###### Tier 1
 > Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
 >
@@ -210,7 +210,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 >• [[Learns-Quickly|Learns Quickly]]
 >•[[Works-for-a-Living|Works for a Living]]
 >• [[Would-Rather-Be-Reading|Would Rather Be Reading]]
-#####  Ability Selection Guidelines
+##### Ability Selection Guidelines
 ###### Tier 1
 >Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
 Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
@@ -278,7 +278,7 @@ The other should grant enhanced movement by use of the appropriate energy type, 
 >One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several.
 >
 >The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
-####  Environment Manipulation
+#### Environment Manipulation
 Foci that allow a character to move objects, affect gravity, create objects (or illusions of objects), and so on are environment manipulation foci. Given that, in many cases, energy is used as part of this process, this category and energy manipulation overlap to some extent. Environment manipulation foci prioritize abilities that indirectly affect enemies and allies via objects, forces, and alterations of the surroundings; energy manipulation foci prioritize directly damaging targets with the chosen energy or force.
 
 For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, or lower gravity in a particular area or even on a particular object.

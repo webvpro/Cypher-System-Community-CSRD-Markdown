@@ -11,7 +11,7 @@ id: Subtle
 ---
 
 ## Subtle Table
-|  Roll &nbsp; &nbsp; | Subtle  |
+| Roll &nbsp; &nbsp; | Subtle |
 | ------------- | :----------- |
 | 1-4 | [[Analeptic\|Analeptic]] |
 | 5-7 | [[Best-Tool\|Best Tool]] |

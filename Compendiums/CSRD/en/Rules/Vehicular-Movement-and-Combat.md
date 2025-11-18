@@ -42,11 +42,11 @@ This bare-bones system should allow the GM and players to flesh out exciting enc
 >
 >Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
 
-| Targeting Task                  | Attack Hindered | Effect                                                   |
+| Targeting Task         | Attack Hindered | Effect                          |
 |---------------------------------|-----------------|----------------------------------------------------------|
-| Disable weapons                 | Two steps       | One or more of the vehicle’s weapons no longer function  |
-| Disable defenses                |                 |                                                          |
-| (if applicable)                 | Two steps       | Attacks against the vehicle are eased                    |
-| Disable engine/drive            | Three steps     | Vehicle cannot move, or movement is hampered             |
-| Disable maneuverability         | Two steps       | Vehicle cannot alter its present course                  |
-| Strike power core or vital spot | Five steps      | Vehicle is completely destroyed                          |
+| Disable weapons         | Two steps    | One or more of the vehicle’s weapons no longer function |
+| Disable defenses        |         |                             |
+| (if applicable)         | Two steps    | Attacks against the vehicle are eased          |
+| Disable engine/drive      | Three steps   | Vehicle cannot move, or movement is hampered       |
+| Disable maneuverability     | Two steps    | Vehicle cannot alter its present course         |
+| Strike power core or vital spot | Five steps   | Vehicle is completely destroyed             |

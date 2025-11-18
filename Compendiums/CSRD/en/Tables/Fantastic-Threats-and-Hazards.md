@@ -11,7 +11,7 @@ id: Fantastic-Threats-and-Hazards
 ---
 
 ## Fantastic Threats and Hazards Table
-|  Roll &nbsp; &nbsp; | Fantastic Threats and Hazards  |
+| Roll &nbsp; &nbsp; | Fantastic Threats and Hazards |
 | ------------- | :----------- |
 | 1 | Hallucinatory flowers (level 3): The ground floor of the ruin hosts a handful of purplish flowers growing up out of the rubble. A character who gets a puff of the pollen hallucinates their allies are actually cannibals trying to eat the affected character each round until the character succeeds on a Might defense roll. |
 | 2 | AI instance, minor (level 3): An artificial intelligence in an old facility attempts to install itself in the wetware (the brain) of humans and any other nearby sapient creatures. Anyone within immediate range of a video screen playing carefully crafted symbols and sounds who fails an Intellect defense roll is stunned, losing their next turn as they stare in rapt attention. If they fail a subsequent defense roll, they come under the control of the AI for one minute, or until they succeed on an Intellect defense roll on their turn. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI's goals. |

@@ -46,4 +46,4 @@ Most animate statues are vessels imprisoning the mind of a sentient creature. Su
 
 
 > **Intrusions: **
-> The animate statue strikes a character so hard that the victim flies a long distance and lands in a heap, possibly dropping gear and weapons along the way. Spawned troll: level 4, Might defense as level 5; health 15; Armor 1; claws inflict 5 points of damage;  grabbed victim suffers 5 points of damage each round held by troll
+> The animate statue strikes a character so hard that the victim flies a long distance and lands in a heap, possibly dropping gear and weapons along the way. Spawned troll: level 4, Might defense as level 5; health 15; Armor 1; claws inflict 5 points of damage; grabbed victim suffers 5 points of damage each round held by troll

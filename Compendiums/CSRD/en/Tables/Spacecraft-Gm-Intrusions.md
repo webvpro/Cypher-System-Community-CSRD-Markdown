@@ -11,7 +11,7 @@ id: Spacecraft-Gm-Intrusions
 ---
 
 ## Spacecraft Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Spacecraft Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Spacecraft Gm Intrusions |
 | ------------- | :----------- |
 | 1 | Spacecraft is holed by micrometeorite or other debris and begins to leak air |
 | 2 | Spacecraft power source unexpectedly stutters, runs out of fuel, or malfunctions in a way that could lead to detonation. |

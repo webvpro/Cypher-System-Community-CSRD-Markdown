@@ -26,21 +26,21 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Attack-Skill AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -52,7 +52,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Companion AND #Ability/Tier/Low
 > SORT file.name
 > ```
@@ -67,7 +67,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 >[!example] High Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Companion AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -78,14 +78,14 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 >[!example] Low Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Control AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Control AND #Ability/Tier/Mid
 > SORT file.name
 > ```
@@ -93,7 +93,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Control AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -104,23 +104,23 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Craft AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Craft AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 
 >[!example] High Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Craft  AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Craft AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
@@ -130,23 +130,23 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 
 >[!example] Low Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Cure  AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 
 >[!example] Mid Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Cure  AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
->  LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Cure   AND #Ability/Tier/High
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Cure  AND #Ability/Tier/High
 > SORT file.name
 > ```
 
@@ -156,7 +156,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Environment AND #Ability/Tier/Low
 > SORT file.name
 > ```
@@ -171,7 +171,7 @@ Manipulates the environment or things in the environment, such as with telekines
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Environment AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -182,14 +182,14 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Information AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Information AND #Ability/Tier/Mid
 > SORT file.name
 > ```
@@ -197,7 +197,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Information AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -208,7 +208,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Meta AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -216,7 +216,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Meta AND #Ability/Tier/Mid
 > SORT file.name
 > ```
@@ -224,7 +224,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Meta AND #Ability/Tier/Mid
 > SORT file.name
 > ```
@@ -235,7 +235,7 @@ Increases your movement (such as increasing your basic movement speed from short
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Movement AND #Ability/Tier/Low
 > SORT file.name
 > ```
@@ -243,14 +243,14 @@ Increases your movement (such as increasing your basic movement speed from short
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Movement AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Movement AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -261,21 +261,21 @@ Gives training or specialization in one or more types of combat defenses (Might,
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Protection AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Protection AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Protection AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -287,23 +287,23 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Senses AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Senses  AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Senses AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Senses  AND #Ability/Tier/High
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Senses AND #Ability/Tier/High
 > SORT file.name
 > ```
 
@@ -313,21 +313,21 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Social AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Social AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Social AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -338,22 +338,22 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Special-Attack AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Special-Attack AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Special-Attack   AND #Ability/Tier/High
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Special-Attack  AND #Ability/Tier/High
 > SORT file.name
 > ```
 
@@ -363,14 +363,14 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Support  AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Support AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Support AND #Ability/Tier/Mid
 > SORT file.name
 > ```
@@ -378,7 +378,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
+> LIST WITHOUT ID link(file.link, aliases[0])
 > FROM #Ability/Categories/Support AND #Ability/Tier/High
 > SORT file.name
 > ```
@@ -388,23 +388,23 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Task  AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Task AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Task  AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Task AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Task  AND #Ability/Tier/High
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Task AND #Ability/Tier/High
 > SORT file.name
 > ```
 
@@ -414,22 +414,22 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 >[!example] Low Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/Low
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Transform  AND #Ability/Tier/Low
 > SORT file.name
 > ```
 
 >[!example] Mid Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/Mid
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Transform  AND #Ability/Tier/Mid
 > SORT file.name
 > ```
 
 >[!example] High Tier
 > ```dataview
-> LIST  WITHOUT ID link(file.link, aliases[0])
-> FROM #Ability/Categories/Transform   AND #Ability/Tier/High
+> LIST WITHOUT ID link(file.link, aliases[0])
+> FROM #Ability/Categories/Transform  AND #Ability/Tier/High
 > SORT file.name
 > ```
 
@@ -437,7 +437,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "A")
+> WHERE startswith(file.name, "A")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -446,7 +446,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "B")
+> WHERE startswith(file.name, "B")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -455,7 +455,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "C")
+> WHERE startswith(file.name, "C")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -464,7 +464,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "D")
+> WHERE startswith(file.name, "D")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -473,7 +473,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "E")
+> WHERE startswith(file.name, "E")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -482,7 +482,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "F")
+> WHERE startswith(file.name, "F")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -491,7 +491,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "K")
+> WHERE startswith(file.name, "K")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -500,7 +500,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "L")
+> WHERE startswith(file.name, "L")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -509,7 +509,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "M")
+> WHERE startswith(file.name, "M")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -518,7 +518,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "N")
+> WHERE startswith(file.name, "N")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -527,7 +527,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "O")
+> WHERE startswith(file.name, "O")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -536,7 +536,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "P")
+> WHERE startswith(file.name, "P")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -545,7 +545,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Q")
+> WHERE startswith(file.name, "Q")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -554,7 +554,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "R")
+> WHERE startswith(file.name, "R")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -563,7 +563,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "S")
+> WHERE startswith(file.name, "S")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -572,7 +572,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "T")
+> WHERE startswith(file.name, "T")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -581,7 +581,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "U")
+> WHERE startswith(file.name, "U")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -590,7 +590,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "S")
+> WHERE startswith(file.name, "S")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -599,7 +599,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "W")
+> WHERE startswith(file.name, "W")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -608,7 +608,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Y")
+> WHERE startswith(file.name, "Y")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```
@@ -617,7 +617,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 > ```dataview
 > LIST
 > FROM #Compendium/CSRD/en/Abilities
-> WHERE  startswith(file.name, "Z")
+> WHERE startswith(file.name, "Z")
 > SORT file.name
 > GROUP BY link(file.link, file.aliases[0])
 > ```

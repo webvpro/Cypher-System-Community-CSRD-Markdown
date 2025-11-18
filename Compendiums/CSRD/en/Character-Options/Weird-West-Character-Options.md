@@ -14,36 +14,36 @@ id: Types-And-Descriptors
 
 ## Suggested Types for a Weird West Game
 
-  -------------------- ---------------
-          Role         Type
+ -------------------- ---------------
+     Role     Type
 
-       Gunslinger      Warrior
+    Gunslinger   Warrior
 
-         Lawman        Speaker with
-                       combat flavor
+     Lawman    Speaker with
+            combat flavor
 
-        Teacher        Speaker
+    Teacher    Speaker
 
-      Preacher or      Speaker with
-       Mesmerist       magic flavor
+   Preacher or   Speaker with
+    Mesmerist    magic flavor
 
-         Actor         Speaker
+     Actor     Speaker
 
-       Prospector      Explorer with
-                       combat flavor
+    Prospector   Explorer with
+            combat flavor
 
-  Swindler or Gambler  Explorer with
-                       stealth flavor
+ Swindler or Gambler Explorer with
+            stealth flavor
 
-   Doctor or Scholar   Explorer with
-                       skills and
-                       knowledge
-                       flavor
+  Doctor or Scholar  Explorer with
+            skills and
+            knowledge
+            flavor
 
-   Alchemist/Engineer  Adept with
-                       technology
-                       flavor
-  -------------------- ---------------
+  Alchemist/Engineer Adept with
+            technology
+            flavor
+ -------------------- ---------------
 
 ## Alternate Character Roles
 
@@ -141,29 +141,29 @@ defense tasks are hindered.
 Initial Link to the Starting Adventure: From the following list of
 options, choose how you became involved in the first adventure.
 
-1.  Though it's not something they necessarily meant to do, the other
-    PCs' actions gave you your independence, and they asked you along.
+1. Though it's not something they necessarily meant to do, the other
+  PCs' actions gave you your independence, and they asked you along.
 
-2.  You were looking for a job, same as any other independent being, and
-    applied to a job posting.
+2. You were looking for a job, same as any other independent being, and
+  applied to a job posting.
 
-3.  You're on the run from your creator, and the PCs' presence allows
-    you to blend in.
+3. You're on the run from your creator, and the PCs' presence allows
+  you to blend in.
 
-4.  You were lost. The PCs found you and invited you to join their
-    group.
+4. You were lost. The PCs found you and invited you to join their
+  group.
 
 Forgeborn Advancement:
 
-1.  Bash
+1. Bash
 
-    Nothing but Defend
+  Nothing but Defend
 
-    Enhanced Might
+  Enhanced Might
 
-    Enhanced Might Edge
+  Enhanced Might Edge
 
-    Enlarge
+  Enlarge
 
 Training in Unarmed Attacks
 
@@ -304,17 +304,17 @@ though your memories from back then are blurry.
 
 Risen Advancement:
 
-1.  Absorb Kinetic Energy
+1. Absorb Kinetic Energy
 
-    Improved Recovery
+  Improved Recovery
 
-    See the Unseen
+  See the Unseen
 
-    Speaker for the Dead
+  Speaker for the Dead
 
-    Repair Flesh
+  Repair Flesh
 
-    Not Dead Yet
+  Not Dead Yet
 
 Slick
 
@@ -598,44 +598,44 @@ must select different skills each time. Enabler.
 
 Tier Two
 
-1.  Happy Trails: Whether you're traveling along a path you've
-    previously marked, or you're navigating and blazing a new trail,
-    roaming with you puts your companions at ease. During rests on any
-    day you've traveled together, you and your party gain +1 to your
-    recovery rolls. Enabler.
+1. Happy Trails: Whether you're traveling along a path you've
+  previously marked, or you're navigating and blazing a new trail,
+  roaming with you puts your companions at ease. During rests on any
+  day you've traveled together, you and your party gain +1 to your
+  recovery rolls. Enabler.
 
 Tier Three
 
 Ability Choice: Choose either Trail Awareness or Trail Sensor as your
 tier 3 ability.
 
-1.  Trail Awareness: Your connection with trails you've blazed is always
-    with you. When traveling on, camping near, or within visual range of
-    any trail you've blazed, you gain an asset on one attack or defense
-    roll thanks to your knowledge about what else is using the path.
-    Once used, this ability renews after your next recovery roll.
-    Enabler.
+1. Trail Awareness: Your connection with trails you've blazed is always
+  with you. When traveling on, camping near, or within visual range of
+  any trail you've blazed, you gain an asset on one attack or defense
+  roll thanks to your knowledge about what else is using the path.
+  Once used, this ability renews after your next recovery roll.
+  Enabler.
 
 <!-- -->
 
-1.  Trail Sensor (3 Intellect points): You imbue a newly created blaze
-    symbol (or replace a blaze symbol you've previously created) with a
-    spiritual connection to your mind's eye. For the next 24 hours, you
-    can concentrate to see, hear, and smell through the sensor, no
-    matter how far you move from it. If you also have a similar ability
-    from another source, this effect lasts twice as long. The sensor
-    doesn't grant you sensory capabilities beyond the norm. A few rounds
-    to create the enhanced blaze symbol; action to check.
+1. Trail Sensor (3 Intellect points): You imbue a newly created blaze
+  symbol (or replace a blaze symbol you've previously created) with a
+  spiritual connection to your mind's eye. For the next 24 hours, you
+  can concentrate to see, hear, and smell through the sensor, no
+  matter how far you move from it. If you also have a similar ability
+  from another source, this effect lasts twice as long. The sensor
+  doesn't grant you sensory capabilities beyond the norm. A few rounds
+  to create the enhanced blaze symbol; action to check.
 
 Tier Four
 
-1.  Blaze Door (5+ Intellect points): You can instantly transport
-    yourself between two blaze symbols you've previously marked, as long
-    as you use this ability while within immediate range of one of your
-    symbols. In addition to the normal options for using Effort, you can
-    choose to use Effort to bring other people within immediate range
-    with you; each level of Effort used in this way affects up to three
-    additional targets. Action.
+1. Blaze Door (5+ Intellect points): You can instantly transport
+  yourself between two blaze symbols you've previously marked, as long
+  as you use this ability while within immediate range of one of your
+  symbols. In addition to the normal options for using Effort, you can
+  choose to use Effort to bring other people within immediate range
+  with you; each level of Effort used in this way affects up to three
+  additional targets. Action.
 
 Tier 5\
 Blaze Recovery: You gain an additional one-action recovery roll if you
@@ -648,28 +648,28 @@ Tier 6
 Ability Choice: Choose either Step Across Time or Trail Cypher as your
 tier 6 ability.
 
-1.  Step Across Time (7+ Intellect points): While you are within
-    immediate range of any blaze symbol you've previously marked, you
-    and up to three willing characters who are next to you travel to a
-    point of your choosing earlier in time, when you were all traveling
-    on the same trail the marker is part of or a connecting trail. When
-    you appear in the past, you do so at the location you were along the
-    trail then, replacing earlier versions of yourself in so doing. Upon
-    arriving at your temporal destination, you and your fellow time
-    travelers are stunned (and unable to act) for one minute. Using this
-    ability is usually a one‑way trip. In addition to the normal options
-    for using Effort, you can choose to use Effort to bring additional
-    people with you; each level of Effort used in this way affects up to
-    three additional targets. Action.
+1. Step Across Time (7+ Intellect points): While you are within
+  immediate range of any blaze symbol you've previously marked, you
+  and up to three willing characters who are next to you travel to a
+  point of your choosing earlier in time, when you were all traveling
+  on the same trail the marker is part of or a connecting trail. When
+  you appear in the past, you do so at the location you were along the
+  trail then, replacing earlier versions of yourself in so doing. Upon
+  arriving at your temporal destination, you and your fellow time
+  travelers are stunned (and unable to act) for one minute. Using this
+  ability is usually a one‑way trip. In addition to the normal options
+  for using Effort, you can choose to use Effort to bring additional
+  people with you; each level of Effort used in this way affects up to
+  three additional targets. Action.
 
-    Trail Cypher: Choose one cypher that you carry. The cypher must have
-    an effect that is not instantaneous. You destroy the cypher and
-    embed its power into a trail you've blazed. Any time you are on that
-    trail or a connecting trail, you gain the effect of that cypher
-    continuously. You can choose a cypher when you gain this ability, or
-    you can wait and make the choice later. However, once you embed a
-    cypher into your system of trails, you cannot later switch to a
-    different cypher---the ability works only once. Action to initiate.
+  Trail Cypher: Choose one cypher that you carry. The cypher must have
+  an effect that is not instantaneous. You destroy the cypher and
+  embed its power into a trail you've blazed. Any time you are on that
+  trail or a connecting trail, you gain the effect of that cypher
+  continuously. You can choose a cypher when you gain this ability, or
+  you can wait and make the choice later. However, once you embed a
+  cypher into your system of trails, you cannot later switch to a
+  different cypher---the ability works only once. Action to initiate.
 
 Collects Bounties
 
@@ -711,29 +711,29 @@ Major Effect Suggestion: Make an immediate extra attack on your target.
 
 Tier One
 
-1.  Seek and Hide: Tasks for tracking, looking for, or hiding from other
-    creatures are eased. Enabler.
+1. Seek and Hide: Tasks for tracking, looking for, or hiding from other
+  creatures are eased. Enabler.
 
 <!-- -->
 
-1.  Know Where It Hurts: You inflict 1 additional point of damage
-    against targets you've successfully tracked, hidden from, used
-    Overwatch on, or studied for one full action. Enabler.
+1. Know Where It Hurts: You inflict 1 additional point of damage
+  against targets you've successfully tracked, hidden from, used
+  Overwatch on, or studied for one full action. Enabler.
 
 Tier Two
 
-1.  Ignore the Pain: You ignore the impaired condition and treat the
-    debilitated condition as impaired. Enabler.
+1. Ignore the Pain: You ignore the impaired condition and treat the
+  debilitated condition as impaired. Enabler.
 
 Tier Three
 
 Ability Choice: Choose either Let Them Try or Surprise Attack as your
 tier 3 ability.
 
-1.  Let Them Try: They usually don't give up without a fight. You are
-    trained in Speed defense tasks. If your foe is someone you've
-    successfully interacted with (as noted under Know Where It Hurts),
-    your Speed defense tasks against them also gain an asset. Enabler.
+1. Let Them Try: They usually don't give up without a fight. You are
+  trained in Speed defense tasks. If your foe is someone you've
+  successfully interacted with (as noted under Know Where It Hurts),
+  your Speed defense tasks against them also gain an asset. Enabler.
 
 Surprise Attack: If attacking from a hidden vantage, with surprise, or
 before your opponent has acted, you get an asset on the attack. On a
@@ -741,18 +741,18 @@ successful hit, you inflict 2 additional points of damage. Enabler.
 
 Tier 4
 
-1.  Total Awareness: You possess such a high level of awareness that
-    it's very difficult to surprise, hide from, or sneak up on you. When
-    you apply a level of Effort to initiative and perception tasks, you
-    gain two free levels of Effort. Enabler.
+1. Total Awareness: You possess such a high level of awareness that
+  it's very difficult to surprise, hide from, or sneak up on you. When
+  you apply a level of Effort to initiative and perception tasks, you
+  gain two free levels of Effort. Enabler.
 
 Tier 5
 
-1.  Free to Move: You ignore all movement penalties and adjustments due
-    to terrain or other obstacles. You can fit through any space large
-    enough to fit your head. You can apply three free levels of Effort
-    to tasks involving breaking free of bonds, a creature's grip, or any
-    similar impediment. Enabler.
+1. Free to Move: You ignore all movement penalties and adjustments due
+  to terrain or other obstacles. You can fit through any space large
+  enough to fit your head. You can apply three free levels of Effort
+  to tasks involving breaking free of bonds, a creature's grip, or any
+  similar impediment. Enabler.
 
 Tier 6
 
@@ -760,33 +760,33 @@ Ability Choice: Choose either Greater Skill With Attacks or Lethal
 Damage as a tier 6 ability. Either way, you also gain Knock Out as a
 complementary tier 6 ability.
 
-1.  Greater Skill With Attacks: Choose one type of attack, even one in
-    which you are already trained: light bashing, light bladed, light
-    ranged, medium bashing, medium bladed, medium ranged, heavy bashing,
-    heavy bladed, or heavy ranged. You are trained in attacks using that
-    type of weapon. If you're already trained in that type of attack,
-    you instead are specialized in that type of attack. Enabler.
+1. Greater Skill With Attacks: Choose one type of attack, even one in
+  which you are already trained: light bashing, light bladed, light
+  ranged, medium bashing, medium bladed, medium ranged, heavy bashing,
+  heavy bladed, or heavy ranged. You are trained in attacks using that
+  type of weapon. If you're already trained in that type of attack,
+  you instead are specialized in that type of attack. Enabler.
 
 <!-- -->
 
-1.  Knock Out (5+ Might points): You make a melee attack that inflicts
-    no damage. Instead, if the attack hits, make a second Might‑based
-    roll. If successful, a foe of level 3 or lower is knocked
-    unconscious for one minute. For each level of Effort used, you can
-    affect one higher level of foe, or you can extend the duration for
-    an additional minute. Action.
+1. Knock Out (5+ Might points): You make a melee attack that inflicts
+  no damage. Instead, if the attack hits, make a second Might‑based
+  roll. If successful, a foe of level 3 or lower is knocked
+  unconscious for one minute. For each level of Effort used, you can
+  affect one higher level of foe, or you can extend the duration for
+  an additional minute. Action.
 
 <!-- -->
 
-1.  Lethal Damage: Choose one of your existing attacks that inflicts
-    points of damage (depending on your type and focus, this might be a
-    particular pistol, a special ability such as a blast of fire, or
-    your unarmed attacks). When you hit with that attack, you inflict an
-    additional 5 points of damage. Enabler.
+1. Lethal Damage: Choose one of your existing attacks that inflicts
+  points of damage (depending on your type and focus, this might be a
+  particular pistol, a special ability such as a blast of fire, or
+  your unarmed attacks). When you hit with that attack, you inflict an
+  additional 5 points of damage. Enabler.
 
 <!-- -->
 
-3.  Gambles It All Away
+3. Gambles It All Away
 
 How long have you been haunting the card tables? Seems like a lifetime.
 You probably played your first hand of poker before you could even read
@@ -831,11 +831,11 @@ trained. Choose from the following: poker, twenty‑one, farro, craps,
 blackjack, roulette, baccarat, or another game where gambling on the
 outcome is part of play. Enabler.
 
-1.  Interaction Skills: You are trained in two skills in which you are
-    not already trained. Choose two of the following: deceiving,
-    persuading, public speaking, seeing through deception, or
-    intimidation. You can select this ability multiple times. Each time
-    you select it, you must choose two different skills. Enabler.
+1. Interaction Skills: You are trained in two skills in which you are
+  not already trained. Choose two of the following: deceiving,
+  persuading, public speaking, seeing through deception, or
+  intimidation. You can select this ability multiple times. Each time
+  you select it, you must choose two different skills. Enabler.
 
 Tier Two
 
@@ -854,68 +854,68 @@ Tier Three
 Ability Choice: Choose either Call Their Bluff or Card Genius as your
 tier 3 ability.
 
-1.  Call Their Bluff (3 Intellect points): Are they bluffing or can they
-    back up their claim? It doesn't really matter when you fix your
-    stare on a target within long range. If your Intellect attack
-    succeeds, the target suffers 2 points of ambient damage each round
-    for one minute or until the target can throw off the effect (PC
-    targets suffer Intellect damage). If you use your action on a
-    subsequent round to fully concentrate on the target, their attempts
-    to throw off the effect are hindered and they take 4 points of
-    ambient damage that round. Action to initiate.
+1. Call Their Bluff (3 Intellect points): Are they bluffing or can they
+  back up their claim? It doesn't really matter when you fix your
+  stare on a target within long range. If your Intellect attack
+  succeeds, the target suffers 2 points of ambient damage each round
+  for one minute or until the target can throw off the effect (PC
+  targets suffer Intellect damage). If you use your action on a
+  subsequent round to fully concentrate on the target, their attempts
+  to throw off the effect are hindered and they take 4 points of
+  ambient damage that round. Action to initiate.
 
 <!-- -->
 
-1.  Card Genius: The more you gamble, the sharper your mind becomes. You
-    gain +5 to your Intellect Pool. Enabler.
+1. Card Genius: The more you gamble, the sharper your mind becomes. You
+  gain +5 to your Intellect Pool. Enabler.
 
 Tier 4
 
-1.  Winning Hand (4 Intellect Points): If you win a hand of cards or
-    other wager, or if you succeed on an Intellect defense roll to
-    resist a foe's attack, you gain an action. You can use it
-    immediately even if you have already taken a turn in the round. You
-    can use this ability once per round. Enabler.
+1. Winning Hand (4 Intellect Points): If you win a hand of cards or
+  other wager, or if you succeed on an Intellect defense roll to
+  resist a foe's attack, you gain an action. You can use it
+  immediately even if you have already taken a turn in the round. You
+  can use this ability once per round. Enabler.
 
 Tier 5
 
-1.  Consequences of Luck (5+ Intellect points): It used to be easier to
-    be lucky all the time. Now, it takes a toll. When you roll a 1, you
-    can reroll. If you reroll and roll a 1, 2, or 3, you must reroll
-    again, this time expending a level of Effort plus the base Pool cost
-    to activate this ability (5 Intellect points). If you roll a 1--5 on
-    the second reroll, you must reroll again, expending a level of
-    Effort and spending the base cost again (5 Intellect points), too.
-    This progression of forced rerolls coupled with an increasing
-    failure range continues until you roll higher than the failure range
-    or you run out of Intellect points. (If the target number you roll
-    is below the failure range, you might succeed on the task, but the
-    forced‑rerolling continues.) Enabler.
+1. Consequences of Luck (5+ Intellect points): It used to be easier to
+  be lucky all the time. Now, it takes a toll. When you roll a 1, you
+  can reroll. If you reroll and roll a 1, 2, or 3, you must reroll
+  again, this time expending a level of Effort plus the base Pool cost
+  to activate this ability (5 Intellect points). If you roll a 1--5 on
+  the second reroll, you must reroll again, expending a level of
+  Effort and spending the base cost again (5 Intellect points), too.
+  This progression of forced rerolls coupled with an increasing
+  failure range continues until you roll higher than the failure range
+  or you run out of Intellect points. (If the target number you roll
+  is below the failure range, you might succeed on the task, but the
+  forced‑rerolling continues.) Enabler.
 
 Tier 6
 
 Ability Choice: Choose either Fate Breaker or Gambling God as your tier
 6 ability.
 
-1.  Fate Breaker: Something beyond your ken takes an interest in you. If
-    you fail on a task (including an attack or a defense), you can
-    change the die result to a natural 20. (That still might not be
-    enough to succeed if the difficulty is higher than 6.) This ability
-    doesn't work if you roll a natural 1 for an attempted task, unless
-    you reroll using Consequences of Luck and obtain a result that isn't
-    in the failure range. Once you use this ability, it is not available
-    again until after you make a ten‑hour recovery roll. Enabler.
+1. Fate Breaker: Something beyond your ken takes an interest in you. If
+  you fail on a task (including an attack or a defense), you can
+  change the die result to a natural 20. (That still might not be
+  enough to succeed if the difficulty is higher than 6.) This ability
+  doesn't work if you roll a natural 1 for an attempted task, unless
+  you reroll using Consequences of Luck and obtain a result that isn't
+  in the failure range. Once you use this ability, it is not available
+  again until after you make a ten‑hour recovery roll. Enabler.
 
 <!-- -->
 
-1.  Gambling God: Any time you use Effort on an Intellect action, add
-    one of the following enhancements to the action (your choice):
+1. Gambling God: Any time you use Effort on an Intellect action, add
+  one of the following enhancements to the action (your choice):
 
 • Free level of Effort
 
 • Automatic minor effect
 
-2.  Enabler.
+2. Enabler.
 
 Hits The Saloon
 
@@ -961,35 +961,35 @@ at.
 
 Tier 1
 
-1.  Jovial Presence (2 Intellect points): You observe or study a
-    creature, object, or location for at least one round. The next time
-    you interact with it (possibly in the following round), a related
-    task (such as persuading the creature, attacking it, or defending
-    from its attack) is eased. If you're in a saloon, the task is eased
-    by two steps. Action.
+1. Jovial Presence (2 Intellect points): You observe or study a
+  creature, object, or location for at least one round. The next time
+  you interact with it (possibly in the following round), a related
+  task (such as persuading the creature, attacking it, or defending
+  from its attack) is eased. If you're in a saloon, the task is eased
+  by two steps. Action.
 
 Enthusiastic Listener: You pick up stuff listening to folks gab in the
 bar. You are trained in one area of knowledge of your choice. Enabler.
 
 Tier 2
 
-1.  Blitzer: You inflict 2 additional points of damage with unarmed
-    attacks, or 3 points when you are one or more steps down the
-    intoxication track. Enabler.
+1. Blitzer: You inflict 2 additional points of damage with unarmed
+  attacks, or 3 points when you are one or more steps down the
+  intoxication track. Enabler.
 
 <!-- -->
 
-1.  Liquid Courage: Your defense rolls against fear are eased. They are
-    eased by two steps when you are one or more steps down the
-    intoxication track. Enabler.
+1. Liquid Courage: Your defense rolls against fear are eased. They are
+  eased by two steps when you are one or more steps down the
+  intoxication track. Enabler.
 
 Tier 3
 
 Ability Choice: Choose either Iron Stomach or Skill With Attacks as your
 tier 3 ability.
 
-1.  Iron Stomach: The more you imbibe, the greater your tolerance grows
-    (at least, so far. . . ). You gain +5 to your Might Pool. Enabler.
+1. Iron Stomach: The more you imbibe, the greater your tolerance grows
+  (at least, so far. . . ). You gain +5 to your Might Pool. Enabler.
 
 Skill With Attacks: Choose one type of attack in which you are not
 already trained, such as unarmed attacks (though you could also select
@@ -1000,21 +1000,21 @@ attack. Enabler.
 
 Tier 4
 
-1.  Bottle KO (5+ Might points): You make a melee attack that inflicts
-    no damage. Instead, if the attack hits, make a second Might‑based
-    roll. If successful, a foe of level 3 or lower is knocked
-    unconscious for one minute. For each level of Effort used, you can
-    affect one higher level of foe, or you can extend the duration for
-    an additional minute. If you use a whiskey bottle to make the
-    attack, your attack is eased. If you have a similar sort of knockout
-    ability from another source (such as your type), the attack is eased
-    by an additional step. Action.
+1. Bottle KO (5+ Might points): You make a melee attack that inflicts
+  no damage. Instead, if the attack hits, make a second Might‑based
+  roll. If successful, a foe of level 3 or lower is knocked
+  unconscious for one minute. For each level of Effort used, you can
+  affect one higher level of foe, or you can extend the duration for
+  an additional minute. If you use a whiskey bottle to make the
+  attack, your attack is eased. If you have a similar sort of knockout
+  ability from another source (such as your type), the attack is eased
+  by an additional step. Action.
 
 Tier 5
 
-1.  Learned a Few Things Over Drinks: You are trained in two areas of
-    knowledge of your choice, or specialized in one area of knowledge of
-    your choice. Enabler.
+1. Learned a Few Things Over Drinks: You are trained in two areas of
+  knowledge of your choice, or specialized in one area of knowledge of
+  your choice. Enabler.
 
 Tier 6
 
@@ -1031,11 +1031,11 @@ to the normal options for using Effort, you can choose to use Effort to
 increase the cypher's level; each level of Effort used in this way
 increases the level by 1. Action.
 
-1.  Lethal Damage: Choose one of your existing attacks that deals damage
-    (depending on your type and focus, this might be a specific weapon,
-    your unarmed attacks, or maybe a bottle of whiskey). When you hit
-    with that attack, you inflict an additional 5 points of damage.
-    Enabler
+1. Lethal Damage: Choose one of your existing attacks that deals damage
+  (depending on your type and focus, this might be a specific weapon,
+  your unarmed attacks, or maybe a bottle of whiskey). When you hit
+  with that attack, you inflict an additional 5 points of damage.
+  Enabler
 
 Rides Like the Wind
 
@@ -1073,8 +1073,8 @@ Major Effect Suggestion: You can take a second action this round.
 
 Tier One
 
-1.  Rider: You are trained in riding any kind of creature that commonly
-    serves as a mount in the setting. Enabler.
+1. Rider: You are trained in riding any kind of creature that commonly
+  serves as a mount in the setting. Enabler.
 
 Trick Rider: You can make an attack with a light or medium ranged weapon
 and attempt a riding task as a single action. Riding tasks could be as
@@ -1084,11 +1084,11 @@ of your galloping mount, and so on. Enabler.
 
 Tier 2
 
-1.  Supernatural Jump (4 Speed points): You can use this ability in one
-    of two ways. If you're on your mount, you can move a long distance
-    from one location to another almost instantaneously, carried by the
-    creature you ride. You must be able to see the new location, and
-    there must be no intervening barriers.
+1. Supernatural Jump (4 Speed points): You can use this ability in one
+  of two ways. If you're on your mount, you can move a long distance
+  from one location to another almost instantaneously, carried by the
+  creature you ride. You must be able to see the new location, and
+  there must be no intervening barriers.
 
 Alternatively, you can use this ability to summon your mount from
 wherever it happens to be, leap up into the saddle, and use Trick Rider
@@ -1105,18 +1105,18 @@ Ability Choice: Choose either Enhanced Speed Edge or Nimble in the
 Saddle as a tier 3 ability. Either way, you also gain Expert Rider as a
 complementary tier 3 ability.
 
-1.  Enhanced Speed Edge: You gain +1 to your Speed Edge. Enabler.
+1. Enhanced Speed Edge: You gain +1 to your Speed Edge. Enabler.
 
 <!-- -->
 
-1.  Expert Rider: You are specialized in all tasks related to riding a
-    mount, including those pertinent to the care and healing of your
-    mount. Enabler.
+1. Expert Rider: You are specialized in all tasks related to riding a
+  mount, including those pertinent to the care and healing of your
+  mount. Enabler.
 
 <!-- -->
 
-1.  Nimble in the Saddle: Whether in the saddle or not, you've developed
-    amazing reflexes. You're trained in Speed defense tasks. Enabler.
+1. Nimble in the Saddle: Whether in the saddle or not, you've developed
+  amazing reflexes. You're trained in Speed defense tasks. Enabler.
 
 Tier 4
 
@@ -1128,8 +1128,8 @@ you that will also fit on your mount. Action to initiate.
 
 Tier 5
 
-1.  Dangerous When Mounted: When you attack from your saddle, you
-    inflict 3 additional points of damage. Enabler.
+1. Dangerous When Mounted: When you attack from your saddle, you
+  inflict 3 additional points of damage. Enabler.
 
 Tier 6
 
@@ -1197,26 +1197,26 @@ If you wish, you can swap one or two abilities gained from your type for
 one or two of the following. Ask your GM what reloading rules are like
 for pistols before choosing Reload.
 
-1.  Cogent Shot: You can spend points from either your Speed Pool or
-    your Intellect Pool to apply Effort to hit a target with a gun or
-    increase the damage inflicted doing so. Enabler.
+1. Cogent Shot: You can spend points from either your Speed Pool or
+  your Intellect Pool to apply Effort to hit a target with a gun or
+  increase the damage inflicted doing so. Enabler.
 
 <!-- -->
 
-1.  Reload (1 Speed point): When using a weapon that normally requires
-    an action to reload, you can reload and fire (or fire and reload) in
-    the same action. Enabler.
+1. Reload (1 Speed point): When using a weapon that normally requires
+  an action to reload, you can reload and fire (or fire and reload) in
+  the same action. Enabler.
 
 Tier 1
 
-1.  Smoldering Gun (1 Intellect point): Your gun blazes with flame for
-    ten minutes, glowing red and discharging a tendril of smoke from the
-    barrel. The flames don't burn you, but you inflict 1 additional
-    point of damage with the gun while it burns. While the gun burns, it
-    automatically flares when anyone tries to touch you or strike you
-    with a melee attack, dealing 2 points of damage to them. Flames from
-    another source can still hurt you. While your gun smolders, you gain
-    +1 Armor against damage from fire from another source.
+1. Smoldering Gun (1 Intellect point): Your gun blazes with flame for
+  ten minutes, glowing red and discharging a tendril of smoke from the
+  barrel. The flames don't burn you, but you inflict 1 additional
+  point of damage with the gun while it burns. While the gun burns, it
+  automatically flares when anyone tries to touch you or strike you
+  with a melee attack, dealing 2 points of damage to them. Flames from
+  another source can still hurt you. While your gun smolders, you gain
+  +1 Armor against damage from fire from another source.
 
 Alternate Energy: If you'd prefer another element or energy source, such
 as ice or necrotic energy, work with your GM to adjust this and related
@@ -1224,8 +1224,8 @@ abilities.
 
 Enabler.
 
-1.  Practiced With Guns: You are practiced with guns and suffer no
-    penalty when using one. Enabler.
+1. Practiced With Guns: You are practiced with guns and suffer no
+  penalty when using one. Enabler.
 
 Tier 2
 
@@ -1238,30 +1238,30 @@ Tier 3
 Ability Choice: Choose either Meticulous Aim or Quickdraw as your tier 3
 ability.
 
-1.  Meticulous Aim: If you spend an action lining up your shot while
-    Smoldering Gun is active, each level of Effort adds 5 points of
-    damage to a successful attack instead of 3. Enabler.
+1. Meticulous Aim: If you spend an action lining up your shot while
+  Smoldering Gun is active, each level of Effort adds 5 points of
+  damage to a successful attack instead of 3. Enabler.
 
 <!-- -->
 
-1.  Quickdraw: If you act first and your firearm is holstered, you can
-    draw and fire your weapon so blindingly fast that you gain a
-    surprise action against your foe, even if your foe was already aware
-    of your presence (but not if combat has already begun). This doesn't
-    allow your allies to act with surprise, only you. You have an asset
-    on the attack. On a successful hit, you inflict 2 additional points
-    of damage. Enabler.
+1. Quickdraw: If you act first and your firearm is holstered, you can
+  draw and fire your weapon so blindingly fast that you gain a
+  surprise action against your foe, even if your foe was already aware
+  of your presence (but not if combat has already begun). This doesn't
+  allow your allies to act with surprise, only you. You have an asset
+  on the attack. On a successful hit, you inflict 2 additional points
+  of damage. Enabler.
 
 Tier 4
 
-1.  Blazing Bullets (1+ Intellect points): While Smoldering Gun is
-    active, you inflict an additional 3 points of damage with your
-    chosen weapon (+4 points of damage total). In addition to the normal
-    options for using Effort, applying a level of Effort can cause the
-    bullet to explode on impact, potentially dealing damage to all
-    creatures in immediate range of your target; roll an attack for each
-    separately. Even if you miss, you still deal 1 point of damage with
-    fiery lead shrapnel. Enabler.
+1. Blazing Bullets (1+ Intellect points): While Smoldering Gun is
+  active, you inflict an additional 3 points of damage with your
+  chosen weapon (+4 points of damage total). In addition to the normal
+  options for using Effort, applying a level of Effort can cause the
+  bullet to explode on impact, potentially dealing damage to all
+  creatures in immediate range of your target; roll an attack for each
+  separately. Even if you miss, you still deal 1 point of damage with
+  fiery lead shrapnel. Enabler.
 
 Tier 5
 
@@ -1280,37 +1280,37 @@ Tier 6
 Ability Choice: Choose either Hot Shot or Never Miss a Shot as your tier
 6 ability.
 
-1.  Hot Shot: When you hit a target with a gun attack while Smoldering
-    Gun is active, you can choose to reduce the damage by 1 point but
-    gain an additional related effect and/or hit a target in a precise
-    spot. Possible effects include (but are not limited to) the
-    following: You can ignite a structure (if you succeed on an
-    Intellect‑based task against its level).
+1. Hot Shot: When you hit a target with a gun attack while Smoldering
+  Gun is active, you can choose to reduce the damage by 1 point but
+  gain an additional related effect and/or hit a target in a precise
+  spot. Possible effects include (but are not limited to) the
+  following: You can ignite a structure (if you succeed on an
+  Intellect‑based task against its level).
 
-    You can create a flaming message in the sky consisting of a handful
-    of words that lasts for up to a minute.
+  You can create a flaming message in the sky consisting of a handful
+  of words that lasts for up to a minute.
 
-    You can shoot an object out of someone's hand.
+  You can shoot an object out of someone's hand.
 
-    You can shoot the leg, wing, or other limb your target uses to move,
-    reducing their maximum movement speed to immediate for a few days or
-    until they receive expert medical care.
+  You can shoot the leg, wing, or other limb your target uses to move,
+  reducing their maximum movement speed to immediate for a few days or
+  until they receive expert medical care.
 
-    You can shoot a strap holding a backpack, armor, or a similarly
-    strapped‑on item so that it falls off.
+  You can shoot a strap holding a backpack, armor, or a similarly
+  strapped‑on item so that it falls off.
 
 Enabler.
 
-1.  Never Miss a Shot: If you shoot at a target and miss, reroll. If you
-    hit, it's because your shot ricochets off a nearby surface and
-    actually hits, inflicting 2 fewer points of damage. Each time you
-    reroll the same shot, 2 more points are deducted from the total
-    damage, until the wildly ricocheting shot finally hits its target or
-    the damage amount goes to 0. Enabler.
+1. Never Miss a Shot: If you shoot at a target and miss, reroll. If you
+  hit, it's because your shot ricochets off a nearby surface and
+  actually hits, inflicting 2 fewer points of damage. Each time you
+  reroll the same shot, 2 more points are deducted from the total
+  damage, until the wildly ricocheting shot finally hits its target or
+  the damage amount goes to 0. Enabler.
 
 <!-- -->
 
-1.  Strikes Like a Rattler
+1. Strikes Like a Rattler
 
 Your body is a venomous weapon able to cripple and kill. Watchful as a
 coiled rattlesnake, you're ready to evade an attacker, then strike back
@@ -1359,85 +1359,85 @@ the attack is hindered. Enabler.
 
 Tier 1
 
-1.  Venomous Strike (1+ Speed points): For ten minutes, your unarmed
-    attacks inflict 1 additional point of damage (ignores Armor) from
-    venom. Enabler.
+1. Venomous Strike (1+ Speed points): For ten minutes, your unarmed
+  attacks inflict 1 additional point of damage (ignores Armor) from
+  venom. Enabler.
 
 <!-- -->
 
-1.  Scaled (1+ Speed points): For one hour, your skin grows subtle,
-    supple scales in vulnerable places, granting you +1 to Armor if you
-    do not wear physical armor. Action to initiate.
+1. Scaled (1+ Speed points): For one hour, your skin grows subtle,
+  supple scales in vulnerable places, granting you +1 to Armor if you
+  do not wear physical armor. Action to initiate.
 
 Tier 2
 
-1.  Unarmed Fighting Style: You are trained in unarmed attacks, assuming
-    you're not already (because this ability provides no benefit if you
-    are). Enabler.
+1. Unarmed Fighting Style: You are trained in unarmed attacks, assuming
+  you're not already (because this ability provides no benefit if you
+  are). Enabler.
 
 <!-- -->
 
-1.  Snake Charmer (1+ Intellect points): You calm an ophidian creature
-    within short range. You must speak to it (though it doesn't need to
-    understand your words), and it must see you. It remains calm for one
-    minute or for as long as you focus all your attention on it. The GM
-    has final say over what counts as a snakelike creature, but unless
-    some kind of deception is at work, you should know whether you can
-    affect it before you attempt to use this ability on it. If you spend
-    1 additional Intellect point when you use this ability, you can calm
-    all nonhuman beasts, as the GM determines (aliens, demons, animals
-    that can speak, and forgeborn never count). Action.
+1. Snake Charmer (1+ Intellect points): You calm an ophidian creature
+  within short range. You must speak to it (though it doesn't need to
+  understand your words), and it must see you. It remains calm for one
+  minute or for as long as you focus all your attention on it. The GM
+  has final say over what counts as a snakelike creature, but unless
+  some kind of deception is at work, you should know whether you can
+  affect it before you attempt to use this ability on it. If you spend
+  1 additional Intellect point when you use this ability, you can calm
+  all nonhuman beasts, as the GM determines (aliens, demons, animals
+  that can speak, and forgeborn never count). Action.
 
 Tier 3
 
 Ability Choice: Choose either Gain Rattler Companion or Stupefying
 Rattle as your tier 3 ability.
 
-1.  Gain Rattler Companion: You gain a supernatural rattlesnake---a dust
-    diamondback---as a constant companion. It is over 10 feet (3 m) long
-    and follows your psychic commands. You'll probably make rolls for it
-    in combat or when it takes actions (or it can ease your attacks or
-    your defenses in combat). The companion acts on your turn. If your
-    companion dies, you can hunt in the badlands for a few days to find
-    a new one. Enabler.
+1. Gain Rattler Companion: You gain a supernatural rattlesnake---a dust
+  diamondback---as a constant companion. It is over 10 feet (3 m) long
+  and follows your psychic commands. You'll probably make rolls for it
+  in combat or when it takes actions (or it can ease your attacks or
+  your defenses in combat). The companion acts on your turn. If your
+  companion dies, you can hunt in the badlands for a few days to find
+  a new one. Enabler.
 
 Dust diamondback: level 3, Speed defense as level 4; health 12; bite
 deals 3 damage plus 1 Speed damage (ignores Armor) on a failed Might
 defense roll
 
-1.  Stupefying Rattle (4 Speed points): With a slithering flourish and a
-    ghost rattle echoing from some otherworldly source, you redirect a
-    melee attack that would otherwise hit you if you succeed on a
-    difficulty 2 Speed task. When you do, the misdirected attack hits
-    another creature you choose within immediate range of both you and
-    the attacking foe. Enabler.
+1. Stupefying Rattle (4 Speed points): With a slithering flourish and a
+  ghost rattle echoing from some otherworldly source, you redirect a
+  melee attack that would otherwise hit you if you succeed on a
+  difficulty 2 Speed task. When you do, the misdirected attack hits
+  another creature you choose within immediate range of both you and
+  the attacking foe. Enabler.
 
 Tier 4
 
-1.  Warmed by the Sun (2 Intellect points): After spending ten minutes
-    in the sun, a hot spring, or other such warm location, you gain a
-    free ten‑minute recovery roll. Once you use this ability, you can't
-    use it again until after your next ten‑hour recovery roll. Ten
-    minutes to activate.
+1. Warmed by the Sun (2 Intellect points): After spending ten minutes
+  in the sun, a hot spring, or other such warm location, you gain a
+  free ten‑minute recovery roll. Once you use this ability, you can't
+  use it again until after your next ten‑hour recovery roll. Ten
+  minutes to activate.
 
 Tier 5
 
-1.  Venom in Their Blood (5 Speed points): If you successfully attack a
-    creature that you previously damaged with Venomous Strike, you deal
-    9 additional points of damage. Once you use this ability, you can't
-    use it again during the current conflict. Enabler.
+1. Venom in Their Blood (5 Speed points): If you successfully attack a
+  creature that you previously damaged with Venomous Strike, you deal
+  9 additional points of damage. Once you use this ability, you can't
+  use it again during the current conflict. Enabler.
 
 Tier 6
 
 Ability Choice: Choose either Shed Skin or Spray Venom as your tier 6
 ability.
 
-1.  Shed Skin (7+ Speed points): You shed your normal likeness,
-    revealing a terrifying 30-foot (9 m) long rattlesnake. For one
-    minute, your abilities change as follows: You add 8 points to your
-    Speed Pool, 1 point to your Speed Edge, 2 points to your Intellect
-    Pool, and 1 point to your Intellect Edge; and you gain the "air
-    gliding" ability (you can fly a long distance each round).
+1. Shed Skin (7+ Speed points): You shed your normal likeness,
+  revealing a terrifying 30-foot (9 m) long rattlesnake. For one
+  minute, your abilities change as follows: You add 8 points to your
+  Speed Pool, 1 point to your Speed Edge, 2 points to your Intellect
+  Pool, and 1 point to your Intellect Edge; and you gain the "air
+  gliding" ability (you can fly a long distance each round).
 
 After reverting to your normal form, you lose the benefit of air
 gliding, your Edge values return to normal, and you must subtract the
@@ -1453,19 +1453,19 @@ Effort.
 
 Action to initiate.
 
-1.  Spray Venom (5+ Speed points): You hiss and release a spray of
-    burning, flesh‑dissolving venom at one target within short range,
-    inflicting 5 points of damage. Even on a miss, you inflict 1 point
-    of damage.
+1. Spray Venom (5+ Speed points): You hiss and release a spray of
+  burning, flesh‑dissolving venom at one target within short range,
+  inflicting 5 points of damage. Even on a miss, you inflict 1 point
+  of damage.
 
 <!-- -->
 
-1.  If you apply a level of Effort when you make an attack with this
-    ability (either to increase the odds of hitting or to increase
-    damage), you can also choose to spin about as you spray venom,
-    attacking every creature you choose within short range, and the
-    improved chance to hit or deal damage applies to each attack. As
-    with the base use, even on a miss, you inflict 1 point of damage.
-    However, spinning as you spray venom is dizzying, leaving you dazed
-    for a round afterward, during which time all your tasks are
-    hindered. Action.
+1. If you apply a level of Effort when you make an attack with this
+  ability (either to increase the odds of hitting or to increase
+  damage), you can also choose to spin about as you spray venom,
+  attacking every creature you choose within short range, and the
+  improved chance to hit or deal damage applies to each attack. As
+  with the base use, even on a miss, you inflict 1 point of damage.
+  However, spinning as you spray venom is dizzying, leaving you dazed
+  for a round afterward, during which time all your tasks are
+  hindered. Action.

@@ -19,7 +19,7 @@ id: Poison-Explosive
 
 Once this substance enters the bloodstream, it travels to the brain and reorganizes into an explosive that detonates when activated, inflicting 10 points of damage (ignores Armor). Roll a d100 to determine what activates the poison.
 
-|  Roll &nbsp; &nbsp; &nbsp; | Poison Explosive  |
+| Roll &nbsp; &nbsp; &nbsp; | Poison Explosive |
 | ------------- | :----------- |
 | 1-25 | The detonator is activated (must be within long range). |
 | 26-40 | A specified amount of time passes. |

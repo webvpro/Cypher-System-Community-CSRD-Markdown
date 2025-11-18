@@ -11,7 +11,7 @@ id: Fey-Cypher-Attraction
 ---
 
 ## Fey Cypher Attraction Table
-|  Roll &nbsp; &nbsp; | Fey Cypher Attraction  |
+| Roll &nbsp; &nbsp; | Fey Cypher Attraction |
 | ------------- | :----------- |
 | 1 | Steals one cypher |
 | 2 | Steals two cyphers |

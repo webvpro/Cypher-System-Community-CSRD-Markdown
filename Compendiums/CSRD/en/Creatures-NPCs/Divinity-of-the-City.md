@@ -18,12 +18,12 @@ id: Divinity-of-the-City
 
 Description text
 
-> **Level :**  8
+> **Level :** 8
 > **Health :** 75
 > **Damage :** 8 points
-> **Armor :**  4
-> **Movement :**  Short; long when flying
-> **Motive: **  Defense; protection; power
+> **Armor :** 4
+> **Movement :** Short; long when flying
+> **Motive: ** Defense; protection; power
 > **Environment: ** Urban landscapes
 
 >[!example] Combat
@@ -36,7 +36,7 @@ Description text
 >
 >>**Forever Space:** Creates an endless length of alleys, roads, or bridges between itself and all characters it chooses within long range. Characters must succeed on a level 5 Intellect defense task to find an exit. While moving through the forever space, characters take 2 points of Intellect damage (ignores Armor) each round.
 >
->>  **Heal:** The divinity heals themself, a creature, or an object for 5 points of damage.
+>> **Heal:** The divinity heals themself, a creature, or an object for 5 points of damage.
 >
 >> **Illusion:** Divinities can cast elaborate and convincing illusions over their domain, making the area seem more appealing, beautiful, or dangerous. Illusions cover up to a ten-block area and last for up to an hour. Seeing through one is a level 8 task.
 

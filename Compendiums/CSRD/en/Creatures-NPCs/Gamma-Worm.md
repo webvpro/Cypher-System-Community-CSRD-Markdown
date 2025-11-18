@@ -63,7 +63,7 @@ Roaches dislike bright illumination: in sunlight or other bright light, glowing 
 > none
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Glowing Roach Effects  |
+| Roll &nbsp; &nbsp; &nbsp; | Glowing Roach Effects |
 | ------------- | :----------- |
 | 1 | Head wound: Intellect defense tasks hindered |
 | 2 | Wounded leg: Speed defense tasks hindered |

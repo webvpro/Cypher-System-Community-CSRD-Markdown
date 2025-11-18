@@ -14,11 +14,11 @@ The characters should be relatively mundane people. No supernatural powers. Cyph
  >This is probably someone with the Sneaking type. The player should figure out the character’s name, a very short personality brief, what company they work for, and what their job is: data entry, customer service, accounts manager, and so on.
 #### PC 2 
 >This is probably someone with the Searching and Discovering type. The player should figure out the character’s name, a very short personality brief, and what company they work for.
-#### PC 3  
+#### PC 3 
 >The Talking type would work well for this character. The player should figure out the character’s name, a very short personality brief, and what company they work for.
-#### PC 4   
+#### PC 4  
 >This could be a Performing Physical Actions character, or possibly a Searching and Discovering character. The player should figure out the character’s name and a very short personality brief. They have keys to most of the doors of the building and know the layout well. They might also have something like a mop and wheeled bucket, or a cart with various cleaning supplies, if the player wishes.
-#### PC 5  
+#### PC 5 
 >This is probably someone with the Performing Physical Actions type. The player should figure out the character’s name and a very short personality brief. They have a weapon (a nightstick, a taser, or perhaps a handgun), and keys to most of the doors in the building. They know the layout well.
 
 >No one has any special equipment other than the typical: a cell phone, car keys, a half-drunk coffee, and maybe a briefcase with papers and pens or a tablet computer.

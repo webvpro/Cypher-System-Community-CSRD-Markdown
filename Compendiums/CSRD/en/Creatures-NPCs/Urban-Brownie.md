@@ -28,7 +28,7 @@ A brownie who feels insulted, disrespected, or unappreciated will quickly become
 > **Damage :** 3 or 6 points (see below)
 > **Armor :** 0
 > **Movement :** Short
-> **Motive:**  Comfort and security
+> **Motive:** Comfort and security
 
 > **Modifications**
 >- Speed defense and movement as level 4 due to size and quickness

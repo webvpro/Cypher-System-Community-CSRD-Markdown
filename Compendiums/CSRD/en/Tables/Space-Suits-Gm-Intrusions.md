@@ -11,7 +11,7 @@ id: Space-Suits-Gm-Intrusions
 ---
 
 ## Space Suits Gm Intrusions Table
-|  Roll &nbsp; &nbsp; | Space Suits Gm Intrusions  |
+| Roll &nbsp; &nbsp; | Space Suits Gm Intrusions |
 | ------------- | :----------- |
 | 1 | An ill-fitted suit (or one whose auto-fit function is malfunctioning) unexpectedly hinders the character's action |
 | 2 | Mechanical joints in the suit freeze unexpectedly, hindering all the character's actions (or completely paralyzing the character) until repairs can be made. |

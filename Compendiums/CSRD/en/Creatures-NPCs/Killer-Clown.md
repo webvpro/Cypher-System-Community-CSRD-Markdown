@@ -42,11 +42,11 @@ Some killer clowns know tricks that border on the supernatural. Such a clown may
 > The clown snatches a weapon, cypher, or other object from the character's hand as a level 6 attack, and if successful, immediately uses it on the character.
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Clown Trick  |
+| Roll &nbsp; &nbsp; &nbsp; | Clown Trick |
 | ------------- | :----------- |
 | 1 | Reveal a secret that one character is keeping from one or more of their allies. |
 | 2 | Poke target in the eyes as a level 6 attack, blinding target for one minute. |
 | 3 | Activate a trapdoor beneath victim that drops them 20 feet (6 m) into a cellar or basement. |
-| 4 | Disappear into secret door or hatch and reappear  somewhere hidden within short range. |
+| 4 | Disappear into secret door or hatch and reappear somewhere hidden within short range. |
 | 5 | Jab target in the throat as a level 6 attack; resulting coughing fit causes target to lose next action. |
 | 6 | Down an elixir or energy drink that heals the killer clown of all damage sustained. |

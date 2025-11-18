@@ -41,59 +41,59 @@ Construct the D20 Deck
 
 Here's how to construct a "d20 deck."
 
-1.  Choose two suits, one red and one black---say, gears (diamonds) and
-    eyes (spades).
+1. Choose two suits, one red and one black---say, gears (diamonds) and
+  eyes (spades).
 
-2.  Gather all the cards from each of your chosen suits from Ace to
-    King, then discard the Jack, King, and Queen from each.
+2. Gather all the cards from each of your chosen suits from Ace to
+  King, then discard the Jack, King, and Queen from each.
 
-3.  Combine the two sets of ten cards---this is your d20 deck!
+3. Combine the two sets of ten cards---this is your d20 deck!
 
-4.  Each card has an associated numerical value, as follows:
+4. Each card has an associated numerical value, as follows:
 
-  -------------------------------------------------------------
-  D20                            Card Value
-  ------------------------------ ------------------------------
-  1                              Ace of gears (diamonds)
+ -------------------------------------------------------------
+ D20              Card Value
+ ------------------------------ ------------------------------
+ 1               Ace of gears (diamonds)
 
-  2                              2 of gears (diamonds)
+ 2               2 of gears (diamonds)
 
-  3                              3 of gears (diamonds)
+ 3               3 of gears (diamonds)
 
-  4                              4 of gears (diamonds)
+ 4               4 of gears (diamonds)
 
-  5                              5 of gears (diamonds)
+ 5               5 of gears (diamonds)
 
-  6                              6 of gears (diamonds)
+ 6               6 of gears (diamonds)
 
-  7                              7 of gears (diamonds)
+ 7               7 of gears (diamonds)
 
-  8                              8 of gears (diamonds)
+ 8               8 of gears (diamonds)
 
-  9                              9 of gears (diamonds)
+ 9               9 of gears (diamonds)
 
-  10                             10 of gears (diamonds)
+ 10               10 of gears (diamonds)
 
-  11                             Ace of eyes (spades)
+ 11               Ace of eyes (spades)
 
-  12                             2 of eyes (spades)
+ 12               2 of eyes (spades)
 
-  13                             3 of eyes (spades)
+ 13               3 of eyes (spades)
 
-  14                             4 of eyes (spades)
+ 14               4 of eyes (spades)
 
-  15                             5 of eyes (spades)
+ 15               5 of eyes (spades)
 
-  16                             6 of eyes (spades)
+ 16               6 of eyes (spades)
 
-  17                             7 of eyes (spades)
+ 17               7 of eyes (spades)
 
-  18                             8 of eyes (spades)
+ 18               8 of eyes (spades)
 
-  19                             9 of eyes (spades)
+ 19               9 of eyes (spades)
 
-  20                             10 of eyes (spades)
-  -------------------------------------------------------------
+ 20               10 of eyes (spades)
+ -------------------------------------------------------------
 
 Using the D20 Deck
 
@@ -168,13 +168,13 @@ of the PC or PCs.
 Winning Initiative Benefits: The PC chooses one.
 
 - At any point during the showdown, the character can make one extra
-  attack.
+ attack.
 
 - The character adds +1 to their gun damage during the showdown.
 
 - The character gains an asset to their Speed defense during the
-  showdown.
+ showdown.
 
 - At any point in the encounter, the character can treat one result as a
-  natural 20. (If using the NPC option, an NPC hinders a PC's roll by
-  three steps.)
+ natural 20. (If using the NPC option, an NPC hinders a PC's roll by
+ three steps.)

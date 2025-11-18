@@ -45,7 +45,7 @@ In any group of four or more cannibals, there's probably one (revealed as a GM i
 > none
 
 
-|  Roll &nbsp; &nbsp; &nbsp; | Severing Bite Effects  |
+| Roll &nbsp; &nbsp; &nbsp; | Severing Bite Effects |
 | ------------- | :----------- |
 | 1 | End of nose |
 | 2 | Little finger |
