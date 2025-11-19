@@ -155,8 +155,7 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 • [[Lost]]
 
 ### Focus
-Your focus makes your character unique.
-It gives you benefits when you create your character and each time you ascend to the next tier. When you choose a focus, it gives you a first-tier ability, a special connection to one or more of your fellow PCs, and possibly some starting equipment.
+Your focus makes your character unique. It gives you benefits when you create your character and each time you ascend to the next tier. When you choose a focus, it gives you a first-tier ability, a special connection to one or more of your fellow PCs, and possibly some starting equipment.
 
 #### Suggested Foci for a Fairy Tale Game
 - [[Abides-in-Stone|Abides in Stone]]
@@ -269,22 +268,18 @@ To keep things easy, no matter what currency your characters use, think of money
 Additionally, if the PCs are completing a character arc, accomplishing a task, or doing some other type of action to receive a piece of equipment, you can use the price category to decide how complicated or difficult that task is. A moderately priced item likely requires completing a moderately difficult task, while an exorbitant item may require something that taxes the PCs and really puts their skills and dedication to the test.
 
 ### Signature Items
-In fairy tales, clothing, weapons, and other items that a character carries for a long time tend to be very personal and very important. They’re often unique and handcrafted,
-they may have names or stories that go with them, and because characters tend to keep them for a long time, they may have undergone repairs or have markings that tell something about the character’s background.
+In fairy tales, clothing, weapons, and other items that a character carries for a long time tend to be very personal and very important. They're often unique and handcrafted, they may have names or stories that go with them, and because characters tend to keep them for a long time, they may have undergone repairs or have markings that tell something about the character's background.
 ### Apparel and Armor
-In most cases, characters start out by wearing any type of clothing they choose. Typically (unless the GM decides otherwise or unless it is designated as armor),
-this clothing is purely for decorative and roleplaying purposes and offers no additional benefits.
+In most cases, characters start out by wearing any type of clothing they choose. Typically (unless the GM decides otherwise or unless it is designated as armor), this clothing is purely for decorative and roleplaying purposes and offers no additional benefits.
 
 However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks.
 ### Optional Rule: I Have That!
->In fairy tales, characters often have exactly the right mundane piece of equipment
-that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified
-> “Pocket Item” in that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
+>In fairy tales, characters often have exactly the right mundane piece of equipment that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don't have to keep exact track of their characters' mundane equipment; instead, they spend an amount to get an unspecified "Pocket Item" in that category. Then, when they're out in the world and realize they could solve a problem with an item, they can just say, "I have that!" and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
 >
 >Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
 >
->The GM has veto power over items that they don’t think you could have found or carried.
-Using the I Have That! rule doesn’t preclude PCs from also purchasing these items directly. For example, if a character who sews wants to buy a thimble and an inexpensive Pocket Item, they can. However, they cannot later turn the thimble into a Pocket Item; it remains a thimble.
+>The GM has veto power over items that they don't think you could have found or carried.
+Using the I Have That! rule doesn't preclude PCs from also purchasing these items directly. For example, if a character who sews wants to buy a thimble and an inexpensive Pocket Item, they can. However, they cannot later turn the thimble into a Pocket Item; it remains a thimble.
 
 #### Example Pocket Items
 ##### Inexpensive

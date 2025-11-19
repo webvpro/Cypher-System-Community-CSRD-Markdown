@@ -42,7 +42,6 @@ In some cases, the ideas here require minor changes to the flavor described in t
  > - **Druid (nature affinity):** [[Speaks-for-the-Land|Speaks for the Land]]
  > - **Druid (transformation):** [[Abides-in-Stone|Abides in Stone]], [[Takes-Animal-Shape|Takes Animal Shape*]], [[Walks-the-Wild-Woods|Walks the Wild Woods*]]
 
-
 ### Fighter
  > Fighters almost always have the [[Warrior|Warrior]] type, but some are [[Explorer|Explorers]]. A typical fighter probably has a direct focus like [[Masters-Weaponry|Masters Weaponry]] or [[Wields-an-Enchanted-Weapon|Wields an Enchanted Weapon*]]. For additional options based on choosing a specific fighting role, see the following:
  > - **Fighter (guardian):** [[Brandishes-an-Exotic-Shield|Brandishes an Exotic Shield]], [[Defends-the-Gate|Defends the Gate]], [[Masters-Defense|Masters Defense]], [[Never-Says-Die|Never Says Die]], [[Stands-Like-a-Bastion|Stands Like a Bastion]].
@@ -104,8 +103,6 @@ In some cases, the ideas here require minor changes to the flavor described in t
 
 ### Prepared Vs. Spontaneous Spellcasting
 >Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you’d like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
-
-
 ### New Foci
 > - [[Takes-Animal-Shape|Takes Animal Shape]]
 > - [[Uses-Wild-Magic]]

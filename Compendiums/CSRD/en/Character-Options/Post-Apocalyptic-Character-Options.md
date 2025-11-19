@@ -14,10 +14,7 @@ id: Post-Apocalyptic-Character-Options
 Characters who play out the apocalypse itself or who have just survived it and must pick up a few hours, days, or months after the end should choose from an alternate slate of roles. If you begin your game in such a setting, it makes much more sense to let your players choose roles for characters in a modern game.
 
 ### Descriptors
-In addition to the descriptors in the Cypher System Rulebook, you can widen the options
-available to the players, allowing them to choose from the descriptors presented here for
-their characters. A subset of the descriptors in this chapter are species descriptors, which
-may or may not be appropriate for your players, depending on your setting.
+In addition to the descriptors in the Cypher System Rulebook, you can widen the options available to the players, allowing them to choose from the descriptors presented here for their characters. A subset of the descriptors in this chapter are species descriptors, which may or may not be appropriate for your players, depending on your setting.
 
 #### Rust and Redemption Descriptors
 

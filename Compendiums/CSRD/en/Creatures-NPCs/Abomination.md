@@ -16,8 +16,6 @@ categories:
   - Fairytale
 id: Abomination
 ---
-
-
 ## Abomination
 An abomination is a hideous bestial humanoid covered with thickened plates of scarlet flesh. Their eyes shine with the stagnant glow of toxic waste dumps. Standing at least 7 feet (2 m) tall, abominations are drawn to movement. Always famished, they consume living prey in great tearing bites.
 

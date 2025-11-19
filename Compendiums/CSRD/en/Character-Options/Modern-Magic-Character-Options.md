@@ -14,8 +14,7 @@ id: Modern-Magic-Character-Options
 ---
 ## Modern Magic Character Options
 ### Descriptors
-Most of these descriptors are for characters who are or become significantly nonhuman
-nonhuman; for example, the Dragon descriptor means you’re a four-legged, winged dragon who can breathe flame. These descriptors include suggestions for how to advance or improve your inherent nature as that sort of creature (becoming even more dragonish if you are a Dragon, for example). The GM should allow a character with such a descriptor to choose any of these abilities (and any others the GM feels are appropriate for the descriptor) in place of a type ability, either upon advancing to a new tier or selecting them as an other option of character advancement by spending 4 XP.
+Most of these descriptors are for characters who are or become significantly nonhuman; for example, the Dragon descriptor means you're a four-legged, winged dragon who can breathe flame. These descriptors include suggestions for how to advance or improve your inherent nature as that sort of creature (becoming even more dragonish if you are a Dragon, for example). The GM should allow a character with such a descriptor to choose any of these abilities (and any others the GM feels are appropriate for the descriptor) in place of a type ability, either upon advancing to a new tier or selecting them as an other option of character advancement by spending 4 XP.
 
 #### It’s Only Magic Descriptors
 ##### [[Compendiums/CSRD/en/Descriptors/Chimera|Chimera]], [[Compendiums/CSRD/en/Descriptors/Dragon|Dragon]] , [[Compendiums/CSRD/en/Descriptors/Ghost|Ghost]], [[Hunter|Hunter]], [[Nix|Nix]], [[Sylph|Sylph]], [[Unmagical|Unmagical]]
@@ -90,10 +89,9 @@ The archetypes suggest how to assign your power shifts. This is an important asp
 >In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character.
 
 #### Power Source
-As you’re figuring out what type, descriptor, focus, and power shifts you want for
-your character, think about how you got your powers. Are you a mutant, born with special abilities? Do you have a high-tech costume with built-in nanotechnology? Are you a sorcerer, or maybe a psychic? The source of your powers is character flavor—for example, there’s no game mechanics difference between the mental powers of an alien member of a telepathic species, a human character who built a brain-augmenting helmet, or a faerie character from the starlight dimension who knows mind-magic. All three of those characters could have the same type, focus, descriptor, and power shifts, but they’d be very different people and have very different reasons for being a part of the RPG campaign.
+As you're figuring out what type, descriptor, focus, and power shifts you want for your character, think about how you got your powers. Are you a mutant, born with special abilities? Do you have a high-tech costume with built-in nanotechnology? Are you a sorcerer, or maybe a psychic? The source of your powers is character flavor—for example, there's no game mechanics difference between the mental powers of an alien member of a telepathic species, a human character who built a brain-augmenting helmet, or a faerie character from the starlight dimension who knows mind-magic. All three of those characters could have the same type, focus, descriptor, and power shifts, but they'd be very different people and have very different reasons for being a part of the RPG campaign.
 
->If you can’t decide how you got your powers, or if you like leaving some things up to chance, try rolling once or twice on the Power Origin table and pick the result that you like better, or combine the two into something weird and unique.
+>If you can't decide how you got your powers, or if you like leaving some things up to chance, try rolling once or twice on the Power Origin table and pick the result that you like better, or combine the two into something weird and unique.
 
 ##### Power Origin Table
 | d100 | Origin                            |
@@ -154,9 +152,8 @@ your character, think about how you got your powers. Are you a mutant, born with
 | 00  | Unusual weather                        |
 
 #### Starting Just Past Tier 1
-An interesting option for a GM starting a superhero campaign is to immediately give each PC 4 XP, which they must spend on a special advancement option to gain another type ability. It’s another way (along with power shifts) to make new superhero PCs feel a cut above player characters in other genres—and gives players a little more wiggle room in building the character they want to play.
+An interesting option for a GM starting a superhero campaign is to immediately give each PC 4 XP, which they must spend on a special advancement option to gain another type ability. It's another way (along with power shifts) to make new superhero PCs feel a cut above player characters in other genres—and gives players a little more wiggle room in building the character they want to play.
 
 #### Random Superpowers
-The following table has a broad selection of powers (or in some cases, sets of related powers). Players who are stuck for ideas about their superhero can roll once or twice on the table for inspiration; use the Example column for a suggested game example of that kind of power, whether that’s a power shift, a hero archetype, a focus, or a specific special ability (of course, these suggestions aren’t the only way to achieve that power).
-The GM can also use this table to come up with random abilities for supervillains. However, there is much more leeway in designing NPC abilities, so the Example column is more for suggesting game mechanics than abilities to choose.
+The following table has a broad selection of powers (or in some cases, sets of related powers). Players who are stuck for ideas about their superhero can roll once or twice on the table for inspiration; use the Example column for a suggested game example of that kind of power, whether that's a power shift, a hero archetype, a focus, or a specific special ability (of course, these suggestions aren't the only way to achieve that power). The GM can also use this table to come up with random abilities for supervillains. However, there is much more leeway in designing NPC abilities, so the Example column is more for suggesting game mechanics than abilities to choose.
 
