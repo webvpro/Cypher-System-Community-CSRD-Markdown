@@ -15,7 +15,7 @@ id: Superhero-Character-Options
 ---
 ## Superhero Character Options
 ### Descriptors
-> This section presents new descriptors meant specifically for a superhero game.
+This section presents new descriptors meant specifically for a superhero game.
 > #### [[Amazing]]
 > #### [[Incredible|Incredible]]
 > #### [[Mighty]]

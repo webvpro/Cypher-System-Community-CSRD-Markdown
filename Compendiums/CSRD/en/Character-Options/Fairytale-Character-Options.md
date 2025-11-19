@@ -45,8 +45,6 @@ In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, 
 
 Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
 
-
-
 ### Skills
 As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include:
 • Talking animals*

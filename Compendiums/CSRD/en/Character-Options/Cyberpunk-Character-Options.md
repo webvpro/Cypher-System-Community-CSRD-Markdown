@@ -28,20 +28,13 @@ Cyberpunk is a near-future genre where technology and firearms are common. To ac
 In a cyberpunk world, easy access to computers, hacking, and cybernetics means that all characters (regardless of type) can choose the following type abilities. Unlike choosing an ability from a flavor, the character isn't required to permanently give up access to one of their type's abilities—all of these options are in addition to the possible choices from their type's ability list.
 
 ### Tier 1
-**Optical Hack (2+ Intellect points):** You reboot the technological optical sensors of a target within short range (such as a robot, surveillance camera, or person with cybernetic optics). If your Intellect-based attack against them succeeds, the target is blinded for one round. In addition to the normal options for using Effort, you can choose to use Effort to increase the range (long for one level of Effort, very long for two, or 1000 feet (300 m) for three). Action. ^optical-hack
-
-A blinded foe acts as if they're in total darkness; if the attacker has a sense of where the opponent might be (such as hearing them speak), their attack is only hindered by four steps, otherwise the attack automatically fails.
-
-**Overheat Hack (1 Intellect point):** You overheat the electrical system of a creature (such as a robot or cyberware-equipped person) or electronic object (such as a computer or technological vehicle) within short range that you can see. If your Intellect-based attack succeeds against the creature, you inflict 3 points of fire damage. If the target is an object rather than a creature (such as a computer or vehicle), this attack is eased. Action. ^overheat-hack
-
-Abilities that are hacks require you to use a computer interface or cyberware (such as a communication implant) to affect your foe.
-
-**Sensor Scan (2 Intellect points):** You scan an area equal in size to a 10-foot (3 m) cube, including all objects or creatures within that area; the results of your scan are compared to a database of information (facial recognition, object recognition, police database, and so on) to determine what it is you're looking at. The area must be within short range. Scanning a creature or object always reveals its level. You also learn whatever facts the GM feels are pertinent about the objects and creatures in that area. For example, you might learn that a device is made of metal, plastic, and electronics. You might learn a person's name, occupation, whether or not they have any standard cybernetics, and that they have several outstanding parking tickets. You might learn that the creature in front of you is an exotic mammal (such as a tapir), and that owning it requires an expensive permit. However, this ability doesn't tell you what the information means. Thus, in the first example, you don't know what the metal and plastic device does—it might be a radio or a land mine. In the second, you don't know the person is intent on harming you. In the third, you don't know if the creature is dangerous. The information you do get from the initial scan probably gives you enough of a lead to perform an internet search to find more information. Many materials (such as lead shielding, a Faraday cage, or concrete) prevent or hinder scanning. Action. ^sensor-scan
+- [[Optical-Hack|Optical Hack]]
+- [[Overheat-Hack|Overheat Hack]]
+- [[Sensor-Scan|Sensor Scan]]
 
 ### Tier 2
-**Armored Chrome:** You have +1 to Armor if you do not wear physical armor. You can only select this ability if you have at least three significant pieces of cyberware that (at the GM's discretion) are durable enough to provide some protection from attacks. Enabler. ^armored-chrome
-
-**Bonus Cypher App:** You can bear one additional app cypher (your cypher limit increases by one, but only if the extra cypher is an app cypher). When you advance to a tier where you can select Expert Cypher Use, Adroit Cypher Use, or Master Cypher Use, you can replace this ability with the cypher ability you qualify for. ^bonus-cypher-app
+- [[Armored-Chrome|Armored Chrome]]
+- [[Bonus-Cypher-App|Bonus Cypher App]]
 
 ## Hacks
 A hack is an attempt to control, override, shut down, or influence a computer system, usually performed by exploiting a weakness in the system, such as spoofing an administrator's login, using a "back door" to access information, or uploading a virus to unlock functions that a typical user can't access.
@@ -90,7 +83,7 @@ First-tier Solos have the following abilities:
 - [[Improved-Edge|Improved Edge]]
 - [[Machine-Interface|Machine Interface]]
 - [[No-Need-for-Weapons|No Need for Weapons]]
-- [[#^optical-hack|Optical Hack]]
+- [[Optical-Hack|Optical Hack]]
 - [[Overwatch|Overwatch]]
 - [[Physical-Skills|Physical Skills]]
 - [[Practiced-in-Armor|Practiced in Armor]]
@@ -100,7 +93,7 @@ Most people in a cyberpunk setting don't wear armor, except maybe a flak jacket 
 - [[Quick-Throw|Quick Throw]]
 - [[Scramble-Machine]] 
 	Scramble Machine counts as a hack
-- [[#^sensor-scan|Sensor Scan]]
+- [[Sensor-Scan|Sensor Scan]]
 - [[Swipe|Swipe]]
 - [[Tech-Skills|Tech Skills]]
 - [[Tinker|Tinker]]
@@ -108,8 +101,8 @@ Most people in a cyberpunk setting don't wear armor, except maybe a flak jacket 
 
 ### Second-Tier Solo
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
-- [[#^armored-chrome|Armored Chrome]]
-- [[#^bonus-cypher-app|Bonus Cypher App]]
+- [[Armored-Chrome|Armored Chrome]]
+- [[Bonus-Cypher-App|Bonus Cypher App]]
 - [[Crushing-Blow|Crushing Blow]]
 - [[Distant-Interface|Distant Interface]]
 	Distant Interface counts as a hack. You can use it to affect a foe's cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you've never interacted with before).
@@ -207,8 +200,8 @@ First-tier Hotshots have the following abilities:
 - [[Machine-Interface|Machine Interface]]
 - [[Muscles-of-Iron|Muscles of Iron]]
 - [[No-Need-for-Weapons]]
-- [[#^optical-hack|Optical Hack]]
-- [[#^overheat-hack|Overheat Hack]]
+- [[Optical-Hack|Optical Hack]]
+- [[Overheat-Hack|Overheat Hack]]
 - [[Physical-Skills|Physical Skills]]
 - [[Practiced-in-Armor|Practiced in Armor]]
 
@@ -217,7 +210,7 @@ Most people in a cyberpunk setting don't wear armor, except maybe a flak jacket 
 - [[Practiced-With-All-Weapons|Practiced With All Weapons]]
 - [[Scramble-Machine|Scramble Machine]]
 	Scramble Machine counts as a hack.
-- [[#^sensor-scan|Sensor Scan]]
+- [[Sensor-Scan|Sensor Scan]]
 - [[Surging-Confidence|Surging Confidence]]
 - [[Tech-Skills|Tech Skills]]
 - [[Tinker|Tinker]]
@@ -225,8 +218,8 @@ Most people in a cyberpunk setting don't wear armor, except maybe a flak jacket 
 
 ### Second-Tier Hotshot
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
-- [[#^armored-chrome|Armored Chrome]]
-- [[#^bonus-cypher-app|Bonus Cypher App]]
+- [[Armored-Chrome|Armored Chrome]]
+- [[Bonus-Cypher-App|Bonus Cypher App]]
 - [[Curious|Curious]]
 - [[Danger-Instinct|Danger Instinct]]
 - [[Distant-Interface|Distant Interface]]  
@@ -335,23 +328,23 @@ First-tier Brokers have the following abilities:
 - [[Interaction-Skills|Interaction Skills]]
 - [[Knowledge-Skills|Knowledge Skills]]
 - [[Machine-Interface|Machine Interface]]
-- [[#^optical-hack|Optical Hack]]
-- [[#^overheat-hack|Overheat Hack]]
+- [[Optical-Hack|Optical Hack]]
+- [[Overheat-Hack|Overheat Hack]]
 - [[Practiced-With-Medium-Weapons|Practiced With Medium Weapons]]
 - [[Scramble-Machine|Scramble Machine]]
   Scramble Machine counts as a hack.
-- [[#^sensor-scan|Sensor Scan]]
+- [[Sensor-Scan|Sensor Scan]]
 - [[Spin-Identity|Spin Identity]]
 - [[Tech-Skills|Tech Skills]]
 - [[Tinker|Tinker]]
-- **Translation App:** You have adaptive learning software installed in your communicator implant. After hearing an unfamiliar human language spoken for a few minutes, the software deciphers the language and translates it for you, either directly into your ear or in your vision as holophone subtitles. If you choose, you can have the software translate what you say into this language, projecting it audibly from an implanted speaker. The software's translation improves the longer it can listen to a source language, picking up idioms and slang after a few hours. Enabler. ^translation-app
+- [[Translation-App|Translation App]]
 - [[Understanding|Understanding]]
 
 ### Second-Tier Broker
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
-- [[#^armored-chrome|Armored Chrome]]
+- [[Armored-Chrome|Armored Chrome]]
 - [[Basic-Follower|Basic Follower]]
-- [[#^bonus-cypher-app|Bonus Cypher App]]
+- [[Bonus-Cypher-App|Bonus Cypher App]]
 - [[Calm-Stranger|Calm Stranger]]
 - [[Disincentivize|Disincentivize]]
 - [[Distant-Interface|Distant Interface]]
@@ -367,7 +360,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
 - [[Adroit-Cypher-Use|Adroit Cypher Use]]
-- **Beckon Hack (3 Intellect points):** You hack a foe's brain implant, tricking them into hearing or seeing something they think they need to investigate. They might interpret this as someone calling their name, an ally waving for them to approach, or a text message asking them to move to a specific location. If your Intellect-based roll against the creature is successful, on their next turn they move up to a short distance to where you indicated, without thinking anything is amiss. The foe must be within short range and able to understand you. The command can't inflict direct harm on the creature or its allies, so you can't make them step off of a roof or into a trash compactor. Once the creature moves to the designated location, they are free to act normally (depending on the circumstances, they might think they imagined or misheard the call, that someone is playing a trick on them, or there is something suspicious going on). The foe can still defend themselves normally and return an attack if one is made on them. Action. ^beckon-hack
+- [[Beckon-Hack|Beckon Hack]]
 - [[Blend-In|Blend In]]
 - [[Expert-Cypher-Use|Expert Cypher Use]]
 - [[Expert-Follower|Expert Follower]]
@@ -400,9 +393,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - [[Discipline-of-Watchfulness|Discipline of Watchfulness]]
 - [[Experienced-in-Armor|Experienced in Armor]]
 - [[Knowing-the-Unknown|Knowing the Unknown]]
-- **Peaceblock Hack (4+ Intellect points):** You hack a foe's brain implant, triggering pain whenever they attempt to harm a creature you specify. The foe must be level 3 or lower and within short range. For the next minute, the foe's harmful actions against the designated creature are hindered by two steps, and the foe automatically take 4 points of Intellect damage (ignores Armor) every time they try to touch, strike, or harm the designated creature. The foe immediately recognizes (without needing to attack first) that acting against the creature will be harmful. The foe knows when the effect ends, remembers the earlier aversion, and can immediately act normally.
-  In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target or increase the duration by one minute. Thus, to peaceblock a level 6 target (three levels above the normal limit) or block them for four minutes (three minutes above the normal duration), you must apply three levels of Effort.
-  Action to initiate. ^peaceblock-hack
+- [[Peaceblock-Hack|Peaceblock Hack]]
 - [[Skill-With-Attacks|Skill With Attacks]]
 - [[Stimulate|Stimulate]]
 
@@ -451,37 +442,36 @@ First-tier Techs have the following abilities:
 - [[Interaction-Skills|Interaction Skills]]
 - [[Knowledge-Skills|Knowledge Skills]]
 - [[Machine-Interface|Machine Interface]]
-- [[#^optical-hack|Optical Hack]]
-- [[#^overheat-hack|Overheat Hack]]
+- [[Optical-Hack|Optical Hack]]
+- [[Overheat-Hack|Overheat Hack]]
 - [[Scramble-Machine|Scramble Machine]] 
   Scramble Machine counts as a hack.
-- [[#^sensor-scan|Sensor Scan]]
+- [[Sensor-Scan|Sensor Scan]]
 - [[Tech-Skills|Tech Skills]]
 - [[Tinker|Tinker]]
 
 ### Second-Tier Tech
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - [[Adaptation|Adaptation]]
-- [[#^armored-chrome|Armored Chrome]]
-- [[#^bonus-cypher-app|Bonus Cypher App]]
-- **Corpse Datadump (3 Intellect points):** You touch the remains of a recently killed creature and make an Intellect-based roll to read data from its brain cybernetics. The GM sets the difficulty based on the amount of time that has passed since the creature died. A creature that has been dead for only a few minutes is a difficulty 2 task, one that has been dead for an hour is a difficulty 4 task, and one that has been dead for a few days is a difficulty 9 task. If you succeed, you can browse the corpse's memories in a virtual environment as if you were speaking to its living self. This lasts about one minute, after which time the environment degrades. The creature is limited to what it knew in life, though it cannot recall minor memories, only big events of importance to it. When the effect ends, or if you fail the roll, the creature's memory data becomes corrupted and you can gain no further information from it. Action. ^corpse-datadump
+- [[Armored-Chrome|Armored Chrome]]
+- [[Bonus-Cypher-App|Bonus Cypher App]]
+- [[Corpse-Datadump|Corpse Datadump]]
 - [[Cutting-Light|Cutting Light]]
 - [[Distant-Interface|Distant Interface]]
   Distant Interface counts as a hack. You can use it to affect a foe's cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you've never interacted with before).
 - [[Extra-Skill|Extra Skill]]
 - [[Machine-Efficiency|Machine Efficiency]]
-- **Paralysis Hack (3 Intellect points):** You target a foe's brain implants in an attempt to override their voluntary movement for one minute, freezing them solid with the strength of their own muscles. You must be able to see the target, and it must be within short range. Harming the foe, roughly moving them, or forcing their body to work against their own rigid muscles (such as bending their arms behind their back so you can handcuff them) ends the effect. You can't use this ability on a creature that doesn't have any brain implants. Action. ^paralysis-hack
+- [[Paralysis-Hack|Paralysis Hack]]
 - [[Understanding|Understanding]]
 
 ### Third-Tier Tech
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - [[Adroit-Cypher-Use|Adroit Cypher Use]]
-- [[#^beckon-hack|Beckon Hack]]
+- [[Beckon-Hack|Beckon Hack]]
 - [[Countermeasures|Countermeasures]]
 - [[Flex-Skill|Flex Skill]]
 - [[Improvise|Improvise]]
-- **Sensor Hack (4 Intellect points):** You establish a connection with a camera-enabled device within short range, such as a security camera, smart TV or game console camera, optical cyberware of a creature (living or dead), or a mobile phone. At any time during the next 24 hours, you can see through this camera, no matter how far you move from it. (If the device also has a microphone, you can hear through that when you look through it.) Action to create; action to check.
-  Obviously, Sensor Hack is a hack, meaning that your connection with the device can be detected and counter-hacked, although it's much harder to do so when you're not actively using the camera. ^sensor-hack-tech
+- [[Sensor-Hack|Sensor Hack]]
 - [[Skill-With-Defense|Skill With Defense]]
 - [[Spray|Spray]]
 - [[Targeting-Eye|Targeting Eye]]
@@ -489,9 +479,9 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 ### Fourth-Tier Tech
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - [[Death-Touch|Death Touch]]
-- **Limited Camouflage (3 Speed points):** You activate camouflage software that alters your appearance to match an adjacent large object such as a wall, cabinet, or vehicle. Everyone who was observing you completely loses track of you. Although you're not invisible, you can't be seen until you reveal yourself again by making an attack or moving away from the object. Action. ^limited-camouflage
+- [[Limited-Camouflage|Limited Camouflage]]
 - [[Multiple-Skills|Multiple Skills]]
-- [[#^peaceblock-hack|Peaceblock Hack]]
+- [[Peaceblock-Hack|Peaceblock Hack]]
 - [[Projection|Projection]]
   Projection requires a device with holographic capability be within an immediate distance of the desired location. Alternatively, you can project your image into the optic devices of any creatures in the area.
 - [[Robot-Fighter|Robot Fighter]]
@@ -505,14 +495,14 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - [[Practiced-With-Medium-Weapons|Practiced With Medium Weapons]]
 - [[Read-the-Signs|Read the Signs]]
 - [[True-Senses|True Senses]]
-- **Zeerosh Prime Delivery (6 Intellect points):** You place an order for an item from the Zeerosh company (or a megacorp that fills a similar role in your GM's cyberpunk setting) which is delivered to you within a few rounds. You can order any item you choose that would ordinarily have a crafting difficulty of 5 or lower and costs up to 1,000. Once created, the item lasts for a number of hours equal to 6 minus the difficulty to create it. Thus, if you create a set of sturdy manacles (difficulty 5), it would last for one hour. Action.
-	Zeerosh products are low-quality and tend to break quickly, but their custom 3D-printing and rapid delivery service for important customers are top notch. ^zeerosh-prime-delivery
+- [[Zeerosh-Prime-Delivery|Zeerosh Prime Delivery]]
+
 ### Sixth-Tier Tech
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - [[Amplify-Sounds|Amplify Sounds]]
-- **SHITS Hack (7 Intellect points):** A foe within short range temporarily experiences SHITS and spends its next turn attacking the nearest creature (if multiple creatures are the same distance away, you can choose which one they attack). As long as you continue to use your action each turn to maintain this berserk state in the target, they continue to attack the nearest creature (switching to a new creature if their current target drops). This effect ends when you stop using your action to control the foe, or if they are out of short range. Action to initiate. ^shits-hack
+- [[SHITS-Hack|SHITS Hack]]
 - [[Divide-Your-Mind|Divide Your Mind]]
-- **Question the Network (5 Intellect points):** You send a digital query to any or all machines within 1 mile (1.5 km). Depending on the circumstances, this might be a wireless communication or transmitted through a hard data connection. You can ask one basic question about the machines or anything happening near them and receive a simple answer. For example, while in an area with many machines, you could ask about the location of a specific creature or individual, and if they are within a mile of you, one or more machines will probably provide the answer. Action. ^question-the-network
+- [[Question-the-Network|Question the Network]]
 - [[Shatter-Mind|Shatter Mind]]
 - [[Skill-With-Attacks|Skill With Attacks]]
 - [[Skill-With-Defense|Skill With Defense]]
